@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-14 04:16:50 UTC`
+📆 Last Updated: `2023-03-14 05:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,28 +15,28 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 2 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 1 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 2 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 3 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 4 | [England](http://twitter.com/search?q=England) | N/A |
-| 5 | [rekdal](http://twitter.com/search?q=rekdal) | N/A |
-| 6 | [Viking](http://twitter.com/search?q=Viking) | N/A |
-| 7 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
-| 8 | [kristiansand](http://twitter.com/search?q=kristiansand) | N/A |
-| 9 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 10 | [problemet](http://twitter.com/search?q=problemet) | N/A |
-| 11 | [fosen](http://twitter.com/search?q=fosen) | N/A |
-| 12 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
-| 13 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 14 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 15 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
-| 16 | [kjenner](http://twitter.com/search?q=kjenner) | N/A |
-| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 18 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
-| 19 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 20 | [Spania](http://twitter.com/search?q=Spania) | N/A |
-| 21 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
-| 22 | [sveits](http://twitter.com/search?q=sveits) | N/A |
+| 5 | [Viking](http://twitter.com/search?q=Viking) | N/A |
+| 6 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
+| 7 | [kristiansand](http://twitter.com/search?q=kristiansand) | N/A |
+| 8 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 9 | [problemet](http://twitter.com/search?q=problemet) | N/A |
+| 10 | [fosen](http://twitter.com/search?q=fosen) | N/A |
+| 11 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
+| 12 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
+| 13 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 14 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
+| 15 | [kjenner](http://twitter.com/search?q=kjenner) | N/A |
+| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 17 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
+| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 19 | [spania](http://twitter.com/search?q=spania) | N/A |
+| 20 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
+| 21 | [Rekdal](http://twitter.com/search?q=Rekdal) | N/A |
+| 22 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 23 | [Molde](http://twitter.com/search?q=Molde) | N/A |
 | 24 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
 | 25 | [Tenk](http://twitter.com/search?q=Tenk) | N/A |
@@ -46,11 +46,11 @@ This is top 50 for [Norway](</Norway>)
 | 29 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 30 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 31 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 32 | [listhaug](http://twitter.com/search?q=listhaug) | N/A |
-| 33 | [Fikk](http://twitter.com/search?q=Fikk) | N/A |
-| 34 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
-| 35 | [Norwegian](http://twitter.com/search?q=Norwegian) | N/A |
-| 36 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 32 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 33 | [listhaug](http://twitter.com/search?q=listhaug) | N/A |
+| 34 | [Fikk](http://twitter.com/search?q=Fikk) | N/A |
+| 35 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
+| 36 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
 | 37 | [t-banen](http://twitter.com/search?q=t-banen) | N/A |
 | 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 39 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
@@ -58,12 +58,12 @@ This is top 50 for [Norway](</Norway>)
 | 41 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
 | 42 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 43 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 44 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 45 | [utrolig](http://twitter.com/search?q=utrolig) | N/A |
-| 46 | [tromsø](http://twitter.com/search?q=troms%c3%b8) | N/A |
-| 47 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 48 | [fantastisk](http://twitter.com/search?q=fantastisk) | N/A |
-| 49 | [tøyen](http://twitter.com/search?q=t%c3%b8yen) | N/A |
+| 44 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 45 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
+| 46 | [utrolig](http://twitter.com/search?q=utrolig) | N/A |
+| 47 | [tromsø](http://twitter.com/search?q=troms%c3%b8) | N/A |
+| 48 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 49 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 
 
 

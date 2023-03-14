@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-03-14 04:16:42 UTC`
+📆 Last Updated: `2023-03-14 05:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Argentina](</Argentina>)
 | 4 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
 | 5 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
 | 6 | [Marita](http://twitter.com/search?q=Marita) | N/A |
-| 7 | [Analia](http://twitter.com/search?q=Analia) | N/A |
-| 8 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
-| 9 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
-| 10 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
-| 11 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 12 | [#apagonGH](http://twitter.com/search?q=%23apagonGH) | N/A |
-| 13 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 14 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
-| 15 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 16 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
-| 17 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
-| 18 | [#GranArmado](http://twitter.com/search?q=%23GranArmado) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 21 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
-| 22 | [BOFFE TE AMAMOS](http://twitter.com/search?q=BOFFE+TE+AMAMOS) | N/A |
-| 23 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 24 | [#GHArgentina](http://twitter.com/search?q=%23GHArgentina) | N/A |
-| 25 | [#GranAcomodo](http://twitter.com/search?q=%23GranAcomodo) | N/A |
-| 26 | [Newell](http://twitter.com/search?q=Newell) | N/A |
-| 27 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 28 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 29 | [Florentin](http://twitter.com/search?q=Florentin) | N/A |
-| 30 | [Mansilla](http://twitter.com/search?q=Mansilla) | N/A |
-| 31 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 32 | [Cero](http://twitter.com/search?q=Cero) | N/A |
-| 33 | [Ditta](http://twitter.com/search?q=Ditta) | N/A |
-| 34 | [Pitton](http://twitter.com/search?q=Pitton) | N/A |
-| 35 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
-| 36 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 7 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 8 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
+| 9 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
+| 10 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 11 | [Franchin](http://twitter.com/search?q=Franchin) | N/A |
+| 12 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
+| 13 | [#apagonGH](http://twitter.com/search?q=%23apagonGH) | N/A |
+| 14 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 15 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
+| 16 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 17 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [El Dibu](http://twitter.com/search?q=El+Dibu) | N/A |
+| 20 | [#GranArmado](http://twitter.com/search?q=%23GranArmado) | N/A |
+| 21 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
+| 22 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
+| 23 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 24 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
+| 25 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
+| 26 | [Florentin](http://twitter.com/search?q=Florentin) | N/A |
+| 27 | [#GranAcomodo](http://twitter.com/search?q=%23GranAcomodo) | N/A |
+| 28 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 29 | [BOFFE TE AMAMOS](http://twitter.com/search?q=BOFFE+TE+AMAMOS) | N/A |
+| 30 | [#GHArgentina](http://twitter.com/search?q=%23GHArgentina) | N/A |
+| 31 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 32 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 33 | [Pitton](http://twitter.com/search?q=Pitton) | N/A |
+| 34 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
+| 35 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 36 | [Newell](http://twitter.com/search?q=Newell) | N/A |
 | 37 | [Prestianni](http://twitter.com/search?q=Prestianni) | N/A |
-| 38 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
-| 39 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 40 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
-| 41 | [Platense](http://twitter.com/search?q=Platense) | N/A |
-| 42 | [Feli](http://twitter.com/search?q=Feli) | N/A |
-| 43 | [Francisco Delgado](http://twitter.com/search?q=Francisco+Delgado) | N/A |
-| 44 | [LA VIDA ES BELLA](http://twitter.com/search?q=LA+VIDA+ES+BELLA) | N/A |
-| 45 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 46 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
-| 47 | [Taborda](http://twitter.com/search?q=Taborda) | N/A |
+| 38 | [Ditta](http://twitter.com/search?q=Ditta) | N/A |
+| 39 | [Cero](http://twitter.com/search?q=Cero) | N/A |
+| 40 | [Feli](http://twitter.com/search?q=Feli) | N/A |
+| 41 | [Mansilla](http://twitter.com/search?q=Mansilla) | N/A |
+| 42 | [Francisco Delgado](http://twitter.com/search?q=Francisco+Delgado) | N/A |
+| 43 | [LA VIDA ES BELLA](http://twitter.com/search?q=LA+VIDA+ES+BELLA) | N/A |
+| 44 | [Platense](http://twitter.com/search?q=Platense) | N/A |
+| 45 | [Taborda](http://twitter.com/search?q=Taborda) | N/A |
+| 46 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
+| 47 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
 | 48 | [Pobre Camila](http://twitter.com/search?q=Pobre+Camila) | N/A |
-| 49 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
+| 49 | [Jara](http://twitter.com/search?q=Jara) | N/A |
 | 50 | [Blaquier](http://twitter.com/search?q=Blaquier) | N/A |
 
 

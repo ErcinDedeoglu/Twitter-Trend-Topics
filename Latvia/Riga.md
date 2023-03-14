@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-14 04:16:49 UTC`
+📆 Last Updated: `2023-03-14 05:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,20 +15,22 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [latviju](http://twitter.com/search?q=latviju) | N/A |
-| 2 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 3 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
-| 4 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 1 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 2 | [latviju](http://twitter.com/search?q=latviju) | N/A |
+| 3 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 4 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
 | 5 | [Neko](http://twitter.com/search?q=Neko) | N/A |
 | 6 | [latvijai](http://twitter.com/search?q=latvijai) | N/A |
 | 7 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
 | 8 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
-| 9 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
-| 10 | [visu](http://twitter.com/search?q=visu) | N/A |
-| 11 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 12 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
-| 13 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 14 | [Eiropā](http://twitter.com/search?q=Eirop%c4%81) | N/A |
+| 9 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
+| 10 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
+| 11 | [Visu](http://twitter.com/search?q=Visu) | N/A |
+| 12 | [Ukrainu](http://twitter.com/search?q=Ukrainu) | N/A |
+| 13 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 14 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
+| 15 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 16 | [Protams](http://twitter.com/search?q=Protams) | N/A |
 
 
 

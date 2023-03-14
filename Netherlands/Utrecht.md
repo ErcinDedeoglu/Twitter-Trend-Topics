@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-14 04:16:48 UTC`
+📆 Last Updated: `2023-03-14 05:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 7 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
 | 8 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
 | 9 | [malieveld](http://twitter.com/search?q=malieveld) | N/A |
-| 10 | [Nigerian](http://twitter.com/search?q=Nigerian) | N/A |
-| 11 | [ambtenaren](http://twitter.com/search?q=ambtenaren) | N/A |
-| 12 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 13 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
-| 14 | [tom egbers](http://twitter.com/search?q=tom+egbers) | N/A |
-| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 17 | [Attje](http://twitter.com/search?q=Attje) | N/A |
-| 18 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
-| 19 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 20 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 21 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 22 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 23 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 24 | [janke dekker](http://twitter.com/search?q=janke+dekker) | N/A |
-| 25 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 26 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 27 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 28 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
-| 29 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 30 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
-| 31 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
-| 32 | [volendam](http://twitter.com/search?q=volendam) | N/A |
-| 33 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 34 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 35 | [berghuis](http://twitter.com/search?q=berghuis) | N/A |
-| 36 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 38 | [Klassieker](http://twitter.com/search?q=Klassieker) | N/A |
-| 39 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 40 | [Koen](http://twitter.com/search?q=Koen) | N/A |
-| 41 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 42 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 43 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 44 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 46 | [Mores](http://twitter.com/search?q=Mores) | N/A |
-| 47 | [Wetin](http://twitter.com/search?q=Wetin) | N/A |
-| 48 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 49 | [dilrosun](http://twitter.com/search?q=dilrosun) | N/A |
+| 10 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
+| 11 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 13 | [Nigerian](http://twitter.com/search?q=Nigerian) | N/A |
+| 14 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 15 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
+| 16 | [tom egbers](http://twitter.com/search?q=tom+egbers) | N/A |
+| 17 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
+| 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 19 | [Attje](http://twitter.com/search?q=Attje) | N/A |
+| 20 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
+| 21 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 22 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 23 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 24 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 25 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 26 | [janke dekker](http://twitter.com/search?q=janke+dekker) | N/A |
+| 27 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 28 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 29 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 30 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 31 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
+| 32 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
+| 33 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
+| 34 | [volendam](http://twitter.com/search?q=volendam) | N/A |
+| 35 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 36 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 37 | [berghuis](http://twitter.com/search?q=berghuis) | N/A |
+| 38 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 40 | [klassieker](http://twitter.com/search?q=klassieker) | N/A |
+| 41 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 42 | [Koen](http://twitter.com/search?q=Koen) | N/A |
+| 43 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 44 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 45 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 46 | [eerdmans](http://twitter.com/search?q=eerdmans) | N/A |
+| 47 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 49 | [Mores](http://twitter.com/search?q=Mores) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-03-14 04:17:07 UTC`
+📆 Last Updated: `2023-03-14 05:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,46 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [SA True Story](http://twitter.com/search?q=SA+True+Story) | N/A |
 | 2 | [सिंह कालवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%b5%e0%a5%80) | N/A |
-| 3 | [Ritu Parivartan](http://twitter.com/search?q=Ritu+Parivartan) | N/A |
-| 4 | [करणी सेना](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a4%a3%e0%a5%80+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
+| 3 | [श्री राजपूत करणी सेना](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%aa%e0%a5%82%e0%a4%a4+%e0%a4%95%e0%a4%b0%e0%a4%a3%e0%a5%80+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
+| 4 | [Ritu Parivartan](http://twitter.com/search?q=Ritu+Parivartan) | N/A |
 | 5 | [राजपूत समाज](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%aa%e0%a5%82%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 6 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 6 | [SSRCs Throws Spotlight OnNexus](http://twitter.com/search?q=SSRCs+Throws+Spotlight+OnNexus) | N/A |
 | 7 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 8 | [SSRCs Throws Spotlight OnNexus](http://twitter.com/search?q=SSRCs+Throws+Spotlight+OnNexus) | N/A |
-| 9 | [एड्स जैसी](http://twitter.com/search?q=%e0%a4%8f%e0%a4%a1%e0%a5%8d%e0%a4%b8+%e0%a4%9c%e0%a5%88%e0%a4%b8%e0%a5%80) | N/A |
-| 10 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 11 | [सुखी जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96%e0%a5%80+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
+| 8 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 9 | [क्षत्रिय समाज](http://twitter.com/search?q=%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 10 | [सुखी जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96%e0%a5%80+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
+| 11 | [संजय राणा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
 | 12 | [परमेश्वर पुण्य आत्मा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%a3%e0%a5%8d%e0%a4%af+%e0%a4%86%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 13 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
-| 14 | [वीर हनुमान](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 15 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 16 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
-| 17 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
-| 18 | [Very Good Morning](http://twitter.com/search?q=Very+Good+Morning) | N/A |
-| 19 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 20 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 21 | [#सतभक्ति_से_सर्व_सुख](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%b8%e0%a5%87_%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5_%e0%a4%b8%e0%a5%81%e0%a4%96) | N/A |
-| 22 | [#OneStopSolution](http://twitter.com/search?q=%23OneStopSolution) | N/A |
-| 23 | [#HBDLokeshKanagaraj](http://twitter.com/search?q=%23HBDLokeshKanagaraj) | N/A |
-| 24 | [#HealthCareAfterHoli](http://twitter.com/search?q=%23HealthCareAfterHoli) | N/A |
-| 25 | [#JanaSenaFormationDay](http://twitter.com/search?q=%23JanaSenaFormationDay) | N/A |
-| 26 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 27 | [#lokendrasinghkalvi](http://twitter.com/search?q=%23lokendrasinghkalvi) | N/A |
-| 28 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 29 | [#karnisena](http://twitter.com/search?q=%23karnisena) | N/A |
-| 30 | [#HappyBirthdayAamirKhan](http://twitter.com/search?q=%23HappyBirthdayAamirKhan) | N/A |
-| 31 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 32 | [#धारीवाल_माफ़ी_मांगें](http://twitter.com/search?q=%23%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2_%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a4%bc%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87%e0%a4%82) | N/A |
-| 33 | [#KarlMarx](http://twitter.com/search?q=%23KarlMarx) | N/A |
-| 34 | [#LeoFilm](http://twitter.com/search?q=%23LeoFilm) | N/A |
-| 35 | [#AlbertEinstein](http://twitter.com/search?q=%23AlbertEinstein) | N/A |
-| 36 | [#tuesdayfeeling](http://twitter.com/search?q=%23tuesdayfeeling) | N/A |
-| 37 | [#10YearsOfJanaSena](http://twitter.com/search?q=%2310YearsOfJanaSena) | N/A |
-| 38 | [#Master](http://twitter.com/search?q=%23Master) | N/A |
-| 39 | [#शीतला_सप्तमी](http://twitter.com/search?q=%23%e0%a4%b6%e0%a5%80%e0%a4%a4%e0%a4%b2%e0%a4%be_%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%a4%e0%a4%ae%e0%a5%80) | N/A |
-| 40 | [#जय_बजरंगबली](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%ac%e0%a4%9c%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%ac%e0%a4%b2%e0%a5%80) | N/A |
-| 41 | [#ChaloMachalipatnam](http://twitter.com/search?q=%23ChaloMachalipatnam) | N/A |
-| 42 | [#RRRWinsOscar](http://twitter.com/search?q=%23RRRWinsOscar) | N/A |
+| 13 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
+| 14 | [एड्स जैसी](http://twitter.com/search?q=%e0%a4%8f%e0%a4%a1%e0%a5%8d%e0%a4%b8+%e0%a4%9c%e0%a5%88%e0%a4%b8%e0%a5%80) | N/A |
+| 15 | [वीर हनुमान](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 16 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 17 | [शांति धारीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 18 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
+| 19 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 20 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
+| 21 | [Very Good Morning](http://twitter.com/search?q=Very+Good+Morning) | N/A |
+| 22 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 23 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 24 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 25 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 26 | [#सतभक्ति_से_सर्व_सुख](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%b8%e0%a5%87_%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5_%e0%a4%b8%e0%a5%81%e0%a4%96) | N/A |
+| 27 | [#HBDLokeshKanagaraj](http://twitter.com/search?q=%23HBDLokeshKanagaraj) | N/A |
+| 28 | [#JSP10thFormationDayMeet](http://twitter.com/search?q=%23JSP10thFormationDayMeet) | N/A |
+| 29 | [#OneStopSolution](http://twitter.com/search?q=%23OneStopSolution) | N/A |
+| 30 | [#HealthCareAfterHoli](http://twitter.com/search?q=%23HealthCareAfterHoli) | N/A |
+| 31 | [#lokendrasinghkalvi](http://twitter.com/search?q=%23lokendrasinghkalvi) | N/A |
+| 32 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 33 | [#JanaSenaFormationDay](http://twitter.com/search?q=%23JanaSenaFormationDay) | N/A |
+| 34 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 35 | [#धारीवाल_माफ़ी_मांगें](http://twitter.com/search?q=%23%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2_%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a4%bc%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87%e0%a4%82) | N/A |
+| 36 | [#karnisena](http://twitter.com/search?q=%23karnisena) | N/A |
+| 37 | [#HappyBirthdayAamirKhan](http://twitter.com/search?q=%23HappyBirthdayAamirKhan) | N/A |
+| 38 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 39 | [#AlbertEinstein](http://twitter.com/search?q=%23AlbertEinstein) | N/A |
+| 40 | [#tuesdayfeeling](http://twitter.com/search?q=%23tuesdayfeeling) | N/A |
+| 41 | [#KarlMarx](http://twitter.com/search?q=%23KarlMarx) | N/A |
+| 42 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
 
 
 
