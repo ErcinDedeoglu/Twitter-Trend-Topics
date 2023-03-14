@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-14 13:27:15 UTC`
+📆 Last Updated: `2023-03-14 14:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 2 | [#bceo](http://twitter.com/search?q=%23bceo) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 5 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 6 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 7 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
-| 8 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 9 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 10 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
-| 11 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 12 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
-| 13 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 14 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
-| 15 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
-| 16 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 17 | [Hackett](http://twitter.com/search?q=Hackett) | Hackett is a British clothing brand that specializes in menswear. The brand was founded in 1975 by Jeremy Hackett and Ashley Lloyd-Jennings, and is known for its classic style and quality craftsmanship. The name Hackett is derived from the Old English word "hacket," which means "a small enclosure or hedge." |
-| 18 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
-| 19 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 20 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 21 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 22 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 2 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 3 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 4 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 5 | [#BCEO](http://twitter.com/search?q=%23BCEO) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 8 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 9 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
+| 10 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 11 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
+| 12 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
+| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 14 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
+| 15 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 16 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
+| 17 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 18 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 19 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
+| 20 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
+| 21 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 22 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
 | 23 | [THE DAY THAT KRABS FRIES](http://twitter.com/search?q=THE+DAY+THAT+KRABS+FRIES) | N/A |
-| 24 | [Randall Cobb](http://twitter.com/search?q=Randall+Cobb) | N/A |
-| 25 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 26 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 27 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 28 | [prince eric](http://twitter.com/search?q=prince+eric) | Prince Eric is a character from the Disney movie The Little Mermaid. He is a handsome prince who falls in love with Ariel, the mermaid. In English, Prince Eric means a prince who is charming and romantic. |
-| 29 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 30 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 31 | [Quincy Jones](http://twitter.com/search?q=Quincy+Jones) | N/A |
-| 32 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
-| 33 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 34 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 35 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 36 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 37 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 38 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 39 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 40 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 41 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 42 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 43 | [White Stripes](http://twitter.com/search?q=White+Stripes) | N/A |
-| 44 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 45 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 46 | [McAfee](http://twitter.com/search?q=McAfee) | N/A |
-| 47 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 48 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 24 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
+| 25 | [Vegas Patriots](http://twitter.com/search?q=Vegas+Patriots) | N/A |
+| 26 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 27 | [Key Lime](http://twitter.com/search?q=Key+Lime) | N/A |
+| 28 | [PS5 Pro](http://twitter.com/search?q=PS5+Pro) | N/A |
+| 29 | [Howell](http://twitter.com/search?q=Howell) | Howell is a surname of English origin. It is derived from the Old English personal name "Hugh" and the Old English word "halh", meaning "nook" or "small valley". The name can also be found in Scotland, where it is derived from the Gaelic personal name "Uallas". |
+| 30 | [Hackett](http://twitter.com/search?q=Hackett) | Hackett is a British clothing brand that specializes in menswear. The brand was founded in 1975 by Jeremy Hackett and Ashley Lloyd-Jennings, and is known for its classic style and quality craftsmanship. The name Hackett is derived from the Old English word "hacket," which means "a small enclosure or hedge." |
+| 31 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 32 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
+| 33 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 34 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 35 | [Quincy Jones](http://twitter.com/search?q=Quincy+Jones) | N/A |
+| 36 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 37 | [Shaq Mason](http://twitter.com/search?q=Shaq+Mason) | N/A |
+| 38 | [Randall Cobb](http://twitter.com/search?q=Randall+Cobb) | N/A |
+| 39 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
+| 40 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 41 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 42 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 43 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 44 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 45 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 46 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
+| 47 | [Nike app](http://twitter.com/search?q=Nike+app) | N/A |
+| 48 | [Chandler Jones](http://twitter.com/search?q=Chandler+Jones) | N/A |
 
 
 

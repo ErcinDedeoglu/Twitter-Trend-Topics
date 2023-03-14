@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-14 13:27:22 UTC`
+📆 Last Updated: `2023-03-14 14:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Kenya
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 2 | [#LGShowCase2023](http://twitter.com/search?q=%23LGShowCase2023) | N/A |
+| 2 | [#LGShowcase2023](http://twitter.com/search?q=%23LGShowcase2023) | N/A |
 | 3 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 4 | [Kidero](http://twitter.com/search?q=Kidero) | N/A |
-| 5 | [#IvoryCoastChapter](http://twitter.com/search?q=%23IvoryCoastChapter) | N/A |
-| 6 | [#LG100Club](http://twitter.com/search?q=%23LG100Club) | N/A |
-| 7 | [Nyanza](http://twitter.com/search?q=Nyanza) | N/A |
-| 8 | [Martha Karua](http://twitter.com/search?q=Martha+Karua) | N/A |
-| 9 | [#securingthenorth](http://twitter.com/search?q=%23securingthenorth) | N/A |
-| 10 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
-| 11 | [Arror and Kimwarer](http://twitter.com/search?q=Arror+and+Kimwarer) | N/A |
+| 5 | [Martha Karua](http://twitter.com/search?q=Martha+Karua) | N/A |
+| 6 | [#IvoryCoastChapter](http://twitter.com/search?q=%23IvoryCoastChapter) | N/A |
+| 7 | [#LG100Club](http://twitter.com/search?q=%23LG100Club) | N/A |
+| 8 | [Nyanza](http://twitter.com/search?q=Nyanza) | N/A |
+| 9 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
+| 10 | [#leleshwagetaway](http://twitter.com/search?q=%23leleshwagetaway) | N/A |
+| 11 | [Moody Awori](http://twitter.com/search?q=Moody+Awori) | N/A |
 | 12 | [Sergio Mattarella](http://twitter.com/search?q=Sergio+Mattarella) | N/A |
-| 13 | [Moody Awori](http://twitter.com/search?q=Moody+Awori) | N/A |
-| 14 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 15 | [harmony masaki jr](http://twitter.com/search?q=harmony+masaki+jr) | N/A |
+| 13 | [Arror and Kimwarer](http://twitter.com/search?q=Arror+and+Kimwarer) | N/A |
+| 14 | [mugithi country](http://twitter.com/search?q=mugithi+country) | N/A |
+| 15 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
 | 16 | [LG Electronics](http://twitter.com/search?q=LG+Electronics) | N/A |
-| 17 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
-| 18 | [Alfred Mutua](http://twitter.com/search?q=Alfred+Mutua) | N/A |
-| 19 | [Raila](http://twitter.com/search?q=Raila) | N/A |
+| 17 | [harmony masaki jr](http://twitter.com/search?q=harmony+masaki+jr) | N/A |
+| 18 | [alfred mutua](http://twitter.com/search?q=alfred+mutua) | N/A |
+| 19 | [muthaiga golf](http://twitter.com/search?q=muthaiga+golf) | N/A |
 | 20 | [Kevo](http://twitter.com/search?q=Kevo) | N/A |
-| 21 | [attend propak expo](http://twitter.com/search?q=attend+propak+expo) | N/A |
-| 22 | [wireless oled tvs](http://twitter.com/search?q=wireless+oled+tvs) | N/A |
-| 23 | [moodup](http://twitter.com/search?q=moodup) | N/A |
-| 24 | [Brandy Maina](http://twitter.com/search?q=Brandy+Maina) | N/A |
-| 25 | [Khaligraph](http://twitter.com/search?q=Khaligraph) | N/A |
+| 21 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
+| 22 | [Laura Mattarella](http://twitter.com/search?q=Laura+Mattarella) | N/A |
+| 23 | [attend propak expo](http://twitter.com/search?q=attend+propak+expo) | N/A |
+| 24 | [Khaligraph](http://twitter.com/search?q=Khaligraph) | N/A |
+| 25 | [wireless oled tvs](http://twitter.com/search?q=wireless+oled+tvs) | N/A |
 | 26 | [Obado](http://twitter.com/search?q=Obado) | N/A |
-| 27 | [Zambia](http://twitter.com/search?q=Zambia) | N/A |
-| 28 | [lg signature](http://twitter.com/search?q=lg+signature) | N/A |
-| 29 | [chicken welfare](http://twitter.com/search?q=chicken+welfare) | N/A |
-| 30 | [Business Daily](http://twitter.com/search?q=Business+Daily) | N/A |
-| 31 | [Rachel Ruto](http://twitter.com/search?q=Rachel+Ruto) | N/A |
-| 32 | [Mashinani](http://twitter.com/search?q=Mashinani) | N/A |
-| 33 | [President William Ruto](http://twitter.com/search?q=President+William+Ruto) | N/A |
+| 27 | [Brandy Maina](http://twitter.com/search?q=Brandy+Maina) | N/A |
+| 28 | [moodup](http://twitter.com/search?q=moodup) | N/A |
+| 29 | [Rachel Ruto](http://twitter.com/search?q=Rachel+Ruto) | N/A |
+| 30 | [lg signature](http://twitter.com/search?q=lg+signature) | N/A |
+| 31 | [chicken welfare](http://twitter.com/search?q=chicken+welfare) | N/A |
+| 32 | [richard ngatia](http://twitter.com/search?q=richard+ngatia) | N/A |
+| 33 | [UDA Party](http://twitter.com/search?q=UDA+Party) | N/A |
 | 34 | [London Football Awards](http://twitter.com/search?q=London+Football+Awards) | N/A |
-| 35 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 36 | [Richard Ngatia](http://twitter.com/search?q=Richard+Ngatia) | N/A |
-| 37 | [UDA Party](http://twitter.com/search?q=UDA+Party) | N/A |
-| 38 | [Elections](http://twitter.com/search?q=Elections) | N/A |
-| 39 | [Laura Mattarella](http://twitter.com/search?q=Laura+Mattarella) | N/A |
-| 40 | [Winnie](http://twitter.com/search?q=Winnie) | N/A |
-| 41 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
-| 42 | [ugandans](http://twitter.com/search?q=ugandans) | N/A |
-| 43 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
-| 44 | [Maandamano](http://twitter.com/search?q=Maandamano) | N/A |
-| 45 | [Ruaraka](http://twitter.com/search?q=Ruaraka) | N/A |
-| 46 | [Tumbocrats](http://twitter.com/search?q=Tumbocrats) | N/A |
-| 47 | [bukayo saka](http://twitter.com/search?q=bukayo+saka) | N/A |
-| 48 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 49 | [SRHR](http://twitter.com/search?q=SRHR) | N/A |
-| 50 | [Mike Sonko](http://twitter.com/search?q=Mike+Sonko) | N/A |
+| 35 | [Maandamano](http://twitter.com/search?q=Maandamano) | N/A |
+| 36 | [President William Ruto](http://twitter.com/search?q=President+William+Ruto) | N/A |
+| 37 | [Mashinani](http://twitter.com/search?q=Mashinani) | N/A |
+| 38 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 39 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 40 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 41 | [Jakakimba](http://twitter.com/search?q=Jakakimba) | N/A |
+| 42 | [Winnie](http://twitter.com/search?q=Winnie) | N/A |
+| 43 | [Tumbocrats](http://twitter.com/search?q=Tumbocrats) | N/A |
+| 44 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 45 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 46 | [Mike Sonko](http://twitter.com/search?q=Mike+Sonko) | N/A |
+| 47 | [Malindi](http://twitter.com/search?q=Malindi) | N/A |
+| 48 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 49 | [Raila Odinga](http://twitter.com/search?q=Raila+Odinga) | Raila Odinga is a Kenyan politician who served as the Prime Minister of Kenya from 2008 to 2013. His name is derived from the Luo language and means "the one who has been liberated". |
+| 50 | [SRHR](http://twitter.com/search?q=SRHR) | N/A |
 
 
 

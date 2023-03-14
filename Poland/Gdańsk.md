@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-14 13:26:43 UTC`
+📆 Last Updated: `2023-03-14 14:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
 | 2 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
 | 3 | [#ZemstaMateckiego](http://twitter.com/search?q=%23ZemstaMateckiego) | N/A |
-| 4 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [kaleta](http://twitter.com/search?q=kaleta) | N/A |
 | 6 | [#wpłwid](http://twitter.com/search?q=%23wp%c5%82wid) | N/A |
-| 7 | [nitras](http://twitter.com/search?q=nitras) | N/A |
-| 8 | [Franciszek Blachnicki](http://twitter.com/search?q=Franciszek+Blachnicki) | N/A |
-| 9 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 10 | [Lasach Państwowych](http://twitter.com/search?q=Lasach+Pa%c5%84stwowych) | N/A |
+| 7 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
+| 8 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 9 | [Franciszek Blachnicki](http://twitter.com/search?q=Franciszek+Blachnicki) | N/A |
+| 10 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
 | 11 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
-| 12 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 13 | [Kodeksu](http://twitter.com/search?q=Kodeksu) | N/A |
-| 14 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
-| 15 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 16 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
-| 17 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
-| 18 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
-| 19 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 20 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 21 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 22 | [Mikołaj](http://twitter.com/search?q=Miko%c5%82aj) | N/A |
-| 23 | [Solidarnej Polski](http://twitter.com/search?q=Solidarnej+Polski) | N/A |
-| 24 | [Wolność](http://twitter.com/search?q=Wolno%c5%9b%c4%87) | N/A |
-| 25 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
-| 26 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
-| 27 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
-| 28 | [prokurator generalny](http://twitter.com/search?q=prokurator+generalny) | N/A |
-| 29 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 30 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 31 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
-| 32 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 33 | [Milego](http://twitter.com/search?q=Milego) | N/A |
-| 34 | [japierdole](http://twitter.com/search?q=japierdole) | N/A |
-| 35 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
-| 36 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
-| 37 | [Ulubiona FIFA](http://twitter.com/search?q=Ulubiona+FIFA) | N/A |
-| 38 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
-| 39 | [Prezydent Andrzej Duda](http://twitter.com/search?q=Prezydent+Andrzej+Duda) | N/A |
-| 40 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 41 | [Mendelejewa](http://twitter.com/search?q=Mendelejewa) | N/A |
-| 42 | [Kabura](http://twitter.com/search?q=Kabura) | N/A |
-| 43 | [Nosi](http://twitter.com/search?q=Nosi) | N/A |
-| 44 | [Knobel](http://twitter.com/search?q=Knobel) | N/A |
-| 45 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 46 | [III RP](http://twitter.com/search?q=III+RP) | N/A |
-| 47 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
-| 48 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 12 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 13 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
+| 14 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 15 | [Kodeksu](http://twitter.com/search?q=Kodeksu) | N/A |
+| 16 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
+| 17 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
+| 18 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
+| 19 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 20 | [Prokurator Generalny](http://twitter.com/search?q=Prokurator+Generalny) | N/A |
+| 21 | [Knobel](http://twitter.com/search?q=Knobel) | N/A |
+| 22 | [prezydent andrzej duda](http://twitter.com/search?q=prezydent+andrzej+duda) | N/A |
+| 23 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 24 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 25 | [Kabura](http://twitter.com/search?q=Kabura) | N/A |
+| 26 | [Milego](http://twitter.com/search?q=Milego) | N/A |
+| 27 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
+| 28 | [Nosi](http://twitter.com/search?q=Nosi) | N/A |
+| 29 | [Parlament Europejski](http://twitter.com/search?q=Parlament+Europejski) | N/A |
+| 30 | [Szeryf](http://twitter.com/search?q=Szeryf) | N/A |
+| 31 | [Ziobrze](http://twitter.com/search?q=Ziobrze) | N/A |
+| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 33 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
+| 34 | [Pruszkowa](http://twitter.com/search?q=Pruszkowa) | N/A |
+| 35 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 36 | [Cyba](http://twitter.com/search?q=Cyba) | N/A |
+| 37 | [Mendelejewa](http://twitter.com/search?q=Mendelejewa) | N/A |
+| 38 | [Mieszkanie Plus](http://twitter.com/search?q=Mieszkanie+Plus) | N/A |
+| 39 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 40 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
+| 41 | [Konstytucję](http://twitter.com/search?q=Konstytucj%c4%99) | N/A |
+| 42 | [Konfederację](http://twitter.com/search?q=Konfederacj%c4%99) | N/A |
+| 43 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 44 | [kibole](http://twitter.com/search?q=kibole) | N/A |
+| 45 | [lasach państwowych](http://twitter.com/search?q=lasach+pa%c5%84stwowych) | N/A |
+| 46 | [Staszek](http://twitter.com/search?q=Staszek) | N/A |
+| 47 | [zbyszka](http://twitter.com/search?q=zbyszka) | N/A |
+| 48 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
 
 
 

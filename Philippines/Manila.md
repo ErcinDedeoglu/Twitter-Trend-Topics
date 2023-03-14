@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-14 13:26:58 UTC`
+📆 Last Updated: `2023-03-14 14:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 2 | [MAHAL KITA](http://twitter.com/search?q=MAHAL+KITA) | N/A |
-| 3 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
-| 4 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 7 | [#mystalive](http://twitter.com/search?q=%23mystalive) | N/A |
-| 8 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
-| 9 | [ZACK TABUDLO](http://twitter.com/search?q=ZACK+TABUDLO) | N/A |
-| 10 | [GIVE ME YOUR FOREVER](http://twitter.com/search?q=GIVE+ME+YOUR+FOREVER) | N/A |
-| 11 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 12 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 13 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 14 | [#RandomBuskingForJisooEp2](http://twitter.com/search?q=%23RandomBuskingForJisooEp2) | N/A |
-| 15 | [OLD LOVE](http://twitter.com/search?q=OLD+LOVE) | N/A |
-| 16 | [MTLE](http://twitter.com/search?q=MTLE) | N/A |
-| 17 | [Reading Your Heart](http://twitter.com/search?q=Reading+Your+Heart) | N/A |
-| 18 | [Filo Armys](http://twitter.com/search?q=Filo+Armys) | N/A |
-| 19 | [MAHAL DIN KITA](http://twitter.com/search?q=MAHAL+DIN+KITA) | N/A |
-| 20 | [Prince PIEnabalik](http://twitter.com/search?q=Prince+PIEnabalik) | N/A |
-| 21 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 22 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 23 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 24 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 25 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 26 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 27 | [GROOVY 1ST WIN](http://twitter.com/search?q=GROOVY+1ST+WIN) | N/A |
-| 28 | [BOOMERANG MV OUTNOW](http://twitter.com/search?q=BOOMERANG+MV+OUTNOW) | N/A |
-| 29 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
-| 30 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
-| 31 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
-| 32 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 33 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 34 | [Regine Velasquez](http://twitter.com/search?q=Regine+Velasquez) | N/A |
-| 35 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 36 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 37 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 38 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 39 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 40 | [Iloilo](http://twitter.com/search?q=Iloilo) | N/A |
-| 41 | [Lea Salonga](http://twitter.com/search?q=Lea+Salonga) | N/A |
-| 42 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 43 | [Sarah Geronimo](http://twitter.com/search?q=Sarah+Geronimo) | N/A |
-| 44 | [#LoveOnTourPH](http://twitter.com/search?q=%23LoveOnTourPH) | N/A |
-| 45 | [#AJADreamMakerPIEting](http://twitter.com/search?q=%23AJADreamMakerPIEting) | N/A |
-| 46 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 47 | [#HarryStylesinPH](http://twitter.com/search?q=%23HarryStylesinPH) | N/A |
-| 48 | [#PrincePieLiwanagAngJoke](http://twitter.com/search?q=%23PrincePieLiwanagAngJoke) | N/A |
-| 49 | [#FPJBQAkyatBahay](http://twitter.com/search?q=%23FPJBQAkyatBahay) | N/A |
-| 50 | [#UrdujaShocking](http://twitter.com/search?q=%23UrdujaShocking) | N/A |
+| 2 | [FELIP SINAGOT ANG PANGUNGULILA](http://twitter.com/search?q=FELIP+SINAGOT+ANG+PANGUNGULILA) | N/A |
+| 3 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 6 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
+| 7 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
+| 8 | [#MystaLive](http://twitter.com/search?q=%23MystaLive) | N/A |
+| 9 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 10 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
+| 11 | [Zack Tabudlo](http://twitter.com/search?q=Zack+Tabudlo) | N/A |
+| 12 | [GIVE ME YOUR FOREVER](http://twitter.com/search?q=GIVE+ME+YOUR+FOREVER) | N/A |
+| 13 | [#LoveOnTourPH](http://twitter.com/search?q=%23LoveOnTourPH) | N/A |
+| 14 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 15 | [MTLE](http://twitter.com/search?q=MTLE) | N/A |
+| 16 | [#RandomBuskingForJisooEp2](http://twitter.com/search?q=%23RandomBuskingForJisooEp2) | N/A |
+| 17 | [OMG JAY](http://twitter.com/search?q=OMG+JAY) | N/A |
+| 18 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 19 | [#HOIMortalnaKaaway](http://twitter.com/search?q=%23HOIMortalnaKaaway) | N/A |
+| 20 | [VIBRENT MATAPANG VLOG](http://twitter.com/search?q=VIBRENT+MATAPANG+VLOG) | N/A |
+| 21 | [MY EXO](http://twitter.com/search?q=MY+EXO) | N/A |
+| 22 | [OLD LOVE](http://twitter.com/search?q=OLD+LOVE) | N/A |
+| 23 | [Reading Your Heart](http://twitter.com/search?q=Reading+Your+Heart) | N/A |
+| 24 | [ChiCo DL EXPECTATIONS](http://twitter.com/search?q=ChiCo+DL+EXPECTATIONS) | N/A |
+| 25 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
+| 26 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 27 | [MAHAL DIN KITA](http://twitter.com/search?q=MAHAL+DIN+KITA) | N/A |
+| 28 | [Filo Armys](http://twitter.com/search?q=Filo+Armys) | N/A |
+| 29 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 30 | [Lee Hi](http://twitter.com/search?q=Lee+Hi) | N/A |
+| 31 | [Prince PIEnabalik](http://twitter.com/search?q=Prince+PIEnabalik) | N/A |
+| 32 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 33 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 34 | [jema](http://twitter.com/search?q=jema) | N/A |
+| 35 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 36 | [boomerang mv outnow](http://twitter.com/search?q=boomerang+mv+outnow) | N/A |
+| 37 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 38 | [BGYO OFFICIAL MERCH BOX](http://twitter.com/search?q=BGYO+OFFICIAL+MERCH+BOX) | N/A |
+| 39 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 40 | [Regine Velasquez](http://twitter.com/search?q=Regine+Velasquez) | N/A |
+| 41 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 42 | [BGYO ALBUM SHOWCASE](http://twitter.com/search?q=BGYO+ALBUM+SHOWCASE) | N/A |
+| 43 | [Lea Salonga](http://twitter.com/search?q=Lea+Salonga) | N/A |
+| 44 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 45 | [iloilo](http://twitter.com/search?q=iloilo) | N/A |
+| 46 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 47 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 48 | [Sarah Geronimo](http://twitter.com/search?q=Sarah+Geronimo) | N/A |
+| 49 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
+| 50 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-03-14 13:27:10 UTC`
+📆 Last Updated: `2023-03-14 14:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TOGG](http://twitter.com/search?q=%23TOGG) | N/A |
-| 2 | [#bceo](http://twitter.com/search?q=%23bceo) | N/A |
+| 2 | [#BCEO](http://twitter.com/search?q=%23BCEO) | N/A |
 | 3 | [BahçeliSözü MahkumaAF](http://twitter.com/search?q=Bah%c3%a7eliS%c3%b6z%c3%bc+MahkumaAF) | N/A |
 | 4 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 5 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
+| 5 | [#kulliyedenyuzyuzekarari](http://twitter.com/search?q=%23kulliyedenyuzyuzekarari) | N/A |
 | 6 | [Otocost OtomotivAsistanınız](http://twitter.com/search?q=Otocost+OtomotivAsistan%c4%b1n%c4%b1z) | N/A |
-| 7 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
-| 8 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
-| 9 | [Yerli](http://twitter.com/search?q=Yerli) | N/A |
-| 10 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
+| 7 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
+| 8 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
+| 9 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
+| 10 | [Yerli](http://twitter.com/search?q=Yerli) | N/A |
 | 11 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
-| 12 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Standart Menzil](http://twitter.com/search?q=Standart+Menzil) | N/A |
-| 15 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 16 | [Fiyat](http://twitter.com/search?q=Fiyat) | N/A |
-| 17 | [Boey](http://twitter.com/search?q=Boey) | N/A |
-| 18 | [Sevda Özbek](http://twitter.com/search?q=Sevda+%c3%96zbek) | N/A |
-| 19 | [AfSizden OyBizden](http://twitter.com/search?q=AfSizden+OyBizden) | N/A |
-| 20 | [SABAH YALAN AKŞAM YALAN](http://twitter.com/search?q=SABAH+YALAN+AK%c5%9eAM+YALAN) | N/A |
-| 21 | [şair](http://twitter.com/search?q=%c5%9fair) | N/A |
-| 22 | [Sudan](http://twitter.com/search?q=Sudan) | N/A |
-| 23 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
-| 24 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
-| 25 | [Matematik](http://twitter.com/search?q=Matematik) | N/A |
-| 26 | [Araba](http://twitter.com/search?q=Araba) | N/A |
-| 27 | [Arveles](http://twitter.com/search?q=Arveles) | N/A |
-| 28 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
-| 29 | [Fenerbahçe - Sevilla](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Sevilla) | N/A |
-| 30 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
-| 31 | [Sağlık](http://twitter.com/search?q=Sa%c4%9fl%c4%b1k) | N/A |
-| 32 | [Beni Türk](http://twitter.com/search?q=Beni+T%c3%bcrk) | N/A |
-| 33 | [Vedat](http://twitter.com/search?q=Vedat) | N/A |
-| 34 | [Edip](http://twitter.com/search?q=Edip) | N/A |
-| 35 | [Hikmet Boran](http://twitter.com/search?q=Hikmet+Boran) | N/A |
-| 36 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
-| 37 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 38 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 39 | [Ateist](http://twitter.com/search?q=Ateist) | N/A |
-| 40 | [Türk Bayrağı](http://twitter.com/search?q=T%c3%bcrk+Bayra%c4%9f%c4%b1) | N/A |
-| 41 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 42 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
-| 43 | [#kulliyedenyuzyuzekarari](http://twitter.com/search?q=%23kulliyedenyuzyuzekarari) | N/A |
-| 44 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 45 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
-| 46 | [#sigara](http://twitter.com/search?q=%23sigara) | N/A |
-| 47 | [#SaglikciUlusMeydanında](http://twitter.com/search?q=%23SaglikciUlusMeydan%c4%b1nda) | N/A |
-| 48 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Standart Menzil](http://twitter.com/search?q=Standart+Menzil) | N/A |
+| 14 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
+| 15 | [Transfermarkt](http://twitter.com/search?q=Transfermarkt) | N/A |
+| 16 | [SABAH YALAN AKŞAM YALAN](http://twitter.com/search?q=SABAH+YALAN+AK%c5%9eAM+YALAN) | N/A |
+| 17 | [953 bin](http://twitter.com/search?q=953+bin) | N/A |
+| 18 | [Şair](http://twitter.com/search?q=%c5%9eair) | N/A |
+| 19 | [Ahmet Yener](http://twitter.com/search?q=Ahmet+Yener) | N/A |
+| 20 | [AfSizden OyBizden](http://twitter.com/search?q=AfSizden+OyBizden) | N/A |
+| 21 | [Boey](http://twitter.com/search?q=Boey) | N/A |
+| 22 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 23 | [Fiyat](http://twitter.com/search?q=Fiyat) | N/A |
+| 24 | [Sevda Özbek](http://twitter.com/search?q=Sevda+%c3%96zbek) | N/A |
+| 25 | [Arveles](http://twitter.com/search?q=Arveles) | N/A |
+| 26 | [Kotex](http://twitter.com/search?q=Kotex) | N/A |
+| 27 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
+| 28 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
+| 29 | [Sudan](http://twitter.com/search?q=Sudan) | N/A |
+| 30 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 31 | [Araba](http://twitter.com/search?q=Araba) | N/A |
+| 32 | [Matematik](http://twitter.com/search?q=Matematik) | N/A |
+| 33 | [Elektrikli](http://twitter.com/search?q=Elektrikli) | N/A |
+| 34 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 35 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
+| 36 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 37 | [Türk Bayrağı](http://twitter.com/search?q=T%c3%bcrk+Bayra%c4%9f%c4%b1) | N/A |
+| 38 | [Fenerbahçe - Sevilla](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Sevilla) | N/A |
+| 39 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
+| 40 | [Vedat](http://twitter.com/search?q=Vedat) | N/A |
+| 41 | [Edip](http://twitter.com/search?q=Edip) | N/A |
+| 42 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
+| 43 | [Süper Lig'de](http://twitter.com/search?q=S%c3%bcper+Lig%27de) | N/A |
+| 44 | [Abdülkerim](http://twitter.com/search?q=Abd%c3%bclkerim) | Abdülkerim is a Turkish name, derived from the Arabic name Abdul Karim. It means "servant of the Generous One". |
+| 45 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 46 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 47 | [Ateist](http://twitter.com/search?q=Ateist) | N/A |
+| 48 | [Beni Türk](http://twitter.com/search?q=Beni+T%c3%bcrk) | N/A |
 
 
 

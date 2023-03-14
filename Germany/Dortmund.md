@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-14 13:26:46 UTC`
+📆 Last Updated: `2023-03-14 14:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,47 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 4 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
-| 5 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
-| 6 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 7 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 8 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
-| 9 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 10 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
-| 11 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
-| 12 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 13 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 14 | [Geschäfte](http://twitter.com/search?q=Gesch%c3%a4fte) | N/A |
-| 15 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 16 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 17 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 18 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 19 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 20 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 21 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 22 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 23 | [Regelung](http://twitter.com/search?q=Regelung) | N/A |
-| 24 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 25 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 26 | [Innenstadt](http://twitter.com/search?q=Innenstadt) | N/A |
-| 27 | [Radweg](http://twitter.com/search?q=Radweg) | N/A |
-| 28 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
-| 29 | [Geschäftsmodell](http://twitter.com/search?q=Gesch%c3%a4ftsmodell) | N/A |
-| 30 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 31 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 32 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 33 | [impfpflicht](http://twitter.com/search?q=impfpflicht) | N/A |
-| 34 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 35 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
-| 36 | [Fußgänger](http://twitter.com/search?q=Fu%c3%9fg%c3%a4nger) | N/A |
-| 37 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 2 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 5 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 6 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
+| 7 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 8 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 9 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 10 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 11 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 12 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 13 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
+| 14 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
+| 15 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 16 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 17 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 18 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
+| 19 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 20 | [parlament](http://twitter.com/search?q=parlament) | N/A |
+| 21 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 22 | [schnitzel](http://twitter.com/search?q=schnitzel) | N/A |
+| 23 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 24 | [Galeria](http://twitter.com/search?q=Galeria) | N/A |
+| 25 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 26 | [Geschäfte](http://twitter.com/search?q=Gesch%c3%a4fte) | N/A |
+| 27 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 28 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 29 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 30 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
+| 31 | [Regelung](http://twitter.com/search?q=Regelung) | N/A |
+| 32 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 33 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 34 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
+| 35 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
+| 36 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
+| 37 | [#SchnibloTag](http://twitter.com/search?q=%23SchnibloTag) | N/A |
 | 38 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 39 | [#Bundeswehr](http://twitter.com/search?q=%23Bundeswehr) | N/A |
-| 40 | [#CovidIsntOver](http://twitter.com/search?q=%23CovidIsntOver) | N/A |
+| 39 | [#CovidIsntOver](http://twitter.com/search?q=%23CovidIsntOver) | N/A |
+| 40 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
 | 41 | [#Impfschäden](http://twitter.com/search?q=%23Impfsch%c3%a4den) | N/A |
-| 42 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 43 | [#GrueneRausausdenParlamenten](http://twitter.com/search?q=%23GrueneRausausdenParlamenten) | N/A |
-| 44 | [#Galeria](http://twitter.com/search?q=%23Galeria) | N/A |
-| 45 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 46 | [#LauterbachRausschmissSofort](http://twitter.com/search?q=%23LauterbachRausschmissSofort) | N/A |
-| 47 | [#Querdenker](http://twitter.com/search?q=%23Querdenker) | N/A |
+| 42 | [#Querdenker](http://twitter.com/search?q=%23Querdenker) | N/A |
 
 
 

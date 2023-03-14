@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-03-14 13:26:33 UTC`
+📆 Last Updated: `2023-03-14 14:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [shopping spree](http://twitter.com/search?q=shopping+spree) | N/A |
-| 2 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 3 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 4 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 5 | [#ToryGaslighting](http://twitter.com/search?q=%23ToryGaslighting) | N/A |
-| 6 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 7 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 8 | [Tyson Fury](http://twitter.com/search?q=Tyson+Fury) | N/A |
-| 9 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 10 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 13 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
-| 14 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 15 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
-| 16 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
-| 17 | [#piDay2023](http://twitter.com/search?q=%23piDay2023) | N/A |
-| 18 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 19 | [Shankland](http://twitter.com/search?q=Shankland) | N/A |
-| 20 | [Nisbet](http://twitter.com/search?q=Nisbet) | N/A |
-| 21 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 22 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 23 | [Penny Farthing](http://twitter.com/search?q=Penny+Farthing) | N/A |
-| 24 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 25 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 26 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 27 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 28 | [Captain Birdseye](http://twitter.com/search?q=Captain+Birdseye) | N/A |
-| 29 | [Illegal Migration Bill](http://twitter.com/search?q=Illegal+Migration+Bill) | N/A |
-| 30 | [Happy 90th](http://twitter.com/search?q=Happy+90th) | N/A |
-| 31 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 32 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
-| 33 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
-| 34 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
-| 35 | [Baroness Masham](http://twitter.com/search?q=Baroness+Masham) | N/A |
-| 36 | [Tunnocks](http://twitter.com/search?q=Tunnocks) | N/A |
-| 37 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
-| 38 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 39 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 40 | [Bet365](http://twitter.com/search?q=Bet365) | N/A |
-| 41 | [Theresa May](http://twitter.com/search?q=Theresa+May) | N/A |
-| 42 | [Marie's Rock](http://twitter.com/search?q=Marie%27s+Rock) | Marie's Rock is a French expression that refers to the idea of standing firm in one's beliefs and convictions, even in the face of adversity. It is derived from the story of Marie Antoinette, who was famously known for her strength and courage in the face of her execution. The phrase is often used to encourage someone to stay strong and not give up, no matter what life throws at them. |
-| 43 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 44 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 45 | [Ed Balls](http://twitter.com/search?q=Ed+Balls) | N/A |
-| 46 | [Peston](http://twitter.com/search?q=Peston) | N/A |
-| 47 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 48 | [State Man](http://twitter.com/search?q=State+Man) | State Man is a term used in India to refer to a person who is in charge of the affairs of a particular state. It is usually used to refer to the Chief Minister or Governor of a state. In English, it can be translated as "State Leader". |
-| 49 | [Hundreds](http://twitter.com/search?q=Hundreds) | N/A |
-| 50 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 1 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
+| 2 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
+| 3 | [Shopping Spree](http://twitter.com/search?q=Shopping+Spree) | N/A |
+| 4 | [Bet365](http://twitter.com/search?q=Bet365) | N/A |
+| 5 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 6 | [#ToryGaslighting](http://twitter.com/search?q=%23ToryGaslighting) | N/A |
+| 7 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 8 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 9 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 10 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 11 | [Marie's Rock](http://twitter.com/search?q=Marie%27s+Rock) | Marie's Rock is a French expression that refers to the idea of standing firm in one's beliefs and convictions, even in the face of adversity. It is derived from the story of Marie Antoinette, who was famously known for her strength and courage in the face of her execution. The phrase is often used to encourage someone to stay strong and not give up, no matter what life throws at them. |
+| 12 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 15 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 16 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
+| 17 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
+| 18 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 19 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
+| 20 | [Michael O'Sullivan](http://twitter.com/search?q=Michael+O%27Sullivan) | N/A |
+| 21 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 22 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 23 | [Supreme](http://twitter.com/search?q=Supreme) | N/A |
+| 24 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 25 | [Shankland](http://twitter.com/search?q=Shankland) | N/A |
+| 26 | [Nisbet](http://twitter.com/search?q=Nisbet) | N/A |
+| 27 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 28 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 29 | [Greg Taylor](http://twitter.com/search?q=Greg+Taylor) | Greg Taylor is a name, and it has no particular meaning in English. |
+| 30 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 31 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 32 | [Penny Farthing](http://twitter.com/search?q=Penny+Farthing) | N/A |
+| 33 | [Diverge](http://twitter.com/search?q=Diverge) | N/A |
+| 34 | [Ben Davies](http://twitter.com/search?q=Ben+Davies) | N/A |
+| 35 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
+| 36 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 37 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
+| 38 | [Happy 90th](http://twitter.com/search?q=Happy+90th) | N/A |
+| 39 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
+| 40 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
+| 41 | [Captain Birdseye](http://twitter.com/search?q=Captain+Birdseye) | N/A |
+| 42 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
+| 43 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
+| 44 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 45 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 46 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
+| 47 | [Illegal Migration Bill](http://twitter.com/search?q=Illegal+Migration+Bill) | N/A |
+| 48 | [Barrow](http://twitter.com/search?q=Barrow) | N/A |
+| 49 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 50 | [Peston](http://twitter.com/search?q=Peston) | N/A |
 
 
 

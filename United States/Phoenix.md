@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-14 13:27:16 UTC`
+📆 Last Updated: `2023-03-14 14:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Monty](http://twitter.com/search?q=Monty) | N/A |
 | 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 4 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 5 | [#bceo](http://twitter.com/search?q=%23bceo) | N/A |
+| 5 | [#BCEO](http://twitter.com/search?q=%23BCEO) | N/A |
 | 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 7 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
 | 8 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
 | 9 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 10 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
-| 11 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 12 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 13 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
-| 14 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 15 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
-| 16 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 17 | [#mystalive](http://twitter.com/search?q=%23mystalive) | N/A |
-| 18 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
-| 19 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
-| 20 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 21 | [Hackett](http://twitter.com/search?q=Hackett) | Hackett is a British clothing brand that specializes in menswear. The brand was founded in 1975 by Jeremy Hackett and Ashley Lloyd-Jennings, and is known for its classic style and quality craftsmanship. The name Hackett is derived from the Old English word "hacket," which means "a small enclosure or hedge." |
-| 22 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 23 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
-| 24 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 25 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 26 | [THE DAY THAT KRABS FRIES](http://twitter.com/search?q=THE+DAY+THAT+KRABS+FRIES) | N/A |
-| 27 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 28 | [Randall Cobb](http://twitter.com/search?q=Randall+Cobb) | N/A |
-| 29 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 30 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 31 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 32 | [prince eric](http://twitter.com/search?q=prince+eric) | Prince Eric is a character from the Disney movie The Little Mermaid. He is a handsome prince who falls in love with Ariel, the mermaid. In English, Prince Eric means a prince who is charming and romantic. |
-| 33 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 34 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 10 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
+| 11 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
+| 12 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 14 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
+| 15 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 16 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 17 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 18 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
+| 19 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 20 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
+| 21 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
+| 22 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 23 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 24 | [THE DAY THAT KRABS FRIES](http://twitter.com/search?q=THE+DAY+THAT+KRABS+FRIES) | N/A |
+| 25 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
+| 26 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 27 | [Key Lime](http://twitter.com/search?q=Key+Lime) | N/A |
+| 28 | [PS5 Pro](http://twitter.com/search?q=PS5+Pro) | N/A |
+| 29 | [Howell](http://twitter.com/search?q=Howell) | Howell is a surname of English origin. It is derived from the Old English personal name "Hugh" and the Old English word "halh", meaning "nook" or "small valley". The name can also be found in Scotland, where it is derived from the Gaelic personal name "Uallas". |
+| 30 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
+| 31 | [Hackett](http://twitter.com/search?q=Hackett) | Hackett is a British clothing brand that specializes in menswear. The brand was founded in 1975 by Jeremy Hackett and Ashley Lloyd-Jennings, and is known for its classic style and quality craftsmanship. The name Hackett is derived from the Old English word "hacket," which means "a small enclosure or hedge." |
+| 32 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 33 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
+| 34 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
 | 35 | [Quincy Jones](http://twitter.com/search?q=Quincy+Jones) | N/A |
-| 36 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
-| 37 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 38 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 39 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 40 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 41 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 42 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 43 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 44 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 45 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 46 | [White Stripes](http://twitter.com/search?q=White+Stripes) | N/A |
-| 47 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 48 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 49 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 36 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 37 | [Randall Cobb](http://twitter.com/search?q=Randall+Cobb) | N/A |
+| 38 | [Shaq Mason](http://twitter.com/search?q=Shaq+Mason) | N/A |
+| 39 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
+| 40 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 41 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 42 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 43 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 44 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 45 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 46 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 47 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
+| 48 | [Nike app](http://twitter.com/search?q=Nike+app) | N/A |
+| 49 | [Chandler Jones](http://twitter.com/search?q=Chandler+Jones) | N/A |
 
 
 

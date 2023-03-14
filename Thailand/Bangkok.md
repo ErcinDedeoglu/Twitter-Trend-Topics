@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-14 13:26:59 UTC`
+📆 Last Updated: `2023-03-14 14:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ออฟกัน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
-| 2 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
+| 1 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
+| 2 | [#MidnightMuseumEP4](http://twitter.com/search?q=%23MidnightMuseumEP4) | N/A |
 | 3 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
-| 4 | [#กราดยิง](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%94%e0%b8%a2%e0%b8%b4%e0%b8%87) | N/A |
-| 5 | [#EMSSS2EP5](http://twitter.com/search?q=%23EMSSS2EP5) | N/A |
+| 4 | [#PEPSIpresentsToty2022](http://twitter.com/search?q=%23PEPSIpresentsToty2022) | N/A |
+| 5 | [#คิดถึงเจ้าWar](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2War) | N/A |
 | 6 | ['Rover' MV Reaction](http://twitter.com/search?q=%27Rover%27+MV+Reaction) | N/A |
-| 7 | [BAMBAM GM 14MARCH](http://twitter.com/search?q=BAMBAM+GM+14MARCH) | N/A |
-| 8 | [Patrick Paris Metro](http://twitter.com/search?q=Patrick+Paris+Metro) | N/A |
-| 9 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 10 | [MARCH14 HAS CHARLOTTE](http://twitter.com/search?q=MARCH14+HAS+CHARLOTTE) | N/A |
-| 11 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 12 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
-| 13 | [morning patrick](http://twitter.com/search?q=morning+patrick) | N/A |
-| 14 | [Toty x Bright](http://twitter.com/search?q=Toty+x+Bright) | N/A |
-| 15 | [gulf morning](http://twitter.com/search?q=gulf+morning) | N/A |
-| 16 | [joyful day14 to engfa](http://twitter.com/search?q=joyful+day14+to+engfa) | N/A |
-| 17 | [billkin x daikin](http://twitter.com/search?q=billkin+x+daikin) | N/A |
-| 18 | [14 morning dunk](http://twitter.com/search?q=14+morning+dunk) | N/A |
+| 7 | [bambam gm 14march](http://twitter.com/search?q=bambam+gm+14march) | N/A |
+| 8 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
+| 9 | [Patrick Paris Metro](http://twitter.com/search?q=Patrick+Paris+Metro) | N/A |
+| 10 | [All About That Day](http://twitter.com/search?q=All+About+That+Day) | N/A |
+| 11 | [MARCH14 HAS CHARLOTTE](http://twitter.com/search?q=MARCH14+HAS+CHARLOTTE) | N/A |
+| 12 | [KAI 카이](http://twitter.com/search?q=KAI+%ec%b9%b4%ec%9d%b4) | N/A |
+| 13 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 14 | [lalisa ninety million](http://twitter.com/search?q=lalisa+ninety+million) | N/A |
+| 15 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
+| 16 | [Billkin x Daikin](http://twitter.com/search?q=Billkin+x+Daikin) | N/A |
+| 17 | [JOYFUL DAY14 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY14+TO+ENGFA) | N/A |
+| 18 | [nene dream note](http://twitter.com/search?q=nene+dream+note) | N/A |
 | 19 | [You're Blushing](http://twitter.com/search?q=You%27re+Blushing) | N/A |
-| 20 | [0327 PHOTOBOOK VOL](http://twitter.com/search?q=0327+PHOTOBOOK+VOL) | N/A |
-| 21 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 22 | [good mewning](http://twitter.com/search?q=good+mewning) | N/A |
-| 23 | [lalisa ninety million](http://twitter.com/search?q=lalisa+ninety+million) | N/A |
-| 24 | [14mar joong morning](http://twitter.com/search?q=14mar+joong+morning) | N/A |
+| 20 | [Toty x Bright](http://twitter.com/search?q=Toty+x+Bright) | N/A |
+| 21 | [14 morning dunk](http://twitter.com/search?q=14+morning+dunk) | N/A |
+| 22 | [0327 PHOTOBOOK VOL](http://twitter.com/search?q=0327+PHOTOBOOK+VOL) | N/A |
+| 23 | [W.Wanarat](http://twitter.com/search?q=W.Wanarat) | N/A |
+| 24 | [NESA IN NEW LIGHT14](http://twitter.com/search?q=NESA+IN+NEW+LIGHT14) | N/A |
 | 25 | [6M Hook Gemini](http://twitter.com/search?q=6M+Hook+Gemini) | N/A |
-| 26 | [NESA IN NEW LIGHT14](http://twitter.com/search?q=NESA+IN+NEW+LIGHT14) | N/A |
-| 27 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 28 | [All About That Day](http://twitter.com/search?q=All+About+That+Day) | N/A |
-| 29 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
-| 30 | [7-Eleven](http://twitter.com/search?q=7-Eleven) | N/A |
-| 31 | [The Show](http://twitter.com/search?q=The+Show) | N/A |
-| 32 | [A-level](http://twitter.com/search?q=A-level) | N/A |
-| 33 | [#GlicoAlmondKokaTH](http://twitter.com/search?q=%23GlicoAlmondKokaTH) | N/A |
-| 34 | [#GetWellSoonJeno](http://twitter.com/search?q=%23GetWellSoonJeno) | N/A |
-| 35 | [#BAZAARMENxBamBam](http://twitter.com/search?q=%23BAZAARMENxBamBam) | N/A |
-| 36 | [#ลัทธิส่าย](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%aa%e0%b9%88%e0%b8%b2%e0%b8%a2) | N/A |
-| 37 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
-| 38 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 39 | [#RojukissxZeeNuNew](http://twitter.com/search?q=%23RojukissxZeeNuNew) | N/A |
-| 40 | [#DaikinMaxHappiness](http://twitter.com/search?q=%23DaikinMaxHappiness) | N/A |
-| 41 | [#200kalwayslovemeen](http://twitter.com/search?q=%23200kalwayslovemeen) | N/A |
-| 42 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
-| 43 | [#MidnightMuseumEP3](http://twitter.com/search?q=%23MidnightMuseumEP3) | N/A |
-| 44 | [#PEPSIpresentsToty2022](http://twitter.com/search?q=%23PEPSIpresentsToty2022) | N/A |
-| 45 | [#TouchMyBodyMV](http://twitter.com/search?q=%23TouchMyBodyMV) | N/A |
-| 46 | [#CutiePieJapanD1](http://twitter.com/search?q=%23CutiePieJapanD1) | N/A |
-| 47 | [#ประยุทธ์ออกไป](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%a2%e0%b8%b8%e0%b8%97%e0%b8%98%e0%b9%8c%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%84%e0%b8%9b) | N/A |
-| 48 | [#PaiPai_PiDay](http://twitter.com/search?q=%23PaiPai_PiDay) | N/A |
-| 49 | [#มายภาคจ๋าพี่ป้าน้าอาคิดถึง](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%88%e0%b9%8b%e0%b8%b2%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%9b%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%ad%e0%b8%b2%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87) | N/A |
-| 50 | [#หน้ากากกิเลน](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b4%e0%b9%80%e0%b8%a5%e0%b8%99) | N/A |
+| 26 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 27 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
+| 28 | [7-Eleven](http://twitter.com/search?q=7-Eleven) | N/A |
+| 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 30 | [#กราดยิง](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%94%e0%b8%a2%e0%b8%b4%e0%b8%87) | N/A |
+| 31 | [#GetWellSoonJeno](http://twitter.com/search?q=%23GetWellSoonJeno) | N/A |
+| 32 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
+| 33 | [#EMSSS2EP5](http://twitter.com/search?q=%23EMSSS2EP5) | N/A |
+| 34 | [#TotyMusicAwardsxNuNew](http://twitter.com/search?q=%23TotyMusicAwardsxNuNew) | N/A |
+| 35 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 36 | [#GlicoAlmondKokaTH](http://twitter.com/search?q=%23GlicoAlmondKokaTH) | N/A |
+| 37 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
+| 38 | [#TouchMyBodyMV](http://twitter.com/search?q=%23TouchMyBodyMV) | N/A |
+| 39 | [#ลัทธิส่าย](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%aa%e0%b9%88%e0%b8%b2%e0%b8%a2) | N/A |
+| 40 | [#BAZAARMENxBamBam](http://twitter.com/search?q=%23BAZAARMENxBamBam) | N/A |
+| 41 | [#มณีพยาบาทตอนจบ](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%93%e0%b8%b5%e0%b8%9e%e0%b8%a2%e0%b8%b2%e0%b8%9a%e0%b8%b2%e0%b8%97%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b8%88%e0%b8%9a) | N/A |
+| 42 | [#SpecialClipBedFriendxiQIYI](http://twitter.com/search?q=%23SpecialClipBedFriendxiQIYI) | N/A |
+| 43 | [#DaikinMaxHappiness](http://twitter.com/search?q=%23DaikinMaxHappiness) | N/A |
+| 44 | [#RojukissxZeeNuNew](http://twitter.com/search?q=%23RojukissxZeeNuNew) | N/A |
+| 45 | [#พ้อกสีอินโทตี้อวอร์ด](http://twitter.com/search?q=%23%e0%b8%9e%e0%b9%89%e0%b8%ad%e0%b8%81%e0%b8%aa%e0%b8%b5%e0%b8%ad%e0%b8%b4%e0%b8%99%e0%b9%82%e0%b8%97%e0%b8%95%e0%b8%b5%e0%b9%89%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%94) | N/A |
+| 46 | [#เพื่อนายรีรันEP1](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%b2%e0%b8%a2%e0%b8%a3%e0%b8%b5%e0%b8%a3%e0%b8%b1%e0%b8%99EP1) | N/A |
+| 47 | [#หน้ากากกิเลน](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b4%e0%b9%80%e0%b8%a5%e0%b8%99) | N/A |
+| 48 | [#200KAlwaysLoveMeen](http://twitter.com/search?q=%23200KAlwaysLoveMeen) | N/A |
+| 49 | [#CutiePieJapanD1](http://twitter.com/search?q=%23CutiePieJapanD1) | N/A |
+| 50 | [#ประยุทธ์ออกไป](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%a2%e0%b8%b8%e0%b8%97%e0%b8%98%e0%b9%8c%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%84%e0%b8%9b) | N/A |
 
 
 
