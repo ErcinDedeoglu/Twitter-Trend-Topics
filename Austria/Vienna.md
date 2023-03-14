@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-14 14:17:18 UTC`
+📆 Last Updated: `2023-03-14 15:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Seilbahn](http://twitter.com/search?q=Seilbahn) | N/A |
-| 4 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 5 | [Mietpreisbremse](http://twitter.com/search?q=Mietpreisbremse) | N/A |
-| 6 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 7 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
-| 8 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 9 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 10 | [Klimaglück](http://twitter.com/search?q=Klimagl%c3%bcck) | N/A |
-| 11 | [Bereich](http://twitter.com/search?q=Bereich) | N/A |
-| 12 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 13 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 14 | [Miete](http://twitter.com/search?q=Miete) | N/A |
-| 15 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 16 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 17 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 18 | [Informationen](http://twitter.com/search?q=Informationen) | N/A |
-| 19 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 20 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 21 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 22 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 23 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 24 | [Oida](http://twitter.com/search?q=Oida) | N/A |
-| 25 | [Höhe](http://twitter.com/search?q=H%c3%b6he) | N/A |
-| 26 | [Konsequenzen](http://twitter.com/search?q=Konsequenzen) | N/A |
-| 27 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 28 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
-| 29 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 30 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
-| 31 | [Mikl-Leitner](http://twitter.com/search?q=Mikl-Leitner) | N/A |
-| 32 | [Pickerl](http://twitter.com/search?q=Pickerl) | N/A |
-| 33 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 34 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 35 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 36 | [Visionen](http://twitter.com/search?q=Visionen) | N/A |
-| 37 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 38 | [Mathe](http://twitter.com/search?q=Mathe) | N/A |
-| 39 | [#CliaVienna23](http://twitter.com/search?q=%23CliaVienna23) | N/A |
-| 40 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 41 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 42 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 43 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 44 | [Einlagen](http://twitter.com/search?q=Einlagen) | N/A |
-| 45 | [Ungeimpften](http://twitter.com/search?q=Ungeimpften) | N/A |
-| 46 | [#stufak](http://twitter.com/search?q=%23stufak) | N/A |
-| 47 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 48 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 49 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 50 | [Drittel](http://twitter.com/search?q=Drittel) | N/A |
+| 1 | [#cnd66](http://twitter.com/search?q=%23cnd66) | N/A |
+| 2 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 3 | [#Doskozil](http://twitter.com/search?q=%23Doskozil) | N/A |
+| 4 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 7 | [Seilbahn](http://twitter.com/search?q=Seilbahn) | N/A |
+| 8 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 9 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
+| 10 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 11 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 12 | [#Neanderhammer](http://twitter.com/search?q=%23Neanderhammer) | N/A |
+| 13 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 14 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
+| 15 | [Mietpreisbremse](http://twitter.com/search?q=Mietpreisbremse) | N/A |
+| 16 | [Klimaglück](http://twitter.com/search?q=Klimagl%c3%bcck) | N/A |
+| 17 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 18 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 19 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 20 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 21 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 22 | [Druck](http://twitter.com/search?q=Druck) | N/A |
+| 23 | [Programm](http://twitter.com/search?q=Programm) | N/A |
+| 24 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 25 | [Satire](http://twitter.com/search?q=Satire) | N/A |
+| 26 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 27 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 28 | [Miete](http://twitter.com/search?q=Miete) | N/A |
+| 29 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 30 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 31 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 32 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
+| 33 | [Bereich](http://twitter.com/search?q=Bereich) | N/A |
+| 34 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 35 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 36 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 37 | [Informationen](http://twitter.com/search?q=Informationen) | N/A |
+| 38 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 39 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
+| 40 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 41 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
+| 42 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 43 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 44 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
+| 45 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
+| 46 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 47 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 48 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 49 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
+| 50 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
 
 
 

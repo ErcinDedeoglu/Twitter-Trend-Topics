@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-14 14:17:04 UTC`
+📆 Last Updated: `2023-03-14 15:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
-| 2 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 3 | [Shopping Spree](http://twitter.com/search?q=Shopping+Spree) | N/A |
-| 4 | [Bet365](http://twitter.com/search?q=Bet365) | N/A |
-| 5 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 6 | [#ToryGaslighting](http://twitter.com/search?q=%23ToryGaslighting) | N/A |
-| 7 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 8 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 9 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 10 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 11 | [Marie's Rock](http://twitter.com/search?q=Marie%27s+Rock) | Marie's Rock is a French expression that refers to the idea of standing firm in one's beliefs and convictions, even in the face of adversity. It is derived from the story of Marie Antoinette, who was famously known for her strength and courage in the face of her execution. The phrase is often used to encourage someone to stay strong and not give up, no matter what life throws at them. |
-| 12 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
-| 15 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 16 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
-| 17 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
-| 18 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 19 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
-| 20 | [Michael O'Sullivan](http://twitter.com/search?q=Michael+O%27Sullivan) | N/A |
-| 21 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
-| 22 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 23 | [Supreme](http://twitter.com/search?q=Supreme) | N/A |
-| 24 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 25 | [Shankland](http://twitter.com/search?q=Shankland) | N/A |
-| 26 | [Nisbet](http://twitter.com/search?q=Nisbet) | N/A |
-| 27 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 28 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 29 | [Greg Taylor](http://twitter.com/search?q=Greg+Taylor) | Greg Taylor is a name, and it has no particular meaning in English. |
-| 30 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 31 | [Penny Farthing](http://twitter.com/search?q=Penny+Farthing) | N/A |
-| 32 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 33 | [Diverge](http://twitter.com/search?q=Diverge) | N/A |
-| 34 | [Ben Davies](http://twitter.com/search?q=Ben+Davies) | N/A |
-| 35 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
+| 1 | [#MIPIM2023](http://twitter.com/search?q=%23MIPIM2023) | N/A |
+| 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 3 | [Bet365](http://twitter.com/search?q=Bet365) | N/A |
+| 4 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 5 | [#ToriesOut250](http://twitter.com/search?q=%23ToriesOut250) | N/A |
+| 6 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 7 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 8 | [#ToryBritain](http://twitter.com/search?q=%23ToryBritain) | N/A |
+| 9 | [Tyson Fury](http://twitter.com/search?q=Tyson+Fury) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
+| 12 | [Dysart Dynamo](http://twitter.com/search?q=Dysart+Dynamo) | N/A |
+| 13 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
+| 14 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 15 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 16 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 17 | [Derek Fox](http://twitter.com/search?q=Derek+Fox) | N/A |
+| 18 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 19 | [Arkle](http://twitter.com/search?q=Arkle) | N/A |
+| 20 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
+| 21 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 22 | [Michael O'Sullivan](http://twitter.com/search?q=Michael+O%27Sullivan) | N/A |
+| 23 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
+| 24 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
+| 25 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 26 | [Ultima](http://twitter.com/search?q=Ultima) | N/A |
+| 27 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 28 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 29 | [Supreme](http://twitter.com/search?q=Supreme) | N/A |
+| 30 | [Shankland](http://twitter.com/search?q=Shankland) | N/A |
+| 31 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 32 | [Monbeg Genius](http://twitter.com/search?q=Monbeg+Genius) | N/A |
+| 33 | [Nisbet](http://twitter.com/search?q=Nisbet) | N/A |
+| 34 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 35 | [Greg Taylor](http://twitter.com/search?q=Greg+Taylor) | Greg Taylor is a name, and it has no particular meaning in English. |
 | 36 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 37 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 38 | [Happy 90th](http://twitter.com/search?q=Happy+90th) | N/A |
-| 39 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
-| 40 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
-| 41 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
-| 42 | [Captain Birdseye](http://twitter.com/search?q=Captain+Birdseye) | N/A |
-| 43 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
-| 44 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 45 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 46 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
-| 47 | [Illegal Migration Bill](http://twitter.com/search?q=Illegal+Migration+Bill) | N/A |
-| 48 | [Barrow](http://twitter.com/search?q=Barrow) | N/A |
-| 49 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 37 | [Ben Davies](http://twitter.com/search?q=Ben+Davies) | N/A |
+| 38 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 39 | [Penny Farthing](http://twitter.com/search?q=Penny+Farthing) | N/A |
+| 40 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
+| 41 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 42 | [guildford](http://twitter.com/search?q=guildford) | N/A |
+| 43 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 44 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 45 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
+| 46 | [Captain Birdseye](http://twitter.com/search?q=Captain+Birdseye) | N/A |
+| 47 | [Happy 90th](http://twitter.com/search?q=Happy+90th) | N/A |
+| 48 | [Shopping Spree](http://twitter.com/search?q=Shopping+Spree) | N/A |
+| 49 | [Pret](http://twitter.com/search?q=Pret) | N/A |
 
 
 

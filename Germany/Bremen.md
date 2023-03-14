@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-14 14:17:20 UTC`
+📆 Last Updated: `2023-03-14 15:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,47 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
-| 2 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
+| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 4 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
 | 5 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 7 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 8 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 9 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
-| 10 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 11 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 12 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
-| 13 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
-| 14 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 15 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 16 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 17 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
-| 18 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 19 | [parlament](http://twitter.com/search?q=parlament) | N/A |
-| 20 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 21 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 22 | [Geschäfte](http://twitter.com/search?q=Gesch%c3%a4fte) | N/A |
-| 23 | [Galeria](http://twitter.com/search?q=Galeria) | N/A |
-| 24 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 25 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 26 | [schnitzel](http://twitter.com/search?q=schnitzel) | N/A |
-| 27 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 28 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 29 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
-| 30 | [Regelung](http://twitter.com/search?q=Regelung) | N/A |
-| 31 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 32 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 33 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 34 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 35 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
-| 36 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
+| 6 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 7 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 8 | [Brie](http://twitter.com/search?q=Brie) | N/A |
+| 9 | [Mord](http://twitter.com/search?q=Mord) | N/A |
+| 10 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 11 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 12 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 13 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
+| 14 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 15 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 16 | [vereine](http://twitter.com/search?q=vereine) | N/A |
+| 17 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 18 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
+| 19 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 20 | [merkel](http://twitter.com/search?q=merkel) | N/A |
+| 21 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 22 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 23 | [Beratung](http://twitter.com/search?q=Beratung) | N/A |
+| 24 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
+| 25 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 26 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 27 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
+| 28 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 29 | [Geschäfte](http://twitter.com/search?q=Gesch%c3%a4fte) | N/A |
+| 30 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 31 | [Erwachsenen](http://twitter.com/search?q=Erwachsenen) | N/A |
+| 32 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 33 | [#rtl2](http://twitter.com/search?q=%23rtl2) | N/A |
+| 34 | [#Bundeswehr](http://twitter.com/search?q=%23Bundeswehr) | N/A |
+| 35 | [#SchnibloTag](http://twitter.com/search?q=%23SchnibloTag) | N/A |
+| 36 | [#CovidIsntOver](http://twitter.com/search?q=%23CovidIsntOver) | N/A |
 | 37 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
-| 38 | [#SchnibloTag](http://twitter.com/search?q=%23SchnibloTag) | N/A |
-| 39 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 40 | [#CovidIsntOver](http://twitter.com/search?q=%23CovidIsntOver) | N/A |
-| 41 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 42 | [#Impfschäden](http://twitter.com/search?q=%23Impfsch%c3%a4den) | N/A |
-| 43 | [#Querdenker](http://twitter.com/search?q=%23Querdenker) | N/A |
+| 38 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 39 | [#GrueneRausausdenParlamenten](http://twitter.com/search?q=%23GrueneRausausdenParlamenten) | N/A |
+| 40 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 41 | [#Impfschäden](http://twitter.com/search?q=%23Impfsch%c3%a4den) | N/A |
+| 42 | [#Querdenker](http://twitter.com/search?q=%23Querdenker) | N/A |
 
 
 

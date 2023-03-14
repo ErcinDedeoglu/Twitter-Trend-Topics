@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-03-14 14:17:47 UTC`
+📆 Last Updated: `2023-03-14 15:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ambajitemple](http://twitter.com/search?q=%23ambajitemple) | N/A |
+| 1 | [#ambaji](http://twitter.com/search?q=%23ambaji) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#AskBholaa](http://twitter.com/search?q=%23AskBholaa) | N/A |
-| 4 | [#PanduGaduBackinAction](http://twitter.com/search?q=%23PanduGaduBackinAction) | N/A |
-| 5 | [#GaslightOnHotstar](http://twitter.com/search?q=%23GaslightOnHotstar) | N/A |
-| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 7 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
-| 8 | [काले झंडे](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87+%e0%a4%9d%e0%a4%82%e0%a4%a1%e0%a5%87) | N/A |
-| 9 | [वेद प्रताप वैदिक](http://twitter.com/search?q=%e0%a4%b5%e0%a5%87%e0%a4%a6+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa+%e0%a4%b5%e0%a5%88%e0%a4%a6%e0%a4%bf%e0%a4%95) | N/A |
-| 10 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 11 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
-| 12 | [Natural Star](http://twitter.com/search?q=Natural+Star) | N/A |
-| 13 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 14 | [WTHA TURNS ONE](http://twitter.com/search?q=WTHA+TURNS+ONE) | N/A |
-| 15 | [Sara Ali Khan](http://twitter.com/search?q=Sara+Ali+Khan) | N/A |
-| 16 | [बिहार विधानसभा](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 17 | [44W FLASHCHARGE](http://twitter.com/search?q=44W+FLASHCHARGE) | N/A |
-| 18 | [TEJASSWI 7M IG POSTS](http://twitter.com/search?q=TEJASSWI+7M+IG+POSTS) | N/A |
-| 19 | [पत्रकारिता जगत](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%a4%e0%a4%be+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
-| 20 | [सिंह कालवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%b5%e0%a5%80) | N/A |
-| 21 | [Zoho](http://twitter.com/search?q=Zoho) | N/A |
-| 22 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 23 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 24 | [SSRCs Throws Spotlight OnNexus](http://twitter.com/search?q=SSRCs+Throws+Spotlight+OnNexus) | N/A |
-| 25 | [योगी सरकार](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 26 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 27 | [करणी सेना](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a4%a3%e0%a5%80+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
-| 28 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 29 | [भोपाल गैस](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%97%e0%a5%88%e0%a4%b8) | N/A |
-| 30 | [#DigitalHinduBhopal](http://twitter.com/search?q=%23DigitalHinduBhopal) | N/A |
-| 31 | [#DasaraTrailer](http://twitter.com/search?q=%23DasaraTrailer) | N/A |
-| 32 | [#global_star_ramcharan](http://twitter.com/search?q=%23global_star_ramcharan) | N/A |
-| 33 | [#ADMandPeace2023](http://twitter.com/search?q=%23ADMandPeace2023) | N/A |
-| 34 | [#realmec55launchon21st](http://twitter.com/search?q=%23realmec55launchon21st) | N/A |
-| 35 | [#AnpadhPM](http://twitter.com/search?q=%23AnpadhPM) | N/A |
-| 36 | [#JSP10thFormationDayMeet](http://twitter.com/search?q=%23JSP10thFormationDayMeet) | N/A |
-| 37 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
-| 38 | [#MissYouPPSir](http://twitter.com/search?q=%23MissYouPPSir) | N/A |
-| 39 | [#FutureisHERs](http://twitter.com/search?q=%23FutureisHERs) | N/A |
-| 40 | [#MissionImpossible](http://twitter.com/search?q=%23MissionImpossible) | N/A |
+| 3 | [#PanduGaduBackinAction](http://twitter.com/search?q=%23PanduGaduBackinAction) | N/A |
+| 4 | [#AskBholaa](http://twitter.com/search?q=%23AskBholaa) | N/A |
+| 5 | [#Global_Star_Ramcharan](http://twitter.com/search?q=%23Global_Star_Ramcharan) | N/A |
+| 6 | [NORDEK LAUNCH](http://twitter.com/search?q=NORDEK+LAUNCH) | N/A |
+| 7 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 8 | [MUNAWAR'S 5MILLION IG JANTA](http://twitter.com/search?q=MUNAWAR%27S+5MILLION+IG+JANTA) | N/A |
+| 9 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
+| 10 | [काले झंडे](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87+%e0%a4%9d%e0%a4%82%e0%a4%a1%e0%a5%87) | N/A |
+| 11 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
+| 12 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 13 | [sara ali khan](http://twitter.com/search?q=sara+ali+khan) | N/A |
+| 14 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
+| 15 | [वेद प्रताप वैदिक](http://twitter.com/search?q=%e0%a4%b5%e0%a5%87%e0%a4%a6+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa+%e0%a4%b5%e0%a5%88%e0%a4%a6%e0%a4%bf%e0%a4%95) | N/A |
+| 16 | [England](http://twitter.com/search?q=England) | N/A |
+| 17 | [Natural Star](http://twitter.com/search?q=Natural+Star) | N/A |
+| 18 | [बिहार विधानसभा](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 19 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 20 | [TEJASSWI 7M IG POSTS](http://twitter.com/search?q=TEJASSWI+7M+IG+POSTS) | N/A |
+| 21 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 22 | [Zoho](http://twitter.com/search?q=Zoho) | N/A |
+| 23 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 24 | [#LokmatParliamentaryAwards](http://twitter.com/search?q=%23LokmatParliamentaryAwards) | N/A |
+| 25 | [#DigitalHinduBhopal](http://twitter.com/search?q=%23DigitalHinduBhopal) | N/A |
+| 26 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 27 | [#ADMandPeace2023](http://twitter.com/search?q=%23ADMandPeace2023) | N/A |
+| 28 | [#DasaraTrailer](http://twitter.com/search?q=%23DasaraTrailer) | N/A |
+| 29 | [#GaslightOnHotstar](http://twitter.com/search?q=%23GaslightOnHotstar) | N/A |
+| 30 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
+| 31 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 32 | [#AnpadhPM](http://twitter.com/search?q=%23AnpadhPM) | N/A |
+| 33 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
+| 34 | [#JSP10thFormationDayMeet](http://twitter.com/search?q=%23JSP10thFormationDayMeet) | N/A |
+| 35 | [#MIvsGG](http://twitter.com/search?q=%23MIvsGG) | N/A |
+| 36 | [#NEETPG2023](http://twitter.com/search?q=%23NEETPG2023) | N/A |
+| 37 | [#realmeC55LaunchOn21st](http://twitter.com/search?q=%23realmeC55LaunchOn21st) | N/A |
+| 38 | [#Meta](http://twitter.com/search?q=%23Meta) | N/A |
+| 39 | [#MissionImpossible](http://twitter.com/search?q=%23MissionImpossible) | N/A |
+| 40 | [#layoffs](http://twitter.com/search?q=%23layoffs) | N/A |
 | 41 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
 | 42 | [#Nani](http://twitter.com/search?q=%23Nani) | N/A |
-| 43 | [#MIvGG](http://twitter.com/search?q=%23MIvGG) | N/A |
-| 44 | [#Lahore](http://twitter.com/search?q=%23Lahore) | N/A |
-| 45 | [#Meta](http://twitter.com/search?q=%23Meta) | N/A |
-| 46 | [#NEETPG](http://twitter.com/search?q=%23NEETPG) | N/A |
-| 47 | [#JanaSena10thformationday](http://twitter.com/search?q=%23JanaSena10thformationday) | N/A |
-| 48 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
-| 49 | [#ChangeMakersOfIndia](http://twitter.com/search?q=%23ChangeMakersOfIndia) | N/A |
+| 43 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 44 | [#MissYouPPSir](http://twitter.com/search?q=%23MissYouPPSir) | N/A |
+| 45 | [#ABPS2023](http://twitter.com/search?q=%23ABPS2023) | N/A |
+| 46 | [#Lahore](http://twitter.com/search?q=%23Lahore) | N/A |
+| 47 | [#FutureIsHERs](http://twitter.com/search?q=%23FutureIsHERs) | N/A |
+| 48 | [#KeerthySuresh](http://twitter.com/search?q=%23KeerthySuresh) | N/A |
+| 49 | [#TSPSC](http://twitter.com/search?q=%23TSPSC) | N/A |
 
 
 

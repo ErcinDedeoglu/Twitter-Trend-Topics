@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-14 14:17:56 UTC`
+📆 Last Updated: `2023-03-14 15:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United States](</United States>)
 | 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 2 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 3 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 4 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 5 | [#BCEO](http://twitter.com/search?q=%23BCEO) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 8 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 9 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 10 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 11 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 12 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
-| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 14 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
-| 15 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
-| 16 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
-| 17 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 4 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 5 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 6 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 7 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 8 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 11 | [#bceo](http://twitter.com/search?q=%23bceo) | N/A |
+| 12 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 13 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 14 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
+| 15 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
+| 16 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
+| 17 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
 | 18 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 19 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
-| 20 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
-| 21 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 22 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 23 | [THE DAY THAT KRABS FRIES](http://twitter.com/search?q=THE+DAY+THAT+KRABS+FRIES) | N/A |
-| 24 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
-| 25 | [Vegas Patriots](http://twitter.com/search?q=Vegas+Patriots) | N/A |
-| 26 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 27 | [Key Lime](http://twitter.com/search?q=Key+Lime) | N/A |
-| 28 | [PS5 Pro](http://twitter.com/search?q=PS5+Pro) | N/A |
-| 29 | [Howell](http://twitter.com/search?q=Howell) | Howell is a surname of English origin. It is derived from the Old English personal name "Hugh" and the Old English word "halh", meaning "nook" or "small valley". The name can also be found in Scotland, where it is derived from the Gaelic personal name "Uallas". |
-| 30 | [Hackett](http://twitter.com/search?q=Hackett) | Hackett is a British clothing brand that specializes in menswear. The brand was founded in 1975 by Jeremy Hackett and Ashley Lloyd-Jennings, and is known for its classic style and quality craftsmanship. The name Hackett is derived from the Old English word "hacket," which means "a small enclosure or hedge." |
-| 31 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 32 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 33 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 34 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 35 | [Quincy Jones](http://twitter.com/search?q=Quincy+Jones) | N/A |
-| 36 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 37 | [Shaq Mason](http://twitter.com/search?q=Shaq+Mason) | N/A |
-| 38 | [Randall Cobb](http://twitter.com/search?q=Randall+Cobb) | N/A |
-| 39 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 40 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 41 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 42 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 43 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 44 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 45 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 46 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
-| 47 | [Nike app](http://twitter.com/search?q=Nike+app) | N/A |
-| 48 | [Chandler Jones](http://twitter.com/search?q=Chandler+Jones) | N/A |
+| 19 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 20 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 21 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 22 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
+| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 24 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 25 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 26 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
+| 27 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
+| 28 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 29 | [PS5 Pro](http://twitter.com/search?q=PS5+Pro) | N/A |
+| 30 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 31 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 32 | [Dono](http://twitter.com/search?q=Dono) | N/A |
+| 33 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 34 | [Nike app](http://twitter.com/search?q=Nike+app) | N/A |
+| 35 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 36 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 37 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 38 | [Krabs](http://twitter.com/search?q=Krabs) | N/A |
+| 39 | [Bomani](http://twitter.com/search?q=Bomani) | N/A |
+| 40 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 41 | [JJ Starling](http://twitter.com/search?q=JJ+Starling) | N/A |
+| 42 | [Key Lime](http://twitter.com/search?q=Key+Lime) | N/A |
+| 43 | [USGA](http://twitter.com/search?q=USGA) | N/A |
+| 44 | [Howell](http://twitter.com/search?q=Howell) | Howell is a surname of English origin. It is derived from the Old English personal name "Hugh" and the Old English word "halh", meaning "nook" or "small valley". The name can also be found in Scotland, where it is derived from the Gaelic personal name "Uallas". |
+| 45 | [Shaq Mason](http://twitter.com/search?q=Shaq+Mason) | N/A |
+| 46 | [Tyler Perry](http://twitter.com/search?q=Tyler+Perry) | N/A |
+| 47 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
+| 48 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
 
 
 

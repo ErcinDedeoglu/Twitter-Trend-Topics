@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-03-14 14:17:41 UTC`
+📆 Last Updated: `2023-03-14 15:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#ZamanPark](http://twitter.com/search?q=%23ZamanPark) | N/A |
-| 4 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
-| 5 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 7 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 8 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 9 | [التدابير الاحترازيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%a7%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d8%b2%d9%8a%d9%87) | N/A |
-| 10 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
-| 11 | [١٤ اذار](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |
-| 12 | [Modi ji](http://twitter.com/search?q=Modi+ji) | N/A |
-| 13 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 14 | [13 مارس 2023](http://twitter.com/search?q=13+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 15 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 16 | [مركز دبي التجاري العالمي](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%af%d8%a8%d9%8a+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 17 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 18 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 19 | [Dubai World Trade Centre](http://twitter.com/search?q=Dubai+World+Trade+Centre) | N/A |
-| 20 | [المسابقه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 21 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 22 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 23 | [زايد توك](http://twitter.com/search?q=%d8%b2%d8%a7%d9%8a%d8%af+%d8%aa%d9%88%d9%83) | N/A |
-| 24 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 25 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
-| 26 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
-| 27 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 28 | [الشارقه المسرحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad%d9%8a%d9%87) | N/A |
-| 29 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
-| 30 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
-| 31 | [ساعات العمل](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 32 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 33 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 34 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 35 | [المملكة المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 36 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
-| 37 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
-| 38 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 39 | [هون علي](http://twitter.com/search?q=%d9%87%d9%88%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
-| 40 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 41 | [الاوراق الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d8%a7%d9%82+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 42 | [Ugandan](http://twitter.com/search?q=Ugandan) | N/A |
-| 43 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 44 | [المدير التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
-| 45 | [الجهات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 46 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
-| 47 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 48 | [Lebanese](http://twitter.com/search?q=Lebanese) | N/A |
-| 49 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
+| 3 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
+| 4 | [#ZamanPark](http://twitter.com/search?q=%23ZamanPark) | N/A |
+| 5 | [Chup](http://twitter.com/search?q=Chup) | N/A |
+| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 7 | [المسابقه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 8 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
+| 9 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 10 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 11 | [التدابير الاحترازيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%a7%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d8%b2%d9%8a%d9%87) | N/A |
+| 12 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 13 | [١٤ اذار](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |
+| 14 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 15 | [علي مبخوت](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%a8%d8%ae%d9%88%d8%aa) | N/A |
+| 16 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 17 | [Modi ji](http://twitter.com/search?q=Modi+ji) | N/A |
+| 18 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 19 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 20 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
+| 21 | [سيليكون فالي](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
+| 22 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 23 | [Tera](http://twitter.com/search?q=Tera) | N/A |
+| 24 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 25 | [نادي الوصل](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b5%d9%84) | N/A |
+| 26 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 27 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
+| 28 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 29 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 30 | [ساعات العمل](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 31 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
+| 32 | [الشارقه المسرحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad%d9%8a%d9%87) | N/A |
+| 33 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
+| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 35 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 36 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 37 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 38 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 39 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 40 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 41 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 42 | [هون علي](http://twitter.com/search?q=%d9%87%d9%88%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
+| 43 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 44 | [Lebanese](http://twitter.com/search?q=Lebanese) | N/A |
+| 45 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 46 | [البنوك الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 47 | [Teri](http://twitter.com/search?q=Teri) | N/A |
+| 48 | [رييس مجلس](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3) | N/A |
+| 49 | [15 مارس](http://twitter.com/search?q=15+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
 
 
 

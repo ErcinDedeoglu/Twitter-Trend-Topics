@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-14 14:17:21 UTC`
+📆 Last Updated: `2023-03-14 15:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,47 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
-| 2 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
+| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 6 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 7 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 8 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
-| 9 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 10 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 11 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
-| 12 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
-| 13 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 14 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 15 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 16 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
-| 17 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 18 | [parlament](http://twitter.com/search?q=parlament) | N/A |
-| 19 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 20 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 21 | [Geschäfte](http://twitter.com/search?q=Gesch%c3%a4fte) | N/A |
-| 22 | [Galeria](http://twitter.com/search?q=Galeria) | N/A |
-| 23 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 24 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 25 | [schnitzel](http://twitter.com/search?q=schnitzel) | N/A |
-| 26 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 27 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 28 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
-| 29 | [Regelung](http://twitter.com/search?q=Regelung) | N/A |
-| 30 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 31 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 32 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 33 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 34 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
-| 35 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 36 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
-| 37 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
-| 38 | [#SchnibloTag](http://twitter.com/search?q=%23SchnibloTag) | N/A |
-| 39 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 40 | [#CovidIsntOver](http://twitter.com/search?q=%23CovidIsntOver) | N/A |
-| 41 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 42 | [#Impfschäden](http://twitter.com/search?q=%23Impfsch%c3%a4den) | N/A |
-| 43 | [#Querdenker](http://twitter.com/search?q=%23Querdenker) | N/A |
+| 4 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
+| 5 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 6 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 7 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 8 | [Brie](http://twitter.com/search?q=Brie) | N/A |
+| 9 | [Mord](http://twitter.com/search?q=Mord) | N/A |
+| 10 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 11 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 12 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 13 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
+| 14 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 15 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 16 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 17 | [vereine](http://twitter.com/search?q=vereine) | N/A |
+| 18 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 19 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
+| 20 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 21 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 22 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 23 | [Beratung](http://twitter.com/search?q=Beratung) | N/A |
+| 24 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
+| 25 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 26 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 27 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
+| 28 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 29 | [Geschäfte](http://twitter.com/search?q=Gesch%c3%a4fte) | N/A |
+| 30 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 31 | [Erwachsenen](http://twitter.com/search?q=Erwachsenen) | N/A |
+| 32 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 33 | [#rtl2](http://twitter.com/search?q=%23rtl2) | N/A |
+| 34 | [#Bundeswehr](http://twitter.com/search?q=%23Bundeswehr) | N/A |
+| 35 | [#CovidIsntOver](http://twitter.com/search?q=%23CovidIsntOver) | N/A |
+| 36 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
+| 37 | [#SchnibloTag](http://twitter.com/search?q=%23SchnibloTag) | N/A |
+| 38 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 39 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 40 | [#GrueneRausausdenParlamenten](http://twitter.com/search?q=%23GrueneRausausdenParlamenten) | N/A |
+| 41 | [#Impfschäden](http://twitter.com/search?q=%23Impfsch%c3%a4den) | N/A |
+| 42 | [#Querdenker](http://twitter.com/search?q=%23Querdenker) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-03-14 14:17:11 UTC`
+📆 Last Updated: `2023-03-14 15:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
-| 2 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 3 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#suenoconalejandrofernandez](http://twitter.com/search?q=%23suenoconalejandrofernandez) | N/A |
-| 6 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
-| 7 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 8 | [Vicepresidenta](http://twitter.com/search?q=Vicepresidenta) | N/A |
-| 9 | [#DeMalas](http://twitter.com/search?q=%23DeMalas) | N/A |
-| 10 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 11 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 12 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 1 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 2 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
+| 5 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
+| 6 | [#DeMalas](http://twitter.com/search?q=%23DeMalas) | N/A |
+| 7 | [Vicepresidenta](http://twitter.com/search?q=Vicepresidenta) | N/A |
+| 8 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
+| 9 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 10 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 11 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 12 | [#SueñoConAlejandroFernandez](http://twitter.com/search?q=%23Sue%c3%b1oConAlejandroFernandez) | N/A |
 | 13 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
-| 14 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 15 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 16 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
-| 17 | [Linero](http://twitter.com/search?q=Linero) | N/A |
-| 18 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
-| 19 | [Matador](http://twitter.com/search?q=Matador) | N/A |
-| 20 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
-| 21 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
+| 14 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
+| 15 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
+| 16 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 17 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 18 | [Linero](http://twitter.com/search?q=Linero) | N/A |
+| 19 | [Exsenadora](http://twitter.com/search?q=Exsenadora) | N/A |
+| 20 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 21 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
 | 22 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
-| 23 | [Duque](http://twitter.com/search?q=Duque) | N/A |
-| 24 | [black hawk](http://twitter.com/search?q=black+hawk) | N/A |
-| 25 | [David Murcia](http://twitter.com/search?q=David+Murcia) | N/A |
-| 26 | [Luis Ernesto](http://twitter.com/search?q=Luis+Ernesto) | N/A |
-| 27 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 28 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 29 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 30 | [Negra](http://twitter.com/search?q=Negra) | N/A |
+| 23 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
+| 24 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 25 | [Luis Ernesto](http://twitter.com/search?q=Luis+Ernesto) | N/A |
+| 26 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
+| 27 | [Negra](http://twitter.com/search?q=Negra) | N/A |
+| 28 | [David Murcia](http://twitter.com/search?q=David+Murcia) | N/A |
+| 29 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 30 | [Selección Colombia](http://twitter.com/search?q=Selecci%c3%b3n+Colombia) | N/A |
 | 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 32 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
-| 33 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
-| 34 | [Dilian Francisca Toro](http://twitter.com/search?q=Dilian+Francisca+Toro) | N/A |
-| 35 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 36 | [davinson](http://twitter.com/search?q=davinson) | N/A |
-| 37 | [Tarazá](http://twitter.com/search?q=Taraz%c3%a1) | N/A |
-| 38 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 39 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 40 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
-| 41 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 42 | [Río de Oro](http://twitter.com/search?q=R%c3%ado+de+Oro) | N/A |
-| 43 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 44 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 45 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 46 | [Nelson Palacio](http://twitter.com/search?q=Nelson+Palacio) | N/A |
-| 47 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 48 | [Corea del Sur y Japón](http://twitter.com/search?q=Corea+del+Sur+y+Jap%c3%b3n) | N/A |
-| 49 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 50 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
+| 32 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 33 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
+| 34 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 35 | [La Silla Vacía](http://twitter.com/search?q=La+Silla+Vac%c3%ada) | N/A |
+| 36 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 37 | [Río de oro](http://twitter.com/search?q=R%c3%ado+de+oro) | N/A |
+| 38 | [nadies](http://twitter.com/search?q=nadies) | N/A |
+| 39 | [Duque](http://twitter.com/search?q=Duque) | N/A |
+| 40 | [Davinson](http://twitter.com/search?q=Davinson) | N/A |
+| 41 | [Fondos](http://twitter.com/search?q=Fondos) | N/A |
+| 42 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
+| 43 | [Nelson Palacio](http://twitter.com/search?q=Nelson+Palacio) | N/A |
+| 44 | [Dilian Francisca Toro](http://twitter.com/search?q=Dilian+Francisca+Toro) | N/A |
+| 45 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 46 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 47 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |
+| 48 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
+| 49 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 50 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-14 14:18:07 UTC`
+📆 Last Updated: `2023-03-14 15:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,38 +15,44 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BCEO](http://twitter.com/search?q=%23BCEO) | N/A |
-| 2 | [#yunarmy](http://twitter.com/search?q=%23yunarmy) | N/A |
-| 3 | [Navaļnija](http://twitter.com/search?q=Nava%c4%bcnija) | N/A |
-| 4 | [Gruzijā](http://twitter.com/search?q=Gruzij%c4%81) | N/A |
-| 5 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 6 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 7 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 8 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
-| 9 | [Vismaz](http://twitter.com/search?q=Vismaz) | N/A |
-| 10 | [Oskaru](http://twitter.com/search?q=Oskaru) | N/A |
-| 11 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 1 | [#bceo](http://twitter.com/search?q=%23bceo) | N/A |
+| 2 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 3 | [Krievija](http://twitter.com/search?q=Krievija) | N/A |
+| 4 | [Navaļnija](http://twitter.com/search?q=Nava%c4%bcnija) | N/A |
+| 5 | [gruzijā](http://twitter.com/search?q=gruzij%c4%81) | N/A |
+| 6 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 7 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 8 | [Varētu](http://twitter.com/search?q=Var%c4%93tu) | N/A |
+| 9 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 10 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 11 | [oskaru](http://twitter.com/search?q=oskaru) | N/A |
 | 12 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 13 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
-| 14 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
-| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
-| 17 | [#optibetvirsliga](http://twitter.com/search?q=%23optibetvirsliga) | N/A |
-| 18 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 19 | [puškins](http://twitter.com/search?q=pu%c5%a1kins) | N/A |
-| 20 | [Cilvēki](http://twitter.com/search?q=Cilv%c4%93ki) | N/A |
-| 21 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 22 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 23 | [Varētu](http://twitter.com/search?q=Var%c4%93tu) | N/A |
-| 24 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
-| 25 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
-| 26 | [Krievija](http://twitter.com/search?q=Krievija) | N/A |
-| 27 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 28 | [Turklāt](http://twitter.com/search?q=Turkl%c4%81t) | N/A |
-| 29 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
-| 30 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
-| 31 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
-| 32 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 13 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 14 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 15 | [Lūdzu](http://twitter.com/search?q=L%c5%abdzu) | N/A |
+| 16 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
+| 17 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 18 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
+| 19 | [nekas](http://twitter.com/search?q=nekas) | N/A |
+| 20 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
+| 21 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
+| 22 | [Visu](http://twitter.com/search?q=Visu) | N/A |
+| 23 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
+| 24 | [Latgales](http://twitter.com/search?q=Latgales) | N/A |
+| 25 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 26 | [puškins](http://twitter.com/search?q=pu%c5%a1kins) | N/A |
+| 27 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
+| 28 | [#1188lv](http://twitter.com/search?q=%231188lv) | N/A |
+| 29 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 30 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
+| 31 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
+| 32 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 33 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 34 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
+| 35 | [Eiropā](http://twitter.com/search?q=Eirop%c4%81) | N/A |
+| 36 | [Liepājas](http://twitter.com/search?q=Liep%c4%81jas) | N/A |
+| 37 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 38 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 
 
 

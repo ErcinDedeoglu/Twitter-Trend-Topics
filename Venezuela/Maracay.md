@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-03-14 14:17:12 UTC`
+📆 Last Updated: `2023-03-14 15:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#14Mar](http://twitter.com/search?q=%2314Mar) | N/A |
 | 2 | [#ChávezAntiimperialista](http://twitter.com/search?q=%23Ch%c3%a1vezAntiimperialista) | N/A |
-| 3 | [Luis Beltrán Prieto Figueroa](http://twitter.com/search?q=Luis+Beltr%c3%a1n+Prieto+Figueroa) | N/A |
-| 4 | [#ChávezDelMundo](http://twitter.com/search?q=%23Ch%c3%a1vezDelMundo) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#ChávezDelMundo](http://twitter.com/search?q=%23Ch%c3%a1vezDelMundo) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Luis Beltrán Prieto Figueroa](http://twitter.com/search?q=Luis+Beltr%c3%a1n+Prieto+Figueroa) | N/A |
 | 6 | [#InvictaFANB](http://twitter.com/search?q=%23InvictaFANB) | N/A |
 | 7 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 9 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 10 | [Alma Llanera](http://twitter.com/search?q=Alma+Llanera) | N/A |
-| 11 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 8 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 9 | [Alma Llanera](http://twitter.com/search?q=Alma+Llanera) | N/A |
+| 10 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 11 | [Culantro](http://twitter.com/search?q=Culantro) | N/A |
 | 12 | [Pedro Elías Gutiérrez](http://twitter.com/search?q=Pedro+El%c3%adas+Guti%c3%a9rrez) | N/A |
-| 13 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
-| 14 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 15 | [El 14](http://twitter.com/search?q=El+14) | N/A |
-| 16 | [Culantro](http://twitter.com/search?q=Culantro) | N/A |
+| 13 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 14 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
+| 15 | [Saime](http://twitter.com/search?q=Saime) | N/A |
+| 16 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 17 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 18 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 19 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 20 | [Saime](http://twitter.com/search?q=Saime) | N/A |
-| 21 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 18 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 19 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
+| 20 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 21 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
 | 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 23 | [Francisco Lazo Martí](http://twitter.com/search?q=Francisco+Lazo+Mart%c3%ad) | N/A |
-| 24 | [pablo lópez](http://twitter.com/search?q=pablo+l%c3%b3pez) | N/A |
-| 25 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 26 | [Día del Pescador Artesanal](http://twitter.com/search?q=D%c3%ada+del+Pescador+Artesanal) | N/A |
-| 27 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 28 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 29 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 30 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
-| 31 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
-| 32 | [Miguel Ángel Landa](http://twitter.com/search?q=Miguel+%c3%81ngel+Landa) | N/A |
-| 33 | [neceser](http://twitter.com/search?q=neceser) | N/A |
-| 34 | [Pepe grillo](http://twitter.com/search?q=Pepe+grillo) | N/A |
-| 35 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 36 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
-| 37 | [Gaceta Oficial](http://twitter.com/search?q=Gaceta+Oficial) | N/A |
-| 38 | [Día de la Industria Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Industria+Nacional) | N/A |
-| 39 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 40 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 41 | [Tren del Llano](http://twitter.com/search?q=Tren+del+Llano) | N/A |
-| 42 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 44 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 45 | [Sonya Smith](http://twitter.com/search?q=Sonya+Smith) | N/A |
+| 23 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 24 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 25 | [Francisco Lazo Martí](http://twitter.com/search?q=Francisco+Lazo+Mart%c3%ad) | N/A |
+| 26 | [miguel ángel landa](http://twitter.com/search?q=miguel+%c3%a1ngel+landa) | N/A |
+| 27 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 28 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
+| 29 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 30 | [Día del Pescador Artesanal](http://twitter.com/search?q=D%c3%ada+del+Pescador+Artesanal) | N/A |
+| 31 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 32 | [Gaceta Oficial](http://twitter.com/search?q=Gaceta+Oficial) | N/A |
+| 33 | [Pepe Grillo](http://twitter.com/search?q=Pepe+Grillo) | N/A |
+| 34 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
+| 35 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 36 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
+| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 39 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 40 | [Neceser](http://twitter.com/search?q=Neceser) | N/A |
+| 41 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 42 | [sonya smith](http://twitter.com/search?q=sonya+smith) | N/A |
+| 43 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 44 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 45 | [sandro y joselo](http://twitter.com/search?q=sandro+y+joselo) | N/A |
 | 46 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
-| 47 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 48 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 49 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 50 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 47 | [alcabalas](http://twitter.com/search?q=alcabalas) | N/A |
+| 48 | [templario](http://twitter.com/search?q=templario) | N/A |
+| 49 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 50 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
 
 
 

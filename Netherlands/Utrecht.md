@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-14 14:17:23 UTC`
+📆 Last Updated: `2023-03-14 15:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
-| 2 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 3 | [Genee](http://twitter.com/search?q=Genee) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 6 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
-| 7 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
-| 8 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
-| 9 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
-| 10 | [Teze](http://twitter.com/search?q=Teze) | N/A |
-| 11 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 12 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 13 | [reijnders](http://twitter.com/search?q=reijnders) | N/A |
-| 14 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
-| 15 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 16 | [Rob Jetten](http://twitter.com/search?q=Rob+Jetten) | N/A |
-| 17 | [Laura van Geest](http://twitter.com/search?q=Laura+van+Geest) | N/A |
-| 18 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
-| 19 | [Elsschot](http://twitter.com/search?q=Elsschot) | N/A |
-| 20 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 21 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 22 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
-| 23 | [bouweis brussel](http://twitter.com/search?q=bouweis+brussel) | N/A |
-| 24 | [advies](http://twitter.com/search?q=advies) | N/A |
-| 25 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 26 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 27 | [Knoepert](http://twitter.com/search?q=Knoepert) | N/A |
-| 28 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
-| 29 | [Eindhovense](http://twitter.com/search?q=Eindhovense) | N/A |
-| 30 | [Nabil B.](http://twitter.com/search?q=Nabil+B.) | N/A |
-| 31 | [kaag](http://twitter.com/search?q=kaag) | N/A |
-| 32 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 34 | [Spookslot](http://twitter.com/search?q=Spookslot) | N/A |
-| 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 37 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
-| 38 | [Obispo](http://twitter.com/search?q=Obispo) | Obispo is a Spanish word meaning "bishop". It is used to refer to a bishop in the Catholic Church. |
-| 39 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 40 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 41 | [spirituality](http://twitter.com/search?q=spirituality) | N/A |
-| 42 | [workum](http://twitter.com/search?q=workum) | N/A |
-| 43 | [Ajax 1](http://twitter.com/search?q=Ajax+1) | N/A |
-| 44 | [Dienstplicht](http://twitter.com/search?q=Dienstplicht) | N/A |
-| 45 | [Kernenergie](http://twitter.com/search?q=Kernenergie) | N/A |
-| 46 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
-| 47 | [Stavoren](http://twitter.com/search?q=Stavoren) | N/A |
-| 48 | [windmolens](http://twitter.com/search?q=windmolens) | N/A |
-| 49 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 1 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 2 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [Jeroen Rietbergen](http://twitter.com/search?q=Jeroen+Rietbergen) | N/A |
+| 5 | [Ali B](http://twitter.com/search?q=Ali+B) | N/A |
+| 6 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 7 | [Marco Borsato](http://twitter.com/search?q=Marco+Borsato) | N/A |
+| 8 | [Genee](http://twitter.com/search?q=Genee) | N/A |
+| 9 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
+| 10 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
+| 11 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 12 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 13 | [#1vdebat](http://twitter.com/search?q=%231vdebat) | N/A |
+| 14 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
+| 15 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 16 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 17 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
+| 18 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 19 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 20 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
+| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 22 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
+| 23 | [goedemorgen petra](http://twitter.com/search?q=goedemorgen+petra) | N/A |
+| 24 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 25 | [Laura van Geest](http://twitter.com/search?q=Laura+van+Geest) | N/A |
+| 26 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 27 | [Lelylijn](http://twitter.com/search?q=Lelylijn) | N/A |
+| 28 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 29 | [Ziggo](http://twitter.com/search?q=Ziggo) | N/A |
+| 30 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
+| 31 | [bouweis brussel](http://twitter.com/search?q=bouweis+brussel) | N/A |
+| 32 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 33 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
+| 34 | [KNMI](http://twitter.com/search?q=KNMI) | N/A |
+| 35 | [elsschot](http://twitter.com/search?q=elsschot) | N/A |
+| 36 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
+| 37 | [Gods](http://twitter.com/search?q=Gods) | N/A |
+| 38 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
+| 39 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 40 | [Advies](http://twitter.com/search?q=Advies) | N/A |
+| 41 | [kernenergie](http://twitter.com/search?q=kernenergie) | N/A |
+| 42 | [Veilig](http://twitter.com/search?q=Veilig) | N/A |
+| 43 | [nabil b.](http://twitter.com/search?q=nabil+b.) | N/A |
+| 44 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
+| 45 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 46 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
+| 47 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 48 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 49 | [Spookslot](http://twitter.com/search?q=Spookslot) | N/A |
 
 
 
