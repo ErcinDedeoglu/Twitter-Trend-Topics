@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-14 10:17:50 UTC`
+📆 Last Updated: `2023-03-14 11:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CheltenhamFestival](http://twitter.com/search?q=%23CheltenhamFestival) | N/A |
-| 2 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 3 | [#Rewired23](http://twitter.com/search?q=%23Rewired23) | N/A |
-| 4 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 5 | [#ASongOrMovieForIntelligence](http://twitter.com/search?q=%23ASongOrMovieForIntelligence) | N/A |
-| 6 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 7 | [Happy 90th](http://twitter.com/search?q=Happy+90th) | N/A |
-| 8 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
-| 9 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 10 | [Shopping Spree](http://twitter.com/search?q=Shopping+Spree) | N/A |
-| 11 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 12 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 14 | [Theresa May](http://twitter.com/search?q=Theresa+May) | N/A |
-| 15 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 16 | [Ed Balls](http://twitter.com/search?q=Ed+Balls) | N/A |
-| 17 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 18 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
-| 19 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
-| 20 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 21 | [Jaffa](http://twitter.com/search?q=Jaffa) | N/A |
-| 22 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 23 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 24 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 25 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 26 | [Hundreds](http://twitter.com/search?q=Hundreds) | N/A |
-| 27 | [Tunnocks](http://twitter.com/search?q=Tunnocks) | N/A |
-| 28 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 29 | [Defund the BBC](http://twitter.com/search?q=Defund+the+BBC) | N/A |
-| 30 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 31 | [Marie's Rock](http://twitter.com/search?q=Marie%27s+Rock) | Marie's Rock is a French expression that refers to the idea of standing firm in one's beliefs and convictions, even in the face of adversity. It is derived from the story of Marie Antoinette, who was famously known for her strength and courage in the face of her execution. The phrase is often used to encourage someone to stay strong and not give up, no matter what life throws at them. |
-| 32 | [Refugees](http://twitter.com/search?q=Refugees) | N/A |
-| 33 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
-| 34 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 35 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 36 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
-| 37 | [Equality](http://twitter.com/search?q=Equality) | N/A |
-| 38 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 39 | [Hitchens](http://twitter.com/search?q=Hitchens) | N/A |
-| 40 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
-| 41 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 42 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 43 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 44 | [#NeurodiversityCelebrationWeek](http://twitter.com/search?q=%23NeurodiversityCelebrationWeek) | N/A |
-| 45 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 46 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 47 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 48 | [#ITAKOM](http://twitter.com/search?q=%23ITAKOM) | N/A |
-| 49 | [#ToriesOut250](http://twitter.com/search?q=%23ToriesOut250) | N/A |
-| 50 | [#SignLanguageWeek](http://twitter.com/search?q=%23SignLanguageWeek) | N/A |
+| 2 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 3 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
+| 4 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 5 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 6 | [#Rewired23](http://twitter.com/search?q=%23Rewired23) | N/A |
+| 7 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 8 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 9 | [Penny Farthing](http://twitter.com/search?q=Penny+Farthing) | N/A |
+| 10 | [Captain Birdseye](http://twitter.com/search?q=Captain+Birdseye) | N/A |
+| 11 | [Shopping Spree](http://twitter.com/search?q=Shopping+Spree) | N/A |
+| 12 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 13 | [Happy 90th](http://twitter.com/search?q=Happy+90th) | N/A |
+| 14 | [Budget](http://twitter.com/search?q=Budget) | N/A |
+| 15 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
+| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 17 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
+| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 19 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 20 | [State Man](http://twitter.com/search?q=State+Man) | State Man is a term used in India to refer to a person who is in charge of the affairs of a particular state. It is usually used to refer to the Chief Minister or Governor of a state. In English, it can be translated as "State Leader". |
+| 21 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 22 | [Ed Balls](http://twitter.com/search?q=Ed+Balls) | N/A |
+| 23 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 24 | [Il Etait Temps](http://twitter.com/search?q=Il+Etait+Temps) | N/A |
+| 25 | [Benton](http://twitter.com/search?q=Benton) | N/A |
+| 26 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
+| 27 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 28 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 29 | [Jaffa](http://twitter.com/search?q=Jaffa) | N/A |
+| 30 | [Hundreds](http://twitter.com/search?q=Hundreds) | N/A |
+| 31 | [Theresa May](http://twitter.com/search?q=Theresa+May) | N/A |
+| 32 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 33 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 34 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 35 | [Peston](http://twitter.com/search?q=Peston) | N/A |
+| 36 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 37 | [Refugees](http://twitter.com/search?q=Refugees) | N/A |
+| 38 | [Marie's Rock](http://twitter.com/search?q=Marie%27s+Rock) | Marie's Rock is a French expression that refers to the idea of standing firm in one's beliefs and convictions, even in the face of adversity. It is derived from the story of Marie Antoinette, who was famously known for her strength and courage in the face of her execution. The phrase is often used to encourage someone to stay strong and not give up, no matter what life throws at them. |
+| 39 | [The Bill](http://twitter.com/search?q=The+Bill) | N/A |
+| 40 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 41 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 42 | [Tunnocks](http://twitter.com/search?q=Tunnocks) | N/A |
+| 43 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 44 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 45 | [Equality](http://twitter.com/search?q=Equality) | N/A |
+| 46 | [Eden](http://twitter.com/search?q=Eden) | N/A |
+| 47 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 48 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 49 | [Defund the BBC](http://twitter.com/search?q=Defund+the+BBC) | N/A |
+| 50 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
 
 
 

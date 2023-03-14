@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-14 10:17:12 UTC`
+📆 Last Updated: `2023-03-14 11:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,46 +18,51 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
 | 2 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
 | 3 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 4 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 5 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 6 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 4 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
+| 5 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 6 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
 | 7 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 8 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
-| 9 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 10 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 11 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 12 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 13 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 14 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 15 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 16 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 17 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 18 | [Mathe](http://twitter.com/search?q=Mathe) | N/A |
+| 8 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 9 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 10 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 11 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 12 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 13 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 14 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 15 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 16 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 18 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
 | 19 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 20 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 21 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 22 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 23 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 24 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 25 | [Innenstadt](http://twitter.com/search?q=Innenstadt) | N/A |
-| 26 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 27 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
-| 28 | [Geschäftsmodell](http://twitter.com/search?q=Gesch%c3%a4ftsmodell) | N/A |
-| 29 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 30 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 31 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 32 | [Spritze](http://twitter.com/search?q=Spritze) | N/A |
-| 33 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 34 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 35 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 36 | [Regelung](http://twitter.com/search?q=Regelung) | N/A |
-| 37 | [Ungeimpften](http://twitter.com/search?q=Ungeimpften) | N/A |
-| 38 | [Diktatur](http://twitter.com/search?q=Diktatur) | N/A |
-| 39 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 40 | [#LauterbachRausschmissSofort](http://twitter.com/search?q=%23LauterbachRausschmissSofort) | N/A |
-| 41 | [#Impfschaeden](http://twitter.com/search?q=%23Impfschaeden) | N/A |
-| 42 | [#Galeria](http://twitter.com/search?q=%23Galeria) | N/A |
-| 43 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
+| 20 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
+| 21 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 22 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 23 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
+| 24 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
+| 25 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
+| 26 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 27 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 28 | [regelung](http://twitter.com/search?q=regelung) | N/A |
+| 29 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 30 | [Geschäftsmodell](http://twitter.com/search?q=Gesch%c3%a4ftsmodell) | N/A |
+| 31 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 32 | [Mathe](http://twitter.com/search?q=Mathe) | N/A |
+| 33 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 34 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
+| 35 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
+| 36 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 37 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 38 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 39 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 40 | [Spritze](http://twitter.com/search?q=Spritze) | N/A |
+| 41 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 42 | [Ungeimpften](http://twitter.com/search?q=Ungeimpften) | N/A |
+| 43 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 44 | [#Galeria](http://twitter.com/search?q=%23Galeria) | N/A |
+| 45 | [#GrueneRausausdenParlamenten](http://twitter.com/search?q=%23GrueneRausausdenParlamenten) | N/A |
+| 46 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 47 | [#LauterbachRausschmissSofort](http://twitter.com/search?q=%23LauterbachRausschmissSofort) | N/A |
+| 48 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 
 
 

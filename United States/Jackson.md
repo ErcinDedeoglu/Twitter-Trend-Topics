@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-03-14 10:17:38 UTC`
+📆 Last Updated: `2023-03-14 11:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 2 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 3 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 4 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 5 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 6 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
-| 7 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 8 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 9 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 10 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 11 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 12 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
+| 1 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 2 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 3 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 4 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 5 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 6 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 7 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 8 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
+| 9 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 10 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 11 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
+| 12 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
 | 13 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 14 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 15 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 16 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 17 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 18 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 20 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 21 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 22 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 23 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 24 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 25 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 26 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 27 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 28 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 29 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 30 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 31 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 32 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 33 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 34 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 35 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 36 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 37 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 38 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
-| 39 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 40 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 41 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 42 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 43 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 44 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 45 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 46 | [Paul Sorvino](http://twitter.com/search?q=Paul+Sorvino) | N/A |
-| 47 | [White Stripes](http://twitter.com/search?q=White+Stripes) | N/A |
+| 14 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 15 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 16 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 17 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 18 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 19 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 20 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 21 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 22 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 23 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 24 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 25 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 26 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 27 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 28 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 29 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 30 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 31 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 32 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
+| 33 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 34 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 35 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
+| 36 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
+| 37 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 38 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 39 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 40 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 41 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
+| 42 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
+| 43 | [Sour](http://twitter.com/search?q=Sour) | N/A |
+| 44 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
+| 45 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 46 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 47 | [Paul Sorvino](http://twitter.com/search?q=Paul+Sorvino) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-14 10:17:24 UTC`
+📆 Last Updated: `2023-03-14 11:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GlowingSelfie](http://twitter.com/search?q=%23GlowingSelfie) | N/A |
-| 2 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 3 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 4 | [#AlatHackaholics4IsHere](http://twitter.com/search?q=%23AlatHackaholics4IsHere) | N/A |
-| 5 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 6 | [#SPARK10Series](http://twitter.com/search?q=%23SPARK10Series) | N/A |
-| 7 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 8 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 9 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 10 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
-| 11 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
-| 12 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 13 | [#onlyconnect](http://twitter.com/search?q=%23onlyconnect) | #onlyconnect is a hashtag used to express the idea of connecting with others, either through social media or in real life. It is often used to encourage people to reach out and build relationships with those around them. |
-| 14 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
-| 15 | [Naira](http://twitter.com/search?q=Naira) | N/A |
-| 16 | [the money is kanalized](http://twitter.com/search?q=the+money+is+kanalized) | N/A |
-| 17 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 18 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
-| 19 | [VOTE YVONNE](http://twitter.com/search?q=VOTE+YVONNE) | N/A |
-| 20 | [Waist](http://twitter.com/search?q=Waist) | N/A |
-| 21 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 22 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 23 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 24 | [Enya](http://twitter.com/search?q=Enya) | N/A |
-| 25 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 26 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 27 | [Malami](http://twitter.com/search?q=Malami) | N/A |
-| 28 | [Tofa](http://twitter.com/search?q=Tofa) | N/A |
-| 29 | [Born in Lagos](http://twitter.com/search?q=Born+in+Lagos) | N/A |
-| 30 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 31 | [Shortbread](http://twitter.com/search?q=Shortbread) | N/A |
-| 32 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 33 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 34 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
-| 35 | [Uloma](http://twitter.com/search?q=Uloma) | N/A |
-| 36 | [Meffy](http://twitter.com/search?q=Meffy) | N/A |
-| 37 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 38 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
-| 39 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 41 | [Simp](http://twitter.com/search?q=Simp) | N/A |
-| 42 | [Old N200](http://twitter.com/search?q=Old+N200) | N/A |
-| 43 | [London Football Awards](http://twitter.com/search?q=London+Football+Awards) | N/A |
-| 44 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 45 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
-| 46 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 47 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 48 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 1 | [#SPARK10Series](http://twitter.com/search?q=%23SPARK10Series) | N/A |
+| 2 | [#GlowingSelfie](http://twitter.com/search?q=%23GlowingSelfie) | N/A |
+| 3 | [#AlatHackaholics4IsHere](http://twitter.com/search?q=%23AlatHackaholics4IsHere) | N/A |
+| 4 | [#YPPYouthGovernor](http://twitter.com/search?q=%23YPPYouthGovernor) | N/A |
+| 5 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 6 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
+| 7 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 8 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 9 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 10 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
+| 11 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 12 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
+| 13 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 14 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 15 | [Simp](http://twitter.com/search?q=Simp) | N/A |
+| 16 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 17 | [ATMs](http://twitter.com/search?q=ATMs) | N/A |
+| 18 | [Naira](http://twitter.com/search?q=Naira) | N/A |
+| 19 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 20 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 21 | [Enya](http://twitter.com/search?q=Enya) | N/A |
+| 22 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 23 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 24 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 25 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 26 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 27 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
+| 28 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 29 | [The God](http://twitter.com/search?q=The+God) | N/A |
+| 30 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 31 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 32 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
+| 33 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 34 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
+| 35 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
+| 36 | [Paripesa](http://twitter.com/search?q=Paripesa) | N/A |
+| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 38 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 40 | [Confused](http://twitter.com/search?q=Confused) | N/A |
+| 41 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 42 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 44 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
+| 45 | [#OPPOReno8TLaunch](http://twitter.com/search?q=%23OPPOReno8TLaunch) | N/A |
+| 46 | [#onlyconnect](http://twitter.com/search?q=%23onlyconnect) | #onlyconnect is a hashtag used to express the idea of connecting with others, either through social media or in real life. It is often used to encourage people to reach out and build relationships with those around them. |
+| 47 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 48 | [#KhosiTwala𓃵](http://twitter.com/search?q=%23KhosiTwala%f0%93%83%b5) | N/A |
 
 
 

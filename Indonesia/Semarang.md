@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-14 10:17:17 UTC`
+📆 Last Updated: `2023-03-14 11:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Indonesia Kuat Disegani](http://twitter.com/search?q=Indonesia+Kuat+Disegani) | N/A |
-| 2 | [Bikin Jadi Beneran](http://twitter.com/search?q=Bikin+Jadi+Beneran) | N/A |
-| 3 | [Prabowo Pastikan Kedaulatan](http://twitter.com/search?q=Prabowo+Pastikan+Kedaulatan) | N/A |
-| 4 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
-| 5 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 6 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
-| 7 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 8 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 9 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 10 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 11 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 12 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 1 | [Bikin Jadi Beneran](http://twitter.com/search?q=Bikin+Jadi+Beneran) | N/A |
+| 2 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 3 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
+| 4 | [#BCAExpoversary](http://twitter.com/search?q=%23BCAExpoversary) | N/A |
+| 5 | [#Groovy1stWin](http://twitter.com/search?q=%23Groovy1stWin) | N/A |
+| 6 | [JISUNG FOR Y MAGAZINE](http://twitter.com/search?q=JISUNG+FOR+Y+MAGAZINE) | N/A |
+| 7 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
+| 8 | [exo jaya jaya jaya](http://twitter.com/search?q=exo+jaya+jaya+jaya) | N/A |
+| 9 | [Rendang](http://twitter.com/search?q=Rendang) | N/A |
+| 10 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 11 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 13 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 14 | [JISUNG FOR Y MAGAZINE](http://twitter.com/search?q=JISUNG+FOR+Y+MAGAZINE) | N/A |
+| 14 | [Pidato AHY](http://twitter.com/search?q=Pidato+AHY) | N/A |
 | 15 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 16 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
-| 17 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 18 | [EXO JAYA JAYA JAYA](http://twitter.com/search?q=EXO+JAYA+JAYA+JAYA) | N/A |
-| 19 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 20 | [Rendang](http://twitter.com/search?q=Rendang) | N/A |
-| 21 | [mari dakwahkan islam](http://twitter.com/search?q=mari+dakwahkan+islam) | N/A |
-| 22 | [RIP Legend](http://twitter.com/search?q=RIP+Legend) | N/A |
-| 23 | [pilihlah prabowo](http://twitter.com/search?q=pilihlah+prabowo) | N/A |
-| 24 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 25 | [kunjungi dekade 08](http://twitter.com/search?q=kunjungi+dekade+08) | N/A |
-| 26 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 27 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 28 | [you did well chenle](http://twitter.com/search?q=you+did+well+chenle) | N/A |
-| 29 | [NKRI](http://twitter.com/search?q=NKRI) | N/A |
-| 30 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 31 | [Tally](http://twitter.com/search?q=Tally) | N/A |
-| 32 | [RM X So](http://twitter.com/search?q=RM+X+So) | N/A |
-| 33 | [KAI IS BACK](http://twitter.com/search?q=KAI+IS+BACK) | N/A |
-| 34 | [Menikah](http://twitter.com/search?q=Menikah) | N/A |
-| 35 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 36 | [Pidato AHY](http://twitter.com/search?q=Pidato+AHY) | N/A |
-| 37 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 38 | [Marugame](http://twitter.com/search?q=Marugame) | N/A |
-| 39 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
-| 40 | [surene jaya jaya jaya](http://twitter.com/search?q=surene+jaya+jaya+jaya) | N/A |
-| 41 | [MINI PUPPY WITH GROOVYTY](http://twitter.com/search?q=MINI+PUPPY+WITH+GROOVYTY) | N/A |
-| 42 | [Van Persie](http://twitter.com/search?q=Van+Persie) | N/A |
-| 43 | [Sehari](http://twitter.com/search?q=Sehari) | N/A |
-| 44 | [Nextar](http://twitter.com/search?q=Nextar) | N/A |
-| 45 | [Bjorka](http://twitter.com/search?q=Bjorka) | N/A |
-| 46 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 47 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 48 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
-| 49 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
+| 16 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 17 | [Sehari](http://twitter.com/search?q=Sehari) | N/A |
+| 18 | [Tally](http://twitter.com/search?q=Tally) | N/A |
+| 19 | [Jalur](http://twitter.com/search?q=Jalur) | N/A |
+| 20 | [Batam](http://twitter.com/search?q=Batam) | N/A |
+| 21 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 22 | [#CRAVITY3rdWin](http://twitter.com/search?q=%23CRAVITY3rdWin) | N/A |
+| 23 | [#스모크스프라이트_피처링남준](http://twitter.com/search?q=%23%ec%8a%a4%eb%aa%a8%ed%81%ac%ec%8a%a4%ed%94%84%eb%9d%bc%ec%9d%b4%ed%8a%b8_%ed%94%bc%ec%b2%98%eb%a7%81%eb%82%a8%ec%a4%80) | N/A |
+| 24 | [#64MPchampion](http://twitter.com/search?q=%2364MPchampion) | N/A |
+| 25 | [#realmeC55](http://twitter.com/search?q=%23realmeC55) | N/A |
+| 26 | [#zonauangᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0) | N/A |
+| 27 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
+| 28 | [#PDKapanAja](http://twitter.com/search?q=%23PDKapanAja) | N/A |
+| 29 | [#PerspirexIndo](http://twitter.com/search?q=%23PerspirexIndo) | N/A |
+| 30 | [#SOYOON](http://twitter.com/search?q=%23SOYOON) | N/A |
+| 31 | [#MalcarongLastShow](http://twitter.com/search?q=%23MalcarongLastShow) | N/A |
+| 32 | [#yae2023](http://twitter.com/search?q=%23yae2023) | N/A |
+| 33 | [#GeminiFourth](http://twitter.com/search?q=%23GeminiFourth) | N/A |
+| 34 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
+| 35 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
+| 36 | [#apologizetocravity](http://twitter.com/search?q=%23apologizetocravity) | N/A |
+| 37 | [#PecatSriMulyani](http://twitter.com/search?q=%23PecatSriMulyani) | N/A |
+| 38 | [#givecravitytheirwin](http://twitter.com/search?q=%23givecravitytheirwin) | N/A |
+| 39 | [#DemokratS14P](http://twitter.com/search?q=%23DemokratS14P) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-14 10:17:13 UTC`
+📆 Last Updated: `2023-03-14 11:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Italy](</Italy>)
 | 7 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
 | 8 | [Libia](http://twitter.com/search?q=Libia) | N/A |
 | 9 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 10 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 11 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 12 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 13 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 14 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 15 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
-| 16 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 17 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 18 | [UN RICORDO PER LULÙ](http://twitter.com/search?q=UN+RICORDO+PER+LUL%c3%99) | N/A |
-| 19 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
-| 20 | [Fassino](http://twitter.com/search?q=Fassino) | N/A |
-| 21 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 22 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 23 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 24 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
-| 25 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
-| 26 | [Reina](http://twitter.com/search?q=Reina) | Reina is a Spanish female name meaning "queen". |
+| 10 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 11 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 12 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 13 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 14 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 15 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 16 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 17 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 18 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 19 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
+| 20 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 21 | [UN RICORDO PER LULÙ](http://twitter.com/search?q=UN+RICORDO+PER+LUL%c3%99) | N/A |
+| 22 | [fassino](http://twitter.com/search?q=fassino) | N/A |
+| 23 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 24 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 25 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 26 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
 | 27 | [Il 14](http://twitter.com/search?q=Il+14) | N/A |
-| 28 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 28 | [Reina](http://twitter.com/search?q=Reina) | Reina is a Spanish female name meaning "queen". |
 | 29 | [Pagliuca](http://twitter.com/search?q=Pagliuca) | N/A |
-| 30 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
-| 31 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
-| 32 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 33 | [Sea Watch](http://twitter.com/search?q=Sea+Watch) | N/A |
-| 34 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 35 | [Buongiorno Sabrina](http://twitter.com/search?q=Buongiorno+Sabrina) | N/A |
-| 36 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 37 | [Torto](http://twitter.com/search?q=Torto) | N/A |
-| 38 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 39 | [Wawrinka](http://twitter.com/search?q=Wawrinka) | N/A |
-| 40 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 41 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 42 | [Alby](http://twitter.com/search?q=Alby) | N/A |
-| 43 | [Votiamo](http://twitter.com/search?q=Votiamo) | N/A |
-| 44 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 45 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 46 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 47 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 48 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 49 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 50 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 30 | [Duce](http://twitter.com/search?q=Duce) | N/A |
+| 31 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
+| 32 | [Buongiorno Max](http://twitter.com/search?q=Buongiorno+Max) | N/A |
+| 33 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
+| 34 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 35 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
+| 36 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 37 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 38 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 39 | [Buongiorno Sabrina](http://twitter.com/search?q=Buongiorno+Sabrina) | N/A |
+| 40 | [Sea Watch](http://twitter.com/search?q=Sea+Watch) | N/A |
+| 41 | [torto](http://twitter.com/search?q=torto) | N/A |
+| 42 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 43 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 44 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 45 | [Buongiorno Rita](http://twitter.com/search?q=Buongiorno+Rita) | N/A |
+| 46 | [Votiamo](http://twitter.com/search?q=Votiamo) | N/A |
+| 47 | [Wawrinka](http://twitter.com/search?q=Wawrinka) | N/A |
+| 48 | [Buongiornissimo](http://twitter.com/search?q=Buongiornissimo) | N/A |
+| 49 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 50 | [Procura di Torino](http://twitter.com/search?q=Procura+di+Torino) | N/A |
 
 
 
