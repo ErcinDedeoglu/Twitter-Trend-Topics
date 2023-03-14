@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-14 19:16:45 UTC`
+📆 Last Updated: `2023-03-14 20:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,51 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [Barbro Westerholm](http://twitter.com/search?q=Barbro+Westerholm) | N/A |
 | 2 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
 | 3 | [Ingerö](http://twitter.com/search?q=Inger%c3%b6) | N/A |
-| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Oatly](http://twitter.com/search?q=Oatly) | N/A |
-| 7 | [#bajen](http://twitter.com/search?q=%23bajen) | N/A |
+| 4 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 6 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 8 | [brännström](http://twitter.com/search?q=br%c3%a4nnstr%c3%b6m) | N/A |
-| 9 | [hammar](http://twitter.com/search?q=hammar) | N/A |
-| 10 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 11 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
-| 12 | [#hri2023](http://twitter.com/search?q=%23hri2023) | N/A |
-| 13 | [Jättemätt](http://twitter.com/search?q=J%c3%a4ttem%c3%a4tt) | N/A |
-| 14 | [Svarta](http://twitter.com/search?q=Svarta) | N/A |
-| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 16 | [Ringhals](http://twitter.com/search?q=Ringhals) | N/A |
-| 17 | [Durmaz](http://twitter.com/search?q=Durmaz) | N/A |
-| 18 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
-| 19 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
+| 9 | [Kristersson](http://twitter.com/search?q=Kristersson) | N/A |
+| 10 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 11 | [Oatly](http://twitter.com/search?q=Oatly) | N/A |
+| 12 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 13 | [hammar](http://twitter.com/search?q=hammar) | N/A |
+| 14 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
+| 15 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
+| 16 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
+| 17 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
+| 18 | [#hri2023](http://twitter.com/search?q=%23hri2023) | N/A |
+| 19 | [#bajen](http://twitter.com/search?q=%23bajen) | N/A |
 | 20 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
-| 21 | [Salem](http://twitter.com/search?q=Salem) | N/A |
-| 22 | [Nordea](http://twitter.com/search?q=Nordea) | N/A |
-| 23 | [Nima](http://twitter.com/search?q=Nima) | N/A |
-| 24 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 25 | [Tekie](http://twitter.com/search?q=Tekie) | N/A |
-| 26 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
-| 27 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
-| 28 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
-| 29 | [kurtulus](http://twitter.com/search?q=kurtulus) | N/A |
-| 30 | [Kristdemokraterna](http://twitter.com/search?q=Kristdemokraterna) | N/A |
-| 31 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
-| 32 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 33 | [Utmärkt](http://twitter.com/search?q=Utm%c3%a4rkt) | N/A |
-| 34 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 35 | [fenger](http://twitter.com/search?q=fenger) | N/A |
+| 21 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 22 | [Ringhals](http://twitter.com/search?q=Ringhals) | N/A |
+| 23 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 24 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 25 | [Svarta](http://twitter.com/search?q=Svarta) | N/A |
+| 26 | [Salem](http://twitter.com/search?q=Salem) | N/A |
+| 27 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
+| 28 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 29 | [Nordea](http://twitter.com/search?q=Nordea) | N/A |
+| 30 | [Nima](http://twitter.com/search?q=Nima) | N/A |
+| 31 | [Durmaz](http://twitter.com/search?q=Durmaz) | N/A |
+| 32 | [Läser](http://twitter.com/search?q=L%c3%a4ser) | N/A |
+| 33 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
+| 34 | [Kristdemokraterna](http://twitter.com/search?q=Kristdemokraterna) | N/A |
+| 35 | [Tekie](http://twitter.com/search?q=Tekie) | N/A |
 | 36 | [al hakim](http://twitter.com/search?q=al+hakim) | N/A |
-| 37 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 38 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 39 | [gunnar strömmer](http://twitter.com/search?q=gunnar+str%c3%b6mmer) | N/A |
-| 40 | [Telia](http://twitter.com/search?q=Telia) | N/A |
-| 41 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 42 | [Milosevic](http://twitter.com/search?q=Milosevic) | N/A |
-| 43 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 44 | [MeToo](http://twitter.com/search?q=MeToo) | N/A |
-| 45 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 46 | [Willys](http://twitter.com/search?q=Willys) | N/A |
-| 47 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 48 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 49 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 41 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 42 | [Gävle](http://twitter.com/search?q=G%c3%a4vle) | N/A |
+| 43 | [Jättemätt](http://twitter.com/search?q=J%c3%a4ttem%c3%a4tt) | N/A |
+| 44 | [Hurra](http://twitter.com/search?q=Hurra) | N/A |
+| 45 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
+| 46 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 47 | [Tvärtom](http://twitter.com/search?q=Tv%c3%a4rtom) | N/A |
+| 48 | [Kurtulus](http://twitter.com/search?q=Kurtulus) | N/A |
 
 
 

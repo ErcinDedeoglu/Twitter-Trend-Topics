@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-14 19:17:21 UTC`
+📆 Last Updated: `2023-03-14 20:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 2 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 3 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 4 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
-| 5 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 6 | [Noire](http://twitter.com/search?q=Noire) | N/A |
-| 7 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
-| 8 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 9 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 10 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 11 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 12 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 13 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 14 | [#Parispoubelle](http://twitter.com/search?q=%23Parispoubelle) | N/A |
-| 15 | [Maillot](http://twitter.com/search?q=Maillot) | N/A |
-| 16 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 17 | [Yass](http://twitter.com/search?q=Yass) | N/A |
-| 18 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
-| 19 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
-| 20 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 21 | [Hulot](http://twitter.com/search?q=Hulot) | N/A |
-| 22 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
-| 23 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 24 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 25 | [Gouiri](http://twitter.com/search?q=Gouiri) | N/A |
-| 26 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 27 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
-| 28 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 29 | [Mylène Farmer](http://twitter.com/search?q=Myl%c3%a8ne+Farmer) | N/A |
-| 30 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 33 | [Parasite](http://twitter.com/search?q=Parasite) | N/A |
-| 34 | [J-500](http://twitter.com/search?q=J-500) | N/A |
+| 1 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 3 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 4 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 5 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 6 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
+| 7 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
+| 8 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
+| 9 | [Noire](http://twitter.com/search?q=Noire) | N/A |
+| 10 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 11 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 12 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 13 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 14 | [Maillot](http://twitter.com/search?q=Maillot) | N/A |
+| 15 | [Coupe du Monde 2030](http://twitter.com/search?q=Coupe+du+Monde+2030) | N/A |
+| 16 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 17 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 18 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
+| 19 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 20 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 21 | [Yass](http://twitter.com/search?q=Yass) | N/A |
+| 22 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 23 | [Le Maroc](http://twitter.com/search?q=Le+Maroc) | N/A |
+| 24 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
+| 25 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 26 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
+| 27 | [Hulot](http://twitter.com/search?q=Hulot) | N/A |
+| 28 | [Gouiri](http://twitter.com/search?q=Gouiri) | N/A |
+| 29 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 30 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
+| 31 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 32 | [Mylène Farmer](http://twitter.com/search?q=Myl%c3%a8ne+Farmer) | N/A |
+| 33 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 34 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 35 | [Cyril Hanouna](http://twitter.com/search?q=Cyril+Hanouna) | N/A |
-| 36 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
-| 37 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
-| 38 | [Jeux Olympiques](http://twitter.com/search?q=Jeux+Olympiques) | N/A |
-| 39 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
-| 40 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
-| 41 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 42 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 43 | [Vald](http://twitter.com/search?q=Vald) | N/A |
-| 44 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
-| 45 | [JO 2024](http://twitter.com/search?q=JO+2024) | N/A |
+| 36 | [Omar Sy](http://twitter.com/search?q=Omar+Sy) | N/A |
+| 37 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 38 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 39 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 41 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
+| 42 | [Jeux Olympiques](http://twitter.com/search?q=Jeux+Olympiques) | N/A |
+| 43 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
+| 44 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 45 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 46 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 47 | [#DemainNousAppartient](http://twitter.com/search?q=%23DemainNousAppartient) | N/A |
-| 48 | [#TouchePasaSophiaAram](http://twitter.com/search?q=%23TouchePasaSophiaAram) | N/A |
-| 49 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
-| 50 | [#chainsawman123](http://twitter.com/search?q=%23chainsawman123) | N/A |
+| 47 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 48 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 49 | [#Parispoubelle](http://twitter.com/search?q=%23Parispoubelle) | N/A |
+| 50 | [#TouchePasaSophiaAram](http://twitter.com/search?q=%23TouchePasaSophiaAram) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-14 19:16:43 UTC`
+📆 Last Updated: `2023-03-14 20:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 1 | [#NederlandKiest](http://twitter.com/search?q=%23NederlandKiest) | N/A |
 | 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 3 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 3 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
-| 6 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
+| 5 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 6 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
 | 7 | [Ali B](http://twitter.com/search?q=Ali+B) | N/A |
-| 8 | [Marco Borsato](http://twitter.com/search?q=Marco+Borsato) | N/A |
-| 9 | [#KhalidenSophie](http://twitter.com/search?q=%23KhalidenSophie) | N/A |
-| 10 | [Genee](http://twitter.com/search?q=Genee) | N/A |
-| 11 | [Jeroen Rietbergen](http://twitter.com/search?q=Jeroen+Rietbergen) | N/A |
-| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 13 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 14 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 15 | [Teze](http://twitter.com/search?q=Teze) | N/A |
-| 16 | [Laura van Geest](http://twitter.com/search?q=Laura+van+Geest) | N/A |
-| 17 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 18 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
-| 19 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 20 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
-| 21 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 22 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 23 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 24 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
-| 25 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 26 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
-| 27 | [Rob Jetten](http://twitter.com/search?q=Rob+Jetten) | N/A |
-| 28 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 29 | [advies](http://twitter.com/search?q=advies) | N/A |
-| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 31 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 32 | [Onbegrijpelijk](http://twitter.com/search?q=Onbegrijpelijk) | N/A |
-| 33 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 34 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 35 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 8 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 9 | [Marco Borsato](http://twitter.com/search?q=Marco+Borsato) | N/A |
+| 10 | [Jeroen Rietbergen](http://twitter.com/search?q=Jeroen+Rietbergen) | N/A |
+| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 12 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 13 | [Genee](http://twitter.com/search?q=Genee) | N/A |
+| 14 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 15 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 16 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 17 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 18 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 19 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
+| 20 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 21 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 22 | [goedemorgen petra](http://twitter.com/search?q=goedemorgen+petra) | N/A |
+| 23 | [Laura van Geest](http://twitter.com/search?q=Laura+van+Geest) | N/A |
+| 24 | [KNMI](http://twitter.com/search?q=KNMI) | N/A |
+| 25 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 26 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 28 | [Ziggo](http://twitter.com/search?q=Ziggo) | N/A |
+| 29 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
+| 30 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
+| 31 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 32 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 33 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
+| 34 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
+| 35 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
 | 36 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
-| 37 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
-| 38 | [Elsschot](http://twitter.com/search?q=Elsschot) | N/A |
-| 39 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
-| 40 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
-| 41 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 42 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 43 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
-| 44 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 45 | [Dienstplicht](http://twitter.com/search?q=Dienstplicht) | N/A |
-| 46 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 47 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 48 | [Ajax 1](http://twitter.com/search?q=Ajax+1) | N/A |
-| 49 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 50 | [KNMI](http://twitter.com/search?q=KNMI) | N/A |
+| 37 | [Lelylijn](http://twitter.com/search?q=Lelylijn) | N/A |
+| 38 | [advies](http://twitter.com/search?q=advies) | N/A |
+| 39 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 41 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
+| 42 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 43 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 44 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 45 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
+| 46 | [Onbegrijpelijk](http://twitter.com/search?q=Onbegrijpelijk) | N/A |
+| 47 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 48 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 49 | [David](http://twitter.com/search?q=David) | N/A |
+| 50 | [Ging](http://twitter.com/search?q=Ging) | N/A |
 
 
 

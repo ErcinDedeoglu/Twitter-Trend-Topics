@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-14 19:16:37 UTC`
+📆 Last Updated: `2023-03-14 20:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
 | 2 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
 | 3 | [#ZemstaMateckiego](http://twitter.com/search?q=%23ZemstaMateckiego) | N/A |
-| 4 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
-| 5 | [#JakJustyna](http://twitter.com/search?q=%23JakJustyna) | N/A |
-| 6 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
-| 9 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 10 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 11 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 13 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 14 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 15 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 16 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 17 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
-| 18 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 19 | [Krafta](http://twitter.com/search?q=Krafta) | N/A |
-| 20 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
-| 21 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 22 | [#oscary2023](http://twitter.com/search?q=%23oscary2023) | N/A |
-| 23 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
-| 24 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
-| 25 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
-| 26 | [Ulubiona FIFA](http://twitter.com/search?q=Ulubiona+FIFA) | N/A |
-| 27 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
-| 28 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 29 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
-| 30 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
-| 31 | [Halvor Egner Granerud](http://twitter.com/search?q=Halvor+Egner+Granerud) | N/A |
-| 32 | [Tygodnik NIE](http://twitter.com/search?q=Tygodnik+NIE) | N/A |
-| 33 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
-| 34 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
-| 35 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
-| 36 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 37 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
-| 38 | [Parlament Europejski](http://twitter.com/search?q=Parlament+Europejski) | N/A |
-| 39 | [Prokurator Generalny](http://twitter.com/search?q=Prokurator+Generalny) | N/A |
-| 40 | [Kodeksu](http://twitter.com/search?q=Kodeksu) | N/A |
-| 41 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
-| 42 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 43 | [O KURWA](http://twitter.com/search?q=O+KURWA) | N/A |
-| 44 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 45 | [Kabura](http://twitter.com/search?q=Kabura) | N/A |
-| 46 | [Mieszkanie Plus](http://twitter.com/search?q=Mieszkanie+Plus) | N/A |
-| 47 | [Kubackiego](http://twitter.com/search?q=Kubackiego) | N/A |
-| 48 | [Nosi](http://twitter.com/search?q=Nosi) | N/A |
-| 49 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
-| 50 | [Prezydent Andrzej Duda](http://twitter.com/search?q=Prezydent+Andrzej+Duda) | N/A |
+| 4 | [#JakJustyna](http://twitter.com/search?q=%23JakJustyna) | N/A |
+| 5 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
+| 6 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
+| 7 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 10 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
+| 11 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 12 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
+| 13 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 14 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 15 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 16 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 18 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 19 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 20 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
+| 21 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 22 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 23 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 24 | [Mikołaj](http://twitter.com/search?q=Miko%c5%82aj) | N/A |
+| 25 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
+| 26 | [Wolność](http://twitter.com/search?q=Wolno%c5%9b%c4%87) | N/A |
+| 27 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
+| 28 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 29 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 30 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
+| 31 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
+| 32 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
+| 33 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
+| 34 | [Ulubiona FIFA](http://twitter.com/search?q=Ulubiona+FIFA) | N/A |
+| 35 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
+| 36 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 37 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
+| 38 | [Zmień](http://twitter.com/search?q=Zmie%c5%84) | N/A |
+| 39 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
+| 40 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 41 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
+| 42 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 43 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 44 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 45 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
+| 46 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 47 | [Totalnie](http://twitter.com/search?q=Totalnie) | N/A |
+| 48 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
+| 49 | [Halvor Egner Granerud](http://twitter.com/search?q=Halvor+Egner+Granerud) | N/A |
+| 50 | [Tygodnik NIE](http://twitter.com/search?q=Tygodnik+NIE) | N/A |
 
 
 

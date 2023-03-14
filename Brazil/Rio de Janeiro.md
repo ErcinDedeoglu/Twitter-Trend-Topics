@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-14 19:16:35 UTC`
+📆 Last Updated: `2023-03-14 20:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 2 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 2 | [Picanha](http://twitter.com/search?q=Picanha) | N/A |
 | 3 | [Xurrasco](http://twitter.com/search?q=Xurrasco) | N/A |
-| 4 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 5 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
-| 6 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 7 | [Barros](http://twitter.com/search?q=Barros) | N/A |
-| 8 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
-| 9 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 10 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 12 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 13 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 14 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 15 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 16 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
-| 17 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 18 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 19 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 20 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 21 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
-| 22 | [Diplo](http://twitter.com/search?q=Diplo) | N/A |
-| 23 | [pism](http://twitter.com/search?q=pism) | N/A |
-| 24 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 25 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
-| 26 | [#OsDonosDaBola](http://twitter.com/search?q=%23OsDonosDaBola) | N/A |
-| 27 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
-| 28 | [João Chianca](http://twitter.com/search?q=Jo%c3%a3o+Chianca) | N/A |
-| 29 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 30 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 31 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 32 | [#JoshuaHalling](http://twitter.com/search?q=%23JoshuaHalling) | N/A |
-| 33 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 34 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 35 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 37 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
-| 38 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
-| 39 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
+| 4 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 5 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 6 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
+| 7 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 8 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
+| 9 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 11 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 12 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 13 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 14 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
+| 15 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 16 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 17 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 18 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
+| 19 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 20 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 21 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 22 | [#AShoulderToCryOnEP1](http://twitter.com/search?q=%23AShoulderToCryOnEP1) | N/A |
+| 23 | [Diplo](http://twitter.com/search?q=Diplo) | N/A |
+| 24 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
+| 25 | [pism](http://twitter.com/search?q=pism) | N/A |
+| 26 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 27 | [Abin](http://twitter.com/search?q=Abin) | N/A |
+| 28 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 29 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
+| 30 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
+| 31 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 32 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 33 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 34 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
+| 35 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
+| 36 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 37 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 38 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 39 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
 | 40 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
-| 41 | [Palmeiras e Flamengo](http://twitter.com/search?q=Palmeiras+e+Flamengo) | N/A |
-| 42 | [UFRN](http://twitter.com/search?q=UFRN) | N/A |
-| 43 | [VERA CRUZ](http://twitter.com/search?q=VERA+CRUZ) | N/A |
-| 44 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 45 | [Chumbinho](http://twitter.com/search?q=Chumbinho) | N/A |
-| 46 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 47 | [Carninha](http://twitter.com/search?q=Carninha) | N/A |
-| 48 | [Roger Cipó](http://twitter.com/search?q=Roger+Cip%c3%b3) | N/A |
-| 49 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 50 | [Black Twitter](http://twitter.com/search?q=Black+Twitter) | N/A |
+| 41 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 42 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
+| 43 | [Carninha](http://twitter.com/search?q=Carninha) | N/A |
+| 44 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
+| 45 | [VERA CRUZ](http://twitter.com/search?q=VERA+CRUZ) | N/A |
+| 46 | [UFRN](http://twitter.com/search?q=UFRN) | N/A |
+| 47 | [Creme](http://twitter.com/search?q=Creme) | N/A |
+| 48 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 49 | [Roger Cipó](http://twitter.com/search?q=Roger+Cip%c3%b3) | N/A |
+| 50 | [Fies](http://twitter.com/search?q=Fies) | N/A |
 
 
 

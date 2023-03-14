@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-14 19:17:26 UTC`
+📆 Last Updated: `2023-03-14 20:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Singapore
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 3 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 4 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 5 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 5 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 6 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
 | 7 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
 | 8 | [#뉴이스트_데뷔11주년_축하해](http://twitter.com/search?q=%23%eb%89%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 9 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
-| 10 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 11 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 13 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 9 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 10 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 11 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 12 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 13 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
 | 14 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 15 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 16 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
-| 17 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 18 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 19 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 20 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 21 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 22 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
-| 23 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 24 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
-| 25 | [Kamal Adli](http://twitter.com/search?q=Kamal+Adli) | N/A |
-| 26 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 27 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 28 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 29 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 30 | [Tamil](http://twitter.com/search?q=Tamil) | N/A |
-| 31 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 32 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 33 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 34 | [Yayy](http://twitter.com/search?q=Yayy) | N/A |
-| 35 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 36 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 37 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 38 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 39 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 40 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 41 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 42 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 43 | [neyo](http://twitter.com/search?q=neyo) | N/A |
-| 44 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 45 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 47 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 48 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 49 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 50 | [$HEX](http://twitter.com/search?q=%24HEX) | N/A |
+| 15 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 16 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 17 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 18 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 19 | [Artem](http://twitter.com/search?q=Artem) | N/A |
+| 20 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 21 | [neyo](http://twitter.com/search?q=neyo) | N/A |
+| 22 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 24 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 25 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 26 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
+| 27 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 28 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 29 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 30 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 31 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 32 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 33 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 34 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 35 | [Kamal Adli](http://twitter.com/search?q=Kamal+Adli) | N/A |
+| 36 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 37 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 38 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 39 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 40 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 41 | [Tamil](http://twitter.com/search?q=Tamil) | N/A |
+| 42 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 43 | [SO CUTE](http://twitter.com/search?q=SO+CUTE) | N/A |
+| 44 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 45 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 46 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 47 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 48 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 49 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 50 | [Mike](http://twitter.com/search?q=Mike) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-14 19:16:46 UTC`
+📆 Last Updated: `2023-03-14 20:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,47 +20,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [#BCAExpoversary](http://twitter.com/search?q=%23BCAExpoversary) | N/A |
 | 4 | [prabowo pastikan kedaulatan](http://twitter.com/search?q=prabowo+pastikan+kedaulatan) | N/A |
 | 5 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
-| 6 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 7 | [Selamat 9](http://twitter.com/search?q=Selamat+9) | N/A |
-| 8 | [2024 Tetap Pak Prabowo](http://twitter.com/search?q=2024+Tetap+Pak+Prabowo) | N/A |
-| 9 | [Pilih Prabowo Aja](http://twitter.com/search?q=Pilih+Prabowo+Aja) | N/A |
-| 10 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 11 | [Indonesia Kuat Disegani](http://twitter.com/search?q=Indonesia+Kuat+Disegani) | N/A |
-| 12 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 13 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 14 | [Tally](http://twitter.com/search?q=Tally) | N/A |
+| 6 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 7 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 8 | [Indonesia Kuat Disegani](http://twitter.com/search?q=Indonesia+Kuat+Disegani) | N/A |
+| 9 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 10 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
+| 11 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 12 | [Selamat 9](http://twitter.com/search?q=Selamat+9) | N/A |
+| 13 | [Tally](http://twitter.com/search?q=Tally) | N/A |
+| 14 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
 | 15 | [exo jaya jaya jaya](http://twitter.com/search?q=exo+jaya+jaya+jaya) | N/A |
-| 16 | [ARMY FOREVER BANGTAN FOREVER](http://twitter.com/search?q=ARMY+FOREVER+BANGTAN+FOREVER) | N/A |
-| 17 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 18 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
-| 19 | [Happy Birthday Beomgyu](http://twitter.com/search?q=Happy+Birthday+Beomgyu) | N/A |
-| 20 | [huang renjun thank you](http://twitter.com/search?q=huang+renjun+thank+you) | N/A |
-| 21 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 22 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
-| 23 | [Pidato AHY](http://twitter.com/search?q=Pidato+AHY) | N/A |
-| 24 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 26 | [GET WELL SOON JENO](http://twitter.com/search?q=GET+WELL+SOON+JENO) | N/A |
+| 16 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
+| 17 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
+| 18 | [Happy Birthday Beomgyu](http://twitter.com/search?q=Happy+Birthday+Beomgyu) | N/A |
+| 19 | [ARMY FOREVER BANGTAN FOREVER](http://twitter.com/search?q=ARMY+FOREVER+BANGTAN+FOREVER) | N/A |
+| 20 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 21 | [huang renjun thank you](http://twitter.com/search?q=huang+renjun+thank+you) | N/A |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 24 | [Pidato AHY](http://twitter.com/search?q=Pidato+AHY) | N/A |
+| 25 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
+| 26 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
 | 27 | [50MP Camera](http://twitter.com/search?q=50MP+Camera) | N/A |
-| 28 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 29 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
-| 30 | [RIP Legend](http://twitter.com/search?q=RIP+Legend) | N/A |
-| 31 | [Lilipaly](http://twitter.com/search?q=Lilipaly) | N/A |
+| 28 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
+| 29 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 30 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 31 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
 | 32 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 33 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
-| 34 | [Bahasa](http://twitter.com/search?q=Bahasa) | N/A |
-| 35 | [JISUNG FOR Y MAGAZINE](http://twitter.com/search?q=JISUNG+FOR+Y+MAGAZINE) | N/A |
-| 36 | [KAI IS BACK](http://twitter.com/search?q=KAI+IS+BACK) | N/A |
-| 37 | [Robin Van persie](http://twitter.com/search?q=Robin+Van+persie) | N/A |
-| 38 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 39 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
-| 40 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 33 | [Basreng](http://twitter.com/search?q=Basreng) | N/A |
+| 34 | [jisung for y magazine](http://twitter.com/search?q=jisung+for+y+magazine) | N/A |
+| 35 | [GET WELL SOON JENO](http://twitter.com/search?q=GET+WELL+SOON+JENO) | N/A |
+| 36 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 37 | [Bahasa](http://twitter.com/search?q=Bahasa) | N/A |
+| 38 | [Robin van Persie](http://twitter.com/search?q=Robin+van+Persie) | N/A |
+| 39 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 40 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
 | 41 | [khilafah ajaran islam](http://twitter.com/search?q=khilafah+ajaran+islam) | N/A |
-| 42 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
-| 43 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 44 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 45 | [marugame](http://twitter.com/search?q=marugame) | N/A |
-| 46 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
+| 42 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 43 | [RIP Legend](http://twitter.com/search?q=RIP+Legend) | N/A |
+| 44 | [Sehari](http://twitter.com/search?q=Sehari) | N/A |
+| 45 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
+| 46 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
+| 47 | [marugame](http://twitter.com/search?q=marugame) | N/A |
 
 
 

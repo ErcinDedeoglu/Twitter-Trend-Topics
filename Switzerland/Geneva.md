@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-14 19:16:44 UTC`
+📆 Last Updated: `2023-03-14 20:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 2 | [#Berset](http://twitter.com/search?q=%23Berset) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
-| 5 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 8 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 9 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 10 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 11 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 12 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
-| 13 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 14 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 15 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 16 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 17 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 18 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 19 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 20 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 21 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
-| 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 23 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
-| 24 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
-| 25 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 26 | [Grenze](http://twitter.com/search?q=Grenze) | N/A |
-| 27 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 28 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 29 | [Forum 2023](http://twitter.com/search?q=Forum+2023) | N/A |
-| 30 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 31 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 32 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 33 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
-| 34 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 35 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 36 | [Wert](http://twitter.com/search?q=Wert) | N/A |
-| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 38 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 39 | [Rapier](http://twitter.com/search?q=Rapier) | N/A |
-| 40 | [Kriegen](http://twitter.com/search?q=Kriegen) | N/A |
-| 41 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
-| 42 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 43 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 44 | [Herrn](http://twitter.com/search?q=Herrn) | N/A |
-| 45 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 46 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 47 | [Raketen](http://twitter.com/search?q=Raketen) | N/A |
-| 48 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 3 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
+| 7 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 8 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 9 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 10 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 11 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 13 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 14 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 15 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 16 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 17 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 18 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 19 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 20 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 21 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 22 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 23 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 24 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 25 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 26 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 27 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 28 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 29 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 30 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
+| 31 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
+| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 33 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 34 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
+| 35 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 36 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 37 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 38 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 39 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 41 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 42 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 43 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 44 | [Satire](http://twitter.com/search?q=Satire) | N/A |
+| 45 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
+| 46 | [London](http://twitter.com/search?q=London) | N/A |
+| 47 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
+| 48 | [Argument](http://twitter.com/search?q=Argument) | N/A |
 
 
 

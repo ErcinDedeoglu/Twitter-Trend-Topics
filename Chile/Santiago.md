@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-14 19:16:32 UTC`
+📆 Last Updated: `2023-03-14 20:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RenunciaBoric](http://twitter.com/search?q=%23RenunciaBoric) | N/A |
+| 1 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
 | 2 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
 | 4 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
-| 5 | [Anto Larraín](http://twitter.com/search?q=Anto+Larra%c3%adn) | N/A |
-| 6 | [#MeganoticiasPrime](http://twitter.com/search?q=%23MeganoticiasPrime) | N/A |
-| 7 | [#FinalYoSoy](http://twitter.com/search?q=%23FinalYoSoy) | N/A |
-| 8 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
-| 9 | [Concepción](http://twitter.com/search?q=Concepci%c3%b3n) | N/A |
-| 10 | [El CAE](http://twitter.com/search?q=El+CAE) | N/A |
-| 11 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 12 | [Toha](http://twitter.com/search?q=Toha) | N/A |
-| 13 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 14 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 15 | [General Director](http://twitter.com/search?q=General+Director) | N/A |
-| 16 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 17 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
-| 18 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 19 | [Nery](http://twitter.com/search?q=Nery) | N/A |
-| 20 | [Belén Mora](http://twitter.com/search?q=Bel%c3%a9n+Mora) | N/A |
-| 21 | [YA BASTA](http://twitter.com/search?q=YA+BASTA) | N/A |
-| 22 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
-| 23 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
-| 24 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
-| 25 | [Cesarito](http://twitter.com/search?q=Cesarito) | N/A |
-| 26 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 27 | [Karen Rojo](http://twitter.com/search?q=Karen+Rojo) | N/A |
-| 28 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
-| 29 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 30 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 31 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 32 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 33 | [Nain](http://twitter.com/search?q=Nain) | N/A |
-| 34 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 35 | [Roberto Saa](http://twitter.com/search?q=Roberto+Saa) | N/A |
-| 36 | [Agrosuper](http://twitter.com/search?q=Agrosuper) | N/A |
-| 37 | [Coquimbo Unido](http://twitter.com/search?q=Coquimbo+Unido) | N/A |
-| 38 | [La Manada](http://twitter.com/search?q=La+Manada) | N/A |
-| 39 | [Bellavista](http://twitter.com/search?q=Bellavista) | N/A |
-| 40 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 41 | [Gina](http://twitter.com/search?q=Gina) | N/A |
-| 42 | [Saime](http://twitter.com/search?q=Saime) | N/A |
-| 43 | [Ethan](http://twitter.com/search?q=Ethan) | N/A |
-| 44 | [Pedrito](http://twitter.com/search?q=Pedrito) | N/A |
-| 45 | [Alessandri](http://twitter.com/search?q=Alessandri) | N/A |
-| 46 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 47 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 48 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 49 | [Ingredientes](http://twitter.com/search?q=Ingredientes) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Anto Larraín](http://twitter.com/search?q=Anto+Larra%c3%adn) | N/A |
+| 7 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
+| 8 | [#MeganoticiasPrime](http://twitter.com/search?q=%23MeganoticiasPrime) | N/A |
+| 9 | [#FinalYoSoy](http://twitter.com/search?q=%23FinalYoSoy) | N/A |
+| 10 | [Concepción](http://twitter.com/search?q=Concepci%c3%b3n) | N/A |
+| 11 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 12 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 13 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 14 | [Davidovich](http://twitter.com/search?q=Davidovich) | N/A |
+| 15 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 16 | [El CAE](http://twitter.com/search?q=El+CAE) | N/A |
+| 17 | [General Director](http://twitter.com/search?q=General+Director) | N/A |
+| 18 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
+| 19 | [YA BASTA](http://twitter.com/search?q=YA+BASTA) | N/A |
+| 20 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
+| 21 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 22 | [Belén Mora](http://twitter.com/search?q=Bel%c3%a9n+Mora) | N/A |
+| 23 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 24 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 25 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 26 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
+| 27 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 28 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 29 | [Ley Nain](http://twitter.com/search?q=Ley+Nain) | N/A |
+| 30 | [Rodrigo Delgado](http://twitter.com/search?q=Rodrigo+Delgado) | N/A |
+| 31 | [Nery](http://twitter.com/search?q=Nery) | N/A |
+| 32 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
+| 33 | [Cesarito](http://twitter.com/search?q=Cesarito) | N/A |
+| 34 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
+| 35 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 36 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 37 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 38 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 39 | [Roberto Saa](http://twitter.com/search?q=Roberto+Saa) | N/A |
+| 40 | [Coquimbo Unido](http://twitter.com/search?q=Coquimbo+Unido) | N/A |
+| 41 | [Atria](http://twitter.com/search?q=Atria) | N/A |
+| 42 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 43 | [Agrosuper](http://twitter.com/search?q=Agrosuper) | N/A |
+| 44 | [Karen Rojo](http://twitter.com/search?q=Karen+Rojo) | N/A |
+| 45 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 46 | [Ethan](http://twitter.com/search?q=Ethan) | N/A |
+| 47 | [Saime](http://twitter.com/search?q=Saime) | N/A |
+| 48 | [La Manada](http://twitter.com/search?q=La+Manada) | N/A |
+| 49 | [Bellavista](http://twitter.com/search?q=Bellavista) | N/A |
 
 
 

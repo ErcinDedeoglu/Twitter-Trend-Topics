@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-14 19:17:09 UTC`
+📆 Last Updated: `2023-03-14 20:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
-| 2 | [#mawx](http://twitter.com/search?q=%23mawx) | N/A |
-| 3 | [New England](http://twitter.com/search?q=New+England) | N/A |
-| 4 | [#Noreaster](http://twitter.com/search?q=%23Noreaster) | N/A |
-| 5 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 6 | [Worcester](http://twitter.com/search?q=Worcester) | N/A |
-| 7 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 8 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
-| 11 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 12 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 13 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 14 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 15 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 16 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 17 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 18 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 19 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 20 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
-| 21 | [Kelsey Plum](http://twitter.com/search?q=Kelsey+Plum) | N/A |
-| 22 | [Josh McDaniels](http://twitter.com/search?q=Josh+McDaniels) | Josh McDaniels is an American football coach who is currently the offensive coordinator for the New England Patriots of the National Football League (NFL). He has previously served as head coach of the Denver Broncos and offensive coordinator for the St. Louis Rams. |
-| 23 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
-| 24 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 25 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 28 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 29 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
-| 30 | [Jordy Nelson](http://twitter.com/search?q=Jordy+Nelson) | N/A |
-| 31 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
-| 32 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 33 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
-| 34 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
-| 35 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 36 | [New York Packers](http://twitter.com/search?q=New+York+Packers) | N/A |
-| 37 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 38 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 39 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 40 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 41 | [12 Years a Slave](http://twitter.com/search?q=12+Years+a+Slave) | N/A |
-| 42 | [5 TE](http://twitter.com/search?q=5+TE) | N/A |
-| 43 | [GPT-3.5](http://twitter.com/search?q=GPT-3.5) | N/A |
-| 44 | [Draya](http://twitter.com/search?q=Draya) | N/A |
-| 45 | [Mostert](http://twitter.com/search?q=Mostert) | Mostert is a Dutch surname derived from the word "mostaard," which means "mustard." It is also a South African surname, and can be found in other countries as well. The English translation of Mostert is "Mustard." |
+| 2 | [#Noreaster](http://twitter.com/search?q=%23Noreaster) | N/A |
+| 3 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
+| 4 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 5 | [Worcester](http://twitter.com/search?q=Worcester) | N/A |
+| 6 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 7 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 9 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
+| 10 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 11 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 12 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 13 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 14 | [Rashaad Penny](http://twitter.com/search?q=Rashaad+Penny) | N/A |
+| 15 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 16 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 17 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 18 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
+| 19 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
+| 20 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
+| 21 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 22 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 23 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
+| 24 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 25 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
+| 26 | [Miles Sanders](http://twitter.com/search?q=Miles+Sanders) | N/A |
+| 27 | [Kelsey Plum](http://twitter.com/search?q=Kelsey+Plum) | N/A |
+| 28 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
+| 29 | [12 Years a Slave](http://twitter.com/search?q=12+Years+a+Slave) | N/A |
+| 30 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 31 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 32 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 33 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
+| 34 | [Kittle](http://twitter.com/search?q=Kittle) | Kittle is a Scottish word meaning to tickle or tease. It can also be used to describe someone who is mischievous or playful. |
+| 35 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
+| 36 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 37 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
+| 38 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
+| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 40 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 41 | [Jordy Nelson](http://twitter.com/search?q=Jordy+Nelson) | N/A |
+| 42 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 43 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 44 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
+| 45 | [Draya](http://twitter.com/search?q=Draya) | N/A |
 | 46 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 47 | [Green Bay](http://twitter.com/search?q=Green+Bay) | Green Bay is a city in Wisconsin, United States. It is located on the western shore of Lake Michigan at the mouth of the Fox River. The city is known for its association with the National Football League's Green Bay Packers, which play their home games at Lambeau Field. The name "Green Bay" comes from the French phrase "la baie des Puants," which translates to "the bay of stinks." |
-| 48 | [ChatGPT Plus](http://twitter.com/search?q=ChatGPT+Plus) | N/A |
+| 47 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 48 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 49 | [New York Packers](http://twitter.com/search?q=New+York+Packers) | N/A |
+| 50 | [Jacobs](http://twitter.com/search?q=Jacobs) | N/A |
 
 
 

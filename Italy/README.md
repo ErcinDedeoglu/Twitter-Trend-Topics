@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-14 19:17:22 UTC`
+📆 Last Updated: `2023-03-14 20:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#14marzo](http://twitter.com/search?q=%2314marzo) | N/A |
-| 2 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 2 | [#PortoInter](http://twitter.com/search?q=%23PortoInter) | N/A |
 | 3 | [#Anastasio](http://twitter.com/search?q=%23Anastasio) | N/A |
-| 4 | [#PortoInter](http://twitter.com/search?q=%23PortoInter) | N/A |
-| 5 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
-| 6 | [#Crosetto](http://twitter.com/search?q=%23Crosetto) | N/A |
+| 4 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 5 | [#Crosetto](http://twitter.com/search?q=%23Crosetto) | N/A |
+| 6 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
 | 7 | [Mar Nero](http://twitter.com/search?q=Mar+Nero) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 8 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 10 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
 | 11 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 12 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 13 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 14 | [Duce](http://twitter.com/search?q=Duce) | N/A |
-| 15 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 16 | [UN RICORDO PER LULÙ](http://twitter.com/search?q=UN+RICORDO+PER+LUL%c3%99) | N/A |
-| 17 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
-| 18 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 19 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 20 | [Fassino](http://twitter.com/search?q=Fassino) | N/A |
-| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 22 | [Kalulu](http://twitter.com/search?q=Kalulu) | N/A |
-| 23 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 24 | [Simon Pietro](http://twitter.com/search?q=Simon+Pietro) | N/A |
-| 25 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 26 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 27 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 28 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 29 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
-| 30 | [Bravo Pier](http://twitter.com/search?q=Bravo+Pier) | N/A |
-| 31 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 32 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 33 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 34 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 35 | [Scanzi](http://twitter.com/search?q=Scanzi) | N/A |
-| 36 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 37 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 38 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 12 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 13 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 14 | [UN RICORDO PER LULÙ](http://twitter.com/search?q=UN+RICORDO+PER+LUL%c3%99) | N/A |
+| 15 | [Duce](http://twitter.com/search?q=Duce) | N/A |
+| 16 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 17 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 18 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
+| 19 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 20 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 21 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 22 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 23 | [buongiorno ilva](http://twitter.com/search?q=buongiorno+ilva) | N/A |
+| 24 | [Fassino](http://twitter.com/search?q=Fassino) | N/A |
+| 25 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 26 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 27 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 28 | [Scanzi](http://twitter.com/search?q=Scanzi) | N/A |
+| 29 | [Kalulu](http://twitter.com/search?q=Kalulu) | N/A |
+| 30 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 31 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 32 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 33 | [Laura Pausini](http://twitter.com/search?q=Laura+Pausini) | N/A |
+| 34 | [buongiorno max](http://twitter.com/search?q=buongiorno+max) | N/A |
+| 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 36 | [Inps](http://twitter.com/search?q=Inps) | N/A |
+| 37 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 38 | [Africa](http://twitter.com/search?q=Africa) | N/A |
 | 39 | [Il 14](http://twitter.com/search?q=Il+14) | N/A |
-| 40 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 41 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 42 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
-| 43 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 44 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 45 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 46 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 47 | [Favero](http://twitter.com/search?q=Favero) | N/A |
-| 48 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
-| 49 | [Abate](http://twitter.com/search?q=Abate) | N/A |
-| 50 | [Dylan Dog](http://twitter.com/search?q=Dylan+Dog) | N/A |
+| 40 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 41 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 42 | [Simon Pietro](http://twitter.com/search?q=Simon+Pietro) | N/A |
+| 43 | [Bambini](http://twitter.com/search?q=Bambini) | N/A |
+| 44 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 45 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 46 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
+| 47 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 48 | [FORZA INTER](http://twitter.com/search?q=FORZA+INTER) | N/A |
+| 49 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 50 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
 
 
 
