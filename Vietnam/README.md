@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-14 21:17:35 UTC`
+📆 Last Updated: `2023-03-14 22:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 1 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
 | 2 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 3 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
 | 4 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
@@ -41,7 +41,7 @@ This is top 50 for Vietnam
 | 24 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 25 | [thành](http://twitter.com/search?q=th%c3%a0nh) | N/A |
 | 26 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 27 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 27 | [xinh](http://twitter.com/search?q=xinh) | N/A |
 | 28 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
 | 29 | [được](http://twitter.com/search?q=%c4%91%c6%b0%e1%bb%a3c) | N/A |
 | 30 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Vietnam
 | 44 | [Tham](http://twitter.com/search?q=Tham) | N/A |
 | 45 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 46 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 47 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
+| 47 | [toàn](http://twitter.com/search?q=to%c3%a0n) | N/A |
 | 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 49 | [thèm](http://twitter.com/search?q=th%c3%a8m) | N/A |
 | 50 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-14 21:17:33 UTC`
+📆 Last Updated: `2023-03-14 22:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,10 +22,10 @@ This is top 50 for Singapore
 | 5 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 6 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
 | 7 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 8 | [#뉴이스트_데뷔11주년_축하해](http://twitter.com/search?q=%23%eb%89%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 9 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 10 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 11 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 8 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 9 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 10 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 11 | [#뉴이스트_데뷔11주년_축하해](http://twitter.com/search?q=%23%eb%89%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 12 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
 | 13 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
 | 14 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Singapore
 | 17 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
 | 18 | [Western](http://twitter.com/search?q=Western) | N/A |
 | 19 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 20 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 20 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
 | 21 | [neyo](http://twitter.com/search?q=neyo) | N/A |
 | 22 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
@@ -60,11 +60,11 @@ This is top 50 for Singapore
 | 43 | [SO CUTE](http://twitter.com/search?q=SO+CUTE) | N/A |
 | 44 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
 | 45 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 46 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 47 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
-| 48 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 49 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 50 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 46 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 47 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 48 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 49 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 50 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
 
 
 

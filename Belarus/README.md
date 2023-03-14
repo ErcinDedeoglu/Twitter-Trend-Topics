@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-14 21:17:28 UTC`
+📆 Last Updated: `2023-03-14 22:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Belarus
 | 3 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
 | 4 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
 | 5 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 6 | [Бресте](http://twitter.com/search?q=%d0%91%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
+| 6 | [бресте](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
 | 7 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 8 | [Минск](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 | 9 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |

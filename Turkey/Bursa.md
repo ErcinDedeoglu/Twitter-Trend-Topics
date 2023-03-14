@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-03-14 21:17:17 UTC`
+📆 Last Updated: `2023-03-14 22:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
+| 1 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
 | 2 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 3 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 4 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 5 | [#DepremzedeAsistnDRaNakil](http://twitter.com/search?q=%23DepremzedeAsistnDRaNakil) | N/A |
+| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 4 | [#DepremzedeAsistnDRaNakil](http://twitter.com/search?q=%23DepremzedeAsistnDRaNakil) | N/A |
+| 5 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
 | 6 | [#MalatyaEnkazınAltındaKaldı](http://twitter.com/search?q=%23MalatyaEnkaz%c4%b1nAlt%c4%b1ndaKald%c4%b1) | N/A |
-| 7 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 8 | [Barış Yıldız](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Y%c4%b1ld%c4%b1z) | N/A |
-| 9 | [AlparslanHocaya TelefonYasağı](http://twitter.com/search?q=AlparslanHocaya+TelefonYasa%c4%9f%c4%b1) | N/A |
-| 10 | [35YaşSınırı TorbaYasaya](http://twitter.com/search?q=35Ya%c5%9fS%c4%b1n%c4%b1r%c4%b1+TorbaYasaya) | N/A |
-| 11 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
-| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 13 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
-| 14 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
-| 15 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
-| 16 | [Serenay](http://twitter.com/search?q=Serenay) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 19 | [KimTaşerona KadroyaEngel](http://twitter.com/search?q=KimTa%c5%9ferona+KadroyaEngel) | N/A |
-| 20 | [Konda](http://twitter.com/search?q=Konda) | N/A |
-| 21 | [DÜNYAYA KARŞI](http://twitter.com/search?q=D%c3%9cNYAYA+KAR%c5%9eI) | N/A |
-| 22 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 23 | [Ertan Saban](http://twitter.com/search?q=Ertan+Saban) | N/A |
+| 7 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 8 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 9 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
+| 10 | [Barış Yıldız](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Y%c4%b1ld%c4%b1z) | N/A |
+| 11 | [Messici](http://twitter.com/search?q=Messici) | N/A |
+| 12 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
+| 13 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 14 | [AlparslanHocaya TelefonYasağı](http://twitter.com/search?q=AlparslanHocaya+TelefonYasa%c4%9f%c4%b1) | N/A |
+| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 16 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
+| 17 | [35YaşSınırı TorbaYasaya](http://twitter.com/search?q=35Ya%c5%9fS%c4%b1n%c4%b1r%c4%b1+TorbaYasaya) | N/A |
+| 18 | [DÜNYAYA KARŞI](http://twitter.com/search?q=D%c3%9cNYAYA+KAR%c5%9eI) | N/A |
+| 19 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
+| 20 | [KimTaşerona KadroyaEngel](http://twitter.com/search?q=KimTa%c5%9ferona+KadroyaEngel) | N/A |
+| 21 | [Rus Su-27](http://twitter.com/search?q=Rus+Su-27) | N/A |
+| 22 | [Serenay](http://twitter.com/search?q=Serenay) | N/A |
+| 23 | [Togg](http://twitter.com/search?q=Togg) | N/A |
 | 24 | [SABAH YALAN AKŞAM YALAN](http://twitter.com/search?q=SABAH+YALAN+AK%c5%9eAM+YALAN) | N/A |
-| 25 | [Rus Su-27](http://twitter.com/search?q=Rus+Su-27) | N/A |
-| 26 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
-| 27 | [Akdeniz'de 5.3](http://twitter.com/search?q=Akdeniz%27de+5.3) | N/A |
-| 28 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 29 | [Anadolu Efes](http://twitter.com/search?q=Anadolu+Efes) | N/A |
-| 30 | [Emel Uslu Atik](http://twitter.com/search?q=Emel+Uslu+Atik) | N/A |
-| 31 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 32 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 33 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 34 | [Derya Yanık](http://twitter.com/search?q=Derya+Yan%c4%b1k) | N/A |
-| 35 | [Malatya Valiliği](http://twitter.com/search?q=Malatya+Valili%c4%9fi) | N/A |
-| 36 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
-| 37 | [Kumarbaz](http://twitter.com/search?q=Kumarbaz) | N/A |
-| 38 | [EsnafSuçlu DeğilBorçlu](http://twitter.com/search?q=EsnafSu%c3%a7lu+De%c4%9filBor%c3%a7lu) | EsnafSuçlu DeğilBorçlu is a Turkish phrase that translates to "The Merchant is Not Guilty, He is in Debt". It is a proverb that suggests that merchants should not be blamed for their debts, but rather they should be given the opportunity to pay them off. |
-| 39 | [İşkenceciler KayıtAltında](http://twitter.com/search?q=%c4%b0%c5%9fkenceciler+Kay%c4%b1tAlt%c4%b1nda) | N/A |
-| 40 | [ABD İHA](http://twitter.com/search?q=ABD+%c4%b0HA) | N/A |
-| 41 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
-| 42 | [DepremŞartlı YapıKayıt](http://twitter.com/search?q=Deprem%c5%9eartl%c4%b1+Yap%c4%b1Kay%c4%b1t) | N/A |
-| 43 | [Aslan Soykan](http://twitter.com/search?q=Aslan+Soykan) | N/A |
-| 44 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
-| 45 | [Mümtaz Gövce](http://twitter.com/search?q=M%c3%bcmtaz+G%c3%b6vce) | N/A |
-| 46 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 47 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 25 | [Akdeniz'de 5.3](http://twitter.com/search?q=Akdeniz%27de+5.3) | N/A |
+| 26 | [Ertan Saban](http://twitter.com/search?q=Ertan+Saban) | N/A |
+| 27 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
+| 28 | [Konda](http://twitter.com/search?q=Konda) | N/A |
+| 29 | [Derya Yanık](http://twitter.com/search?q=Derya+Yan%c4%b1k) | N/A |
+| 30 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 31 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
+| 32 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
+| 33 | [Anadolu Efes](http://twitter.com/search?q=Anadolu+Efes) | N/A |
+| 34 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 35 | [Emel Uslu Atik](http://twitter.com/search?q=Emel+Uslu+Atik) | N/A |
+| 36 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 37 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
+| 38 | [Şampiyonlar Ligi](http://twitter.com/search?q=%c5%9eampiyonlar+Ligi) | N/A |
+| 39 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
+| 40 | [Malatya Valiliği](http://twitter.com/search?q=Malatya+Valili%c4%9fi) | N/A |
+| 41 | [Kumarbaz](http://twitter.com/search?q=Kumarbaz) | N/A |
+| 42 | [EsnafSuçlu DeğilBorçlu](http://twitter.com/search?q=EsnafSu%c3%a7lu+De%c4%9filBor%c3%a7lu) | EsnafSuçlu DeğilBorçlu is a Turkish phrase that translates to "The Merchant is Not Guilty, He is in Debt". It is a proverb that suggests that merchants should not be blamed for their debts, but rather they should be given the opportunity to pay them off. |
+| 43 | [İşkenceciler KayıtAltında](http://twitter.com/search?q=%c4%b0%c5%9fkenceciler+Kay%c4%b1tAlt%c4%b1nda) | N/A |
+| 44 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
+| 45 | [DepremŞartlı YapıKayıt](http://twitter.com/search?q=Deprem%c5%9eartl%c4%b1+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 46 | [Mümtaz Gövce](http://twitter.com/search?q=M%c3%bcmtaz+G%c3%b6vce) | N/A |
+| 47 | [ABD İHA](http://twitter.com/search?q=ABD+%c4%b0HA) | N/A |
 | 48 | [Tevfik](http://twitter.com/search?q=Tevfik) | N/A |
-| 49 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 
 
 

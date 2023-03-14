@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-14 21:16:50 UTC`
+📆 Last Updated: `2023-03-14 22:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Picanha](http://twitter.com/search?q=Picanha) | N/A |
-| 2 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 3 | [#balançogeralrj](http://twitter.com/search?q=%23balan%c3%a7ogeralrj) | N/A |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 7 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 8 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 9 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 10 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 11 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 12 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 13 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 14 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
-| 15 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 16 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 17 | [Hat-trick](http://twitter.com/search?q=Hat-trick) | A hat-trick is a term used in sports, particularly association football and cricket, to describe when a player achieves three successes in a single game or match. It can refer to goals scored by one player, wickets taken by a bowler, or other achievements. The term originates from cricket, where it was traditionally awarded for a bowler taking three wickets with consecutive deliveries. |
-| 18 | [CURTINDO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
-| 19 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 20 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 21 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 22 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 23 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
-| 24 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 25 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 26 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 27 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 28 | [Natal](http://twitter.com/search?q=Natal) | Natal is a Portuguese word meaning "birth". It is often used to refer to the place of one's birth, or the celebration of one's birth. |
-| 29 | [O City](http://twitter.com/search?q=O+City) | N/A |
-| 30 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
-| 31 | [pism](http://twitter.com/search?q=pism) | N/A |
-| 32 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 33 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 34 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 35 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 36 | [Bobs](http://twitter.com/search?q=Bobs) | N/A |
-| 37 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 38 | [Diplo](http://twitter.com/search?q=Diplo) | N/A |
-| 39 | [Força Nacional](http://twitter.com/search?q=For%c3%a7a+Nacional) | N/A |
-| 40 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 41 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
-| 42 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
-| 43 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 44 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 45 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 46 | [Roger Cipó](http://twitter.com/search?q=Roger+Cip%c3%b3) | N/A |
-| 47 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
-| 48 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 49 | [Mainstreet](http://twitter.com/search?q=Mainstreet) | N/A |
-| 50 | [Black Twitter](http://twitter.com/search?q=Black+Twitter) | N/A |
+| 1 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 2 | [#balançogeralrj](http://twitter.com/search?q=%23balan%c3%a7ogeralrj) | N/A |
+| 3 | [#5AnosSemRespostas](http://twitter.com/search?q=%235AnosSemRespostas) | N/A |
+| 4 | [Picanha](http://twitter.com/search?q=Picanha) | N/A |
+| 5 | [bruno mars](http://twitter.com/search?q=bruno+mars) | N/A |
+| 6 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 8 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 9 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 10 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 11 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 12 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 13 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 14 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 15 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 16 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 17 | [5 GOLS](http://twitter.com/search?q=5+GOLS) | N/A |
+| 18 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 19 | [CURTINDO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
+| 20 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 21 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 22 | [CINCO GOLS](http://twitter.com/search?q=CINCO+GOLS) | N/A |
+| 23 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 24 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 26 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 27 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 28 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 29 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
+| 30 | [Messizete](http://twitter.com/search?q=Messizete) | N/A |
+| 31 | [Hat-trick](http://twitter.com/search?q=Hat-trick) | A hat-trick is a term used in sports, particularly association football and cricket, to describe when a player achieves three successes in a single game or match. It can refer to goals scored by one player, wickets taken by a bowler, or other achievements. The term originates from cricket, where it was traditionally awarded for a bowler taking three wickets with consecutive deliveries. |
+| 32 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 33 | [Bobs](http://twitter.com/search?q=Bobs) | N/A |
+| 34 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 35 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 36 | [O City](http://twitter.com/search?q=O+City) | N/A |
+| 37 | [#OReidoGado](http://twitter.com/search?q=%23OReidoGado) | N/A |
+| 38 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
+| 39 | [Natal](http://twitter.com/search?q=Natal) | Natal is a Portuguese word meaning "birth". It is often used to refer to the place of one's birth, or the celebration of one's birth. |
+| 40 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 41 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | Pepê is a Portuguese term of endearment that is used to refer to someone in a friendly or affectionate way. It can be translated to English as "dear" or "darling". |
+| 42 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 43 | [Força Nacional](http://twitter.com/search?q=For%c3%a7a+Nacional) | N/A |
+| 44 | [Jota Júnior](http://twitter.com/search?q=Jota+J%c3%banior) | N/A |
+| 45 | [pism](http://twitter.com/search?q=pism) | N/A |
+| 46 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 47 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
+| 48 | [Giraffas](http://twitter.com/search?q=Giraffas) | N/A |
+| 49 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 50 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
 
 
 

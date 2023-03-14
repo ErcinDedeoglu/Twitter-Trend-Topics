@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-14 21:17:26 UTC`
+📆 Last Updated: `2023-03-14 22:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Monterey Park](http://twitter.com/search?q=Monterey+Park) | Monterey Park is a city located in Los Angeles County, California. It is a large, ethnically diverse suburb of Los Angeles with a population of over 60,000 people. The name Monterey Park comes from the Spanish words for "mountain" and "meadow," and it was originally part of the Rancho San Antonio land grant. |
-| 2 | [Mark Davis](http://twitter.com/search?q=Mark+Davis) | Mark Davis is a name, and it has no particular meaning in English. |
-| 3 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 4 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
-| 5 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 6 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 7 | [#SMMW23](http://twitter.com/search?q=%23SMMW23) | N/A |
-| 8 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 9 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 10 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 11 | [#AtmosphericRiver](http://twitter.com/search?q=%23AtmosphericRiver) | N/A |
+| 1 | [For a 3rd](http://twitter.com/search?q=For+a+3rd) | N/A |
+| 2 | [Eman](http://twitter.com/search?q=Eman) | N/A |
+| 3 | [Monterey Park](http://twitter.com/search?q=Monterey+Park) | Monterey Park is a city located in Los Angeles County, California. It is a large, ethnically diverse suburb of Los Angeles with a population of over 60,000 people. The name Monterey Park comes from the Spanish words for "mountain" and "meadow," and it was originally part of the Rancho San Antonio land grant. |
+| 4 | [Moseley](http://twitter.com/search?q=Moseley) | N/A |
+| 5 | [Jacobs](http://twitter.com/search?q=Jacobs) | N/A |
+| 6 | [#openai](http://twitter.com/search?q=%23openai) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
+| 9 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 10 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 11 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
 | 12 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
-| 13 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
-| 14 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 15 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 16 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 19 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 20 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
-| 21 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 22 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 23 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 24 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 25 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 26 | [Rashaad Penny](http://twitter.com/search?q=Rashaad+Penny) | N/A |
-| 27 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 28 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 29 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 30 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 31 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 32 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 33 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 34 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
-| 35 | [Boobie](http://twitter.com/search?q=Boobie) | N/A |
-| 36 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 37 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 38 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 39 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 40 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 41 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 42 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 43 | [Billy G](http://twitter.com/search?q=Billy+G) | N/A |
-| 44 | [12 Years a Slave](http://twitter.com/search?q=12+Years+a+Slave) | N/A |
-| 45 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 46 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 47 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 48 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 49 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 50 | [Kelsey Plum](http://twitter.com/search?q=Kelsey+Plum) | N/A |
+| 13 | [Mark Davis](http://twitter.com/search?q=Mark+Davis) | Mark Davis is a name, and it has no particular meaning in English. |
+| 14 | [#SMMW23](http://twitter.com/search?q=%23SMMW23) | N/A |
+| 15 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 16 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 17 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 18 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
+| 19 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 20 | [#AtmosphericRiver](http://twitter.com/search?q=%23AtmosphericRiver) | N/A |
+| 21 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 23 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 24 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 25 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 26 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 27 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 28 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 29 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 30 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 31 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 32 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 33 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 34 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
+| 35 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 36 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 37 | [Rashaad Penny](http://twitter.com/search?q=Rashaad+Penny) | N/A |
+| 38 | [Gilly](http://twitter.com/search?q=Gilly) | N/A |
+| 39 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 40 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 41 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 42 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 43 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 44 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 45 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 46 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 47 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 48 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 49 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 50 | [Boobie](http://twitter.com/search?q=Boobie) | N/A |
 
 
 

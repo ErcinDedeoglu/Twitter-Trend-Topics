@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-14 21:16:58 UTC`
+📆 Last Updated: `2023-03-14 22:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 3 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 4 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 5 | [#CasadelLibro200](http://twitter.com/search?q=%23CasadelLibro200) | N/A |
-| 6 | [#Pasapalabra724](http://twitter.com/search?q=%23Pasapalabra724) | N/A |
-| 7 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
-| 8 | [#firstdates14m](http://twitter.com/search?q=%23firstdates14m) | N/A |
-| 9 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 10 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 11 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 13 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 14 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 15 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 16 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 17 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 18 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 2 | [#TierraDeNadie2](http://twitter.com/search?q=%23TierraDeNadie2) | N/A |
+| 3 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 4 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 5 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 6 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 7 | [#CasadelLibro200](http://twitter.com/search?q=%23CasadelLibro200) | N/A |
+| 8 | [#FirstDates14M](http://twitter.com/search?q=%23FirstDates14M) | N/A |
+| 9 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
+| 10 | [Oporto](http://twitter.com/search?q=Oporto) | N/A |
+| 11 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 12 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 14 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 15 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 16 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 17 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 18 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
 | 19 | [Roig](http://twitter.com/search?q=Roig) | N/A |
-| 20 | [Chus Mateo](http://twitter.com/search?q=Chus+Mateo) | Chus Mateo is a Spanish phrase that translates to "God bless you" in English. It is used as a way to express good wishes or blessings to someone. |
-| 21 | [España y Portugal](http://twitter.com/search?q=Espa%c3%b1a+y+Portugal) | N/A |
-| 22 | [Oporto](http://twitter.com/search?q=Oporto) | N/A |
-| 23 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
-| 24 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 26 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 27 | [Mohamed VI](http://twitter.com/search?q=Mohamed+VI) | N/A |
-| 28 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
-| 29 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
-| 30 | [Fiesta de la Primavera](http://twitter.com/search?q=Fiesta+de+la+Primavera) | N/A |
-| 31 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 32 | [Fiscalía Europea](http://twitter.com/search?q=Fiscal%c3%ada+Europea) | N/A |
-| 33 | [Chacho](http://twitter.com/search?q=Chacho) | N/A |
-| 34 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 35 | [Ley Mordaza](http://twitter.com/search?q=Ley+Mordaza) | N/A |
-| 36 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 37 | [Rallo](http://twitter.com/search?q=Rallo) | N/A |
-| 38 | [Eroski](http://twitter.com/search?q=Eroski) | N/A |
-| 39 | [Leonor](http://twitter.com/search?q=Leonor) | N/A |
-| 40 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 41 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 42 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 43 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 20 | [Efes](http://twitter.com/search?q=Efes) | N/A |
+| 21 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 22 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 23 | [Chus Mateo](http://twitter.com/search?q=Chus+Mateo) | Chus Mateo is a Spanish phrase that translates to "God bless you" in English. It is used as a way to express good wishes or blessings to someone. |
+| 24 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 25 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 27 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
+| 28 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 29 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 30 | [Mohamed VI](http://twitter.com/search?q=Mohamed+VI) | N/A |
+| 31 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 32 | [Rallo](http://twitter.com/search?q=Rallo) | N/A |
+| 33 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
+| 34 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
+| 35 | [Fiscalía Europea](http://twitter.com/search?q=Fiscal%c3%ada+Europea) | N/A |
+| 36 | [Chacho](http://twitter.com/search?q=Chacho) | N/A |
+| 37 | [Ley Mordaza](http://twitter.com/search?q=Ley+Mordaza) | N/A |
+| 38 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
+| 39 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 40 | [Eroski](http://twitter.com/search?q=Eroski) | N/A |
+| 41 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 42 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 43 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
 | 44 | [Clattenburg](http://twitter.com/search?q=Clattenburg) | N/A |
-| 45 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
-| 46 | [Participo](http://twitter.com/search?q=Participo) | N/A |
-| 47 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 45 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
+| 46 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
+| 47 | [Leonor](http://twitter.com/search?q=Leonor) | N/A |
+| 48 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
 
 
 

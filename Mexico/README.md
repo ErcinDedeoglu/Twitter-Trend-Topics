@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-14 21:17:31 UTC`
+📆 Last Updated: `2023-03-14 22:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Mexico
 | 2 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
 | 3 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 4 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 5 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 6 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 8 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 9 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 10 | [LIVE CON EVE](http://twitter.com/search?q=LIVE+CON+EVE) | N/A |
-| 11 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 12 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 13 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
-| 14 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 15 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 16 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 17 | [Estadio Akron](http://twitter.com/search?q=Estadio+Akron) | N/A |
-| 18 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
-| 19 | [Chon](http://twitter.com/search?q=Chon) | N/A |
-| 20 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 21 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
-| 22 | [Descansa Reb](http://twitter.com/search?q=Descansa+Reb) | Descansa Reb is a Spanish phrase that translates to "Rest in Peace" in English. It is typically used as a way to express condolences or sympathy for someone who has passed away. |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 25 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 26 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 27 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 28 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
-| 29 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 30 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
-| 31 | [#JoshuaHalling](http://twitter.com/search?q=%23JoshuaHalling) | N/A |
-| 32 | [#FaveTourPhotographer](http://twitter.com/search?q=%23FaveTourPhotographer) | N/A |
-| 33 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
-| 34 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 35 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 36 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 37 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 38 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 39 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
-| 40 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 41 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 42 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
-| 43 | [José Ramón López Beltrán](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+L%c3%b3pez+Beltr%c3%a1n) | N/A |
-| 44 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
-| 45 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 46 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 47 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 48 | [Remdesivir](http://twitter.com/search?q=Remdesivir) | N/A |
-| 49 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
-| 50 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 5 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 6 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 7 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 8 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 9 | [Androide](http://twitter.com/search?q=Androide) | N/A |
+| 10 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 11 | [LIVE CON EVE](http://twitter.com/search?q=LIVE+CON+EVE) | N/A |
+| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 13 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 14 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
+| 15 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 16 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 17 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 18 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 19 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 20 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 21 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
+| 22 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 23 | [Chon](http://twitter.com/search?q=Chon) | N/A |
+| 24 | [Estadio Akron](http://twitter.com/search?q=Estadio+Akron) | N/A |
+| 25 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
+| 26 | [Ofelia Medina](http://twitter.com/search?q=Ofelia+Medina) | N/A |
+| 27 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
+| 28 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 29 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 30 | [Álvarez](http://twitter.com/search?q=%c3%81lvarez) | N/A |
+| 31 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 32 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 33 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 34 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 35 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
+| 36 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 37 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
+| 38 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 39 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 41 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 42 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
+| 43 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
+| 44 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 45 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
+| 46 | [José Ramón López Beltrán](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+L%c3%b3pez+Beltr%c3%a1n) | N/A |
+| 47 | [Remdesivir](http://twitter.com/search?q=Remdesivir) | N/A |
+| 48 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
+| 49 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 50 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-03-14 21:17:26 UTC`
+📆 Last Updated: `2023-03-14 22:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mostert](http://twitter.com/search?q=Mostert) | Mostert is a Dutch surname derived from the word "mostaard," which means "mustard." It is also a South African surname, and can be found in other countries as well. The English translation of Mostert is "Mustard." |
-| 2 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 2 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
 | 3 | [Tron](http://twitter.com/search?q=Tron) | Tron is a 1982 science fiction film directed by Steven Lisberger. It follows the story of a computer programmer who is transported inside the software world of a mainframe computer where he interacts with programs in his attempt to escape. The title of the film is derived from the word "electronic", which is shortened to "tron" in reference to the electronic world. |
 | 4 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 5 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 6 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 7 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 7 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 8 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 10 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
 | 11 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 12 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
-| 13 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 14 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 15 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 16 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 17 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 18 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 19 | [Rashaad Penny](http://twitter.com/search?q=Rashaad+Penny) | N/A |
-| 20 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 21 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 22 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 23 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 24 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
-| 25 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 26 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 27 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 28 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
-| 29 | [Boobie](http://twitter.com/search?q=Boobie) | N/A |
-| 30 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 31 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 32 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 33 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 34 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 35 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 36 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 37 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 38 | [Billy G](http://twitter.com/search?q=Billy+G) | N/A |
-| 39 | [12 Years a Slave](http://twitter.com/search?q=12+Years+a+Slave) | N/A |
-| 40 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 41 | [For a 5th](http://twitter.com/search?q=For+a+5th) | N/A |
-| 42 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 44 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 45 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 46 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 47 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 48 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
-| 49 | [Kelsey Plum](http://twitter.com/search?q=Kelsey+Plum) | N/A |
+| 12 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 13 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 14 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
+| 15 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 16 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 17 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
+| 18 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 19 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
+| 20 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 21 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 22 | [Rashaad Penny](http://twitter.com/search?q=Rashaad+Penny) | N/A |
+| 23 | [Gilly](http://twitter.com/search?q=Gilly) | N/A |
+| 24 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 25 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 26 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 27 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 28 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 29 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 30 | [#MoreThanFour](http://twitter.com/search?q=%23MoreThanFour) | N/A |
+| 31 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 32 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 33 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 34 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 35 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 36 | [Boobie](http://twitter.com/search?q=Boobie) | N/A |
+| 37 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
+| 38 | [Anthony Brown](http://twitter.com/search?q=Anthony+Brown) | N/A |
+| 39 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
+| 40 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 41 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 42 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 43 | [Boston Scott](http://twitter.com/search?q=Boston+Scott) | Boston Scott is a nickname given to American football running back Boston Scott of the Philadelphia Eagles. The name is a play on words, as it combines his first name with the city of Philadelphia, which is often referred to as "The City of Brotherly Love" or "The City of Brotherly Scott". |
+| 44 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 45 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 46 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
+| 47 | [Billy G](http://twitter.com/search?q=Billy+G) | N/A |
+| 48 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
+| 49 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
 
 
 
