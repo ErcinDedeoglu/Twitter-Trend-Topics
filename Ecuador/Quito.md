@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-14 17:18:33 UTC`
+📆 Last Updated: `2023-03-14 18:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 1 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 4 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 5 | [#CNECumplió](http://twitter.com/search?q=%23CNECumpli%c3%b3) | N/A |
-| 6 | [#EcuadorDecidió](http://twitter.com/search?q=%23EcuadorDecidi%c3%b3) | N/A |
-| 7 | [Embajada](http://twitter.com/search?q=Embajada) | N/A |
-| 8 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
+| 4 | [#CNECumplió](http://twitter.com/search?q=%23CNECumpli%c3%b3) | N/A |
+| 5 | [#EcuadorDecidió](http://twitter.com/search?q=%23EcuadorDecidi%c3%b3) | N/A |
+| 6 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 7 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
+| 8 | [Embajada](http://twitter.com/search?q=Embajada) | N/A |
 | 9 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 10 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
-| 11 | [#LassoDestruyoEcuador](http://twitter.com/search?q=%23LassoDestruyoEcuador) | N/A |
-| 12 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 13 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 14 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
-| 15 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 16 | [Tanya Varela](http://twitter.com/search?q=Tanya+Varela) | N/A |
-| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 18 | [Entrega de Credenciales](http://twitter.com/search?q=Entrega+de+Credenciales) | N/A |
-| 19 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
-| 20 | [Adóptalo](http://twitter.com/search?q=Ad%c3%b3ptalo) | N/A |
-| 21 | [la unase](http://twitter.com/search?q=la+unase) | N/A |
-| 22 | [luis muentes](http://twitter.com/search?q=luis+muentes) | N/A |
-| 23 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 24 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 25 | [Francisco Egas](http://twitter.com/search?q=Francisco+Egas) | N/A |
-| 26 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 27 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
-| 28 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
-| 29 | [Escapó](http://twitter.com/search?q=Escap%c3%b3) | N/A |
-| 30 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 31 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 32 | [Carlos Vera](http://twitter.com/search?q=Carlos+Vera) | N/A |
-| 33 | [mar rendón](http://twitter.com/search?q=mar+rend%c3%b3n) | N/A |
-| 34 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 35 | [El PSC](http://twitter.com/search?q=El+PSC) | N/A |
+| 11 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 12 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 13 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 14 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 15 | [Entrega de Credenciales](http://twitter.com/search?q=Entrega+de+Credenciales) | N/A |
+| 16 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 17 | [UNASE](http://twitter.com/search?q=UNASE) | N/A |
+| 18 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 19 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 20 | [FERROVIARIA](http://twitter.com/search?q=FERROVIARIA) | N/A |
+| 21 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
+| 22 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 23 | [Seokjin](http://twitter.com/search?q=Seokjin) | N/A |
+| 24 | [Francisco Egas](http://twitter.com/search?q=Francisco+Egas) | N/A |
+| 25 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 26 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
+| 27 | [Adoptalo](http://twitter.com/search?q=Adoptalo) | N/A |
+| 28 | [Luis Muentes](http://twitter.com/search?q=Luis+Muentes) | N/A |
+| 29 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
+| 30 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 31 | [Ruta Viva](http://twitter.com/search?q=Ruta+Viva) | N/A |
+| 32 | [Escapó](http://twitter.com/search?q=Escap%c3%b3) | N/A |
+| 33 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
+| 34 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 35 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
 | 36 | [Sobornos](http://twitter.com/search?q=Sobornos) | N/A |
-| 37 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 38 | [Boscán](http://twitter.com/search?q=Bosc%c3%a1n) | N/A |
-| 39 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 40 | [Tuti](http://twitter.com/search?q=Tuti) | N/A |
-| 41 | [Mera](http://twitter.com/search?q=Mera) | N/A |
-| 42 | [Luque](http://twitter.com/search?q=Luque) | N/A |
-| 43 | [teleamazonas](http://twitter.com/search?q=teleamazonas) | N/A |
-| 44 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 45 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 46 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
-| 47 | [Chango](http://twitter.com/search?q=Chango) | N/A |
-| 48 | [Glass](http://twitter.com/search?q=Glass) | N/A |
-| 49 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 50 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 37 | [el psc](http://twitter.com/search?q=el+psc) | N/A |
+| 38 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
+| 39 | [Tuti](http://twitter.com/search?q=Tuti) | N/A |
+| 40 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 41 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 42 | [Viviana](http://twitter.com/search?q=Viviana) | N/A |
+| 43 | [Teleamazonas](http://twitter.com/search?q=Teleamazonas) | N/A |
+| 44 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 45 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 46 | [Pacto](http://twitter.com/search?q=Pacto) | N/A |
+| 47 | [más ecuador](http://twitter.com/search?q=m%c3%a1s+ecuador) | N/A |
+| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 49 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 50 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 
 
 

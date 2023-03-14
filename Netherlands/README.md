@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-14 17:19:20 UTC`
+📆 Last Updated: `2023-03-14 18:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
-| 4 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
-| 5 | [Marco Borsato](http://twitter.com/search?q=Marco+Borsato) | N/A |
+| 1 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 2 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 3 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
 | 6 | [Ali B](http://twitter.com/search?q=Ali+B) | N/A |
-| 7 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
-| 8 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 9 | [Jeroen Rietbergen](http://twitter.com/search?q=Jeroen+Rietbergen) | N/A |
-| 10 | [Genee](http://twitter.com/search?q=Genee) | N/A |
-| 11 | [#Omgevingswet](http://twitter.com/search?q=%23Omgevingswet) | N/A |
-| 12 | [#PS2023](http://twitter.com/search?q=%23PS2023) | N/A |
-| 13 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 14 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 15 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 17 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 18 | [Teze](http://twitter.com/search?q=Teze) | N/A |
-| 19 | [Laura van Geest](http://twitter.com/search?q=Laura+van+Geest) | N/A |
-| 20 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
-| 21 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 22 | [goedemorgen petra](http://twitter.com/search?q=goedemorgen+petra) | N/A |
-| 23 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 24 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
-| 25 | [lelylijn](http://twitter.com/search?q=lelylijn) | N/A |
-| 26 | [laurens](http://twitter.com/search?q=laurens) | N/A |
-| 27 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 28 | [knmi](http://twitter.com/search?q=knmi) | N/A |
-| 29 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 30 | [Ziggo](http://twitter.com/search?q=Ziggo) | N/A |
-| 31 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
-| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 33 | [Elsschot](http://twitter.com/search?q=Elsschot) | N/A |
-| 34 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
-| 35 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
-| 36 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
-| 37 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 38 | [advies](http://twitter.com/search?q=advies) | N/A |
-| 39 | [Kernenergie](http://twitter.com/search?q=Kernenergie) | N/A |
-| 40 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 41 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 42 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 43 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 44 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
-| 45 | [Eindhovense](http://twitter.com/search?q=Eindhovense) | N/A |
-| 46 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 47 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 48 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 49 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 50 | [Veilig](http://twitter.com/search?q=Veilig) | N/A |
+| 7 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
+| 8 | [Marco Borsato](http://twitter.com/search?q=Marco+Borsato) | N/A |
+| 9 | [Genee](http://twitter.com/search?q=Genee) | N/A |
+| 10 | [Jeroen Rietbergen](http://twitter.com/search?q=Jeroen+Rietbergen) | N/A |
+| 11 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 13 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
+| 14 | [Laura van Geest](http://twitter.com/search?q=Laura+van+Geest) | N/A |
+| 15 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 16 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
+| 17 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 18 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 19 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 20 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 21 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 22 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 23 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
+| 24 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 25 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
+| 26 | [Rob Jetten](http://twitter.com/search?q=Rob+Jetten) | N/A |
+| 27 | [Elsschot](http://twitter.com/search?q=Elsschot) | N/A |
+| 28 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 29 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
+| 30 | [advies](http://twitter.com/search?q=advies) | N/A |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 33 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 34 | [Onbegrijpelijk](http://twitter.com/search?q=Onbegrijpelijk) | N/A |
+| 35 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 37 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
+| 38 | [Dienstplicht](http://twitter.com/search?q=Dienstplicht) | N/A |
+| 39 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
+| 40 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 41 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 42 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
+| 43 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 44 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 45 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
+| 46 | [Ajax 1](http://twitter.com/search?q=Ajax+1) | N/A |
+| 47 | [Spirituality](http://twitter.com/search?q=Spirituality) | N/A |
+| 48 | [workum](http://twitter.com/search?q=workum) | N/A |
+| 49 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
+| 50 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
 
 
 

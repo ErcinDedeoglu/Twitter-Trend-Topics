@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-14 17:18:35 UTC`
+📆 Last Updated: `2023-03-14 18:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
 | 2 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 | 3 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 4 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
-| 5 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 6 | [#OsDonosDaBola](http://twitter.com/search?q=%23OsDonosDaBola) | N/A |
-| 7 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 10 | [#SetMeFree_Pt2_Teaser](http://twitter.com/search?q=%23SetMeFree_Pt2_Teaser) | N/A |
-| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 12 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
-| 13 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 14 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
-| 15 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 16 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
-| 17 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 18 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
-| 19 | [Chumbinho](http://twitter.com/search?q=Chumbinho) | N/A |
-| 20 | [João Chianca](http://twitter.com/search?q=Jo%c3%a3o+Chianca) | N/A |
-| 21 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 22 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 23 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
-| 24 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
-| 25 | [Diplo](http://twitter.com/search?q=Diplo) | N/A |
-| 26 | [Palmeiras e Flamengo](http://twitter.com/search?q=Palmeiras+e+Flamengo) | N/A |
-| 27 | [VERA CRUZ](http://twitter.com/search?q=VERA+CRUZ) | N/A |
-| 28 | [The Stage](http://twitter.com/search?q=The+Stage) | N/A |
-| 29 | [Jack Robinson](http://twitter.com/search?q=Jack+Robinson) | N/A |
-| 30 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
+| 4 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 5 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
+| 6 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 7 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 8 | [THE GRANTS IS COMING](http://twitter.com/search?q=THE+GRANTS+IS+COMING) | N/A |
+| 9 | [#OsDonosDaBola](http://twitter.com/search?q=%23OsDonosDaBola) | N/A |
+| 10 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 11 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
+| 12 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 14 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 15 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 16 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 17 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
+| 18 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
+| 19 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 22 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 23 | [Chumbinho](http://twitter.com/search?q=Chumbinho) | N/A |
+| 24 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
+| 25 | [João Chianca](http://twitter.com/search?q=Jo%c3%a3o+Chianca) | N/A |
+| 26 | [Diplo](http://twitter.com/search?q=Diplo) | N/A |
+| 27 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 28 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 29 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
+| 30 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
 | 31 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 32 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 33 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 34 | [JENNIE KIM](http://twitter.com/search?q=JENNIE+KIM) | N/A |
-| 35 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 36 | [Sweet Tooth](http://twitter.com/search?q=Sweet+Tooth) | N/A |
-| 37 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 38 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
-| 39 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
-| 40 | [Brotheragem](http://twitter.com/search?q=Brotheragem) | N/A |
-| 41 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 42 | [Edmilson](http://twitter.com/search?q=Edmilson) | N/A |
-| 43 | [Animais](http://twitter.com/search?q=Animais) | N/A |
-| 44 | [Copa do Mundo](http://twitter.com/search?q=Copa+do+Mundo) | N/A |
-| 45 | [Manoel Carlos](http://twitter.com/search?q=Manoel+Carlos) | N/A |
-| 46 | [RJTV](http://twitter.com/search?q=RJTV) | N/A |
-| 47 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 48 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 49 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 50 | [UFRN](http://twitter.com/search?q=UFRN) | N/A |
+| 32 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
+| 33 | [Palmeiras e Flamengo](http://twitter.com/search?q=Palmeiras+e+Flamengo) | N/A |
+| 34 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 35 | [VERA CRUZ](http://twitter.com/search?q=VERA+CRUZ) | N/A |
+| 36 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 37 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 38 | [Jack Robinson](http://twitter.com/search?q=Jack+Robinson) | N/A |
+| 39 | [Copa do Mundo](http://twitter.com/search?q=Copa+do+Mundo) | N/A |
+| 40 | [The Stage](http://twitter.com/search?q=The+Stage) | N/A |
+| 41 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 42 | [Animais](http://twitter.com/search?q=Animais) | N/A |
+| 43 | [Abin](http://twitter.com/search?q=Abin) | N/A |
+| 44 | [UFRN](http://twitter.com/search?q=UFRN) | N/A |
+| 45 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 46 | [Sweet Tooth](http://twitter.com/search?q=Sweet+Tooth) | N/A |
+| 47 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 48 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
+| 49 | [Roger Cipó](http://twitter.com/search?q=Roger+Cip%c3%b3) | N/A |
+| 50 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
 
 
 

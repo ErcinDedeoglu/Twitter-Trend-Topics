@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-14 17:18:38 UTC`
+📆 Last Updated: `2023-03-14 18:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
 | 2 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
-| 3 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 3 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
-| 6 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 7 | [Seilbahn](http://twitter.com/search?q=Seilbahn) | N/A |
-| 8 | [#Neanderhammer](http://twitter.com/search?q=%23Neanderhammer) | N/A |
-| 9 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 10 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
-| 11 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 12 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 13 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 14 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 15 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
-| 16 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 17 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 18 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
-| 19 | [Mietpreisbremse](http://twitter.com/search?q=Mietpreisbremse) | N/A |
-| 20 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 21 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 22 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 23 | [Druck](http://twitter.com/search?q=Druck) | N/A |
-| 24 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
-| 25 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 26 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 27 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 28 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 29 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 30 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 31 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 32 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 33 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 34 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
-| 35 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
-| 36 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 37 | [Bereich](http://twitter.com/search?q=Bereich) | N/A |
-| 38 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 39 | [SPÖ-Parteivorsitz](http://twitter.com/search?q=SP%c3%96-Parteivorsitz) | N/A |
-| 40 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 41 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 42 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 43 | [Miete](http://twitter.com/search?q=Miete) | N/A |
-| 44 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
-| 45 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 46 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 47 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 48 | [#Klimaglück](http://twitter.com/search?q=%23Klimagl%c3%bcck) | N/A |
-| 49 | [#RendiWagner](http://twitter.com/search?q=%23RendiWagner) | N/A |
-| 50 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 5 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
+| 6 | [seilbahn](http://twitter.com/search?q=seilbahn) | N/A |
+| 7 | [#Neanderhammer](http://twitter.com/search?q=%23Neanderhammer) | N/A |
+| 8 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 9 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 10 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
+| 11 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 12 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 13 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 14 | [Mietpreisbremse](http://twitter.com/search?q=Mietpreisbremse) | N/A |
+| 15 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 16 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 17 | [Walach](http://twitter.com/search?q=Walach) | N/A |
+| 18 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 19 | [Miete](http://twitter.com/search?q=Miete) | N/A |
+| 20 | [Rendi-Wagner](http://twitter.com/search?q=Rendi-Wagner) | N/A |
+| 21 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 22 | [SPÖ-Parteivorsitz](http://twitter.com/search?q=SP%c3%96-Parteivorsitz) | N/A |
+| 23 | [#Klimaglück](http://twitter.com/search?q=%23Klimagl%c3%bcck) | N/A |
+| 24 | [Bereich](http://twitter.com/search?q=Bereich) | N/A |
+| 25 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
+| 26 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 27 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 28 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
+| 29 | [Mikl-Leitner](http://twitter.com/search?q=Mikl-Leitner) | N/A |
+| 30 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 31 | [Reihe](http://twitter.com/search?q=Reihe) | N/A |
+| 32 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 33 | [Variante](http://twitter.com/search?q=Variante) | N/A |
+| 34 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 35 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 36 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 37 | [#EMIM2023](http://twitter.com/search?q=%23EMIM2023) | N/A |
+| 38 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 39 | [Beruf](http://twitter.com/search?q=Beruf) | N/A |
+| 40 | [Anspruch](http://twitter.com/search?q=Anspruch) | N/A |
+| 41 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 42 | [Überraschung](http://twitter.com/search?q=%c3%9cberraschung) | N/A |
+| 43 | [Konsequenzen](http://twitter.com/search?q=Konsequenzen) | N/A |
+| 44 | [Karl Nehammer](http://twitter.com/search?q=Karl+Nehammer) | N/A |
+| 45 | [Oida](http://twitter.com/search?q=Oida) | N/A |
+| 46 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 47 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 48 | [Pickerl](http://twitter.com/search?q=Pickerl) | N/A |
+| 49 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 50 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
 
 
 

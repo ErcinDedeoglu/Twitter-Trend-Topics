@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-14 17:18:43 UTC`
+📆 Last Updated: `2023-03-14 18:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Spain](</Spain>)
 | 1 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
 | 2 | [Suiza](http://twitter.com/search?q=Suiza) | N/A |
 | 3 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 4 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
-| 5 | [#sostenibilidad](http://twitter.com/search?q=%23sostenibilidad) | N/A |
+| 4 | [#sostenibilidad](http://twitter.com/search?q=%23sostenibilidad) | N/A |
+| 5 | [#CasadelLibro200](http://twitter.com/search?q=%23CasadelLibro200) | N/A |
 | 6 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
-| 7 | [#RenfeBizumer](http://twitter.com/search?q=%23RenfeBizumer) | N/A |
-| 8 | [#CasadelLibro200](http://twitter.com/search?q=%23CasadelLibro200) | N/A |
-| 9 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 10 | [Juan Roig](http://twitter.com/search?q=Juan+Roig) | N/A |
-| 11 | [Fiscalía Europea](http://twitter.com/search?q=Fiscal%c3%ada+Europea) | N/A |
-| 12 | [#ExigimosSoluciones](http://twitter.com/search?q=%23ExigimosSoluciones) | N/A |
-| 13 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 14 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 15 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
-| 16 | [Clattenburg](http://twitter.com/search?q=Clattenburg) | N/A |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Sánchez Arminio](http://twitter.com/search?q=S%c3%a1nchez+Arminio) | N/A |
-| 19 | [Ley Mordaza](http://twitter.com/search?q=Ley+Mordaza) | N/A |
-| 20 | [Leonor](http://twitter.com/search?q=Leonor) | N/A |
-| 21 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 22 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
-| 23 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 24 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 25 | [La Audiencia Nacional](http://twitter.com/search?q=La+Audiencia+Nacional) | N/A |
-| 26 | [Boyfriend              Husband](http://twitter.com/search?q=Boyfriend++++++++++++++Husband) | N/A |
-| 27 | [Belén Esteban](http://twitter.com/search?q=Bel%c3%a9n+Esteban) | N/A |
-| 28 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 29 | [Verde](http://twitter.com/search?q=Verde) | N/A |
-| 30 | [Ley de Seguridad del Paciente](http://twitter.com/search?q=Ley+de+Seguridad+del+Paciente) | N/A |
-| 31 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 32 | [Vitolo](http://twitter.com/search?q=Vitolo) | N/A |
-| 33 | [Fiscalía Anticorrupción](http://twitter.com/search?q=Fiscal%c3%ada+Anticorrupci%c3%b3n) | N/A |
-| 34 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
-| 35 | [Rallo](http://twitter.com/search?q=Rallo) | N/A |
-| 36 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
-| 37 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
+| 7 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 9 | [#RenfeBizumer](http://twitter.com/search?q=%23RenfeBizumer) | N/A |
+| 10 | [Roig](http://twitter.com/search?q=Roig) | N/A |
+| 11 | [#PecadoOriginal14Mar](http://twitter.com/search?q=%23PecadoOriginal14Mar) | N/A |
+| 12 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
+| 13 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 14 | [Fiscalía Europea](http://twitter.com/search?q=Fiscal%c3%ada+Europea) | N/A |
+| 15 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 16 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
+| 17 | [Clattenburg](http://twitter.com/search?q=Clattenburg) | N/A |
+| 18 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 19 | [España y Portugal](http://twitter.com/search?q=Espa%c3%b1a+y+Portugal) | N/A |
+| 20 | [Sánchez Arminio](http://twitter.com/search?q=S%c3%a1nchez+Arminio) | N/A |
+| 21 | [Ley Mordaza](http://twitter.com/search?q=Ley+Mordaza) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Leonor](http://twitter.com/search?q=Leonor) | N/A |
+| 24 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
+| 25 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 26 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 27 | [Boyfriend              Husband](http://twitter.com/search?q=Boyfriend++++++++++++++Husband) | N/A |
+| 28 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
+| 29 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 30 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 31 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
+| 32 | [Ley de Seguridad del Paciente](http://twitter.com/search?q=Ley+de+Seguridad+del+Paciente) | N/A |
+| 33 | [La Audiencia Nacional](http://twitter.com/search?q=La+Audiencia+Nacional) | N/A |
+| 34 | [Verde](http://twitter.com/search?q=Verde) | N/A |
+| 35 | [Fiscalía Anticorrupción](http://twitter.com/search?q=Fiscal%c3%ada+Anticorrupci%c3%b3n) | N/A |
+| 36 | [Rallo](http://twitter.com/search?q=Rallo) | N/A |
+| 37 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
 | 38 | [Altas Capacidades](http://twitter.com/search?q=Altas+Capacidades) | N/A |
-| 39 | [Día del Padre](http://twitter.com/search?q=D%c3%ada+del+Padre) | N/A |
-| 40 | [La Guardia Civil](http://twitter.com/search?q=La+Guardia+Civil) | N/A |
-| 41 | [Estado de Alarma](http://twitter.com/search?q=Estado+de+Alarma) | N/A |
-| 42 | [Félix Rodríguez de la Fuente](http://twitter.com/search?q=F%c3%a9lix+Rodr%c3%adguez+de+la+Fuente) | N/A |
-| 43 | [ley de seguridad ciudadana](http://twitter.com/search?q=ley+de+seguridad+ciudadana) | N/A |
-| 44 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 45 | [Hoy 14](http://twitter.com/search?q=Hoy+14) | N/A |
-| 46 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
-| 47 | [Participo](http://twitter.com/search?q=Participo) | N/A |
-| 48 | [Eroski](http://twitter.com/search?q=Eroski) | N/A |
-| 49 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
-| 50 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 39 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
+| 40 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 41 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
+| 42 | [Eroski](http://twitter.com/search?q=Eroski) | N/A |
+| 43 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 44 | [Ley de Seguridad Ciudadana](http://twitter.com/search?q=Ley+de+Seguridad+Ciudadana) | N/A |
+| 45 | [Estado de Alarma](http://twitter.com/search?q=Estado+de+Alarma) | N/A |
+| 46 | [Félix Rodríguez de la Fuente](http://twitter.com/search?q=F%c3%a9lix+Rodr%c3%adguez+de+la+Fuente) | N/A |
+| 47 | [La Guardia Civil](http://twitter.com/search?q=La+Guardia+Civil) | N/A |
+| 48 | [Participo](http://twitter.com/search?q=Participo) | N/A |
+| 49 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 50 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
 
 
 

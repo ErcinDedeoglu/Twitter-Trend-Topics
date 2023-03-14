@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-14 17:18:27 UTC`
+📆 Last Updated: `2023-03-14 18:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 2 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
-| 3 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
-| 4 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
-| 5 | [Wriggle](http://twitter.com/search?q=Wriggle) | N/A |
-| 6 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
-| 7 | [Love Envoi](http://twitter.com/search?q=Love+Envoi) | N/A |
-| 8 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
-| 11 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 12 | [#BritishScienceWeek2023](http://twitter.com/search?q=%23BritishScienceWeek2023) | N/A |
-| 13 | [Dysart Dynamo](http://twitter.com/search?q=Dysart+Dynamo) | N/A |
-| 14 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
-| 15 | [Derek Fox](http://twitter.com/search?q=Derek+Fox) | N/A |
-| 16 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 17 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 18 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 19 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 20 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 21 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
+| 2 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 3 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 4 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 5 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
+| 6 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
+| 7 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 8 | [Mahler Mission](http://twitter.com/search?q=Mahler+Mission) | N/A |
+| 9 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 10 | [Unpatriotic](http://twitter.com/search?q=Unpatriotic) | N/A |
+| 11 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
+| 12 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
+| 13 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
+| 14 | [Love Envoi](http://twitter.com/search?q=Love+Envoi) | N/A |
+| 15 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 18 | [Derek Fox](http://twitter.com/search?q=Derek+Fox) | N/A |
+| 19 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 20 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 21 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
 | 22 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
-| 23 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 24 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
-| 25 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 26 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 27 | [State Man](http://twitter.com/search?q=State+Man) | State Man is a term used in India to refer to a person who is in charge of the affairs of a particular state. It is usually used to refer to the Chief Minister or Governor of a state. In English, it can be translated as "State Leader". |
-| 28 | [Monbeg Genius](http://twitter.com/search?q=Monbeg+Genius) | N/A |
-| 29 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 30 | [MAPs](http://twitter.com/search?q=MAPs) | N/A |
-| 31 | [Sedgefield](http://twitter.com/search?q=Sedgefield) | N/A |
-| 32 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 33 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 34 | [Arkle](http://twitter.com/search?q=Arkle) | N/A |
-| 35 | [Mares](http://twitter.com/search?q=Mares) | N/A |
-| 36 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 37 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 38 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 39 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 40 | [Ultima](http://twitter.com/search?q=Ultima) | N/A |
-| 41 | [Oscar Elite](http://twitter.com/search?q=Oscar+Elite) | N/A |
-| 42 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 43 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 44 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
-| 45 | [Bet365](http://twitter.com/search?q=Bet365) | N/A |
-| 46 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 47 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
-| 48 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 23 | [Dysart Dynamo](http://twitter.com/search?q=Dysart+Dynamo) | N/A |
+| 24 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
+| 25 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 26 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 27 | [Istabraq](http://twitter.com/search?q=Istabraq) | N/A |
+| 28 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 29 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
+| 30 | [Putin's Russia](http://twitter.com/search?q=Putin%27s+Russia) | N/A |
+| 31 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 32 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 33 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
+| 34 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 35 | [MAPs](http://twitter.com/search?q=MAPs) | N/A |
+| 36 | [Lawrenson](http://twitter.com/search?q=Lawrenson) | N/A |
+| 37 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 38 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 39 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 40 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 41 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
+| 42 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 43 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 44 | [Ultima](http://twitter.com/search?q=Ultima) | N/A |
+| 45 | [Sedgefield](http://twitter.com/search?q=Sedgefield) | N/A |
+| 46 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 47 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 48 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
 
 
 

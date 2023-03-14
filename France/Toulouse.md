@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-03-14 17:18:40 UTC`
+📆 Last Updated: `2023-03-14 18:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 2 | [#chainsawman123](http://twitter.com/search?q=%23chainsawman123) | N/A |
-| 3 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 4 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
-| 5 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 6 | [Noire](http://twitter.com/search?q=Noire) | N/A |
-| 7 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
-| 8 | [Hadjam](http://twitter.com/search?q=Hadjam) | N/A |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 11 | [Mylène Farmer](http://twitter.com/search?q=Myl%c3%a8ne+Farmer) | N/A |
-| 12 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 13 | [Rendez-vous avec X](http://twitter.com/search?q=Rendez-vous+avec+X) | N/A |
-| 14 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 15 | [patrick pesnot](http://twitter.com/search?q=patrick+pesnot) | N/A |
-| 16 | [Blanche Gardin](http://twitter.com/search?q=Blanche+Gardin) | N/A |
-| 17 | [J-500](http://twitter.com/search?q=J-500) | N/A |
-| 18 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
-| 19 | [Vald](http://twitter.com/search?q=Vald) | N/A |
-| 20 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 21 | [Jeux Olympiques](http://twitter.com/search?q=Jeux+Olympiques) | N/A |
-| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 23 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
-| 24 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 25 | [Mercredi 15](http://twitter.com/search?q=Mercredi+15) | N/A |
-| 26 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 27 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
-| 28 | [JO 2024](http://twitter.com/search?q=JO+2024) | N/A |
-| 29 | [Cyril Hanouna](http://twitter.com/search?q=Cyril+Hanouna) | N/A |
-| 30 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 31 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 32 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
-| 33 | [Attali](http://twitter.com/search?q=Attali) | N/A |
-| 34 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 35 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 36 | [#TouchePasaSophiaAram](http://twitter.com/search?q=%23TouchePasaSophiaAram) | N/A |
-| 37 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 38 | [#PoubelleDansUnTitre](http://twitter.com/search?q=%23PoubelleDansUnTitre) | N/A |
-| 39 | [#SoutienAuxEboueurs](http://twitter.com/search?q=%23SoutienAuxEboueurs) | N/A |
-| 40 | [#MIPIM2023](http://twitter.com/search?q=%23MIPIM2023) | N/A |
-| 41 | [#EboueursEnGreve](http://twitter.com/search?q=%23EboueursEnGreve) | N/A |
-| 42 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 43 | [#emploi](http://twitter.com/search?q=%23emploi) | N/A |
-| 44 | [#Paris2024](http://twitter.com/search?q=%23Paris2024) | N/A |
-| 45 | [#poubelles](http://twitter.com/search?q=%23poubelles) | N/A |
-| 46 | [#influvoleurs](http://twitter.com/search?q=%23influvoleurs) | N/A |
-| 47 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
+| 1 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 2 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 3 | [Noire](http://twitter.com/search?q=Noire) | N/A |
+| 4 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 5 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 6 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 7 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 8 | [#chainsawman123](http://twitter.com/search?q=%23chainsawman123) | N/A |
+| 9 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 10 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 11 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
+| 12 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 13 | [Hadjam](http://twitter.com/search?q=Hadjam) | N/A |
+| 14 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 17 | [Rendez-vous avec X](http://twitter.com/search?q=Rendez-vous+avec+X) | N/A |
+| 18 | [Mylène Farmer](http://twitter.com/search?q=Myl%c3%a8ne+Farmer) | N/A |
+| 19 | [Parasite](http://twitter.com/search?q=Parasite) | N/A |
+| 20 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
+| 21 | [J-500](http://twitter.com/search?q=J-500) | N/A |
+| 22 | [Blanche Gardin](http://twitter.com/search?q=Blanche+Gardin) | N/A |
+| 23 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
+| 24 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 25 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 26 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 27 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 28 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
+| 29 | [Jeux Olympiques](http://twitter.com/search?q=Jeux+Olympiques) | N/A |
+| 30 | [Vald](http://twitter.com/search?q=Vald) | N/A |
+| 31 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 32 | [Cyril Hanouna](http://twitter.com/search?q=Cyril+Hanouna) | N/A |
+| 33 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
+| 34 | [JO 2024](http://twitter.com/search?q=JO+2024) | N/A |
+| 35 | [Mercredi 15](http://twitter.com/search?q=Mercredi+15) | N/A |
+| 36 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
+| 37 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 38 | [Attali](http://twitter.com/search?q=Attali) | N/A |
+| 39 | [#TouchePasaSophiaAram](http://twitter.com/search?q=%23TouchePasaSophiaAram) | N/A |
+| 40 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
+| 41 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 42 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
+| 43 | [#Parispoubelle](http://twitter.com/search?q=%23Parispoubelle) | N/A |
+| 44 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 45 | [#Punchline](http://twitter.com/search?q=%23Punchline) | N/A |
+| 46 | [#SoutienAuxEboueurs](http://twitter.com/search?q=%23SoutienAuxEboueurs) | N/A |
+| 47 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 48 | [#poubelles](http://twitter.com/search?q=%23poubelles) | N/A |
 
 
 

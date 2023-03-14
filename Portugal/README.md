@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-14 17:19:21 UTC`
+📆 Last Updated: `2023-03-14 18:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Portugal
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rodrigo Ribeiro](http://twitter.com/search?q=Rodrigo+Ribeiro) | N/A |
-| 2 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
 | 4 | [Pichardo](http://twitter.com/search?q=Pichardo) | N/A |
-| 5 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
-| 6 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 7 | [Em Portugal](http://twitter.com/search?q=Em+Portugal) | N/A |
-| 8 | [Milão](http://twitter.com/search?q=Mil%c3%a3o) | N/A |
+| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 6 | [Marinha](http://twitter.com/search?q=Marinha) | N/A |
+| 7 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
+| 8 | [Nelson Évora](http://twitter.com/search?q=Nelson+%c3%89vora) | N/A |
 | 9 | [Esteves](http://twitter.com/search?q=Esteves) | N/A |
-| 10 | [Marinha](http://twitter.com/search?q=Marinha) | N/A |
-| 11 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 12 | [Nelson Évora](http://twitter.com/search?q=Nelson+%c3%89vora) | N/A |
-| 13 | [Fatawu](http://twitter.com/search?q=Fatawu) | N/A |
-| 14 | [Essugo](http://twitter.com/search?q=Essugo) | N/A |
-| 15 | [João Muniz](http://twitter.com/search?q=Jo%c3%a3o+Muniz) | N/A |
-| 16 | [#festivaldacancao](http://twitter.com/search?q=%23festivaldacancao) | N/A |
-| 17 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 18 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
-| 19 | [#CanYaman](http://twitter.com/search?q=%23CanYaman) | N/A |
-| 20 | [#FCPorto](http://twitter.com/search?q=%23FCPorto) | N/A |
-| 21 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 22 | [Joana](http://twitter.com/search?q=Joana) | N/A |
-| 23 | [Ventura](http://twitter.com/search?q=Ventura) | N/A |
-| 24 | [Estádio](http://twitter.com/search?q=Est%c3%a1dio) | N/A |
-| 25 | [Mateus Fernandes](http://twitter.com/search?q=Mateus+Fernandes) | N/A |
-| 26 | [Deco](http://twitter.com/search?q=Deco) | N/A |
-| 27 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 28 | [Afonso Moreira](http://twitter.com/search?q=Afonso+Moreira) | N/A |
-| 29 | [Alcochete](http://twitter.com/search?q=Alcochete) | N/A |
-| 30 | [O Estado](http://twitter.com/search?q=O+Estado) | N/A |
-| 31 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 32 | [Forças Armadas](http://twitter.com/search?q=For%c3%a7as+Armadas) | N/A |
-| 33 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 34 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 35 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 36 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 37 | [Morita](http://twitter.com/search?q=Morita) | N/A |
-| 38 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 39 | [Marítimo](http://twitter.com/search?q=Mar%c3%adtimo) | N/A |
-| 40 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 41 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 10 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
+| 11 | [Essugo](http://twitter.com/search?q=Essugo) | N/A |
+| 12 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
+| 13 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
+| 14 | [Deco](http://twitter.com/search?q=Deco) | N/A |
+| 15 | [Afonso Moreira](http://twitter.com/search?q=Afonso+Moreira) | N/A |
+| 16 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 17 | [Ventura](http://twitter.com/search?q=Ventura) | N/A |
+| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 19 | [Milão](http://twitter.com/search?q=Mil%c3%a3o) | N/A |
+| 20 | [João Muniz](http://twitter.com/search?q=Jo%c3%a3o+Muniz) | N/A |
+| 21 | [Marítimo](http://twitter.com/search?q=Mar%c3%adtimo) | N/A |
+| 22 | [Mateus](http://twitter.com/search?q=Mateus) | N/A |
+| 23 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 24 | [Alcochete](http://twitter.com/search?q=Alcochete) | N/A |
+| 25 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 26 | [#fantasyligaportugalbwin](http://twitter.com/search?q=%23fantasyligaportugalbwin) | N/A |
+| 27 | [Morita](http://twitter.com/search?q=Morita) | N/A |
+| 28 | [Forças Armadas](http://twitter.com/search?q=For%c3%a7as+Armadas) | N/A |
+| 29 | [Portugal e Espanha](http://twitter.com/search?q=Portugal+e+Espanha) | N/A |
+| 30 | [Alex Telles](http://twitter.com/search?q=Alex+Telles) | N/A |
+| 31 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 32 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
+| 33 | [#FestivaldaCancao](http://twitter.com/search?q=%23FestivaldaCancao) | N/A |
+| 34 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 35 | [Ricardo Carvalho](http://twitter.com/search?q=Ricardo+Carvalho) | N/A |
+| 36 | [Casper](http://twitter.com/search?q=Casper) | N/A |
+| 37 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 38 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
+| 39 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
+| 40 | [Famalicão](http://twitter.com/search?q=Famalic%c3%a3o) | N/A |
+| 41 | [Percebo](http://twitter.com/search?q=Percebo) | N/A |
 | 42 | [Rochinha](http://twitter.com/search?q=Rochinha) | N/A |
-| 43 | [Casper](http://twitter.com/search?q=Casper) | N/A |
-| 44 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
-| 45 | [Ricardo Carvalho](http://twitter.com/search?q=Ricardo+Carvalho) | N/A |
-| 46 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 47 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
-| 48 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 49 | [Alex Telles](http://twitter.com/search?q=Alex+Telles) | N/A |
-| 50 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 43 | [fatawu](http://twitter.com/search?q=fatawu) | N/A |
+| 44 | [Travassos](http://twitter.com/search?q=Travassos) | N/A |
+| 45 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 46 | [dia de porto](http://twitter.com/search?q=dia+de+porto) | N/A |
+| 47 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 48 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 49 | [Zaidu](http://twitter.com/search?q=Zaidu) | N/A |
+| 50 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-14 17:18:45 UTC`
+📆 Last Updated: `2023-03-14 18:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [Barbro Westerholm](http://twitter.com/search?q=Barbro+Westerholm) | N/A |
 | 2 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
 | 3 | [Ingerö](http://twitter.com/search?q=Inger%c3%b6) | N/A |
-| 4 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Kristersson](http://twitter.com/search?q=Kristersson) | N/A |
+| 6 | [#bajen](http://twitter.com/search?q=%23bajen) | N/A |
 | 7 | [Oatly](http://twitter.com/search?q=Oatly) | N/A |
-| 8 | [brännström](http://twitter.com/search?q=br%c3%a4nnstr%c3%b6m) | N/A |
-| 9 | [tekie](http://twitter.com/search?q=tekie) | N/A |
-| 10 | [#Bajen](http://twitter.com/search?q=%23Bajen) | N/A |
-| 11 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 8 | [Durmaz](http://twitter.com/search?q=Durmaz) | N/A |
+| 9 | [brännström](http://twitter.com/search?q=br%c3%a4nnstr%c3%b6m) | N/A |
+| 10 | [hammar](http://twitter.com/search?q=hammar) | N/A |
+| 11 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
 | 12 | [Milosevic](http://twitter.com/search?q=Milosevic) | N/A |
-| 13 | [hammar](http://twitter.com/search?q=hammar) | N/A |
-| 14 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
-| 15 | [Durmaz](http://twitter.com/search?q=Durmaz) | N/A |
-| 16 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
-| 17 | [armalis](http://twitter.com/search?q=armalis) | N/A |
-| 18 | [#hri2023](http://twitter.com/search?q=%23hri2023) | N/A |
-| 19 | [Jättemätt](http://twitter.com/search?q=J%c3%a4ttem%c3%a4tt) | N/A |
-| 20 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 21 | [Salem](http://twitter.com/search?q=Salem) | N/A |
-| 22 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
-| 23 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
-| 24 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 25 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
-| 26 | [Strömmer](http://twitter.com/search?q=Str%c3%b6mmer) | N/A |
-| 27 | [Ringhals](http://twitter.com/search?q=Ringhals) | N/A |
-| 28 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 29 | [Nordea](http://twitter.com/search?q=Nordea) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [hybrit](http://twitter.com/search?q=hybrit) | N/A |
+| 13 | [armalis](http://twitter.com/search?q=armalis) | N/A |
+| 14 | [#hri2023](http://twitter.com/search?q=%23hri2023) | N/A |
+| 15 | [Jättemätt](http://twitter.com/search?q=J%c3%a4ttem%c3%a4tt) | N/A |
+| 16 | [Nordea](http://twitter.com/search?q=Nordea) | N/A |
+| 17 | [Ringhals](http://twitter.com/search?q=Ringhals) | N/A |
+| 18 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
+| 19 | [strömmer](http://twitter.com/search?q=str%c3%b6mmer) | N/A |
+| 20 | [Salem](http://twitter.com/search?q=Salem) | N/A |
+| 21 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
+| 22 | [Nima](http://twitter.com/search?q=Nima) | N/A |
+| 23 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 24 | [Tekie](http://twitter.com/search?q=Tekie) | N/A |
+| 25 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 26 | [Svarta](http://twitter.com/search?q=Svarta) | N/A |
+| 27 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
+| 28 | [kurtulus](http://twitter.com/search?q=kurtulus) | N/A |
+| 29 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 30 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
+| 31 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 32 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
-| 33 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 34 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 35 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 37 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 38 | [Nima](http://twitter.com/search?q=Nima) | N/A |
-| 39 | [al hakim](http://twitter.com/search?q=al+hakim) | N/A |
-| 40 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 41 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 42 | [Tvärtom](http://twitter.com/search?q=Tv%c3%a4rtom) | N/A |
-| 43 | [Mjällby](http://twitter.com/search?q=Mj%c3%a4llby) | N/A |
-| 44 | [Livet](http://twitter.com/search?q=Livet) | N/A |
-| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 46 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 47 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
-| 48 | [oscarsgalan](http://twitter.com/search?q=oscarsgalan) | N/A |
-| 49 | [Kurtulus](http://twitter.com/search?q=Kurtulus) | N/A |
+| 33 | [fenger](http://twitter.com/search?q=fenger) | N/A |
+| 34 | [al hakim](http://twitter.com/search?q=al+hakim) | N/A |
+| 35 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 36 | [Telia](http://twitter.com/search?q=Telia) | N/A |
+| 37 | [Utmärkt](http://twitter.com/search?q=Utm%c3%a4rkt) | N/A |
+| 38 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 39 | [Brännan](http://twitter.com/search?q=Br%c3%a4nnan) | N/A |
+| 40 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 41 | [Willys](http://twitter.com/search?q=Willys) | N/A |
+| 42 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 43 | [högsta](http://twitter.com/search?q=h%c3%b6gsta) | N/A |
+| 44 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 45 | [Axel](http://twitter.com/search?q=Axel) | N/A |
+| 46 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 47 | [Apropå](http://twitter.com/search?q=Aprop%c3%a5) | N/A |
+| 48 | [Erabi](http://twitter.com/search?q=Erabi) | N/A |
+| 49 | [ruben östlund](http://twitter.com/search?q=ruben+%c3%b6stlund) | N/A |
 
 
 

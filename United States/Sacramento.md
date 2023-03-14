@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-14 17:19:13 UTC`
+📆 Last Updated: `2023-03-14 18:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [United States](</United States>)
 | 3 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 4 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
 | 5 | [#SMMW23](http://twitter.com/search?q=%23SMMW23) | N/A |
-| 6 | [#AtmosphericRiver](http://twitter.com/search?q=%23AtmosphericRiver) | N/A |
-| 7 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
-| 8 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 11 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 12 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 13 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 14 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 15 | [New York Packers](http://twitter.com/search?q=New+York+Packers) | N/A |
-| 16 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 17 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 18 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 20 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
-| 21 | [Jordy Nelson](http://twitter.com/search?q=Jordy+Nelson) | N/A |
-| 22 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 23 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 24 | [51% of Americans](http://twitter.com/search?q=51%25+of+Americans) | N/A |
-| 25 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 26 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 27 | [12 Years a Slave](http://twitter.com/search?q=12+Years+a+Slave) | N/A |
-| 28 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 29 | [$AMC](http://twitter.com/search?q=%24AMC) | AMC stands for American Movie Classics, a cable television channel that specializes in classic films from the 1930s to the 1980s. The channel also airs some original programming, such as its popular series Mad Men and Breaking Bad. |
-| 30 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 31 | [Noah Brown](http://twitter.com/search?q=Noah+Brown) | Noah Brown is a name, most likely of a person. It does not have any particular meaning in English. |
-| 32 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 33 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
-| 34 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 35 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 36 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 37 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
-| 38 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
-| 39 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 40 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
-| 41 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
-| 42 | [Myles Bryant](http://twitter.com/search?q=Myles+Bryant) | Myles Bryant is a name of a person. It is not an English phrase or expression and does not have any particular meaning in English. |
-| 43 | [$APE](http://twitter.com/search?q=%24APE) | N/A |
-| 44 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
-| 45 | [THE GRANTS IS COMING](http://twitter.com/search?q=THE+GRANTS+IS+COMING) | N/A |
-| 46 | [Mostert](http://twitter.com/search?q=Mostert) | Mostert is a Dutch surname derived from the word "mostaard," which means "mustard." It is also a South African surname, and can be found in other countries as well. The English translation of Mostert is "Mustard." |
-| 47 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
-| 48 | [Greg Jennings](http://twitter.com/search?q=Greg+Jennings) | N/A |
-| 49 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 7 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 8 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
+| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 10 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 11 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 12 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 13 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 14 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
+| 15 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Jordy Nelson](http://twitter.com/search?q=Jordy+Nelson) | N/A |
+| 18 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 19 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 20 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 21 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
+| 22 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 23 | [New York Packers](http://twitter.com/search?q=New+York+Packers) | N/A |
+| 24 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
+| 25 | [Marcedes Lewis](http://twitter.com/search?q=Marcedes+Lewis) | Marcedes Lewis is an American football tight end who currently plays for the Green Bay Packers of the National Football League (NFL). His name is a combination of his parents' names, Marcell and Mercedes. |
+| 26 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
+| 27 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 28 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 29 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 30 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 31 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 32 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 33 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
+| 34 | [Donald Driver](http://twitter.com/search?q=Donald+Driver) | N/A |
+| 35 | [12 Years a Slave](http://twitter.com/search?q=12+Years+a+Slave) | N/A |
+| 36 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 37 | [Greg Jennings](http://twitter.com/search?q=Greg+Jennings) | N/A |
+| 38 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
+| 39 | [Green Bay](http://twitter.com/search?q=Green+Bay) | Green Bay is a city in Wisconsin, United States. It is located on the western shore of Lake Michigan at the mouth of the Fox River. The city is known for its association with the National Football League's Green Bay Packers, which play their home games at Lambeau Field. The name "Green Bay" comes from the French phrase "la baie des Puants," which translates to "the bay of stinks." |
+| 40 | [51% of Americans](http://twitter.com/search?q=51%25+of+Americans) | N/A |
+| 41 | [$AMC](http://twitter.com/search?q=%24AMC) | AMC stands for American Movie Classics, a cable television channel that specializes in classic films from the 1930s to the 1980s. The channel also airs some original programming, such as its popular series Mad Men and Breaking Bad. |
+| 42 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 43 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 44 | [ChatGPT Plus](http://twitter.com/search?q=ChatGPT+Plus) | N/A |
+| 45 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 46 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
+| 47 | [EA App](http://twitter.com/search?q=EA+App) | N/A |
+| 48 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 49 | [Michael Thomas](http://twitter.com/search?q=Michael+Thomas) | N/A |
 
 
 
