@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-14 03:16:33 UTC`
+📆 Last Updated: `2023-03-14 04:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -61,7 +61,7 @@ This is top 50 for [Algeria](</Algeria>)
 | 44 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
 | 45 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
 | 46 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 47 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 48 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 | 49 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 50 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |

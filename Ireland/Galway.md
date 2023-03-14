@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-14 03:16:18 UTC`
+📆 Last Updated: `2023-03-14 04:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Ireland](</Ireland>)
 | 3 | [#scovire](http://twitter.com/search?q=%23scovire) | N/A |
 | 4 | [#verymodernfamily](http://twitter.com/search?q=%23verymodernfamily) | N/A |
 | 5 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 6 | [Liam Kearns](http://twitter.com/search?q=Liam+Kearns) | N/A |
+| 6 | [liam kearns](http://twitter.com/search?q=liam+kearns) | N/A |
 | 7 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 8 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 9 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 11 | [Conor Skehan](http://twitter.com/search?q=Conor+Skehan) | N/A |
-| 12 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 13 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 14 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 16 | [Niamh](http://twitter.com/search?q=Niamh) | N/A |
-| 17 | [James Martin](http://twitter.com/search?q=James+Martin) | N/A |
-| 18 | [mack hansen](http://twitter.com/search?q=mack+hansen) | N/A |
-| 19 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 20 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 21 | [andy farrell](http://twitter.com/search?q=andy+farrell) | N/A |
-| 22 | [RIP Liam](http://twitter.com/search?q=RIP+Liam) | N/A |
-| 23 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 24 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 25 | [cian healy](http://twitter.com/search?q=cian+healy) | N/A |
-| 26 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 13 | [murrayfield](http://twitter.com/search?q=murrayfield) | N/A |
+| 14 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 15 | [James Martin](http://twitter.com/search?q=James+Martin) | N/A |
+| 16 | [Mack Hansen](http://twitter.com/search?q=Mack+Hansen) | N/A |
+| 17 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 18 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 19 | [andy farrell](http://twitter.com/search?q=andy+farrell) | N/A |
+| 20 | [RIP Liam](http://twitter.com/search?q=RIP+Liam) | N/A |
+| 21 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 22 | [cian healy](http://twitter.com/search?q=cian+healy) | N/A |
+| 23 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 24 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
+| 25 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 26 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 27 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 28 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
-| 29 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 30 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 31 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 32 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 33 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 34 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 35 | [Scots](http://twitter.com/search?q=Scots) | N/A |
-| 36 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 37 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
-| 38 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 39 | [Brendan Gleeson](http://twitter.com/search?q=Brendan+Gleeson) | N/A |
-| 40 | [Ringrose](http://twitter.com/search?q=Ringrose) | N/A |
-| 41 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 42 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 43 | [paul mescal](http://twitter.com/search?q=paul+mescal) | N/A |
-| 44 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
-| 45 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 46 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 47 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 48 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
-| 49 | [England](http://twitter.com/search?q=England) | N/A |
+| 28 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 29 | [Cork](http://twitter.com/search?q=Cork) | N/A |
+| 30 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 31 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 33 | [Scots](http://twitter.com/search?q=Scots) | N/A |
+| 34 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 35 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
+| 36 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 37 | [Brendan Gleeson](http://twitter.com/search?q=Brendan+Gleeson) | N/A |
+| 38 | [Niamh](http://twitter.com/search?q=Niamh) | N/A |
+| 39 | [Ringrose](http://twitter.com/search?q=Ringrose) | N/A |
+| 40 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 41 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 42 | [paul mescal](http://twitter.com/search?q=paul+mescal) | N/A |
+| 43 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 44 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 45 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 46 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
+| 47 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
+| 48 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 49 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
 
 
 

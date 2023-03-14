@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-14 03:16:54 UTC`
+📆 Last Updated: `2023-03-14 04:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Australia
 | 4 | [#NZvsSL](http://twitter.com/search?q=%23NZvsSL) | N/A |
 | 5 | [#mvcvwun](http://twitter.com/search?q=%23mvcvwun) | N/A |
 | 6 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 7 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 8 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 9 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 10 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 11 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 12 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 13 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 14 | [Kane williamson](http://twitter.com/search?q=Kane+williamson) | N/A |
-| 15 | [Stage 3](http://twitter.com/search?q=Stage+3) | N/A |
-| 16 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 7 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 8 | [Stage 3](http://twitter.com/search?q=Stage+3) | N/A |
+| 9 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 10 | [#Submarines](http://twitter.com/search?q=%23Submarines) | N/A |
+| 11 | [Kane williamson](http://twitter.com/search?q=Kane+williamson) | N/A |
+| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 13 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
+| 14 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 15 | [Subs](http://twitter.com/search?q=Subs) | N/A |
+| 16 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 17 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 18 | [Subs](http://twitter.com/search?q=Subs) | N/A |
-| 19 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
-| 20 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 21 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 22 | [rebel racer](http://twitter.com/search?q=rebel+racer) | N/A |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 24 | [Joe Hockey](http://twitter.com/search?q=Joe+Hockey) | N/A |
-| 25 | [$368 Billion](http://twitter.com/search?q=%24368+Billion) | N/A |
-| 26 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
-| 27 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 28 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
+| 18 | [Joe Hockey](http://twitter.com/search?q=Joe+Hockey) | N/A |
+| 19 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 20 | [$368 Billion](http://twitter.com/search?q=%24368+Billion) | N/A |
+| 21 | [rebel racer](http://twitter.com/search?q=rebel+racer) | N/A |
+| 22 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 23 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [Jane Hume](http://twitter.com/search?q=Jane+Hume) | N/A |
+| 26 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 27 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
+| 28 | [Socceroos](http://twitter.com/search?q=Socceroos) | N/A |
 | 29 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 30 | [Socceroos](http://twitter.com/search?q=Socceroos) | N/A |
-| 31 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 30 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 31 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
 | 32 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 33 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 34 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
-| 35 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
-| 36 | [Best Actor](http://twitter.com/search?q=Best+Actor) | N/A |
-| 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 38 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 39 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 40 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 41 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 42 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 43 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 44 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
-| 45 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 46 | [Indo-Pacific](http://twitter.com/search?q=Indo-Pacific) | N/A |
-| 47 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
+| 33 | [Best Actor](http://twitter.com/search?q=Best+Actor) | N/A |
+| 34 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 35 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 36 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 37 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 38 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 40 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
+| 41 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 42 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 43 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 44 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 45 | [Indo-Pacific](http://twitter.com/search?q=Indo-Pacific) | N/A |
+| 46 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
+| 47 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 48 | [Adelaide Cup](http://twitter.com/search?q=Adelaide+Cup) | N/A |
-| 49 | [Dick Fosbury](http://twitter.com/search?q=Dick+Fosbury) | N/A |
-| 50 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 49 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
+| 50 | [Dick Fosbury](http://twitter.com/search?q=Dick+Fosbury) | N/A |
 
 
 

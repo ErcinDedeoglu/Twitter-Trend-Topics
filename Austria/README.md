@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-14 03:16:54 UTC`
+📆 Last Updated: `2023-03-14 04:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,16 +20,16 @@ This is top 50 for Austria
 | 3 | [#nehammer](http://twitter.com/search?q=%23nehammer) | N/A |
 | 4 | [Wert](http://twitter.com/search?q=Wert) | N/A |
 | 5 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
-| 6 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 6 | [leitner](http://twitter.com/search?q=leitner) | N/A |
 | 7 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 8 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 9 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
-| 10 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 11 | [Modell](http://twitter.com/search?q=Modell) | N/A |
-| 12 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 13 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 14 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 15 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 8 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
+| 9 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 10 | [Modell](http://twitter.com/search?q=Modell) | N/A |
+| 11 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 12 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 13 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 14 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 15 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
 | 16 | [Lachen](http://twitter.com/search?q=Lachen) | N/A |
 | 17 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
 | 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Austria
 | 33 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 35 | [#GruenerMist](http://twitter.com/search?q=%23GruenerMist) | N/A |
-| 36 | [Diskurs](http://twitter.com/search?q=Diskurs) | N/A |
-| 37 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
-| 38 | [Deppen](http://twitter.com/search?q=Deppen) | N/A |
-| 39 | [Maschine](http://twitter.com/search?q=Maschine) | N/A |
-| 40 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 41 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 42 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 43 | [Hose](http://twitter.com/search?q=Hose) | N/A |
-| 44 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 45 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
-| 46 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 47 | [Titel](http://twitter.com/search?q=Titel) | N/A |
-| 48 | [Ansatz](http://twitter.com/search?q=Ansatz) | N/A |
-| 49 | [niederösterreich](http://twitter.com/search?q=nieder%c3%b6sterreich) | N/A |
-| 50 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 36 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
+| 37 | [Deppen](http://twitter.com/search?q=Deppen) | N/A |
+| 38 | [Maschine](http://twitter.com/search?q=Maschine) | N/A |
+| 39 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 40 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 41 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 42 | [Hose](http://twitter.com/search?q=Hose) | N/A |
+| 43 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 44 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
+| 45 | [Titel](http://twitter.com/search?q=Titel) | N/A |
+| 46 | [Ansatz](http://twitter.com/search?q=Ansatz) | N/A |
+| 47 | [niederösterreich](http://twitter.com/search?q=nieder%c3%b6sterreich) | N/A |
+| 48 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 49 | [Traum](http://twitter.com/search?q=Traum) | N/A |
+| 50 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 
 
 

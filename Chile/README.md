@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-14 03:16:55 UTC`
+📆 Last Updated: `2023-03-14 04:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Chile
 | 1 | [#FinalYoSoy](http://twitter.com/search?q=%23FinalYoSoy) | N/A |
 | 2 | [#MeganoticiasPrime](http://twitter.com/search?q=%23MeganoticiasPrime) | N/A |
 | 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 4 | [#LaLeyDeBaltazar](http://twitter.com/search?q=%23LaLeyDeBaltazar) | N/A |
 | 5 | [#BoricElPeorDeLaHistoria](http://twitter.com/search?q=%23BoricElPeorDeLaHistoria) | N/A |
 | 6 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
 | 7 | [El CAE](http://twitter.com/search?q=El+CAE) | N/A |
-| 8 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 9 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 10 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 11 | [Anto Larraín](http://twitter.com/search?q=Anto+Larra%c3%adn) | N/A |
-| 12 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 8 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 9 | [Anto Larraín](http://twitter.com/search?q=Anto+Larra%c3%adn) | N/A |
+| 10 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 11 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 12 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
 | 13 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 14 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
-| 15 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 16 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 14 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 15 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 16 | [Rocío Jurado](http://twitter.com/search?q=Roc%c3%ado+Jurado) | N/A |
 | 17 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
-| 18 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 19 | [Karen Rojo](http://twitter.com/search?q=Karen+Rojo) | N/A |
-| 20 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 21 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 22 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 23 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
-| 24 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
-| 25 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 26 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
-| 27 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 18 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
+| 19 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 20 | [Karen Rojo](http://twitter.com/search?q=Karen+Rojo) | N/A |
+| 21 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 22 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 23 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 24 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 25 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 26 | [YA BASTA](http://twitter.com/search?q=YA+BASTA) | N/A |
+| 27 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
 | 28 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
-| 29 | [Joaquín Muñoz](http://twitter.com/search?q=Joaqu%c3%adn+Mu%c3%b1oz) | N/A |
-| 30 | [YA BASTA](http://twitter.com/search?q=YA+BASTA) | N/A |
-| 31 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 32 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 33 | [Garín](http://twitter.com/search?q=Gar%c3%adn) | N/A |
+| 29 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 30 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 31 | [Garín](http://twitter.com/search?q=Gar%c3%adn) | N/A |
+| 32 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 33 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
 | 34 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 35 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 36 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 37 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 38 | [Agrosuper](http://twitter.com/search?q=Agrosuper) | N/A |
-| 39 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 40 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 41 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 42 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 43 | [Alessandri](http://twitter.com/search?q=Alessandri) | N/A |
-| 44 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 45 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 46 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 47 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 48 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 49 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 50 | [Cecilia Pérez](http://twitter.com/search?q=Cecilia+P%c3%a9rez) | N/A |
+| 35 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
+| 36 | [Agrosuper](http://twitter.com/search?q=Agrosuper) | N/A |
+| 37 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 38 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 39 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 40 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 41 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 42 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 43 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
+| 44 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
+| 45 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
+| 46 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 47 | [Joaquín Muñoz](http://twitter.com/search?q=Joaqu%c3%adn+Mu%c3%b1oz) | N/A |
+| 48 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 49 | [Alessandri](http://twitter.com/search?q=Alessandri) | N/A |
+| 50 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 
 
 

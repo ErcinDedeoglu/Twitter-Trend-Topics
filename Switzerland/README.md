@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-14 03:17:00 UTC`
+📆 Last Updated: `2023-03-14 04:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,18 +19,18 @@ This is top 50 for Switzerland
 | 2 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
 | 3 | [Banken](http://twitter.com/search?q=Banken) | N/A |
 | 4 | [#donnalisi](http://twitter.com/search?q=%23donnalisi) | N/A |
-| 5 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
-| 6 | [berset](http://twitter.com/search?q=berset) | N/A |
-| 7 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
+| 5 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 6 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
+| 7 | [berset](http://twitter.com/search?q=berset) | N/A |
 | 8 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
 | 9 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
 | 10 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 11 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 13 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
-| 14 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 15 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 16 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 12 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
+| 13 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 14 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 15 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 17 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
 | 18 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
 | 19 | [Schutz](http://twitter.com/search?q=Schutz) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for Switzerland
 | 28 | [aggressor](http://twitter.com/search?q=aggressor) | N/A |
 | 29 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
 | 30 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 32 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 33 | [kreise](http://twitter.com/search?q=kreise) | N/A |
-| 34 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
-| 35 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 36 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
-| 37 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 38 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
-| 39 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 40 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
-| 41 | [England](http://twitter.com/search?q=England) | N/A |
-| 42 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 43 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 44 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 45 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
+| 31 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
+| 34 | [Kreise](http://twitter.com/search?q=Kreise) | N/A |
+| 35 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
+| 36 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 37 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
+| 38 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 39 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
+| 40 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 41 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
+| 42 | [England](http://twitter.com/search?q=England) | N/A |
+| 43 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 44 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 45 | [Demo](http://twitter.com/search?q=Demo) | N/A |
 | 46 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
 | 47 | [Moskau](http://twitter.com/search?q=Moskau) | N/A |
 | 48 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 49 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 50 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 49 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 50 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 
 
 

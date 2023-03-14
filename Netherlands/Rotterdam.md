@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-14 03:16:22 UTC`
+📆 Last Updated: `2023-03-14 04:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,31 +26,31 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
 | 10 | [malieveld](http://twitter.com/search?q=malieveld) | N/A |
 | 11 | [Nigerian](http://twitter.com/search?q=Nigerian) | N/A |
-| 12 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
-| 13 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
-| 14 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 15 | [Attje](http://twitter.com/search?q=Attje) | N/A |
-| 16 | [tom egbers](http://twitter.com/search?q=tom+egbers) | N/A |
-| 17 | [Johan](http://twitter.com/search?q=Johan) | N/A |
-| 18 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 19 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 20 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
-| 21 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 22 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 23 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 24 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 25 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 26 | [janke dekker](http://twitter.com/search?q=janke+dekker) | N/A |
-| 27 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 28 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 29 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 30 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
+| 12 | [ambtenaren](http://twitter.com/search?q=ambtenaren) | N/A |
+| 13 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 14 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
+| 15 | [tom egbers](http://twitter.com/search?q=tom+egbers) | N/A |
+| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 17 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 18 | [Attje](http://twitter.com/search?q=Attje) | N/A |
+| 19 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
+| 20 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 21 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 22 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 23 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 24 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 25 | [janke dekker](http://twitter.com/search?q=janke+dekker) | N/A |
+| 26 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 27 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 28 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 29 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
+| 30 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
 | 31 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
 | 32 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
-| 33 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
+| 33 | [volendam](http://twitter.com/search?q=volendam) | N/A |
 | 34 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 | 35 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 36 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 36 | [berghuis](http://twitter.com/search?q=berghuis) | N/A |
 | 37 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
 | 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 39 | [Klassieker](http://twitter.com/search?q=Klassieker) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 47 | [Mores](http://twitter.com/search?q=Mores) | N/A |
 | 48 | [Wetin](http://twitter.com/search?q=Wetin) | N/A |
 | 49 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 50 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 50 | [dilrosun](http://twitter.com/search?q=dilrosun) | N/A |
 
 
 

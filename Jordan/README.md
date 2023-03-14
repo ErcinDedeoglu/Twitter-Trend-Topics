@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-14 03:16:57 UTC`
+📆 Last Updated: `2023-03-14 04:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for Jordan
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#الاميره_ايمان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%87_%d8%a7%d9%8a%d9%85%d8%a7%d9%86) | N/A |
-| 2 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 2 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
 | 3 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
 | 4 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
 | 5 | [ايمان بنت عبدالله الثاني](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%a7%d9%86+%d8%a8%d9%86%d8%aa+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 6 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
-| 7 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 8 | [السمو الملكي الاميره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%87) | N/A |
-| 9 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 7 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 8 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 9 | [السمو الملكي الاميره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%87) | N/A |
 | 10 | [الديوان الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
 | 11 | [بيت الاردن](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
 | 12 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Jordan
 | 35 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
 | 36 | [اليابان](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86) | N/A |
 | 37 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
-| 38 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
-| 39 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 40 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
-| 41 | [التايم الاردني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
-| 42 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 43 | [الاجهزه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 44 | [انديان ويلز](http://twitter.com/search?q=%d8%a7%d9%86%d8%af%d9%8a%d8%a7%d9%86+%d9%88%d9%8a%d9%84%d8%b2) | N/A |
-| 45 | [سلطان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 46 | [الامير الحسين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 47 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 48 | [علم الاردن](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 49 | [سالت الشيخ](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d8%aa+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 50 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 38 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 39 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
+| 40 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 41 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
+| 42 | [علي الجامعه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
+| 43 | [التايم الاردني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
+| 44 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
+| 45 | [الاجهزه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 46 | [انديان ويلز](http://twitter.com/search?q=%d8%a7%d9%86%d8%af%d9%8a%d8%a7%d9%86+%d9%88%d9%8a%d9%84%d8%b2) | N/A |
+| 47 | [سلطان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
+| 48 | [الامير الحسين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 49 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 50 | [علم الاردن](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
 
 
 

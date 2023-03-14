@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-14 03:16:33 UTC`
+📆 Last Updated: `2023-03-14 04:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RojukissxZeeNuNew](http://twitter.com/search?q=%23RojukissxZeeNuNew) | N/A |
-| 2 | [#GetWellSoonJeno](http://twitter.com/search?q=%23GetWellSoonJeno) | N/A |
-| 3 | [#200KAlwaysLoveMeen](http://twitter.com/search?q=%23200KAlwaysLoveMeen) | N/A |
-| 4 | [#มายภาคจ๋าพี่ป้าน้าอาคิดถึง](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%88%e0%b9%8b%e0%b8%b2%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%9b%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%ad%e0%b8%b2%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87) | N/A |
-| 5 | [#MidnightMuseumEP3](http://twitter.com/search?q=%23MidnightMuseumEP3) | N/A |
+| 1 | [#GetWellSoonJeno](http://twitter.com/search?q=%23GetWellSoonJeno) | N/A |
+| 2 | [#RojukissxZeeNuNew](http://twitter.com/search?q=%23RojukissxZeeNuNew) | N/A |
+| 3 | [#MidnightMuseumEP3](http://twitter.com/search?q=%23MidnightMuseumEP3) | N/A |
+| 4 | [#PEPSIpresentsToty2022](http://twitter.com/search?q=%23PEPSIpresentsToty2022) | N/A |
+| 5 | [#200KAlwaysLoveMeen](http://twitter.com/search?q=%23200KAlwaysLoveMeen) | N/A |
 | 6 | [BAMBAM GM 14MARCH](http://twitter.com/search?q=BAMBAM+GM+14MARCH) | N/A |
 | 7 | [MARCH14 HAS CHARLOTTE](http://twitter.com/search?q=MARCH14+HAS+CHARLOTTE) | N/A |
-| 8 | [6M Hook Gemini](http://twitter.com/search?q=6M+Hook+Gemini) | N/A |
+| 8 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
 | 9 | [JOYFUL DAY14 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY14+TO+ENGFA) | N/A |
-| 10 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 11 | [14 Morning Dunk](http://twitter.com/search?q=14+Morning+Dunk) | N/A |
-| 12 | [14MAR JOONG MORNING](http://twitter.com/search?q=14MAR+JOONG+MORNING) | N/A |
-| 13 | [tensscent of freedom](http://twitter.com/search?q=tensscent+of+freedom) | N/A |
-| 14 | [MORNING​ NOOKPAI](http://twitter.com/search?q=MORNING%e2%80%8b+NOOKPAI) | N/A |
-| 15 | [LALISA NINETY MILLION](http://twitter.com/search?q=LALISA+NINETY+MILLION) | N/A |
-| 16 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
-| 17 | [1m 200k gemini](http://twitter.com/search?q=1m+200k+gemini) | N/A |
-| 18 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
-| 19 | [MORNING 14 NNINE](http://twitter.com/search?q=MORNING+14+NNINE) | N/A |
-| 20 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
-| 21 | [Toty x Bright](http://twitter.com/search?q=Toty+x+Bright) | N/A |
+| 10 | [6M Hook Gemini](http://twitter.com/search?q=6M+Hook+Gemini) | N/A |
+| 11 | [tensscent of freedom](http://twitter.com/search?q=tensscent+of+freedom) | N/A |
+| 12 | [LALISA NINETY MILLION](http://twitter.com/search?q=LALISA+NINETY+MILLION) | N/A |
+| 13 | [1m 200k gemini](http://twitter.com/search?q=1m+200k+gemini) | N/A |
+| 14 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 15 | [MORNING 14 NNINE](http://twitter.com/search?q=MORNING+14+NNINE) | N/A |
+| 16 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
+| 17 | [Toty x Bright](http://twitter.com/search?q=Toty+x+Bright) | N/A |
+| 18 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
+| 19 | [MORNING​ NOOKPAI](http://twitter.com/search?q=MORNING%e2%80%8b+NOOKPAI) | N/A |
+| 20 | [14 Morning Dunk](http://twitter.com/search?q=14+Morning+Dunk) | N/A |
+| 21 | [Rover](http://twitter.com/search?q=Rover) | N/A |
 | 22 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 23 | [JAM X FILM](http://twitter.com/search?q=JAM+X+FILM) | JAM X FILM is a Japanese production company that specializes in creating music videos, commercials, and other visual media. The name is derived from the phrase "jam session" and the idea of creating a film. In English, it can be translated to mean "creating a film through collaboration". |
-| 24 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 25 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 23 | [14MAR JOONG MORNING](http://twitter.com/search?q=14MAR+JOONG+MORNING) | N/A |
+| 24 | [JAM X FILM](http://twitter.com/search?q=JAM+X+FILM) | JAM X FILM is a Japanese production company that specializes in creating music videos, commercials, and other visual media. The name is derived from the phrase "jam session" and the idea of creating a film. In English, it can be translated to mean "creating a film through collaboration". |
+| 25 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
 | 26 | [JoMalone x UP](http://twitter.com/search?q=JoMalone+x+UP) | N/A |
 | 27 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 28 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 29 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 30 | [Mark Tuan](http://twitter.com/search?q=Mark+Tuan) | N/A |
-| 31 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
+| 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 29 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 30 | [Carry Me Out By Mark Tuan](http://twitter.com/search?q=Carry+Me+Out+By+Mark+Tuan) | N/A |
+| 31 | [Kem Morning](http://twitter.com/search?q=Kem+Morning) | N/A |
 | 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 33 | [Kem Morning](http://twitter.com/search?q=Kem+Morning) | N/A |
-| 34 | [PM 2.5](http://twitter.com/search?q=PM+2.5) | N/A |
-| 35 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
-| 36 | [#PEPSIpresentsToty2022](http://twitter.com/search?q=%23PEPSIpresentsToty2022) | N/A |
+| 33 | [#TouchMyBodyMV](http://twitter.com/search?q=%23TouchMyBodyMV) | N/A |
+| 34 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
+| 35 | [#มายภาคจ๋าพี่ป้าน้าอาคิดถึง](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%88%e0%b9%8b%e0%b8%b2%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%9b%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%ad%e0%b8%b2%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87) | N/A |
+| 36 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 37 | [#ShowmeloveTheSeries](http://twitter.com/search?q=%23ShowmeloveTheSeries) | N/A |
-| 38 | [#TouchMyBodyMV](http://twitter.com/search?q=%23TouchMyBodyMV) | N/A |
-| 39 | [#ShowMeLoveแค่อยากบอกรัก](http://twitter.com/search?q=%23ShowMeLove%e0%b9%81%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%81%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
-| 40 | [#เพลงรักทะลุ6M](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a5%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%97%e0%b8%b0%e0%b8%a5%e0%b8%b86M) | N/A |
-| 41 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
-| 42 | [#เขินให้หน่อยTEASER](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2TEASER) | N/A |
-| 43 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 44 | [#BillkinBestMaleArtist](http://twitter.com/search?q=%23BillkinBestMaleArtist) | N/A |
-| 45 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
-| 46 | [#taluengbabymvxengfa_1mviews](http://twitter.com/search?q=%23taluengbabymvxengfa_1mviews) | N/A |
-| 47 | [#ErrrDay_With_Youngjae](http://twitter.com/search?q=%23ErrrDay_With_Youngjae) | N/A |
-| 48 | [#JFFanCon](http://twitter.com/search?q=%23JFFanCon) | N/A |
-| 49 | [#ประยุทธ์ออกไป](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%a2%e0%b8%b8%e0%b8%97%e0%b8%98%e0%b9%8c%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%84%e0%b8%9b) | N/A |
-| 50 | [#THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23THEDREAMSHOW2_in_BKK) | N/A |
+| 38 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
+| 39 | [#เขินให้หน่อยTEASER](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2TEASER) | N/A |
+| 40 | [#ShowMeLoveแค่อยากบอกรัก](http://twitter.com/search?q=%23ShowMeLove%e0%b9%81%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%81%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
+| 41 | [#BillkinBestMaleArtist](http://twitter.com/search?q=%23BillkinBestMaleArtist) | N/A |
+| 42 | [#taluengbabymvxengfa_1mviews](http://twitter.com/search?q=%23taluengbabymvxengfa_1mviews) | N/A |
+| 43 | [#ErrrDay_With_Youngjae](http://twitter.com/search?q=%23ErrrDay_With_Youngjae) | N/A |
+| 44 | [#ประยุทธ์ออกไป](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%a2%e0%b8%b8%e0%b8%97%e0%b8%98%e0%b9%8c%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%84%e0%b8%9b) | N/A |
+| 45 | [#JFFanCon](http://twitter.com/search?q=%23JFFanCon) | N/A |
+| 46 | [#เพลงรักทะลุ6M](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a5%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%97%e0%b8%b0%e0%b8%a5%e0%b8%b86M) | N/A |
+| 47 | [#อิงล็อต](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | #อิงล็อต is a hashtag used on social media in Thailand. It translates to "Follow the Lottery" and is used to encourage people to follow the Thai lottery results. |
+| 48 | [#TotyMusicAwardsXNuNew](http://twitter.com/search?q=%23TotyMusicAwardsXNuNew) | N/A |
+| 49 | [#TOTY2022x4EVE](http://twitter.com/search?q=%23TOTY2022x4EVE) | N/A |
+| 50 | [#แมนสรวง](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87) | N/A |
 
 
 

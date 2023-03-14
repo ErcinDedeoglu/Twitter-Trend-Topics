@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-14 03:16:48 UTC`
+📆 Last Updated: `2023-03-14 04:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 2 | [#HereWeGo](http://twitter.com/search?q=%23HereWeGo) | #HereWeGo is an expression used to express enthusiasm and excitement for something. It is often used as a rallying cry before beginning a task or activity. In English, it can be translated to mean "Let's do this!" or "Let's get started!" |
-| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 6 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 7 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 8 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 9 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 10 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 11 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 12 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 13 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 14 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 15 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 16 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 17 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 18 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 19 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 20 | [The Celtics](http://twitter.com/search?q=The+Celtics) | The Celtics is a professional basketball team based in Boston, Massachusetts. The team is part of the Atlantic Division of the Eastern Conference in the National Basketball Association (NBA). The Celtics are one of the most successful and storied franchises in NBA history, having won 17 championships since their founding in 1946. |
-| 21 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 22 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 23 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
-| 24 | [Mitch Bratt](http://twitter.com/search?q=Mitch+Bratt) | N/A |
-| 25 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 26 | [Tim Anderson](http://twitter.com/search?q=Tim+Anderson) | N/A |
-| 27 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
-| 28 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 29 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 30 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 31 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
-| 32 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 33 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
-| 34 | [Rasul Douglas](http://twitter.com/search?q=Rasul+Douglas) | Rasul Douglas is an American football cornerback who currently plays for the Philadelphia Eagles of the National Football League (NFL). His name is derived from the Arabic word "rasul," which means messenger or prophet. In English, Rasul Douglas' name translates to "messenger of God." |
-| 35 | [Tuch](http://twitter.com/search?q=Tuch) | N/A |
-| 36 | [Jalen Green](http://twitter.com/search?q=Jalen+Green) | Jalen Green is an American basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He is considered one of the top prospects in the 2021 NBA Draft. The name Jalen is derived from the Hebrew name “Ya’el”, which means “God will ascend”. |
-| 37 | [Davenport](http://twitter.com/search?q=Davenport) | N/A |
-| 38 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 39 | [Svech](http://twitter.com/search?q=Svech) | N/A |
-| 40 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 41 | [Charity](http://twitter.com/search?q=Charity) | N/A |
-| 42 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 43 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
-| 44 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 45 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 46 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 47 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 48 | [9-0 USA](http://twitter.com/search?q=9-0+USA) | N/A |
-| 49 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 50 | [Mazzulla](http://twitter.com/search?q=Mazzulla) | N/A |
+| 1 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 2 | [Patrick Peterson](http://twitter.com/search?q=Patrick+Peterson) | Patrick Peterson is a professional American football cornerback for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Cardinals fifth overall in the 2011 NFL Draft. He has been selected to seven Pro Bowls and is a three-time First-team All-Pro selection. |
+| 3 | [#HereWeGo](http://twitter.com/search?q=%23HereWeGo) | #HereWeGo is an expression used to express enthusiasm and excitement for something. It is often used as a rallying cry before beginning a task or activity. In English, it can be translated to mean "Let's do this!" or "Let's get started!" |
+| 4 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 5 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 6 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 7 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 9 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 10 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 11 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 12 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 13 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 14 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 15 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 16 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 17 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
+| 18 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 19 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 20 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 21 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 22 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 23 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 24 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 25 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 26 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 27 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
+| 28 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 29 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 30 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 31 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 32 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 33 | [The Celtics](http://twitter.com/search?q=The+Celtics) | The Celtics is a professional basketball team based in Boston, Massachusetts. The team is part of the Atlantic Division of the Eastern Conference in the National Basketball Association (NBA). The Celtics are one of the most successful and storied franchises in NBA history, having won 17 championships since their founding in 1946. |
+| 34 | [Mitch Bratt](http://twitter.com/search?q=Mitch+Bratt) | N/A |
+| 35 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
+| 36 | [Tim Anderson](http://twitter.com/search?q=Tim+Anderson) | N/A |
+| 37 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
+| 38 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 39 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
+| 40 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
+| 41 | [Rasul Douglas](http://twitter.com/search?q=Rasul+Douglas) | Rasul Douglas is an American football cornerback who currently plays for the Philadelphia Eagles of the National Football League (NFL). His name is derived from the Arabic word "rasul," which means messenger or prophet. In English, Rasul Douglas' name translates to "messenger of God." |
+| 42 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 43 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 44 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 45 | [Tuch](http://twitter.com/search?q=Tuch) | N/A |
+| 46 | [Iguodala](http://twitter.com/search?q=Iguodala) | N/A |
+| 47 | [Khris](http://twitter.com/search?q=Khris) | N/A |
+| 48 | [Davenport](http://twitter.com/search?q=Davenport) | N/A |
+| 49 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 50 | [Jalen Green](http://twitter.com/search?q=Jalen+Green) | Jalen Green is an American basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He is considered one of the top prospects in the 2021 NBA Draft. The name Jalen is derived from the Hebrew name “Ya’el”, which means “God will ascend”. |
 
 
 

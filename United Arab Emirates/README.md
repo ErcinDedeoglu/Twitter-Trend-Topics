@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Arab Emirates
 
-📆 Last Updated: `2023-03-14 03:16:54 UTC`
+📆 Last Updated: `2023-03-14 04:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for United Arab Emirates
 | 23 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
 | 24 | [الهلال الاحمر الاماراتي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
 | 25 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 26 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 27 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 28 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 29 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 27 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 28 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 29 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
 | 30 | [علي قضاء](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%b6%d8%a7%d8%a1) | N/A |
 | 31 | [طيران الرياض](http://twitter.com/search?q=%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 32 | [ساسولو](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88) | ساسولو is a type of traditional Iranian bread. It is made from wheat flour, water, and salt and is usually baked in a clay oven. In English, it translates to "sasoolo" or "sasuloo". |
-| 33 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 32 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 33 | [ساسولو](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88) | ساسولو is a type of traditional Iranian bread. It is made from wheat flour, water, and salt and is usually baked in a clay oven. In English, it translates to "sasoolo" or "sasuloo". |
 | 34 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 35 | [Karma](http://twitter.com/search?q=Karma) | N/A |
 | 36 | [مركز دبي التجاري العالمي](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%af%d8%a8%d9%8a+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 37 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 38 | [وتركيا](http://twitter.com/search?q=%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 39 | [الدرجه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 40 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 41 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 42 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 43 | [الجزيره العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 44 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
-| 45 | [16 مارس](http://twitter.com/search?q=16+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 46 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 47 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 48 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 49 | [David](http://twitter.com/search?q=David) | N/A |
-| 50 | [هون علي](http://twitter.com/search?q=%d9%87%d9%88%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
+| 37 | [توكل علي](http://twitter.com/search?q=%d8%aa%d9%88%d9%83%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
+| 38 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 39 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 40 | [وتركيا](http://twitter.com/search?q=%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
+| 41 | [الدرجه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 42 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 43 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 44 | [Chor](http://twitter.com/search?q=Chor) | N/A |
+| 45 | [الجزيره العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 46 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
+| 47 | [16 مارس](http://twitter.com/search?q=16+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 48 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 49 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 50 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
 
 
 
