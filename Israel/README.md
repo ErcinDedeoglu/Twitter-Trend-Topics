@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-14 05:17:00 UTC`
+📆 Last Updated: `2023-03-14 06:19:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Israel
 | ------- | ------------ | ------------ |
 | 1 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
 | 2 | [אודי סגל](http://twitter.com/search?q=%d7%90%d7%95%d7%93%d7%99+%d7%a1%d7%92%d7%9c) | N/A |
-| 3 | [יולי אדלשטיין](http://twitter.com/search?q=%d7%99%d7%95%d7%9c%d7%99+%d7%90%d7%93%d7%9c%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
-| 4 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
-| 5 | [בני אנוש](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%90%d7%a0%d7%95%d7%a9) | N/A |
-| 6 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
-| 7 | [לבני ברק](http://twitter.com/search?q=%d7%9c%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
-| 8 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
-| 9 | [עם שגריר ישראל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a9%d7%92%d7%a8%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 10 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
-| 11 | [הפועל ת](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%aa) | N/A |
-| 12 | [עם השגריר](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%a9%d7%92%d7%a8%d7%99%d7%a8) | N/A |
-| 13 | [כי טוב](http://twitter.com/search?q=%d7%9b%d7%99+%d7%98%d7%95%d7%91) | N/A |
-| 14 | [חאן אל](http://twitter.com/search?q=%d7%97%d7%90%d7%9f+%d7%90%d7%9c) | N/A |
-| 15 | [כך הם](http://twitter.com/search?q=%d7%9b%d7%9a+%d7%94%d7%9d) | N/A |
-| 16 | [אריה דרעי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%94+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
-| 17 | [רק שטראוס](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%a9%d7%98%d7%a8%d7%90%d7%95%d7%a1) | N/A |
-| 18 | [כוס מים](http://twitter.com/search?q=%d7%9b%d7%95%d7%a1+%d7%9e%d7%99%d7%9d) | N/A |
-| 19 | [AIPAC](http://twitter.com/search?q=AIPAC) | N/A |
-| 20 | [דוד לוי](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%9c%d7%95%d7%99) | N/A |
-| 21 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 22 | [של חרדים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%a8%d7%93%d7%99%d7%9d) | N/A |
-| 23 | [שופטים שמרנים](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%a9%d7%9e%d7%a8%d7%a0%d7%99%d7%9d) | N/A |
-| 24 | [השאלה האם](http://twitter.com/search?q=%d7%94%d7%a9%d7%90%d7%9c%d7%94+%d7%94%d7%90%d7%9d) | N/A |
-| 25 | [אריה לוין](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%94+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
-| 26 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 27 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 28 | [וואו איזה](http://twitter.com/search?q=%d7%95%d7%95%d7%90%d7%95+%d7%90%d7%99%d7%96%d7%94) | N/A |
-| 29 | [גלי בהרב](http://twitter.com/search?q=%d7%92%d7%9c%d7%99+%d7%91%d7%94%d7%a8%d7%91) | N/A |
-| 30 | [ערוץ תעמולה](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%aa%d7%a2%d7%9e%d7%95%d7%9c%d7%94) | N/A |
-| 31 | [תודה אח](http://twitter.com/search?q=%d7%aa%d7%95%d7%93%d7%94+%d7%90%d7%97) | N/A |
-| 32 | [של חיפה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 33 | [כי שם](http://twitter.com/search?q=%d7%9b%d7%99+%d7%a9%d7%9d) | N/A |
-| 34 | [איזה פחד](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%a4%d7%97%d7%93) | N/A |
-| 35 | [גורם מדיני](http://twitter.com/search?q=%d7%92%d7%95%d7%a8%d7%9d+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
-| 36 | [סיפור אמיתי](http://twitter.com/search?q=%d7%a1%d7%99%d7%a4%d7%95%d7%a8+%d7%90%d7%9e%d7%99%d7%aa%d7%99) | N/A |
-| 37 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
-| 38 | [הראשון של](http://twitter.com/search?q=%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f+%d7%a9%d7%9c) | N/A |
-| 39 | [היא של](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%a9%d7%9c) | N/A |
-| 40 | [חץ רעל](http://twitter.com/search?q=%d7%97%d7%a5+%d7%a8%d7%a2%d7%9c) | N/A |
-| 41 | [הרס המדינה](http://twitter.com/search?q=%d7%94%d7%a8%d7%a1+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 42 | [ראש ממשלה עם](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94+%d7%a2%d7%9d) | N/A |
-| 43 | [חוק חסינות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%97%d7%a1%d7%99%d7%a0%d7%95%d7%aa) | N/A |
-| 44 | [פוליטיזציה של](http://twitter.com/search?q=%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99%d7%96%d7%a6%d7%99%d7%94+%d7%a9%d7%9c) | N/A |
-| 45 | [פרס ישראל](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 46 | [תואר ראשון](http://twitter.com/search?q=%d7%aa%d7%95%d7%90%d7%a8+%d7%a8%d7%90%d7%a9%d7%95%d7%9f) | N/A |
-| 47 | [סוג ב](http://twitter.com/search?q=%d7%a1%d7%95%d7%92+%d7%91) | N/A |
-| 48 | [אחרי שהם](http://twitter.com/search?q=%d7%90%d7%97%d7%a8%d7%99+%d7%a9%d7%94%d7%9d) | N/A |
-| 49 | [שילוב של](http://twitter.com/search?q=%d7%a9%d7%99%d7%9c%d7%95%d7%91+%d7%a9%d7%9c) | N/A |
-| 50 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 3 | [כי טוב](http://twitter.com/search?q=%d7%9b%d7%99+%d7%98%d7%95%d7%91) | N/A |
+| 4 | [#لازم_](http://twitter.com/search?q=%23%d9%84%d8%a7%d8%b2%d9%85_) | N/A |
+| 5 | [יולי אדלשטיין](http://twitter.com/search?q=%d7%99%d7%95%d7%9c%d7%99+%d7%90%d7%93%d7%9c%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
+| 6 | [בני אנוש](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%90%d7%a0%d7%95%d7%a9) | N/A |
+| 7 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
+| 8 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
+| 9 | [ערוץ תעמולה](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%aa%d7%a2%d7%9e%d7%95%d7%9c%d7%94) | N/A |
+| 10 | [אבי וייס](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%95%d7%99%d7%99%d7%a1) | N/A |
+| 11 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
+| 12 | [חוק צרפתי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%a6%d7%a8%d7%a4%d7%aa%d7%99) | N/A |
+| 13 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
+| 14 | [עם שגריר ישראל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a9%d7%92%d7%a8%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 15 | [אמון בך](http://twitter.com/search?q=%d7%90%d7%9e%d7%95%d7%9f+%d7%91%d7%9a) | N/A |
+| 16 | [סטריט ג](http://twitter.com/search?q=%d7%a1%d7%98%d7%a8%d7%99%d7%98+%d7%92) | N/A |
+| 17 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 18 | [יובל אלבשן](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%90%d7%9c%d7%91%d7%a9%d7%9f) | N/A |
+| 19 | [פוסט אמת](http://twitter.com/search?q=%d7%a4%d7%95%d7%a1%d7%98+%d7%90%d7%9e%d7%aa) | N/A |
+| 20 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
+| 21 | [גלעד ארדן](http://twitter.com/search?q=%d7%92%d7%9c%d7%a2%d7%93+%d7%90%d7%a8%d7%93%d7%9f) | N/A |
+| 22 | [AIPAC](http://twitter.com/search?q=AIPAC) | N/A |
+| 23 | [עם השגריר](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%a9%d7%92%d7%a8%d7%99%d7%a8) | N/A |
+| 24 | [של מנדלבליט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a0%d7%93%d7%9c%d7%91%d7%9c%d7%99%d7%98) | N/A |
+| 25 | [מאיר רובין](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%a8%d7%95%d7%91%d7%99%d7%9f) | N/A |
+| 26 | [פרסונה נון](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1%d7%95%d7%a0%d7%94+%d7%a0%d7%95%d7%9f) | N/A |
+| 27 | [רק שטראוס](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%a9%d7%98%d7%a8%d7%90%d7%95%d7%a1) | N/A |
+| 28 | [של אמת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9e%d7%aa) | N/A |
+| 29 | [אמא שלה](http://twitter.com/search?q=%d7%90%d7%9e%d7%90+%d7%a9%d7%9c%d7%94) | N/A |
+| 30 | [הסכם ניגוד](http://twitter.com/search?q=%d7%94%d7%a1%d7%9b%d7%9d+%d7%a0%d7%99%d7%92%d7%95%d7%93) | N/A |
+| 31 | [فؤاد الشوبكي](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%a7%d9%84%d8%b4%d9%88%d8%a8%d9%83%d9%8a) | N/A |
+| 32 | [תקדים של](http://twitter.com/search?q=%d7%aa%d7%a7%d7%93%d7%99%d7%9d+%d7%a9%d7%9c) | N/A |
+| 33 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
+| 34 | [עם ישראלים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99%d7%9d) | N/A |
+| 35 | [דברים רעים](http://twitter.com/search?q=%d7%93%d7%91%d7%a8%d7%99%d7%9d+%d7%a8%d7%a2%d7%99%d7%9d) | N/A |
+| 36 | [של אזרחי ישראל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%96%d7%a8%d7%97%d7%99+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 37 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
+| 38 | [המדינה צריכה](http://twitter.com/search?q=%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94+%d7%a6%d7%a8%d7%99%d7%9b%d7%94) | N/A |
+| 39 | [איזה פחד](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%a4%d7%97%d7%93) | N/A |
+| 40 | [הדבר האחרון](http://twitter.com/search?q=%d7%94%d7%93%d7%91%d7%a8+%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f) | N/A |
+| 41 | [ר ההסתדרות](http://twitter.com/search?q=%d7%a8+%d7%94%d7%94%d7%a1%d7%aa%d7%93%d7%a8%d7%95%d7%aa) | N/A |
+| 42 | [שופטים שמרנים](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%a9%d7%9e%d7%a8%d7%a0%d7%99%d7%9d) | N/A |
+| 43 | [עידן חדש](http://twitter.com/search?q=%d7%a2%d7%99%d7%93%d7%9f+%d7%97%d7%93%d7%a9) | N/A |
+| 44 | [דוד לוי](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%9c%d7%95%d7%99) | N/A |
+| 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 46 | [איזה יום](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%99%d7%95%d7%9d) | N/A |
+| 47 | [של שטראוס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%98%d7%a8%d7%90%d7%95%d7%a1) | N/A |
+| 48 | [יסוד הכנסת](http://twitter.com/search?q=%d7%99%d7%a1%d7%95%d7%93+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 49 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
+| 50 | [ירון אברהם](http://twitter.com/search?q=%d7%99%d7%a8%d7%95%d7%9f+%d7%90%d7%91%d7%a8%d7%94%d7%9d) | N/A |
 
 
 

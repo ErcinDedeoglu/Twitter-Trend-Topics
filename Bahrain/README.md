@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-03-14 05:16:57 UTC`
+📆 Last Updated: `2023-03-14 06:19:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Bahrain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#تقويم_فعاليات_جده](http://twitter.com/search?q=%23%d8%aa%d9%82%d9%88%d9%8a%d9%85_%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa_%d8%ac%d8%af%d9%87) | N/A |
-| 2 | [#اعذرونا_ثامر_السويط_فشلنا](http://twitter.com/search?q=%23%d8%a7%d8%b9%d8%b0%d8%b1%d9%88%d9%86%d8%a7_%d8%ab%d8%a7%d9%85%d8%b1_%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b7_%d9%81%d8%b4%d9%84%d9%86%d8%a7) | N/A |
-| 3 | [#الثعل_بن_فطيس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ab%d8%b9%d9%84_%d8%a8%d9%86_%d9%81%d8%b7%d9%8a%d8%b3) | N/A |
-| 4 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 1 | [#اعذرونا_ثامر_السويط_فشلنا](http://twitter.com/search?q=%23%d8%a7%d8%b9%d8%b0%d8%b1%d9%88%d9%86%d8%a7_%d8%ab%d8%a7%d9%85%d8%b1_%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b7_%d9%81%d8%b4%d9%84%d9%86%d8%a7) | N/A |
+| 2 | [#اذكروا_الله](http://twitter.com/search?q=%23%d8%a7%d8%b0%d9%83%d8%b1%d9%88%d8%a7_%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 3 | [#تقويم_فعاليات_جده](http://twitter.com/search?q=%23%d8%aa%d9%82%d9%88%d9%8a%d9%85_%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa_%d8%ac%d8%af%d9%87) | N/A |
+| 4 | [#الثعل_بن_فطيس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ab%d8%b9%d9%84_%d8%a8%d9%86_%d9%81%d8%b7%d9%8a%d8%b3) | N/A |
 | 5 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 6 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 7 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 8 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 9 | [علي الاقل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
-| 10 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 11 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
-| 12 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 13 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 14 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
-| 15 | [أمريكا](http://twitter.com/search?q=%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 16 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 17 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 18 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 19 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 20 | [الاتحاد البرلماني الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 21 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
-| 22 | [رييس مجلس الشوري](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
-| 23 | [باب المولي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%88%d9%84%d9%8a) | N/A |
-| 24 | [الجمعيه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 25 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 26 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
-| 27 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
-| 28 | [اليوتيوب](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
-| 29 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 30 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 31 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 32 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 33 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 34 | [علي راسي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 35 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 36 | [المملكة العربية السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 37 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 38 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
-| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 40 | [دول الخليج](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 41 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 42 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 43 | [الشعبه البرلمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%87+%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 44 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 45 | [التويتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
-| 46 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 47 | [علي الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 48 | [والبحرين](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 49 | [الامارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 50 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 6 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 7 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 8 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
+| 9 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 10 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 11 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 12 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 13 | [بالكويت](http://twitter.com/search?q=%d8%a8%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 14 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 15 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 16 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 17 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 20 | [Chiaki](http://twitter.com/search?q=Chiaki) | N/A |
+| 21 | [اللغه الانجليزيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a%d9%87) | N/A |
+| 22 | [الشعبه البرلمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%87+%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 23 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 24 | [البرلمان الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 25 | [رييس مجلس الشوري](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
+| 26 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 27 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 28 | [Midori](http://twitter.com/search?q=Midori) | N/A |
+| 29 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 30 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
+| 33 | [الاتحاد البرلماني الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 34 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 35 | [علي راسي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 36 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
+| 37 | [الخليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 38 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 39 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
+| 40 | [رييس مجلس النواب](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 41 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 42 | [المملكة العربية السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 43 | [الهند](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
+| 44 | [علي الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 45 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 46 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 47 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 48 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
+| 49 | [الجمعيه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 50 | [الامارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
 
 
 

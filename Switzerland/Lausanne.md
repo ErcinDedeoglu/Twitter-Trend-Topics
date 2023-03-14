@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-14 05:16:26 UTC`
+📆 Last Updated: `2023-03-14 06:19:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
-| 3 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 4 | [#donnalisi](http://twitter.com/search?q=%23donnalisi) | N/A |
-| 5 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 6 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
-| 7 | [berset](http://twitter.com/search?q=berset) | N/A |
-| 8 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
-| 9 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 10 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 11 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
-| 12 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 13 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 14 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 16 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
-| 17 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
-| 18 | [Schutz](http://twitter.com/search?q=Schutz) | N/A |
-| 19 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 20 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 21 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 22 | [Migros](http://twitter.com/search?q=Migros) | N/A |
-| 23 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 24 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 25 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 26 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 27 | [aggressor](http://twitter.com/search?q=aggressor) | N/A |
-| 28 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 29 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 30 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 31 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 32 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 33 | [Kreise](http://twitter.com/search?q=Kreise) | N/A |
-| 34 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
-| 35 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 36 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
-| 37 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 38 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
-| 39 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 40 | [England](http://twitter.com/search?q=England) | N/A |
-| 41 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 42 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 43 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 44 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 45 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 46 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 47 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 1 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 4 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 5 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
+| 6 | [rapier](http://twitter.com/search?q=rapier) | N/A |
+| 7 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 8 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 9 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 10 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 11 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 12 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 13 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 14 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 15 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
+| 16 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 17 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 18 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
+| 19 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 20 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 21 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 22 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 23 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 24 | [kriegen](http://twitter.com/search?q=kriegen) | N/A |
+| 25 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 26 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 27 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 28 | [Kreise](http://twitter.com/search?q=Kreise) | N/A |
+| 29 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 30 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 31 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 32 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
+| 33 | [füsse](http://twitter.com/search?q=f%c3%bcsse) | N/A |
+| 34 | [Grunde](http://twitter.com/search?q=Grunde) | N/A |
+| 35 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 36 | [PRE ORDER](http://twitter.com/search?q=PRE+ORDER) | N/A |
+| 37 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 38 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
+| 39 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
+| 40 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 41 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 42 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 43 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 44 | [Maul](http://twitter.com/search?q=Maul) | N/A |
+| 45 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 46 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
+| 47 | [Migros](http://twitter.com/search?q=Migros) | N/A |
 
 
 
