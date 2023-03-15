@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-15 10:17:27 UTC`
+📆 Last Updated: `2023-03-15 11:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [manuel baldizón](http://twitter.com/search?q=manuel+baldiz%c3%b3n) | N/A |
+| 2 | [Manuel Baldizón](http://twitter.com/search?q=Manuel+Baldiz%c3%b3n) | N/A |
 | 3 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 4 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 5 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
@@ -61,7 +61,7 @@ This is top 50 for Guatemala
 | 44 | [villacorta](http://twitter.com/search?q=villacorta) | N/A |
 | 45 | [totonicapán](http://twitter.com/search?q=totonicap%c3%a1n) | N/A |
 | 46 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 47 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
+| 47 | [el mp](http://twitter.com/search?q=el+mp) | N/A |
 | 48 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 49 | [Duki](http://twitter.com/search?q=Duki) | N/A |
 | 50 | [Llévame](http://twitter.com/search?q=Ll%c3%a9vame) | N/A |

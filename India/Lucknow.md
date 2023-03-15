@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-15 10:17:12 UTC`
+📆 Last Updated: `2023-03-15 11:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 2 | [शिक्षक भर्ती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95+%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80) | N/A |
-| 3 | [#GeethaSakshigaa](http://twitter.com/search?q=%23GeethaSakshigaa) | N/A |
-| 4 | [#आदिवासी_विरोधी_कांग्रेस_जयस](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%80_%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80_%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8_%e0%a4%9c%e0%a4%af%e0%a4%b8) | N/A |
-| 5 | [#NDDBPoliticsWithMotherDairy](http://twitter.com/search?q=%23NDDBPoliticsWithMotherDairy) | N/A |
-| 6 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
-| 7 | [#HogaKaiseNahi](http://twitter.com/search?q=%23HogaKaiseNahi) | N/A |
-| 8 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 9 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
-| 10 | [Nukkad](http://twitter.com/search?q=Nukkad) | N/A |
-| 11 | [राबड़ी देवी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 1 | [शिक्षक भर्ती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95+%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80) | N/A |
+| 2 | [#AICCMinorityDept](http://twitter.com/search?q=%23AICCMinorityDept) | N/A |
+| 3 | [NationalExec Of MinorityDept](http://twitter.com/search?q=NationalExec+Of+MinorityDept) | N/A |
+| 4 | [#LokmatNationalConclave](http://twitter.com/search?q=%23LokmatNationalConclave) | N/A |
+| 5 | [#GeethaSakshigaa](http://twitter.com/search?q=%23GeethaSakshigaa) | N/A |
+| 6 | [#आदिवासी_विरोधी_कांग्रेस_जयस](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%80_%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80_%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8_%e0%a4%9c%e0%a4%af%e0%a4%b8) | N/A |
+| 7 | [#AadhaMainAadhiVoSongOutNow](http://twitter.com/search?q=%23AadhaMainAadhiVoSongOutNow) | N/A |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 9 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 10 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
+| 11 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
 | 12 | [B. 1750](http://twitter.com/search?q=B.+1750) | N/A |
 | 13 | [विजय चौक](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%95) | N/A |
-| 14 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
-| 15 | [A. Dynamic AMOLED 2X](http://twitter.com/search?q=A.+Dynamic+AMOLED+2X) | N/A |
+| 14 | [A. Dynamic AMOLED 2X](http://twitter.com/search?q=A.+Dynamic+AMOLED+2X) | N/A |
+| 15 | [राबड़ी देवी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
 | 16 | [Khopdi](http://twitter.com/search?q=Khopdi) | N/A |
-| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 18 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
-| 19 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 20 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 21 | [Opposition MPs](http://twitter.com/search?q=Opposition+MPs) | N/A |
-| 22 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 23 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 24 | [भोजपुरी इंडस्ट्री](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%9c%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a5%80+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 17 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
+| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 19 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
+| 20 | [Shinde](http://twitter.com/search?q=Shinde) | N/A |
+| 21 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 22 | [भोजपुरी इंडस्ट्री](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%9c%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a5%80+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 23 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 24 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
 | 25 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 26 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 27 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 28 | [साहिब सिंह वर्मा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%ac+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 29 | [लैंड फॉर जॉब](http://twitter.com/search?q=%e0%a4%b2%e0%a5%88%e0%a4%82%e0%a4%a1+%e0%a4%ab%e0%a5%89%e0%a4%b0+%e0%a4%9c%e0%a5%89%e0%a4%ac) | N/A |
-| 30 | [लॉरेंस बिश्नोई](http://twitter.com/search?q=%e0%a4%b2%e0%a5%89%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8+%e0%a4%ac%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%a8%e0%a5%8b%e0%a4%88) | N/A |
-| 31 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 32 | [मेजर संदीप उन्नीकृष्णन](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%9c%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa+%e0%a4%89%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a5%80%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%a8) | N/A |
-| 33 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 34 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 35 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 36 | [राजनैतिक चेतना](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%88%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8%e0%a4%be) | N/A |
-| 37 | [बड़ी राहत](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4) | बड़ी राहत (Badi Rahat) is a Hindi phrase that translates to "great relief" in English. It is used to express a feeling of relief or comfort after a difficult situation. |
-| 38 | [False Rape Cases](http://twitter.com/search?q=False+Rape+Cases) | N/A |
-| 39 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 40 | [Classic Example](http://twitter.com/search?q=Classic+Example) | N/A |
-| 41 | [स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | स्वास्थ्य मंत्री is a Hindi phrase meaning "Health Minister". It is used to refer to the minister responsible for health and medical services in India. |
-| 42 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
-| 43 | [Farzi](http://twitter.com/search?q=Farzi) | N/A |
-| 44 | [#AnpadhKejriwal](http://twitter.com/search?q=%23AnpadhKejriwal) | N/A |
-| 45 | [#Mor_Awas_Mor_Adhikar](http://twitter.com/search?q=%23Mor_Awas_Mor_Adhikar) | N/A |
-| 46 | [#RahulDramaBandKar](http://twitter.com/search?q=%23RahulDramaBandKar) | N/A |
-| 47 | [#मोर_आवास_मोर_अधिकार](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%b0_%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8_%e0%a4%ae%e0%a5%8b%e0%a4%b0_%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 48 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 49 | [#WinGalaxyS23](http://twitter.com/search?q=%23WinGalaxyS23) | N/A |
-| 50 | [#WorldConsumerRightsDay](http://twitter.com/search?q=%23WorldConsumerRightsDay) | N/A |
+| 26 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 27 | [मेजर संदीप उन्नीकृष्णन](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%9c%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa+%e0%a4%89%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a5%80%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%a8) | N/A |
+| 28 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 29 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 30 | [राजनैतिक चेतना](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%88%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8%e0%a4%be) | N/A |
+| 31 | [लॉरेंस बिश्नोई](http://twitter.com/search?q=%e0%a4%b2%e0%a5%89%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8+%e0%a4%ac%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%a8%e0%a5%8b%e0%a4%88) | N/A |
+| 32 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 33 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 34 | [IITian](http://twitter.com/search?q=IITian) | N/A |
+| 35 | [स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | स्वास्थ्य मंत्री is a Hindi phrase meaning "Health Minister". It is used to refer to the minister responsible for health and medical services in India. |
+| 36 | [#NDDBPoliticsWithMotherDairy](http://twitter.com/search?q=%23NDDBPoliticsWithMotherDairy) | N/A |
+| 37 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
+| 38 | [#AnpadhKejriwal](http://twitter.com/search?q=%23AnpadhKejriwal) | N/A |
+| 39 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 40 | [#Mor_Awas_Mor_Adhikar](http://twitter.com/search?q=%23Mor_Awas_Mor_Adhikar) | N/A |
+| 41 | [#WinGalaxyS23](http://twitter.com/search?q=%23WinGalaxyS23) | N/A |
+| 42 | [#CustodyTeaser](http://twitter.com/search?q=%23CustodyTeaser) | N/A |
+| 43 | [#RahulDramaBandKar](http://twitter.com/search?q=%23RahulDramaBandKar) | N/A |
+| 44 | [#मोर_आवास_मोर_अधिकार](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%b0_%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8_%e0%a4%ae%e0%a5%8b%e0%a4%b0_%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 45 | [#ImranKhanArrest](http://twitter.com/search?q=%23ImranKhanArrest) | N/A |
+| 46 | [#ICCRankings](http://twitter.com/search?q=%23ICCRankings) | N/A |
+| 47 | [#AliaBhatt](http://twitter.com/search?q=%23AliaBhatt) | N/A |
+| 48 | [#WorldConsumerRightsDay](http://twitter.com/search?q=%23WorldConsumerRightsDay) | N/A |
+| 49 | [#HogaKaiseNahi](http://twitter.com/search?q=%23HogaKaiseNahi) | N/A |
+| 50 | [#CustodyOnMay12](http://twitter.com/search?q=%23CustodyOnMay12) | N/A |
 
 
 

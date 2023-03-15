@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-15 10:16:42 UTC`
+📆 Last Updated: `2023-03-15 11:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,34 +24,34 @@ This is top 50 for [Mexico](</Mexico>)
 | 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 8 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 9 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 10 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 10 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
 | 11 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 12 | [Alexis Wilson](http://twitter.com/search?q=Alexis+Wilson) | N/A |
 | 13 | [LIVE CON EVE](http://twitter.com/search?q=LIVE+CON+EVE) | N/A |
 | 14 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 15 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 16 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 17 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
-| 18 | [MATI MEDAL HOLDER](http://twitter.com/search?q=MATI+MEDAL+HOLDER) | N/A |
+| 16 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
+| 17 | [MATI MEDAL HOLDER](http://twitter.com/search?q=MATI+MEDAL+HOLDER) | N/A |
+| 18 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 20 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 21 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 22 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
+| 20 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 21 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
+| 22 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
 | 23 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
-| 24 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
-| 25 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 26 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 27 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 28 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 29 | [Aldo Rocha](http://twitter.com/search?q=Aldo+Rocha) | N/A |
-| 30 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 31 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 24 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 25 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 26 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 27 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 29 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 30 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 31 | [Aldo Rocha](http://twitter.com/search?q=Aldo+Rocha) | N/A |
 | 32 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 33 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 34 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 35 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 36 | [Ofelia Medina](http://twitter.com/search?q=Ofelia+Medina) | N/A |
-| 37 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
+| 33 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 34 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 35 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
+| 36 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 37 | [Ofelia Medina](http://twitter.com/search?q=Ofelia+Medina) | N/A |
 | 38 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
 | 39 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
 | 40 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-15 10:16:48 UTC`
+📆 Last Updated: `2023-03-15 11:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
-| 2 | [Inflacja 18,4%](http://twitter.com/search?q=Inflacja+18%2c4%25) | N/A |
+| 2 | [#inflacja](http://twitter.com/search?q=%23inflacja) | N/A |
 | 3 | [#ParagonyGrozy](http://twitter.com/search?q=%23ParagonyGrozy) | N/A |
-| 4 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 5 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
+| 4 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
+| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 6 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 9 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 10 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 11 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
-| 12 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 13 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 14 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 15 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
-| 16 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
-| 17 | [Lipsk](http://twitter.com/search?q=Lipsk) | N/A |
-| 18 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [edersona](http://twitter.com/search?q=edersona) | N/A |
-| 21 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 22 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 24 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 25 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
-| 26 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 27 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 8 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 9 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 10 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
+| 11 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
+| 12 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 14 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
+| 15 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
+| 16 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
+| 17 | [edersona](http://twitter.com/search?q=edersona) | N/A |
+| 18 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
+| 19 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 20 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 21 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
+| 24 | [kaleta](http://twitter.com/search?q=kaleta) | N/A |
+| 25 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 26 | [Lipsk](http://twitter.com/search?q=Lipsk) | N/A |
+| 27 | [Trela](http://twitter.com/search?q=Trela) | N/A |
 | 28 | [Winna](http://twitter.com/search?q=Winna) | N/A |
-| 29 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 30 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
-| 31 | [pierwsza fifa](http://twitter.com/search?q=pierwsza+fifa) | N/A |
-| 32 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 33 | [Tylko PiS](http://twitter.com/search?q=Tylko+PiS) | N/A |
-| 34 | [najgorsza fifa](http://twitter.com/search?q=najgorsza+fifa) | N/A |
-| 35 | [ulubiona fifa](http://twitter.com/search?q=ulubiona+fifa) | N/A |
-| 36 | [krafta](http://twitter.com/search?q=krafta) | N/A |
-| 37 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
-| 38 | [Błaszczaka](http://twitter.com/search?q=B%c5%82aszczaka) | N/A |
-| 39 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
-| 40 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 41 | [Orlenie](http://twitter.com/search?q=Orlenie) | N/A |
-| 42 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 43 | [Raducanu](http://twitter.com/search?q=Raducanu) | Raducanu is a Romanian surname. It is derived from the given name Radu, which is derived from the Slavic name Radomir, meaning "peaceful ruler". |
-| 44 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
-| 45 | [ZERA](http://twitter.com/search?q=ZERA) | N/A |
-| 46 | [Interu](http://twitter.com/search?q=Interu) | N/A |
-| 47 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 48 | [Czuje](http://twitter.com/search?q=Czuje) | N/A |
+| 29 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 30 | [pierwsza fifa](http://twitter.com/search?q=pierwsza+fifa) | N/A |
+| 31 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 32 | [najgorsza fifa](http://twitter.com/search?q=najgorsza+fifa) | N/A |
+| 33 | [ulubiona fifa](http://twitter.com/search?q=ulubiona+fifa) | N/A |
+| 34 | [krafta](http://twitter.com/search?q=krafta) | N/A |
+| 35 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
+| 36 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
+| 37 | [Błaszczaka](http://twitter.com/search?q=B%c5%82aszczaka) | N/A |
+| 38 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 39 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 40 | [Orlenie](http://twitter.com/search?q=Orlenie) | N/A |
+| 41 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
+| 42 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
+| 43 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 44 | [Tygodnik NIE](http://twitter.com/search?q=Tygodnik+NIE) | N/A |
+| 45 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 46 | [Czuje](http://twitter.com/search?q=Czuje) | N/A |
+| 47 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
+| 48 | [Brawo Iga](http://twitter.com/search?q=Brawo+Iga) | N/A |
 
 
 

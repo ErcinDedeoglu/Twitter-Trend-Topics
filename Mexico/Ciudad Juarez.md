@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-15 10:16:40 UTC`
+📆 Last Updated: `2023-03-15 11:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,28 +29,28 @@ This is top 50 for [Mexico](</Mexico>)
 | 12 | [LIVE CON EVE](http://twitter.com/search?q=LIVE+CON+EVE) | N/A |
 | 13 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 14 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 15 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 16 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
-| 17 | [MATI MEDAL HOLDER](http://twitter.com/search?q=MATI+MEDAL+HOLDER) | N/A |
+| 15 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
+| 16 | [MATI MEDAL HOLDER](http://twitter.com/search?q=MATI+MEDAL+HOLDER) | N/A |
+| 17 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 19 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 20 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 21 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
+| 19 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 20 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
+| 21 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
 | 22 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
-| 23 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
-| 24 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 25 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 26 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 27 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 28 | [Aldo Rocha](http://twitter.com/search?q=Aldo+Rocha) | N/A |
-| 29 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 30 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 23 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 24 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 25 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 26 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 27 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 28 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 29 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 30 | [Aldo Rocha](http://twitter.com/search?q=Aldo+Rocha) | N/A |
 | 31 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 32 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 33 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 34 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 35 | [Ofelia Medina](http://twitter.com/search?q=Ofelia+Medina) | N/A |
-| 36 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
+| 32 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 33 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 34 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
+| 35 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 36 | [Ofelia Medina](http://twitter.com/search?q=Ofelia+Medina) | N/A |
 | 37 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
 | 38 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
 | 39 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |

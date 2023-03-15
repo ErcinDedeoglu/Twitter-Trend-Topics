@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-15 10:17:32 UTC`
+📆 Last Updated: `2023-03-15 11:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 2 | [#BudgetDay2023](http://twitter.com/search?q=%23BudgetDay2023) | N/A |
-| 3 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 4 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 5 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
+| 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
+| 2 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 3 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
+| 4 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 5 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
 | 6 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 7 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 8 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 9 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
-| 10 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 11 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 12 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 13 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 14 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 15 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 16 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 17 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
-| 18 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 19 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 20 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
-| 21 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
-| 22 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 23 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 24 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 25 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
-| 26 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 27 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 28 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 29 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 30 | [Wriggle](http://twitter.com/search?q=Wriggle) | N/A |
-| 31 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 32 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 33 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 34 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
-| 35 | [#SwallowAware2023](http://twitter.com/search?q=%23SwallowAware2023) | N/A |
-| 36 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 37 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
-| 38 | [#ASongOrMovieForPeanuts](http://twitter.com/search?q=%23ASongOrMovieForPeanuts) | N/A |
-| 39 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 40 | [#WDAD2023](http://twitter.com/search?q=%23WDAD2023) | N/A |
-| 41 | [#childcare](http://twitter.com/search?q=%23childcare) | N/A |
-| 42 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 43 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
-| 44 | [#closure](http://twitter.com/search?q=%23closure) | N/A |
-| 45 | [#ToriesOut251](http://twitter.com/search?q=%23ToriesOut251) | N/A |
-| 46 | [#advertisingallin](http://twitter.com/search?q=%23advertisingallin) | N/A |
-| 47 | [#WalkoutWednesday](http://twitter.com/search?q=%23WalkoutWednesday) | N/A |
-| 48 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 49 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
-| 50 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 7 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 9 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 10 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 11 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 12 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 13 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
+| 14 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 15 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
+| 16 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 17 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 18 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 19 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 20 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 21 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 22 | [HMS Seahorse](http://twitter.com/search?q=HMS+Seahorse) | N/A |
+| 23 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 24 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 25 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
+| 26 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 27 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 28 | [hatate](http://twitter.com/search?q=hatate) | N/A |
+| 29 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
+| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 31 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
+| 32 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 33 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 34 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
+| 35 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 36 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 37 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 38 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 39 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
+| 40 | [Wriggle](http://twitter.com/search?q=Wriggle) | N/A |
+| 41 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 42 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 43 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 44 | [#SwallowAware2023](http://twitter.com/search?q=%23SwallowAware2023) | N/A |
+| 45 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 46 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 47 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 48 | [#ASongOrMovieForPeanuts](http://twitter.com/search?q=%23ASongOrMovieForPeanuts) | N/A |
+| 49 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 50 | [#WDAD2023](http://twitter.com/search?q=%23WDAD2023) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-15 10:17:29 UTC`
+📆 Last Updated: `2023-03-15 11:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aunty Esther](http://twitter.com/search?q=Aunty+Esther) | N/A |
-| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 3 | [#itelCelebratesMum](http://twitter.com/search?q=%23itelCelebratesMum) | N/A |
-| 4 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 5 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 6 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 7 | [#GoBawaGo](http://twitter.com/search?q=%23GoBawaGo) | N/A |
-| 8 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 9 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
-| 10 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 11 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 12 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
-| 13 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 14 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
-| 15 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 16 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 17 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
-| 18 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
-| 21 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 22 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
-| 23 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 24 | [Atedo Peterside](http://twitter.com/search?q=Atedo+Peterside) | N/A |
-| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 26 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
-| 27 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 28 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 29 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 30 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 31 | [Zino](http://twitter.com/search?q=Zino) | N/A |
-| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 33 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 34 | [Track 15](http://twitter.com/search?q=Track+15) | N/A |
+| 1 | [Toni Tones](http://twitter.com/search?q=Toni+Tones) | Toni Tones is the stage name of Nigerian singer, songwriter, and producer, Atim Ukoh. Her music is a blend of Afro-pop, R&B, and soul. The name "Toni Tones" is derived from her real name Atim and her love for music. In English, it means "Atim's musical tones". |
+| 2 | [#itelCelebratesMum](http://twitter.com/search?q=%23itelCelebratesMum) | N/A |
+| 3 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
+| 4 | [#TryMyJobwithOlah](http://twitter.com/search?q=%23TryMyJobwithOlah) | N/A |
+| 5 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
+| 6 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
+| 7 | [#kibe](http://twitter.com/search?q=%23kibe) | N/A |
+| 8 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
+| 9 | [Baddo](http://twitter.com/search?q=Baddo) | N/A |
+| 10 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
+| 11 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 12 | [RIDING WITH PHYNA](http://twitter.com/search?q=RIDING+WITH+PHYNA) | N/A |
+| 13 | [SUGARCOAT PHYNA](http://twitter.com/search?q=SUGARCOAT+PHYNA) | N/A |
+| 14 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
+| 15 | [Grace](http://twitter.com/search?q=Grace) | N/A |
+| 16 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
+| 17 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
+| 18 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 19 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 20 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 21 | [Ajimobi](http://twitter.com/search?q=Ajimobi) | N/A |
+| 22 | [The British](http://twitter.com/search?q=The+British) | N/A |
+| 23 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 24 | [Zino](http://twitter.com/search?q=Zino) | N/A |
+| 25 | [Adekunle Gold](http://twitter.com/search?q=Adekunle+Gold) | N/A |
+| 26 | [Mike Igini](http://twitter.com/search?q=Mike+Igini) | N/A |
+| 27 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 28 | [The God](http://twitter.com/search?q=The+God) | N/A |
+| 29 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
+| 30 | [Clout](http://twitter.com/search?q=Clout) | N/A |
+| 31 | [Sabinus](http://twitter.com/search?q=Sabinus) | N/A |
+| 32 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 33 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
+| 34 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 35 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 36 | [RIDING WITH PHYNA](http://twitter.com/search?q=RIDING+WITH+PHYNA) | N/A |
-| 37 | [Enya](http://twitter.com/search?q=Enya) | N/A |
-| 38 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 39 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 40 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 41 | [Anikulapo](http://twitter.com/search?q=Anikulapo) | N/A |
-| 42 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 43 | [SUGARCOAT PHYNA](http://twitter.com/search?q=SUGARCOAT+PHYNA) | N/A |
-| 44 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
-| 45 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 46 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
-| 47 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
-| 48 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 49 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
-| 50 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 36 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
+| 37 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 38 | [Access Bank](http://twitter.com/search?q=Access+Bank) | N/A |
+| 39 | [Benz](http://twitter.com/search?q=Benz) | N/A |
+| 40 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 41 | [#GoBawaGo](http://twitter.com/search?q=%23GoBawaGo) | N/A |
+| 42 | [#Reno8T](http://twitter.com/search?q=%23Reno8T) | N/A |
+| 43 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 44 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 45 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
+| 46 | [#Phyna𓃰](http://twitter.com/search?q=%23Phyna%f0%93%83%b0) | N/A |
+| 47 | [#NLPWithPastorBolaji](http://twitter.com/search?q=%23NLPWithPastorBolaji) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-15 10:17:16 UTC`
+📆 Last Updated: `2023-03-15 11:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,50 @@ This is top 50 for [United States](</United States>)
 | 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 | 3 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 4 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 5 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 7 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
-| 8 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 9 | [Coruscant](http://twitter.com/search?q=Coruscant) | N/A |
-| 10 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 11 | [New Republic](http://twitter.com/search?q=New+Republic) | N/A |
+| 5 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
+| 6 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 8 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 11 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
 | 12 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 13 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 14 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 15 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 16 | [Men in Black](http://twitter.com/search?q=Men+in+Black) | N/A |
-| 17 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 18 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 19 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 20 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 21 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 22 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 23 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 24 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 25 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 26 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 27 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 28 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
-| 29 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
-| 30 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
-| 31 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 32 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 33 | [Deuce](http://twitter.com/search?q=Deuce) | N/A |
-| 34 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 35 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 36 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 37 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 38 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 39 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
-| 40 | [Tales](http://twitter.com/search?q=Tales) | N/A |
-| 41 | [The Mask](http://twitter.com/search?q=The+Mask) | N/A |
-| 42 | [Unconstitutional](http://twitter.com/search?q=Unconstitutional) | N/A |
-| 43 | [Jesse Singal](http://twitter.com/search?q=Jesse+Singal) | N/A |
-| 44 | [Background](http://twitter.com/search?q=Background) | N/A |
-| 45 | [Gate](http://twitter.com/search?q=Gate) | N/A |
-| 46 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 47 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 48 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 49 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
+| 13 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 14 | [Coruscant](http://twitter.com/search?q=Coruscant) | N/A |
+| 15 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 16 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 17 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
+| 18 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 19 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 20 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 21 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 22 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 23 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 24 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 25 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
+| 26 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 27 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 28 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 29 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 30 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 31 | [Unconstitutional](http://twitter.com/search?q=Unconstitutional) | N/A |
+| 32 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
+| 33 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 34 | [Anonymous](http://twitter.com/search?q=Anonymous) | N/A |
+| 35 | [Deuce](http://twitter.com/search?q=Deuce) | N/A |
+| 36 | [Trunk](http://twitter.com/search?q=Trunk) | N/A |
+| 37 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 38 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 39 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
+| 40 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
+| 41 | [Tales](http://twitter.com/search?q=Tales) | N/A |
+| 42 | [Jesse Singal](http://twitter.com/search?q=Jesse+Singal) | N/A |
+| 43 | [Background](http://twitter.com/search?q=Background) | N/A |
+| 44 | [Gate](http://twitter.com/search?q=Gate) | N/A |
+| 45 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 46 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 47 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 48 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
 
 
 
