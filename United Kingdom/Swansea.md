@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-15 13:20:41 UTC`
+📆 Last Updated: `2023-03-15 14:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
 | 2 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
 | 3 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 5 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 6 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 7 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
-| 8 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 9 | [Stabilised](http://twitter.com/search?q=Stabilised) | N/A |
-| 10 | [Investment Zones](http://twitter.com/search?q=Investment+Zones) | N/A |
-| 11 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
-| 12 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 13 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 14 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
-| 15 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
-| 16 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 17 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
-| 18 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
-| 19 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
-| 20 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 21 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
-| 22 | [Canary Wharf](http://twitter.com/search?q=Canary+Wharf) | N/A |
-| 23 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
-| 24 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 25 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
-| 26 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 27 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 28 | [Corporation Tax](http://twitter.com/search?q=Corporation+Tax) | N/A |
-| 29 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
-| 30 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
-| 31 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 32 | [HMS Seahorse](http://twitter.com/search?q=HMS+Seahorse) | N/A |
-| 33 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 34 | [Armada Way](http://twitter.com/search?q=Armada+Way) | N/A |
-| 35 | [Solly](http://twitter.com/search?q=Solly) | N/A |
-| 36 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 37 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 38 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 39 | [Trees](http://twitter.com/search?q=Trees) | N/A |
-| 40 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
-| 41 | [Davidson](http://twitter.com/search?q=Davidson) | N/A |
-| 42 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 43 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
-| 44 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
-| 45 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
-| 46 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 4 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
+| 5 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 7 | [Great British Nuclear](http://twitter.com/search?q=Great+British+Nuclear) | N/A |
+| 8 | [#ShopSmartCookSavvy](http://twitter.com/search?q=%23ShopSmartCookSavvy) | N/A |
+| 9 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
+| 10 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
+| 11 | [Canary Wharfs](http://twitter.com/search?q=Canary+Wharfs) | N/A |
+| 12 | [Lifetime Allowance](http://twitter.com/search?q=Lifetime+Allowance) | N/A |
+| 13 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 14 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 15 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 16 | [Ballymore](http://twitter.com/search?q=Ballymore) | N/A |
+| 17 | [The OBR](http://twitter.com/search?q=The+OBR) | N/A |
+| 18 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 19 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
+| 20 | [Sir Gerhard](http://twitter.com/search?q=Sir+Gerhard) | N/A |
+| 21 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 22 | [Stabilised](http://twitter.com/search?q=Stabilised) | N/A |
+| 23 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
+| 24 | [Investment Zones](http://twitter.com/search?q=Investment+Zones) | N/A |
+| 25 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 26 | [Boxxer](http://twitter.com/search?q=Boxxer) | N/A |
+| 27 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
+| 28 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
+| 29 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
+| 30 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
+| 31 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
+| 32 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 33 | [Azeez](http://twitter.com/search?q=Azeez) | N/A |
+| 34 | [Corporation Tax](http://twitter.com/search?q=Corporation+Tax) | N/A |
+| 35 | [MHRA](http://twitter.com/search?q=MHRA) | N/A |
+| 36 | [Champ Kiely](http://twitter.com/search?q=Champ+Kiely) | N/A |
+| 37 | [steve bray](http://twitter.com/search?q=steve+bray) | N/A |
+| 38 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 39 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 40 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 41 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 42 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 43 | [American Mike](http://twitter.com/search?q=American+Mike) | N/A |
+| 44 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 45 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
+| 46 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
+| 47 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 48 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 49 | [Gordon Brown](http://twitter.com/search?q=Gordon+Brown) | N/A |
 
 
 

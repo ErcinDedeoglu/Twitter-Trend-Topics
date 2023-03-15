@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-15 13:21:25 UTC`
+📆 Last Updated: `2023-03-15 14:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 1 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 2 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
-| 3 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 3 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
 | 4 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
 | 5 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
 | 6 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
@@ -25,7 +25,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 8 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
 | 9 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
 | 10 | [cabinet manual](http://twitter.com/search?q=cabinet+manual) | N/A |
-| 11 | [Willis](http://twitter.com/search?q=Willis) | N/A |
+| 11 | [willis](http://twitter.com/search?q=willis) | N/A |
 | 12 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
 | 13 | [Coster](http://twitter.com/search?q=Coster) | N/A |
 | 14 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
@@ -34,14 +34,14 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 18 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
 | 19 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 20 | [#UNBREAKABLE](http://twitter.com/search?q=%23UNBREAKABLE) | N/A |
+| 20 | [#unbreakable](http://twitter.com/search?q=%23unbreakable) | N/A |
 | 21 | [Leah](http://twitter.com/search?q=Leah) | N/A |
 | 22 | [National and ACT](http://twitter.com/search?q=National+and+ACT) | N/A |
 | 23 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
 | 24 | [Meng](http://twitter.com/search?q=Meng) | N/A |
 | 25 | [megan woods](http://twitter.com/search?q=megan+woods) | N/A |
 | 26 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 27 | [Te Pūkenga](http://twitter.com/search?q=Te+P%c5%abkenga) | N/A |
+| 27 | [te pūkenga](http://twitter.com/search?q=te+p%c5%abkenga) | N/A |
 | 28 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 29 | [hipkins](http://twitter.com/search?q=hipkins) | N/A |
 | 30 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |

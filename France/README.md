@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-15 13:21:38 UTC`
+📆 Last Updated: `2023-03-15 14:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,44 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
-| 2 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 3 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
-| 4 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
-| 5 | [société générale](http://twitter.com/search?q=soci%c3%a9t%c3%a9+g%c3%a9n%c3%a9rale) | N/A |
-| 6 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 2 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
+| 3 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 4 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
+| 5 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 6 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
 | 7 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 8 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
+| 8 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
 | 9 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 10 | [Bourse de Paris](http://twitter.com/search?q=Bourse+de+Paris) | N/A |
-| 11 | [#RolandGarros](http://twitter.com/search?q=%23RolandGarros) | N/A |
-| 12 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
-| 13 | [Lisnard](http://twitter.com/search?q=Lisnard) | N/A |
-| 14 | [Norvège](http://twitter.com/search?q=Norv%c3%a8ge) | N/A |
-| 15 | [Nono](http://twitter.com/search?q=Nono) | N/A |
-| 16 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 17 | [Retirez](http://twitter.com/search?q=Retirez) | N/A |
-| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 19 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
-| 20 | [Grève du 15](http://twitter.com/search?q=Gr%c3%a8ve+du+15) | N/A |
-| 21 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 22 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 23 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 24 | [Le 15](http://twitter.com/search?q=Le+15) | N/A |
-| 25 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
-| 26 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 27 | [#NonALaReformeDesRetraites](http://twitter.com/search?q=%23NonALaReformeDesRetraites) | N/A |
-| 28 | [#CAC40](http://twitter.com/search?q=%23CAC40) | N/A |
-| 29 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 30 | [#grevedeseboueurs](http://twitter.com/search?q=%23grevedeseboueurs) | N/A |
-| 31 | [#banques](http://twitter.com/search?q=%23banques) | N/A |
-| 32 | [#orange](http://twitter.com/search?q=%23orange) | N/A |
-| 33 | [#64anscestnon](http://twitter.com/search?q=%2364anscestnon) | N/A |
-| 34 | [#TouchePasASophiaAram](http://twitter.com/search?q=%23TouchePasASophiaAram) | N/A |
-| 35 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 36 | [#CovidLong](http://twitter.com/search?q=%23CovidLong) | N/A |
-| 37 | [#NintendAlerts](http://twitter.com/search?q=%23NintendAlerts) | N/A |
-| 38 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
-| 39 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
-| 40 | [#MIPIM2023](http://twitter.com/search?q=%23MIPIM2023) | N/A |
+| 10 | [#CAC40](http://twitter.com/search?q=%23CAC40) | N/A |
+| 11 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 12 | [Sud Radio](http://twitter.com/search?q=Sud+Radio) | N/A |
+| 13 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
+| 14 | [Bourse de Paris](http://twitter.com/search?q=Bourse+de+Paris) | N/A |
+| 15 | [Calm](http://twitter.com/search?q=Calm) | N/A |
+| 16 | [Nono](http://twitter.com/search?q=Nono) | N/A |
+| 17 | [Lisnard](http://twitter.com/search?q=Lisnard) | N/A |
+| 18 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 19 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 20 | [le rn](http://twitter.com/search?q=le+rn) | N/A |
+| 21 | [Norvège](http://twitter.com/search?q=Norv%c3%a8ge) | N/A |
+| 22 | [Retirez](http://twitter.com/search?q=Retirez) | N/A |
+| 23 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 24 | [Disiz](http://twitter.com/search?q=Disiz) | N/A |
+| 25 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 26 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
+| 27 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
+| 28 | [#NonALaReformeDesRetraites](http://twitter.com/search?q=%23NonALaReformeDesRetraites) | N/A |
+| 29 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 30 | [#RolandGarros](http://twitter.com/search?q=%23RolandGarros) | N/A |
+| 31 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 32 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 33 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
+| 34 | [#64anscestnon](http://twitter.com/search?q=%2364anscestnon) | N/A |
+| 35 | [#banques](http://twitter.com/search?q=%23banques) | N/A |
+| 36 | [#grevedeseboueurs](http://twitter.com/search?q=%23grevedeseboueurs) | N/A |
+| 37 | [#TouchePasASophiaAram](http://twitter.com/search?q=%23TouchePasASophiaAram) | N/A |
+| 38 | [#CovidLong](http://twitter.com/search?q=%23CovidLong) | N/A |
+| 39 | [#CFDT](http://twitter.com/search?q=%23CFDT) | N/A |
 
 
 

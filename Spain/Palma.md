@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-15 13:20:58 UTC`
+📆 Last Updated: `2023-03-15 14:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 2 | [#VuelaCon7Play](http://twitter.com/search?q=%23VuelaCon7Play) | N/A |
-| 3 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 4 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
-| 5 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 6 | [Enrique Ossorio](http://twitter.com/search?q=Enrique+Ossorio) | N/A |
-| 7 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 8 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 9 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
-| 10 | [#UniformiNelDonare](http://twitter.com/search?q=%23UniformiNelDonare) | N/A |
-| 11 | [Hijes](http://twitter.com/search?q=Hijes) | N/A |
-| 12 | [Posición](http://twitter.com/search?q=Posici%c3%b3n) | N/A |
-| 13 | [C. Tangana](http://twitter.com/search?q=C.+Tangana) | N/A |
-| 14 | [#APOYOROCIO15M](http://twitter.com/search?q=%23APOYOROCIO15M) | N/A |
-| 15 | [#DIABLO4MM](http://twitter.com/search?q=%23DIABLO4MM) | N/A |
-| 16 | [Alfonso Guerra](http://twitter.com/search?q=Alfonso+Guerra) | N/A |
-| 17 | [CAN YAMAN FOR CHILDREN](http://twitter.com/search?q=CAN+YAMAN+FOR+CHILDREN) | N/A |
-| 18 | [Bleach](http://twitter.com/search?q=Bleach) | N/A |
-| 19 | [Blanca Portillo](http://twitter.com/search?q=Blanca+Portillo) | N/A |
-| 20 | [LA SANTA](http://twitter.com/search?q=LA+SANTA) | N/A |
-| 21 | [Impune](http://twitter.com/search?q=Impune) | N/A |
-| 22 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
-| 23 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
-| 24 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 25 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
+| 2 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 3 | [#VuelaCon7Play](http://twitter.com/search?q=%23VuelaCon7Play) | N/A |
+| 4 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 5 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
+| 6 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 7 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 8 | [Posición](http://twitter.com/search?q=Posici%c3%b3n) | N/A |
+| 9 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 10 | [Impune](http://twitter.com/search?q=Impune) | N/A |
+| 11 | [#LaRuletaDeLaSuerte](http://twitter.com/search?q=%23LaRuletaDeLaSuerte) | N/A |
+| 12 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
+| 13 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
+| 14 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
+| 15 | [#UniformiNelDonare](http://twitter.com/search?q=%23UniformiNelDonare) | N/A |
+| 16 | [C. Tangana](http://twitter.com/search?q=C.+Tangana) | N/A |
+| 17 | [la santa](http://twitter.com/search?q=la+santa) | N/A |
+| 18 | [Hijes](http://twitter.com/search?q=Hijes) | N/A |
+| 19 | [CAN YAMAN FOR CHILDREN](http://twitter.com/search?q=CAN+YAMAN+FOR+CHILDREN) | N/A |
+| 20 | [Blanca Portillo](http://twitter.com/search?q=Blanca+Portillo) | N/A |
+| 21 | [BLEACH](http://twitter.com/search?q=BLEACH) | N/A |
+| 22 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
+| 23 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 24 | [Alfonso Guerra](http://twitter.com/search?q=Alfonso+Guerra) | N/A |
+| 25 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
 | 26 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
-| 27 | [Derechos del Consumidor](http://twitter.com/search?q=Derechos+del+Consumidor) | N/A |
-| 28 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
-| 29 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 30 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
-| 31 | [Marta Ortega](http://twitter.com/search?q=Marta+Ortega) | N/A |
-| 32 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 33 | [Comunidad de Madrid](http://twitter.com/search?q=Comunidad+de+Madrid) | N/A |
-| 34 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 35 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 36 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 37 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 38 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
-| 39 | [El 15](http://twitter.com/search?q=El+15) | N/A |
-| 40 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 41 | [Lanzarote](http://twitter.com/search?q=Lanzarote) | N/A |
-| 42 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
-| 43 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 44 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
-| 45 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 46 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 47 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 48 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
+| 27 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
+| 28 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 29 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 30 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
+| 31 | [Comunidad de Madrid](http://twitter.com/search?q=Comunidad+de+Madrid) | N/A |
+| 32 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
+| 33 | [Bolsa](http://twitter.com/search?q=Bolsa) | N/A |
+| 34 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
+| 35 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
+| 36 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
+| 37 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 38 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 39 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 40 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
+| 41 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 42 | [Lanzarote](http://twitter.com/search?q=Lanzarote) | N/A |
+| 43 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 44 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
+| 45 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
+| 46 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
+| 47 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 48 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-15 13:21:41 UTC`
+📆 Last Updated: `2023-03-15 14:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SPARK10Pro](http://twitter.com/search?q=%23SPARK10Pro) | N/A |
-| 2 | [#TryMyJobwithOlah](http://twitter.com/search?q=%23TryMyJobwithOlah) | N/A |
-| 3 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
-| 4 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
-| 5 | [#itelcelebratesmum](http://twitter.com/search?q=%23itelcelebratesmum) | N/A |
+| 1 | [#TECNO](http://twitter.com/search?q=%23TECNO) | N/A |
+| 2 | [#SPARK10Pro](http://twitter.com/search?q=%23SPARK10Pro) | N/A |
+| 3 | [#TryMyJobwithOlah](http://twitter.com/search?q=%23TryMyJobwithOlah) | N/A |
+| 4 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
+| 5 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
 | 6 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
-| 7 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
-| 8 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
+| 7 | [Mr Macaroni](http://twitter.com/search?q=Mr+Macaroni) | N/A |
+| 8 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
 | 9 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 10 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 11 | [Lege](http://twitter.com/search?q=Lege) | N/A |
-| 12 | [The British](http://twitter.com/search?q=The+British) | N/A |
-| 13 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 14 | [RIDING WITH PHYNA](http://twitter.com/search?q=RIDING+WITH+PHYNA) | N/A |
-| 15 | [SUGARCOAT PHYNA](http://twitter.com/search?q=SUGARCOAT+PHYNA) | N/A |
-| 16 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 17 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
-| 18 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 19 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 10 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
+| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 12 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
+| 13 | [The British](http://twitter.com/search?q=The+British) | N/A |
+| 14 | [Baddo](http://twitter.com/search?q=Baddo) | N/A |
+| 15 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
+| 16 | [RIDING WITH PHYNA](http://twitter.com/search?q=RIDING+WITH+PHYNA) | N/A |
+| 17 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 18 | [Lege](http://twitter.com/search?q=Lege) | N/A |
+| 19 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
 | 20 | [Duck](http://twitter.com/search?q=Duck) | N/A |
-| 21 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 22 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 23 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
-| 24 | [Hallelujah](http://twitter.com/search?q=Hallelujah) | N/A |
-| 25 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
-| 26 | [Funke](http://twitter.com/search?q=Funke) | N/A |
-| 27 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 28 | [Oyetola](http://twitter.com/search?q=Oyetola) | Oyetola is a Yoruba name which means "God has done it". It is a popular name in Nigeria and other West African countries. |
-| 29 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
-| 30 | [Mike Igini](http://twitter.com/search?q=Mike+Igini) | N/A |
-| 31 | [Ajimobi](http://twitter.com/search?q=Ajimobi) | N/A |
+| 21 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 22 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
+| 23 | [Funke](http://twitter.com/search?q=Funke) | N/A |
+| 24 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 25 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
+| 26 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 27 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
+| 28 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 29 | [Hallelujah](http://twitter.com/search?q=Hallelujah) | N/A |
+| 30 | [oyetola](http://twitter.com/search?q=oyetola) | N/A |
+| 31 | [Mike Igini](http://twitter.com/search?q=Mike+Igini) | N/A |
 | 32 | [What God](http://twitter.com/search?q=What+God) | N/A |
-| 33 | [Admin](http://twitter.com/search?q=Admin) | N/A |
-| 34 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 35 | [2pac](http://twitter.com/search?q=2pac) | N/A |
-| 36 | [Zino](http://twitter.com/search?q=Zino) | N/A |
-| 37 | [Peter Mbah](http://twitter.com/search?q=Peter+Mbah) | N/A |
-| 38 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 39 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 40 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 41 | [Sabinus](http://twitter.com/search?q=Sabinus) | N/A |
-| 42 | [Adekunle Gold](http://twitter.com/search?q=Adekunle+Gold) | N/A |
-| 43 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 44 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
-| 45 | [The God](http://twitter.com/search?q=The+God) | N/A |
-| 46 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 47 | [Clout](http://twitter.com/search?q=Clout) | N/A |
-| 48 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
-| 49 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 50 | [#Olamide34](http://twitter.com/search?q=%23Olamide34) | N/A |
+| 33 | [2pac](http://twitter.com/search?q=2pac) | N/A |
+| 34 | [Zino](http://twitter.com/search?q=Zino) | N/A |
+| 35 | [Peter Mbah](http://twitter.com/search?q=Peter+Mbah) | N/A |
+| 36 | [Admin](http://twitter.com/search?q=Admin) | N/A |
+| 37 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 38 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 39 | [Adekunle Gold](http://twitter.com/search?q=Adekunle+Gold) | N/A |
+| 40 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 41 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
+| 42 | [#Davido](http://twitter.com/search?q=%23Davido) | N/A |
+| 43 | [#Olamide34](http://twitter.com/search?q=%23Olamide34) | N/A |
+| 44 | [#itelcelebratesmum](http://twitter.com/search?q=%23itelcelebratesmum) | N/A |
+| 45 | [#kibe](http://twitter.com/search?q=%23kibe) | N/A |
+| 46 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 47 | [#Reno8T](http://twitter.com/search?q=%23Reno8T) | N/A |
+| 48 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
 
 
 

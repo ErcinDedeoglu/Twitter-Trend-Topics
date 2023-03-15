@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-03-15 13:21:25 UTC`
+📆 Last Updated: `2023-03-15 14:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 2 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 1 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 2 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 3 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 5 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 6 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 4 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 6 | [Hurst](http://twitter.com/search?q=Hurst) | Hurst is a surname of English origin. It is derived from the Old English word hyrst, meaning "wooded hill". The name is most commonly associated with the village of Hurst in Berkshire, England. |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
 | 8 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 9 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 10 | [Cole Holcomb](http://twitter.com/search?q=Cole+Holcomb) | N/A |
-| 11 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 12 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
-| 13 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 14 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 15 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 16 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 17 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 18 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 19 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
-| 20 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 21 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
-| 22 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
-| 23 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 24 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
-| 25 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
-| 26 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 27 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 28 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 29 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
-| 30 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 31 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 32 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 33 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 34 | [Militia](http://twitter.com/search?q=Militia) | N/A |
-| 35 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 36 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 37 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 38 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 39 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 40 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 41 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 42 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 43 | [Overboard](http://twitter.com/search?q=Overboard) | N/A |
-| 44 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 45 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 46 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
-| 47 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 48 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 9 | [Cole Holcomb](http://twitter.com/search?q=Cole+Holcomb) | N/A |
+| 10 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
+| 11 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 12 | [Mint Mobile](http://twitter.com/search?q=Mint+Mobile) | N/A |
+| 13 | [Harty](http://twitter.com/search?q=Harty) | N/A |
+| 14 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
+| 15 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 16 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 17 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 18 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 19 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
+| 20 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 21 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 22 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 23 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
+| 24 | [Harmonious](http://twitter.com/search?q=Harmonious) | N/A |
+| 25 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 26 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 27 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
+| 28 | [Deep Ellum](http://twitter.com/search?q=Deep+Ellum) | N/A |
+| 29 | [$MSFT](http://twitter.com/search?q=%24MSFT) | MSFT is an abbreviation for Microsoft Corporation, a multinational technology company based in Redmond, Washington. Microsoft is best known for its Windows operating system and Office suite of productivity software. |
+| 30 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 31 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
+| 32 | [Wonderful Wednesday](http://twitter.com/search?q=Wonderful+Wednesday) | N/A |
+| 33 | [mitchell robinson](http://twitter.com/search?q=mitchell+robinson) | N/A |
+| 34 | [Saudi National Bank](http://twitter.com/search?q=Saudi+National+Bank) | N/A |
+| 35 | [Hines](http://twitter.com/search?q=Hines) | Hines is a surname of English origin. It is derived from the Old English personal name Hine, which was a short form of various compound names with the first element "hīwa" meaning "household". |
+| 36 | [Eida](http://twitter.com/search?q=Eida) | N/A |
+| 37 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
+| 38 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
+| 39 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
+| 40 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
+| 41 | [Sly Stone](http://twitter.com/search?q=Sly+Stone) | N/A |
+| 42 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
+| 43 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 44 | [Flaco](http://twitter.com/search?q=Flaco) | N/A |
+| 45 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
+| 46 | [Hyatt](http://twitter.com/search?q=Hyatt) | N/A |
+| 47 | [Define](http://twitter.com/search?q=Define) | N/A |
+| 48 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
 
 
 

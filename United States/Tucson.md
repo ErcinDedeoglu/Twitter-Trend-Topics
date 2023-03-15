@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-03-15 13:21:34 UTC`
+📆 Last Updated: `2023-03-15 14:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 2 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 4 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 3 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 5 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 8 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 9 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 6 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 8 | [Hurst](http://twitter.com/search?q=Hurst) | Hurst is a surname of English origin. It is derived from the Old English word hyrst, meaning "wooded hill". The name is most commonly associated with the village of Hurst in Berkshire, England. |
+| 9 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 10 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
 | 11 | [Cole Holcomb](http://twitter.com/search?q=Cole+Holcomb) | N/A |
-| 12 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 13 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 14 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
-| 15 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 16 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 17 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 18 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 19 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 20 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 21 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
-| 22 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 23 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
-| 24 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
-| 25 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 26 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
-| 27 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
-| 28 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 29 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 30 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 31 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 32 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
-| 33 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 34 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 35 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 36 | [Militia](http://twitter.com/search?q=Militia) | N/A |
-| 37 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 38 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 39 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 40 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 41 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 42 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 43 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 44 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 45 | [Overboard](http://twitter.com/search?q=Overboard) | N/A |
-| 46 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 47 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 48 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 49 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
+| 12 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
+| 13 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 14 | [Mint Mobile](http://twitter.com/search?q=Mint+Mobile) | N/A |
+| 15 | [Harty](http://twitter.com/search?q=Harty) | N/A |
+| 16 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
+| 17 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 18 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 19 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 20 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 21 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
+| 22 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 23 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 24 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 25 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
+| 26 | [Harmonious](http://twitter.com/search?q=Harmonious) | N/A |
+| 27 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 28 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 29 | [Deep Ellum](http://twitter.com/search?q=Deep+Ellum) | N/A |
+| 30 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
+| 31 | [$MSFT](http://twitter.com/search?q=%24MSFT) | MSFT is an abbreviation for Microsoft Corporation, a multinational technology company based in Redmond, Washington. Microsoft is best known for its Windows operating system and Office suite of productivity software. |
+| 32 | [Hines](http://twitter.com/search?q=Hines) | Hines is a surname of English origin. It is derived from the Old English personal name Hine, which was a short form of various compound names with the first element "hīwa" meaning "household". |
+| 33 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 34 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
+| 35 | [Wonderful Wednesday](http://twitter.com/search?q=Wonderful+Wednesday) | N/A |
+| 36 | [Mitchell Robinson](http://twitter.com/search?q=Mitchell+Robinson) | Mitchell Robinson is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected in the second round of the 2018 NBA draft. His name is derived from his father's middle name, Mitchell. |
+| 37 | [Saudi National Bank](http://twitter.com/search?q=Saudi+National+Bank) | N/A |
+| 38 | [Eida](http://twitter.com/search?q=Eida) | N/A |
+| 39 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
+| 40 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
+| 41 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
+| 42 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
+| 43 | [Sly Stone](http://twitter.com/search?q=Sly+Stone) | N/A |
+| 44 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
+| 45 | [Flaco](http://twitter.com/search?q=Flaco) | N/A |
+| 46 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 47 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
+| 48 | [Hyatt](http://twitter.com/search?q=Hyatt) | N/A |
+| 49 | [Define](http://twitter.com/search?q=Define) | N/A |
 
 
 

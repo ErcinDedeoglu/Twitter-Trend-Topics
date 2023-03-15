@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-03-15 13:20:45 UTC`
+📆 Last Updated: `2023-03-15 14:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 2 | [#SinYolanda](http://twitter.com/search?q=%23SinYolanda) | N/A |
-| 3 | [#LMD6](http://twitter.com/search?q=%23LMD6) | N/A |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [#QueMaravilla](http://twitter.com/search?q=%23QueMaravilla) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#ConMiQuincena](http://twitter.com/search?q=%23ConMiQuincena) | N/A |
-| 8 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 10 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 11 | [live con eve](http://twitter.com/search?q=live+con+eve) | N/A |
-| 12 | [Alexis Wilson](http://twitter.com/search?q=Alexis+Wilson) | N/A |
-| 13 | [reimers](http://twitter.com/search?q=reimers) | N/A |
-| 14 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 2 | [#KornoQuieroViveLatino](http://twitter.com/search?q=%23KornoQuieroViveLatino) | N/A |
+| 3 | [#SinYolanda](http://twitter.com/search?q=%23SinYolanda) | N/A |
+| 4 | [#LMD6](http://twitter.com/search?q=%23LMD6) | N/A |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 6 | [#PsicodeliaMañanera](http://twitter.com/search?q=%23PsicodeliaMa%c3%b1anera) | N/A |
+| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 10 | [San Sebastián de Aparicio](http://twitter.com/search?q=San+Sebasti%c3%a1n+de+Aparicio) | N/A |
+| 11 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 12 | [live con eve](http://twitter.com/search?q=live+con+eve) | N/A |
+| 13 | [Alexis Wilson](http://twitter.com/search?q=Alexis+Wilson) | N/A |
+| 14 | [AICM](http://twitter.com/search?q=AICM) | N/A |
 | 15 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 16 | [MATI MEDAL HOLDER](http://twitter.com/search?q=MATI+MEDAL+HOLDER) | N/A |
-| 17 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
-| 18 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 19 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 20 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 21 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
-| 22 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 23 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 24 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 25 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
-| 26 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 27 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 28 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 29 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 30 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 31 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 32 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
-| 33 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 34 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 35 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 36 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
-| 37 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
-| 38 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 39 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 40 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
-| 41 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 42 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 43 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
-| 44 | [John Krasinski](http://twitter.com/search?q=John+Krasinski) | N/A |
-| 45 | [Ofelia Medina](http://twitter.com/search?q=Ofelia+Medina) | N/A |
-| 46 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
-| 47 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 48 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
-| 49 | [Alejandro Zendejas](http://twitter.com/search?q=Alejandro+Zendejas) | N/A |
-| 50 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 16 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 17 | [mati medal holder](http://twitter.com/search?q=mati+medal+holder) | N/A |
+| 18 | [Derechos del Consumidor](http://twitter.com/search?q=Derechos+del+Consumidor) | N/A |
+| 19 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
+| 20 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 21 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 22 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
+| 23 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 24 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 25 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
+| 26 | [Loret](http://twitter.com/search?q=Loret) | N/A |
+| 27 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 28 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 29 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
+| 30 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 31 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 32 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 33 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 34 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 35 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 36 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 37 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 38 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 39 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 40 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
+| 41 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
+| 42 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 43 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 44 | [Segob](http://twitter.com/search?q=Segob) | N/A |
+| 45 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 46 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
+| 47 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 48 | [John Krasinski](http://twitter.com/search?q=John+Krasinski) | N/A |
+| 49 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 50 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
 
 
 

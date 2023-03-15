@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-15 13:21:41 UTC`
+📆 Last Updated: `2023-03-15 14:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for New Zealand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 1 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 2 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
-| 3 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 3 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
 | 4 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
 | 5 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
 | 6 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |

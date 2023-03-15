@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-15 13:20:56 UTC`
+📆 Last Updated: `2023-03-15 14:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,48 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 3 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 1 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 2 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
+| 3 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
 | 4 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 5 | [#EntkriminalisierungSofort](http://twitter.com/search?q=%23EntkriminalisierungSofort) | N/A |
+| 5 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
 | 6 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 7 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 8 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 8 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
 | 9 | [Robert](http://twitter.com/search?q=Robert) | N/A |
 | 10 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
 | 11 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 12 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 13 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 14 | [Skier](http://twitter.com/search?q=Skier) | N/A |
-| 15 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 16 | [Telegram-Kanal](http://twitter.com/search?q=Telegram-Kanal) | N/A |
-| 17 | [Wartezeit](http://twitter.com/search?q=Wartezeit) | N/A |
-| 18 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 19 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 20 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
-| 21 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 22 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 23 | [Code](http://twitter.com/search?q=Code) | N/A |
-| 24 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 25 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 26 | [Cancel Culture](http://twitter.com/search?q=Cancel+Culture) | N/A |
-| 27 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 28 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
-| 29 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 30 | [#Klimaziele](http://twitter.com/search?q=%23Klimaziele) | N/A |
-| 31 | [#MECFS](http://twitter.com/search?q=%23MECFS) | N/A |
-| 32 | [#Verkehr](http://twitter.com/search?q=%23Verkehr) | N/A |
-| 33 | [#PickMEupBettina](http://twitter.com/search?q=%23PickMEupBettina) | N/A |
-| 34 | [#DEXIT](http://twitter.com/search?q=%23DEXIT) | N/A |
-| 35 | [#GrueneInkompetenz](http://twitter.com/search?q=%23GrueneInkompetenz) | N/A |
-| 36 | [#Polizeigewalt](http://twitter.com/search?q=%23Polizeigewalt) | N/A |
-| 37 | [#Weedmob](http://twitter.com/search?q=%23Weedmob) | N/A |
-| 38 | [#PostVac](http://twitter.com/search?q=%23PostVac) | N/A |
-| 39 | [#Bundestag](http://twitter.com/search?q=%23Bundestag) | N/A |
-| 40 | [#GrueneRausausdenParlamenten](http://twitter.com/search?q=%23GrueneRausausdenParlamenten) | N/A |
-| 41 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
+| 12 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 13 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 14 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 15 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 16 | [Doku](http://twitter.com/search?q=Doku) | N/A |
+| 17 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 18 | [Wartezeit](http://twitter.com/search?q=Wartezeit) | N/A |
+| 19 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 20 | [Mail](http://twitter.com/search?q=Mail) | N/A |
+| 21 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 22 | [Code](http://twitter.com/search?q=Code) | N/A |
+| 23 | [Anmeldung](http://twitter.com/search?q=Anmeldung) | N/A |
+| 24 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
+| 25 | [Emissionen](http://twitter.com/search?q=Emissionen) | N/A |
+| 26 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 27 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 28 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 29 | [Cancel Culture](http://twitter.com/search?q=Cancel+Culture) | N/A |
+| 30 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 31 | [#EntkriminalisierungSofort](http://twitter.com/search?q=%23EntkriminalisierungSofort) | N/A |
+| 32 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
+| 33 | [#MECFS](http://twitter.com/search?q=%23MECFS) | N/A |
+| 34 | [#Klimaziele](http://twitter.com/search?q=%23Klimaziele) | N/A |
+| 35 | [#Verkehr](http://twitter.com/search?q=%23Verkehr) | N/A |
+| 36 | [#PickMEupBettina](http://twitter.com/search?q=%23PickMEupBettina) | N/A |
+| 37 | [#DEXIT](http://twitter.com/search?q=%23DEXIT) | N/A |
+| 38 | [#Polizeigewalt](http://twitter.com/search?q=%23Polizeigewalt) | N/A |
+| 39 | [#GrueneInkompetenz](http://twitter.com/search?q=%23GrueneInkompetenz) | N/A |
+| 40 | [#PostVac](http://twitter.com/search?q=%23PostVac) | N/A |
+| 41 | [#Bundestag](http://twitter.com/search?q=%23Bundestag) | N/A |
+| 42 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
 
 
 

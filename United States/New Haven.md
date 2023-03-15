@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-03-15 13:21:31 UTC`
+📆 Last Updated: `2023-03-15 14:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 2 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 1 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 2 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 3 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 5 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 6 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 7 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 8 | [Cole Holcomb](http://twitter.com/search?q=Cole+Holcomb) | N/A |
-| 9 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 10 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 11 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 12 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
-| 13 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 14 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 15 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 16 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 17 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 18 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 19 | [Wonderful Wednesday](http://twitter.com/search?q=Wonderful+Wednesday) | N/A |
-| 20 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
-| 21 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 22 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
-| 23 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
-| 24 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 25 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
-| 26 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
-| 27 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 28 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 29 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 30 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 31 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
-| 32 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 33 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 34 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 35 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 36 | [Militia](http://twitter.com/search?q=Militia) | N/A |
-| 37 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 38 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 39 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 40 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 41 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 42 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 43 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 44 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 4 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 6 | [Hurst](http://twitter.com/search?q=Hurst) | Hurst is a surname of English origin. It is derived from the Old English word hyrst, meaning "wooded hill". The name is most commonly associated with the village of Hurst in Berkshire, England. |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 9 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
+| 10 | [Cole Holcomb](http://twitter.com/search?q=Cole+Holcomb) | N/A |
+| 11 | [Harty](http://twitter.com/search?q=Harty) | N/A |
+| 12 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 13 | [Mint Mobile](http://twitter.com/search?q=Mint+Mobile) | N/A |
+| 14 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
+| 15 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 16 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 17 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 18 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 19 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
+| 20 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 21 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 22 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 23 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
+| 24 | [Harmonious](http://twitter.com/search?q=Harmonious) | N/A |
+| 25 | [Hines](http://twitter.com/search?q=Hines) | Hines is a surname of English origin. It is derived from the Old English personal name Hine, which was a short form of various compound names with the first element "hīwa" meaning "household". |
+| 26 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 27 | [Deep Ellum](http://twitter.com/search?q=Deep+Ellum) | N/A |
+| 28 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 29 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
+| 30 | [$MSFT](http://twitter.com/search?q=%24MSFT) | MSFT is an abbreviation for Microsoft Corporation, a multinational technology company based in Redmond, Washington. Microsoft is best known for its Windows operating system and Office suite of productivity software. |
+| 31 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 32 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
+| 33 | [Wonderful Wednesday](http://twitter.com/search?q=Wonderful+Wednesday) | N/A |
+| 34 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
+| 35 | [Saudi National Bank](http://twitter.com/search?q=Saudi+National+Bank) | N/A |
+| 36 | [mitchell robinson](http://twitter.com/search?q=mitchell+robinson) | N/A |
+| 37 | [Eida](http://twitter.com/search?q=Eida) | N/A |
+| 38 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
+| 39 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
+| 40 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
+| 41 | [Sly Stone](http://twitter.com/search?q=Sly+Stone) | N/A |
+| 42 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
+| 43 | [Flaco](http://twitter.com/search?q=Flaco) | N/A |
+| 44 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
 
 
 
