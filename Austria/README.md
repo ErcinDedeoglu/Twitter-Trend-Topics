@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-15 04:16:52 UTC`
+📆 Last Updated: `2023-03-15 05:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [doskozil](http://twitter.com/search?q=doskozil) | N/A |
-| 2 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
-| 3 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
-| 4 | [seilbahn](http://twitter.com/search?q=seilbahn) | N/A |
-| 5 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 6 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 7 | [parteitag](http://twitter.com/search?q=parteitag) | N/A |
-| 8 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 9 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 10 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 11 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [burgenland](http://twitter.com/search?q=burgenland) | N/A |
-| 14 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
-| 15 | [#neanderhammer](http://twitter.com/search?q=%23neanderhammer) | N/A |
-| 16 | [mietpreisbremse](http://twitter.com/search?q=mietpreisbremse) | N/A |
-| 17 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 18 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 19 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 20 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 21 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
-| 22 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 23 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 24 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
-| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 26 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 27 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 28 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
-| 29 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 30 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 31 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
-| 32 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 33 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 34 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 35 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 36 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
-| 37 | [#klimaglück](http://twitter.com/search?q=%23klimagl%c3%bcck) | N/A |
-| 38 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
-| 39 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 40 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 41 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 42 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 43 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 44 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 45 | [spö-parteivorsitz](http://twitter.com/search?q=sp%c3%b6-parteivorsitz) | N/A |
-| 46 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
-| 47 | [Austrian](http://twitter.com/search?q=Austrian) | N/A |
-| 48 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 49 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 50 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
+| 1 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 3 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
+| 4 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
+| 5 | [mitgliederbefragung](http://twitter.com/search?q=mitgliederbefragung) | N/A |
+| 6 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
+| 7 | [seilbahn](http://twitter.com/search?q=seilbahn) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [mietpreisbremse](http://twitter.com/search?q=mietpreisbremse) | N/A |
+| 10 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
+| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 13 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 14 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
+| 15 | [#Neanderhammer](http://twitter.com/search?q=%23Neanderhammer) | N/A |
+| 16 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 17 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 18 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 19 | [#klimaglück](http://twitter.com/search?q=%23klimagl%c3%bcck) | N/A |
+| 20 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 21 | [Walach](http://twitter.com/search?q=Walach) | N/A |
+| 22 | [steuergeld](http://twitter.com/search?q=steuergeld) | N/A |
+| 23 | [spö-parteivorsitz](http://twitter.com/search?q=sp%c3%b6-parteivorsitz) | N/A |
+| 24 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 25 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 26 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 27 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 28 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
+| 29 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 30 | [Variante](http://twitter.com/search?q=Variante) | N/A |
+| 31 | [urabstimmung](http://twitter.com/search?q=urabstimmung) | N/A |
+| 32 | [ärztin](http://twitter.com/search?q=%c3%a4rztin) | N/A |
+| 33 | [mikl-leitner](http://twitter.com/search?q=mikl-leitner) | N/A |
+| 34 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 35 | [Beruf](http://twitter.com/search?q=Beruf) | N/A |
+| 36 | [Überraschung](http://twitter.com/search?q=%c3%9cberraschung) | N/A |
+| 37 | [Bereich](http://twitter.com/search?q=Bereich) | N/A |
+| 38 | [statut](http://twitter.com/search?q=statut) | N/A |
+| 39 | [spitze](http://twitter.com/search?q=spitze) | N/A |
+| 40 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
+| 41 | [Pickerl](http://twitter.com/search?q=Pickerl) | N/A |
+| 42 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 43 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
+| 44 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 45 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 46 | [oida](http://twitter.com/search?q=oida) | N/A |
+| 47 | [Miete](http://twitter.com/search?q=Miete) | N/A |
+| 48 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 49 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 
 
 

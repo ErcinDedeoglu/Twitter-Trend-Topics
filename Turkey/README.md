@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-15 04:16:59 UTC`
+📆 Last Updated: `2023-03-15 05:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Turkey
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
-| 2 | [#TOGG](http://twitter.com/search?q=%23TOGG) | N/A |
-| 3 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 4 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
-| 5 | [#BCEO](http://twitter.com/search?q=%23BCEO) | N/A |
-| 6 | [AlparslanHocaya TelefonYasağı](http://twitter.com/search?q=AlparslanHocaya+TelefonYasa%c4%9f%c4%b1) | N/A |
-| 7 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 2 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
+| 3 | [#TOGG](http://twitter.com/search?q=%23TOGG) | N/A |
+| 4 | [#41MilyarLira](http://twitter.com/search?q=%2341MilyarLira) | N/A |
+| 5 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
+| 6 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 7 | [AlparslanHocaya TelefonYasağı](http://twitter.com/search?q=AlparslanHocaya+TelefonYasa%c4%9f%c4%b1) | N/A |
 | 8 | [dibyedeklericinakademi](http://twitter.com/search?q=dibyedeklericinakademi) | N/A |
-| 9 | [BahçeliSözü MahkumaAF](http://twitter.com/search?q=Bah%c3%a7eliS%c3%b6z%c3%bc+MahkumaAF) | N/A |
-| 10 | [denkliksorununucozun](http://twitter.com/search?q=denkliksorununucozun) | N/A |
-| 11 | [35yaşsınırı torbayasaya](http://twitter.com/search?q=35ya%c5%9fs%c4%b1n%c4%b1r%c4%b1+torbayasaya) | N/A |
-| 12 | [emel uslu atik](http://twitter.com/search?q=emel+uslu+atik) | N/A |
-| 13 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
-| 14 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 15 | [mebohalde şartsıztayin](http://twitter.com/search?q=mebohalde+%c5%9farts%c4%b1ztayin) | N/A |
-| 16 | [Konda](http://twitter.com/search?q=Konda) | N/A |
-| 17 | [SABAH YALAN AKŞAM YALAN](http://twitter.com/search?q=SABAH+YALAN+AK%c5%9eAM+YALAN) | N/A |
-| 18 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 9 | [denkliksorununucozun](http://twitter.com/search?q=denkliksorununucozun) | N/A |
+| 10 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 11 | [emel uslu atik](http://twitter.com/search?q=emel+uslu+atik) | N/A |
+| 12 | [BahçeliSözü MahkumaAF](http://twitter.com/search?q=Bah%c3%a7eliS%c3%b6z%c3%bc+MahkumaAF) | N/A |
+| 13 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
+| 14 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 15 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 16 | [35YaşSınırı TorbaYasaya](http://twitter.com/search?q=35Ya%c5%9fS%c4%b1n%c4%b1r%c4%b1+TorbaYasaya) | N/A |
+| 17 | [mebohalde şartsıztayin](http://twitter.com/search?q=mebohalde+%c5%9farts%c4%b1ztayin) | N/A |
+| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 19 | [depremşartlı yapıkayıt](http://twitter.com/search?q=deprem%c5%9fartl%c4%b1+yap%c4%b1kay%c4%b1t) | N/A |
-| 20 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
-| 21 | [beni türk](http://twitter.com/search?q=beni+t%c3%bcrk) | N/A |
-| 22 | [asrın dayanışması](http://twitter.com/search?q=asr%c4%b1n+dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 23 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 24 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
-| 25 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
-| 26 | [rus su-27](http://twitter.com/search?q=rus+su-27) | N/A |
-| 27 | [yapıkayıt mağdurları](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+ma%c4%9fdurlar%c4%b1) | N/A |
-| 28 | [emine ülker tarhan](http://twitter.com/search?q=emine+%c3%bclker+tarhan) | N/A |
-| 29 | [esnafsuçlu değilborçlu](http://twitter.com/search?q=esnafsu%c3%a7lu+de%c4%9filbor%c3%a7lu) | N/A |
-| 30 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 31 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 32 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
-| 33 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
-| 34 | [fatih tekke](http://twitter.com/search?q=fatih+tekke) | N/A |
-| 35 | [sosyal bilgiler](http://twitter.com/search?q=sosyal+bilgiler) | N/A |
+| 20 | [Konda](http://twitter.com/search?q=Konda) | N/A |
+| 21 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
+| 22 | [beni türk](http://twitter.com/search?q=beni+t%c3%bcrk) | N/A |
+| 23 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 24 | [birlikte aşıyoruz](http://twitter.com/search?q=birlikte+a%c5%9f%c4%b1yoruz) | N/A |
+| 25 | [asrın dayanışması](http://twitter.com/search?q=asr%c4%b1n+dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 26 | [Kurtlar Vadisi](http://twitter.com/search?q=Kurtlar+Vadisi) | N/A |
+| 27 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 28 | [otocost otomotivasistanınız](http://twitter.com/search?q=otocost+otomotivasistan%c4%b1n%c4%b1z) | N/A |
+| 29 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 30 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
+| 31 | [esnafsuçlu değilborçlu](http://twitter.com/search?q=esnafsu%c3%a7lu+de%c4%9filbor%c3%a7lu) | N/A |
+| 32 | [cumhur ittifaki kazanacak](http://twitter.com/search?q=cumhur+ittifaki+kazanacak) | N/A |
+| 33 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 34 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 35 | [Rus Su-27](http://twitter.com/search?q=Rus+Su-27) | N/A |
 | 36 | [Barış Yıldız](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Y%c4%b1ld%c4%b1z) | N/A |
 | 37 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
-| 38 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
-| 39 | [AfSizden OyBizden](http://twitter.com/search?q=AfSizden+OyBizden) | N/A |
-| 40 | [haluk bilginer](http://twitter.com/search?q=haluk+bilginer) | N/A |
-| 41 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 42 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
-| 43 | [953 bin](http://twitter.com/search?q=953+bin) | N/A |
-| 44 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 45 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
-| 46 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 39 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
+| 40 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
+| 41 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
+| 42 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 43 | [Malatya Valiliği](http://twitter.com/search?q=Malatya+Valili%c4%9fi) | N/A |
+| 44 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
+| 45 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 46 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
+| 47 | [HÜDA PAR](http://twitter.com/search?q=H%c3%9cDA+PAR) | N/A |
 | 48 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 49 | [HÜDA PAR](http://twitter.com/search?q=H%c3%9cDA+PAR) | N/A |
-| 50 | [Yerli](http://twitter.com/search?q=Yerli) | N/A |
+| 49 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 50 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
 
 
 

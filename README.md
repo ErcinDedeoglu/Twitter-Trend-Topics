@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-15 04:16:05 UTC`
+📆 Last Updated: `2023-03-15 05:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,53 +23,53 @@ This is top 50
 | 1 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
 | 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
 | 3 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 4 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 5 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
-| 6 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 7 | [HACKEARAM A RAINHA](http://twitter.com/search?q=HACKEARAM+A+RAINHA) | N/A |
-| 8 | [#ゴンチャの新作](http://twitter.com/search?q=%23%e3%82%b4%e3%83%b3%e3%83%81%e3%83%a3%e3%81%ae%e6%96%b0%e4%bd%9c) | "#ゴンチャの新作" is a hashtag used on social media to refer to the latest release from the Japanese toy company, GONCHA. In English, it translates to "Goncha's New Release". |
-| 9 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 10 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
-| 11 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 13 | [大根ザシアン](http://twitter.com/search?q=%e5%a4%a7%e6%a0%b9%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
-| 14 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 15 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 16 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 17 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
-| 20 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 21 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
-| 22 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 23 | [Nachito](http://twitter.com/search?q=Nachito) | N/A |
-| 24 | [Paul Keating](http://twitter.com/search?q=Paul+Keating) | N/A |
-| 25 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
-| 26 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 27 | [コーラフラペチーノ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
-| 28 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 29 | [MC LEE](http://twitter.com/search?q=MC+LEE) | N/A |
-| 30 | [BIRTH Campaign](http://twitter.com/search?q=BIRTH+Campaign) | N/A |
-| 31 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 32 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 33 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 34 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 35 | [False Rape Cases](http://twitter.com/search?q=False+Rape+Cases) | N/A |
-| 36 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 37 | [池﨑理人](http://twitter.com/search?q=%e6%b1%a0%ef%a8%91%e7%90%86%e4%ba%ba) | N/A |
-| 38 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 39 | [Classic Example](http://twitter.com/search?q=Classic+Example) | N/A |
-| 40 | [アリゼー](http://twitter.com/search?q=%e3%82%a2%e3%83%aa%e3%82%bc%e3%83%bc) | N/A |
-| 41 | [ignition](http://twitter.com/search?q=ignition) | N/A |
-| 42 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 43 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 44 | [Tesi](http://twitter.com/search?q=Tesi) | N/A |
-| 45 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 46 | [髙塚大夢](http://twitter.com/search?q=%e9%ab%99%e5%a1%9a%e5%a4%a7%e5%a4%a2) | N/A |
-| 47 | [baby shark](http://twitter.com/search?q=baby+shark) | N/A |
-| 48 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 49 | [VT da Sarah](http://twitter.com/search?q=VT+da+Sarah) | N/A |
-| 50 | [ひらパー](http://twitter.com/search?q=%e3%81%b2%e3%82%89%e3%83%91%e3%83%bc) | N/A |
+| 4 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 5 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 6 | [大根ザシアン](http://twitter.com/search?q=%e5%a4%a7%e6%a0%b9%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
+| 7 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 8 | [#LMD6](http://twitter.com/search?q=%23LMD6) | N/A |
+| 9 | [コーラフラペチーノ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 10 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
+| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 12 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 13 | [#BlueOceanForBiu](http://twitter.com/search?q=%23BlueOceanForBiu) | N/A |
+| 14 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 15 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
+| 16 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 17 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 18 | [米津さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
+| 19 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 20 | [Troglio](http://twitter.com/search?q=Troglio) | N/A |
+| 21 | [MC LEE](http://twitter.com/search?q=MC+LEE) | N/A |
+| 22 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 23 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 24 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 25 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 26 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
+| 27 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
+| 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 29 | [少数意見](http://twitter.com/search?q=%e5%b0%91%e6%95%b0%e6%84%8f%e8%a6%8b) | N/A |
+| 30 | [中王区のリンライ](http://twitter.com/search?q=%e4%b8%ad%e7%8e%8b%e5%8c%ba%e3%81%ae%e3%83%aa%e3%83%b3%e3%83%a9%e3%82%a4) | N/A |
+| 31 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 32 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 33 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
+| 34 | [アリゼー](http://twitter.com/search?q=%e3%82%a2%e3%83%aa%e3%82%bc%e3%83%bc) | N/A |
+| 35 | [Deuce McBride](http://twitter.com/search?q=Deuce+McBride) | N/A |
+| 36 | [HACKEARAM A RAINHA](http://twitter.com/search?q=HACKEARAM+A+RAINHA) | N/A |
+| 37 | [Alexis Wilson](http://twitter.com/search?q=Alexis+Wilson) | N/A |
+| 38 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 39 | [ignition](http://twitter.com/search?q=ignition) | N/A |
+| 40 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 41 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
+| 42 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 43 | [ひらパー](http://twitter.com/search?q=%e3%81%b2%e3%82%89%e3%83%91%e3%83%bc) | N/A |
+| 44 | [BIRTH Campaign](http://twitter.com/search?q=BIRTH+Campaign) | N/A |
+| 45 | [破械新規](http://twitter.com/search?q=%e7%a0%b4%e6%a2%b0%e6%96%b0%e8%a6%8f) | N/A |
+| 46 | [MATI MEDAL HOLDER](http://twitter.com/search?q=MATI+MEDAL+HOLDER) | N/A |
+| 47 | [新興国支援](http://twitter.com/search?q=%e6%96%b0%e8%88%88%e5%9b%bd%e6%94%af%e6%8f%b4) | N/A |
+| 48 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
+| 49 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 50 | [マンタロー](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%bf%e3%83%ad%e3%83%bc) | マンタロー is a Japanese phrase that literally translates to "manta ray". It is often used as a metaphor for someone who is very relaxed and laid-back. |
 
 
 

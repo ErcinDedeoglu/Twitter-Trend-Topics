@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-15 04:16:49 UTC`
+📆 Last Updated: `2023-03-15 05:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 2 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 3 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 4 | [Canadiens](http://twitter.com/search?q=Canadiens) | N/A |
-| 5 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 6 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 7 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 8 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 9 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 10 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 11 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 12 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 13 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 14 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 15 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 16 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 17 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 18 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 19 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 20 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 21 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 22 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 23 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
-| 24 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 25 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
-| 26 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 27 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 28 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 29 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 31 | [HAIL TO PITT](http://twitter.com/search?q=HAIL+TO+PITT) | N/A |
-| 32 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 33 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
-| 34 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 35 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 36 | [Charity](http://twitter.com/search?q=Charity) | N/A |
-| 37 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
-| 38 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 39 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 40 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 41 | [Tolu](http://twitter.com/search?q=Tolu) | N/A |
-| 42 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
-| 43 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 44 | [Steven Crowl](http://twitter.com/search?q=Steven+Crowl) | N/A |
-| 45 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 46 | [Diaz Graham](http://twitter.com/search?q=Diaz+Graham) | N/A |
-| 47 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 48 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
-| 49 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
-| 50 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 1 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 2 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
+| 3 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 4 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 5 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
+| 6 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 7 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 8 | [Define](http://twitter.com/search?q=Define) | N/A |
+| 9 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 10 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 11 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 12 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 13 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 14 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 15 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 16 | [Deuce McBride](http://twitter.com/search?q=Deuce+McBride) | N/A |
+| 17 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 18 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 19 | [HAIL TO PITT](http://twitter.com/search?q=HAIL+TO+PITT) | N/A |
+| 20 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
+| 21 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 22 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
+| 23 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 24 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 25 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 26 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 27 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 28 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
+| 29 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 30 | [Blake Hinson](http://twitter.com/search?q=Blake+Hinson) | N/A |
+| 31 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
+| 32 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 33 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 34 | [Eklund](http://twitter.com/search?q=Eklund) | N/A |
+| 35 | [Jeff Capel](http://twitter.com/search?q=Jeff+Capel) | N/A |
+| 36 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
+| 37 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
+| 38 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 39 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 40 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 41 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 42 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 43 | [Duece](http://twitter.com/search?q=Duece) | N/A |
+| 44 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
+| 45 | [Chris Jans](http://twitter.com/search?q=Chris+Jans) | N/A |
+| 46 | [Happily Ever After](http://twitter.com/search?q=Happily+Ever+After) | N/A |
+| 47 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
+| 48 | [Avery Johnson](http://twitter.com/search?q=Avery+Johnson) | N/A |
+| 49 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
+| 50 | [Taylor Raddysh](http://twitter.com/search?q=Taylor+Raddysh) | N/A |
 
 
 

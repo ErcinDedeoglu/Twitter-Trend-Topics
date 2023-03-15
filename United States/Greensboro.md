@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-03-15 04:16:46 UTC`
+📆 Last Updated: `2023-03-15 05:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BCEO](http://twitter.com/search?q=%23BCEO) | N/A |
-| 2 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 3 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 4 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 2 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 3 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 4 | [Monty](http://twitter.com/search?q=Monty) | N/A |
 | 5 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 6 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 7 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 8 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 9 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 10 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 11 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 12 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 13 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 14 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 15 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 16 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 17 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
-| 18 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 19 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 20 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
-| 21 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 22 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 23 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 24 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 25 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
-| 26 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 27 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 28 | [HAIL TO PITT](http://twitter.com/search?q=HAIL+TO+PITT) | N/A |
-| 29 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 30 | [Charity](http://twitter.com/search?q=Charity) | N/A |
-| 31 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
-| 32 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 33 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 34 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 35 | [Tolu](http://twitter.com/search?q=Tolu) | N/A |
-| 36 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
-| 37 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 38 | [Steven Crowl](http://twitter.com/search?q=Steven+Crowl) | N/A |
-| 39 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 40 | [Diaz Graham](http://twitter.com/search?q=Diaz+Graham) | N/A |
-| 41 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 42 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
-| 43 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
-| 44 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 45 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 46 | [Zardes](http://twitter.com/search?q=Zardes) | N/A |
-| 47 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 48 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
-| 49 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
-| 50 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
+| 6 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 7 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 8 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 9 | [Deuce McBride](http://twitter.com/search?q=Deuce+McBride) | N/A |
+| 10 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 11 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 12 | [HAIL TO PITT](http://twitter.com/search?q=HAIL+TO+PITT) | N/A |
+| 13 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
+| 14 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 15 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
+| 16 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 17 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 18 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 19 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 20 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 21 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
+| 22 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 23 | [Blake Hinson](http://twitter.com/search?q=Blake+Hinson) | N/A |
+| 24 | [#FirstFour](http://twitter.com/search?q=%23FirstFour) | N/A |
+| 25 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 26 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 27 | [Eklund](http://twitter.com/search?q=Eklund) | N/A |
+| 28 | [Jeff Capel](http://twitter.com/search?q=Jeff+Capel) | N/A |
+| 29 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
+| 30 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
+| 31 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 32 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 33 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 34 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 35 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 36 | [Duece](http://twitter.com/search?q=Duece) | N/A |
+| 37 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
+| 38 | [Chris Jans](http://twitter.com/search?q=Chris+Jans) | N/A |
+| 39 | [Happily Ever After](http://twitter.com/search?q=Happily+Ever+After) | N/A |
+| 40 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
+| 41 | [Avery Johnson](http://twitter.com/search?q=Avery+Johnson) | N/A |
+| 42 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
+| 43 | [Taylor Raddysh](http://twitter.com/search?q=Taylor+Raddysh) | N/A |
+| 44 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
+| 45 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 46 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
+| 47 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 48 | [Tolu](http://twitter.com/search?q=Tolu) | N/A |
+| 49 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 50 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
 
 
 
