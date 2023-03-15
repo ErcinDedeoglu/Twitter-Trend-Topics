@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-15 06:17:08 UTC`
+📆 Last Updated: `2023-03-15 07:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#kohlanta](http://twitter.com/search?q=%23kohlanta) | N/A |
-| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 4 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 5 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 4 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 5 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 7 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
 | 8 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 9 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 10 | [#EboueursEnGreve](http://twitter.com/search?q=%23EboueursEnGreve) | N/A |
+| 9 | [#EboueursEnGreve](http://twitter.com/search?q=%23EboueursEnGreve) | N/A |
+| 10 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
 | 11 | [Werner](http://twitter.com/search?q=Werner) | N/A |
 | 12 | [#MCILEI](http://twitter.com/search?q=%23MCILEI) | N/A |
 | 13 | [Seine](http://twitter.com/search?q=Seine) | N/A |
 | 14 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 15 | [Sophia Aram](http://twitter.com/search?q=Sophia+Aram) | N/A |
-| 16 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 17 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 18 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 16 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 17 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 18 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
 | 19 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 | 20 | [J-500](http://twitter.com/search?q=J-500) | N/A |
 | 21 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
 | 22 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 23 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
+| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 24 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
-| 25 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 28 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 29 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
-| 30 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 31 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 32 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 33 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
-| 34 | [Noire](http://twitter.com/search?q=Noire) | N/A |
-| 35 | [joël](http://twitter.com/search?q=jo%c3%abl) | N/A |
-| 36 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
-| 37 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 38 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 39 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 40 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 41 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
-| 42 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
-| 43 | [diablox9](http://twitter.com/search?q=diablox9) | N/A |
-| 44 | [QUINTUPLÉ](http://twitter.com/search?q=QUINTUPL%c3%89) | N/A |
-| 45 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
-| 46 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
-| 47 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 48 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 49 | [blanche gardin](http://twitter.com/search?q=blanche+gardin) | N/A |
-| 50 | [Attali](http://twitter.com/search?q=Attali) | N/A |
+| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
+| 27 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 28 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
+| 29 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 30 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 31 | [Noire](http://twitter.com/search?q=Noire) | N/A |
+| 32 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
+| 33 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
+| 34 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 35 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 36 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 37 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 38 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
+| 39 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 40 | [QUINTUPLÉ](http://twitter.com/search?q=QUINTUPL%c3%89) | N/A |
+| 41 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
+| 42 | [Attali](http://twitter.com/search?q=Attali) | N/A |
+| 43 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 44 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
+| 45 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
+| 46 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 47 | [Omar Sy](http://twitter.com/search?q=Omar+Sy) | N/A |
+| 48 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 49 | [Cyborg](http://twitter.com/search?q=Cyborg) | N/A |
+| 50 | [Blanche Gardin](http://twitter.com/search?q=Blanche+Gardin) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-15 06:17:13 UTC`
+📆 Last Updated: `2023-03-15 07:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Venezuela
 | 9 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
 | 10 | [Eduardo Rodríguez](http://twitter.com/search?q=Eduardo+Rodr%c3%adguez) | N/A |
 | 11 | [#expofomentapymesbr](http://twitter.com/search?q=%23expofomentapymesbr) | N/A |
-| 12 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
+| 12 | [ricardo valiño](http://twitter.com/search?q=ricardo+vali%c3%b1o) | N/A |
 | 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 14 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
 | 15 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
@@ -36,7 +36,7 @@ This is top 50 for Venezuela
 | 19 | [Santander](http://twitter.com/search?q=Santander) | N/A |
 | 20 | [Cayena](http://twitter.com/search?q=Cayena) | N/A |
 | 21 | [Alma Llanera](http://twitter.com/search?q=Alma+Llanera) | N/A |
-| 22 | [Eugenio Suárez](http://twitter.com/search?q=Eugenio+Su%c3%a1rez) | N/A |
+| 22 | [eugenio suárez](http://twitter.com/search?q=eugenio+su%c3%a1rez) | N/A |
 | 23 | [josé ruiz](http://twitter.com/search?q=jos%c3%a9+ruiz) | N/A |
 | 24 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
 | 25 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
@@ -45,9 +45,9 @@ This is top 50 for Venezuela
 | 28 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 | 29 | [culantro](http://twitter.com/search?q=culantro) | N/A |
 | 30 | [quijada](http://twitter.com/search?q=quijada) | N/A |
-| 31 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 32 | [Pedro Elías Gutiérrez](http://twitter.com/search?q=Pedro+El%c3%adas+Guti%c3%a9rrez) | N/A |
-| 33 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 31 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 32 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 33 | [Pedro Elías Gutiérrez](http://twitter.com/search?q=Pedro+El%c3%adas+Guti%c3%a9rrez) | N/A |
 | 34 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
 | 35 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
 | 36 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Venezuela
 | 40 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 41 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 42 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 43 | [Miguel Angel Landa](http://twitter.com/search?q=Miguel+Angel+Landa) | N/A |
+| 43 | [miguel angel landa](http://twitter.com/search?q=miguel+angel+landa) | N/A |
 | 44 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 45 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
 | 46 | [Militares](http://twitter.com/search?q=Militares) | N/A |
 | 47 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
 | 48 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
-| 49 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 50 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 49 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 50 | [Señores](http://twitter.com/search?q=Se%c3%b1ores) | N/A |
 
 
 

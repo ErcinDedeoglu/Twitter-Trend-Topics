@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-15 06:17:11 UTC`
+📆 Last Updated: `2023-03-15 07:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,10 +34,10 @@ This is top 50 for Panama
 | 17 | [attt](http://twitter.com/search?q=attt) | N/A |
 | 18 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
 | 19 | [Ampyme](http://twitter.com/search?q=Ampyme) | N/A |
-| 20 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 21 | [blue apple](http://twitter.com/search?q=blue+apple) | N/A |
-| 22 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 23 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 20 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 21 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 22 | [blue apple](http://twitter.com/search?q=blue+apple) | N/A |
+| 23 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
 | 24 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
 | 25 | [Fren](http://twitter.com/search?q=Fren) | N/A |
 | 26 | [Panamá Oeste](http://twitter.com/search?q=Panam%c3%a1+Oeste) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Panama
 | 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 30 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 31 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 32 | [Esperemos](http://twitter.com/search?q=Esperemos) | N/A |
-| 33 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
-| 34 | [Endara](http://twitter.com/search?q=Endara) | N/A |
+| 32 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
+| 33 | [Endara](http://twitter.com/search?q=Endara) | N/A |
+| 34 | [ciudad de panamá](http://twitter.com/search?q=ciudad+de+panam%c3%a1) | N/A |
 | 35 | [Rusos](http://twitter.com/search?q=Rusos) | N/A |
-| 36 | [Puro](http://twitter.com/search?q=Puro) | N/A |
-| 37 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 38 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 39 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 40 | [María](http://twitter.com/search?q=Mar%c3%ada) | N/A |
-| 41 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 42 | [Martín Torrijos](http://twitter.com/search?q=Mart%c3%adn+Torrijos) | N/A |
-| 43 | [Uffff](http://twitter.com/search?q=Uffff) | N/A |
-| 44 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 45 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 46 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 48 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 49 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 50 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 36 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 37 | [Puro](http://twitter.com/search?q=Puro) | N/A |
+| 38 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 39 | [Esperemos](http://twitter.com/search?q=Esperemos) | N/A |
+| 40 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 41 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 42 | [María](http://twitter.com/search?q=Mar%c3%ada) | N/A |
+| 43 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 44 | [Martín Torrijos](http://twitter.com/search?q=Mart%c3%adn+Torrijos) | N/A |
+| 45 | [Uffff](http://twitter.com/search?q=Uffff) | N/A |
+| 46 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 47 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 48 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 50 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
 
 
 

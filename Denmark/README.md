@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-15 06:17:07 UTC`
+📆 Last Updated: `2023-03-15 07:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Denmark
 | ------- | ------------ | ------------ |
 | 1 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
 | 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 4 | [Jelert](http://twitter.com/search?q=Jelert) | N/A |
+| 3 | [Jelert](http://twitter.com/search?q=Jelert) | N/A |
+| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 5 | [Capellas](http://twitter.com/search?q=Capellas) | N/A |
 | 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 7 | [#rfcagf](http://twitter.com/search?q=%23rfcagf) | N/A |
@@ -35,25 +35,25 @@ This is top 50 for Denmark
 | 18 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
 | 19 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 20 | [#MetabolismDay](http://twitter.com/search?q=%23MetabolismDay) | N/A |
-| 21 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
-| 22 | [bergur](http://twitter.com/search?q=bergur) | N/A |
-| 23 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 24 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 25 | [mads hermansen](http://twitter.com/search?q=mads+hermansen) | N/A |
-| 26 | [berlingske](http://twitter.com/search?q=berlingske) | N/A |
-| 27 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
-| 28 | [steinlein](http://twitter.com/search?q=steinlein) | N/A |
-| 29 | [West](http://twitter.com/search?q=West) | N/A |
-| 30 | [mette frederiksen](http://twitter.com/search?q=mette+frederiksen) | N/A |
-| 31 | [egypten](http://twitter.com/search?q=egypten) | N/A |
-| 32 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
-| 33 | [odense](http://twitter.com/search?q=odense) | N/A |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [flot](http://twitter.com/search?q=flot) | N/A |
-| 36 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
-| 37 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 38 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 39 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 21 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 22 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
+| 23 | [bergur](http://twitter.com/search?q=bergur) | N/A |
+| 24 | [mads hermansen](http://twitter.com/search?q=mads+hermansen) | N/A |
+| 25 | [berlingske](http://twitter.com/search?q=berlingske) | N/A |
+| 26 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
+| 27 | [Steinlein](http://twitter.com/search?q=Steinlein) | N/A |
+| 28 | [West](http://twitter.com/search?q=West) | N/A |
+| 29 | [egypten](http://twitter.com/search?q=egypten) | N/A |
+| 30 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
+| 31 | [odense](http://twitter.com/search?q=odense) | N/A |
+| 32 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 34 | [flot](http://twitter.com/search?q=flot) | N/A |
+| 35 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
+| 36 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 37 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 38 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 39 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 | 40 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
 | 41 | [struer](http://twitter.com/search?q=struer) | N/A |
 | 42 | [herning](http://twitter.com/search?q=herning) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Denmark
 | 47 | [nicolai poulsen](http://twitter.com/search?q=nicolai+poulsen) | N/A |
 | 48 | [heldigvis](http://twitter.com/search?q=heldigvis) | N/A |
 | 49 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 50 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 50 | [viborg](http://twitter.com/search?q=viborg) | N/A |
 
 
 

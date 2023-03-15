@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-15 06:17:07 UTC`
+📆 Last Updated: `2023-03-15 07:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Dominican Republic
 | 9 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 10 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 11 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
-| 12 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 12 | [cano](http://twitter.com/search?q=cano) | N/A |
 | 13 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
 | 14 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
 | 15 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
@@ -47,8 +47,8 @@ This is top 50 for Dominican Republic
 | 30 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
 | 31 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 32 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 33 | [Luisin](http://twitter.com/search?q=Luisin) | N/A |
-| 34 | [Esmil Rogers](http://twitter.com/search?q=Esmil+Rogers) | N/A |
+| 33 | [luisin](http://twitter.com/search?q=luisin) | N/A |
+| 34 | [esmil rogers](http://twitter.com/search?q=esmil+rogers) | N/A |
 | 35 | [Roansy Contreras](http://twitter.com/search?q=Roansy+Contreras) | N/A |
 | 36 | [Bob Melvin](http://twitter.com/search?q=Bob+Melvin) | N/A |
 | 37 | [villa mella](http://twitter.com/search?q=villa+mella) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Dominican Republic
 | 44 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 45 | [Tremenda](http://twitter.com/search?q=Tremenda) | N/A |
 | 46 | [Foke](http://twitter.com/search?q=Foke) | N/A |
-| 47 | [DR-Cafta](http://twitter.com/search?q=DR-Cafta) | N/A |
+| 47 | [dr-cafta](http://twitter.com/search?q=dr-cafta) | N/A |
 | 48 | [Julio Rodríguez](http://twitter.com/search?q=Julio+Rodr%c3%adguez) | N/A |
 | 49 | [graneado](http://twitter.com/search?q=graneado) | N/A |
 | 50 | [Sergio Carlo](http://twitter.com/search?q=Sergio+Carlo) | N/A |

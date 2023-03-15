@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-15 06:16:35 UTC`
+📆 Last Updated: `2023-03-15 07:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 2 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 4 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 6 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 7 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
-| 8 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 11 | [#kohlanta](http://twitter.com/search?q=%23kohlanta) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 14 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 15 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 16 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 17 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 18 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
-| 19 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 20 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 21 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 22 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 23 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 24 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 25 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 26 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 27 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 28 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 30 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 31 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
-| 32 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 33 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
-| 34 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 35 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 36 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 37 | [London](http://twitter.com/search?q=London) | N/A |
-| 38 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 39 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
-| 40 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 42 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 43 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
-| 44 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 45 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
-| 46 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 47 | [Wert](http://twitter.com/search?q=Wert) | N/A |
-| 48 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 4 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 6 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [#kohlanta](http://twitter.com/search?q=%23kohlanta) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 11 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 12 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 13 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 14 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 15 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 16 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 17 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 18 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 20 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 21 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 22 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 23 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 24 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
+| 25 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 26 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 27 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 28 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
+| 29 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
+| 30 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 31 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
+| 32 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 33 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 34 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 35 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 36 | [London](http://twitter.com/search?q=London) | N/A |
+| 37 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 39 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 42 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
+| 43 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 44 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
+| 45 | [Wert](http://twitter.com/search?q=Wert) | N/A |
+| 46 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 47 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 48 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
 
 
 

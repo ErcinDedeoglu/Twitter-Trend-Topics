@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-15 06:16:25 UTC`
+📆 Last Updated: `2023-03-15 07:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,37 @@ This is top 50 for [Brazil](</Brazil>)
 | 10 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
 | 11 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
 | 12 | [dani calabresa](http://twitter.com/search?q=dani+calabresa) | Dani Calabresa is a Brazilian comedian and actress. She is best known for her work on the comedy show CQC, where she was a regular cast member from 2008 to 2012. The phrase "Dani Calabresa" translates to "Dani from Calabria" in English, referring to her hometown of Calabria in Brazil. |
-| 13 | [#TheTown2023](http://twitter.com/search?q=%23TheTown2023) | N/A |
-| 14 | [VT da Bruna](http://twitter.com/search?q=VT+da+Bruna) | N/A |
-| 15 | [Cacto](http://twitter.com/search?q=Cacto) | N/A |
-| 16 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 17 | [Baby Shark](http://twitter.com/search?q=Baby+Shark) | N/A |
-| 18 | [VT da Sarah](http://twitter.com/search?q=VT+da+Sarah) | N/A |
-| 19 | [Recalculando](http://twitter.com/search?q=Recalculando) | N/A |
-| 20 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 21 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 22 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 23 | [Até a Sarah](http://twitter.com/search?q=At%c3%a9+a+Sarah) | N/A |
-| 24 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 25 | [Motocross](http://twitter.com/search?q=Motocross) | N/A |
-| 26 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 27 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 28 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 29 | [QUE SABOR](http://twitter.com/search?q=QUE+SABOR) | N/A |
-| 30 | [SIMARIA](http://twitter.com/search?q=SIMARIA) | N/A |
-| 31 | [Mandume](http://twitter.com/search?q=Mandume) | N/A |
-| 32 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
-| 33 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 34 | [Renato Paiva](http://twitter.com/search?q=Renato+Paiva) | N/A |
-| 35 | [Alef Manga](http://twitter.com/search?q=Alef+Manga) | N/A |
-| 36 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 37 | [Jr Moraes](http://twitter.com/search?q=Jr+Moraes) | N/A |
-| 38 | [O PERFIL DA MARÍLIA](http://twitter.com/search?q=O+PERFIL+DA+MAR%c3%8dLIA) | N/A |
-| 39 | [Fred e Bruna](http://twitter.com/search?q=Fred+e+Bruna) | N/A |
-| 40 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 41 | [Magic](http://twitter.com/search?q=Magic) | N/A |
-| 42 | [Coxa](http://twitter.com/search?q=Coxa) | N/A |
-| 43 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 44 | [#bigbrother2023](http://twitter.com/search?q=%23bigbrother2023) | N/A |
-| 45 | [Bruna Griphao](http://twitter.com/search?q=Bruna+Griphao) | N/A |
-| 46 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 47 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 48 | [Bruno Viana](http://twitter.com/search?q=Bruno+Viana) | N/A |
-| 49 | [Sopa](http://twitter.com/search?q=Sopa) | N/A |
-| 50 | [Rodoanel](http://twitter.com/search?q=Rodoanel) | N/A |
+| 13 | [VT da Bruna](http://twitter.com/search?q=VT+da+Bruna) | N/A |
+| 14 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 15 | [#TheTown2023](http://twitter.com/search?q=%23TheTown2023) | N/A |
+| 16 | [Cacto](http://twitter.com/search?q=Cacto) | N/A |
+| 17 | [VT da Sarah](http://twitter.com/search?q=VT+da+Sarah) | N/A |
+| 18 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 19 | [Baby Shark](http://twitter.com/search?q=Baby+Shark) | N/A |
+| 20 | [Recalculando](http://twitter.com/search?q=Recalculando) | N/A |
+| 21 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 22 | [Até a Sarah](http://twitter.com/search?q=At%c3%a9+a+Sarah) | N/A |
+| 23 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 24 | [Motocross](http://twitter.com/search?q=Motocross) | N/A |
+| 25 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 26 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 27 | [QUE SABOR](http://twitter.com/search?q=QUE+SABOR) | N/A |
+| 28 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
+| 29 | [Larinha](http://twitter.com/search?q=Larinha) | N/A |
+| 30 | [Mandume](http://twitter.com/search?q=Mandume) | N/A |
+| 31 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
+| 32 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 33 | [Fred e Bruna](http://twitter.com/search?q=Fred+e+Bruna) | N/A |
+| 34 | [Jr Moraes](http://twitter.com/search?q=Jr+Moraes) | N/A |
+| 35 | [TRUCE FATOS](http://twitter.com/search?q=TRUCE+FATOS) | N/A |
+| 36 | [Coxa](http://twitter.com/search?q=Coxa) | N/A |
+| 37 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 38 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 39 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 40 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 41 | [Sopa](http://twitter.com/search?q=Sopa) | N/A |
+| 42 | [Rodoanel](http://twitter.com/search?q=Rodoanel) | N/A |
+| 43 | [#TenisNaESPN](http://twitter.com/search?q=%23TenisNaESPN) | N/A |
 
 
 

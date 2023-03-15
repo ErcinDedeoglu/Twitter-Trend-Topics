@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-15 06:16:47 UTC`
+📆 Last Updated: `2023-03-15 07:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AdcoMayogel](http://twitter.com/search?q=%23AdcoMayogel) | N/A |
-| 2 | [#EnjoyLifeWithoutTheBurn](http://twitter.com/search?q=%23EnjoyLifeWithoutTheBurn) | N/A |
-| 3 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
+| 1 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
+| 2 | [#AdcoMayogel](http://twitter.com/search?q=%23AdcoMayogel) | N/A |
+| 3 | [#EnjoyLifeWithoutTheBurn](http://twitter.com/search?q=%23EnjoyLifeWithoutTheBurn) | N/A |
 | 4 | [#ICanWithAbsa](http://twitter.com/search?q=%23ICanWithAbsa) | N/A |
 | 5 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 6 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 7 | [Amanda Black](http://twitter.com/search?q=Amanda+Black) | N/A |
-| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 7 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 8 | [Amanda Black](http://twitter.com/search?q=Amanda+Black) | N/A |
 | 9 | [Slee](http://twitter.com/search?q=Slee) | N/A |
 | 10 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 12 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 13 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 14 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 15 | [juicy jay x supersport phaka](http://twitter.com/search?q=juicy+jay+x+supersport+phaka) | N/A |
+| 11 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 12 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 13 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 14 | [juicy jay x supersport phaka](http://twitter.com/search?q=juicy+jay+x+supersport+phaka) | N/A |
+| 15 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 16 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
 | 17 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
-| 18 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 19 | [Rahima Moosa](http://twitter.com/search?q=Rahima+Moosa) | N/A |
-| 20 | [Mabena](http://twitter.com/search?q=Mabena) | N/A |
-| 21 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 22 | [Adriaan](http://twitter.com/search?q=Adriaan) | N/A |
+| 18 | [Adriaan](http://twitter.com/search?q=Adriaan) | N/A |
+| 19 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 20 | [Prof](http://twitter.com/search?q=Prof) | N/A |
+| 21 | [Mabena](http://twitter.com/search?q=Mabena) | N/A |
+| 22 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 | 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 24 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 25 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 26 | [Mickey](http://twitter.com/search?q=Mickey) | N/A |
-| 27 | [junior khanye](http://twitter.com/search?q=junior+khanye) | N/A |
-| 28 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
+| 24 | [Mickey](http://twitter.com/search?q=Mickey) | N/A |
+| 25 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 26 | [junior khanye](http://twitter.com/search?q=junior+khanye) | N/A |
+| 27 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 28 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
 | 29 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 30 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 30 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
 | 31 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
 | 32 | [Nascimento](http://twitter.com/search?q=Nascimento) | N/A |
 | 33 | [Rockstar](http://twitter.com/search?q=Rockstar) | N/A |
-| 34 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 35 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
+| 34 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 35 | [Werner](http://twitter.com/search?q=Werner) | N/A |
 | 36 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
-| 37 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
-| 38 | [the iec](http://twitter.com/search?q=the+iec) | N/A |
-| 39 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 40 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
-| 41 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
-| 42 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 37 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
+| 38 | [Rahima Moosa](http://twitter.com/search?q=Rahima+Moosa) | N/A |
+| 39 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 40 | [the iec](http://twitter.com/search?q=the+iec) | N/A |
+| 41 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 42 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
 | 43 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 44 | [tbo touch](http://twitter.com/search?q=tbo+touch) | N/A |
-| 45 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 46 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
+| 44 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
+| 45 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
+| 46 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
 | 47 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 
 
