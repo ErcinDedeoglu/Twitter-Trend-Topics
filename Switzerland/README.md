@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-14 23:17:17 UTC`
+📆 Last Updated: `2023-03-15 00:29:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 3 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 4 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 5 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 6 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 7 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 9 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
-| 13 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 16 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 17 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 18 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 19 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 20 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
-| 21 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 22 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 23 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 24 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 25 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 26 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 27 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
-| 28 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 29 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 30 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 31 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 33 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 34 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 35 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 36 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
-| 37 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
-| 38 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 39 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
-| 40 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 41 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 42 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
-| 43 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 44 | [London](http://twitter.com/search?q=London) | N/A |
-| 45 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 46 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
-| 47 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 48 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 49 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 50 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 5 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 8 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 9 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 12 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 13 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 14 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 15 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 16 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 17 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 18 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
+| 19 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
+| 20 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 21 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 22 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 23 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 24 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
+| 25 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 26 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
+| 27 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 28 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
+| 29 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
+| 30 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
+| 31 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 32 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 33 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 34 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 35 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 36 | [Schäden](http://twitter.com/search?q=Sch%c3%a4den) | N/A |
+| 37 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 38 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 39 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 40 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 41 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 42 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 43 | [Trychler](http://twitter.com/search?q=Trychler) | N/A |
+| 44 | [Wert](http://twitter.com/search?q=Wert) | N/A |
+| 45 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 46 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 47 | [Grenze](http://twitter.com/search?q=Grenze) | N/A |
+| 48 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 49 | [Bravo](http://twitter.com/search?q=Bravo) | N/A |
+| 50 | [Satire](http://twitter.com/search?q=Satire) | N/A |
 
 
 

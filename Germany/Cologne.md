@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-14 23:16:38 UTC`
+📆 Last Updated: `2023-03-15 00:28:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 2 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
 | 3 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 4 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
-| 5 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
+| 4 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 5 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
 | 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 7 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 8 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 7 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 9 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 10 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 11 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 12 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
-| 13 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 14 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 12 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 13 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 14 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
 | 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 17 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 18 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 19 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 20 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 21 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 22 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 23 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 24 | [Brie](http://twitter.com/search?q=Brie) | N/A |
-| 25 | [Fehlentscheidungen](http://twitter.com/search?q=Fehlentscheidungen) | N/A |
-| 26 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 27 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 28 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
-| 29 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 30 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 31 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 32 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 33 | [Laimer](http://twitter.com/search?q=Laimer) | N/A |
+| 16 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 17 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 18 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 19 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 20 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 21 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 22 | [Brie](http://twitter.com/search?q=Brie) | N/A |
+| 23 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 24 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 25 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 26 | [Mord](http://twitter.com/search?q=Mord) | N/A |
+| 27 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 28 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 29 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 30 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 31 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 32 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 33 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
 | 34 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 35 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 36 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 37 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 38 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 39 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 40 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 41 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 42 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
-| 43 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 44 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 45 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 46 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 47 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 48 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 49 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
-| 50 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 35 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 36 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 37 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 38 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 39 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 40 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
+| 41 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 42 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 43 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 44 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 45 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 46 | [Hannah Arendt](http://twitter.com/search?q=Hannah+Arendt) | N/A |
+| 47 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 48 | [Messerstichen](http://twitter.com/search?q=Messerstichen) | N/A |
+| 49 | [Zweitstimme](http://twitter.com/search?q=Zweitstimme) | N/A |
+| 50 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
 
 
 

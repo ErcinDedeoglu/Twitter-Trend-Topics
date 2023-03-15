@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-14 23:16:43 UTC`
+📆 Last Updated: `2023-03-15 00:29:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [Bikin Jadi Beneran](http://twitter.com/search?q=Bikin+Jadi+Beneran) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 4 | [#BCAExpoversary](http://twitter.com/search?q=%23BCAExpoversary) | N/A |
+| 3 | [#BCAExpoversary](http://twitter.com/search?q=%23BCAExpoversary) | N/A |
+| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 5 | [prabowo pastikan kedaulatan](http://twitter.com/search?q=prabowo+pastikan+kedaulatan) | N/A |
-| 6 | [#YukNgajiBerjamaah](http://twitter.com/search?q=%23YukNgajiBerjamaah) | N/A |
-| 7 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 8 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
-| 9 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 10 | [indonesia kuat disegani](http://twitter.com/search?q=indonesia+kuat+disegani) | N/A |
-| 11 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 12 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 13 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 14 | [Tally](http://twitter.com/search?q=Tally) | N/A |
-| 15 | [pak prabowo](http://twitter.com/search?q=pak+prabowo) | N/A |
-| 16 | [exo jaya jaya jaya](http://twitter.com/search?q=exo+jaya+jaya+jaya) | N/A |
-| 17 | [Selamat 9](http://twitter.com/search?q=Selamat+9) | N/A |
-| 18 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
-| 19 | [Happy Birthday Beomgyu](http://twitter.com/search?q=Happy+Birthday+Beomgyu) | N/A |
-| 20 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
-| 21 | [ARMY FOREVER BANGTAN FOREVER](http://twitter.com/search?q=ARMY+FOREVER+BANGTAN+FOREVER) | N/A |
-| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 23 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 24 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 25 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
-| 26 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 27 | [50mp camera](http://twitter.com/search?q=50mp+camera) | N/A |
-| 28 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
-| 29 | [Pidato AHY](http://twitter.com/search?q=Pidato+AHY) | N/A |
-| 30 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 31 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 32 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 33 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
-| 34 | [jisung for y magazine](http://twitter.com/search?q=jisung+for+y+magazine) | N/A |
-| 35 | [Basreng](http://twitter.com/search?q=Basreng) | N/A |
-| 36 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 37 | [Bahasa](http://twitter.com/search?q=Bahasa) | N/A |
-| 38 | [ROBIN VAN PERSIE](http://twitter.com/search?q=ROBIN+VAN+PERSIE) | N/A |
-| 39 | [khilafah ajaran islam](http://twitter.com/search?q=khilafah+ajaran+islam) | N/A |
-| 40 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
-| 41 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 42 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 43 | [RIP Legend](http://twitter.com/search?q=RIP+Legend) | N/A |
-| 44 | [sehari](http://twitter.com/search?q=sehari) | N/A |
-| 45 | [ginting](http://twitter.com/search?q=ginting) | N/A |
-| 46 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
-| 47 | [marugame](http://twitter.com/search?q=marugame) | N/A |
-| 48 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
-| 49 | [pilih prabowo aja](http://twitter.com/search?q=pilih+prabowo+aja) | N/A |
+| 6 | [Ngaji Syariah Kaffah](http://twitter.com/search?q=Ngaji+Syariah+Kaffah) | N/A |
+| 7 | [#YukNgajiBerjamaah](http://twitter.com/search?q=%23YukNgajiBerjamaah) | N/A |
+| 8 | [Islam Rahmat Semesta](http://twitter.com/search?q=Islam+Rahmat+Semesta) | N/A |
+| 9 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 10 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
+| 11 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 12 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
+| 13 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 14 | [Selamat 9](http://twitter.com/search?q=Selamat+9) | N/A |
+| 15 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 16 | [indonesia kuat disegani](http://twitter.com/search?q=indonesia+kuat+disegani) | N/A |
+| 17 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
+| 18 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 19 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 20 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 21 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 22 | [2024 Tetap Pak Prabowo](http://twitter.com/search?q=2024+Tetap+Pak+Prabowo) | N/A |
+| 23 | [Pilih Prabowo Aja](http://twitter.com/search?q=Pilih+Prabowo+Aja) | N/A |
+| 24 | [Tally](http://twitter.com/search?q=Tally) | N/A |
+| 25 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 26 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 27 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 28 | [ARMY FOREVER BANGTAN FOREVER](http://twitter.com/search?q=ARMY+FOREVER+BANGTAN+FOREVER) | N/A |
+| 29 | [Happy Birthday Beomgyu](http://twitter.com/search?q=Happy+Birthday+Beomgyu) | N/A |
+| 30 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 31 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
+| 32 | [EXO JAYA JAYA JAYA](http://twitter.com/search?q=EXO+JAYA+JAYA+JAYA) | N/A |
+| 33 | [Robot](http://twitter.com/search?q=Robot) | N/A |
+| 34 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
+| 35 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 36 | [50mp camera](http://twitter.com/search?q=50mp+camera) | N/A |
+| 37 | [Pidato AHY](http://twitter.com/search?q=Pidato+AHY) | N/A |
+| 38 | [Morninggg](http://twitter.com/search?q=Morninggg) | N/A |
+| 39 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 40 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 41 | [JISUNG FOR Y MAGAZINE](http://twitter.com/search?q=JISUNG+FOR+Y+MAGAZINE) | N/A |
+| 42 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 43 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 44 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
+| 45 | [Bahasa](http://twitter.com/search?q=Bahasa) | N/A |
+| 46 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
+| 47 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 48 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 49 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
 
 
 

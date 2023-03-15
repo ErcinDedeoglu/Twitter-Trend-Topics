@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-14 23:17:08 UTC`
+📆 Last Updated: `2023-03-15 00:29:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Monterey Park](http://twitter.com/search?q=Monterey+Park) | Monterey Park is a city located in Los Angeles County, California. It is a large, ethnically diverse suburb of Los Angeles with a population of over 60,000 people. The name Monterey Park comes from the Spanish words for "mountain" and "meadow," and it was originally part of the Rancho San Antonio land grant. |
-| 2 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
-| 3 | [For a 3rd](http://twitter.com/search?q=For+a+3rd) | N/A |
-| 4 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 5 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
-| 6 | [Jacobs](http://twitter.com/search?q=Jacobs) | N/A |
-| 7 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
-| 8 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 9 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 10 | [Mark Davis](http://twitter.com/search?q=Mark+Davis) | Mark Davis is a name, and it has no particular meaning in English. |
-| 11 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 12 | [#SMMW23](http://twitter.com/search?q=%23SMMW23) | N/A |
-| 13 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 14 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 15 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 16 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 17 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 18 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 20 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 22 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 23 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 24 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
-| 25 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 26 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 27 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 28 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 29 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 30 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 31 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 1 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 2 | [PG&E](http://twitter.com/search?q=PG%26E) | N/A |
+| 3 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
+| 4 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 5 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 6 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 7 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
+| 8 | [Monterey Park](http://twitter.com/search?q=Monterey+Park) | Monterey Park is a city located in Los Angeles County, California. It is a large, ethnically diverse suburb of Los Angeles with a population of over 60,000 people. The name Monterey Park comes from the Spanish words for "mountain" and "meadow," and it was originally part of the Rancho San Antonio land grant. |
+| 9 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 10 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 11 | [#rain](http://twitter.com/search?q=%23rain) | N/A |
+| 12 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 13 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
+| 14 | [#SearchLove](http://twitter.com/search?q=%23SearchLove) | N/A |
+| 15 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
+| 16 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 17 | [#SMMW23](http://twitter.com/search?q=%23SMMW23) | N/A |
+| 18 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
+| 19 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 20 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 21 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 22 | [Mark Davis](http://twitter.com/search?q=Mark+Davis) | Mark Davis is a name, and it has no particular meaning in English. |
+| 23 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 24 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 25 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 26 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 27 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 29 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 30 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 31 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
 | 32 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 33 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 34 | [#MoreThanFour](http://twitter.com/search?q=%23MoreThanFour) | N/A |
-| 35 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 36 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 37 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 38 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 39 | [Gilly](http://twitter.com/search?q=Gilly) | N/A |
-| 40 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 41 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 42 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 43 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 44 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 45 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 46 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 47 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 48 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 49 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 50 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 33 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 34 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 35 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
+| 36 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 37 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 38 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
+| 39 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
+| 40 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 41 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 42 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
+| 43 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 44 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 45 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 46 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 47 | [Samaje](http://twitter.com/search?q=Samaje) | N/A |
+| 48 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
+| 49 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 50 | [Matt Ryan](http://twitter.com/search?q=Matt+Ryan) | Matt Ryan is a nickname for the American football quarterback Matthew Thomas Ryan, who currently plays for the Atlanta Falcons of the National Football League (NFL). The name is derived from his given name, Matthew. |
 
 
 

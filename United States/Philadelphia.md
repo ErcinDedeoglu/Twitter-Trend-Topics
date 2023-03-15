@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-14 23:17:07 UTC`
+📆 Last Updated: `2023-03-15 00:29:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 2 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 3 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 8 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 9 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
-| 10 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 11 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 12 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 13 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 14 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 15 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 16 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 1 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 2 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 3 | [Canadiens](http://twitter.com/search?q=Canadiens) | N/A |
+| 4 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 5 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 6 | [Boston Scott](http://twitter.com/search?q=Boston+Scott) | Boston Scott is a nickname given to American football running back Boston Scott of the Philadelphia Eagles. The name is a play on words, as it combines his first name with the city of Philadelphia, which is often referred to as "The City of Brotherly Love" or "The City of Brotherly Scott". |
+| 7 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
+| 8 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 9 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 10 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 11 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 14 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 15 | [#bigcitygreensclassic](http://twitter.com/search?q=%23bigcitygreensclassic) | N/A |
+| 16 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
 | 17 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 18 | [#MoreThanFour](http://twitter.com/search?q=%23MoreThanFour) | N/A |
-| 19 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 20 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 21 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 22 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 23 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 24 | [Gilly](http://twitter.com/search?q=Gilly) | N/A |
-| 25 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 26 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 27 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 28 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 29 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 30 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 31 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 32 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 33 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 34 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 35 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 36 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
-| 37 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 38 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 39 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 40 | [Anthony Brown](http://twitter.com/search?q=Anthony+Brown) | N/A |
-| 41 | [Matt Ryan](http://twitter.com/search?q=Matt+Ryan) | Matt Ryan is a nickname for the American football quarterback Matthew Thomas Ryan, who currently plays for the Atlanta Falcons of the National Football League (NFL). The name is derived from his given name, Matthew. |
-| 42 | [The Movie Critic](http://twitter.com/search?q=The+Movie+Critic) | N/A |
-| 43 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 44 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
-| 45 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 46 | [Jarran Reed](http://twitter.com/search?q=Jarran+Reed) | N/A |
-| 47 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 48 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 49 | [Boston Scott](http://twitter.com/search?q=Boston+Scott) | Boston Scott is a nickname given to American football running back Boston Scott of the Philadelphia Eagles. The name is a play on words, as it combines his first name with the city of Philadelphia, which is often referred to as "The City of Brotherly Love" or "The City of Brotherly Scott". |
-| 50 | [Boobie](http://twitter.com/search?q=Boobie) | N/A |
+| 18 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 19 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 20 | [#SupermanAndLois](http://twitter.com/search?q=%23SupermanAndLois) | N/A |
+| 21 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 22 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 23 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
+| 24 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 25 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
+| 26 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 27 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
+| 28 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
+| 29 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 30 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 31 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
+| 32 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 33 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 34 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 35 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 36 | [Samaje](http://twitter.com/search?q=Samaje) | N/A |
+| 37 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
+| 38 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 39 | [Matt Ryan](http://twitter.com/search?q=Matt+Ryan) | Matt Ryan is a nickname for the American football quarterback Matthew Thomas Ryan, who currently plays for the Atlanta Falcons of the National Football League (NFL). The name is derived from his given name, Matthew. |
+| 40 | [Jacob Steinmetz](http://twitter.com/search?q=Jacob+Steinmetz) | N/A |
+| 41 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 42 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 43 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
+| 44 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 45 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 46 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 47 | [The Movie Critic](http://twitter.com/search?q=The+Movie+Critic) | N/A |
+| 48 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 49 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
+| 50 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
 
 
 

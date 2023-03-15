@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-14 23:17:06 UTC`
+📆 Last Updated: `2023-03-15 00:29:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 2 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
-| 3 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 4 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 5 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 6 | [#Noreaster](http://twitter.com/search?q=%23Noreaster) | N/A |
-| 7 | [#TogetherBlue](http://twitter.com/search?q=%23TogetherBlue) | #TogetherBlue is a hashtag used to promote unity and support for the Canadian men's national soccer team. It is meant to show solidarity and encourage fans to come together in support of the team. The hashtag is also used to promote the team's official merchandise, which features a blue colour scheme. |
-| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 9 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 11 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 12 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 13 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
-| 14 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 15 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 16 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 17 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 18 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 19 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 20 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 21 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 22 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 23 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 24 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 25 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 26 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 27 | [Gilly](http://twitter.com/search?q=Gilly) | N/A |
-| 28 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 29 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 30 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 31 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 32 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 33 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 34 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 35 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 36 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 37 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 38 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
-| 39 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 40 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 41 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 42 | [Anthony Brown](http://twitter.com/search?q=Anthony+Brown) | N/A |
+| 1 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 2 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 3 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 4 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 5 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 6 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
+| 7 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 8 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 9 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 10 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 11 | [#Vtubers](http://twitter.com/search?q=%23Vtubers) | N/A |
+| 12 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 13 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
+| 14 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 15 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 16 | [#TogetherBlue](http://twitter.com/search?q=%23TogetherBlue) | #TogetherBlue is a hashtag used to promote unity and support for the Canadian men's national soccer team. It is meant to show solidarity and encourage fans to come together in support of the team. The hashtag is also used to promote the team's official merchandise, which features a blue colour scheme. |
+| 17 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 18 | [Green Bay](http://twitter.com/search?q=Green+Bay) | Green Bay is a city in Wisconsin, United States. It is located on the western shore of Lake Michigan at the mouth of the Fox River. The city is known for its association with the National Football League's Green Bay Packers, which play their home games at Lambeau Field. The name "Green Bay" comes from the French phrase "la baie des Puants," which translates to "the bay of stinks." |
+| 19 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 22 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 23 | [#bigcitygreensclassic](http://twitter.com/search?q=%23bigcitygreensclassic) | N/A |
+| 24 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 25 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 26 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 27 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 28 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
+| 29 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 30 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 31 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
+| 32 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
+| 33 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 34 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 35 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
+| 36 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 37 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 38 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 39 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 40 | [Samaje](http://twitter.com/search?q=Samaje) | N/A |
+| 41 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
+| 42 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 43 | [Matt Ryan](http://twitter.com/search?q=Matt+Ryan) | Matt Ryan is a nickname for the American football quarterback Matthew Thomas Ryan, who currently plays for the Atlanta Falcons of the National Football League (NFL). The name is derived from his given name, Matthew. |
-| 44 | [The Movie Critic](http://twitter.com/search?q=The+Movie+Critic) | N/A |
-| 45 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 46 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
-| 47 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 48 | [Jarran Reed](http://twitter.com/search?q=Jarran+Reed) | N/A |
-| 49 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 50 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 44 | [Jacob Steinmetz](http://twitter.com/search?q=Jacob+Steinmetz) | N/A |
+| 45 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 46 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 47 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
+| 48 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 49 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 50 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
 
 
 

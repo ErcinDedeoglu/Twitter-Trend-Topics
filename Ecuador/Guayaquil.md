@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-14 23:16:30 UTC`
+📆 Last Updated: `2023-03-15 00:28:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
-| 3 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 6 | [#CNECumplió](http://twitter.com/search?q=%23CNECumpli%c3%b3) | N/A |
-| 7 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 8 | [#EcuadorDecidió](http://twitter.com/search?q=%23EcuadorDecidi%c3%b3) | N/A |
-| 9 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 10 | [#NarcoGenerales](http://twitter.com/search?q=%23NarcoGenerales) | N/A |
-| 11 | [Gabriel Fuks](http://twitter.com/search?q=Gabriel+Fuks) | N/A |
-| 12 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 13 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 14 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 15 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 16 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 17 | [#LassoEcuadorNoTeAguantaMas](http://twitter.com/search?q=%23LassoEcuadorNoTeAguantaMas) | N/A |
-| 18 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 19 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 20 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
-| 21 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
-| 22 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 23 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 24 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
-| 25 | [Entrega de Credenciales](http://twitter.com/search?q=Entrega+de+Credenciales) | N/A |
-| 26 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 27 | [Boscán](http://twitter.com/search?q=Bosc%c3%a1n) | N/A |
-| 28 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 29 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
-| 30 | [Luque](http://twitter.com/search?q=Luque) | N/A |
-| 31 | [Diana Salazar](http://twitter.com/search?q=Diana+Salazar) | N/A |
-| 32 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 33 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 34 | [Gran Padrino](http://twitter.com/search?q=Gran+Padrino) | N/A |
-| 35 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
-| 36 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
-| 37 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 38 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
-| 39 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 40 | [Luis Muentes](http://twitter.com/search?q=Luis+Muentes) | N/A |
-| 41 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 42 | [Superintendencia de Compañías](http://twitter.com/search?q=Superintendencia+de+Compa%c3%b1%c3%adas) | N/A |
-| 43 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
-| 44 | [La Asamblea](http://twitter.com/search?q=La+Asamblea) | N/A |
+| 1 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
+| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 3 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 4 | [#NarcoGenerales](http://twitter.com/search?q=%23NarcoGenerales) | N/A |
+| 5 | [#CNECumplió](http://twitter.com/search?q=%23CNECumpli%c3%b3) | N/A |
+| 6 | [#EcuadorDecidió](http://twitter.com/search?q=%23EcuadorDecidi%c3%b3) | N/A |
+| 7 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
+| 8 | [#LassoyBorreroFuera](http://twitter.com/search?q=%23LassoyBorreroFuera) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 11 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 12 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 13 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 14 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 15 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 16 | [Gabriel Fuks](http://twitter.com/search?q=Gabriel+Fuks) | N/A |
+| 17 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 18 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
+| 19 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 20 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 21 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 22 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
+| 23 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
+| 24 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 25 | [Vanessa Egas](http://twitter.com/search?q=Vanessa+Egas) | N/A |
+| 26 | [Entrega de Credenciales](http://twitter.com/search?q=Entrega+de+Credenciales) | N/A |
+| 27 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
+| 28 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
+| 29 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 30 | [Diana Salazar](http://twitter.com/search?q=Diana+Salazar) | N/A |
+| 31 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
+| 32 | [Mauricio Martínez](http://twitter.com/search?q=Mauricio+Mart%c3%adnez) | N/A |
+| 33 | [Flores](http://twitter.com/search?q=Flores) | N/A |
+| 34 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 35 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
+| 36 | [Fuga](http://twitter.com/search?q=Fuga) | N/A |
+| 37 | [Superintendencia de Compañías](http://twitter.com/search?q=Superintendencia+de+Compa%c3%b1%c3%adas) | N/A |
+| 38 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 39 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 40 | [sobornos](http://twitter.com/search?q=sobornos) | N/A |
+| 41 | [Luis Muentes](http://twitter.com/search?q=Luis+Muentes) | N/A |
+| 42 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 43 | [Adoptalo](http://twitter.com/search?q=Adoptalo) | N/A |
+| 44 | [Torino](http://twitter.com/search?q=Torino) | N/A |
 | 45 | [Pacto](http://twitter.com/search?q=Pacto) | N/A |
-| 46 | [sobornos](http://twitter.com/search?q=sobornos) | N/A |
-| 47 | [Adoptalo](http://twitter.com/search?q=Adoptalo) | N/A |
-| 48 | [Debes](http://twitter.com/search?q=Debes) | N/A |
-| 49 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 50 | [Audios](http://twitter.com/search?q=Audios) | N/A |
+| 46 | [Audios](http://twitter.com/search?q=Audios) | N/A |
+| 47 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 48 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 50 | [Girón](http://twitter.com/search?q=Gir%c3%b3n) | N/A |
 
 
 

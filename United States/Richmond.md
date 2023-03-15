@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-14 23:17:08 UTC`
+📆 Last Updated: `2023-03-15 00:29:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 1 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 2 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
 | 3 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 5 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 6 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 7 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
-| 8 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 9 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 10 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 11 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 12 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 13 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 14 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 15 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 16 | [#MoreThanFour](http://twitter.com/search?q=%23MoreThanFour) | N/A |
-| 17 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 18 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 19 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 20 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 21 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 22 | [Gilly](http://twitter.com/search?q=Gilly) | N/A |
-| 23 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 24 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 25 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 26 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 27 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 28 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 29 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 30 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 31 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 32 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 33 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 34 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
+| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 6 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 7 | [#bigcitygreensclassic](http://twitter.com/search?q=%23bigcitygreensclassic) | N/A |
+| 8 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 9 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 10 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 11 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 12 | [#SupermanAndLois](http://twitter.com/search?q=%23SupermanAndLois) | N/A |
+| 13 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 14 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 15 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
+| 16 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 17 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
+| 18 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 19 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
+| 20 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
+| 21 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 22 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 23 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
+| 24 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 25 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 26 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 27 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 28 | [Samaje](http://twitter.com/search?q=Samaje) | N/A |
+| 29 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 30 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
+| 31 | [Matt Ryan](http://twitter.com/search?q=Matt+Ryan) | Matt Ryan is a nickname for the American football quarterback Matthew Thomas Ryan, who currently plays for the Atlanta Falcons of the National Football League (NFL). The name is derived from his given name, Matthew. |
+| 32 | [Jacob Steinmetz](http://twitter.com/search?q=Jacob+Steinmetz) | N/A |
+| 33 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 34 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 35 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 36 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 37 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 38 | [Anthony Brown](http://twitter.com/search?q=Anthony+Brown) | N/A |
-| 39 | [Matt Ryan](http://twitter.com/search?q=Matt+Ryan) | Matt Ryan is a nickname for the American football quarterback Matthew Thomas Ryan, who currently plays for the Atlanta Falcons of the National Football League (NFL). The name is derived from his given name, Matthew. |
-| 40 | [The Movie Critic](http://twitter.com/search?q=The+Movie+Critic) | N/A |
-| 41 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 42 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
-| 43 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 44 | [Jarran Reed](http://twitter.com/search?q=Jarran+Reed) | N/A |
-| 45 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 46 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 47 | [Boston Scott](http://twitter.com/search?q=Boston+Scott) | Boston Scott is a nickname given to American football running back Boston Scott of the Philadelphia Eagles. The name is a play on words, as it combines his first name with the city of Philadelphia, which is often referred to as "The City of Brotherly Love" or "The City of Brotherly Scott". |
-| 48 | [Boobie](http://twitter.com/search?q=Boobie) | N/A |
-| 49 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
+| 36 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 37 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 38 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 39 | [The Movie Critic](http://twitter.com/search?q=The+Movie+Critic) | N/A |
+| 40 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 41 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
+| 42 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 43 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 44 | [Tatar](http://twitter.com/search?q=Tatar) | N/A |
+| 45 | [Petry](http://twitter.com/search?q=Petry) | N/A |
+| 46 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 47 | [Gilly](http://twitter.com/search?q=Gilly) | N/A |
+| 48 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 49 | [Mika March](http://twitter.com/search?q=Mika+March) | N/A |
 
 
 
