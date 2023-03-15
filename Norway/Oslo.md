@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-15 02:34:04 UTC`
+📆 Last Updated: `2023-03-15 03:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,21 +28,21 @@ This is top 50 for [Norway](</Norway>)
 | 11 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 13 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 14 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 14 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
 | 15 | [#NarkoTwitter](http://twitter.com/search?q=%23NarkoTwitter) | N/A |
 | 16 | [#NNPF](http://twitter.com/search?q=%23NNPF) | N/A |
-| 17 | [Tenker](http://twitter.com/search?q=Tenker) | N/A |
+| 17 | [tenker](http://twitter.com/search?q=tenker) | N/A |
 | 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 19 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 20 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
 | 21 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 22 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 25 | [Sikkert](http://twitter.com/search?q=Sikkert) | N/A |
-| 26 | [Spania](http://twitter.com/search?q=Spania) | N/A |
-| 27 | [nettopp](http://twitter.com/search?q=nettopp) | N/A |
-| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 26 | [sikkert](http://twitter.com/search?q=sikkert) | N/A |
+| 27 | [spania](http://twitter.com/search?q=spania) | N/A |
+| 28 | [nettopp](http://twitter.com/search?q=nettopp) | N/A |
 | 29 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 30 | [høres](http://twitter.com/search?q=h%c3%b8res) | N/A |
 | 31 | [Russians](http://twitter.com/search?q=Russians) | N/A |

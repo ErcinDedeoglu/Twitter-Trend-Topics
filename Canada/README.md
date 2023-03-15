@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-15 02:34:35 UTC`
+📆 Last Updated: `2023-03-15 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Canada
 | 1 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
 | 2 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 | 3 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 6 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 7 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 8 | [#BudFirstGoal](http://twitter.com/search?q=%23BudFirstGoal) | N/A |
-| 9 | [Derek Ryan](http://twitter.com/search?q=Derek+Ryan) | N/A |
+| 4 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 7 | [#BudFirstGoal](http://twitter.com/search?q=%23BudFirstGoal) | N/A |
+| 8 | [Derek Ryan](http://twitter.com/search?q=Derek+Ryan) | N/A |
+| 9 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
 | 10 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 12 | [Amqui](http://twitter.com/search?q=Amqui) | N/A |
-| 13 | [Junos](http://twitter.com/search?q=Junos) | N/A |
+| 11 | [Amqui](http://twitter.com/search?q=Amqui) | N/A |
+| 12 | [Junos](http://twitter.com/search?q=Junos) | N/A |
+| 13 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
 | 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 16 | [Skinner McDavid](http://twitter.com/search?q=Skinner+McDavid) | N/A |
-| 17 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 18 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 19 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 20 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 21 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
-| 22 | [Pionk](http://twitter.com/search?q=Pionk) | N/A |
-| 23 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 24 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 25 | [Malik Beasley](http://twitter.com/search?q=Malik+Beasley) | N/A |
-| 26 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 27 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 28 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 29 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 30 | [Otto Lopez](http://twitter.com/search?q=Otto+Lopez) | N/A |
-| 31 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 32 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 33 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 34 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 35 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 36 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 37 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 38 | [Volkswagen](http://twitter.com/search?q=Volkswagen) | N/A |
-| 39 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 40 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 41 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 42 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 43 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
-| 44 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 45 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 46 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 47 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 48 | [Anthony Richard](http://twitter.com/search?q=Anthony+Richard) | Anthony Richard is a name. It is a combination of two given names, Anthony and Richard. The name Anthony is derived from the Latin Antonius, which means "priceless one" or "invaluable". Richard is derived from the Germanic name Ricard, which means "strong ruler". |
-| 49 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 50 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 15 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 16 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 17 | [Skinner McDavid](http://twitter.com/search?q=Skinner+McDavid) | N/A |
+| 18 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
+| 19 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 20 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 21 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 22 | [Louisette Dussault](http://twitter.com/search?q=Louisette+Dussault) | N/A |
+| 23 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 24 | [Pionk](http://twitter.com/search?q=Pionk) | N/A |
+| 25 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 26 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 27 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 28 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 29 | [Otto Lopez](http://twitter.com/search?q=Otto+Lopez) | N/A |
+| 30 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 31 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 32 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
+| 33 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 34 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 35 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 36 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 37 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 38 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 39 | [Volkswagen](http://twitter.com/search?q=Volkswagen) | N/A |
+| 40 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 41 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 42 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
+| 43 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 44 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 45 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 46 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 47 | [VanVleet](http://twitter.com/search?q=VanVleet) | N/A |
+| 48 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 49 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 50 | [Anthony Richard](http://twitter.com/search?q=Anthony+Richard) | Anthony Richard is a name. It is a combination of two given names, Anthony and Richard. The name Anthony is derived from the Latin Antonius, which means "priceless one" or "invaluable". Richard is derived from the Germanic name Ricard, which means "strong ruler". |
 
 
 

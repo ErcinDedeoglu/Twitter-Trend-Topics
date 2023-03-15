@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-15 02:34:34 UTC`
+📆 Last Updated: `2023-03-15 03:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Austria
 | 10 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
 | 11 | [Programm](http://twitter.com/search?q=Programm) | N/A |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
+| 13 | [burgenland](http://twitter.com/search?q=burgenland) | N/A |
 | 14 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
 | 15 | [#neanderhammer](http://twitter.com/search?q=%23neanderhammer) | N/A |
 | 16 | [mietpreisbremse](http://twitter.com/search?q=mietpreisbremse) | N/A |
-| 17 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 18 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 20 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 21 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 22 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 23 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
-| 24 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 25 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 17 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 18 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 19 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 20 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 21 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
+| 22 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
+| 23 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 24 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 26 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
 | 27 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
 | 28 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
 | 29 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 30 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 31 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 32 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
-| 33 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 34 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 35 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 36 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 37 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
-| 38 | [#klimaglück](http://twitter.com/search?q=%23klimagl%c3%bcck) | N/A |
-| 39 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
-| 40 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 41 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 42 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 43 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 44 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 45 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 46 | [spö-parteivorsitz](http://twitter.com/search?q=sp%c3%b6-parteivorsitz) | N/A |
-| 47 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
-| 48 | [Austrian](http://twitter.com/search?q=Austrian) | N/A |
-| 49 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 50 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 30 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 31 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 32 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
+| 33 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 34 | [Basis](http://twitter.com/search?q=Basis) | N/A |
+| 35 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 36 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 37 | [#klimaglück](http://twitter.com/search?q=%23klimagl%c3%bcck) | N/A |
+| 38 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
+| 39 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 40 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 41 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 42 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 43 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 44 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
+| 45 | [spö-parteivorsitz](http://twitter.com/search?q=sp%c3%b6-parteivorsitz) | N/A |
+| 46 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 47 | [Austrian](http://twitter.com/search?q=Austrian) | N/A |
+| 48 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 49 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 50 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
 
 
 

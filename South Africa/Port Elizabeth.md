@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-15 02:34:16 UTC`
+📆 Last Updated: `2023-03-15 03:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dstvprem](http://twitter.com/search?q=%23dstvprem) | N/A |
-| 2 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
+| 1 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
+| 2 | [#dstvprem](http://twitter.com/search?q=%23dstvprem) | N/A |
 | 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 4 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 6 | [royal am](http://twitter.com/search?q=royal+am) | N/A |
-| 7 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 8 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 11 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 6 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 7 | [royal am](http://twitter.com/search?q=royal+am) | N/A |
+| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 9 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 10 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 11 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 12 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
 | 13 | [juicy jay x supersport phaka](http://twitter.com/search?q=juicy+jay+x+supersport+phaka) | N/A |
-| 14 | [Mabena](http://twitter.com/search?q=Mabena) | N/A |
+| 14 | [mabena](http://twitter.com/search?q=mabena) | N/A |
 | 15 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 | 16 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 17 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 19 | [Rockstar](http://twitter.com/search?q=Rockstar) | N/A |
+| 17 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 18 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 19 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 20 | [junior khanye](http://twitter.com/search?q=junior+khanye) | N/A |
 | 21 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
-| 22 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 23 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
-| 24 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
+| 22 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
+| 23 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
+| 26 | [Rockstar](http://twitter.com/search?q=Rockstar) | N/A |
 | 27 | [Adriaan](http://twitter.com/search?q=Adriaan) | N/A |
 | 28 | [Nascimento](http://twitter.com/search?q=Nascimento) | N/A |
-| 29 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 29 | [the eff](http://twitter.com/search?q=the+eff) | N/A |
 | 30 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
 | 31 | [cape independence](http://twitter.com/search?q=cape+independence) | N/A |
-| 32 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 33 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 34 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 35 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
-| 36 | [mihlali](http://twitter.com/search?q=mihlali) | N/A |
-| 37 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 38 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 39 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 40 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 32 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 33 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 34 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 35 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 36 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
+| 37 | [mihlali](http://twitter.com/search?q=mihlali) | N/A |
+| 38 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 39 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 40 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
 | 41 | [the iec](http://twitter.com/search?q=the+iec) | N/A |
-| 42 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
-| 43 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 44 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
-| 45 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
-| 46 | [zonke](http://twitter.com/search?q=zonke) | N/A |
-| 47 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
+| 42 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 43 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
+| 44 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
+| 45 | [zonke](http://twitter.com/search?q=zonke) | N/A |
+| 46 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
+| 47 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
 
 
 

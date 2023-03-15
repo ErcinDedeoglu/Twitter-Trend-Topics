@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-15 02:34:39 UTC`
+📆 Last Updated: `2023-03-15 03:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,20 +19,20 @@ This is top 50 for Netherlands
 | 2 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
 | 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 4 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
-| 5 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 6 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
+| 5 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
+| 6 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
 | 7 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
 | 8 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 9 | [#bruinelaarzen](http://twitter.com/search?q=%23bruinelaarzen) | N/A |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [ali b](http://twitter.com/search?q=ali+b) | N/A |
+| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [ali b](http://twitter.com/search?q=ali+b) | N/A |
+| 12 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
 | 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 14 | [Jeroen Rietbergen](http://twitter.com/search?q=Jeroen+Rietbergen) | N/A |
 | 15 | [Marco Borsato](http://twitter.com/search?q=Marco+Borsato) | N/A |
-| 16 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
+| 16 | [Engel](http://twitter.com/search?q=Engel) | N/A |
 | 17 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 18 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 18 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
 | 19 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
 | 20 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 | 21 | [Genee](http://twitter.com/search?q=Genee) | N/A |
@@ -41,18 +41,18 @@ This is top 50 for Netherlands
 | 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 25 | [goedemorgen petra](http://twitter.com/search?q=goedemorgen+petra) | N/A |
 | 26 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
-| 27 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 28 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 29 | [gijp](http://twitter.com/search?q=gijp) | N/A |
-| 30 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 31 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
-| 32 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 33 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 34 | [Ziggo](http://twitter.com/search?q=Ziggo) | N/A |
-| 35 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 36 | [teze](http://twitter.com/search?q=teze) | N/A |
+| 27 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 28 | [gijp](http://twitter.com/search?q=gijp) | N/A |
+| 29 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 30 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
+| 31 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 32 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 33 | [ziggo](http://twitter.com/search?q=ziggo) | N/A |
+| 34 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 35 | [teze](http://twitter.com/search?q=teze) | N/A |
+| 36 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
 | 37 | [reijnders](http://twitter.com/search?q=reijnders) | N/A |
-| 38 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
+| 38 | [fatsoen](http://twitter.com/search?q=fatsoen) | N/A |
 | 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 40 | [goedemorgen jan](http://twitter.com/search?q=goedemorgen+jan) | N/A |
 | 41 | [goedemorgen sonja](http://twitter.com/search?q=goedemorgen+sonja) | N/A |

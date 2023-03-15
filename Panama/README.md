@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-15 02:34:39 UTC`
+📆 Last Updated: `2023-03-15 03:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,25 +26,25 @@ This is top 50 for Panama
 | 9 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
 | 10 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
 | 11 | [Ricardo Lombana](http://twitter.com/search?q=Ricardo+Lombana) | N/A |
-| 12 | [Rolando](http://twitter.com/search?q=Rolando) | N/A |
-| 13 | [gustavo pérez](http://twitter.com/search?q=gustavo+p%c3%a9rez) | N/A |
-| 14 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 15 | [Ampyme](http://twitter.com/search?q=Ampyme) | N/A |
-| 16 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 17 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 18 | [ATTT](http://twitter.com/search?q=ATTT) | N/A |
+| 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 13 | [Rolando](http://twitter.com/search?q=Rolando) | N/A |
+| 14 | [gustavo pérez](http://twitter.com/search?q=gustavo+p%c3%a9rez) | N/A |
+| 15 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 16 | [Ampyme](http://twitter.com/search?q=Ampyme) | N/A |
+| 17 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 18 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 19 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
-| 20 | [blue apple](http://twitter.com/search?q=blue+apple) | N/A |
-| 21 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 22 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 23 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 24 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
-| 25 | [Juan Diego](http://twitter.com/search?q=Juan+Diego) | N/A |
-| 26 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 27 | [Panamá Oeste](http://twitter.com/search?q=Panam%c3%a1+Oeste) | N/A |
-| 28 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 29 | [Arraijan](http://twitter.com/search?q=Arraijan) | N/A |
-| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [ATTT](http://twitter.com/search?q=ATTT) | N/A |
+| 21 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
+| 22 | [blue apple](http://twitter.com/search?q=blue+apple) | N/A |
+| 23 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 24 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 25 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
+| 26 | [Juan Diego](http://twitter.com/search?q=Juan+Diego) | N/A |
+| 27 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 28 | [Panamá Oeste](http://twitter.com/search?q=Panam%c3%a1+Oeste) | N/A |
+| 29 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 30 | [Arraijan](http://twitter.com/search?q=Arraijan) | N/A |
 | 31 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 32 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
 | 33 | [Esperemos](http://twitter.com/search?q=Esperemos) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for Panama
 | 40 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 41 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 42 | [Chorrera](http://twitter.com/search?q=Chorrera) | N/A |
-| 43 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 43 | [Uffff](http://twitter.com/search?q=Uffff) | N/A |
 | 44 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 45 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 46 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |

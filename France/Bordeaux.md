@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-03-15 02:33:58 UTC`
+📆 Last Updated: `2023-03-15 03:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [France](</France>)
 | 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 7 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
 | 8 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 9 | [#EboueursEnGreve](http://twitter.com/search?q=%23EboueursEnGreve) | N/A |
-| 10 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 9 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 10 | [#EboueursEnGreve](http://twitter.com/search?q=%23EboueursEnGreve) | N/A |
 | 11 | [Werner](http://twitter.com/search?q=Werner) | N/A |
 | 12 | [Seine](http://twitter.com/search?q=Seine) | N/A |
 | 13 | [Sophia Aram](http://twitter.com/search?q=Sophia+Aram) | N/A |
@@ -36,33 +36,33 @@ This is top 50 for [France](</France>)
 | 19 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
 | 20 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
 | 21 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 24 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 22 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 23 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 25 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
 | 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 28 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
+| 27 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
+| 28 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
 | 29 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 30 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
 | 31 | [jérôme commandeur](http://twitter.com/search?q=j%c3%a9r%c3%b4me+commandeur) | N/A |
 | 32 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
 | 33 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 34 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
-| 35 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
-| 36 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
-| 37 | [Noire](http://twitter.com/search?q=Noire) | N/A |
-| 38 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
-| 39 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 40 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 41 | [Attali](http://twitter.com/search?q=Attali) | N/A |
-| 42 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
-| 43 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
-| 44 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 45 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 46 | [Les Lakers](http://twitter.com/search?q=Les+Lakers) | N/A |
-| 47 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 48 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
+| 34 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 35 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
+| 36 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
+| 37 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
+| 38 | [Noire](http://twitter.com/search?q=Noire) | N/A |
+| 39 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
+| 40 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 41 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
+| 42 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 43 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 44 | [Les Lakers](http://twitter.com/search?q=Les+Lakers) | N/A |
+| 45 | [Attali](http://twitter.com/search?q=Attali) | N/A |
+| 46 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 47 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 48 | [ménard](http://twitter.com/search?q=m%c3%a9nard) | N/A |
 | 49 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
 
 

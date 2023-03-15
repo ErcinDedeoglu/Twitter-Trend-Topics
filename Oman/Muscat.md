@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-15 02:34:21 UTC`
+📆 Last Updated: `2023-03-15 03:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for [Oman](</Oman>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#نتايج_الثانويه_العامه](http://twitter.com/search?q=%23%d9%86%d8%aa%d8%a7%d9%8a%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | #نتايج_الثانويه_العامه is a hashtag used on social media in Arabic to refer to the results of the General Secondary Education Examination. In English, it translates to "General Secondary Education Exam Results". |
-| 2 | [#اليوم_العالمي_للرياضيات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa) | N/A |
-| 3 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 1 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 2 | [#نتايج_الثانويه_العامه](http://twitter.com/search?q=%23%d9%86%d8%aa%d8%a7%d9%8a%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | #نتايج_الثانويه_العامه is a hashtag used on social media in Arabic to refer to the results of the General Secondary Education Examination. In English, it translates to "General Secondary Education Exam Results". |
+| 3 | [#اليوم_العالمي_للرياضيات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa) | N/A |
 | 4 | [المجال الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 5 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 6 | [سلطان عمان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 7 | [#زد_رصيدك49](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8349) | N/A |
-| 8 | [#البزنس98](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b398) | N/A |
+| 7 | [#البزنس98](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b398) | N/A |
+| 8 | [#حول_فودافون](http://twitter.com/search?q=%23%d8%ad%d9%88%d9%84_%d9%81%d9%88%d8%af%d8%a7%d9%81%d9%88%d9%86) | N/A |
 | 9 | [القايد الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
 | 10 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 11 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
@@ -50,9 +50,9 @@ This is top 50 for [Oman](</Oman>)
 | 33 | [الرياضيات العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 34 | [14 مارس](http://twitter.com/search?q=14+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
 | 35 | [نادي السيب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b3%d9%8a%d8%a8) | N/A |
-| 36 | [زانت الجلسه](http://twitter.com/search?q=%d8%b2%d8%a7%d9%86%d8%aa+%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87) | N/A |
-| 37 | [رقم الجلوس](http://twitter.com/search?q=%d8%b1%d9%82%d9%85+%d8%a7%d9%84%d8%ac%d9%84%d9%88%d8%b3) | N/A |
-| 38 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
+| 36 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
+| 37 | [زانت الجلسه](http://twitter.com/search?q=%d8%b2%d8%a7%d9%86%d8%aa+%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87) | N/A |
+| 38 | [رقم الجلوس](http://twitter.com/search?q=%d8%b1%d9%82%d9%85+%d8%a7%d9%84%d8%ac%d9%84%d9%88%d8%b3) | N/A |
 | 39 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
 | 40 | [مريم](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85) | N/A |
 | 41 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |

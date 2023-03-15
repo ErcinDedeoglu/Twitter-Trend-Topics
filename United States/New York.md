@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-15 02:34:30 UTC`
+📆 Last Updated: `2023-03-15 03:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 2 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 3 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 3 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
 | 4 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 5 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
-| 6 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 7 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 8 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 9 | [Beane](http://twitter.com/search?q=Beane) | N/A |
-| 10 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 11 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 12 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 13 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 14 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 15 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 16 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 17 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 18 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 19 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 20 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 21 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 22 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 23 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 24 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 25 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 26 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 27 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 28 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 29 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 30 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 31 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 32 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
-| 33 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 34 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 36 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
-| 37 | [Charity](http://twitter.com/search?q=Charity) | N/A |
-| 38 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 39 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 40 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
-| 41 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 42 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 43 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 44 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
-| 45 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
-| 46 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 47 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 48 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 49 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
-| 50 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 5 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 6 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 7 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
+| 8 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 9 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 11 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 12 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
+| 13 | [Beane](http://twitter.com/search?q=Beane) | N/A |
+| 14 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 15 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 16 | [Pi Day](http://twitter.com/search?q=Pi+Day) | N/A |
+| 17 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 18 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 19 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 20 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 21 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 22 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 23 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 24 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 25 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 26 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 27 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 28 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 29 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 30 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 31 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 32 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 33 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
+| 34 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 35 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 36 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 37 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 38 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 39 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 40 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
+| 41 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 42 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 43 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 44 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 45 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 46 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 47 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
+| 48 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 49 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 50 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
 
 
 

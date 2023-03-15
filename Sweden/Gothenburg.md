@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-15 02:34:04 UTC`
+📆 Last Updated: `2023-03-15 03:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,18 +43,18 @@ This is top 50 for [Sweden](</Sweden>)
 | 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 27 | [#hv71](http://twitter.com/search?q=%23hv71) | N/A |
 | 28 | [Salem](http://twitter.com/search?q=Salem) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 31 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
-| 32 | [trist](http://twitter.com/search?q=trist) | N/A |
-| 33 | [nordea](http://twitter.com/search?q=nordea) | N/A |
-| 34 | [Svarta](http://twitter.com/search?q=Svarta) | N/A |
-| 35 | [Durmaz](http://twitter.com/search?q=Durmaz) | N/A |
-| 36 | [Jättemätt](http://twitter.com/search?q=J%c3%a4ttem%c3%a4tt) | N/A |
-| 37 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 38 | [tvärtom](http://twitter.com/search?q=tv%c3%a4rtom) | N/A |
-| 39 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 40 | [läser](http://twitter.com/search?q=l%c3%a4ser) | N/A |
+| 29 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 30 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
+| 31 | [trist](http://twitter.com/search?q=trist) | N/A |
+| 32 | [nordea](http://twitter.com/search?q=nordea) | N/A |
+| 33 | [svarta](http://twitter.com/search?q=svarta) | N/A |
+| 34 | [durmaz](http://twitter.com/search?q=durmaz) | N/A |
+| 35 | [jättemätt](http://twitter.com/search?q=j%c3%a4ttem%c3%a4tt) | N/A |
+| 36 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 37 | [tvärtom](http://twitter.com/search?q=tv%c3%a4rtom) | N/A |
+| 38 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 39 | [läser](http://twitter.com/search?q=l%c3%a4ser) | N/A |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 41 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 42 | [Bajen](http://twitter.com/search?q=Bajen) | N/A |
 | 43 | [Werner](http://twitter.com/search?q=Werner) | N/A |

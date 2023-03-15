@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-15 02:34:35 UTC`
+📆 Last Updated: `2023-03-15 03:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,22 +49,22 @@ This is top 50 for Belgium
 | 32 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 33 | [Links](http://twitter.com/search?q=Links) | N/A |
 | 34 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 35 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
-| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 37 | [Sihame El Kaouakibi](http://twitter.com/search?q=Sihame+El+Kaouakibi) | N/A |
-| 38 | [Council](http://twitter.com/search?q=Council) | N/A |
-| 39 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 40 | [Mary](http://twitter.com/search?q=Mary) | N/A |
-| 41 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 42 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 43 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
-| 44 | [leuven](http://twitter.com/search?q=leuven) | N/A |
-| 45 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 46 | [J'arrive](http://twitter.com/search?q=J%27arrive) | N/A |
-| 47 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
-| 48 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
-| 49 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [sihame el kaouakibi](http://twitter.com/search?q=sihame+el+kaouakibi) | N/A |
+| 37 | [Council](http://twitter.com/search?q=Council) | N/A |
+| 38 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 39 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 40 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 41 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 42 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
+| 43 | [leuven](http://twitter.com/search?q=leuven) | N/A |
+| 44 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 45 | [J'arrive](http://twitter.com/search?q=J%27arrive) | N/A |
+| 46 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
+| 47 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
+| 48 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 49 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 
 
 

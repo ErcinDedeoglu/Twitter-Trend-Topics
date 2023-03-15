@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-15 02:34:00 UTC`
+📆 Last Updated: `2023-03-15 03:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,15 +28,15 @@ This is top 50 for [Germany](</Germany>)
 | 11 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
 | 12 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 13 | [volksheld](http://twitter.com/search?q=volksheld) | N/A |
-| 14 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 17 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 18 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 19 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 20 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 21 | [Brie](http://twitter.com/search?q=Brie) | N/A |
-| 22 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 16 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 18 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 19 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 20 | [Brie](http://twitter.com/search?q=Brie) | N/A |
+| 21 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 22 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
 | 23 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
 | 24 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
 | 25 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
@@ -49,20 +49,20 @@ This is top 50 for [Germany](</Germany>)
 | 32 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
 | 33 | [Foul](http://twitter.com/search?q=Foul) | N/A |
 | 34 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 35 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 36 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 37 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 35 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 36 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 37 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
 | 38 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
 | 39 | [bock auf arbeit](http://twitter.com/search?q=bock+auf+arbeit) | N/A |
 | 40 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 41 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
+| 41 | [strafrecht](http://twitter.com/search?q=strafrecht) | N/A |
 | 42 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
 | 43 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 44 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 44 | [Sender](http://twitter.com/search?q=Sender) | N/A |
 | 45 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 46 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 47 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 48 | [rauch](http://twitter.com/search?q=rauch) | N/A |
+| 46 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 47 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 48 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
 | 49 | [Hannah Arendt](http://twitter.com/search?q=Hannah+Arendt) | N/A |
 
 

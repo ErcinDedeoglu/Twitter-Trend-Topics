@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-15 02:34:38 UTC`
+📆 Last Updated: `2023-03-15 03:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,9 +31,9 @@ This is top 50 for Kuwait
 | 14 | [طلال الخالد](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af) | N/A |
 | 15 | [الدوام المرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b1%d9%86) | N/A |
 | 16 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 17 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
-| 18 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 19 | [العارضيه التعاونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d8%b1%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 17 | [العارضيه التعاونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d8%b1%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 18 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
+| 19 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
 | 20 | [دارميان](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1%d9%85%d9%8a%d8%a7%d9%86) | دارميان is a Persian phrase meaning "both of us". |
 | 21 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
 | 22 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
@@ -50,21 +50,21 @@ This is top 50 for Kuwait
 | 33 | [يابو خالد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
 | 34 | [يابو طلال](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
 | 35 | [النايب السابق](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
-| 36 | [محمد مشل](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b4%d9%84) | N/A |
-| 37 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 38 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 39 | [ابن تيمية](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%aa%d9%8a%d9%85%d9%8a%d8%a9) | N/A |
-| 40 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 41 | [الساوره الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 42 | [الجمعيات التعاونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 43 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
-| 44 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 45 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 46 | [وزارة الكهرباء](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1) | N/A |
-| 47 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 48 | [وزارة الأشغال](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%a3%d8%b4%d8%ba%d8%a7%d9%84) | N/A |
-| 49 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 50 | [جمال الكاظمي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85%d9%8a) | N/A |
+| 36 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 37 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 38 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 39 | [الساوره الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 40 | [الجمعيات التعاونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 41 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
+| 42 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 43 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 44 | [وزارة الكهرباء](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1) | N/A |
+| 45 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
+| 46 | [وزارة الأشغال](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%a3%d8%b4%d8%ba%d8%a7%d9%84) | N/A |
+| 47 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 48 | [جمال الكاظمي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85%d9%8a) | N/A |
+| 49 | [الاتحاد الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 50 | [عبدالرحمن](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-15 02:34:32 UTC`
+📆 Last Updated: `2023-03-15 03:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United States](</United States>)
 | 4 | [Vando](http://twitter.com/search?q=Vando) | N/A |
 | 5 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
 | 6 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
-| 7 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 8 | [PG&E](http://twitter.com/search?q=PG%26E) | N/A |
-| 9 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 10 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 11 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 12 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 13 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
-| 14 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 15 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 16 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 17 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 18 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 19 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 20 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 21 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 22 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 23 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 24 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 25 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 26 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 27 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 28 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 29 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 30 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
-| 31 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 32 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 33 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 34 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
-| 35 | [Charity](http://twitter.com/search?q=Charity) | N/A |
-| 36 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 37 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 38 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
-| 39 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 40 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 41 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 42 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
-| 43 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
-| 44 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 45 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 46 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 47 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
-| 48 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 49 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 50 | [Tolu](http://twitter.com/search?q=Tolu) | N/A |
+| 7 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 8 | [Pi Day](http://twitter.com/search?q=Pi+Day) | N/A |
+| 9 | [PG&E](http://twitter.com/search?q=PG%26E) | N/A |
+| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 11 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 12 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 13 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
+| 14 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 15 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
+| 16 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 17 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 18 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 19 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 20 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 21 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 22 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 23 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 24 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 25 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 26 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 27 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 28 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 29 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
+| 30 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 31 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 32 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
+| 33 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 34 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 35 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 36 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 37 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 38 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 39 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 40 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 41 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 42 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 43 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 44 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
+| 45 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
+| 46 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 47 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 48 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 49 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
+| 50 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
 
 
 

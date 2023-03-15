@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-15 02:33:58 UTC`
+📆 Last Updated: `2023-03-15 03:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,7 +36,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 19 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 | 20 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 22 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
+| 22 | [seachtain](http://twitter.com/search?q=seachtain) | N/A |
 | 23 | [Werner](http://twitter.com/search?q=Werner) | N/A |
 | 24 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
 | 25 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
@@ -51,8 +51,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 34 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
 | 35 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
 | 36 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 37 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
-| 38 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 37 | [taoiseach](http://twitter.com/search?q=taoiseach) | N/A |
+| 38 | [gaillard du mesnil](http://twitter.com/search?q=gaillard+du+mesnil) | N/A |
 | 39 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
 | 40 | [Helen](http://twitter.com/search?q=Helen) | N/A |
 | 41 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |

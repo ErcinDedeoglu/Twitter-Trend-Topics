@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-03-15 02:34:16 UTC`
+📆 Last Updated: `2023-03-15 03:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 23 | [عبدالعزيز الحربيه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 24 | [ناصر الدوسري](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | ناصر الدوسري is the name of a prominent Iraqi politician who served as Prime Minister of Iraq from 2006 to 2014. In English, it translates to Nouri al-Maliki. |
 | 25 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 26 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 27 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
-| 28 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 29 | [قول هالاند](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af) | N/A |
+| 26 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
+| 27 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 28 | [قول هالاند](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af) | N/A |
+| 29 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
 | 30 | [كلية الملك عبدالعزيز](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
 | 31 | [قول ثالث](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
 | 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 33 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 34 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 35 | [دور هام](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d9%87%d8%a7%d9%85) | N/A |
+| 33 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 34 | [دور هام](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d9%87%d8%a7%d9%85) | N/A |
+| 35 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
 | 36 | [هيثم عسيري](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | هيثم عسيري is a male Arabic name. It is composed of two elements: هيثم, which means "generous" or "benevolent", and عسيري, which means "enduring". In English, the name could be translated as "Generous and Enduring". |
 | 37 | [الفهيد](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%87%d9%8a%d8%af) | الفهيد is an Arabic phrase meaning "the witness". It is often used to refer to someone who has seen or experienced something firsthand. |
 | 38 | [دزيكو](http://twitter.com/search?q=%d8%af%d8%b2%d9%8a%d9%83%d9%88) | دزيكو is a type of traditional Yemeni dance. It is a form of folk dance that is performed by men and women in Yemen. The word "دزيكو" comes from the Arabic root word "dazka", which means to move quickly or to jump. In English, it can be translated as "quick dance". |
 | 39 | [مران الثالث](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
 | 40 | [محمد مران](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%a7%d9%86) | N/A |
 | 41 | [اليامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d9%85%d9%8a) | اليامي is an Arabic word that means "the night". |
-| 42 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 43 | [سرا الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d8%a7+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
-| 44 | [دارميان](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1%d9%85%d9%8a%d8%a7%d9%86) | دارميان is a Persian phrase meaning "both of us". |
-| 45 | [برنامج الصدمه](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d8%b5%d8%af%d9%85%d9%87) | N/A |
-| 46 | [فوز الزعيم](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85) | N/A |
-| 47 | [علي التاهل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%a7%d9%87%d9%84) | N/A |
-| 48 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 49 | [فراس](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d8%b3) | N/A |
-| 50 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
+| 42 | [سرا الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d8%a7+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
+| 43 | [برنامج الصدمه](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d8%b5%d8%af%d9%85%d9%87) | N/A |
+| 44 | [فوز الزعيم](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85) | N/A |
+| 45 | [علي التاهل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%a7%d9%87%d9%84) | N/A |
+| 46 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 47 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
+| 48 | [الامه النصراويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a%d9%87) | N/A |
+| 49 | [علم الملك](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 50 | [دارميان](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1%d9%85%d9%8a%d8%a7%d9%86) | دارميان is a Persian phrase meaning "both of us". |
 
 
 

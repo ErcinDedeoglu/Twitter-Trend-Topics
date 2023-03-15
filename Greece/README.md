@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-03-15 02:34:36 UTC`
+📆 Last Updated: `2023-03-15 03:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for Greece
 | 10 | [νικητας](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%b7%cf%84%ce%b1%cf%82) | N/A |
 | 11 | [Πρετεντερη](http://twitter.com/search?q=%ce%a0%cf%81%ce%b5%cf%84%ce%b5%ce%bd%cf%84%ce%b5%cf%81%ce%b7) | N/A |
 | 12 | [ΑΔΕΔΥ](http://twitter.com/search?q=%ce%91%ce%94%ce%95%ce%94%ce%a5) | N/A |
-| 13 | [Πεμπτης](http://twitter.com/search?q=%ce%a0%ce%b5%ce%bc%cf%80%cf%84%ce%b7%cf%82) | N/A |
+| 13 | [πεμπτης](http://twitter.com/search?q=%cf%80%ce%b5%ce%bc%cf%80%cf%84%ce%b7%cf%82) | N/A |
 | 14 | [Αγορου](http://twitter.com/search?q=%ce%91%ce%b3%ce%bf%cf%81%ce%bf%cf%85) | N/A |
 | 15 | [Βασαλος](http://twitter.com/search?q=%ce%92%ce%b1%cf%83%ce%b1%ce%bb%ce%bf%cf%82) | N/A |
 | 16 | [Μαυρη Θαλασσα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%85%cf%81%ce%b7+%ce%98%ce%b1%ce%bb%ce%b1%cf%83%cf%83%ce%b1) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Greece
 | 33 | [Κορο](http://twitter.com/search?q=%ce%9a%ce%bf%cf%81%ce%bf) | N/A |
 | 34 | [καλημερα λιτσα](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%bb%ce%b9%cf%84%cf%83%ce%b1) | N/A |
 | 35 | [Νομπελ](http://twitter.com/search?q=%ce%9d%ce%bf%ce%bc%cf%80%ce%b5%ce%bb) | N/A |
-| 36 | [Η Λια](http://twitter.com/search?q=%ce%97+%ce%9b%ce%b9%ce%b1) | N/A |
+| 36 | [η λια](http://twitter.com/search?q=%ce%b7+%ce%bb%ce%b9%ce%b1) | N/A |
 | 37 | [καλημερα παναγιωτη](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b7) | N/A |
 | 38 | [22 μαρτιου](http://twitter.com/search?q=22+%ce%bc%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
 | 39 | [ευδοκια](http://twitter.com/search?q=%ce%b5%cf%85%ce%b4%ce%bf%ce%ba%ce%b9%ce%b1) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Greece
 | 42 | [14 μαρτιου](http://twitter.com/search?q=14+%ce%bc%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
 | 43 | [Τοσκα](http://twitter.com/search?q=%ce%a4%ce%bf%cf%83%ce%ba%ce%b1) | N/A |
 | 44 | [Πλευρη](http://twitter.com/search?q=%ce%a0%ce%bb%ce%b5%cf%85%cf%81%ce%b7) | N/A |
-| 45 | [Ασημινα](http://twitter.com/search?q=%ce%91%cf%83%ce%b7%ce%bc%ce%b9%ce%bd%ce%b1) | N/A |
+| 45 | [ασημινα](http://twitter.com/search?q=%ce%b1%cf%83%ce%b7%ce%bc%ce%b9%ce%bd%ce%b1) | N/A |
 | 46 | [Κοντιζα](http://twitter.com/search?q=%ce%9a%ce%bf%ce%bd%cf%84%ce%b9%ce%b6%ce%b1) | N/A |
-| 47 | [Μεγκα](http://twitter.com/search?q=%ce%9c%ce%b5%ce%b3%ce%ba%ce%b1) | N/A |
+| 47 | [μεγκα](http://twitter.com/search?q=%ce%bc%ce%b5%ce%b3%ce%ba%ce%b1) | N/A |
 | 48 | [δημητρης](http://twitter.com/search?q=%ce%b4%ce%b7%ce%bc%ce%b7%cf%84%cf%81%ce%b7%cf%82) | N/A |
 | 49 | [ευαγορας παλληκαριδης](http://twitter.com/search?q=%ce%b5%cf%85%ce%b1%ce%b3%ce%bf%cf%81%ce%b1%cf%82+%cf%80%ce%b1%ce%bb%ce%bb%ce%b7%ce%ba%ce%b1%cf%81%ce%b9%ce%b4%ce%b7%cf%82) | N/A |
-| 50 | [Μπαρκα](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%cf%81%ce%ba%ce%b1) | N/A |
+| 50 | [μπαρκα](http://twitter.com/search?q=%ce%bc%cf%80%ce%b1%cf%81%ce%ba%ce%b1) | N/A |
 
 
 

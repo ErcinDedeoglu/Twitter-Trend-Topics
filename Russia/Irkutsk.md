@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Irkutsk
 
-📆 Last Updated: `2023-03-15 02:34:18 UTC`
+📆 Last Updated: `2023-03-15 03:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for [Russia](</Russia>)
 | ------- | ------------ | ------------ |
 | 1 | [#Basee](http://twitter.com/search?q=%23Basee) | N/A |
 | 2 | [Оскар](http://twitter.com/search?q=%d0%9e%d1%81%d0%ba%d0%b0%d1%80) | N/A |
-| 3 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 4 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 5 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 6 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 7 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 8 | [Greetingg Doomboo](http://twitter.com/search?q=Greetingg+Doomboo) | N/A |
-| 9 | [европу](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
-| 10 | [байден](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
-| 11 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 12 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 13 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 3 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 4 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 5 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 6 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 7 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 8 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
+| 9 | [Greetingg Doomboo](http://twitter.com/search?q=Greetingg+Doomboo) | N/A |
+| 10 | [европу](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
+| 11 | [байден](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
+| 12 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 13 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
 | 14 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
 | 15 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
 | 16 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
@@ -40,10 +40,10 @@ This is top 50 for [Russia](</Russia>)
 | 23 | [грузию](http://twitter.com/search?q=%d0%b3%d1%80%d1%83%d0%b7%d0%b8%d1%8e) | N/A |
 | 24 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 25 | [яндекса](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81%d0%b0) | N/A |
-| 26 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 26 | [нато](http://twitter.com/search?q=%d0%bd%d0%b0%d1%82%d0%be) | N/A |
 | 27 | [обнимаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
 | 28 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
-| 29 | [Добро](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%be) | N/A |
+| 29 | [добро](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be) | N/A |
 | 30 | [странно](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
 | 31 | [прикольно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 32 | [игра wordle](http://twitter.com/search?q=%d0%b8%d0%b3%d1%80%d0%b0+wordle) | N/A |

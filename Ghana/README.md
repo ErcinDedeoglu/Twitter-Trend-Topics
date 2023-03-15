@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-15 02:34:36 UTC`
+📆 Last Updated: `2023-03-15 03:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,11 +26,11 @@ This is top 50 for Ghana
 | 9 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 10 | [Sark](http://twitter.com/search?q=Sark) | N/A |
 | 11 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [#KNUSTGraduation](http://twitter.com/search?q=%23KNUSTGraduation) | N/A |
-| 14 | [Ink Boy](http://twitter.com/search?q=Ink+Boy) | N/A |
-| 15 | [Despite Media](http://twitter.com/search?q=Despite+Media) | N/A |
-| 16 | [#dnbp](http://twitter.com/search?q=%23dnbp) | N/A |
+| 12 | [#knustgraduation](http://twitter.com/search?q=%23knustgraduation) | N/A |
+| 13 | [Ink Boy](http://twitter.com/search?q=Ink+Boy) | N/A |
+| 14 | [Despite Media](http://twitter.com/search?q=Despite+Media) | N/A |
+| 15 | [#dnbp](http://twitter.com/search?q=%23dnbp) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 17 | [e-levy](http://twitter.com/search?q=e-levy) | N/A |
 | 18 | [#puredrive](http://twitter.com/search?q=%23puredrive) | N/A |
 | 19 | [presec](http://twitter.com/search?q=presec) | N/A |

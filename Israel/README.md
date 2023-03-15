@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-15 02:34:37 UTC`
+📆 Last Updated: `2023-03-15 03:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,28 +43,28 @@ This is top 50 for Israel
 | 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 27 | [גיוס חובה](http://twitter.com/search?q=%d7%92%d7%99%d7%95%d7%a1+%d7%97%d7%95%d7%91%d7%94) | N/A |
 | 28 | [חוק פרטיות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa) | N/A |
-| 29 | [רצח רבין](http://twitter.com/search?q=%d7%a8%d7%a6%d7%97+%d7%a8%d7%91%d7%99%d7%9f) | N/A |
-| 30 | [בית הספר](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%a1%d7%a4%d7%a8) | N/A |
-| 31 | [של ריקלין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%99%d7%a7%d7%9c%d7%99%d7%9f) | N/A |
-| 32 | [מס הכנסה](http://twitter.com/search?q=%d7%9e%d7%a1+%d7%94%d7%9b%d7%a0%d7%a1%d7%94) | N/A |
-| 33 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
-| 34 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 35 | [עבד כי](http://twitter.com/search?q=%d7%a2%d7%91%d7%93+%d7%9b%d7%99) | N/A |
-| 36 | [היא רשע](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%a8%d7%a9%d7%a2) | N/A |
-| 37 | [ר הכנסת](http://twitter.com/search?q=%d7%a8+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 38 | [מאיר רובין](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%a8%d7%95%d7%91%d7%99%d7%9f) | N/A |
-| 39 | [פה אחד](http://twitter.com/search?q=%d7%a4%d7%94+%d7%90%d7%97%d7%93) | N/A |
-| 40 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 41 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
-| 42 | [רחל עזריה](http://twitter.com/search?q=%d7%a8%d7%97%d7%9c+%d7%a2%d7%96%d7%a8%d7%99%d7%94) | N/A |
-| 43 | [כי טוב](http://twitter.com/search?q=%d7%9b%d7%99+%d7%98%d7%95%d7%91) | N/A |
-| 44 | [משנה מי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a0%d7%94+%d7%9e%d7%99) | N/A |
-| 45 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 46 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 47 | [עם חולצה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%95%d7%9c%d7%a6%d7%94) | N/A |
-| 48 | [חוק ההתנתקות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%94%d7%aa%d7%a0%d7%aa%d7%a7%d7%95%d7%aa) | N/A |
-| 49 | [מעגל ראשון](http://twitter.com/search?q=%d7%9e%d7%a2%d7%92%d7%9c+%d7%a8%d7%90%d7%a9%d7%95%d7%9f) | N/A |
-| 50 | [כוח אדם](http://twitter.com/search?q=%d7%9b%d7%95%d7%97+%d7%90%d7%93%d7%9d) | N/A |
+| 29 | [בית הספר](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%a1%d7%a4%d7%a8) | N/A |
+| 30 | [של ריקלין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%99%d7%a7%d7%9c%d7%99%d7%9f) | N/A |
+| 31 | [מס הכנסה](http://twitter.com/search?q=%d7%9e%d7%a1+%d7%94%d7%9b%d7%a0%d7%a1%d7%94) | N/A |
+| 32 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
+| 33 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 34 | [עבד כי](http://twitter.com/search?q=%d7%a2%d7%91%d7%93+%d7%9b%d7%99) | N/A |
+| 35 | [היא רשע](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%a8%d7%a9%d7%a2) | N/A |
+| 36 | [ר הכנסת](http://twitter.com/search?q=%d7%a8+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 37 | [מאיר רובין](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%a8%d7%95%d7%91%d7%99%d7%9f) | N/A |
+| 38 | [פה אחד](http://twitter.com/search?q=%d7%a4%d7%94+%d7%90%d7%97%d7%93) | N/A |
+| 39 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 40 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
+| 41 | [רחל עזריה](http://twitter.com/search?q=%d7%a8%d7%97%d7%9c+%d7%a2%d7%96%d7%a8%d7%99%d7%94) | N/A |
+| 42 | [כי טוב](http://twitter.com/search?q=%d7%9b%d7%99+%d7%98%d7%95%d7%91) | N/A |
+| 43 | [משנה מי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a0%d7%94+%d7%9e%d7%99) | N/A |
+| 44 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 45 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 46 | [עם חולצה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%95%d7%9c%d7%a6%d7%94) | N/A |
+| 47 | [חוק ההתנתקות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%94%d7%aa%d7%a0%d7%aa%d7%a7%d7%95%d7%aa) | N/A |
+| 48 | [מעגל ראשון](http://twitter.com/search?q=%d7%9e%d7%a2%d7%92%d7%9c+%d7%a8%d7%90%d7%a9%d7%95%d7%9f) | N/A |
+| 49 | [כוח אדם](http://twitter.com/search?q=%d7%9b%d7%95%d7%97+%d7%90%d7%93%d7%9d) | N/A |
+| 50 | [וואו איזה](http://twitter.com/search?q=%d7%95%d7%95%d7%90%d7%95+%d7%90%d7%99%d7%96%d7%94) | N/A |
 
 
 

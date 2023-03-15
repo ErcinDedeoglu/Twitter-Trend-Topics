@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-15 02:34:24 UTC`
+📆 Last Updated: `2023-03-15 03:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Turkey](</Turkey>)
 | 11 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
 | 12 | [emel uslu atik](http://twitter.com/search?q=emel+uslu+atik) | N/A |
 | 13 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 14 | [SABAH YALAN AKŞAM YALAN](http://twitter.com/search?q=SABAH+YALAN+AK%c5%9eAM+YALAN) | N/A |
-| 15 | [mebohalde şartsıztayin](http://twitter.com/search?q=mebohalde+%c5%9farts%c4%b1ztayin) | N/A |
-| 16 | [Konda](http://twitter.com/search?q=Konda) | N/A |
-| 17 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
-| 18 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 19 | [depremşartlı yapıkayıt](http://twitter.com/search?q=deprem%c5%9fartl%c4%b1+yap%c4%b1kay%c4%b1t) | N/A |
-| 20 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
-| 21 | [beni türk](http://twitter.com/search?q=beni+t%c3%bcrk) | N/A |
-| 22 | [otocost otomotivasistanınız](http://twitter.com/search?q=otocost+otomotivasistan%c4%b1n%c4%b1z) | N/A |
-| 23 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 25 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 26 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
-| 27 | [Rus Su-27](http://twitter.com/search?q=Rus+Su-27) | N/A |
-| 28 | [yapıkayıt mağdurları](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+ma%c4%9fdurlar%c4%b1) | N/A |
-| 29 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
-| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 31 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
-| 32 | [esnafsuçlu değilborçlu](http://twitter.com/search?q=esnafsu%c3%a7lu+de%c4%9filbor%c3%a7lu) | N/A |
-| 33 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 34 | [Barış Yıldız](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Y%c4%b1ld%c4%b1z) | N/A |
-| 35 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
-| 36 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
-| 37 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
-| 38 | [sosyal bilgiler](http://twitter.com/search?q=sosyal+bilgiler) | N/A |
-| 39 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
-| 40 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 41 | [AfSizden OyBizden](http://twitter.com/search?q=AfSizden+OyBizden) | N/A |
-| 42 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
-| 43 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
-| 44 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 45 | [953 Bin](http://twitter.com/search?q=953+Bin) | N/A |
-| 46 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 47 | [Yerli](http://twitter.com/search?q=Yerli) | N/A |
-| 48 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 49 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
+| 14 | [mebohalde şartsıztayin](http://twitter.com/search?q=mebohalde+%c5%9farts%c4%b1ztayin) | N/A |
+| 15 | [Konda](http://twitter.com/search?q=Konda) | N/A |
+| 16 | [SABAH YALAN AKŞAM YALAN](http://twitter.com/search?q=SABAH+YALAN+AK%c5%9eAM+YALAN) | N/A |
+| 17 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 18 | [depremşartlı yapıkayıt](http://twitter.com/search?q=deprem%c5%9fartl%c4%b1+yap%c4%b1kay%c4%b1t) | N/A |
+| 19 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
+| 20 | [beni türk](http://twitter.com/search?q=beni+t%c3%bcrk) | N/A |
+| 21 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 22 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
+| 23 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
+| 24 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
+| 25 | [Rus Su-27](http://twitter.com/search?q=Rus+Su-27) | N/A |
+| 26 | [yapıkayıt mağdurları](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+ma%c4%9fdurlar%c4%b1) | N/A |
+| 27 | [emine ülker tarhan](http://twitter.com/search?q=emine+%c3%bclker+tarhan) | N/A |
+| 28 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 29 | [esnafsuçlu değilborçlu](http://twitter.com/search?q=esnafsu%c3%a7lu+de%c4%9filbor%c3%a7lu) | N/A |
+| 30 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
+| 33 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
+| 34 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
+| 35 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 36 | [sosyal bilgiler](http://twitter.com/search?q=sosyal+bilgiler) | N/A |
+| 37 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
+| 38 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 39 | [Barış Yıldız](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Y%c4%b1ld%c4%b1z) | N/A |
+| 40 | [AfSizden OyBizden](http://twitter.com/search?q=AfSizden+OyBizden) | N/A |
+| 41 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
+| 42 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
+| 43 | [953 bin](http://twitter.com/search?q=953+bin) | N/A |
+| 44 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 45 | [Yerli](http://twitter.com/search?q=Yerli) | N/A |
+| 46 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
+| 47 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 48 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 49 | [Hüda Par](http://twitter.com/search?q=H%c3%bcda+Par) | N/A |
 
 
 

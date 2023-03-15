@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-15 02:33:58 UTC`
+📆 Last Updated: `2023-03-15 03:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
-| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 4 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
 | 5 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 6 | [#GSB2023](http://twitter.com/search?q=%23GSB2023) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 20 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 | 21 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 22 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 23 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
+| 23 | [seachtain](http://twitter.com/search?q=seachtain) | N/A |
 | 24 | [Werner](http://twitter.com/search?q=Werner) | N/A |
 | 25 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
 | 26 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
@@ -52,8 +52,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 35 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
 | 36 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
 | 37 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 38 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
-| 39 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 38 | [taoiseach](http://twitter.com/search?q=taoiseach) | N/A |
+| 39 | [gaillard du mesnil](http://twitter.com/search?q=gaillard+du+mesnil) | N/A |
 | 40 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
 | 41 | [Helen](http://twitter.com/search?q=Helen) | N/A |
 | 42 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |

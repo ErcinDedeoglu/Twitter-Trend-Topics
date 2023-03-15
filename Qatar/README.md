@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-15 02:34:40 UTC`
+📆 Last Updated: `2023-03-15 03:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for Qatar
 | ------- | ------------ | ------------ |
 | 1 | [#عل_بن](http://twitter.com/search?q=%23%d8%b9%d9%84_%d8%a8%d9%86) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#رمضان](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 4 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 5 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
-| 6 | [#gsf23](http://twitter.com/search?q=%23gsf23) | N/A |
-| 7 | [#قايمه_التميز](http://twitter.com/search?q=%23%d9%82%d8%a7%d9%8a%d9%85%d9%87_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2) | N/A |
+| 3 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 4 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 5 | [#gsf23](http://twitter.com/search?q=%23gsf23) | N/A |
+| 6 | [#قايمه_التميز](http://twitter.com/search?q=%23%d9%82%d8%a7%d9%8a%d9%85%d9%87_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2) | N/A |
+| 7 | [#رمضان](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 8 | [الشركات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
 | 9 | [الحصه التموينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 10 | [مساعد وزير الخارجيه](http://twitter.com/search?q=%d9%85%d8%b3%d8%a7%d8%b9%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Qatar
 | 30 | [دليل علي](http://twitter.com/search?q=%d8%af%d9%84%d9%8a%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
 | 31 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
 | 32 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
-| 33 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 34 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
-| 35 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 36 | [الوفد المرافق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%81%d9%82) | N/A |
-| 37 | [علي الدنيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 39 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
-| 40 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 41 | [الارصاد الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 43 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 44 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 45 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
-| 46 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 47 | [الاهلى](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%89) | الاهلى is a professional football club in Egypt. It is based in Cairo and is one of the most successful clubs in the country. The name الاهلى translates to "The National" in English. |
-| 48 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 49 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
-| 50 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 33 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 34 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 35 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
+| 36 | [London](http://twitter.com/search?q=London) | N/A |
+| 37 | [الوفد المرافق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%81%d9%82) | N/A |
+| 38 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 39 | [علي الدنيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 41 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 42 | [الارصاد الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 44 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 45 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 46 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 47 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
+| 48 | [Raila](http://twitter.com/search?q=Raila) | N/A |
+| 49 | [الاهلى](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%89) | الاهلى is a professional football club in Egypt. It is based in Cairo and is one of the most successful clubs in the country. The name الاهلى translates to "The National" in English. |
+| 50 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 
 
 

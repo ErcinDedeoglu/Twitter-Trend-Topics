@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-15 02:34:04 UTC`
+📆 Last Updated: `2023-03-15 03:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 | 8 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [#wsis](http://twitter.com/search?q=%23wsis) | N/A |
+| 10 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
 | 11 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 12 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
@@ -51,10 +51,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 34 | [Themen](http://twitter.com/search?q=Themen) | N/A |
 | 35 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
 | 36 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
-| 39 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 40 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 37 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 38 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 39 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 41 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
 | 42 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
 | 43 | [London](http://twitter.com/search?q=London) | N/A |

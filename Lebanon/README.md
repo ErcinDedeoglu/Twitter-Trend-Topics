@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-15 02:34:38 UTC`
+📆 Last Updated: `2023-03-15 03:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for Lebanon
 | 24 | [المضحك المبكي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b6%d8%ad%d9%83+%d8%a7%d9%84%d9%85%d8%a8%d9%83%d9%8a) | N/A |
 | 25 | [تاريخ لبنان](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
 | 26 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 27 | [الرييس الروسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |
-| 28 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
-| 29 | [شهر رمضان المبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 30 | [العدو الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 31 | [صلاح الدين](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 32 | [شعب لبنان العظيم](http://twitter.com/search?q=%d8%b4%d8%b9%d8%a8+%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 33 | [الشعب اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
-| 34 | [الامام الحسين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 35 | [سيليكون فالي](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
-| 36 | [ابو ليلي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d9%8a%d9%84%d9%8a) | ابو ليلي is an Arabic phrase meaning "Father of the Night". It is often used as a term of endearment for a father or other male figure. |
-| 37 | [لبنان القوي](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d9%82%d9%88%d9%8a) | N/A |
-| 38 | [علي الشارع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d8%b9) | N/A |
-| 39 | [ملعب جونيه](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%ac%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 40 | [القضاء الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 41 | [sayrafa](http://twitter.com/search?q=sayrafa) | N/A |
-| 42 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 43 | [وزير الماليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 44 | [المصرف المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 45 | [الوحده الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 46 | [علي جهنم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d9%87%d9%86%d9%85) | N/A |
-| 47 | [السفير السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 48 | [الدوله المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
-| 49 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 50 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
+| 27 | [صديقي العزيز](http://twitter.com/search?q=%d8%b5%d8%af%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 28 | [الرييس الروسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |
+| 29 | [Beirut](http://twitter.com/search?q=Beirut) | N/A |
+| 30 | [شهر رمضان المبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 31 | [العدو الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 32 | [صلاح الدين](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 33 | [شعب لبنان العظيم](http://twitter.com/search?q=%d8%b4%d8%b9%d8%a8+%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 34 | [الشعب اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
+| 35 | [الامام الحسين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 36 | [سيليكون فالي](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
+| 37 | [ابو ليلي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d9%8a%d9%84%d9%8a) | ابو ليلي is an Arabic phrase meaning "Father of the Night". It is often used as a term of endearment for a father or other male figure. |
+| 38 | [لبنان القوي](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d9%82%d9%88%d9%8a) | N/A |
+| 39 | [علي الشارع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d8%b9) | N/A |
+| 40 | [ملعب جونيه](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%ac%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 41 | [القضاء الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 42 | [sayrafa](http://twitter.com/search?q=sayrafa) | N/A |
+| 43 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 44 | [وزير الماليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 45 | [المصرف المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 46 | [الوحده الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 47 | [علي جهنم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d9%87%d9%86%d9%85) | N/A |
+| 48 | [السفير السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 49 | [الدوله المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
+| 50 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
 
 
 

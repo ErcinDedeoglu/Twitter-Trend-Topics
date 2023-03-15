@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-15 02:34:36 UTC`
+📆 Last Updated: `2023-03-15 03:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -52,8 +52,8 @@ This is top 50 for Ireland
 | 35 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
 | 36 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
 | 37 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 38 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
-| 39 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 38 | [taoiseach](http://twitter.com/search?q=taoiseach) | N/A |
+| 39 | [gaillard du mesnil](http://twitter.com/search?q=gaillard+du+mesnil) | N/A |
 | 40 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
 | 41 | [Helen](http://twitter.com/search?q=Helen) | N/A |
 | 42 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |

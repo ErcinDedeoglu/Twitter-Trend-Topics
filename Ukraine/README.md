@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-15 02:34:41 UTC`
+📆 Last Updated: `2023-03-15 03:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Ukraine
 | 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 10 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
 | 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 12 | [черным](http://twitter.com/search?q=%d1%87%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
+| 12 | [Черным](http://twitter.com/search?q=%d0%a7%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
 | 13 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
 | 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 15 | [West](http://twitter.com/search?q=West) | N/A |
@@ -43,10 +43,10 @@ This is top 50 for Ukraine
 | 26 | [#NFTartwork](http://twitter.com/search?q=%23NFTartwork) | N/A |
 | 27 | [кричу](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d1%87%d1%83) | N/A |
 | 28 | [#NFTartist](http://twitter.com/search?q=%23NFTartist) | N/A |
-| 29 | [Донецка](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b0) | N/A |
+| 29 | [донецка](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b0) | N/A |
 | 30 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 31 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
-| 32 | [реально](http://twitter.com/search?q=%d1%80%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 32 | [РЕАЛЬНО](http://twitter.com/search?q=%d0%a0%d0%95%d0%90%d0%9b%d0%ac%d0%9d%d0%9e) | N/A |
 | 33 | [киеве](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
 | 34 | [байден](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
 | 35 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Ukraine
 | 37 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 38 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
 | 39 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
-| 40 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 40 | [нато](http://twitter.com/search?q=%d0%bd%d0%b0%d1%82%d0%be) | N/A |
 | 41 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 | 42 | [слей](http://twitter.com/search?q=%d1%81%d0%bb%d0%b5%d0%b9) | N/A |
 | 43 | [донбасс](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |

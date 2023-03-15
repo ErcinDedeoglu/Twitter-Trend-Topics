@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-15 02:34:35 UTC`
+📆 Last Updated: `2023-03-15 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for Denmark
 | 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 3 | [david nielsen](http://twitter.com/search?q=david+nielsen) | N/A |
 | 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [Capellas](http://twitter.com/search?q=Capellas) | N/A |
+| 5 | [capellas](http://twitter.com/search?q=capellas) | N/A |
 | 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 7 | [#rfcagf](http://twitter.com/search?q=%23rfcagf) | N/A |
 | 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for Denmark
 | 35 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
 | 36 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
 | 37 | [West](http://twitter.com/search?q=West) | N/A |
-| 38 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
+| 38 | [vallys](http://twitter.com/search?q=vallys) | N/A |
 | 39 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 40 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 | 41 | [Alex](http://twitter.com/search?q=Alex) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-15 02:33:57 UTC`
+📆 Last Updated: `2023-03-15 03:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,13 +32,13 @@ This is top 50 for [Poland](</Poland>)
 | 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 16 | [kaleta](http://twitter.com/search?q=kaleta) | N/A |
 | 17 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 18 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 19 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 18 | [nitras](http://twitter.com/search?q=nitras) | N/A |
+| 19 | [japierdole](http://twitter.com/search?q=japierdole) | N/A |
 | 20 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
 | 21 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
-| 22 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 23 | [franciszek blachnicki](http://twitter.com/search?q=franciszek+blachnicki) | N/A |
-| 24 | [Lipsk](http://twitter.com/search?q=Lipsk) | N/A |
+| 22 | [franciszek blachnicki](http://twitter.com/search?q=franciszek+blachnicki) | N/A |
+| 23 | [lipsk](http://twitter.com/search?q=lipsk) | N/A |
+| 24 | [Lange](http://twitter.com/search?q=Lange) | N/A |
 | 25 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
 | 26 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
 | 27 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for [Poland](</Poland>)
 | 29 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 30 | [zdrówka](http://twitter.com/search?q=zdr%c3%b3wka) | N/A |
 | 31 | [mikołaj](http://twitter.com/search?q=miko%c5%82aj) | N/A |
-| 32 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
+| 32 | [poczta polska](http://twitter.com/search?q=poczta+polska) | N/A |
 | 33 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
 | 34 | [justyny wydrzyńskiej](http://twitter.com/search?q=justyny+wydrzy%c5%84skiej) | N/A |
 | 35 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
 | 36 | [trela](http://twitter.com/search?q=trela) | N/A |
-| 37 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
-| 38 | [Wolność](http://twitter.com/search?q=Wolno%c5%9b%c4%87) | N/A |
-| 39 | [pięknego](http://twitter.com/search?q=pi%c4%99knego) | N/A |
-| 40 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
-| 41 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 37 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 38 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
+| 39 | [wolność](http://twitter.com/search?q=wolno%c5%9b%c4%87) | N/A |
+| 40 | [pięknego](http://twitter.com/search?q=pi%c4%99knego) | N/A |
+| 41 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
 | 42 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
 | 43 | [Totalnie](http://twitter.com/search?q=Totalnie) | N/A |
-| 44 | [Winna](http://twitter.com/search?q=Winna) | N/A |
-| 45 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
-| 46 | [tygodnik nie](http://twitter.com/search?q=tygodnik+nie) | N/A |
-| 47 | [gontarczyk](http://twitter.com/search?q=gontarczyk) | N/A |
-| 48 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 49 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
-| 50 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 44 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
+| 45 | [tygodnik nie](http://twitter.com/search?q=tygodnik+nie) | N/A |
+| 46 | [gontarczyk](http://twitter.com/search?q=gontarczyk) | N/A |
+| 47 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 48 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
+| 49 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 50 | [Winna](http://twitter.com/search?q=Winna) | N/A |
 
 
 
