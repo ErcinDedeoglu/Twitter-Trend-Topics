@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-15 14:16:10 UTC`
+📆 Last Updated: `2023-03-15 15:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Peru](</Peru>)
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [#lluvias](http://twitter.com/search?q=%23lluvias) | N/A |
 | 3 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 4 | [#PrimeroDios](http://twitter.com/search?q=%23PrimeroDios) | N/A |
-| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 6 | [Punta Hermosa](http://twitter.com/search?q=Punta+Hermosa) | N/A |
-| 7 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 8 | [Ripley](http://twitter.com/search?q=Ripley) | N/A |
-| 9 | [#SetMeFree_Pt2_Teaser](http://twitter.com/search?q=%23SetMeFree_Pt2_Teaser) | N/A |
-| 10 | [#huayco](http://twitter.com/search?q=%23huayco) | N/A |
-| 11 | [Rímac](http://twitter.com/search?q=R%c3%admac) | N/A |
-| 12 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 13 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 14 | [Chosica](http://twitter.com/search?q=Chosica) | N/A |
-| 15 | [Chaclacayo](http://twitter.com/search?q=Chaclacayo) | N/A |
+| 4 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 5 | [Punta Hermosa](http://twitter.com/search?q=Punta+Hermosa) | N/A |
+| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 7 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 8 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 9 | [Ripley](http://twitter.com/search?q=Ripley) | N/A |
+| 10 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 11 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 12 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 13 | [SET ME FREE PT2 TEASER](http://twitter.com/search?q=SET+ME+FREE+PT2+TEASER) | N/A |
+| 14 | [Rímac](http://twitter.com/search?q=R%c3%admac) | N/A |
+| 15 | [Chosica](http://twitter.com/search?q=Chosica) | N/A |
 | 16 | [Porky](http://twitter.com/search?q=Porky) | N/A |
-| 17 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
-| 18 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
-| 19 | [Chillón](http://twitter.com/search?q=Chill%c3%b3n) | N/A |
-| 20 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
-| 21 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 22 | [Carretera Central](http://twitter.com/search?q=Carretera+Central) | N/A |
-| 23 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 24 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
-| 25 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
-| 26 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
-| 27 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 28 | [López Aliaga](http://twitter.com/search?q=L%c3%b3pez+Aliaga) | N/A |
-| 29 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 30 | [Mariano Soso](http://twitter.com/search?q=Mariano+Soso) | N/A |
-| 31 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 32 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 33 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 34 | [Sicurezza](http://twitter.com/search?q=Sicurezza) | N/A |
-| 35 | [Flor Pablo](http://twitter.com/search?q=Flor+Pablo) | N/A |
-| 36 | [San Juan de Lurigancho](http://twitter.com/search?q=San+Juan+de+Lurigancho) | N/A |
-| 37 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 38 | [Cieneguilla](http://twitter.com/search?q=Cieneguilla) | N/A |
-| 39 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 40 | [ancón](http://twitter.com/search?q=anc%c3%b3n) | N/A |
-| 41 | [Comas](http://twitter.com/search?q=Comas) | N/A |
-| 42 | [Dalila](http://twitter.com/search?q=Dalila) | N/A |
-| 43 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 44 | [Pobre Colombia](http://twitter.com/search?q=Pobre+Colombia) | N/A |
-| 45 | [Puente Piedra](http://twitter.com/search?q=Puente+Piedra) | N/A |
-| 46 | [Relator](http://twitter.com/search?q=Relator) | N/A |
-| 47 | [Bermejo](http://twitter.com/search?q=Bermejo) | N/A |
-| 48 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
-| 49 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 50 | [Dona](http://twitter.com/search?q=Dona) | N/A |
+| 17 | [#huayco](http://twitter.com/search?q=%23huayco) | N/A |
+| 18 | [Chaclacayo](http://twitter.com/search?q=Chaclacayo) | N/A |
+| 19 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 20 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
+| 21 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 22 | [Chillón](http://twitter.com/search?q=Chill%c3%b3n) | N/A |
+| 23 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 24 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
+| 25 | [juliana](http://twitter.com/search?q=juliana) | N/A |
+| 26 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 27 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
+| 28 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
+| 29 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 30 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
+| 31 | [Carretera Central](http://twitter.com/search?q=Carretera+Central) | N/A |
+| 32 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 33 | [López Aliaga](http://twitter.com/search?q=L%c3%b3pez+Aliaga) | N/A |
+| 34 | [Cieneguilla](http://twitter.com/search?q=Cieneguilla) | N/A |
+| 35 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 36 | [Flor Pablo](http://twitter.com/search?q=Flor+Pablo) | N/A |
+| 37 | [Eliminatorias](http://twitter.com/search?q=Eliminatorias) | N/A |
+| 38 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 39 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 40 | [Sicurezza](http://twitter.com/search?q=Sicurezza) | N/A |
+| 41 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 42 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 43 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
+| 44 | [Consejo de Ministros](http://twitter.com/search?q=Consejo+de+Ministros) | N/A |
+| 45 | [Comas](http://twitter.com/search?q=Comas) | N/A |
+| 46 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 47 | [san juan de lurigancho](http://twitter.com/search?q=san+juan+de+lurigancho) | N/A |
+| 48 | [Dalila](http://twitter.com/search?q=Dalila) | N/A |
+| 49 | [Pobre Colombia](http://twitter.com/search?q=Pobre+Colombia) | N/A |
+| 50 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
 
 
 

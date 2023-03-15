@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-15 14:16:31 UTC`
+📆 Last Updated: `2023-03-15 15:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,48 @@ This is top 50 for [South Africa](</South Africa>)
 | 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 3 | [#ItCanBe](http://twitter.com/search?q=%23ItCanBe) | N/A |
 | 4 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 5 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 6 | [Lungile Phenyane](http://twitter.com/search?q=Lungile+Phenyane) | N/A |
+| 5 | [Lungile Phenyane](http://twitter.com/search?q=Lungile+Phenyane) | N/A |
+| 6 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 7 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 8 | [Slee](http://twitter.com/search?q=Slee) | N/A |
 | 9 | [Adriaan](http://twitter.com/search?q=Adriaan) | N/A |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [Savings](http://twitter.com/search?q=Savings) | N/A |
+| 10 | [Savings](http://twitter.com/search?q=Savings) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 12 | [Amanda Black](http://twitter.com/search?q=Amanda+Black) | N/A |
 | 13 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
 | 14 | [STAR BOY JUICY JAY](http://twitter.com/search?q=STAR+BOY+JUICY+JAY) | N/A |
 | 15 | [Niger](http://twitter.com/search?q=Niger) | N/A |
 | 16 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
 | 17 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 18 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 19 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 20 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 21 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 22 | [Royal Am](http://twitter.com/search?q=Royal+Am) | N/A |
-| 23 | [Skeem Saam](http://twitter.com/search?q=Skeem+Saam) | N/A |
-| 24 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 18 | [Deleting](http://twitter.com/search?q=Deleting) | N/A |
+| 19 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 20 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 21 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 22 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 23 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 24 | [Skeem Saam](http://twitter.com/search?q=Skeem+Saam) | N/A |
 | 25 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 26 | [Rockstar](http://twitter.com/search?q=Rockstar) | N/A |
-| 27 | [Mabena](http://twitter.com/search?q=Mabena) | N/A |
-| 28 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 29 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 30 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
-| 31 | [Uzalo](http://twitter.com/search?q=Uzalo) | N/A |
-| 32 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
-| 33 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
-| 34 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
-| 35 | [Stage 3](http://twitter.com/search?q=Stage+3) | N/A |
-| 36 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 37 | [Clicks](http://twitter.com/search?q=Clicks) | N/A |
-| 38 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 39 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
-| 40 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 41 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
-| 42 | [Utilities](http://twitter.com/search?q=Utilities) | N/A |
-| 43 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
-| 44 | [zonke](http://twitter.com/search?q=zonke) | N/A |
-| 45 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
-| 46 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 26 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 27 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 28 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
+| 29 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 30 | [Rockstar](http://twitter.com/search?q=Rockstar) | N/A |
+| 31 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
+| 32 | [Mabena](http://twitter.com/search?q=Mabena) | N/A |
+| 33 | [Uzalo](http://twitter.com/search?q=Uzalo) | N/A |
+| 34 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 35 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 36 | [Stage 3](http://twitter.com/search?q=Stage+3) | N/A |
+| 37 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 38 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
+| 39 | [Clicks](http://twitter.com/search?q=Clicks) | N/A |
+| 40 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 41 | [The 20th](http://twitter.com/search?q=The+20th) | N/A |
+| 42 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
+| 43 | [Xhosa](http://twitter.com/search?q=Xhosa) | N/A |
+| 44 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
+| 45 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 46 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
 
 
 

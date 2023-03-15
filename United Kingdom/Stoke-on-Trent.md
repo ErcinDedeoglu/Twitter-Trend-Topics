@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-15 14:16:04 UTC`
+📆 Last Updated: `2023-03-15 15:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 2 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
-| 3 | [Solly](http://twitter.com/search?q=Solly) | N/A |
-| 4 | [sarah vine](http://twitter.com/search?q=sarah+vine) | N/A |
-| 5 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 6 | [#BVCheltenham](http://twitter.com/search?q=%23BVCheltenham) | N/A |
-| 7 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 8 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
-| 9 | [#sustainability](http://twitter.com/search?q=%23sustainability) | N/A |
-| 10 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 11 | [#ITVRacing](http://twitter.com/search?q=%23ITVRacing) | N/A |
-| 12 | [#construction](http://twitter.com/search?q=%23construction) | N/A |
-| 13 | [#MothersDay2023](http://twitter.com/search?q=%23MothersDay2023) | N/A |
-| 14 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 15 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 16 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 17 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
-| 18 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
-| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 20 | [Great British Nuclear](http://twitter.com/search?q=Great+British+Nuclear) | N/A |
-| 21 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
-| 22 | [Canary Wharfs](http://twitter.com/search?q=Canary+Wharfs) | N/A |
-| 23 | [Lifetime Allowance](http://twitter.com/search?q=Lifetime+Allowance) | N/A |
-| 24 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 25 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 26 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
-| 27 | [Ballymore](http://twitter.com/search?q=Ballymore) | N/A |
-| 28 | [The OBR](http://twitter.com/search?q=The+OBR) | N/A |
-| 29 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 30 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
-| 31 | [Sir Gerhard](http://twitter.com/search?q=Sir+Gerhard) | N/A |
-| 32 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 33 | [Stabilised](http://twitter.com/search?q=Stabilised) | N/A |
-| 34 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
+| 1 | [Universal Support](http://twitter.com/search?q=Universal+Support) | N/A |
+| 2 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
+| 3 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 4 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
+| 5 | [mullins](http://twitter.com/search?q=mullins) | N/A |
+| 6 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 7 | [#WDAD2023](http://twitter.com/search?q=%23WDAD2023) | N/A |
+| 8 | [#NeverLabour](http://twitter.com/search?q=%23NeverLabour) | N/A |
+| 9 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 10 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 11 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 12 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 13 | [Solly](http://twitter.com/search?q=Solly) | N/A |
+| 14 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
+| 15 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 16 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 17 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
+| 18 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 19 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
+| 20 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
+| 21 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 23 | [Sir Gerhard](http://twitter.com/search?q=Sir+Gerhard) | N/A |
+| 24 | [Great British Nuclear](http://twitter.com/search?q=Great+British+Nuclear) | N/A |
+| 25 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 26 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
+| 27 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 28 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 29 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 30 | [Lifetime Allowance](http://twitter.com/search?q=Lifetime+Allowance) | N/A |
+| 31 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
+| 32 | [canary wharfs](http://twitter.com/search?q=canary+wharfs) | N/A |
+| 33 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 34 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
 | 35 | [Investment Zones](http://twitter.com/search?q=Investment+Zones) | N/A |
-| 36 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 37 | [Boxxer](http://twitter.com/search?q=Boxxer) | N/A |
-| 38 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
-| 39 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 40 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
-| 41 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
-| 42 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
-| 43 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 44 | [Azeez](http://twitter.com/search?q=Azeez) | N/A |
-| 45 | [Corporation Tax](http://twitter.com/search?q=Corporation+Tax) | N/A |
-| 46 | [MHRA](http://twitter.com/search?q=MHRA) | N/A |
-| 47 | [Champ Kiely](http://twitter.com/search?q=Champ+Kiely) | N/A |
-| 48 | [steve bray](http://twitter.com/search?q=steve+bray) | N/A |
+| 36 | [Camprond](http://twitter.com/search?q=Camprond) | N/A |
+| 37 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 38 | [Boxxer](http://twitter.com/search?q=Boxxer) | N/A |
+| 39 | [The OBR](http://twitter.com/search?q=The+OBR) | N/A |
+| 40 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 41 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
+| 42 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
+| 43 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
+| 44 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 45 | [Ballymore](http://twitter.com/search?q=Ballymore) | N/A |
+| 46 | [Coral Cup](http://twitter.com/search?q=Coral+Cup) | N/A |
+| 47 | [Azeez](http://twitter.com/search?q=Azeez) | N/A |
+| 48 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
 
 
 

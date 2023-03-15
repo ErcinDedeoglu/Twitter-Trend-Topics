@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-15 14:16:30 UTC`
+📆 Last Updated: `2023-03-15 15:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TECNO](http://twitter.com/search?q=%23TECNO) | N/A |
-| 2 | [#SPARK10Pro](http://twitter.com/search?q=%23SPARK10Pro) | N/A |
-| 3 | [#TryMyJobwithOlah](http://twitter.com/search?q=%23TryMyJobwithOlah) | N/A |
-| 4 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
-| 5 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
-| 6 | [Mr Macaroni](http://twitter.com/search?q=Mr+Macaroni) | N/A |
-| 7 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 8 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
-| 9 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 10 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
-| 11 | [The British](http://twitter.com/search?q=The+British) | N/A |
-| 12 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 13 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
-| 14 | [RIDING WITH PHYNA](http://twitter.com/search?q=RIDING+WITH+PHYNA) | N/A |
-| 15 | [Baddo](http://twitter.com/search?q=Baddo) | N/A |
-| 16 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 17 | [SUGARCOAT PHYNA](http://twitter.com/search?q=SUGARCOAT+PHYNA) | N/A |
-| 18 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 19 | [Lege](http://twitter.com/search?q=Lege) | N/A |
-| 20 | [Duck](http://twitter.com/search?q=Duck) | N/A |
-| 21 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 22 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
-| 23 | [Funke](http://twitter.com/search?q=Funke) | N/A |
-| 24 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 1 | [Aunty Esther](http://twitter.com/search?q=Aunty+Esther) | N/A |
+| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 3 | [#TECNO](http://twitter.com/search?q=%23TECNO) | N/A |
+| 4 | [#SPARK10Pro](http://twitter.com/search?q=%23SPARK10Pro) | N/A |
+| 5 | [#TryMyJobwithOlah](http://twitter.com/search?q=%23TryMyJobwithOlah) | N/A |
+| 6 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
+| 7 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 8 | [Baddo](http://twitter.com/search?q=Baddo) | N/A |
+| 9 | [toni tones](http://twitter.com/search?q=toni+tones) | N/A |
+| 10 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
+| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 12 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
+| 13 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 14 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
+| 15 | [Grace](http://twitter.com/search?q=Grace) | N/A |
+| 16 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 17 | [Zino](http://twitter.com/search?q=Zino) | N/A |
+| 18 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 19 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 20 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 21 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 22 | [The British](http://twitter.com/search?q=The+British) | N/A |
+| 23 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 24 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
 | 25 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
-| 26 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 27 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
-| 28 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 29 | [Hallelujah](http://twitter.com/search?q=Hallelujah) | N/A |
-| 30 | [oyetola](http://twitter.com/search?q=oyetola) | N/A |
-| 31 | [Mike Igini](http://twitter.com/search?q=Mike+Igini) | N/A |
-| 32 | [What God](http://twitter.com/search?q=What+God) | N/A |
-| 33 | [2pac](http://twitter.com/search?q=2pac) | N/A |
-| 34 | [Zino](http://twitter.com/search?q=Zino) | N/A |
-| 35 | [Peter Mbah](http://twitter.com/search?q=Peter+Mbah) | N/A |
-| 36 | [Admin](http://twitter.com/search?q=Admin) | N/A |
-| 37 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 38 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 39 | [Adekunle Gold](http://twitter.com/search?q=Adekunle+Gold) | N/A |
-| 40 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 41 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
-| 42 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
-| 43 | [#Davido](http://twitter.com/search?q=%23Davido) | N/A |
-| 44 | [#Olamide34](http://twitter.com/search?q=%23Olamide34) | N/A |
-| 45 | [#itelcelebratesmum](http://twitter.com/search?q=%23itelcelebratesmum) | N/A |
-| 46 | [#kibe](http://twitter.com/search?q=%23kibe) | N/A |
-| 47 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 48 | [#Reno8T](http://twitter.com/search?q=%23Reno8T) | N/A |
+| 26 | [Oba Elegushi](http://twitter.com/search?q=Oba+Elegushi) | N/A |
+| 27 | [Mr Macaroni](http://twitter.com/search?q=Mr+Macaroni) | N/A |
+| 28 | [Adekunle Gold](http://twitter.com/search?q=Adekunle+Gold) | N/A |
+| 29 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
+| 30 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
+| 31 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
+| 32 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 33 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
+| 34 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
+| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 36 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
+| 37 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 38 | [RIDING WITH PHYNA](http://twitter.com/search?q=RIDING+WITH+PHYNA) | N/A |
+| 39 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 40 | [Lege](http://twitter.com/search?q=Lege) | N/A |
+| 41 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 42 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 43 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 44 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 45 | [SUGARCOAT PHYNA](http://twitter.com/search?q=SUGARCOAT+PHYNA) | N/A |
+| 46 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 47 | [Atedo Peterside](http://twitter.com/search?q=Atedo+Peterside) | N/A |
+| 48 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
+| 49 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 
 
 

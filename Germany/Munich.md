@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-15 14:16:16 UTC`
+📆 Last Updated: `2023-03-15 15:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 2 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 3 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 4 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 5 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 1 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 3 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
+| 4 | [#yunatoken](http://twitter.com/search?q=%23yunatoken) | N/A |
+| 5 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
 | 6 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 7 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 8 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 9 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 10 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 11 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 12 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 13 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 14 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 15 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 16 | [Skier](http://twitter.com/search?q=Skier) | N/A |
-| 17 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 18 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 19 | [Wartezeit](http://twitter.com/search?q=Wartezeit) | N/A |
-| 20 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 21 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 22 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 23 | [Code](http://twitter.com/search?q=Code) | N/A |
-| 24 | [Anmeldung](http://twitter.com/search?q=Anmeldung) | N/A |
-| 25 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
-| 26 | [Emissionen](http://twitter.com/search?q=Emissionen) | N/A |
-| 27 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 28 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 29 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 30 | [Cancel Culture](http://twitter.com/search?q=Cancel+Culture) | N/A |
-| 31 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 32 | [#EntkriminalisierungSofort](http://twitter.com/search?q=%23EntkriminalisierungSofort) | N/A |
-| 33 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
-| 34 | [#MECFS](http://twitter.com/search?q=%23MECFS) | N/A |
-| 35 | [#Klimaziele](http://twitter.com/search?q=%23Klimaziele) | N/A |
-| 36 | [#Verkehr](http://twitter.com/search?q=%23Verkehr) | N/A |
-| 37 | [#PickMEupBettina](http://twitter.com/search?q=%23PickMEupBettina) | N/A |
-| 38 | [#DEXIT](http://twitter.com/search?q=%23DEXIT) | N/A |
-| 39 | [#Polizeigewalt](http://twitter.com/search?q=%23Polizeigewalt) | N/A |
-| 40 | [#GrueneInkompetenz](http://twitter.com/search?q=%23GrueneInkompetenz) | N/A |
-| 41 | [#PostVac](http://twitter.com/search?q=%23PostVac) | N/A |
-| 42 | [#Bundestag](http://twitter.com/search?q=%23Bundestag) | N/A |
-| 43 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
+| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 8 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 9 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 10 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 11 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 12 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 13 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
+| 14 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 16 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 17 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 18 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 19 | [ruhe in frieden](http://twitter.com/search?q=ruhe+in+frieden) | N/A |
+| 20 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 21 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 22 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 23 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 24 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
+| 25 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 26 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 27 | [herkunft](http://twitter.com/search?q=herkunft) | N/A |
+| 28 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 29 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 30 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
+| 31 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 32 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 33 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 34 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 35 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 36 | [elfmeter](http://twitter.com/search?q=elfmeter) | N/A |
+| 37 | [Kartoffeln](http://twitter.com/search?q=Kartoffeln) | N/A |
+| 38 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 39 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
+| 40 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 41 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 42 | [Verwaltung](http://twitter.com/search?q=Verwaltung) | N/A |
+| 43 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 44 | [Frage der Zeit](http://twitter.com/search?q=Frage+der+Zeit) | N/A |
+| 45 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 46 | [Versehen](http://twitter.com/search?q=Versehen) | N/A |
+| 47 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 48 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 49 | [RTL II](http://twitter.com/search?q=RTL+II) | N/A |
+| 50 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
 
 
 

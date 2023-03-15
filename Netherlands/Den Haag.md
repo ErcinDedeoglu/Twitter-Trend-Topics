@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-15 14:16:17 UTC`
+📆 Last Updated: `2023-03-15 15:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,41 +29,41 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 13 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
 | 14 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 15 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
+| 15 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
 | 16 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
-| 17 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
+| 17 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
 | 18 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 19 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 20 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 23 | [ali b](http://twitter.com/search?q=ali+b) | N/A |
-| 24 | [reijnders](http://twitter.com/search?q=reijnders) | N/A |
-| 25 | [Freek](http://twitter.com/search?q=Freek) | N/A |
-| 26 | [Sociaal](http://twitter.com/search?q=Sociaal) | N/A |
-| 27 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 28 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 29 | [Marco Borsato](http://twitter.com/search?q=Marco+Borsato) | N/A |
-| 30 | [arbeidsinspectie](http://twitter.com/search?q=arbeidsinspectie) | N/A |
-| 31 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 32 | [Vanavond](http://twitter.com/search?q=Vanavond) | N/A |
-| 33 | [Onteigening](http://twitter.com/search?q=Onteigening) | N/A |
-| 34 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
-| 35 | [van haga](http://twitter.com/search?q=van+haga) | N/A |
-| 36 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 38 | [Geert Wilders](http://twitter.com/search?q=Geert+Wilders) | N/A |
-| 39 | [Socialer](http://twitter.com/search?q=Socialer) | N/A |
-| 40 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 41 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 42 | [Vandaar](http://twitter.com/search?q=Vandaar) | N/A |
-| 43 | [Jeroen Rietbergen](http://twitter.com/search?q=Jeroen+Rietbergen) | N/A |
-| 44 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 45 | [Sonja](http://twitter.com/search?q=Sonja) | N/A |
-| 46 | [Zwarte Zee](http://twitter.com/search?q=Zwarte+Zee) | N/A |
-| 47 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 19 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 20 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 21 | [Freek](http://twitter.com/search?q=Freek) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [reijnders](http://twitter.com/search?q=reijnders) | N/A |
+| 24 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 25 | [Sociaal](http://twitter.com/search?q=Sociaal) | N/A |
+| 26 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 27 | [Vanavond](http://twitter.com/search?q=Vanavond) | N/A |
+| 28 | [marco borsato](http://twitter.com/search?q=marco+borsato) | N/A |
+| 29 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 30 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
+| 31 | [Ali B](http://twitter.com/search?q=Ali+B) | N/A |
+| 32 | [Arbeidsinspectie](http://twitter.com/search?q=Arbeidsinspectie) | N/A |
+| 33 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
+| 34 | [Onteigening](http://twitter.com/search?q=Onteigening) | N/A |
+| 35 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 36 | [Geert Wilders](http://twitter.com/search?q=Geert+Wilders) | N/A |
+| 37 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 38 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 39 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 40 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 41 | [Socialer](http://twitter.com/search?q=Socialer) | N/A |
+| 42 | [jeroen rietbergen](http://twitter.com/search?q=jeroen+rietbergen) | N/A |
+| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 44 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 45 | [Houd](http://twitter.com/search?q=Houd) | N/A |
+| 46 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
+| 47 | [zwarte zee](http://twitter.com/search?q=zwarte+zee) | N/A |
 | 48 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
-| 49 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 49 | [Vandaar](http://twitter.com/search?q=Vandaar) | N/A |
 
 
 

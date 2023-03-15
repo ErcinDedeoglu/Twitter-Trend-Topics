@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-15 14:16:17 UTC`
+📆 Last Updated: `2023-03-15 15:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PortoInter](http://twitter.com/search?q=%23PortoInter) | N/A |
-| 2 | [#15marzo](http://twitter.com/search?q=%2315marzo) | N/A |
-| 3 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 4 | [#Anastasio](http://twitter.com/search?q=%23Anastasio) | N/A |
-| 5 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 6 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
+| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 2 | [#PortoInter](http://twitter.com/search?q=%23PortoInter) | N/A |
+| 3 | [#15marzo](http://twitter.com/search?q=%2315marzo) | N/A |
+| 4 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
+| 5 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
+| 6 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 7 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
-| 8 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 9 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 8 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 9 | [Armando](http://twitter.com/search?q=Armando) | N/A |
 | 10 | [Mar Nero](http://twitter.com/search?q=Mar+Nero) | N/A |
 | 11 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 12 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 13 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
-| 14 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 15 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 12 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 13 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 14 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
+| 15 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
 | 16 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 17 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 18 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 19 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 20 | [un ricordo per lulù](http://twitter.com/search?q=un+ricordo+per+lul%c3%b9) | N/A |
-| 21 | [Bergomi](http://twitter.com/search?q=Bergomi) | N/A |
-| 22 | [Heather Parisi](http://twitter.com/search?q=Heather+Parisi) | N/A |
-| 23 | [Duce](http://twitter.com/search?q=Duce) | N/A |
-| 24 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 25 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 26 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 27 | [Concita De Gregorio](http://twitter.com/search?q=Concita+De+Gregorio) | N/A |
-| 28 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 31 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 32 | [Asfalta](http://twitter.com/search?q=Asfalta) | N/A |
+| 17 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 18 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 19 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 20 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 21 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 22 | [un ricordo per lulù](http://twitter.com/search?q=un+ricordo+per+lul%c3%b9) | N/A |
+| 23 | [Bergomi](http://twitter.com/search?q=Bergomi) | N/A |
+| 24 | [Heather Parisi](http://twitter.com/search?q=Heather+Parisi) | N/A |
+| 25 | [Duce](http://twitter.com/search?q=Duce) | N/A |
+| 26 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 27 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 28 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 29 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 30 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 31 | [Concita De Gregorio](http://twitter.com/search?q=Concita+De+Gregorio) | N/A |
+| 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 33 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
-| 34 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 35 | [Il 15](http://twitter.com/search?q=Il+15) | N/A |
-| 36 | [Auguri Paul](http://twitter.com/search?q=Auguri+Paul) | N/A |
-| 37 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 38 | [Bambini](http://twitter.com/search?q=Bambini) | N/A |
-| 39 | [D'Ambrosio](http://twitter.com/search?q=D%27Ambrosio) | N/A |
-| 40 | [Brusaferro](http://twitter.com/search?q=Brusaferro) | N/A |
-| 41 | [Nobili](http://twitter.com/search?q=Nobili) | N/A |
-| 42 | [lipsia](http://twitter.com/search?q=lipsia) | N/A |
-| 43 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
-| 44 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
-| 45 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 46 | [Zhang](http://twitter.com/search?q=Zhang) | N/A |
-| 47 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 48 | [Giulio Cesare](http://twitter.com/search?q=Giulio+Cesare) | N/A |
-| 49 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
+| 34 | [Il 15](http://twitter.com/search?q=Il+15) | N/A |
+| 35 | [Asfalta](http://twitter.com/search?q=Asfalta) | N/A |
+| 36 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 37 | [Auguri Paul](http://twitter.com/search?q=Auguri+Paul) | N/A |
+| 38 | [D'Ambrosio](http://twitter.com/search?q=D%27Ambrosio) | N/A |
+| 39 | [Giulio Cesare](http://twitter.com/search?q=Giulio+Cesare) | N/A |
+| 40 | [Nobili](http://twitter.com/search?q=Nobili) | N/A |
+| 41 | [lipsia](http://twitter.com/search?q=lipsia) | N/A |
+| 42 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
+| 43 | [Brusaferro](http://twitter.com/search?q=Brusaferro) | N/A |
+| 44 | [Bambini](http://twitter.com/search?q=Bambini) | N/A |
+| 45 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
+| 46 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 47 | [Camera](http://twitter.com/search?q=Camera) | N/A |
+| 48 | [Zhang](http://twitter.com/search?q=Zhang) | N/A |
+| 49 | [Libia](http://twitter.com/search?q=Libia) | N/A |
 
 
 

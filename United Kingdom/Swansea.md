@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-15 14:16:05 UTC`
+📆 Last Updated: `2023-03-15 15:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 2 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 3 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 4 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
-| 5 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
-| 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 7 | [Great British Nuclear](http://twitter.com/search?q=Great+British+Nuclear) | N/A |
-| 8 | [#ShopSmartCookSavvy](http://twitter.com/search?q=%23ShopSmartCookSavvy) | N/A |
-| 9 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
-| 10 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
-| 11 | [Canary Wharfs](http://twitter.com/search?q=Canary+Wharfs) | N/A |
-| 12 | [Lifetime Allowance](http://twitter.com/search?q=Lifetime+Allowance) | N/A |
+| 2 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 3 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
+| 4 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 5 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
+| 6 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
+| 7 | [#craghoppers](http://twitter.com/search?q=%23craghoppers) | N/A |
+| 8 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 10 | [#childcare](http://twitter.com/search?q=%23childcare) | N/A |
+| 11 | [Sir Gerhard](http://twitter.com/search?q=Sir+Gerhard) | N/A |
+| 12 | [Great British Nuclear](http://twitter.com/search?q=Great+British+Nuclear) | N/A |
 | 13 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 14 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 15 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
-| 16 | [Ballymore](http://twitter.com/search?q=Ballymore) | N/A |
-| 17 | [The OBR](http://twitter.com/search?q=The+OBR) | N/A |
-| 18 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 14 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 15 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
+| 16 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 17 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 18 | [Lifetime Allowance](http://twitter.com/search?q=Lifetime+Allowance) | N/A |
 | 19 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
-| 20 | [Sir Gerhard](http://twitter.com/search?q=Sir+Gerhard) | N/A |
-| 21 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 22 | [Stabilised](http://twitter.com/search?q=Stabilised) | N/A |
-| 23 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
-| 24 | [Investment Zones](http://twitter.com/search?q=Investment+Zones) | N/A |
-| 25 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 26 | [Boxxer](http://twitter.com/search?q=Boxxer) | N/A |
-| 27 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
-| 28 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 29 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
-| 30 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
-| 31 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
-| 32 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 33 | [Azeez](http://twitter.com/search?q=Azeez) | N/A |
-| 34 | [Corporation Tax](http://twitter.com/search?q=Corporation+Tax) | N/A |
-| 35 | [MHRA](http://twitter.com/search?q=MHRA) | N/A |
-| 36 | [Champ Kiely](http://twitter.com/search?q=Champ+Kiely) | N/A |
-| 37 | [steve bray](http://twitter.com/search?q=steve+bray) | N/A |
-| 38 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
-| 39 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 40 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 41 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 42 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 43 | [American Mike](http://twitter.com/search?q=American+Mike) | N/A |
-| 44 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
-| 45 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 46 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
-| 47 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 48 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 49 | [Gordon Brown](http://twitter.com/search?q=Gordon+Brown) | N/A |
+| 20 | [canary wharfs](http://twitter.com/search?q=canary+wharfs) | N/A |
+| 21 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 22 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 23 | [Investment Zones](http://twitter.com/search?q=Investment+Zones) | N/A |
+| 24 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 25 | [Boxxer](http://twitter.com/search?q=Boxxer) | N/A |
+| 26 | [The OBR](http://twitter.com/search?q=The+OBR) | N/A |
+| 27 | [Universal Support](http://twitter.com/search?q=Universal+Support) | N/A |
+| 28 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 29 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
+| 30 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
+| 31 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
+| 32 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
+| 33 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 34 | [Ballymore](http://twitter.com/search?q=Ballymore) | N/A |
+| 35 | [Coral Cup](http://twitter.com/search?q=Coral+Cup) | N/A |
+| 36 | [Azeez](http://twitter.com/search?q=Azeez) | N/A |
+| 37 | [Stabilised](http://twitter.com/search?q=Stabilised) | N/A |
+| 38 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 39 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 40 | [Thyme Hill](http://twitter.com/search?q=Thyme+Hill) | N/A |
+| 41 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 42 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
+| 43 | [Champ Kiely](http://twitter.com/search?q=Champ+Kiely) | N/A |
+| 44 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 45 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 46 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
+| 47 | [MHRA](http://twitter.com/search?q=MHRA) | N/A |
+| 48 | [HMS Seahorse](http://twitter.com/search?q=HMS+Seahorse) | N/A |
+| 49 | [Corporation Tax](http://twitter.com/search?q=Corporation+Tax) | N/A |
 
 
 

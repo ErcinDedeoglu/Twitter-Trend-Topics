@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-15 14:16:09 UTC`
+📆 Last Updated: `2023-03-15 15:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 2 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 3 | [#NarcoGenerales](http://twitter.com/search?q=%23NarcoGenerales) | N/A |
 | 4 | [#NarcoGenerales](http://twitter.com/search?q=%23NarcoGenerales) | N/A |
-| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 5 | [Eliminatorias](http://twitter.com/search?q=Eliminatorias) | N/A |
 | 6 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
-| 7 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
-| 8 | [Eliminatorias](http://twitter.com/search?q=Eliminatorias) | N/A |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 8 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
 | 9 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
-| 10 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 11 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 12 | [Gabela](http://twitter.com/search?q=Gabela) | N/A |
+| 10 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 11 | [Gabela](http://twitter.com/search?q=Gabela) | N/A |
+| 12 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
 | 13 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 14 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 15 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
-| 16 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 17 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 20 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 21 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 22 | [#PrensaBasura](http://twitter.com/search?q=%23PrensaBasura) | N/A |
-| 23 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 24 | [fundamedios](http://twitter.com/search?q=fundamedios) | N/A |
-| 25 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 26 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 27 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 28 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 29 | [Richard Carapaz](http://twitter.com/search?q=Richard+Carapaz) | N/A |
-| 30 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 31 | [Gran Padrino](http://twitter.com/search?q=Gran+Padrino) | N/A |
-| 32 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 33 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 34 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
-| 35 | [SET ME FREE PT2 TEASER](http://twitter.com/search?q=SET+ME+FREE+PT2+TEASER) | N/A |
-| 36 | [Gabriel Fuks](http://twitter.com/search?q=Gabriel+Fuks) | N/A |
-| 37 | [Luque](http://twitter.com/search?q=Luque) | N/A |
-| 38 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 39 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
-| 40 | [Holguín](http://twitter.com/search?q=Holgu%c3%adn) | N/A |
-| 41 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 42 | [SMOKE SPRITE OUT NOW](http://twitter.com/search?q=SMOKE+SPRITE+OUT+NOW) | N/A |
-| 43 | [Teleamazonas](http://twitter.com/search?q=Teleamazonas) | N/A |
-| 44 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
-| 45 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 46 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
+| 14 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 15 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 16 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
+| 17 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 18 | [Richard Carapaz](http://twitter.com/search?q=Richard+Carapaz) | N/A |
+| 19 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 20 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 21 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 22 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 23 | [#CNECumplió](http://twitter.com/search?q=%23CNECumpli%c3%b3) | N/A |
+| 24 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
+| 25 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 26 | [Luque](http://twitter.com/search?q=Luque) | N/A |
+| 27 | [Gabriel Fuks](http://twitter.com/search?q=Gabriel+Fuks) | N/A |
+| 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 29 | [gran padrino](http://twitter.com/search?q=gran+padrino) | N/A |
+| 30 | [SET ME FREE PT2 TEASER](http://twitter.com/search?q=SET+ME+FREE+PT2+TEASER) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 33 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 34 | [holguín](http://twitter.com/search?q=holgu%c3%adn) | N/A |
+| 35 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 36 | [SMOKE SPRITE OUT NOW](http://twitter.com/search?q=SMOKE+SPRITE+OUT+NOW) | N/A |
+| 37 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 38 | [Fundamedios](http://twitter.com/search?q=Fundamedios) | N/A |
+| 39 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
+| 40 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 41 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 42 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 43 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 44 | [superintendencia de compañías](http://twitter.com/search?q=superintendencia+de+compa%c3%b1%c3%adas) | N/A |
+| 45 | [carondelet](http://twitter.com/search?q=carondelet) | N/A |
+| 46 | [Teleamazonas](http://twitter.com/search?q=Teleamazonas) | N/A |
 | 47 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 48 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 49 | [superintendencia de compañías](http://twitter.com/search?q=superintendencia+de+compa%c3%b1%c3%adas) | N/A |
-| 50 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 48 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 49 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 50 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
 
 
 

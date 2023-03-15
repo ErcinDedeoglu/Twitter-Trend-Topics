@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-03-15 14:16:56 UTC`
+📆 Last Updated: `2023-03-15 15:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United States
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 2 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 3 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 4 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
-| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 6 | [Hurst](http://twitter.com/search?q=Hurst) | Hurst is a surname of English origin. It is derived from the Old English word hyrst, meaning "wooded hill". The name is most commonly associated with the village of Hurst in Berkshire, England. |
-| 7 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 9 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 10 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 11 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
-| 12 | [Cole Holcomb](http://twitter.com/search?q=Cole+Holcomb) | N/A |
-| 13 | [Harty](http://twitter.com/search?q=Harty) | N/A |
-| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 15 | [Mint Mobile](http://twitter.com/search?q=Mint+Mobile) | N/A |
-| 16 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
-| 17 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 18 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 19 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 20 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
-| 21 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 22 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 23 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 24 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 25 | [Hines](http://twitter.com/search?q=Hines) | Hines is a surname of English origin. It is derived from the Old English personal name Hine, which was a short form of various compound names with the first element "hīwa" meaning "household". |
-| 26 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
-| 27 | [Harmonious](http://twitter.com/search?q=Harmonious) | N/A |
-| 28 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 29 | [Deep Ellum](http://twitter.com/search?q=Deep+Ellum) | N/A |
-| 30 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 31 | [$MSFT](http://twitter.com/search?q=%24MSFT) | MSFT is an abbreviation for Microsoft Corporation, a multinational technology company based in Redmond, Washington. Microsoft is best known for its Windows operating system and Office suite of productivity software. |
-| 32 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 33 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
-| 34 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
-| 35 | [Wonderful Wednesday](http://twitter.com/search?q=Wonderful+Wednesday) | N/A |
-| 36 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 37 | [Saudi National Bank](http://twitter.com/search?q=Saudi+National+Bank) | N/A |
-| 38 | [Mitchell Robinson](http://twitter.com/search?q=Mitchell+Robinson) | Mitchell Robinson is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected in the second round of the 2018 NBA draft. His name is derived from his father's middle name, Mitchell. |
-| 39 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
-| 40 | [Eida](http://twitter.com/search?q=Eida) | N/A |
-| 41 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 42 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
-| 43 | [Sly Stone](http://twitter.com/search?q=Sly+Stone) | N/A |
-| 44 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
-| 45 | [Flaco](http://twitter.com/search?q=Flaco) | N/A |
-| 46 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
-| 47 | [Mike Gesicki](http://twitter.com/search?q=Mike+Gesicki) | N/A |
-| 48 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 49 | [Hyatt](http://twitter.com/search?q=Hyatt) | N/A |
-| 50 | [Define](http://twitter.com/search?q=Define) | N/A |
+| 2 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 3 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 4 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 6 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 8 | [Hurst](http://twitter.com/search?q=Hurst) | Hurst is a surname of English origin. It is derived from the Old English word hyrst, meaning "wooded hill". The name is most commonly associated with the village of Hurst in Berkshire, England. |
+| 9 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
+| 10 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 11 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
+| 12 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 13 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 14 | [Harty](http://twitter.com/search?q=Harty) | N/A |
+| 15 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 16 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 17 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
+| 18 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 19 | [SITW](http://twitter.com/search?q=SITW) | N/A |
+| 20 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 21 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 22 | [Mint Mobile](http://twitter.com/search?q=Mint+Mobile) | N/A |
+| 23 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 24 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 25 | [Cole Holcomb](http://twitter.com/search?q=Cole+Holcomb) | N/A |
+| 26 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 27 | [Hines](http://twitter.com/search?q=Hines) | Hines is a surname of English origin. It is derived from the Old English personal name Hine, which was a short form of various compound names with the first element "hīwa" meaning "household". |
+| 28 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
+| 29 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 30 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 31 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 32 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 33 | [Deep Ellum](http://twitter.com/search?q=Deep+Ellum) | N/A |
+| 34 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 35 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 36 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 37 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
+| 38 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
+| 39 | [Rebel Moon](http://twitter.com/search?q=Rebel+Moon) | N/A |
+| 40 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 41 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
+| 42 | [Riley Reiff](http://twitter.com/search?q=Riley+Reiff) | N/A |
+| 43 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
+| 44 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 45 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 46 | [Harmonious](http://twitter.com/search?q=Harmonious) | N/A |
+| 47 | [Witherspoon](http://twitter.com/search?q=Witherspoon) | N/A |
+| 48 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 49 | [SnyderCon](http://twitter.com/search?q=SnyderCon) | N/A |
+| 50 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
 
 
 

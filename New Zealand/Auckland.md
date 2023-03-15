@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-15 14:16:40 UTC`
+📆 Last Updated: `2023-03-15 15:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,17 +19,17 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 2 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
 | 3 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
 | 4 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
-| 5 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
-| 6 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 8 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
-| 9 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
-| 10 | [cabinet manual](http://twitter.com/search?q=cabinet+manual) | N/A |
-| 11 | [willis](http://twitter.com/search?q=willis) | N/A |
+| 5 | [#nblfinals](http://twitter.com/search?q=%23nblfinals) | N/A |
+| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 7 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
+| 8 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 9 | [cabinet manual](http://twitter.com/search?q=cabinet+manual) | N/A |
+| 10 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 11 | [Willis](http://twitter.com/search?q=Willis) | N/A |
 | 12 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
-| 13 | [Coster](http://twitter.com/search?q=Coster) | N/A |
-| 14 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 15 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 13 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 14 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 15 | [Coster](http://twitter.com/search?q=Coster) | N/A |
 | 16 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
 | 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 18 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 44 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 45 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 46 | [Simeon Brown](http://twitter.com/search?q=Simeon+Brown) | N/A |
-| 47 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 48 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 49 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 50 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 47 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 48 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 50 | [Fair](http://twitter.com/search?q=Fair) | N/A |
 
 
 

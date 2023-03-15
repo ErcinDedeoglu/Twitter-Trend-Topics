@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-15 14:16:16 UTC`
+📆 Last Updated: `2023-03-15 15:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 2 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 3 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 4 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 5 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 6 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 7 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 8 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 9 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 10 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 11 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 12 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 13 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 14 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 15 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 16 | [Skier](http://twitter.com/search?q=Skier) | N/A |
-| 17 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 18 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 19 | [Wartezeit](http://twitter.com/search?q=Wartezeit) | N/A |
-| 20 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 21 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 22 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 23 | [Code](http://twitter.com/search?q=Code) | N/A |
-| 24 | [Anmeldung](http://twitter.com/search?q=Anmeldung) | N/A |
-| 25 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
-| 26 | [Emissionen](http://twitter.com/search?q=Emissionen) | N/A |
-| 27 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 28 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 29 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 30 | [Cancel Culture](http://twitter.com/search?q=Cancel+Culture) | N/A |
-| 31 | [#EntkriminalisierungSofort](http://twitter.com/search?q=%23EntkriminalisierungSofort) | N/A |
-| 32 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
-| 33 | [#MECFS](http://twitter.com/search?q=%23MECFS) | N/A |
-| 34 | [#Klimaziele](http://twitter.com/search?q=%23Klimaziele) | N/A |
-| 35 | [#Verkehr](http://twitter.com/search?q=%23Verkehr) | N/A |
-| 36 | [#PickMEupBettina](http://twitter.com/search?q=%23PickMEupBettina) | N/A |
-| 37 | [#DEXIT](http://twitter.com/search?q=%23DEXIT) | N/A |
-| 38 | [#Polizeigewalt](http://twitter.com/search?q=%23Polizeigewalt) | N/A |
-| 39 | [#GrueneInkompetenz](http://twitter.com/search?q=%23GrueneInkompetenz) | N/A |
-| 40 | [#PostVac](http://twitter.com/search?q=%23PostVac) | N/A |
-| 41 | [#Bundestag](http://twitter.com/search?q=%23Bundestag) | N/A |
-| 42 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
+| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 3 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
+| 4 | [#yunatoken](http://twitter.com/search?q=%23yunatoken) | N/A |
+| 5 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
+| 6 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 8 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 9 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 10 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 11 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 12 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 13 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
+| 14 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 16 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 17 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 18 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 19 | [ruhe in frieden](http://twitter.com/search?q=ruhe+in+frieden) | N/A |
+| 20 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 21 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 22 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 23 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 24 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
+| 25 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 26 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 27 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 28 | [herkunft](http://twitter.com/search?q=herkunft) | N/A |
+| 29 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 30 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
+| 31 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 32 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 33 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 34 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 35 | [elfmeter](http://twitter.com/search?q=elfmeter) | N/A |
+| 36 | [Brie](http://twitter.com/search?q=Brie) | N/A |
+| 37 | [Kartoffeln](http://twitter.com/search?q=Kartoffeln) | N/A |
+| 38 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 39 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
+| 40 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 41 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 42 | [RTL II](http://twitter.com/search?q=RTL+II) | N/A |
+| 43 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 44 | [Verwaltung](http://twitter.com/search?q=Verwaltung) | N/A |
+| 45 | [Frage der Zeit](http://twitter.com/search?q=Frage+der+Zeit) | N/A |
+| 46 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 47 | [Versehen](http://twitter.com/search?q=Versehen) | N/A |
+| 48 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 49 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 50 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
 
 
 

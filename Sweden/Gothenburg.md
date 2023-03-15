@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-15 14:16:20 UTC`
+📆 Last Updated: `2023-03-15 15:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Sweden](</Sweden>)
 | 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 6 | [Cajuste](http://twitter.com/search?q=Cajuste) | N/A |
-| 7 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
-| 8 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
-| 9 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 10 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
+| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 8 | [Janne](http://twitter.com/search?q=Janne) | N/A |
+| 9 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 10 | [Chang](http://twitter.com/search?q=Chang) | N/A |
 | 11 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
-| 12 | [Riksbanken](http://twitter.com/search?q=Riksbanken) | N/A |
-| 13 | [Janne](http://twitter.com/search?q=Janne) | N/A |
-| 14 | [Kristersson](http://twitter.com/search?q=Kristersson) | N/A |
-| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 16 | [Trist](http://twitter.com/search?q=Trist) | N/A |
-| 17 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 18 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 19 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 20 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
-| 21 | [jättemätt](http://twitter.com/search?q=j%c3%a4ttem%c3%a4tt) | N/A |
-| 22 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
-| 23 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 24 | [#postkodeffekten](http://twitter.com/search?q=%23postkodeffekten) | N/A |
-| 25 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 26 | [Östersjön](http://twitter.com/search?q=%c3%96stersj%c3%b6n) | N/A |
+| 12 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
+| 13 | [Kristersson](http://twitter.com/search?q=Kristersson) | N/A |
+| 14 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 15 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 16 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 17 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
+| 18 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
+| 19 | [jättemätt](http://twitter.com/search?q=j%c3%a4ttem%c3%a4tt) | N/A |
+| 20 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 21 | [#postkodeffekten](http://twitter.com/search?q=%23postkodeffekten) | N/A |
+| 22 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
+| 23 | [Riksbanken](http://twitter.com/search?q=Riksbanken) | N/A |
+| 24 | [MeToo](http://twitter.com/search?q=MeToo) | N/A |
+| 25 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 26 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
 | 27 | [Tvärtom](http://twitter.com/search?q=Tv%c3%a4rtom) | N/A |
-| 28 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 29 | [MeToo](http://twitter.com/search?q=MeToo) | N/A |
-| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 32 | [Milosevic](http://twitter.com/search?q=Milosevic) | N/A |
-| 33 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 28 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 29 | [Milosevic](http://twitter.com/search?q=Milosevic) | N/A |
+| 30 | [Värnamo](http://twitter.com/search?q=V%c3%a4rnamo) | N/A |
+| 31 | [Östersjön](http://twitter.com/search?q=%c3%96stersj%c3%b6n) | N/A |
+| 32 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 33 | [Bosse](http://twitter.com/search?q=Bosse) | N/A |
 | 34 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 35 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 36 | [turkiets](http://twitter.com/search?q=turkiets) | N/A |
-| 37 | [Bosse](http://twitter.com/search?q=Bosse) | N/A |
-| 38 | [aktuellt](http://twitter.com/search?q=aktuellt) | N/A |
-| 39 | [Bulan](http://twitter.com/search?q=Bulan) | N/A |
-| 40 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
-| 41 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
-| 42 | [Moldavien](http://twitter.com/search?q=Moldavien) | N/A |
-| 43 | [Willys](http://twitter.com/search?q=Willys) | N/A |
+| 35 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 36 | [aktuellt](http://twitter.com/search?q=aktuellt) | N/A |
+| 37 | [Bulan](http://twitter.com/search?q=Bulan) | N/A |
+| 38 | [snygg](http://twitter.com/search?q=snygg) | N/A |
+| 39 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 40 | [Moldavien](http://twitter.com/search?q=Moldavien) | N/A |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 42 | [Apropå](http://twitter.com/search?q=Aprop%c3%a5) | N/A |
+| 43 | [willys](http://twitter.com/search?q=willys) | N/A |
 | 44 | [karlskoga](http://twitter.com/search?q=karlskoga) | N/A |
 | 45 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
-| 46 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 47 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 48 | [Apropå](http://twitter.com/search?q=Aprop%c3%a5) | N/A |
+| 46 | [Eneroth](http://twitter.com/search?q=Eneroth) | N/A |
+| 47 | [Stina Oscarsons](http://twitter.com/search?q=Stina+Oscarsons) | N/A |
+| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 
 
 

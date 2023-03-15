@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-15 14:16:36 UTC`
+📆 Last Updated: `2023-03-15 15:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Oman](</Oman>)
 | 2 | [#حول_فودافون](http://twitter.com/search?q=%23%d8%ad%d9%88%d9%84_%d9%81%d9%88%d8%af%d8%a7%d9%81%d9%88%d9%86) | N/A |
 | 3 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
 | 4 | [المجال الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 5 | [#زد_رصيدك50](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8350) | N/A |
+| 5 | [#زد_رصيدك51](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8351) | N/A |
 | 6 | [#اليوم_العالمي_للرياضيات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa) | N/A |
 | 7 | [سلطان عمان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
 | 8 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 9 | [القايد الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 10 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 11 | [لحم الضان](http://twitter.com/search?q=%d9%84%d8%ad%d9%85+%d8%a7%d9%84%d8%b6%d8%a7%d9%86) | N/A |
-| 12 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 10 | [لحم الضان](http://twitter.com/search?q=%d9%84%d8%ad%d9%85+%d8%a7%d9%84%d8%b6%d8%a7%d9%86) | N/A |
+| 11 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 12 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 13 | [المحرق البحريني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d9%82+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86%d9%8a) | N/A |
-| 14 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 15 | [المجمع العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 16 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 17 | [الاختبارات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 18 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 19 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 20 | [لخدمات الطاقه](http://twitter.com/search?q=%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87) | N/A |
-| 21 | [اليوم الثلاثاء الموافق](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%81%d9%82) | N/A |
-| 22 | [المستوي التحصيلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%88%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84%d9%8a) | N/A |
-| 23 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
-| 24 | [الثروه الزراعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d8%b1%d9%88%d9%87+%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 25 | [التعليم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 26 | [بنك ظفار](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b8%d9%81%d8%a7%d8%b1) | N/A |
-| 27 | [طلبه المدرسه](http://twitter.com/search?q=%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 14 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 15 | [الاختبارات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 16 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 17 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 18 | [الهيدروجين الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d8%af%d8%b1%d9%88%d8%ac%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 19 | [لخدمات الطاقه](http://twitter.com/search?q=%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87) | N/A |
+| 20 | [اليوم الثلاثاء الموافق](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%81%d9%82) | N/A |
+| 21 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
+| 22 | [الثروه الزراعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d8%b1%d9%88%d9%87+%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 23 | [برنامج تبادل الزيارات](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%aa%d8%a8%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d8%b2%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 24 | [التعليم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 25 | [بنك ظفار](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b8%d9%81%d8%a7%d8%b1) | N/A |
+| 26 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 27 | [القبول الموحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af) | N/A |
 | 28 | [جامعه التقنيه](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d9%87) | N/A |
-| 29 | [الهيدروجين الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d8%af%d8%b1%d9%88%d8%ac%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 30 | [القبول الموحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af) | N/A |
-| 31 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 32 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 33 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 34 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 35 | [التوجيه المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
-| 36 | [العلوم التطبيقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d9%8a%d9%87) | N/A |
-| 37 | [برنامج تبادل الزيارات](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%aa%d8%a8%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d8%b2%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 38 | [١٥ مارس](http://twitter.com/search?q=%d9%a1%d9%a5+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 39 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
-| 40 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 41 | [اليوم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 42 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 43 | [نادي السيب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b3%d9%8a%d8%a8) | N/A |
-| 44 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 45 | [Oman](http://twitter.com/search?q=Oman) | N/A |
-| 46 | [العلي القدير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d8%b1) | N/A |
-| 47 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 48 | [البحث العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%ab+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
-| 49 | [الطلبه المجيدين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af%d9%8a%d9%86) | N/A |
-| 50 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 29 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 30 | [القمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 31 | [العلوم التطبيقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d9%8a%d9%87) | N/A |
+| 32 | [طلبه المدرسه](http://twitter.com/search?q=%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 33 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 34 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 35 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 36 | [التوجيه المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 37 | [المستوي التحصيلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%88%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84%d9%8a) | N/A |
+| 38 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 39 | [١٥ مارس](http://twitter.com/search?q=%d9%a1%d9%a5+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 40 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
+| 41 | [الشروط التجاريه الملزمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%84%d8%b2%d9%85%d9%87) | N/A |
+| 42 | [الطلبه المجيدين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af%d9%8a%d9%86) | N/A |
+| 43 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 44 | [Oman](http://twitter.com/search?q=Oman) | N/A |
+| 45 | [نادي السيب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b3%d9%8a%d8%a8) | N/A |
+| 46 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 47 | [البحث العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%ab+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
+| 48 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 49 | [التقاعد المبكر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b9%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1) | N/A |
+| 50 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
 
 
 

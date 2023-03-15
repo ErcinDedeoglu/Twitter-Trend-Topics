@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-15 14:16:55 UTC`
+📆 Last Updated: `2023-03-15 15:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for South Africa
 | 9 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 10 | [Slee](http://twitter.com/search?q=Slee) | N/A |
 | 11 | [Adriaan](http://twitter.com/search?q=Adriaan) | N/A |
-| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 13 | [Savings](http://twitter.com/search?q=Savings) | N/A |
+| 12 | [Savings](http://twitter.com/search?q=Savings) | N/A |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 14 | [Amanda Black](http://twitter.com/search?q=Amanda+Black) | N/A |
 | 15 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
 | 16 | [STAR BOY JUICY JAY](http://twitter.com/search?q=STAR+BOY+JUICY+JAY) | N/A |
 | 17 | [Niger](http://twitter.com/search?q=Niger) | N/A |
 | 18 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
 | 19 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 20 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 21 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 22 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 23 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 24 | [Skeem Saam](http://twitter.com/search?q=Skeem+Saam) | N/A |
+| 20 | [Deleting](http://twitter.com/search?q=Deleting) | N/A |
+| 21 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 22 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 23 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 24 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
 | 25 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 26 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 27 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
-| 28 | [Rockstar](http://twitter.com/search?q=Rockstar) | N/A |
-| 29 | [Mabena](http://twitter.com/search?q=Mabena) | N/A |
-| 30 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 31 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 32 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
-| 33 | [Uzalo](http://twitter.com/search?q=Uzalo) | N/A |
-| 34 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
-| 35 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
-| 36 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
-| 37 | [Stage 3](http://twitter.com/search?q=Stage+3) | N/A |
-| 38 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 39 | [Clicks](http://twitter.com/search?q=Clicks) | N/A |
-| 40 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 41 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
-| 42 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 43 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
-| 44 | [Utilities](http://twitter.com/search?q=Utilities) | N/A |
-| 45 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
-| 46 | [zonke](http://twitter.com/search?q=zonke) | N/A |
-| 47 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
-| 48 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 49 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 50 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
+| 26 | [Skeem Saam](http://twitter.com/search?q=Skeem+Saam) | N/A |
+| 27 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 28 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 29 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 30 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
+| 31 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 32 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
+| 33 | [Rockstar](http://twitter.com/search?q=Rockstar) | N/A |
+| 34 | [Mabena](http://twitter.com/search?q=Mabena) | N/A |
+| 35 | [Uzalo](http://twitter.com/search?q=Uzalo) | N/A |
+| 36 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 37 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 38 | [Stage 3](http://twitter.com/search?q=Stage+3) | N/A |
+| 39 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 40 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
+| 41 | [Clicks](http://twitter.com/search?q=Clicks) | N/A |
+| 42 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 43 | [The 20th](http://twitter.com/search?q=The+20th) | N/A |
+| 44 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
+| 45 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 46 | [Xhosa](http://twitter.com/search?q=Xhosa) | N/A |
+| 47 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
+| 48 | [Utilities](http://twitter.com/search?q=Utilities) | N/A |
+| 49 | [zonke](http://twitter.com/search?q=zonke) | N/A |
+| 50 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
 
 
 

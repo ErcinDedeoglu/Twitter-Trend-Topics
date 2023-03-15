@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-15 14:16:01 UTC`
+📆 Last Updated: `2023-03-15 15:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 2 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 3 | [Paul Arcand](http://twitter.com/search?q=Paul+Arcand) | N/A |
-| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 5 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 6 | [Patrick Lagacé](http://twitter.com/search?q=Patrick+Lagac%c3%a9) | N/A |
-| 7 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
-| 8 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 4 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 5 | [Jayden Struble](http://twitter.com/search?q=Jayden+Struble) | N/A |
+| 6 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
+| 7 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 8 | [Paul Arcand](http://twitter.com/search?q=Paul+Arcand) | N/A |
 | 9 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [#DietitiansDay](http://twitter.com/search?q=%23DietitiansDay) | N/A |
+| 10 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 12 | [Amqui](http://twitter.com/search?q=Amqui) | N/A |
 | 13 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Junos](http://twitter.com/search?q=Junos) | N/A |
-| 16 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 17 | [otto lopez](http://twitter.com/search?q=otto+lopez) | N/A |
-| 18 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 19 | [Louisette Dussault](http://twitter.com/search?q=Louisette+Dussault) | N/A |
-| 20 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 21 | [Jayden Struble](http://twitter.com/search?q=Jayden+Struble) | N/A |
+| 14 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 15 | [Patrick Lagacé](http://twitter.com/search?q=Patrick+Lagac%c3%a9) | N/A |
+| 16 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 17 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 18 | [Louisette Dussault](http://twitter.com/search?q=Louisette+Dussault) | N/A |
+| 19 | [otto lopez](http://twitter.com/search?q=otto+lopez) | N/A |
+| 20 | [JUNOs](http://twitter.com/search?q=JUNOs) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 22 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 23 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 24 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 25 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 26 | [Fonderie Horne](http://twitter.com/search?q=Fonderie+Horne) | N/A |
-| 27 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 23 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 24 | [Ottawa Senators](http://twitter.com/search?q=Ottawa+Senators) | N/A |
+| 25 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 26 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 27 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
 | 28 | [skinner mcdavid](http://twitter.com/search?q=skinner+mcdavid) | N/A |
-| 29 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 30 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 31 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 32 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 33 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 34 | [Volkswagen](http://twitter.com/search?q=Volkswagen) | N/A |
-| 35 | [Gardiner](http://twitter.com/search?q=Gardiner) | N/A |
-| 36 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 37 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 38 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 39 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 40 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 41 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 42 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 43 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 44 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 45 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 47 | [Adler](http://twitter.com/search?q=Adler) | N/A |
+| 29 | [Gardiner](http://twitter.com/search?q=Gardiner) | N/A |
+| 30 | [Volkswagen](http://twitter.com/search?q=Volkswagen) | N/A |
+| 31 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 32 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 33 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 34 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 35 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 36 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
+| 37 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 38 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
+| 39 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 40 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 41 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
+| 42 | [Horne](http://twitter.com/search?q=Horne) | N/A |
+| 43 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 44 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 45 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 46 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 47 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 48 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
-| 49 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 50 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 49 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 50 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
 
 
 

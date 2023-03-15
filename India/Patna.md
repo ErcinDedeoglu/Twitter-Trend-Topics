@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-03-15 14:16:36 UTC`
+📆 Last Updated: `2023-03-15 15:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jacks](http://twitter.com/search?q=Jacks) | N/A |
-| 2 | [NationalExec Of MinorityDept](http://twitter.com/search?q=NationalExec+Of+MinorityDept) | N/A |
-| 3 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 4 | [RECALLING 2YR OF FATEJO](http://twitter.com/search?q=RECALLING+2YR+OF+FATEJO) | N/A |
-| 5 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 6 | [Dasara](http://twitter.com/search?q=Dasara) | N/A |
-| 7 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 8 | [Sindhu](http://twitter.com/search?q=Sindhu) | N/A |
+| 1 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
+| 2 | [Jacks](http://twitter.com/search?q=Jacks) | N/A |
+| 3 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 4 | [NationalExec Of MinorityDept](http://twitter.com/search?q=NationalExec+Of+MinorityDept) | N/A |
+| 5 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
+| 6 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
+| 7 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 8 | [RECALLING 2YR OF FATEJO](http://twitter.com/search?q=RECALLING+2YR+OF+FATEJO) | N/A |
 | 9 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
-| 10 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
-| 11 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 12 | [amethi](http://twitter.com/search?q=amethi) | N/A |
-| 13 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 14 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 15 | [Arunachal Pradesh](http://twitter.com/search?q=Arunachal+Pradesh) | N/A |
-| 16 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 17 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 18 | [Kharge](http://twitter.com/search?q=Kharge) | N/A |
-| 19 | [समीक्षा बैठक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ac%e0%a5%88%e0%a4%a0%e0%a4%95) | N/A |
-| 20 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
-| 21 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 22 | [राबड़ी देवी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 23 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 24 | [लॉरेंस बिश्नोई](http://twitter.com/search?q=%e0%a4%b2%e0%a5%89%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8+%e0%a4%ac%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%a8%e0%a5%8b%e0%a4%88) | N/A |
-| 25 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
-| 26 | [#CongressDartiHai](http://twitter.com/search?q=%23CongressDartiHai) | N/A |
-| 27 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 28 | [#FSC2030](http://twitter.com/search?q=%23FSC2030) | N/A |
-| 29 | [#MeetMrsChatterjeeIn2Days](http://twitter.com/search?q=%23MeetMrsChatterjeeIn2Days) | N/A |
-| 30 | [#ambition2039](http://twitter.com/search?q=%23ambition2039) | N/A |
-| 31 | [#FSC2023](http://twitter.com/search?q=%23FSC2023) | N/A |
-| 32 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
-| 33 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
-| 34 | [#Kazhuvethimoorkkan](http://twitter.com/search?q=%23Kazhuvethimoorkkan) | N/A |
-| 35 | [#PKSDT](http://twitter.com/search?q=%23PKSDT) | N/A |
-| 36 | [#AICCMinorityDept](http://twitter.com/search?q=%23AICCMinorityDept) | N/A |
-| 37 | [#TuMeraSongOutNow](http://twitter.com/search?q=%23TuMeraSongOutNow) | N/A |
-| 38 | [#LokmatNationalConclave](http://twitter.com/search?q=%23LokmatNationalConclave) | N/A |
-| 39 | [#ICCRankings](http://twitter.com/search?q=%23ICCRankings) | N/A |
-| 40 | [#વીરાંજલિ](http://twitter.com/search?q=%23%e0%aa%b5%e0%ab%80%e0%aa%b0%e0%aa%be%e0%aa%82%e0%aa%9c%e0%aa%b2%e0%aa%bf) | N/A |
-| 41 | [#borutoch79spoilers](http://twitter.com/search?q=%23borutoch79spoilers) | N/A |
-| 42 | [#chandramukhi2](http://twitter.com/search?q=%23chandramukhi2) | N/A |
-| 43 | [#AadhaMainAadhiVoSongOutNow](http://twitter.com/search?q=%23AadhaMainAadhiVoSongOutNow) | N/A |
-| 44 | [#AliaBhatt](http://twitter.com/search?q=%23AliaBhatt) | N/A |
-| 45 | [#UddhavThackeray](http://twitter.com/search?q=%23UddhavThackeray) | N/A |
+| 10 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 11 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
+| 12 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 13 | [IPL 2023](http://twitter.com/search?q=IPL+2023) | N/A |
+| 14 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 15 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 16 | [समीक्षा बैठक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ac%e0%a5%88%e0%a4%a0%e0%a4%95) | N/A |
+| 17 | [Kharge](http://twitter.com/search?q=Kharge) | N/A |
+| 18 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
+| 19 | [Arunachal Pradesh](http://twitter.com/search?q=Arunachal+Pradesh) | N/A |
+| 20 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 21 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 22 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
+| 23 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
+| 24 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 25 | [#CongressDartiHai](http://twitter.com/search?q=%23CongressDartiHai) | N/A |
+| 26 | [#FSC2030](http://twitter.com/search?q=%23FSC2030) | N/A |
+| 27 | [#MeetMrsChatterjeeIn2Days](http://twitter.com/search?q=%23MeetMrsChatterjeeIn2Days) | N/A |
+| 28 | [#ambition2039](http://twitter.com/search?q=%23ambition2039) | N/A |
+| 29 | [#FSC2023](http://twitter.com/search?q=%23FSC2023) | N/A |
+| 30 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
+| 31 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
+| 32 | [#Kazhuvethimoorkkan](http://twitter.com/search?q=%23Kazhuvethimoorkkan) | N/A |
+| 33 | [#PKSDT](http://twitter.com/search?q=%23PKSDT) | N/A |
+| 34 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
+| 35 | [#વીરાંજલિ](http://twitter.com/search?q=%23%e0%aa%b5%e0%ab%80%e0%aa%b0%e0%aa%be%e0%aa%82%e0%aa%9c%e0%aa%b2%e0%aa%bf) | N/A |
+| 36 | [#LokmatNationalConclave](http://twitter.com/search?q=%23LokmatNationalConclave) | N/A |
+| 37 | [#EknathShinde](http://twitter.com/search?q=%23EknathShinde) | N/A |
+| 38 | [#ShivSena](http://twitter.com/search?q=%23ShivSena) | N/A |
+| 39 | [#borutoch79spoilers](http://twitter.com/search?q=%23borutoch79spoilers) | N/A |
+| 40 | [#ICCRankings](http://twitter.com/search?q=%23ICCRankings) | N/A |
+| 41 | [#AadhaMainAadhiVoSongOutNow](http://twitter.com/search?q=%23AadhaMainAadhiVoSongOutNow) | N/A |
+| 42 | [#UddhavThackeray](http://twitter.com/search?q=%23UddhavThackeray) | N/A |
+| 43 | [#Saveosholegacy](http://twitter.com/search?q=%23Saveosholegacy) | N/A |
+| 44 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
+| 45 | [#AliaBhatt](http://twitter.com/search?q=%23AliaBhatt) | N/A |
 
 
 
