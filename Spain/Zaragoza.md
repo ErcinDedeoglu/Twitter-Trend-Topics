@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-03-15 08:17:12 UTC`
+📆 Last Updated: `2023-03-15 09:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Spain](</Spain>)
 | 1 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
 | 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 3 | [#TierraDeNadie2](http://twitter.com/search?q=%23TierraDeNadie2) | N/A |
-| 4 | [#FelizMiércoles](http://twitter.com/search?q=%23FelizMi%c3%a9rcoles) | N/A |
-| 5 | [#CasadelLibro200](http://twitter.com/search?q=%23CasadelLibro200) | N/A |
+| 4 | [#CasadelLibro200](http://twitter.com/search?q=%23CasadelLibro200) | N/A |
+| 5 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 6 | [Juan Roig](http://twitter.com/search?q=Juan+Roig) | N/A |
-| 7 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 8 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
-| 9 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 11 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
-| 12 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 13 | [Ley Mordaza](http://twitter.com/search?q=Ley+Mordaza) | N/A |
-| 14 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 15 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 16 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 17 | [Enrique Ossorio](http://twitter.com/search?q=Enrique+Ossorio) | N/A |
+| 7 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 8 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 10 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
+| 11 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 12 | [Ley Mordaza](http://twitter.com/search?q=Ley+Mordaza) | N/A |
+| 13 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
+| 14 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 15 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 16 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 17 | [Bleach](http://twitter.com/search?q=Bleach) | N/A |
 | 18 | [Oporto](http://twitter.com/search?q=Oporto) | N/A |
 | 19 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
-| 20 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 21 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 22 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Marta Ortega](http://twitter.com/search?q=Marta+Ortega) | N/A |
+| 20 | [Enrique Ossorio](http://twitter.com/search?q=Enrique+Ossorio) | N/A |
+| 21 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
+| 22 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 23 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 24 | [Ally](http://twitter.com/search?q=Ally) | N/A |
 | 25 | [Fiscalía Europea](http://twitter.com/search?q=Fiscal%c3%ada+Europea) | N/A |
-| 26 | [Clattenburg](http://twitter.com/search?q=Clattenburg) | N/A |
-| 27 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 28 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 29 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
-| 30 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 31 | [Cornelio](http://twitter.com/search?q=Cornelio) | N/A |
-| 32 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 33 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 34 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
-| 35 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 36 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
-| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 38 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 39 | [Leonor](http://twitter.com/search?q=Leonor) | N/A |
-| 40 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 41 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 42 | [HOY 15](http://twitter.com/search?q=HOY+15) | N/A |
-| 43 | [el inter](http://twitter.com/search?q=el+inter) | N/A |
-| 44 | [Boyero](http://twitter.com/search?q=Boyero) | N/A |
-| 45 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 46 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 47 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 48 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 26 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 28 | [Marta Ortega](http://twitter.com/search?q=Marta+Ortega) | N/A |
+| 29 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
+| 30 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
+| 31 | [Clattenburg](http://twitter.com/search?q=Clattenburg) | N/A |
+| 32 | [Efes](http://twitter.com/search?q=Efes) | N/A |
+| 33 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 34 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 35 | [Leonor](http://twitter.com/search?q=Leonor) | N/A |
+| 36 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 37 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 38 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
+| 39 | [Blanca Portillo](http://twitter.com/search?q=Blanca+Portillo) | N/A |
+| 40 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 41 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 42 | [Boyero](http://twitter.com/search?q=Boyero) | N/A |
+| 43 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 44 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 45 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 46 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 47 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 48 | [Impune](http://twitter.com/search?q=Impune) | N/A |
 
 
 

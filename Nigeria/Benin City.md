@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-15 08:17:24 UTC`
+📆 Last Updated: `2023-03-15 09:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 3 | [#GoBawaGo](http://twitter.com/search?q=%23GoBawaGo) | N/A |
 | 4 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 5 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 6 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 7 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 8 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 9 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 10 | [#bawamustgo](http://twitter.com/search?q=%23bawamustgo) | N/A |
-| 11 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 12 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 13 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 14 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 15 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Baddo](http://twitter.com/search?q=Baddo) | N/A |
-| 18 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 19 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 20 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
-| 21 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 22 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 6 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 7 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 9 | [Grace](http://twitter.com/search?q=Grace) | N/A |
+| 10 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
+| 11 | [Baddo](http://twitter.com/search?q=Baddo) | N/A |
+| 12 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 13 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
+| 14 | [#theapartmenttvseries](http://twitter.com/search?q=%23theapartmenttvseries) | N/A |
+| 15 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 16 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 17 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
+| 18 | [Seyi](http://twitter.com/search?q=Seyi) | N/A |
+| 19 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 22 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
 | 23 | [Atedo Peterside](http://twitter.com/search?q=Atedo+Peterside) | N/A |
-| 24 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
-| 25 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 24 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 25 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
 | 26 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 | 27 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
-| 28 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 29 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 30 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
-| 31 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 32 | [Shocker](http://twitter.com/search?q=Shocker) | N/A |
-| 33 | [Enya](http://twitter.com/search?q=Enya) | N/A |
-| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 35 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 36 | [Zino](http://twitter.com/search?q=Zino) | N/A |
-| 37 | [The British](http://twitter.com/search?q=The+British) | N/A |
-| 38 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 39 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 40 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
-| 41 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 42 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
-| 43 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 44 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 45 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
-| 46 | [hype phyna](http://twitter.com/search?q=hype+phyna) | N/A |
-| 47 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 48 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 49 | [Adekunle Gold](http://twitter.com/search?q=Adekunle+Gold) | N/A |
-| 50 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
+| 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 29 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
+| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 31 | [AFRICA FOR YEMI CREGX](http://twitter.com/search?q=AFRICA+FOR+YEMI+CREGX) | N/A |
+| 32 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 33 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 34 | [Zino](http://twitter.com/search?q=Zino) | N/A |
+| 35 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 36 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 37 | [Anikulapo](http://twitter.com/search?q=Anikulapo) | N/A |
+| 38 | [The British](http://twitter.com/search?q=The+British) | N/A |
+| 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 40 | [Enya](http://twitter.com/search?q=Enya) | N/A |
+| 41 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 42 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 43 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
+| 44 | [Shocker](http://twitter.com/search?q=Shocker) | N/A |
+| 45 | [The God](http://twitter.com/search?q=The+God) | N/A |
+| 46 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
+| 47 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
+| 48 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 49 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 50 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
 
 
 

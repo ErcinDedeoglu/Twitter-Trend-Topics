@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-15 08:17:51 UTC`
+📆 Last Updated: `2023-03-15 09:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for Panama
 | 13 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
 | 14 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 15 | [Rolando](http://twitter.com/search?q=Rolando) | N/A |
-| 16 | [ricardo lombana](http://twitter.com/search?q=ricardo+lombana) | N/A |
+| 16 | [Ricardo Lombana](http://twitter.com/search?q=Ricardo+Lombana) | N/A |
 | 17 | [Ampyme](http://twitter.com/search?q=Ampyme) | N/A |
 | 18 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
 | 19 | [blue apple](http://twitter.com/search?q=blue+apple) | N/A |
@@ -41,8 +41,8 @@ This is top 50 for Panama
 | 24 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 25 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 26 | [IDAAN](http://twitter.com/search?q=IDAAN) | N/A |
-| 27 | [Oeste](http://twitter.com/search?q=Oeste) | N/A |
-| 28 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 27 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 28 | [Oeste](http://twitter.com/search?q=Oeste) | N/A |
 | 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 30 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
 | 31 | [María](http://twitter.com/search?q=Mar%c3%ada) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for Panama
 | 41 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
 | 42 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
 | 43 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 44 | [Martín Torrijos](http://twitter.com/search?q=Mart%c3%adn+Torrijos) | N/A |
+| 44 | [martín torrijos](http://twitter.com/search?q=mart%c3%adn+torrijos) | N/A |
 | 45 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
 | 46 | [Logrado](http://twitter.com/search?q=Logrado) | N/A |
 | 47 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |

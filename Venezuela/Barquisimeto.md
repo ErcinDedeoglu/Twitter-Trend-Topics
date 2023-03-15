@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-15 08:17:04 UTC`
+📆 Last Updated: `2023-03-15 09:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 7 | [Luis Beltrán Prieto Figueroa](http://twitter.com/search?q=Luis+Beltr%c3%a1n+Prieto+Figueroa) | N/A |
 | 8 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 9 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 10 | [Eduardo Rodríguez](http://twitter.com/search?q=Eduardo+Rodr%c3%adguez) | N/A |
+| 9 | [FELIZ MARTES](http://twitter.com/search?q=FELIZ+MARTES) | N/A |
+| 10 | [eduardo rodríguez](http://twitter.com/search?q=eduardo+rodr%c3%adguez) | N/A |
 | 11 | [ricardo valiño](http://twitter.com/search?q=ricardo+vali%c3%b1o) | N/A |
 | 12 | [Cayena](http://twitter.com/search?q=Cayena) | N/A |
 | 13 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 25 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
 | 26 | [josé ruiz](http://twitter.com/search?q=jos%c3%a9+ruiz) | N/A |
 | 27 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 28 | [Aran](http://twitter.com/search?q=Aran) | N/A |
-| 29 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
-| 30 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 31 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
-| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 28 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 29 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
+| 30 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
+| 31 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 32 | [Aran](http://twitter.com/search?q=Aran) | N/A |
 | 33 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
 | 34 | [Pedro Elías Gutiérrez](http://twitter.com/search?q=Pedro+El%c3%adas+Guti%c3%a9rrez) | N/A |
 | 35 | [Doctorado](http://twitter.com/search?q=Doctorado) | N/A |
 | 36 | [Peter Falk](http://twitter.com/search?q=Peter+Falk) | N/A |
 | 37 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 38 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 39 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 40 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 41 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 42 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 43 | [culantro](http://twitter.com/search?q=culantro) | N/A |
-| 44 | [Algodón](http://twitter.com/search?q=Algod%c3%b3n) | N/A |
-| 45 | [miguel angel landa](http://twitter.com/search?q=miguel+angel+landa) | N/A |
-| 46 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
-| 47 | [Rin Tin Tin](http://twitter.com/search?q=Rin+Tin+Tin) | N/A |
-| 48 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 49 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 50 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 38 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 39 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 40 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 41 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 42 | [Culantro](http://twitter.com/search?q=Culantro) | N/A |
+| 43 | [miguel angel landa](http://twitter.com/search?q=miguel+angel+landa) | N/A |
+| 44 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
+| 45 | [Rin Tin Tin](http://twitter.com/search?q=Rin+Tin+Tin) | N/A |
+| 46 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 47 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 48 | [Freddy Mercury](http://twitter.com/search?q=Freddy+Mercury) | N/A |
+| 49 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 50 | [Algodón](http://twitter.com/search?q=Algod%c3%b3n) | N/A |
 
 
 

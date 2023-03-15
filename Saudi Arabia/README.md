@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-03-15 08:17:52 UTC`
+📆 Last Updated: `2023-03-15 09:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Saudi Arabia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#_ابراهيم](http://twitter.com/search?q=%23_%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 2 | [#الهلال_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
-| 3 | [#النصر_ابها](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d8%a8%d9%87%d8%a7) | N/A |
-| 4 | [#بوح_المشاعر](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%b9%d8%b1) | N/A |
-| 5 | [#جده_الان](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | #جده_الان is a hashtag used on social media to refer to the city of Jeddah, Saudi Arabia. In English, it translates to "Jeddah Now". |
-| 6 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
-| 7 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 8 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 9 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
-| 10 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
-| 11 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 12 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 13 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 14 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
-| 15 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 16 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 17 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
-| 18 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 19 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 20 | [قول ميشيل](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | N/A |
+| 1 | [#موتمر_القطاع_المالي](http://twitter.com/search?q=%23%d9%85%d9%88%d8%aa%d9%85%d8%b1_%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9_%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
+| 2 | [#_ابراهيم](http://twitter.com/search?q=%23_%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 3 | [#جده_الان](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | #جده_الان is a hashtag used on social media to refer to the city of Jeddah, Saudi Arabia. In English, it translates to "Jeddah Now". |
+| 4 | [#فضفضه](http://twitter.com/search?q=%23%d9%81%d8%b6%d9%81%d8%b6%d9%87) | N/A |
+| 5 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 6 | [#مكه_الان](http://twitter.com/search?q=%23%d9%85%d9%83%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 7 | [صاحب المطعم](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d9%85%d8%b7%d8%b9%d9%85) | N/A |
+| 8 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 9 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 10 | [الاذاعه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 11 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 12 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 13 | [سعود الفيصل](http://twitter.com/search?q=%d8%b3%d8%b9%d9%88%d8%af+%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 14 | [الطابور الصباحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a) | N/A |
+| 15 | [علي البييه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
+| 16 | [سير العمليه التعليميه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 17 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 18 | [الاذاعه الصباحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
+| 19 | [بييه الهلال](http://twitter.com/search?q=%d8%a8%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 20 | [الطفوله المبكره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%81%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1%d9%87) | N/A |
 | 21 | [عبدالعزيز الحربيه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 22 | [راعي المعروف](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d9%81) | راعي المعروف is an Arabic phrase that translates to "uphold the known" or "follow the accepted". It is a proverb that encourages people to follow the accepted norms and values of society. |
-| 23 | [محمد كنو](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%83%d9%86%d9%88) | N/A |
-| 24 | [ناصر الدوسري](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | ناصر الدوسري is the name of a prominent Iraqi politician who served as Prime Minister of Iraq from 2006 to 2014. In English, it translates to Nouri al-Maliki. |
-| 25 | [علي البييه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
-| 26 | [الاذاعه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 27 | [هالاند سوبر](http://twitter.com/search?q=%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af+%d8%b3%d9%88%d8%a8%d8%b1) | N/A |
-| 28 | [مراد باتنا](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d8%af+%d8%a8%d8%a7%d8%aa%d9%86%d8%a7) | "مراد باتنا" is an Arabic phrase that translates to "we wish". It is often used as a way of expressing hope or good wishes. |
-| 29 | [قول ثالث](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 30 | [هالاند الثاني](http://twitter.com/search?q=%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 31 | [محمد ابراهيم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 32 | [علم الملك](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 33 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 34 | [قول هالاند](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af) | N/A |
-| 35 | [كلية الملك عبدالعزيز](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 36 | [صاحب المطعم](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d9%85%d8%b7%d8%b9%d9%85) | N/A |
-| 37 | [الكاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a) | N/A |
-| 38 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 39 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 40 | [ميشيل الثاني](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d9%8a%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 41 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 42 | [دارميان](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1%d9%85%d9%8a%d8%a7%d9%86) | دارميان is a Persian phrase meaning "both of us". |
-| 43 | [الاذاعه الصباحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
-| 44 | [ملك الاخلاق](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
-| 45 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 46 | [الزاويه الدنيا](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%a7%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 47 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 48 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 49 | [هيثم عسيري](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | هيثم عسيري is a male Arabic name. It is composed of two elements: هيثم, which means "generous" or "benevolent", and عسيري, which means "enduring". In English, the name could be translated as "Generous and Enduring". |
-| 50 | [العلم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 22 | [#وزاره_التعليم](http://twitter.com/search?q=%23%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
+| 23 | [#صباح_الخير_والسعاده_للجميع](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 24 | [#برشلونه_ريال_مدريد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 25 | [#انترميلان_يوفنتوس](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%aa%d8%b1%d9%85%d9%8a%d9%84%d8%a7%d9%86_%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
+| 26 | [#الرايد_الشباب](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d8%af_%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 27 | [#الفتح_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%aa%d8%ad_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
+| 28 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 29 | [#الهلال_الاتفاق](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82) | #الهلال_الاتفاق is an Arabic hashtag that translates to "The Crescent Agreement" in English. It is used to refer to a peace agreement between the Yemeni government and the Houthi rebels, which was signed in Stockholm, Sweden in 2018. |
+| 30 | [#صباح_الحب](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 31 | [#عامر_منير](http://twitter.com/search?q=%23%d8%b9%d8%a7%d9%85%d8%b1_%d9%85%d9%86%d9%8a%d8%b1) | N/A |
+| 32 | [#تعليم_نجران](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%86%d8%ac%d8%b1%d8%a7%d9%86) | N/A |
+| 33 | [#متنكرين_كالسعوديين26](http://twitter.com/search?q=%23%d9%85%d8%aa%d9%86%d9%83%d8%b1%d9%8a%d9%86_%d9%83%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%8a%d9%8626) | N/A |
+| 34 | [#تعليم_ينبع](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%8a%d9%86%d8%a8%d8%b9) | N/A |
+| 35 | [#جيناكم_بالخير](http://twitter.com/search?q=%23%d8%ac%d9%8a%d9%86%d8%a7%d9%83%d9%85_%d8%a8%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 36 | [#بييتك_تعرفك](http://twitter.com/search?q=%23%d8%a8%d9%8a%d9%8a%d8%aa%d9%83_%d8%aa%d8%b9%d8%b1%d9%81%d9%83) | N/A |
+| 37 | [#شداد_عبدالمحسن_الراجحي](http://twitter.com/search?q=%23%d8%b4%d8%af%d8%a7%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d8%b3%d9%86_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
+| 38 | [#اليوم_العالمي_للرياضيات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa) | N/A |
+| 39 | [#قبست_بين_كنو_وكريري](http://twitter.com/search?q=%23%d9%82%d8%a8%d8%b3%d8%aa_%d8%a8%d9%8a%d9%86_%d9%83%d9%86%d9%88_%d9%88%d9%83%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
+| 40 | [#منصه_مدرستي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d9%85%d8%af%d8%b1%d8%b3%d8%aa%d9%8a) | N/A |
+| 41 | [#تعليم_الرياض](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 42 | [#matching2023](http://twitter.com/search?q=%23matching2023) | N/A |
+| 43 | [#اسبوع_البييه](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
+| 44 | [#تعليم_عسير](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
+| 45 | [#ناصر_الوبير](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%b5%d8%b1_%d8%a7%d9%84%d9%88%d8%a8%d9%8a%d8%b1) | N/A |
+| 46 | [#تعليم_القنفذه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%82%d9%86%d9%81%d8%b0%d9%87) | N/A |
+| 47 | [#تعليم_القصيم](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d9%85) | N/A |
+| 48 | [#ضمك_الباطن](http://twitter.com/search?q=%23%d8%b6%d9%85%d9%83_%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
+| 49 | [#الفيحاء_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
+| 50 | [#الوحده_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
 
 
 

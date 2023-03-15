@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-15 08:17:35 UTC`
+📆 Last Updated: `2023-03-15 09:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#Şanlıurfa](http://twitter.com/search?q=%23%c5%9eanl%c4%b1urfa) | N/A |
 | 2 | [#Adıyaman](http://twitter.com/search?q=%23Ad%c4%b1yaman) | N/A |
-| 3 | [#MilletTarihYazacak](http://twitter.com/search?q=%23MilletTarihYazacak) | N/A |
-| 4 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 5 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 6 | [Fahriye Yıldırım](http://twitter.com/search?q=Fahriye+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 7 | [Üsküdar Amerikan Lisesi](http://twitter.com/search?q=%c3%9csk%c3%bcdar+Amerikan+Lisesi) | N/A |
-| 8 | [Merhumeye Allah'tan](http://twitter.com/search?q=Merhumeye+Allah%27tan) | N/A |
-| 9 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 10 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
-| 11 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
-| 12 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 14 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
-| 15 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
-| 16 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
-| 17 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 18 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
-| 19 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
-| 20 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
-| 21 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 22 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 23 | [#yağmur](http://twitter.com/search?q=%23ya%c4%9fmur) | N/A |
-| 24 | [#Seçimi2000lerBelirler](http://twitter.com/search?q=%23Se%c3%a7imi2000lerBelirler) | N/A |
-| 25 | [#41MilyarLira](http://twitter.com/search?q=%2341MilyarLira) | N/A |
-| 26 | [#NeGünlereKaldık](http://twitter.com/search?q=%23NeG%c3%bcnlereKald%c4%b1k) | N/A |
-| 27 | [#GönüllerBirOlsun](http://twitter.com/search?q=%23G%c3%b6n%c3%bcllerBirOlsun) | N/A |
-| 28 | [#balıklıgöl](http://twitter.com/search?q=%23bal%c4%b1kl%c4%b1g%c3%b6l) | N/A |
-| 29 | [#StajTorbayaEllerHavaya](http://twitter.com/search?q=%23StajTorbayaEllerHavaya) | N/A |
-| 30 | [#BenimOyumMİLLETe](http://twitter.com/search?q=%23BenimOyumM%c4%b0LLETe) | N/A |
-| 31 | [#MertRamazanDemir](http://twitter.com/search?q=%23MertRamazanDemir) | N/A |
-| 32 | [#BilmemizGerek](http://twitter.com/search?q=%23BilmemizGerek) | N/A |
-| 33 | [#TalatPaşa](http://twitter.com/search?q=%23TalatPa%c5%9fa) | N/A |
-| 34 | [#MahirÇayan](http://twitter.com/search?q=%23Mahir%c3%87ayan) | N/A |
-| 35 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | Gaziantep is a city in southeastern Turkey. It is the sixth most populous city in the country and the capital of Gaziantep Province. The name Gaziantep is derived from the Arabic word "Azzanatif", which means "noble". In English, it translates to "Noble City". |
-| 36 | [#AfraSaraçoğlu](http://twitter.com/search?q=%23AfraSara%c3%a7o%c4%9flu) | N/A |
-| 37 | [#15mart](http://twitter.com/search?q=%2315mart) | N/A |
-| 38 | [#pomem](http://twitter.com/search?q=%23pomem) | N/A |
-| 39 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
-| 40 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
-| 41 | [#ADALEThaktırEAD](http://twitter.com/search?q=%23ADALEThakt%c4%b1rEAD) | N/A |
-| 42 | [#EKSUN](http://twitter.com/search?q=%23EKSUN) | N/A |
-| 43 | [#MAVI](http://twitter.com/search?q=%23MAVI) | N/A |
-| 44 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
-| 45 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
-| 46 | [#deryayanıkistifa](http://twitter.com/search?q=%23deryayan%c4%b1kistifa) | N/A |
-| 47 | [#YesilSolParti](http://twitter.com/search?q=%23YesilSolParti) | N/A |
-| 48 | [#fenerbahcebiletdevir](http://twitter.com/search?q=%23fenerbahcebiletdevir) | N/A |
-| 49 | [#AçıkveNet](http://twitter.com/search?q=%23A%c3%a7%c4%b1kveNet) | #AçıkveNet is a Turkish hashtag that translates to "clear and open" in English. It is used to express the idea of being open and honest in communication. |
+| 3 | [#selfelaketi](http://twitter.com/search?q=%23selfelaketi) | N/A |
+| 4 | [#balıklıgöl](http://twitter.com/search?q=%23bal%c4%b1kl%c4%b1g%c3%b6l) | N/A |
+| 5 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 6 | [Rahmi Doğan](http://twitter.com/search?q=Rahmi+Do%c4%9fan) | N/A |
+| 7 | [Milletvekili](http://twitter.com/search?q=Milletvekili) | N/A |
+| 8 | [Geçmiş Olsun](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f+Olsun) | N/A |
+| 9 | [Son Başbakanımız](http://twitter.com/search?q=Son+Ba%c5%9fbakan%c4%b1m%c4%b1z) | N/A |
+| 10 | [Merhumeye Allah'tan](http://twitter.com/search?q=Merhumeye+Allah%27tan) | N/A |
+| 11 | [Dokunulmazlık](http://twitter.com/search?q=Dokunulmazl%c4%b1k) | N/A |
+| 12 | [Dere](http://twitter.com/search?q=Dere) | N/A |
+| 13 | [Lincoln Henrique](http://twitter.com/search?q=Lincoln+Henrique) | N/A |
+| 14 | [Selden](http://twitter.com/search?q=Selden) | N/A |
+| 15 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 16 | [Üsküdar Amerikan Lisesi](http://twitter.com/search?q=%c3%9csk%c3%bcdar+Amerikan+Lisesi) | N/A |
+| 17 | [Sivas'tan](http://twitter.com/search?q=Sivas%27tan) | N/A |
+| 18 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
+| 19 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 20 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
+| 21 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
+| 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 23 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 24 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
+| 25 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 26 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
+| 27 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
+| 28 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
+| 29 | [Ağam](http://twitter.com/search?q=A%c4%9fam) | N/A |
+| 30 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
+| 31 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
+| 32 | [Uygun](http://twitter.com/search?q=Uygun) | N/A |
+| 33 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
+| 34 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 35 | [#MilletTarihYazacak](http://twitter.com/search?q=%23MilletTarihYazacak) | N/A |
+| 36 | [#5BinveKısmiTorbaya](http://twitter.com/search?q=%235BinveK%c4%b1smiTorbaya) | N/A |
+| 37 | [#yağmur](http://twitter.com/search?q=%23ya%c4%9fmur) | N/A |
+| 38 | [#BakanlıkDepremi](http://twitter.com/search?q=%23Bakanl%c4%b1kDepremi) | N/A |
+| 39 | [#Malatya](http://twitter.com/search?q=%23Malatya) | Malatya is a city in eastern Turkey. It is the administrative center of Malatya Province and has a population of around 590,000. The name Malatya is derived from the Arabic word malatiyah, which means "fortress". In English, Malatya translates to "fortress of God". |
+| 40 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | Gaziantep is a city in southeastern Turkey. It is the sixth most populous city in the country and the capital of Gaziantep Province. The name Gaziantep is derived from the Arabic word "Azzanatif", which means "noble". In English, it translates to "Noble City". |
+| 41 | [#41MilyarLira](http://twitter.com/search?q=%2341MilyarLira) | N/A |
+| 42 | [#NeGünlereKaldık](http://twitter.com/search?q=%23NeG%c3%bcnlereKald%c4%b1k) | N/A |
+| 43 | [#Seçimi2000lerBelirler](http://twitter.com/search?q=%23Se%c3%a7imi2000lerBelirler) | N/A |
+| 44 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
+| 45 | [#MertRamazanDemir](http://twitter.com/search?q=%23MertRamazanDemir) | N/A |
+| 46 | [#TalatPaşa](http://twitter.com/search?q=%23TalatPa%c5%9fa) | N/A |
+| 47 | [#AfraSaraçoğlu](http://twitter.com/search?q=%23AfraSara%c3%a7o%c4%9flu) | N/A |
+| 48 | [#çerkezköyescort](http://twitter.com/search?q=%23%c3%a7erkezk%c3%b6yescort) | N/A |
+| 49 | [#GönüllerBirOlsun](http://twitter.com/search?q=%23G%c3%b6n%c3%bcllerBirOlsun) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-15 08:16:56 UTC`
+📆 Last Updated: `2023-03-15 09:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 3 | [#palaciord](http://twitter.com/search?q=%23palaciord) | N/A |
 | 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 5 | [#expofomentapymesbr](http://twitter.com/search?q=%23expofomentapymesbr) | N/A |
-| 6 | [#PioDeportesWBC2023](http://twitter.com/search?q=%23PioDeportesWBC2023) | N/A |
+| 6 | [#piodeporteswbc2023](http://twitter.com/search?q=%23piodeporteswbc2023) | N/A |
 | 7 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 8 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
 | 9 | [Eloy](http://twitter.com/search?q=Eloy) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 19 | [ketel marte](http://twitter.com/search?q=ketel+marte) | N/A |
 | 20 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 21 | [El Ministro](http://twitter.com/search?q=El+Ministro) | N/A |
+| 21 | [el ministro](http://twitter.com/search?q=el+ministro) | N/A |
 | 22 | [banreservas](http://twitter.com/search?q=banreservas) | N/A |
 | 23 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
 | 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
@@ -45,17 +45,17 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 28 | [la guáyiga](http://twitter.com/search?q=la+gu%c3%a1yiga) | N/A |
 | 29 | [candelario](http://twitter.com/search?q=candelario) | N/A |
 | 30 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 31 | [licey](http://twitter.com/search?q=licey) | N/A |
-| 32 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 33 | [Julio Rodríguez](http://twitter.com/search?q=Julio+Rodr%c3%adguez) | N/A |
-| 34 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 35 | [esmil rogers](http://twitter.com/search?q=esmil+rogers) | N/A |
-| 36 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 37 | [dr-cafta](http://twitter.com/search?q=dr-cafta) | N/A |
-| 38 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 39 | [Tour Virtual 360](http://twitter.com/search?q=Tour+Virtual+360) | N/A |
-| 40 | [Bob Melvin](http://twitter.com/search?q=Bob+Melvin) | N/A |
-| 41 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 31 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 32 | [Julio Rodríguez](http://twitter.com/search?q=Julio+Rodr%c3%adguez) | N/A |
+| 33 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 34 | [esmil rogers](http://twitter.com/search?q=esmil+rogers) | N/A |
+| 35 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 36 | [dr-cafta](http://twitter.com/search?q=dr-cafta) | N/A |
+| 37 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
+| 38 | [Tour Virtual 360](http://twitter.com/search?q=Tour+Virtual+360) | N/A |
+| 39 | [Bob Melvin](http://twitter.com/search?q=Bob+Melvin) | N/A |
+| 40 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 41 | [Licey](http://twitter.com/search?q=Licey) | N/A |
 | 42 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
 | 43 | [luisin](http://twitter.com/search?q=luisin) | N/A |
 | 44 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |

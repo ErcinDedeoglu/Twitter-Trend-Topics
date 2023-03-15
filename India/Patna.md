@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-03-15 08:17:31 UTC`
+📆 Last Updated: `2023-03-15 09:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
 | 2 | [#HogaKaiseNahi](http://twitter.com/search?q=%23HogaKaiseNahi) | N/A |
-| 3 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 3 | [#RahulDramaBandKar](http://twitter.com/search?q=%23RahulDramaBandKar) | N/A |
 | 4 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
 | 5 | [Nukkad](http://twitter.com/search?q=Nukkad) | N/A |
 | 6 | [राबड़ी देवी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
 | 7 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
 | 8 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
-| 9 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 10 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 11 | [Khopdi](http://twitter.com/search?q=Khopdi) | N/A |
-| 12 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
-| 13 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 14 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 15 | [लैंड फॉर जॉब](http://twitter.com/search?q=%e0%a4%b2%e0%a5%88%e0%a4%82%e0%a4%a1+%e0%a4%ab%e0%a5%89%e0%a4%b0+%e0%a4%9c%e0%a5%89%e0%a4%ac) | N/A |
-| 16 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 17 | [समीर खाखर](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%80%e0%a4%b0+%e0%a4%96%e0%a4%be%e0%a4%96%e0%a4%b0) | N/A |
-| 18 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 19 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 20 | [साहिब सिंह वर्मा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%ac+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 21 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 9 | [B. 1750](http://twitter.com/search?q=B.+1750) | N/A |
+| 10 | [A. Dynamic AMOLED 2X](http://twitter.com/search?q=A.+Dynamic+AMOLED+2X) | N/A |
+| 11 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 12 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 13 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
+| 14 | [Khopdi](http://twitter.com/search?q=Khopdi) | N/A |
+| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 16 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 17 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 18 | [समीर खाखर](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%80%e0%a4%b0+%e0%a4%96%e0%a4%be%e0%a4%96%e0%a4%b0) | N/A |
+| 19 | [Opposition MPs](http://twitter.com/search?q=Opposition+MPs) | N/A |
+| 20 | [भोजपुरी इंडस्ट्री](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%9c%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a5%80+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 21 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 22 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 23 | [भोजपुरी इंडस्ट्री](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%9c%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a5%80+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 24 | [अशोक चक्र](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%9a%e0%a4%95%e0%a5%8d%e0%a4%b0) | N/A |
-| 25 | [Dr Mahendra Singh](http://twitter.com/search?q=Dr+Mahendra+Singh) | N/A |
-| 26 | [बड़ी राहत](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4) | बड़ी राहत (Badi Rahat) is a Hindi phrase that translates to "great relief" in English. It is used to express a feeling of relief or comfort after a difficult situation. |
-| 27 | [मेजर संदीप उन्नीकृष्णन](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%9c%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa+%e0%a4%89%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a5%80%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%a8) | N/A |
-| 28 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 29 | [False Rape Cases](http://twitter.com/search?q=False+Rape+Cases) | N/A |
-| 30 | [बसंत ऋतु](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b8%e0%a4%82%e0%a4%a4+%e0%a4%8b%e0%a4%a4%e0%a5%81) | N/A |
-| 31 | [Classic Example](http://twitter.com/search?q=Classic+Example) | N/A |
-| 32 | [BIRTH Campaign](http://twitter.com/search?q=BIRTH+Campaign) | N/A |
-| 33 | [राजनैतिक चेतना](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%88%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8%e0%a4%be) | N/A |
-| 34 | [लॉरेंस बिश्नोई](http://twitter.com/search?q=%e0%a4%b2%e0%a5%89%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8+%e0%a4%ac%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%a8%e0%a5%8b%e0%a4%88) | N/A |
-| 35 | [स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | स्वास्थ्य मंत्री is a Hindi phrase meaning "Health Minister". It is used to refer to the minister responsible for health and medical services in India. |
-| 36 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
-| 37 | [Farzi](http://twitter.com/search?q=Farzi) | N/A |
-| 38 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 39 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
-| 40 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 41 | [Ganesh](http://twitter.com/search?q=Ganesh) | N/A |
+| 23 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 24 | [Smriti Irani](http://twitter.com/search?q=Smriti+Irani) | N/A |
+| 25 | [साहिब सिंह वर्मा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%ac+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 26 | [लैंड फॉर जॉब](http://twitter.com/search?q=%e0%a4%b2%e0%a5%88%e0%a4%82%e0%a4%a1+%e0%a4%ab%e0%a5%89%e0%a4%b0+%e0%a4%9c%e0%a5%89%e0%a4%ac) | N/A |
+| 27 | [अशोक चक्र](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%9a%e0%a4%95%e0%a5%8d%e0%a4%b0) | N/A |
+| 28 | [Dr Mahendra Singh](http://twitter.com/search?q=Dr+Mahendra+Singh) | N/A |
+| 29 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 30 | [राजनैतिक चेतना](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%88%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8%e0%a4%be) | N/A |
+| 31 | [मेजर संदीप उन्नीकृष्णन](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%9c%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa+%e0%a4%89%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a5%80%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%a8) | N/A |
+| 32 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 33 | [बड़ी राहत](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4) | बड़ी राहत (Badi Rahat) is a Hindi phrase that translates to "great relief" in English. It is used to express a feeling of relief or comfort after a difficult situation. |
+| 34 | [False Rape Cases](http://twitter.com/search?q=False+Rape+Cases) | N/A |
+| 35 | [लॉरेंस बिश्नोई](http://twitter.com/search?q=%e0%a4%b2%e0%a5%89%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8+%e0%a4%ac%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%a8%e0%a5%8b%e0%a4%88) | N/A |
+| 36 | [BIRTH Campaign](http://twitter.com/search?q=BIRTH+Campaign) | N/A |
+| 37 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 38 | [Classic Example](http://twitter.com/search?q=Classic+Example) | N/A |
+| 39 | [स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | स्वास्थ्य मंत्री is a Hindi phrase meaning "Health Minister". It is used to refer to the minister responsible for health and medical services in India. |
+| 40 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
+| 41 | [Farzi](http://twitter.com/search?q=Farzi) | N/A |
 | 42 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 43 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 44 | [Lok Sabha](http://twitter.com/search?q=Lok+Sabha) | N/A |
-| 45 | [#WorldConsumerRightsDay](http://twitter.com/search?q=%23WorldConsumerRightsDay) | N/A |
-| 46 | [#WinGalaxyS23](http://twitter.com/search?q=%23WinGalaxyS23) | N/A |
-| 47 | [#LuxuryFragrances](http://twitter.com/search?q=%23LuxuryFragrances) | N/A |
-| 48 | [#मोर_आवास_मोर_अधिकार](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%b0_%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8_%e0%a4%ae%e0%a5%8b%e0%a4%b0_%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 43 | [#AnpadhKejriwal](http://twitter.com/search?q=%23AnpadhKejriwal) | N/A |
+| 44 | [#Mor_Awas_Mor_Adhikar](http://twitter.com/search?q=%23Mor_Awas_Mor_Adhikar) | N/A |
+| 45 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 46 | [#मोर_आवास_मोर_अधिकार](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%b0_%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8_%e0%a4%ae%e0%a5%8b%e0%a4%b0_%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 47 | [#WinGalaxyS23](http://twitter.com/search?q=%23WinGalaxyS23) | N/A |
+| 48 | [#WorldConsumerRightsDay](http://twitter.com/search?q=%23WorldConsumerRightsDay) | N/A |
 
 
 

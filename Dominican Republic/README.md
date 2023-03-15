@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-15 08:17:47 UTC`
+📆 Last Updated: `2023-03-15 09:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for Dominican Republic
 | 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 2 | [#lacasadetodosdo](http://twitter.com/search?q=%23lacasadetodosdo) | N/A |
 | 3 | [#palaciord](http://twitter.com/search?q=%23palaciord) | N/A |
-| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 5 | [#expofomentapymesbr](http://twitter.com/search?q=%23expofomentapymesbr) | N/A |
-| 6 | [#PioDeportesWBC2023](http://twitter.com/search?q=%23PioDeportesWBC2023) | N/A |
+| 4 | [#expofomentapymesbr](http://twitter.com/search?q=%23expofomentapymesbr) | N/A |
+| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 6 | [#piodeporteswbc2023](http://twitter.com/search?q=%23piodeporteswbc2023) | N/A |
 | 7 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 8 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
 | 9 | [Eloy](http://twitter.com/search?q=Eloy) | N/A |
@@ -35,11 +35,11 @@ This is top 50 for Dominican Republic
 | 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 19 | [ketel marte](http://twitter.com/search?q=ketel+marte) | N/A |
 | 20 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 21 | [El Ministro](http://twitter.com/search?q=El+Ministro) | N/A |
+| 21 | [el ministro](http://twitter.com/search?q=el+ministro) | N/A |
 | 22 | [banreservas](http://twitter.com/search?q=banreservas) | N/A |
 | 23 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
 | 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 25 | [cano](http://twitter.com/search?q=cano) | N/A |
+| 25 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
 | 26 | [banco mundial](http://twitter.com/search?q=banco+mundial) | N/A |
 | 27 | [Willy Adames](http://twitter.com/search?q=Willy+Adames) | N/A |
 | 28 | [la guáyiga](http://twitter.com/search?q=la+gu%c3%a1yiga) | N/A |
@@ -50,10 +50,10 @@ This is top 50 for Dominican Republic
 | 33 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
 | 34 | [esmil rogers](http://twitter.com/search?q=esmil+rogers) | N/A |
 | 35 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 36 | [dr-cafta](http://twitter.com/search?q=dr-cafta) | N/A |
+| 36 | [DR-Cafta](http://twitter.com/search?q=DR-Cafta) | N/A |
 | 37 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 38 | [Tour Virtual 360](http://twitter.com/search?q=Tour+Virtual+360) | N/A |
-| 39 | [Bob Melvin](http://twitter.com/search?q=Bob+Melvin) | N/A |
+| 38 | [tour virtual 360](http://twitter.com/search?q=tour+virtual+360) | N/A |
+| 39 | [bob melvin](http://twitter.com/search?q=bob+melvin) | N/A |
 | 40 | [Boris](http://twitter.com/search?q=Boris) | N/A |
 | 41 | [Licey](http://twitter.com/search?q=Licey) | N/A |
 | 42 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-15 08:17:50 UTC`
+📆 Last Updated: `2023-03-15 09:19:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for New Zealand
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 2 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
 | 3 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
 | 4 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
 | 5 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
-| 6 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
-| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 8 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
-| 9 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 10 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
-| 11 | [Cabinet Manual](http://twitter.com/search?q=Cabinet+Manual) | N/A |
-| 12 | [Coster](http://twitter.com/search?q=Coster) | N/A |
-| 13 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
-| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 15 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 16 | [Leah](http://twitter.com/search?q=Leah) | N/A |
-| 17 | [Te Pūkenga](http://twitter.com/search?q=Te+P%c5%abkenga) | N/A |
-| 18 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
-| 19 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 20 | [Treaty of Waitangi](http://twitter.com/search?q=Treaty+of+Waitangi) | N/A |
-| 21 | [Willis](http://twitter.com/search?q=Willis) | N/A |
-| 22 | [Megan Woods](http://twitter.com/search?q=Megan+Woods) | N/A |
+| 6 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 7 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 8 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 10 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
+| 11 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 12 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
+| 13 | [Cabinet Manual](http://twitter.com/search?q=Cabinet+Manual) | N/A |
+| 14 | [Coster](http://twitter.com/search?q=Coster) | N/A |
+| 15 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 16 | [#UNBREAKABLE](http://twitter.com/search?q=%23UNBREAKABLE) | N/A |
+| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 18 | [Leah](http://twitter.com/search?q=Leah) | N/A |
+| 19 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
+| 20 | [Te Pūkenga](http://twitter.com/search?q=Te+P%c5%abkenga) | N/A |
+| 21 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 22 | [Topham Guerin](http://twitter.com/search?q=Topham+Guerin) | N/A |
 | 23 | [Meng](http://twitter.com/search?q=Meng) | N/A |
-| 24 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 25 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
-| 26 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 27 | [#PlunketShield](http://twitter.com/search?q=%23PlunketShield) | N/A |
-| 28 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
-| 29 | [#ClimateScam](http://twitter.com/search?q=%23ClimateScam) | N/A |
-| 30 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 31 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 32 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 33 | [national mps](http://twitter.com/search?q=national+mps) | N/A |
-| 34 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 35 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 36 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 37 | [Reti](http://twitter.com/search?q=Reti) | N/A |
-| 38 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
-| 39 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
-| 40 | [Mahuta](http://twitter.com/search?q=Mahuta) | N/A |
-| 41 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 42 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 43 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 44 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 45 | [Kerre Woodham](http://twitter.com/search?q=Kerre+Woodham) | N/A |
-| 46 | [SUVs](http://twitter.com/search?q=SUVs) | N/A |
-| 47 | [#CycloneGabrielle](http://twitter.com/search?q=%23CycloneGabrielle) | N/A |
-| 48 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 49 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 50 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 24 | [Willis](http://twitter.com/search?q=Willis) | N/A |
+| 25 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 26 | [Megan Woods](http://twitter.com/search?q=Megan+Woods) | N/A |
+| 27 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
+| 28 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 30 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 31 | [Treaty of Waitangi](http://twitter.com/search?q=Treaty+of+Waitangi) | N/A |
+| 32 | [Bing](http://twitter.com/search?q=Bing) | N/A |
+| 33 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 34 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 35 | [#PlunketShield](http://twitter.com/search?q=%23PlunketShield) | N/A |
+| 36 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 37 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
+| 38 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 39 | [#ClimateScam](http://twitter.com/search?q=%23ClimateScam) | N/A |
+| 40 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
+| 41 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 42 | [national mps](http://twitter.com/search?q=national+mps) | N/A |
+| 43 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 44 | [Mahuta](http://twitter.com/search?q=Mahuta) | N/A |
+| 45 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 46 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 47 | [Reti](http://twitter.com/search?q=Reti) | N/A |
+| 48 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 49 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 50 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
 
 
 

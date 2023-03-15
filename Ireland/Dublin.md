@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-15 08:17:06 UTC`
+📆 Last Updated: `2023-03-15 09:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Ireland](</Ireland>)
 | 3 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
 | 4 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
 | 5 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 7 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
-| 8 | [dysart dynamo](http://twitter.com/search?q=dysart+dynamo) | N/A |
-| 9 | [MARINE NATIONALE](http://twitter.com/search?q=MARINE+NATIONALE) | N/A |
-| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 11 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 6 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
+| 7 | [Dysart Dynamo](http://twitter.com/search?q=Dysart+Dynamo) | N/A |
+| 8 | [MARINE NATIONALE](http://twitter.com/search?q=MARINE+NATIONALE) | N/A |
+| 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 10 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 12 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
-| 13 | [#homeoftheyear](http://twitter.com/search?q=%23homeoftheyear) | N/A |
-| 14 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 13 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 14 | [#homeoftheyear](http://twitter.com/search?q=%23homeoftheyear) | N/A |
 | 15 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
 | 16 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 17 | [#GSB2023](http://twitter.com/search?q=%23GSB2023) | N/A |
-| 18 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 19 | [champion hurdle](http://twitter.com/search?q=champion+hurdle) | N/A |
+| 17 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 18 | [#GIBA23](http://twitter.com/search?q=%23GIBA23) | N/A |
+| 19 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
 | 20 | [Werner](http://twitter.com/search?q=Werner) | N/A |
 | 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 22 | [Greens](http://twitter.com/search?q=Greens) | N/A |
 | 23 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 24 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 25 | [seachtain](http://twitter.com/search?q=seachtain) | N/A |
-| 26 | [rachel blackmore](http://twitter.com/search?q=rachel+blackmore) | N/A |
-| 27 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
-| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 29 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 30 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
-| 31 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
-| 32 | [george hook](http://twitter.com/search?q=george+hook) | N/A |
-| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 34 | [kenny cunningham](http://twitter.com/search?q=kenny+cunningham) | N/A |
-| 35 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
-| 36 | [Kai and Sanam](http://twitter.com/search?q=Kai+and+Sanam) | N/A |
-| 37 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 38 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 39 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 24 | [seachtain](http://twitter.com/search?q=seachtain) | N/A |
+| 25 | [Rachel Blackmore](http://twitter.com/search?q=Rachel+Blackmore) | N/A |
+| 26 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
+| 27 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 28 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 31 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 32 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
+| 33 | [george hook](http://twitter.com/search?q=george+hook) | N/A |
+| 34 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 35 | [kenny cunningham](http://twitter.com/search?q=kenny+cunningham) | N/A |
+| 36 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 37 | [Kai and Sanam](http://twitter.com/search?q=Kai+and+Sanam) | N/A |
+| 38 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 39 | [samie](http://twitter.com/search?q=samie) | N/A |
 | 40 | [De Bromhead](http://twitter.com/search?q=De+Bromhead) | N/A |
 | 41 | [Joan](http://twitter.com/search?q=Joan) | N/A |
-| 42 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 43 | [Dara](http://twitter.com/search?q=Dara) | N/A |
-| 44 | [State Man](http://twitter.com/search?q=State+Man) | State Man is a term used in India to refer to a person who is in charge of the affairs of a particular state. It is usually used to refer to the Chief Minister or Governor of a state. In English, it can be translated as "State Leader". |
-| 45 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 46 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 47 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
-| 48 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 49 | [Relax](http://twitter.com/search?q=Relax) | N/A |
-| 50 | [Niamh](http://twitter.com/search?q=Niamh) | N/A |
+| 42 | [Dara](http://twitter.com/search?q=Dara) | N/A |
+| 43 | [State Man](http://twitter.com/search?q=State+Man) | State Man is a term used in India to refer to a person who is in charge of the affairs of a particular state. It is usually used to refer to the Chief Minister or Governor of a state. In English, it can be translated as "State Leader". |
+| 44 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 45 | [Geraldine](http://twitter.com/search?q=Geraldine) | N/A |
+| 46 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 47 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 48 | [Relax](http://twitter.com/search?q=Relax) | N/A |
+| 49 | [Niamh](http://twitter.com/search?q=Niamh) | N/A |
+| 50 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 
 
 

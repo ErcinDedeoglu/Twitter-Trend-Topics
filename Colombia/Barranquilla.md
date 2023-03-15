@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-15 08:17:00 UTC`
+📆 Last Updated: `2023-03-15 09:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,29 +17,29 @@ This is top 50 for [Colombia](</Colombia>)
 | ------- | ------------ | ------------ |
 | 1 | [Francia](http://twitter.com/search?q=Francia) | N/A |
 | 2 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 3 | [Bolillo](http://twitter.com/search?q=Bolillo) | N/A |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [#DeMalas](http://twitter.com/search?q=%23DeMalas) | N/A |
+| 3 | [#DeMalas](http://twitter.com/search?q=%23DeMalas) | N/A |
+| 4 | [Bolillo](http://twitter.com/search?q=Bolillo) | N/A |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 6 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
-| 7 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 8 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
-| 9 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
-| 10 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 11 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 12 | [Vice](http://twitter.com/search?q=Vice) | N/A |
-| 13 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 14 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
-| 15 | [#sueñoconalejandrofernandez](http://twitter.com/search?q=%23sue%c3%b1oconalejandrofernandez) | N/A |
-| 16 | [#justiciaparacaicedo](http://twitter.com/search?q=%23justiciaparacaicedo) | N/A |
-| 17 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 18 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
-| 21 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 7 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
+| 8 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
+| 9 | [Vice](http://twitter.com/search?q=Vice) | N/A |
+| 10 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
+| 11 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
+| 12 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
+| 13 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 14 | [#sueñoconalejandrofernandez](http://twitter.com/search?q=%23sue%c3%b1oconalejandrofernandez) | N/A |
+| 15 | [#justiciaparacaicedo](http://twitter.com/search?q=%23justiciaparacaicedo) | N/A |
+| 16 | [Flip](http://twitter.com/search?q=Flip) | N/A |
+| 17 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
+| 20 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 21 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
 | 22 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
-| 23 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 24 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 25 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 23 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 24 | [MENA](http://twitter.com/search?q=MENA) | N/A |
+| 25 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 26 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
 | 27 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
 | 28 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
@@ -52,9 +52,9 @@ This is top 50 for [Colombia](</Colombia>)
 | 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 36 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 37 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 38 | [Laura Gil](http://twitter.com/search?q=Laura+Gil) | N/A |
-| 39 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 40 | [The Only Exception](http://twitter.com/search?q=The+Only+Exception) | N/A |
+| 38 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 39 | [The Only Exception](http://twitter.com/search?q=The+Only+Exception) | N/A |
+| 40 | [Laura Gil](http://twitter.com/search?q=Laura+Gil) | N/A |
 | 41 | [Matador](http://twitter.com/search?q=Matador) | N/A |
 | 42 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
 | 43 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Colombia](</Colombia>)
 | 45 | [Linero](http://twitter.com/search?q=Linero) | N/A |
 | 46 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
 | 47 | [Negra](http://twitter.com/search?q=Negra) | N/A |
-| 48 | [David Murcia](http://twitter.com/search?q=David+Murcia) | N/A |
+| 48 | [david murcia](http://twitter.com/search?q=david+murcia) | N/A |
 | 49 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 50 | [Leys](http://twitter.com/search?q=Leys) | N/A |
+| 50 | [leys](http://twitter.com/search?q=leys) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-15 08:17:51 UTC`
+📆 Last Updated: `2023-03-15 09:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Qatar
 | ------- | ------------ | ------------ |
 | 1 | [#عل_بن](http://twitter.com/search?q=%23%d8%b9%d9%84_%d8%a8%d9%86) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [الشركات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
-| 4 | [لدول الخليج العربيه](http://twitter.com/search?q=%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 5 | [#دوري_ابطال_اوروبا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
-| 6 | [#قايمه_التميز](http://twitter.com/search?q=%23%d9%82%d8%a7%d9%8a%d9%85%d9%87_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2) | N/A |
-| 7 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
-| 8 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 9 | [مساعد وزير الخارجيه](http://twitter.com/search?q=%d9%85%d8%b3%d8%a7%d8%b9%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 10 | [البطاقه الشخصيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d9%87) | N/A |
-| 11 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
-| 12 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 13 | [الحصه التموينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 14 | [#معقل_الاوفياء](http://twitter.com/search?q=%23%d9%85%d8%b9%d9%82%d9%84_%d8%a7%d9%84%d8%a7%d9%88%d9%81%d9%8a%d8%a7%d8%a1) | N/A |
+| 3 | [#معقل_الاوفياء](http://twitter.com/search?q=%23%d9%85%d8%b9%d9%82%d9%84_%d8%a7%d9%84%d8%a7%d9%88%d9%81%d9%8a%d8%a7%d8%a1) | N/A |
+| 4 | [الشركات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
+| 5 | [لدول الخليج العربيه](http://twitter.com/search?q=%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 6 | [#دوري_ابطال_اوروبا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
+| 7 | [#قايمه_التميز](http://twitter.com/search?q=%23%d9%82%d8%a7%d9%8a%d9%85%d9%87_%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2) | N/A |
+| 8 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
+| 9 | [#GSF23](http://twitter.com/search?q=%23GSF23) | N/A |
+| 10 | [مساعد وزير الخارجيه](http://twitter.com/search?q=%d9%85%d8%b3%d8%a7%d8%b9%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 11 | [البطاقه الشخصيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d9%87) | N/A |
+| 12 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 13 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 14 | [الحصه التموينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 15 | [البطاقه الصحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%87) | N/A |
 | 16 | [15 مارس 2023](http://twitter.com/search?q=15+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
 | 17 | [مانشستر سيتي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
 | 18 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
 | 19 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 20 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 21 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 22 | [أحمد](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af) | N/A |
-| 23 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 24 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 25 | [بن جاسم](http://twitter.com/search?q=%d8%a8%d9%86+%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 20 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 21 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 22 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 23 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 24 | [بن جاسم](http://twitter.com/search?q=%d8%a8%d9%86+%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 25 | [امير البلاد المفدي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
 | 26 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 27 | [محمد بن عبد الرحمن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86) | N/A |
 | 28 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 29 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 30 | [الامن العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 31 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 32 | [عين القعود](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%b9%d9%88%d8%af) | N/A |
-| 33 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
-| 34 | [الوفد المرافق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%81%d9%82) | N/A |
-| 35 | [America](http://twitter.com/search?q=America) | N/A |
-| 36 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 37 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 38 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 39 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 41 | [علي بالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
-| 42 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 43 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 44 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 45 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 46 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 47 | [المراكز الصحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%83%d8%b2+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%87) | N/A |
-| 48 | [الرعايه الصحيه الاوليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b9%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 49 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
-| 50 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 29 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
+| 30 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 31 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
+| 32 | [الامن العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 33 | [أحمد](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af) | N/A |
+| 34 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 35 | [عين القعود](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%b9%d9%88%d8%af) | N/A |
+| 36 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
+| 37 | [الوفد المرافق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%81%d9%82) | N/A |
+| 38 | [America](http://twitter.com/search?q=America) | N/A |
+| 39 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 40 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 41 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 42 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 43 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 44 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 47 | [علي بالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
+| 48 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 49 | [Raila](http://twitter.com/search?q=Raila) | N/A |
+| 50 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 
 
 

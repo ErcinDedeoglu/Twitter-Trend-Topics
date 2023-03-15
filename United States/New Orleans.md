@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-03-15 08:17:41 UTC`
+📆 Last Updated: `2023-03-15 09:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 3 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 4 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
-| 5 | [#JJK217](http://twitter.com/search?q=%23JJK217) | N/A |
-| 6 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 7 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
-| 8 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 9 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
-| 10 | [Coruscant](http://twitter.com/search?q=Coruscant) | N/A |
-| 11 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 12 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 13 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 14 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 15 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 16 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 17 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 18 | [Deuce](http://twitter.com/search?q=Deuce) | N/A |
-| 19 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 20 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 21 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 22 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 23 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 24 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 25 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
-| 26 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 27 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
-| 28 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 29 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 30 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
-| 31 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 32 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
-| 33 | [Happily Ever After](http://twitter.com/search?q=Happily+Ever+After) | N/A |
-| 34 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 35 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 36 | [Anonymous](http://twitter.com/search?q=Anonymous) | N/A |
+| 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 4 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 5 | [Coruscant](http://twitter.com/search?q=Coruscant) | N/A |
+| 6 | [New Republic](http://twitter.com/search?q=New+Republic) | N/A |
+| 7 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
+| 8 | [#JJK217](http://twitter.com/search?q=%23JJK217) | N/A |
+| 9 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
+| 10 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
+| 11 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 12 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
+| 13 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 14 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 15 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 16 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 17 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 18 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 19 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 20 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 21 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
+| 22 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 23 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 24 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 25 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 26 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
+| 27 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
+| 28 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 29 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
+| 30 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 31 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
+| 32 | [McBride](http://twitter.com/search?q=McBride) | N/A |
+| 33 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
+| 34 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 35 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 36 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
 | 37 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 38 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 39 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
-| 40 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
-| 41 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 42 | [ian connor](http://twitter.com/search?q=ian+connor) | N/A |
-| 43 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
-| 44 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
-| 45 | [Chauncey](http://twitter.com/search?q=Chauncey) | N/A |
-| 46 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 47 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 48 | [Steven Crowl](http://twitter.com/search?q=Steven+Crowl) | N/A |
-| 49 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 50 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 38 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
+| 39 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
+| 40 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 41 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
+| 42 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
+| 43 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 44 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 45 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 46 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 47 | [The Mask](http://twitter.com/search?q=The+Mask) | N/A |
+| 48 | [WELL REGULATED](http://twitter.com/search?q=WELL+REGULATED) | N/A |
+| 49 | [Lumi](http://twitter.com/search?q=Lumi) | N/A |
+| 50 | [Small Soldiers](http://twitter.com/search?q=Small+Soldiers) | N/A |
 
 
 
