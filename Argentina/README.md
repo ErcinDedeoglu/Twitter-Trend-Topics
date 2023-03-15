@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-15 19:17:26 UTC`
+📆 Last Updated: `2023-03-15 20:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LouisEsDeLOS40](http://twitter.com/search?q=%23LouisEsDeLOS40) | N/A |
-| 2 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 3 | [#Traferri](http://twitter.com/search?q=%23Traferri) | N/A |
-| 4 | [#SinLuzNiAgua](http://twitter.com/search?q=%23SinLuzNiAgua) | N/A |
-| 5 | [Cristian Castro](http://twitter.com/search?q=Cristian+Castro) | N/A |
-| 6 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 7 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 8 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 10 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 11 | [La Volpe](http://twitter.com/search?q=La+Volpe) | N/A |
-| 12 | [Hugo Ibarra](http://twitter.com/search?q=Hugo+Ibarra) | N/A |
-| 13 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 14 | [Y FUE A MI CASA](http://twitter.com/search?q=Y+FUE+A+MI+CASA) | N/A |
-| 15 | [Pierde](http://twitter.com/search?q=Pierde) | N/A |
-| 16 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 17 | [ESTA LLOVIENDO](http://twitter.com/search?q=ESTA+LLOVIENDO) | N/A |
-| 18 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 19 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 20 | [Ensenada](http://twitter.com/search?q=Ensenada) | N/A |
-| 21 | [Delirio](http://twitter.com/search?q=Delirio) | N/A |
-| 22 | [López Murphy](http://twitter.com/search?q=L%c3%b3pez+Murphy) | N/A |
-| 23 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 24 | [angela torres](http://twitter.com/search?q=angela+torres) | N/A |
-| 25 | [Eliminatorias](http://twitter.com/search?q=Eliminatorias) | N/A |
-| 26 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 27 | [Popular](http://twitter.com/search?q=Popular) | N/A |
-| 28 | [En Europa](http://twitter.com/search?q=En+Europa) | N/A |
-| 29 | [Ventiladores](http://twitter.com/search?q=Ventiladores) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [Vayan](http://twitter.com/search?q=Vayan) | N/A |
-| 32 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
-| 33 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
-| 34 | [La Rioja](http://twitter.com/search?q=La+Rioja) | N/A |
-| 35 | [Lollapalooza](http://twitter.com/search?q=Lollapalooza) | N/A |
-| 36 | [Campeones del Mundo](http://twitter.com/search?q=Campeones+del+Mundo) | N/A |
-| 37 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 38 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
-| 39 | [Caballito](http://twitter.com/search?q=Caballito) | N/A |
-| 40 | [Mouche](http://twitter.com/search?q=Mouche) | N/A |
-| 41 | [Polo Obrero](http://twitter.com/search?q=Polo+Obrero) | N/A |
-| 42 | [Stornelli](http://twitter.com/search?q=Stornelli) | N/A |
-| 43 | [#15Mderodolfitos](http://twitter.com/search?q=%2315Mderodolfitos) | N/A |
-| 44 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Ricardo Jaime](http://twitter.com/search?q=Ricardo+Jaime) | N/A |
+| 3 | [#LouisEsDeLOS40](http://twitter.com/search?q=%23LouisEsDeLOS40) | N/A |
+| 4 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 5 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 6 | [#Traferri](http://twitter.com/search?q=%23Traferri) | N/A |
+| 7 | [#SinLuzNiAgua](http://twitter.com/search?q=%23SinLuzNiAgua) | N/A |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 9 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 10 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 11 | [Cristian Castro](http://twitter.com/search?q=Cristian+Castro) | N/A |
+| 12 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 13 | [#GerardoPresidente](http://twitter.com/search?q=%23GerardoPresidente) | N/A |
+| 14 | [La Volpe](http://twitter.com/search?q=La+Volpe) | N/A |
+| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 16 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 17 | [Hugo Ibarra](http://twitter.com/search?q=Hugo+Ibarra) | N/A |
+| 18 | [Delirio](http://twitter.com/search?q=Delirio) | N/A |
+| 19 | [Pierde](http://twitter.com/search?q=Pierde) | N/A |
+| 20 | [Y FUE A MI CASA](http://twitter.com/search?q=Y+FUE+A+MI+CASA) | N/A |
+| 21 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 22 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 23 | [Ensenada](http://twitter.com/search?q=Ensenada) | N/A |
+| 24 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 25 | [angela torres](http://twitter.com/search?q=angela+torres) | N/A |
+| 26 | [Eliminatorias](http://twitter.com/search?q=Eliminatorias) | N/A |
+| 27 | [López Murphy](http://twitter.com/search?q=L%c3%b3pez+Murphy) | N/A |
+| 28 | [ESTA LLOVIENDO](http://twitter.com/search?q=ESTA+LLOVIENDO) | N/A |
+| 29 | [Caputo](http://twitter.com/search?q=Caputo) | N/A |
+| 30 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
+| 31 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 32 | [Vayan](http://twitter.com/search?q=Vayan) | N/A |
+| 33 | [En Europa](http://twitter.com/search?q=En+Europa) | N/A |
+| 34 | [Ventiladores](http://twitter.com/search?q=Ventiladores) | N/A |
+| 35 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
+| 36 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
+| 37 | [La Rioja](http://twitter.com/search?q=La+Rioja) | N/A |
+| 38 | [Llueve](http://twitter.com/search?q=Llueve) | N/A |
+| 39 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 40 | [#15Mderodolfitos](http://twitter.com/search?q=%2315Mderodolfitos) | N/A |
+| 41 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 42 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 43 | [#SedalEnLollaAR](http://twitter.com/search?q=%23SedalEnLollaAR) | N/A |
+| 44 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
 | 45 | [#campeonesencasa](http://twitter.com/search?q=%23campeonesencasa) | N/A |
-| 46 | [#SedalEnLollaAR](http://twitter.com/search?q=%23SedalEnLollaAR) | N/A |
-| 47 | [#EspnF90](http://twitter.com/search?q=%23EspnF90) | N/A |
-| 48 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 49 | [#GerardoPresidente](http://twitter.com/search?q=%23GerardoPresidente) | N/A |
-| 50 | [#llueve](http://twitter.com/search?q=%23llueve) | N/A |
+| 46 | [#Argenzuela](http://twitter.com/search?q=%23Argenzuela) | N/A |
+| 47 | [#Felices37CarlosRivera](http://twitter.com/search?q=%23Felices37CarlosRivera) | N/A |
+| 48 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 49 | [#lluvia](http://twitter.com/search?q=%23lluvia) | N/A |
+| 50 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
 
 
 

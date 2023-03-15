@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-15 19:16:30 UTC`
+📆 Last Updated: `2023-03-15 20:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
 | 2 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 3 | [#PoderosoRaRaRa](http://twitter.com/search?q=%23PoderosoRaRaRa) | N/A |
-| 4 | [#15Mderodolfitos](http://twitter.com/search?q=%2315Mderodolfitos) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
 | 5 | [El Festejo de Centéotl](http://twitter.com/search?q=El+Festejo+de+Cent%c3%a9otl) | N/A |
-| 6 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 7 | [Malinali Yuma García Díaz](http://twitter.com/search?q=Malinali+Yuma+Garc%c3%ada+D%c3%adaz) | N/A |
-| 8 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 9 | [Machaca](http://twitter.com/search?q=Machaca) | N/A |
-| 10 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 11 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 12 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 13 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 15 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 16 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 17 | [Korn](http://twitter.com/search?q=Korn) | N/A |
-| 18 | [Nelly Furtado](http://twitter.com/search?q=Nelly+Furtado) | N/A |
-| 19 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 20 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 21 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 22 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Charles Leclerc](http://twitter.com/search?q=Charles+Leclerc) | N/A |
-| 25 | [Derechos del Consumidor](http://twitter.com/search?q=Derechos+del+Consumidor) | N/A |
-| 26 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 27 | [Damián Alcázar](http://twitter.com/search?q=Dami%c3%a1n+Alc%c3%a1zar) | N/A |
-| 28 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
-| 29 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 30 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 31 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 32 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
-| 33 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 34 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
-| 35 | [Segob](http://twitter.com/search?q=Segob) | N/A |
-| 36 | [Aguascalientes](http://twitter.com/search?q=Aguascalientes) | N/A |
-| 37 | [Banamex](http://twitter.com/search?q=Banamex) | N/A |
-| 38 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
-| 39 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 40 | [San Marcos](http://twitter.com/search?q=San+Marcos) | San Marcos is a city in the Central Texas region of the United States. It is the county seat of Hays County and is located on the San Marcos River. The name San Marcos is Spanish for "Saint Mark," referring to the patron saint of Venice, Italy. |
-| 41 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 42 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 43 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 44 | [#YadiraEnConvoy](http://twitter.com/search?q=%23YadiraEnConvoy) | N/A |
-| 45 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 46 | [#Felices37CarlosRivera](http://twitter.com/search?q=%23Felices37CarlosRivera) | N/A |
-| 47 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 48 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
-| 49 | [#fentanilo](http://twitter.com/search?q=%23fentanilo) | N/A |
-| 50 | [#TecatePalNorte](http://twitter.com/search?q=%23TecatePalNorte) | N/A |
+| 6 | [#LoQueRealmenteImporta](http://twitter.com/search?q=%23LoQueRealmenteImporta) | N/A |
+| 7 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 8 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 9 | [Malinali Yuma García Díaz](http://twitter.com/search?q=Malinali+Yuma+Garc%c3%ada+D%c3%adaz) | N/A |
+| 10 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 11 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 12 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 13 | [Machaca](http://twitter.com/search?q=Machaca) | N/A |
+| 14 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 15 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 16 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 17 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 20 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 21 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 22 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 23 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 24 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 25 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 26 | [Loret](http://twitter.com/search?q=Loret) | N/A |
+| 27 | [Korn](http://twitter.com/search?q=Korn) | N/A |
+| 28 | [Nelly Furtado](http://twitter.com/search?q=Nelly+Furtado) | N/A |
+| 29 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 30 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 31 | [Chicago Tribune](http://twitter.com/search?q=Chicago+Tribune) | N/A |
+| 32 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 33 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 34 | [Derechos del Consumidor](http://twitter.com/search?q=Derechos+del+Consumidor) | N/A |
+| 35 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 36 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
+| 37 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 38 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 39 | [Charles Leclerc](http://twitter.com/search?q=Charles+Leclerc) | N/A |
+| 40 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
+| 41 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 42 | [Damián Alcázar](http://twitter.com/search?q=Dami%c3%a1n+Alc%c3%a1zar) | N/A |
+| 43 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
+| 44 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 45 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 46 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 47 | [Segob](http://twitter.com/search?q=Segob) | N/A |
+| 48 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
+| 49 | [Aguascalientes](http://twitter.com/search?q=Aguascalientes) | N/A |
+| 50 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
 
 
 

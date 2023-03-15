@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-15 19:17:29 UTC`
+📆 Last Updated: `2023-03-15 20:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ireland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CheltenhamFestival](http://twitter.com/search?q=%23CheltenhamFestival) | N/A |
-| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 3 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
-| 4 | [John Kiely](http://twitter.com/search?q=John+Kiely) | N/A |
-| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 6 | [#StPatricksDay](http://twitter.com/search?q=%23StPatricksDay) | N/A |
-| 7 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 8 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 10 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 11 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
-| 12 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 13 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
-| 14 | [#GSB2023](http://twitter.com/search?q=%23GSB2023) | N/A |
-| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 1 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 2 | [#CheltenhamFestival](http://twitter.com/search?q=%23CheltenhamFestival) | N/A |
+| 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 4 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
+| 5 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 7 | [#StPatricksDay](http://twitter.com/search?q=%23StPatricksDay) | N/A |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 9 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 10 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 11 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 12 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
+| 13 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
 | 16 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 17 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
-| 18 | [Champion Bumper](http://twitter.com/search?q=Champion+Bumper) | N/A |
-| 19 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
-| 20 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 17 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 19 | [John Kiely](http://twitter.com/search?q=John+Kiely) | N/A |
+| 20 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
 | 21 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 22 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
-| 23 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 24 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
-| 25 | [Eamonn](http://twitter.com/search?q=Eamonn) | N/A |
+| 23 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 24 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
+| 25 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
 | 26 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 27 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 28 | [barry connell](http://twitter.com/search?q=barry+connell) | N/A |
-| 29 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 30 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
-| 31 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 32 | [Eimear](http://twitter.com/search?q=Eimear) | N/A |
-| 33 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
-| 34 | [Stephen Silver](http://twitter.com/search?q=Stephen+Silver) | N/A |
-| 35 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
-| 36 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
-| 37 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 38 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
-| 39 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 40 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 41 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
-| 42 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 43 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
+| 28 | [Eamonn](http://twitter.com/search?q=Eamonn) | N/A |
+| 29 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
+| 30 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
+| 31 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 32 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
+| 33 | [Stephen Silver](http://twitter.com/search?q=Stephen+Silver) | N/A |
+| 34 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
+| 35 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 36 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 37 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 38 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 40 | [Eimear](http://twitter.com/search?q=Eimear) | N/A |
+| 41 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 42 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
+| 43 | [Trish](http://twitter.com/search?q=Trish) | N/A |
 | 44 | [Colm](http://twitter.com/search?q=Colm) | N/A |
-| 45 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 46 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 47 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 48 | [Meath](http://twitter.com/search?q=Meath) | N/A |
-| 49 | [Tuam](http://twitter.com/search?q=Tuam) | N/A |
-| 50 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 45 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 46 | [Meath](http://twitter.com/search?q=Meath) | N/A |
+| 47 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 48 | [Tuam](http://twitter.com/search?q=Tuam) | N/A |
+| 49 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 50 | [george hook](http://twitter.com/search?q=george+hook) | N/A |
 
 
 

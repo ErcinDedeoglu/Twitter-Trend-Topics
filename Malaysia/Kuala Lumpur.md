@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-15 19:16:57 UTC`
+📆 Last Updated: `2023-03-15 20:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 1 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 4 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 5 | [#หน้ากากกิเลน](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b4%e0%b9%80%e0%b8%a5%e0%b8%99) | N/A |
-| 6 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 4 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 5 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 6 | [#hirunkit_](http://twitter.com/search?q=%23hirunkit_) | N/A |
 | 7 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
 | 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 9 | [you mean the world to me](http://twitter.com/search?q=you+mean+the+world+to+me) | N/A |
 | 10 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 11 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 11 | [gose](http://twitter.com/search?q=gose) | N/A |
 | 12 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
 | 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 14 | [LEE ZII JIA](http://twitter.com/search?q=LEE+ZII+JIA) | N/A |
+| 14 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
 | 15 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 | 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 17 | [ChiaSoh](http://twitter.com/search?q=ChiaSoh) | N/A |
-| 18 | [putri dahlia](http://twitter.com/search?q=putri+dahlia) | N/A |
-| 19 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 20 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 21 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 22 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 18 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 19 | [putri dahlia](http://twitter.com/search?q=putri+dahlia) | N/A |
+| 20 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 21 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 22 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
 | 23 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 24 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 26 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
-| 27 | [BABYMETAL](http://twitter.com/search?q=BABYMETAL) | N/A |
-| 28 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 29 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 30 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 31 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 24 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 25 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 26 | [BABYMETAL](http://twitter.com/search?q=BABYMETAL) | N/A |
+| 27 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 28 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 29 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 30 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 31 | [Rover](http://twitter.com/search?q=Rover) | N/A |
 | 32 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 33 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 34 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 35 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 36 | [OLD LOVE](http://twitter.com/search?q=OLD+LOVE) | N/A |
-| 37 | [Women's March](http://twitter.com/search?q=Women%27s+March) | N/A |
-| 38 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 39 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
-| 40 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
-| 41 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
-| 42 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 43 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 44 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 45 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 46 | [pulau](http://twitter.com/search?q=pulau) | N/A |
-| 47 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 48 | [winner's page](http://twitter.com/search?q=winner%27s+page) | N/A |
-| 49 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 50 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 33 | [OLD LOVE](http://twitter.com/search?q=OLD+LOVE) | N/A |
+| 34 | [Women's March](http://twitter.com/search?q=Women%27s+March) | N/A |
+| 35 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 36 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
+| 37 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 38 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
+| 39 | [Jongdae](http://twitter.com/search?q=Jongdae) | N/A |
+| 40 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 41 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 42 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 43 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 44 | [pulau](http://twitter.com/search?q=pulau) | N/A |
+| 45 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
+| 46 | [winner's page](http://twitter.com/search?q=winner%27s+page) | N/A |
+| 47 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 48 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 49 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 50 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 
 
 

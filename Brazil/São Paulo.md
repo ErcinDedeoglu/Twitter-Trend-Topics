@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-15 19:16:37 UTC`
+📆 Last Updated: `2023-03-15 20:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mosquito](http://twitter.com/search?q=Mosquito) | N/A |
-| 2 | [América do Sul](http://twitter.com/search?q=Am%c3%a9rica+do+Sul) | N/A |
-| 3 | [Alesp](http://twitter.com/search?q=Alesp) | N/A |
-| 4 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
-| 5 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
-| 6 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 7 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 8 | [Rodoanel](http://twitter.com/search?q=Rodoanel) | N/A |
-| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 1 | [Alesp](http://twitter.com/search?q=Alesp) | N/A |
+| 2 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 3 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 4 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 5 | [América do Sul](http://twitter.com/search?q=Am%c3%a9rica+do+Sul) | N/A |
+| 6 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 7 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
+| 8 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 9 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
 | 10 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 11 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 12 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 13 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 12 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 13 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 | 14 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
-| 15 | [Ibaneis Rocha](http://twitter.com/search?q=Ibaneis+Rocha) | N/A |
-| 16 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 17 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
-| 18 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 19 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 20 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
-| 23 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 24 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 25 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 26 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 27 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 28 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
-| 29 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 30 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 31 | [Iguaçu](http://twitter.com/search?q=Igua%c3%a7u) | N/A |
-| 32 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 33 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 34 | [Conca](http://twitter.com/search?q=Conca) | N/A |
-| 35 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
-| 36 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 37 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
-| 38 | [Acapulco Shore](http://twitter.com/search?q=Acapulco+Shore) | N/A |
-| 39 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 40 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 41 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
-| 42 | [Andres](http://twitter.com/search?q=Andres) | N/A |
-| 43 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 44 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 45 | [Luciano Castan](http://twitter.com/search?q=Luciano+Castan) | N/A |
-| 46 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 47 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 48 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
-| 49 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 50 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
+| 15 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 16 | [Ibaneis Rocha](http://twitter.com/search?q=Ibaneis+Rocha) | N/A |
+| 17 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 19 | [Acapulco Shore](http://twitter.com/search?q=Acapulco+Shore) | N/A |
+| 20 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [Iguaçu](http://twitter.com/search?q=Igua%c3%a7u) | N/A |
+| 23 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
+| 24 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
+| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 26 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 27 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 28 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
+| 29 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
+| 30 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 31 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
+| 32 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
+| 33 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 34 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 35 | [Conca](http://twitter.com/search?q=Conca) | N/A |
+| 36 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 37 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 38 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 39 | [Espanhol](http://twitter.com/search?q=Espanhol) | N/A |
+| 40 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
+| 41 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 42 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 43 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
+| 44 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 45 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 46 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
+| 47 | [Elettra](http://twitter.com/search?q=Elettra) | N/A |
+| 48 | [Ministro da Justiça](http://twitter.com/search?q=Ministro+da+Justi%c3%a7a) | N/A |
+| 49 | [JOSH BEAUCHAMP](http://twitter.com/search?q=JOSH+BEAUCHAMP) | N/A |
+| 50 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
 
 
 

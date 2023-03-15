@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amritsar
 
-📆 Last Updated: `2023-03-15 19:17:10 UTC`
+📆 Last Updated: `2023-03-15 20:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [India](</India>)
 | 7 | [Kanika Ahuja](http://twitter.com/search?q=Kanika+Ahuja) | N/A |
 | 8 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
 | 9 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 10 | [Richa](http://twitter.com/search?q=Richa) | N/A |
-| 11 | [Finally RCB](http://twitter.com/search?q=Finally+RCB) | N/A |
-| 12 | [Sushant Worth Emulating](http://twitter.com/search?q=Sushant+Worth+Emulating) | N/A |
-| 13 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 10 | [Sushant Worth Emulating](http://twitter.com/search?q=Sushant+Worth+Emulating) | N/A |
+| 11 | [Richa](http://twitter.com/search?q=Richa) | N/A |
+| 12 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 13 | [Sam Pitroda](http://twitter.com/search?q=Sam+Pitroda) | N/A |
 | 14 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 15 | [Sam Pitroda](http://twitter.com/search?q=Sam+Pitroda) | N/A |
-| 16 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 17 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 18 | [Smriti Mandhana](http://twitter.com/search?q=Smriti+Mandhana) | N/A |
-| 19 | [Bihar Police](http://twitter.com/search?q=Bihar+Police) | N/A |
-| 20 | [Nobel Peace Prize](http://twitter.com/search?q=Nobel+Peace+Prize) | N/A |
-| 21 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 22 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
-| 23 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 24 | [Devine](http://twitter.com/search?q=Devine) | N/A |
-| 25 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 26 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
-| 27 | [Raghuram Rajan](http://twitter.com/search?q=Raghuram+Rajan) | N/A |
-| 28 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 29 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 30 | [Prabhas](http://twitter.com/search?q=Prabhas) | N/A |
-| 31 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 32 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 33 | [TSPSC](http://twitter.com/search?q=TSPSC) | N/A |
-| 34 | [आवास योजना](http://twitter.com/search?q=%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 35 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
-| 36 | [#IBFADUBAI](http://twitter.com/search?q=%23IBFADUBAI) | N/A |
-| 37 | [#MadanRavichandran](http://twitter.com/search?q=%23MadanRavichandran) | N/A |
-| 38 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 39 | [#evkselangovan](http://twitter.com/search?q=%23evkselangovan) | N/A |
-| 40 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
-| 41 | [#ShivSum](http://twitter.com/search?q=%23ShivSum) | N/A |
-| 42 | [#PlayBold](http://twitter.com/search?q=%23PlayBold) | N/A |
-| 43 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
-| 44 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
-| 45 | [#Kavin04](http://twitter.com/search?q=%23Kavin04) | N/A |
-| 46 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 47 | [#RoyalChallengersBangalore](http://twitter.com/search?q=%23RoyalChallengersBangalore) | N/A |
-| 48 | [#MSDhoni𓃵](http://twitter.com/search?q=%23MSDhoni%f0%93%83%b5) | N/A |
-| 49 | [#CongressDartiHai](http://twitter.com/search?q=%23CongressDartiHai) | N/A |
-| 50 | [#RestoreTheSnyderVerse](http://twitter.com/search?q=%23RestoreTheSnyderVerse) | N/A |
+| 15 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 16 | [Bihar Police](http://twitter.com/search?q=Bihar+Police) | N/A |
+| 17 | [Smriti Mandhana](http://twitter.com/search?q=Smriti+Mandhana) | N/A |
+| 18 | [Nobel Peace Prize](http://twitter.com/search?q=Nobel+Peace+Prize) | N/A |
+| 19 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 20 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
+| 21 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 22 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
+| 23 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 24 | [Raghuram Rajan](http://twitter.com/search?q=Raghuram+Rajan) | N/A |
+| 25 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 26 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 27 | [Prabhas](http://twitter.com/search?q=Prabhas) | N/A |
+| 28 | [Shiv Sena](http://twitter.com/search?q=Shiv+Sena) | N/A |
+| 29 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 30 | [#HBDayCRPaatil](http://twitter.com/search?q=%23HBDayCRPaatil) | N/A |
+| 31 | [#RCBW](http://twitter.com/search?q=%23RCBW) | N/A |
+| 32 | [#MadanRavichandran](http://twitter.com/search?q=%23MadanRavichandran) | N/A |
+| 33 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
+| 34 | [#ShivSum](http://twitter.com/search?q=%23ShivSum) | N/A |
+| 35 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
+| 36 | [#PlayBold](http://twitter.com/search?q=%23PlayBold) | N/A |
+| 37 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 38 | [#RoyalChallengersBangalore](http://twitter.com/search?q=%23RoyalChallengersBangalore) | N/A |
+| 39 | [#MSDhoni𓃵](http://twitter.com/search?q=%23MSDhoni%f0%93%83%b5) | N/A |
+| 40 | [#FIHProLeague](http://twitter.com/search?q=%23FIHProLeague) | N/A |
+| 41 | [#BankingCrisis](http://twitter.com/search?q=%23BankingCrisis) | N/A |
+| 42 | [#chatgpt4](http://twitter.com/search?q=%23chatgpt4) | N/A |
+| 43 | [#DowJones](http://twitter.com/search?q=%23DowJones) | N/A |
+| 44 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
+| 45 | [#Ayodhya](http://twitter.com/search?q=%23Ayodhya) | N/A |
+| 46 | [#PKSDT](http://twitter.com/search?q=%23PKSDT) | N/A |
+| 47 | [#Islamophobia](http://twitter.com/search?q=%23Islamophobia) | N/A |
+| 48 | [#KanwarDhillon](http://twitter.com/search?q=%23KanwarDhillon) | N/A |
+| 49 | [#CrudeOil](http://twitter.com/search?q=%23CrudeOil) | N/A |
+| 50 | [#EknathShinde](http://twitter.com/search?q=%23EknathShinde) | N/A |
 
 
 

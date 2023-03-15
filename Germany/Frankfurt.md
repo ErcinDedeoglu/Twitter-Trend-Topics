@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-15 19:16:43 UTC`
+📆 Last Updated: `2023-03-15 20:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 2 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 1 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
 | 3 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 4 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 5 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 6 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 4 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 5 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 6 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 7 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
 | 8 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
 | 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
-| 11 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
+| 10 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 11 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
 | 12 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 13 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 14 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 15 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 13 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
+| 14 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 16 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 19 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 20 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 21 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 22 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 17 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 19 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 20 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 21 | [Mord](http://twitter.com/search?q=Mord) | N/A |
+| 22 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
 | 23 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 24 | [Cathleen](http://twitter.com/search?q=Cathleen) | N/A |
-| 25 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 26 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 27 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 28 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 24 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 25 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 26 | [Polo](http://twitter.com/search?q=Polo) | N/A |
+| 27 | [Ausschreitungen](http://twitter.com/search?q=Ausschreitungen) | N/A |
+| 28 | [Messer](http://twitter.com/search?q=Messer) | N/A |
 | 29 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 30 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 31 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 30 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 31 | [Zugangscode](http://twitter.com/search?q=Zugangscode) | N/A |
 | 32 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 33 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 33 | [Skier](http://twitter.com/search?q=Skier) | N/A |
 | 34 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 35 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
-| 36 | [Zugangscode](http://twitter.com/search?q=Zugangscode) | N/A |
-| 37 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 35 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 36 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 37 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
 | 38 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
-| 39 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 40 | [Randale](http://twitter.com/search?q=Randale) | N/A |
+| 39 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 40 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
 | 41 | [Gewässer](http://twitter.com/search?q=Gew%c3%a4sser) | N/A |
-| 42 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 42 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
 | 43 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 44 | [Einrad](http://twitter.com/search?q=Einrad) | N/A |
-| 45 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 46 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 47 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 48 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
+| 44 | [Randale](http://twitter.com/search?q=Randale) | N/A |
+| 45 | [Einrad](http://twitter.com/search?q=Einrad) | N/A |
+| 46 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 47 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
+| 48 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
 
 
 

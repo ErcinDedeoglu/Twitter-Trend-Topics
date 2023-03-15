@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-15 19:16:44 UTC`
+📆 Last Updated: `2023-03-15 20:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,45 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PiantedosiDimettiti](http://twitter.com/search?q=%23PiantedosiDimettiti) | N/A |
-| 2 | [#Crosetto](http://twitter.com/search?q=%23Crosetto) | N/A |
-| 3 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
-| 4 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 5 | [#CeferinOut](http://twitter.com/search?q=%23CeferinOut) | N/A |
+| 1 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
+| 2 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
+| 3 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 4 | [#PiantedosiDimettiti](http://twitter.com/search?q=%23PiantedosiDimettiti) | N/A |
+| 5 | [#Meloni_purtroppoINADEGUATA](http://twitter.com/search?q=%23Meloni_purtroppoINADEGUATA) | N/A |
 | 6 | [Germania](http://twitter.com/search?q=Germania) | N/A |
-| 7 | [#Meloni_purtroppoINADEGUATA](http://twitter.com/search?q=%23Meloni_purtroppoINADEGUATA) | N/A |
-| 8 | [Piazza del Gesù](http://twitter.com/search?q=Piazza+del+Ges%c3%b9) | N/A |
-| 9 | [Napoletani](http://twitter.com/search?q=Napoletani) | N/A |
-| 10 | [Polizia](http://twitter.com/search?q=Polizia) | N/A |
-| 11 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 12 | [Tedeschi](http://twitter.com/search?q=Tedeschi) | N/A |
-| 13 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 14 | [Prefetto](http://twitter.com/search?q=Prefetto) | N/A |
-| 15 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 16 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 7 | [#CeferinOut](http://twitter.com/search?q=%23CeferinOut) | N/A |
+| 8 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
+| 9 | [Piazza del Gesù](http://twitter.com/search?q=Piazza+del+Ges%c3%b9) | N/A |
+| 10 | [Napoletani](http://twitter.com/search?q=Napoletani) | N/A |
+| 11 | [Polizia](http://twitter.com/search?q=Polizia) | N/A |
+| 12 | [Prefetto](http://twitter.com/search?q=Prefetto) | N/A |
+| 13 | [Tedeschi](http://twitter.com/search?q=Tedeschi) | N/A |
+| 14 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 15 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 16 | [Congratulazioni](http://twitter.com/search?q=Congratulazioni) | N/A |
 | 17 | [Camera](http://twitter.com/search?q=Camera) | N/A |
-| 18 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 18 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
 | 19 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
-| 20 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 21 | [Cele](http://twitter.com/search?q=Cele) | N/A |
+| 20 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 21 | [Samu](http://twitter.com/search?q=Samu) | N/A |
 | 22 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 23 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 24 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 25 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
-| 26 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 27 | [#ultras](http://twitter.com/search?q=%23ultras) | N/A |
-| 28 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
-| 29 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
-| 30 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 31 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
-| 32 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
-| 33 | [#disturbialimentari](http://twitter.com/search?q=%23disturbialimentari) | N/A |
-| 34 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
+| 23 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 24 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 25 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 26 | [#ultras](http://twitter.com/search?q=%23ultras) | N/A |
+| 27 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 28 | [#Melonidimettiti](http://twitter.com/search?q=%23Melonidimettiti) | N/A |
+| 29 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
+| 30 | [#UEFA](http://twitter.com/search?q=%23UEFA) | N/A |
+| 31 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
+| 32 | [#RealSociedadRoma](http://twitter.com/search?q=%23RealSociedadRoma) | N/A |
+| 33 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
+| 34 | [#disturbialimentari](http://twitter.com/search?q=%23disturbialimentari) | N/A |
 | 35 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 36 | [#Melonidimettiti](http://twitter.com/search?q=%23Melonidimettiti) | N/A |
-| 37 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 38 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
+| 36 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
+| 37 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
+| 38 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
 | 39 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
-| 40 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
-| 41 | [#LaVoceDelleMuse](http://twitter.com/search?q=%23LaVoceDelleMuse) | N/A |
 
 
 

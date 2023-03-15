@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-15 19:16:41 UTC`
+📆 Last Updated: `2023-03-15 20:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
-| 2 | [Francfort](http://twitter.com/search?q=Francfort) | N/A |
-| 3 | [Leto](http://twitter.com/search?q=Leto) | N/A |
-| 4 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 5 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 6 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 7 | [Claude Simonet](http://twitter.com/search?q=Claude+Simonet) | N/A |
-| 8 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 9 | [LDLC](http://twitter.com/search?q=LDLC) | N/A |
-| 10 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 11 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 12 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 13 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 14 | [La CMP](http://twitter.com/search?q=La+CMP) | N/A |
-| 15 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
-| 16 | [Les Républicains](http://twitter.com/search?q=Les+R%c3%a9publicains) | N/A |
-| 17 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
-| 18 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
-| 19 | [Sud Radio](http://twitter.com/search?q=Sud+Radio) | N/A |
-| 20 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
-| 21 | [Nono](http://twitter.com/search?q=Nono) | N/A |
-| 22 | [#FaceALinfo](http://twitter.com/search?q=%23FaceALinfo) | N/A |
-| 23 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
-| 24 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
-| 25 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 26 | [#krach](http://twitter.com/search?q=%23krach) | N/A |
-| 27 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 28 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 29 | [#Willow](http://twitter.com/search?q=%23Willow) | N/A |
-| 30 | [#manif15mars](http://twitter.com/search?q=%23manif15mars) | N/A |
-| 31 | [#Zemmour](http://twitter.com/search?q=%23Zemmour) | N/A |
-| 32 | [#JeNAiPasDitMonDernierMot](http://twitter.com/search?q=%23JeNAiPasDitMonDernierMot) | N/A |
-| 33 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 34 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 35 | [#IRSN](http://twitter.com/search?q=%23IRSN) | N/A |
-| 36 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
-| 37 | [#ViolencesPolicières](http://twitter.com/search?q=%23ViolencesPolici%c3%a8res) | N/A |
-| 38 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 39 | [#Allier](http://twitter.com/search?q=%23Allier) | N/A |
-| 40 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 41 | [#NokereKoerse](http://twitter.com/search?q=%23NokereKoerse) | N/A |
-| 42 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
-| 43 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 44 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 45 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 2 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
+| 3 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 4 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
+| 5 | [Francfort](http://twitter.com/search?q=Francfort) | N/A |
+| 6 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 7 | [Leto](http://twitter.com/search?q=Leto) | N/A |
+| 8 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 9 | [Striker](http://twitter.com/search?q=Striker) | N/A |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [Hantera](http://twitter.com/search?q=Hantera) | N/A |
+| 12 | [Split](http://twitter.com/search?q=Split) | N/A |
+| 13 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 14 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 15 | [Aegis](http://twitter.com/search?q=Aegis) | N/A |
+| 16 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 17 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 18 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 19 | [Claude Simonet](http://twitter.com/search?q=Claude+Simonet) | N/A |
+| 20 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [Yamato](http://twitter.com/search?q=Yamato) | N/A |
+| 23 | [Gazo](http://twitter.com/search?q=Gazo) | N/A |
+| 24 | [LDLC](http://twitter.com/search?q=LDLC) | N/A |
+| 25 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 26 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 27 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 28 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 29 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 30 | [La CMP](http://twitter.com/search?q=La+CMP) | N/A |
+| 31 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 32 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
+| 33 | [Bruno Lemaire](http://twitter.com/search?q=Bruno+Lemaire) | N/A |
+| 34 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
+| 35 | [Les Républicains](http://twitter.com/search?q=Les+R%c3%a9publicains) | N/A |
+| 36 | [Nono](http://twitter.com/search?q=Nono) | N/A |
+| 37 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 38 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 39 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 40 | [#CatchRAW](http://twitter.com/search?q=%23CatchRAW) | N/A |
+| 41 | [#FaceALinfo](http://twitter.com/search?q=%23FaceALinfo) | N/A |
+| 42 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
+| 43 | [#HDPros2](http://twitter.com/search?q=%23HDPros2) | N/A |
+| 44 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 45 | [#JeNAiPasDitMonDernierMot](http://twitter.com/search?q=%23JeNAiPasDitMonDernierMot) | N/A |
 
 
 

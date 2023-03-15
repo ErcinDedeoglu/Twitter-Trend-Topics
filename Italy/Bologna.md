@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-15 19:16:44 UTC`
+📆 Last Updated: `2023-03-15 20:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,43 +17,42 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
 | 2 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 3 | [#CeferinOut](http://twitter.com/search?q=%23CeferinOut) | N/A |
-| 4 | [Germania](http://twitter.com/search?q=Germania) | N/A |
-| 5 | [#Meloni_purtroppoINADEGUATA](http://twitter.com/search?q=%23Meloni_purtroppoINADEGUATA) | N/A |
-| 6 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
+| 3 | [#PiantedosiDimettiti](http://twitter.com/search?q=%23PiantedosiDimettiti) | N/A |
+| 4 | [#Meloni_purtroppoINADEGUATA](http://twitter.com/search?q=%23Meloni_purtroppoINADEGUATA) | N/A |
+| 5 | [Germania](http://twitter.com/search?q=Germania) | N/A |
+| 6 | [#CeferinOut](http://twitter.com/search?q=%23CeferinOut) | N/A |
 | 7 | [Piazza del Gesù](http://twitter.com/search?q=Piazza+del+Ges%c3%b9) | N/A |
 | 8 | [Napoletani](http://twitter.com/search?q=Napoletani) | N/A |
 | 9 | [Polizia](http://twitter.com/search?q=Polizia) | N/A |
-| 10 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 10 | [Prefetto](http://twitter.com/search?q=Prefetto) | N/A |
 | 11 | [Tedeschi](http://twitter.com/search?q=Tedeschi) | N/A |
-| 12 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 13 | [Prefetto](http://twitter.com/search?q=Prefetto) | N/A |
-| 14 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 15 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 16 | [Camera](http://twitter.com/search?q=Camera) | N/A |
-| 17 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 18 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
-| 19 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 20 | [Cele](http://twitter.com/search?q=Cele) | N/A |
-| 21 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 22 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 23 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 24 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 12 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 13 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 14 | [Congratulazioni](http://twitter.com/search?q=Congratulazioni) | N/A |
+| 15 | [Camera](http://twitter.com/search?q=Camera) | N/A |
+| 16 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 17 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
+| 18 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 19 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 20 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 21 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 22 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
+| 23 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 24 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
 | 25 | [#ultras](http://twitter.com/search?q=%23ultras) | N/A |
-| 26 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
-| 27 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
-| 28 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 29 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
-| 30 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
-| 31 | [#disturbialimentari](http://twitter.com/search?q=%23disturbialimentari) | N/A |
-| 32 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
-| 33 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 34 | [#Melonidimettiti](http://twitter.com/search?q=%23Melonidimettiti) | N/A |
-| 35 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 26 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 27 | [#Melonidimettiti](http://twitter.com/search?q=%23Melonidimettiti) | N/A |
+| 28 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
+| 29 | [#UEFA](http://twitter.com/search?q=%23UEFA) | N/A |
+| 30 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
+| 31 | [#RealSociedadRoma](http://twitter.com/search?q=%23RealSociedadRoma) | N/A |
+| 32 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
+| 33 | [#disturbialimentari](http://twitter.com/search?q=%23disturbialimentari) | N/A |
+| 34 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 35 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
 | 36 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
-| 37 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
-| 38 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
-| 39 | [#LaVoceDelleMuse](http://twitter.com/search?q=%23LaVoceDelleMuse) | N/A |
+| 37 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 38 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
 
 
 

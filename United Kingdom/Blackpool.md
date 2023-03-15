@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-03-15 19:16:24 UTC`
+📆 Last Updated: `2023-03-15 20:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 1 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
 | 2 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 3 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
-| 4 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 5 | [#KeepBBCLocalRadioLocal](http://twitter.com/search?q=%23KeepBBCLocalRadioLocal) | N/A |
-| 6 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 7 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 8 | [Investment Zones](http://twitter.com/search?q=Investment+Zones) | N/A |
-| 9 | [#NeverLabour](http://twitter.com/search?q=%23NeverLabour) | N/A |
-| 10 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
-| 11 | [#pensions](http://twitter.com/search?q=%23pensions) | N/A |
-| 12 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
-| 13 | [Gordon Brown](http://twitter.com/search?q=Gordon+Brown) | N/A |
-| 14 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 3 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 4 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 5 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
+| 6 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
+| 7 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 8 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 9 | [#KeepBBCLocalRadioLocal](http://twitter.com/search?q=%23KeepBBCLocalRadioLocal) | N/A |
+| 10 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
+| 11 | [#NeverLabour](http://twitter.com/search?q=%23NeverLabour) | N/A |
+| 12 | [Chips](http://twitter.com/search?q=Chips) | N/A |
+| 13 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
+| 14 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
 | 15 | [Canary Wharf](http://twitter.com/search?q=Canary+Wharf) | N/A |
-| 16 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 17 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
-| 18 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 16 | [Gordon Brown](http://twitter.com/search?q=Gordon+Brown) | N/A |
+| 17 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 18 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
 | 19 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 20 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 21 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 22 | [Joe Whitworth](http://twitter.com/search?q=Joe+Whitworth) | N/A |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 25 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 26 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 27 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
-| 28 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 29 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 30 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 31 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
-| 32 | [Idah](http://twitter.com/search?q=Idah) | N/A |
-| 33 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 34 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 35 | [Welbeck](http://twitter.com/search?q=Welbeck) | Welbeck is a surname of English origin. It is derived from the Old English words "wel" meaning "spring" and "bece" meaning "stream". The name refers to someone who lived near a spring or stream. |
-| 36 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 37 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
-| 38 | [Viddal](http://twitter.com/search?q=Viddal) | N/A |
-| 39 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 40 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 41 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 42 | [The OBR](http://twitter.com/search?q=The+OBR) | N/A |
-| 43 | [Schlupp](http://twitter.com/search?q=Schlupp) | Schlupp is a German word that means "to slip away" or "to sneak away". It can also be used to describe someone who is sneaky or sly. |
-| 44 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 45 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 46 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 47 | [Champion Bumper](http://twitter.com/search?q=Champion+Bumper) | N/A |
-| 48 | [Fact to File](http://twitter.com/search?q=Fact+to+File) | N/A |
-| 49 | [Galvin](http://twitter.com/search?q=Galvin) | N/A |
-| 50 | [Tony Bloom](http://twitter.com/search?q=Tony+Bloom) | N/A |
+| 20 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 21 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
+| 24 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 25 | [Joe Whitworth](http://twitter.com/search?q=Joe+Whitworth) | N/A |
+| 26 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 27 | [Redmen](http://twitter.com/search?q=Redmen) | N/A |
+| 28 | [Michael Owen](http://twitter.com/search?q=Michael+Owen) | N/A |
+| 29 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 30 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 31 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 32 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 33 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 34 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 35 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 36 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 37 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 38 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 39 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 40 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
+| 41 | [Up the Reds](http://twitter.com/search?q=Up+the+Reds) | N/A |
+| 42 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 43 | [Welbeck](http://twitter.com/search?q=Welbeck) | Welbeck is a surname of English origin. It is derived from the Old English words "wel" meaning "spring" and "bece" meaning "stream". The name refers to someone who lived near a spring or stream. |
+| 44 | [Idah](http://twitter.com/search?q=Idah) | N/A |
+| 45 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 46 | [Viddal](http://twitter.com/search?q=Viddal) | N/A |
+| 47 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 48 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 49 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 50 | [Andor](http://twitter.com/search?q=Andor) | N/A |
 
 
 
