@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-03-15 07:16:32 UTC`
+📆 Last Updated: `2023-03-15 08:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,44 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AumentaLaPobrezaEnPuebla](http://twitter.com/search?q=%23AumentaLaPobrezaEnPuebla) | N/A |
+| 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 2 | [#LMD6](http://twitter.com/search?q=%23LMD6) | N/A |
 | 3 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 5 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 6 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 7 | [Alexis Wilson](http://twitter.com/search?q=Alexis+Wilson) | N/A |
-| 8 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 9 | [#LaCasaDelBeisbol](http://twitter.com/search?q=%23LaCasaDelBeisbol) | N/A |
-| 10 | [MATI MEDAL HOLDER](http://twitter.com/search?q=MATI+MEDAL+HOLDER) | N/A |
-| 11 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 12 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 4 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 6 | [Alexis Wilson](http://twitter.com/search?q=Alexis+Wilson) | N/A |
+| 7 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 8 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 9 | [MATI MEDAL HOLDER](http://twitter.com/search?q=MATI+MEDAL+HOLDER) | N/A |
+| 10 | [#LaCasaDelBeisbol](http://twitter.com/search?q=%23LaCasaDelBeisbol) | N/A |
+| 11 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 12 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
 | 13 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 14 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 15 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 16 | [Rocha](http://twitter.com/search?q=Rocha) | N/A |
-| 17 | [San Marcos](http://twitter.com/search?q=San+Marcos) | San Marcos is a city in the Central Texas region of the United States. It is the county seat of Hays County and is located on the San Marcos River. The name San Marcos is Spanish for "Saint Mark," referring to the patron saint of Venice, Italy. |
-| 18 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
-| 19 | [Imagen TV](http://twitter.com/search?q=Imagen+TV) | N/A |
-| 20 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 21 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
+| 14 | [Aldo Rocha](http://twitter.com/search?q=Aldo+Rocha) | N/A |
+| 15 | [#LaMasDraga](http://twitter.com/search?q=%23LaMasDraga) | N/A |
+| 16 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 17 | [Cattriona](http://twitter.com/search?q=Cattriona) | N/A |
+| 18 | [San Marcos](http://twitter.com/search?q=San+Marcos) | San Marcos is a city in the Central Texas region of the United States. It is the county seat of Hays County and is located on the San Marcos River. The name San Marcos is Spanish for "Saint Mark," referring to the patron saint of Venice, Italy. |
+| 19 | [Juana Guadalupe](http://twitter.com/search?q=Juana+Guadalupe) | N/A |
+| 20 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
+| 21 | [Hondureños](http://twitter.com/search?q=Hondure%c3%b1os) | N/A |
 | 22 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 23 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 23 | [Damián](http://twitter.com/search?q=Dami%c3%a1n) | N/A |
 | 24 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 25 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 25 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
 | 26 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 27 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 28 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 27 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 28 | [Leona](http://twitter.com/search?q=Leona) | N/A |
 | 29 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 30 | [LIVE CON EVE](http://twitter.com/search?q=LIVE+CON+EVE) | N/A |
-| 31 | [Telmex](http://twitter.com/search?q=Telmex) | N/A |
-| 32 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 33 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 30 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 31 | [Estadio Jalisco](http://twitter.com/search?q=Estadio+Jalisco) | N/A |
+| 32 | [Benjamín Mora](http://twitter.com/search?q=Benjam%c3%adn+Mora) | N/A |
+| 33 | [Telmex](http://twitter.com/search?q=Telmex) | N/A |
 | 34 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 36 | [#LaMasDraga](http://twitter.com/search?q=%23LaMasDraga) | N/A |
-| 37 | [#MartesAllStar](http://twitter.com/search?q=%23MartesAllStar) | N/A |
-| 38 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
-| 39 | [#radioauroner](http://twitter.com/search?q=%23radioauroner) | N/A |
-| 40 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
-| 41 | [#PiensoEnTi](http://twitter.com/search?q=%23PiensoEnTi) | N/A |
-| 42 | [#JoseRamonLopezBeltran400](http://twitter.com/search?q=%23JoseRamonLopezBeltran400) | N/A |
+| 35 | [LIVE CON EVE](http://twitter.com/search?q=LIVE+CON+EVE) | N/A |
+| 36 | [Lorenzo Córdoba](http://twitter.com/search?q=Lorenzo+C%c3%b3rdoba) | N/A |
+| 37 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 38 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-15 07:17:12 UTC`
+📆 Last Updated: `2023-03-15 08:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | Gaziantep is a city in southeastern Turkey. It is the sixth most populous city in the country and the capital of Gaziantep Province. The name Gaziantep is derived from the Arabic word "Azzanatif", which means "noble". In English, it translates to "Noble City". |
-| 2 | [#Şanlıurfa](http://twitter.com/search?q=%23%c5%9eanl%c4%b1urfa) | N/A |
-| 3 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
-| 4 | [#TOGG](http://twitter.com/search?q=%23TOGG) | N/A |
+| 1 | [#Şanlıurfa](http://twitter.com/search?q=%23%c5%9eanl%c4%b1urfa) | N/A |
+| 2 | [#Adıyaman](http://twitter.com/search?q=%23Ad%c4%b1yaman) | N/A |
+| 3 | [#MilletTarihYazacak](http://twitter.com/search?q=%23MilletTarihYazacak) | N/A |
+| 4 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
 | 5 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 6 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 7 | [AlparslanHocaya TelefonYasağı](http://twitter.com/search?q=AlparslanHocaya+TelefonYasa%c4%9f%c4%b1) | N/A |
-| 8 | [dibyedeklericinakademi](http://twitter.com/search?q=dibyedeklericinakademi) | N/A |
-| 9 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 10 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 11 | [denkliksorununucozun](http://twitter.com/search?q=denkliksorununucozun) | N/A |
-| 12 | [35yaşsınırı torbayasaya](http://twitter.com/search?q=35ya%c5%9fs%c4%b1n%c4%b1r%c4%b1+torbayasaya) | N/A |
-| 13 | [emel uslu atik](http://twitter.com/search?q=emel+uslu+atik) | N/A |
-| 14 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 15 | [BahçeliSözü MahkumaAF](http://twitter.com/search?q=Bah%c3%a7eliS%c3%b6z%c3%bc+MahkumaAF) | N/A |
-| 16 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
-| 17 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 18 | [depremşartlı yapıkayıt](http://twitter.com/search?q=deprem%c5%9fartl%c4%b1+yap%c4%b1kay%c4%b1t) | N/A |
-| 19 | [Konda](http://twitter.com/search?q=Konda) | N/A |
-| 20 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
-| 21 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
-| 22 | [otocost otomotivasistanınız](http://twitter.com/search?q=otocost+otomotivasistan%c4%b1n%c4%b1z) | N/A |
-| 23 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 24 | [asrın dayanışması](http://twitter.com/search?q=asr%c4%b1n+dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 25 | [yapıkayıt mağdurları](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+ma%c4%9fdurlar%c4%b1) | N/A |
-| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 27 | [MebOhalde ŞartsızTayin](http://twitter.com/search?q=MebOhalde+%c5%9earts%c4%b1zTayin) | N/A |
-| 28 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 29 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 30 | [esnafsuçlu değilborçlu](http://twitter.com/search?q=esnafsu%c3%a7lu+de%c4%9filbor%c3%a7lu) | N/A |
-| 31 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 32 | [Bir Talat](http://twitter.com/search?q=Bir+Talat) | N/A |
-| 33 | [Üsküdar Amerikan Lisesi](http://twitter.com/search?q=%c3%9csk%c3%bcdar+Amerikan+Lisesi) | N/A |
-| 34 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
-| 35 | [sosyal bilgiler](http://twitter.com/search?q=sosyal+bilgiler) | N/A |
-| 36 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 37 | [Rus Su-27](http://twitter.com/search?q=Rus+Su-27) | N/A |
-| 38 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
-| 39 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
-| 40 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
-| 41 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
-| 42 | [Beni Türk](http://twitter.com/search?q=Beni+T%c3%bcrk) | N/A |
-| 43 | [Barış Yıldız](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Y%c4%b1ld%c4%b1z) | N/A |
-| 44 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
-| 45 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 46 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
-| 47 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
-| 48 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
-| 49 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 50 | [Yerli](http://twitter.com/search?q=Yerli) | N/A |
+| 6 | [#yağmur](http://twitter.com/search?q=%23ya%c4%9fmur) | N/A |
+| 7 | [Fahriye Yıldırım](http://twitter.com/search?q=Fahriye+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 8 | [Merhumeye Allah'tan](http://twitter.com/search?q=Merhumeye+Allah%27tan) | N/A |
+| 9 | [Üsküdar Amerikan Lisesi](http://twitter.com/search?q=%c3%9csk%c3%bcdar+Amerikan+Lisesi) | N/A |
+| 10 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 11 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 12 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
+| 13 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 14 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 15 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
+| 16 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
+| 17 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
+| 18 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
+| 19 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
+| 20 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
+| 21 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
+| 22 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 23 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 24 | [#Seçimi2000lerBelirler](http://twitter.com/search?q=%23Se%c3%a7imi2000lerBelirler) | N/A |
+| 25 | [#41MilyarLira](http://twitter.com/search?q=%2341MilyarLira) | N/A |
+| 26 | [#NeGünlereKaldık](http://twitter.com/search?q=%23NeG%c3%bcnlereKald%c4%b1k) | N/A |
+| 27 | [#GönüllerBirOlsun](http://twitter.com/search?q=%23G%c3%b6n%c3%bcllerBirOlsun) | N/A |
+| 28 | [#balıklıgöl](http://twitter.com/search?q=%23bal%c4%b1kl%c4%b1g%c3%b6l) | N/A |
+| 29 | [#StajTorbayaEllerHavaya](http://twitter.com/search?q=%23StajTorbayaEllerHavaya) | N/A |
+| 30 | [#BenimOyumMİLLETe](http://twitter.com/search?q=%23BenimOyumM%c4%b0LLETe) | N/A |
+| 31 | [#MertRamazanDemir](http://twitter.com/search?q=%23MertRamazanDemir) | N/A |
+| 32 | [#BilmemizGerek](http://twitter.com/search?q=%23BilmemizGerek) | N/A |
+| 33 | [#MahirÇayan](http://twitter.com/search?q=%23Mahir%c3%87ayan) | N/A |
+| 34 | [#TalatPaşa](http://twitter.com/search?q=%23TalatPa%c5%9fa) | N/A |
+| 35 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | Gaziantep is a city in southeastern Turkey. It is the sixth most populous city in the country and the capital of Gaziantep Province. The name Gaziantep is derived from the Arabic word "Azzanatif", which means "noble". In English, it translates to "Noble City". |
+| 36 | [#AfraSaraçoğlu](http://twitter.com/search?q=%23AfraSara%c3%a7o%c4%9flu) | N/A |
+| 37 | [#15mart](http://twitter.com/search?q=%2315mart) | N/A |
+| 38 | [#pomem](http://twitter.com/search?q=%23pomem) | N/A |
+| 39 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
+| 40 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 41 | [#ADALEThaktırEAD](http://twitter.com/search?q=%23ADALEThakt%c4%b1rEAD) | N/A |
+| 42 | [#EKSUN](http://twitter.com/search?q=%23EKSUN) | N/A |
+| 43 | [#MAVI](http://twitter.com/search?q=%23MAVI) | N/A |
+| 44 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
+| 45 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
+| 46 | [#deryayanıkistifa](http://twitter.com/search?q=%23deryayan%c4%b1kistifa) | N/A |
+| 47 | [#YesilSolParti](http://twitter.com/search?q=%23YesilSolParti) | N/A |
+| 48 | [#fenerbahcebiletdevir](http://twitter.com/search?q=%23fenerbahcebiletdevir) | N/A |
+| 49 | [#AçıkveNet](http://twitter.com/search?q=%23A%c3%a7%c4%b1kveNet) | #AçıkveNet is a Turkish hashtag that translates to "clear and open" in English. It is used to express the idea of being open and honest in communication. |
+| 50 | [#PromosyondaGasp](http://twitter.com/search?q=%23PromosyondaGasp) | N/A |
 
 
 

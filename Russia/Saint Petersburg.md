@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saint Petersburg
 
-📆 Last Updated: `2023-03-15 07:17:06 UTC`
+📆 Last Updated: `2023-03-15 08:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#basee](http://twitter.com/search?q=%23basee) | N/A |
-| 2 | [Оскар](http://twitter.com/search?q=%d0%9e%d1%81%d0%ba%d0%b0%d1%80) | N/A |
-| 3 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 4 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 5 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 6 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 7 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
-| 8 | [greetingg doomboo](http://twitter.com/search?q=greetingg+doomboo) | N/A |
-| 9 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 10 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
-| 11 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 12 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
-| 13 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 14 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
-| 15 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
-| 16 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 17 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | N/A |
-| 18 | [донбассе](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b5) | N/A |
-| 19 | [обязательно](http://twitter.com/search?q=%d0%be%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 20 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 21 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
-| 22 | [Грузию](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d1%8e) | N/A |
-| 23 | [Прикольно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 24 | [Запада](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | N/A |
-| 25 | [яндекса](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81%d0%b0) | N/A |
-| 26 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 27 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 28 | [Простите](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
-| 29 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 30 | [Добро](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%be) | N/A |
-| 31 | [Игра Wordle](http://twitter.com/search?q=%d0%98%d0%b3%d1%80%d0%b0+Wordle) | N/A |
-| 32 | [зеленского](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 33 | [понятно](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 34 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 35 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 36 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 37 | [Обнимаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 38 | [The Last](http://twitter.com/search?q=The+Last) | N/A |
-| 39 | [#вордли](http://twitter.com/search?q=%23%d0%b2%d0%be%d1%80%d0%b4%d0%bb%d0%b8) | N/A |
-| 40 | [элли](http://twitter.com/search?q=%d1%8d%d0%bb%d0%bb%d0%b8) | N/A |
-| 41 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 42 | [Сочи](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d0%b8) | N/A |
-| 43 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
-| 44 | [#yargi](http://twitter.com/search?q=%23yargi) | N/A |
-| 45 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
-| 46 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 47 | [бога](http://twitter.com/search?q=%d0%b1%d0%be%d0%b3%d0%b0) | N/A |
-| 48 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 1 | [#Basee](http://twitter.com/search?q=%23Basee) | N/A |
+| 2 | [Greatt One](http://twitter.com/search?q=Greatt+One) | N/A |
+| 3 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 4 | [Оскара](http://twitter.com/search?q=%d0%9e%d1%81%d0%ba%d0%b0%d1%80%d0%b0) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Игра Wordle](http://twitter.com/search?q=%d0%98%d0%b3%d1%80%d0%b0+Wordle) | N/A |
+| 7 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 8 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 9 | [Itss OUTT](http://twitter.com/search?q=Itss+OUTT) | N/A |
+| 10 | [#вордли](http://twitter.com/search?q=%23%d0%b2%d0%be%d1%80%d0%b4%d0%bb%d0%b8) | N/A |
+| 11 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
+| 12 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 13 | [Needd](http://twitter.com/search?q=Needd) | N/A |
+| 14 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Greetingg Doomboo](http://twitter.com/search?q=Greetingg+Doomboo) | N/A |
+| 17 | [Слава Украине](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0+%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 18 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
+| 19 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 20 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 21 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
+| 22 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
+| 23 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 24 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
+| 25 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 26 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 27 | [зеленскому](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%bc%d1%83) | N/A |
+| 28 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 29 | [Грузию](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d1%8e) | N/A |
+| 30 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
+| 31 | [Считаю](http://twitter.com/search?q=%d0%a1%d1%87%d0%b8%d1%82%d0%b0%d1%8e) | N/A |
+| 32 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 33 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 34 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 35 | [West](http://twitter.com/search?q=West) | N/A |
+| 36 | [Прикольно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 37 | [яндекса](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81%d0%b0) | N/A |
+| 38 | [Простите](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
+| 39 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
+| 40 | [Украинцы](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%86%d1%8b) | N/A |
+| 41 | [#МояГодовщинаВTwitter](http://twitter.com/search?q=%23%d0%9c%d0%be%d1%8f%d0%93%d0%be%d0%b4%d0%be%d0%b2%d1%89%d0%b8%d0%bd%d0%b0%d0%92Twitter) | N/A |
+| 42 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 43 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 44 | [Обнимаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 45 | [#yargi](http://twitter.com/search?q=%23yargi) | N/A |
+| 46 | [Полностью](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d0%bd%d0%be%d1%81%d1%82%d1%8c%d1%8e) | N/A |
+| 47 | [Проблема](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0) | N/A |
+| 48 | [ютубе](http://twitter.com/search?q=%d1%8e%d1%82%d1%83%d0%b1%d0%b5) | N/A |
+| 49 | [неее](http://twitter.com/search?q=%d0%bd%d0%b5%d0%b5%d0%b5) | N/A |
 
 
 

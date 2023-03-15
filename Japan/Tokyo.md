@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-15 07:16:53 UTC`
+📆 Last Updated: `2023-03-15 08:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [子育て世帯](http://twitter.com/search?q=%e5%ad%90%e8%82%b2%e3%81%a6%e4%b8%96%e5%b8%af) | N/A |
-| 2 | [オフショ](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b7%e3%83%a7) | N/A |
+| 1 | [森保監督](http://twitter.com/search?q=%e6%a3%ae%e4%bf%9d%e7%9b%a3%e7%9d%a3) | N/A |
+| 2 | [#ss954](http://twitter.com/search?q=%23ss954) | N/A |
 | 3 | [呪術廻戦展](http://twitter.com/search?q=%e5%91%aa%e8%a1%93%e5%bb%bb%e6%88%a6%e5%b1%95) | N/A |
-| 4 | [コーラのやつ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%81%ae%e3%82%84%e3%81%a4) | N/A |
-| 5 | [エールちゃん](http://twitter.com/search?q=%e3%82%a8%e3%83%bc%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 6 | [ノーチラス](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%81%e3%83%a9%e3%82%b9) | N/A |
-| 7 | [マンタロー](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%bf%e3%83%ad%e3%83%bc) | マンタロー is a Japanese phrase that literally translates to "manta ray". It is often used as a metaphor for someone who is very relaxed and laid-back. |
-| 8 | [シンギュラリティ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%82%ae%e3%83%a5%e3%83%a9%e3%83%aa%e3%83%86%e3%82%a3) | N/A |
-| 9 | [坂本龍一](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e9%be%8d%e4%b8%80) | N/A |
-| 10 | [クリスタ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%82%bf) | N/A |
-| 11 | [ダイオライト記念](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%aa%e3%83%a9%e3%82%a4%e3%83%88%e8%a8%98%e5%bf%b5) | N/A |
-| 12 | [ヤンスキ](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%82%b9%e3%82%ad) | N/A |
-| 13 | [相席食堂](http://twitter.com/search?q=%e7%9b%b8%e5%b8%ad%e9%a3%9f%e5%a0%82) | N/A |
-| 14 | [デュエリストカップ](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%82%a8%e3%83%aa%e3%82%b9%e3%83%88%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 15 | [#ナイツラジオショー](http://twitter.com/search?q=%23%e3%83%8a%e3%82%a4%e3%83%84%e3%83%a9%e3%82%b8%e3%82%aa%e3%82%b7%e3%83%a7%e3%83%bc) | N/A |
-| 16 | [#goldenokinawa](http://twitter.com/search?q=%23goldenokinawa) | N/A |
-| 17 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 18 | [メンバー発表](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%90%e3%83%bc%e7%99%ba%e8%a1%a8) | メンバー発表 is a Japanese phrase that translates to "announcement of members". It is used to refer to the announcement of a group's members, such as a team or club. |
-| 19 | [#山下智久インスタストーリー](http://twitter.com/search?q=%23%e5%b1%b1%e4%b8%8b%e6%99%ba%e4%b9%85%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc) | N/A |
-| 20 | [#あんスタウェルカム祭](http://twitter.com/search?q=%23%e3%81%82%e3%82%93%e3%82%b9%e3%82%bf%e3%82%a6%e3%82%a7%e3%83%ab%e3%82%ab%e3%83%a0%e7%a5%ad) | N/A |
-| 21 | [#はじめてさんいらっしゃ〜い](http://twitter.com/search?q=%23%e3%81%af%e3%81%98%e3%82%81%e3%81%a6%e3%81%95%e3%82%93%e3%81%84%e3%82%89%e3%81%a3%e3%81%97%e3%82%83%e3%80%9c%e3%81%84) | N/A |
-| 22 | [中村航輔](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e8%88%aa%e8%bc%94) | N/A |
-| 23 | [コーラフラペチーノ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
-| 24 | [上様のGIF](http://twitter.com/search?q=%e4%b8%8a%e6%a7%98%e3%81%aeGIF) | N/A |
-| 25 | [マツケン](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3) | N/A |
-| 26 | [カシーフ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
-| 27 | [古橋と旗手](http://twitter.com/search?q=%e5%8f%a4%e6%a9%8b%e3%81%a8%e6%97%97%e6%89%8b) | N/A |
-| 28 | [低所得世帯](http://twitter.com/search?q=%e4%bd%8e%e6%89%80%e5%be%97%e4%b8%96%e5%b8%af) | N/A |
-| 29 | [ファイナルミキサー](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab%e3%83%9f%e3%82%ad%e3%82%b5%e3%83%bc) | N/A |
-| 30 | [大根ザシアン](http://twitter.com/search?q=%e5%a4%a7%e6%a0%b9%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
-| 31 | [中村敬斗](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e6%95%ac%e6%96%97) | N/A |
-| 32 | [旗手と古橋](http://twitter.com/search?q=%e6%97%97%e6%89%8b%e3%81%a8%e5%8f%a4%e6%a9%8b) | N/A |
-| 33 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 34 | [招待ID](http://twitter.com/search?q=%e6%8b%9b%e5%be%85ID) | N/A |
-| 35 | [少数意見](http://twitter.com/search?q=%e5%b0%91%e6%95%b0%e6%84%8f%e8%a6%8b) | N/A |
-| 36 | [田中秀和](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e7%a7%80%e5%92%8c) | N/A |
-| 37 | [グランデータ](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%87%e3%83%bc%e3%82%bf) | N/A |
-| 38 | [新興国支援](http://twitter.com/search?q=%e6%96%b0%e8%88%88%e5%9b%bd%e6%94%af%e6%8f%b4) | N/A |
-| 39 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
-| 40 | [エニカラ](http://twitter.com/search?q=%e3%82%a8%e3%83%8b%e3%82%ab%e3%83%a9) | N/A |
-| 41 | [森保さん](http://twitter.com/search?q=%e6%a3%ae%e4%bf%9d%e3%81%95%e3%82%93) | N/A |
-| 42 | [セルティック](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%83%86%e3%82%a3%e3%83%83%e3%82%af) | N/A |
-| 43 | [米津さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
-| 44 | [ナガノ展](http://twitter.com/search?q=%e3%83%8a%e3%82%ac%e3%83%8e%e5%b1%95) | N/A |
-| 45 | [反対デモ](http://twitter.com/search?q=%e5%8f%8d%e5%af%be%e3%83%87%e3%83%a2) | N/A |
-| 46 | [カブトクワガタ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%82%af%e3%83%af%e3%82%ac%e3%82%bf) | N/A |
-| 47 | [ドンカルロ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%82%ab%e3%83%ab%e3%83%ad) | N/A |
-| 48 | [バングーナガンデ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%82%b0%e3%83%bc%e3%83%8a%e3%82%ac%e3%83%b3%e3%83%87) | N/A |
+| 4 | [ライダーキック](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ad%e3%83%83%e3%82%af) | N/A |
+| 5 | [#片思い世界](http://twitter.com/search?q=%23%e7%89%87%e6%80%9d%e3%81%84%e4%b8%96%e7%95%8c) | N/A |
+| 6 | [#立憲民主党にうんざり](http://twitter.com/search?q=%23%e7%ab%8b%e6%86%b2%e6%b0%91%e4%b8%bb%e5%85%9a%e3%81%ab%e3%81%86%e3%82%93%e3%81%96%e3%82%8a) | N/A |
+| 7 | [ガイアストラク](http://twitter.com/search?q=%e3%82%ac%e3%82%a4%e3%82%a2%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af) | N/A |
+| 8 | [代表選出](http://twitter.com/search?q=%e4%bb%a3%e8%a1%a8%e9%81%b8%e5%87%ba) | N/A |
+| 9 | [高校合格](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e5%90%88%e6%a0%bc) | N/A |
+| 10 | [#sumo](http://twitter.com/search?q=%23sumo) | #sumo is a hashtag used on social media to refer to the Japanese sport of sumo wrestling. Sumo is a form of competitive full-contact wrestling where two wrestlers, or rikishi, attempt to force each other out of a circular ring or into touching the ground with any body part other than the soles of their feet. |
+| 11 | [#あんスタウェルカム祭](http://twitter.com/search?q=%23%e3%81%82%e3%82%93%e3%82%b9%e3%82%bf%e3%82%a6%e3%82%a7%e3%83%ab%e3%82%ab%e3%83%a0%e7%a5%ad) | N/A |
+| 12 | [低所得世帯](http://twitter.com/search?q=%e4%bd%8e%e6%89%80%e5%be%97%e4%b8%96%e5%b8%af) | N/A |
+| 13 | [上様のGIF](http://twitter.com/search?q=%e4%b8%8a%e6%a7%98%e3%81%aeGIF) | N/A |
+| 14 | [コーラフラペチーノ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 15 | [中村航輔](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e8%88%aa%e8%bc%94) | N/A |
+| 16 | [マツケン](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3) | N/A |
+| 17 | [ファイナルミキサー](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab%e3%83%9f%e3%82%ad%e3%82%b5%e3%83%bc) | N/A |
+| 18 | [古橋と旗手](http://twitter.com/search?q=%e5%8f%a4%e6%a9%8b%e3%81%a8%e6%97%97%e6%89%8b) | N/A |
+| 19 | [招待ID](http://twitter.com/search?q=%e6%8b%9b%e5%be%85ID) | N/A |
+| 20 | [田中秀和](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e7%a7%80%e5%92%8c) | N/A |
+| 21 | [カシーフ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
+| 22 | [物価高対策](http://twitter.com/search?q=%e7%89%a9%e4%be%a1%e9%ab%98%e5%af%be%e7%ad%96) | N/A |
+| 23 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 24 | [大根ザシアン](http://twitter.com/search?q=%e5%a4%a7%e6%a0%b9%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
+| 25 | [低所得者](http://twitter.com/search?q=%e4%bd%8e%e6%89%80%e5%be%97%e8%80%85) | N/A |
+| 26 | [少数意見](http://twitter.com/search?q=%e5%b0%91%e6%95%b0%e6%84%8f%e8%a6%8b) | N/A |
+| 27 | [グランデータ](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%87%e3%83%bc%e3%82%bf) | N/A |
+| 28 | [子育て世帯](http://twitter.com/search?q=%e5%ad%90%e8%82%b2%e3%81%a6%e4%b8%96%e5%b8%af) | N/A |
+| 29 | [答弁拒否](http://twitter.com/search?q=%e7%ad%94%e5%bc%81%e6%8b%92%e5%90%a6) | N/A |
+| 30 | [一律3万円](http://twitter.com/search?q=%e4%b8%80%e5%be%8b3%e4%b8%87%e5%86%86) | N/A |
+| 31 | [子ども1人あたり5万円](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%821%e4%ba%ba%e3%81%82%e3%81%9f%e3%82%8a5%e4%b8%87%e5%86%86) | N/A |
+| 32 | [現金給付](http://twitter.com/search?q=%e7%8f%be%e9%87%91%e7%b5%a6%e4%bb%98) | N/A |
+| 33 | [カブトクワガタ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%82%af%e3%83%af%e3%82%ac%e3%82%bf) | N/A |
+| 34 | [萩生田政調](http://twitter.com/search?q=%e8%90%a9%e7%94%9f%e7%94%b0%e6%94%bf%e8%aa%bf) | N/A |
+| 35 | [旗手と古橋](http://twitter.com/search?q=%e6%97%97%e6%89%8b%e3%81%a8%e5%8f%a4%e6%a9%8b) | N/A |
+| 36 | [反対デモ](http://twitter.com/search?q=%e5%8f%8d%e5%af%be%e3%83%87%e3%83%a2) | N/A |
+| 37 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
+| 38 | [中村敬斗](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e6%95%ac%e6%96%97) | N/A |
+| 39 | [客席降り](http://twitter.com/search?q=%e5%ae%a2%e5%b8%ad%e9%99%8d%e3%82%8a) | N/A |
+| 40 | [ナガノ展](http://twitter.com/search?q=%e3%83%8a%e3%82%ac%e3%83%8e%e5%b1%95) | N/A |
+| 41 | [ダイヤ50個](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a450%e5%80%8b) | N/A |
+| 42 | [エニカラ](http://twitter.com/search?q=%e3%82%a8%e3%83%8b%e3%82%ab%e3%83%a9) | N/A |
+| 43 | [生活困窮世帯](http://twitter.com/search?q=%e7%94%9f%e6%b4%bb%e5%9b%b0%e7%aa%ae%e4%b8%96%e5%b8%af) | N/A |
+| 44 | [米津さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
+| 45 | [セルティック](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%83%86%e3%82%a3%e3%83%83%e3%82%af) | N/A |
+| 46 | [アプリ内特設ページ](http://twitter.com/search?q=%e3%82%a2%e3%83%97%e3%83%aa%e5%86%85%e7%89%b9%e8%a8%ad%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
+| 47 | [杉尾秀哉](http://twitter.com/search?q=%e6%9d%89%e5%b0%be%e7%a7%80%e5%93%89) | N/A |
+| 48 | [ランク29以下のプロデューサー](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%82%af29%e4%bb%a5%e4%b8%8b%e3%81%ae%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b5%e3%83%bc) | N/A |
+| 49 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
+| 50 | [萩生田氏](http://twitter.com/search?q=%e8%90%a9%e7%94%9f%e7%94%b0%e6%b0%8f) | N/A |
 
 
 

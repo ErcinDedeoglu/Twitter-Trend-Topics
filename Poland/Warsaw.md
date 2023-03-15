@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-15 07:16:39 UTC`
+📆 Last Updated: `2023-03-15 08:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
-| 2 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
-| 3 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 1 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
+| 2 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 3 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
 | 4 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 5 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 6 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 7 | [Raducanu](http://twitter.com/search?q=Raducanu) | Raducanu is a Romanian surname. It is derived from the given name Radu, which is derived from the Slavic name Radomir, meaning "peaceful ruler". |
-| 8 | [#ZemstaMateckiego](http://twitter.com/search?q=%23ZemstaMateckiego) | N/A |
-| 9 | [Brawo Iga](http://twitter.com/search?q=Brawo+Iga) | N/A |
-| 10 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 12 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
-| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 14 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
-| 15 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
-| 16 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 17 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 18 | [JAPIERDOLE](http://twitter.com/search?q=JAPIERDOLE) | N/A |
-| 19 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 20 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 21 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 22 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
-| 25 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
-| 26 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 27 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 28 | [lipska](http://twitter.com/search?q=lipska) | N/A |
-| 29 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 30 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 31 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 32 | [pogromca](http://twitter.com/search?q=pogromca) | N/A |
-| 33 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 34 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
-| 35 | [Franciszek Blachnicki](http://twitter.com/search?q=Franciszek+Blachnicki) | N/A |
-| 36 | [mt 18](http://twitter.com/search?q=mt+18) | N/A |
-| 37 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
-| 38 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 39 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
-| 40 | [totalnie](http://twitter.com/search?q=totalnie) | N/A |
-| 41 | [tygodnik nie](http://twitter.com/search?q=tygodnik+nie) | N/A |
-| 42 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 43 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 44 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 45 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 46 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
-| 47 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
-| 48 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 49 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 50 | [ulubiona fifa](http://twitter.com/search?q=ulubiona+fifa) | N/A |
+| 5 | [#ParagonyGrozy](http://twitter.com/search?q=%23ParagonyGrozy) | N/A |
+| 6 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
+| 7 | [#minela8](http://twitter.com/search?q=%23minela8) | N/A |
+| 8 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 11 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
+| 12 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 13 | [Błaszczaka](http://twitter.com/search?q=B%c5%82aszczaka) | N/A |
+| 14 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 15 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 16 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 17 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 18 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
+| 19 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Lipsk](http://twitter.com/search?q=Lipsk) | N/A |
+| 22 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
+| 23 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 24 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 25 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 26 | [edersona](http://twitter.com/search?q=edersona) | N/A |
+| 27 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 28 | [pogromca](http://twitter.com/search?q=pogromca) | N/A |
+| 29 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
+| 30 | [Mt 5](http://twitter.com/search?q=Mt+5) | N/A |
+| 31 | [Brawo Iga](http://twitter.com/search?q=Brawo+Iga) | N/A |
+| 32 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
+| 33 | [Winna](http://twitter.com/search?q=Winna) | N/A |
+| 34 | [mt 18](http://twitter.com/search?q=mt+18) | N/A |
+| 35 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
+| 36 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 37 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 38 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 39 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 40 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 41 | [pierwsza fifa](http://twitter.com/search?q=pierwsza+fifa) | N/A |
+| 42 | [siemoniak](http://twitter.com/search?q=siemoniak) | N/A |
+| 43 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
+| 44 | [najgorsza fifa](http://twitter.com/search?q=najgorsza+fifa) | N/A |
+| 45 | [ulubiona fifa](http://twitter.com/search?q=ulubiona+fifa) | N/A |
+| 46 | [krafta](http://twitter.com/search?q=krafta) | N/A |
+| 47 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 48 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
+| 49 | [zera](http://twitter.com/search?q=zera) | N/A |
+| 50 | [Raducanu](http://twitter.com/search?q=Raducanu) | Raducanu is a Romanian surname. It is derived from the given name Radu, which is derived from the Slavic name Radomir, meaning "peaceful ruler". |
 
 
 
