@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-03-15 21:15:59 UTC`
+📆 Last Updated: `2023-03-15 22:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#ChávezHechoMillones](http://twitter.com/search?q=%23Ch%c3%a1vezHechoMillones) | N/A |
 | 3 | [Saime](http://twitter.com/search?q=Saime) | N/A |
 | 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 5 | [#ChávezAntiimperialista](http://twitter.com/search?q=%23Ch%c3%a1vezAntiimperialista) | N/A |
-| 6 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [#ChávezAntiimperialista](http://twitter.com/search?q=%23Ch%c3%a1vezAntiimperialista) | N/A |
+| 7 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 8 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 9 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 11 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 10 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 11 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 12 | [Eugenio Suárez](http://twitter.com/search?q=Eugenio+Su%c3%a1rez) | N/A |
-| 13 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 15 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 16 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
-| 17 | [Tony Peña](http://twitter.com/search?q=Tony+Pe%c3%b1a) | N/A |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 14 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 15 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
+| 16 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 17 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 18 | [Locatel](http://twitter.com/search?q=Locatel) | N/A |
 | 19 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 20 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 21 | [Carlos Hernández](http://twitter.com/search?q=Carlos+Hern%c3%a1ndez) | N/A |
-| 22 | [La Dimensión Latina](http://twitter.com/search?q=La+Dimensi%c3%b3n+Latina) | N/A |
-| 23 | [Guama](http://twitter.com/search?q=Guama) | N/A |
-| 24 | [alma llanera](http://twitter.com/search?q=alma+llanera) | N/A |
-| 25 | [Luis Beltrán Prieto Figueroa](http://twitter.com/search?q=Luis+Beltr%c3%a1n+Prieto+Figueroa) | N/A |
-| 26 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 27 | [Juan Bautista Arismendi](http://twitter.com/search?q=Juan+Bautista+Arismendi) | N/A |
-| 28 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 29 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 30 | [Victor Cuica](http://twitter.com/search?q=Victor+Cuica) | N/A |
-| 31 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 32 | [Eduardo Escobar](http://twitter.com/search?q=Eduardo+Escobar) | N/A |
-| 33 | [Jesús Luzardo](http://twitter.com/search?q=Jes%c3%bas+Luzardo) | N/A |
-| 34 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 35 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 36 | [Bien de Interés Cultural](http://twitter.com/search?q=Bien+de+Inter%c3%a9s+Cultural) | N/A |
-| 37 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 20 | [carlos hernández](http://twitter.com/search?q=carlos+hern%c3%a1ndez) | N/A |
+| 21 | [La Dimensión Latina](http://twitter.com/search?q=La+Dimensi%c3%b3n+Latina) | N/A |
+| 22 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 23 | [alma llanera](http://twitter.com/search?q=alma+llanera) | N/A |
+| 24 | [Luis Beltrán Prieto Figueroa](http://twitter.com/search?q=Luis+Beltr%c3%a1n+Prieto+Figueroa) | N/A |
+| 25 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 26 | [Juan Bautista Arismendi](http://twitter.com/search?q=Juan+Bautista+Arismendi) | N/A |
+| 27 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 28 | [Victor Cuica](http://twitter.com/search?q=Victor+Cuica) | N/A |
+| 29 | [Guama](http://twitter.com/search?q=Guama) | N/A |
+| 30 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 31 | [Eduardo Escobar](http://twitter.com/search?q=Eduardo+Escobar) | N/A |
+| 32 | [Jesús Luzardo](http://twitter.com/search?q=Jes%c3%bas+Luzardo) | N/A |
+| 33 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 34 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 35 | [Bien de Interés Cultural](http://twitter.com/search?q=Bien+de+Inter%c3%a9s+Cultural) | N/A |
+| 36 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 38 | [pedro elías gutiérrez](http://twitter.com/search?q=pedro+el%c3%adas+guti%c3%a9rrez) | N/A |
-| 39 | [INVICTA](http://twitter.com/search?q=INVICTA) | N/A |
-| 40 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 41 | [Personas con Discapacidad](http://twitter.com/search?q=Personas+con+Discapacidad) | N/A |
-| 42 | [INVICTOS](http://twitter.com/search?q=INVICTOS) | N/A |
+| 39 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 40 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 41 | [INVICTOS](http://twitter.com/search?q=INVICTOS) | N/A |
+| 42 | [Personas con Discapacidad](http://twitter.com/search?q=Personas+con+Discapacidad) | N/A |
 | 43 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
 | 44 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
 | 45 | [Chicha](http://twitter.com/search?q=Chicha) | N/A |
-| 46 | [Cayena](http://twitter.com/search?q=Cayena) | N/A |
-| 47 | [Luis Mariano Rivera](http://twitter.com/search?q=Luis+Mariano+Rivera) | N/A |
-| 48 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 49 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 50 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
+| 46 | [Luis Mariano Rivera](http://twitter.com/search?q=Luis+Mariano+Rivera) | N/A |
+| 47 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 48 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
+| 49 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
+| 50 | [SAREN](http://twitter.com/search?q=SAREN) | N/A |
 
 
 

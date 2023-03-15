@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-15 21:16:18 UTC`
+📆 Last Updated: `2023-03-15 22:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,29 +24,29 @@ This is top 50 for [Philippines](</Philippines>)
 | 7 | [donny for belo beauty](http://twitter.com/search?q=donny+for+belo+beauty) | N/A |
 | 8 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
 | 9 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
-| 10 | [JAY CAME HOME](http://twitter.com/search?q=JAY+CAME+HOME) | N/A |
+| 10 | [jay came home](http://twitter.com/search?q=jay+came+home) | N/A |
 | 11 | [rmts](http://twitter.com/search?q=rmts) | N/A |
-| 12 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 13 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
-| 14 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
-| 15 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 16 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
+| 12 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
+| 13 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 14 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 15 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
+| 16 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
 | 17 | [woozi](http://twitter.com/search?q=woozi) | N/A |
 | 18 | [BOOK YOUR TICKETS NOW](http://twitter.com/search?q=BOOK+YOUR+TICKETS+NOW) | N/A |
-| 19 | [EXCITED FOR YOU KINJI](http://twitter.com/search?q=EXCITED+FOR+YOU+KINJI) | N/A |
+| 19 | [excited for you kinji](http://twitter.com/search?q=excited+for+you+kinji) | N/A |
 | 20 | [mtle](http://twitter.com/search?q=mtle) | N/A |
 | 21 | [FELIP ON AQUATIC PLANET](http://twitter.com/search?q=FELIP+ON+AQUATIC+PLANET) | N/A |
-| 22 | [VXON IkawNaNaNa MV OUTNOW](http://twitter.com/search?q=VXON+IkawNaNaNa+MV+OUTNOW) | N/A |
-| 23 | [JAY IS BACK](http://twitter.com/search?q=JAY+IS+BACK) | N/A |
+| 22 | [RIKI](http://twitter.com/search?q=RIKI) | N/A |
+| 23 | [VXON IkawNaNaNa MV OUTNOW](http://twitter.com/search?q=VXON+IkawNaNaNa+MV+OUTNOW) | N/A |
 | 24 | [rmt na ako](http://twitter.com/search?q=rmt+na+ako) | N/A |
-| 25 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 26 | [CHERRY BLOSSOMS MV TEASER](http://twitter.com/search?q=CHERRY+BLOSSOMS+MV+TEASER) | N/A |
+| 25 | [CHERRY BLOSSOMS MV TEASER](http://twitter.com/search?q=CHERRY+BLOSSOMS+MV+TEASER) | N/A |
+| 26 | [JAY IS BACK](http://twitter.com/search?q=JAY+IS+BACK) | N/A |
 | 27 | [seventeen mafia game](http://twitter.com/search?q=seventeen+mafia+game) | N/A |
 | 28 | [SHARLENExNYLON MARCH COVER](http://twitter.com/search?q=SHARLENExNYLON+MARCH+COVER) | N/A |
 | 29 | [jay finally came home](http://twitter.com/search?q=jay+finally+came+home) | N/A |
 | 30 | [GIVE US IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=GIVE+US+IRENE%27S+BIRTHDAY+PARTY) | N/A |
-| 31 | [jay ur back](http://twitter.com/search?q=jay+ur+back) | N/A |
-| 32 | [UMUWI NA JAYKI](http://twitter.com/search?q=UMUWI+NA+JAYKI) | N/A |
+| 31 | [UMUWI NA JAYKI](http://twitter.com/search?q=UMUWI+NA+JAYKI) | N/A |
+| 32 | [jay ur back](http://twitter.com/search?q=jay+ur+back) | N/A |
 | 33 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 | 34 | [Rover](http://twitter.com/search?q=Rover) | N/A |
 | 35 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |

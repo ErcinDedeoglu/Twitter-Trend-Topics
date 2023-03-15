@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-15 21:16:36 UTC`
+📆 Last Updated: `2023-03-15 22:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
 | 2 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
 | 3 | [Hyde](http://twitter.com/search?q=Hyde) | N/A |
-| 4 | [#TakeFlight](http://twitter.com/search?q=%23TakeFlight) | #TakeFlight is a hashtag used to encourage people to take risks and pursue their dreams. It is often used as a motivational phrase to inspire people to take action and make their dreams a reality. |
-| 5 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 6 | [Harty](http://twitter.com/search?q=Harty) | N/A |
-| 7 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
-| 8 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
-| 9 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 10 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
-| 11 | [#Reelz](http://twitter.com/search?q=%23Reelz) | N/A |
-| 12 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 13 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 14 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 15 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 16 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 17 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 18 | [#GoPackGo](http://twitter.com/search?q=%23GoPackGo) | #GoPackGo is a hashtag used by fans of the Green Bay Packers, an American football team based in Wisconsin. It is used to show support for the team and to encourage them to victory. The phrase "Go Pack Go" is a rallying cry for the team and its fans. |
-| 19 | [Jordan Love](http://twitter.com/search?q=Jordan+Love) | Jordan Love is a phrase used to express admiration or appreciation for someone. It is often used as a term of endearment, and can be used to show support or appreciation for someone's accomplishments. In English, it could be translated as "I love you, Jordan" or "I'm proud of you, Jordan". |
-| 20 | [Jakobi](http://twitter.com/search?q=Jakobi) | N/A |
+| 4 | [Go Bills](http://twitter.com/search?q=Go+Bills) | "Go Bills" is a phrase used by fans of the Buffalo Bills, an American football team based in Buffalo, New York. It is used to show support for the team and to encourage them to win. |
+| 5 | [#TakeFlight](http://twitter.com/search?q=%23TakeFlight) | #TakeFlight is a hashtag used to encourage people to take risks and pursue their dreams. It is often used as a motivational phrase to inspire people to take action and make their dreams a reality. |
+| 6 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
+| 7 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
+| 8 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 9 | [#Reelz](http://twitter.com/search?q=%23Reelz) | N/A |
+| 10 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 11 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 12 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 13 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 14 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 15 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 16 | [#ChampionsEnTUDN](http://twitter.com/search?q=%23ChampionsEnTUDN) | N/A |
+| 17 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 19 | [DEATH IS COMING](http://twitter.com/search?q=DEATH+IS+COMING) | N/A |
+| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 21 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 22 | [JuJu Smith](http://twitter.com/search?q=JuJu+Smith) | N/A |
-| 23 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 24 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 25 | [#Willow](http://twitter.com/search?q=%23Willow) | N/A |
-| 26 | [Green Bay](http://twitter.com/search?q=Green+Bay) | Green Bay is a city in Wisconsin, United States. It is located on the western shore of Lake Michigan at the mouth of the Fox River. The city is known for its association with the National Football League's Green Bay Packers, which play their home games at Lambeau Field. The name "Green Bay" comes from the French phrase "la baie des Puants," which translates to "the bay of stinks." |
-| 27 | [Favre](http://twitter.com/search?q=Favre) | N/A |
-| 28 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
-| 29 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 30 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 31 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 32 | [Jacoby](http://twitter.com/search?q=Jacoby) | N/A |
-| 33 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 34 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 35 | [Chip Roy](http://twitter.com/search?q=Chip+Roy) | Chip Roy is the name of an American politician who currently serves as the U.S. Representative for Texas's 21st congressional district. He is a member of the Republican Party. |
+| 22 | [#GoPackGo](http://twitter.com/search?q=%23GoPackGo) | #GoPackGo is a hashtag used by fans of the Green Bay Packers, an American football team based in Wisconsin. It is used to show support for the team and to encourage them to victory. The phrase "Go Pack Go" is a rallying cry for the team and its fans. |
+| 23 | [Jordan Love](http://twitter.com/search?q=Jordan+Love) | Jordan Love is a phrase used to express admiration or appreciation for someone. It is often used as a term of endearment, and can be used to show support or appreciation for someone's accomplishments. In English, it could be translated as "I love you, Jordan" or "I'm proud of you, Jordan". |
+| 24 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 25 | [Jakobi](http://twitter.com/search?q=Jakobi) | N/A |
+| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 27 | [JuJu Smith](http://twitter.com/search?q=JuJu+Smith) | N/A |
+| 28 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 29 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 30 | [Favre](http://twitter.com/search?q=Favre) | N/A |
+| 31 | [Green Bay](http://twitter.com/search?q=Green+Bay) | Green Bay is a city in Wisconsin, United States. It is located on the western shore of Lake Michigan at the mouth of the Fox River. The city is known for its association with the National Football League's Green Bay Packers, which play their home games at Lambeau Field. The name "Green Bay" comes from the French phrase "la baie des Puants," which translates to "the bay of stinks." |
+| 32 | [MELANIE MARTINEZ IS COMING](http://twitter.com/search?q=MELANIE+MARTINEZ+IS+COMING) | N/A |
+| 33 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
+| 34 | [Jikook](http://twitter.com/search?q=Jikook) | N/A |
+| 35 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
 | 36 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
-| 37 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 38 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
-| 39 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
-| 40 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 41 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
-| 42 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
-| 43 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 44 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 45 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 46 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 47 | [Fernando Cruz](http://twitter.com/search?q=Fernando+Cruz) | N/A |
-| 48 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 37 | [Chip Roy](http://twitter.com/search?q=Chip+Roy) | Chip Roy is the name of an American politician who currently serves as the U.S. Representative for Texas's 21st congressional district. He is a member of the Republican Party. |
+| 38 | [Jacoby](http://twitter.com/search?q=Jacoby) | N/A |
+| 39 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 40 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 41 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 42 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
+| 43 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 44 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 45 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 46 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
+| 47 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
+| 48 | [Howell](http://twitter.com/search?q=Howell) | Howell is a surname of English origin. It is derived from the Old English personal name "Hugh" and the Old English word "halh", meaning "nook" or "small valley". The name can also be found in Scotland, where it is derived from the Gaelic personal name "Uallas". |
 | 49 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 50 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 50 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
 
 
 

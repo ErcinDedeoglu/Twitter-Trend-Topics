@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-15 21:16:19 UTC`
+📆 Last Updated: `2023-03-15 22:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,10 +34,10 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 17 | [Thai](http://twitter.com/search?q=Thai) | N/A |
 | 18 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
 | 19 | [xin 1](http://twitter.com/search?q=xin+1) | N/A |
-| 20 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
+| 20 | [thằng](http://twitter.com/search?q=th%e1%ba%b1ng) | N/A |
 | 21 | [Hook](http://twitter.com/search?q=Hook) | N/A |
 | 22 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 23 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 23 | [vinh](http://twitter.com/search?q=vinh) | N/A |
 | 24 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 25 | [KOLs](http://twitter.com/search?q=KOLs) | N/A |
 | 26 | [Australia](http://twitter.com/search?q=Australia) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 41 | [Proof](http://twitter.com/search?q=Proof) | N/A |
 | 42 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 43 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
+| 43 | [face prerelease mv teaser](http://twitter.com/search?q=face+prerelease+mv+teaser) | N/A |
 | 44 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
 | 45 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
 | 46 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
