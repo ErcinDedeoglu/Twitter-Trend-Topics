@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-15 15:18:05 UTC`
+📆 Last Updated: `2023-03-15 16:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Denmark
 | 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 5 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
-| 6 | [jess thorup](http://twitter.com/search?q=jess+thorup) | N/A |
-| 7 | [david nielsen](http://twitter.com/search?q=david+nielsen) | N/A |
-| 8 | [Jelert](http://twitter.com/search?q=Jelert) | N/A |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [Capellas](http://twitter.com/search?q=Capellas) | N/A |
-| 11 | [niels frederiksen](http://twitter.com/search?q=niels+frederiksen) | N/A |
-| 12 | [#metabolismday](http://twitter.com/search?q=%23metabolismday) | N/A |
-| 13 | [Løkke](http://twitter.com/search?q=L%c3%b8kke) | N/A |
+| 6 | [Jelert](http://twitter.com/search?q=Jelert) | N/A |
+| 7 | [jess thorup](http://twitter.com/search?q=jess+thorup) | N/A |
+| 8 | [Løkke](http://twitter.com/search?q=L%c3%b8kke) | N/A |
+| 9 | [david nielsen](http://twitter.com/search?q=david+nielsen) | N/A |
+| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 11 | [capellas](http://twitter.com/search?q=capellas) | N/A |
+| 12 | [niels frederiksen](http://twitter.com/search?q=niels+frederiksen) | N/A |
+| 13 | [#metabolismday](http://twitter.com/search?q=%23metabolismday) | N/A |
 | 14 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
-| 15 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 16 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
-| 17 | [Tænker](http://twitter.com/search?q=T%c3%a6nker) | N/A |
-| 18 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 19 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 20 | [jylland](http://twitter.com/search?q=jylland) | N/A |
-| 21 | [Aarhus](http://twitter.com/search?q=Aarhus) | N/A |
+| 15 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 16 | [Tænker](http://twitter.com/search?q=T%c3%a6nker) | N/A |
+| 17 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 19 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
+| 20 | [Aarhus](http://twitter.com/search?q=Aarhus) | N/A |
+| 21 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 22 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 23 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
-| 24 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 23 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 24 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 27 | [Hermansen](http://twitter.com/search?q=Hermansen) | N/A |
-| 28 | [Norge](http://twitter.com/search?q=Norge) | N/A |
-| 29 | [Flot](http://twitter.com/search?q=Flot) | N/A |
-| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 31 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 26 | [Hermansen](http://twitter.com/search?q=Hermansen) | N/A |
+| 27 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
+| 28 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 29 | [Norge](http://twitter.com/search?q=Norge) | N/A |
+| 30 | [Flot](http://twitter.com/search?q=Flot) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 33 | [Moderaterne](http://twitter.com/search?q=Moderaterne) | N/A |
 | 34 | [steinlein](http://twitter.com/search?q=steinlein) | N/A |
 | 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 36 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 37 | [nicolai poulsen](http://twitter.com/search?q=nicolai+poulsen) | N/A |
-| 38 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 39 | [Tyrkiet](http://twitter.com/search?q=Tyrkiet) | N/A |
-| 40 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 41 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
-| 42 | [West](http://twitter.com/search?q=West) | N/A |
-| 43 | [vallys](http://twitter.com/search?q=vallys) | N/A |
-| 44 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 45 | [jon stephensen](http://twitter.com/search?q=jon+stephensen) | N/A |
-| 46 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 47 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 48 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 49 | [Enhedslisten](http://twitter.com/search?q=Enhedslisten) | N/A |
-| 50 | [daramy](http://twitter.com/search?q=daramy) | N/A |
+| 38 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 39 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 40 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
+| 41 | [#anklager](http://twitter.com/search?q=%23anklager) | N/A |
+| 42 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 43 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
+| 44 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 45 | [Enhedslisten](http://twitter.com/search?q=Enhedslisten) | N/A |
+| 46 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 47 | [jon stephensen](http://twitter.com/search?q=jon+stephensen) | N/A |
+| 48 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 49 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 50 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 
 
 

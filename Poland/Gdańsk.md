@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-15 15:17:22 UTC`
+📆 Last Updated: `2023-03-15 16:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [#ParagonyGrozy](http://twitter.com/search?q=%23ParagonyGrozy) | N/A |
 | 3 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
 | 4 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 5 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 6 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
 | 7 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
 | 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 9 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 10 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 11 | [maybe you](http://twitter.com/search?q=maybe+you) | N/A |
-| 12 | [Janusz](http://twitter.com/search?q=Janusz) | N/A |
-| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 14 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 15 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 16 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 17 | [cenzura](http://twitter.com/search?q=cenzura) | N/A |
-| 18 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 19 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 20 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 21 | [morzem czarnym](http://twitter.com/search?q=morzem+czarnym) | N/A |
-| 22 | [Justyna](http://twitter.com/search?q=Justyna) | N/A |
-| 23 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 24 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 25 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
-| 26 | [III RP](http://twitter.com/search?q=III+RP) | N/A |
+| 10 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 13 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
+| 14 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 15 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 16 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 17 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 18 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
+| 19 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 20 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
+| 21 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
+| 22 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 23 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 24 | [Janusz](http://twitter.com/search?q=Janusz) | N/A |
+| 25 | [III RP](http://twitter.com/search?q=III+RP) | N/A |
+| 26 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
 | 27 | [Jedyna](http://twitter.com/search?q=Jedyna) | N/A |
-| 28 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 29 | [Błaszczaka](http://twitter.com/search?q=B%c5%82aszczaka) | N/A |
-| 30 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 31 | [edersona](http://twitter.com/search?q=edersona) | N/A |
-| 32 | [Francja](http://twitter.com/search?q=Francja) | N/A |
-| 33 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
-| 34 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
-| 35 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
-| 36 | [Zmień](http://twitter.com/search?q=Zmie%c5%84) | N/A |
-| 37 | [Lidlu](http://twitter.com/search?q=Lidlu) | N/A |
-| 38 | [JAPIERDOLE](http://twitter.com/search?q=JAPIERDOLE) | N/A |
-| 39 | [Szwajcarii](http://twitter.com/search?q=Szwajcarii) | N/A |
-| 40 | [poczta polska](http://twitter.com/search?q=poczta+polska) | N/A |
-| 41 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 42 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 43 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 44 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 46 | [lipsk](http://twitter.com/search?q=lipsk) | N/A |
-| 47 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 48 | [Środa](http://twitter.com/search?q=%c5%9aroda) | N/A |
+| 28 | [edersona](http://twitter.com/search?q=edersona) | N/A |
+| 29 | [Francja](http://twitter.com/search?q=Francja) | N/A |
+| 30 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 31 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
+| 32 | [Błaszczaka](http://twitter.com/search?q=B%c5%82aszczaka) | N/A |
+| 33 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
+| 34 | [Lidlu](http://twitter.com/search?q=Lidlu) | N/A |
+| 35 | [Szwajcarii](http://twitter.com/search?q=Szwajcarii) | N/A |
+| 36 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
+| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 38 | [pięknego](http://twitter.com/search?q=pi%c4%99knego) | N/A |
+| 39 | [winna](http://twitter.com/search?q=winna) | N/A |
+| 40 | [Środa](http://twitter.com/search?q=%c5%9aroda) | N/A |
+| 41 | [Halo](http://twitter.com/search?q=Halo) | N/A |
+| 42 | [Zmień](http://twitter.com/search?q=Zmie%c5%84) | N/A |
+| 43 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
+| 44 | [Sąd Okręgowy](http://twitter.com/search?q=S%c4%85d+Okr%c4%99gowy) | N/A |
+| 45 | [Ceny](http://twitter.com/search?q=Ceny) | N/A |
+| 46 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
+| 47 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 48 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
 
 
 

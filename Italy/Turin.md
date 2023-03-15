@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-15 15:17:27 UTC`
+📆 Last Updated: `2023-03-15 16:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PortoInter](http://twitter.com/search?q=%23PortoInter) | N/A |
-| 2 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 3 | [#15marzo](http://twitter.com/search?q=%2315marzo) | N/A |
-| 4 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
-| 5 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
-| 6 | [#Anastasio](http://twitter.com/search?q=%23Anastasio) | N/A |
-| 7 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 8 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
-| 9 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 10 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 11 | [Mar Nero](http://twitter.com/search?q=Mar+Nero) | N/A |
-| 12 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 13 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 14 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
-| 15 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
-| 16 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 17 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 18 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 19 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 20 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 21 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 22 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 23 | [un ricordo per lulù](http://twitter.com/search?q=un+ricordo+per+lul%c3%b9) | N/A |
-| 24 | [Bergomi](http://twitter.com/search?q=Bergomi) | N/A |
-| 25 | [Heather Parisi](http://twitter.com/search?q=Heather+Parisi) | N/A |
-| 26 | [Duce](http://twitter.com/search?q=Duce) | N/A |
-| 27 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 28 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 29 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 30 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 31 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 32 | [Concita De Gregorio](http://twitter.com/search?q=Concita+De+Gregorio) | N/A |
-| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 34 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
-| 35 | [Il 15](http://twitter.com/search?q=Il+15) | N/A |
-| 36 | [Asfalta](http://twitter.com/search?q=Asfalta) | N/A |
-| 37 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 38 | [Auguri Paul](http://twitter.com/search?q=Auguri+Paul) | N/A |
-| 39 | [D'Ambrosio](http://twitter.com/search?q=D%27Ambrosio) | N/A |
-| 40 | [Giulio Cesare](http://twitter.com/search?q=Giulio+Cesare) | N/A |
-| 41 | [Nobili](http://twitter.com/search?q=Nobili) | N/A |
-| 42 | [lipsia](http://twitter.com/search?q=lipsia) | N/A |
-| 43 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
-| 44 | [Brusaferro](http://twitter.com/search?q=Brusaferro) | N/A |
-| 45 | [Bambini](http://twitter.com/search?q=Bambini) | N/A |
-| 46 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
-| 47 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 48 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 49 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 50 | [Camera](http://twitter.com/search?q=Camera) | N/A |
+| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 2 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
+| 3 | [#QuestionTime](http://twitter.com/search?q=%23QuestionTime) | N/A |
+| 4 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
+| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 6 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 7 | [Zerbi](http://twitter.com/search?q=Zerbi) | N/A |
+| 8 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 9 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 10 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 11 | [Cele](http://twitter.com/search?q=Cele) | N/A |
+| 12 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 13 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 14 | [Francoforte](http://twitter.com/search?q=Francoforte) | N/A |
+| 15 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 16 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 17 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 18 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 21 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 25 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
+| 26 | [#Leclerc](http://twitter.com/search?q=%23Leclerc) | N/A |
+| 27 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
+| 28 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 29 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
+| 30 | [#Camera](http://twitter.com/search?q=%23Camera) | N/A |
+| 31 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
+| 32 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
+| 33 | [#15marzo](http://twitter.com/search?q=%2315marzo) | N/A |
+| 34 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 35 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
+| 36 | [#unarmadioperdue](http://twitter.com/search?q=%23unarmadioperdue) | N/A |
+| 37 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
+| 38 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 39 | [#Chiesa](http://twitter.com/search?q=%23Chiesa) | N/A |
+| 40 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 41 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 42 | [#disturbialimentari](http://twitter.com/search?q=%23disturbialimentari) | N/A |
+| 43 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
+| 44 | [#lariachetirala7](http://twitter.com/search?q=%23lariachetirala7) | N/A |
+| 45 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
+| 46 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
+| 47 | [#LaVoceDelleMuse](http://twitter.com/search?q=%23LaVoceDelleMuse) | N/A |
+| 48 | [#PNRR](http://twitter.com/search?q=%23PNRR) | N/A |
 
 
 

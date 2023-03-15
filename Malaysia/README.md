@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-15 15:18:08 UTC`
+📆 Last Updated: `2023-03-15 16:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for Malaysia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
-| 2 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 3 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 4 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 7 | [#MaskSinger12](http://twitter.com/search?q=%23MaskSinger12) | N/A |
+| 2 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 3 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [#MaskSinger12](http://twitter.com/search?q=%23MaskSinger12) | N/A |
+| 6 | [#หน้ากากกิเลน](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b4%e0%b9%80%e0%b8%a5%e0%b8%99) | N/A |
+| 7 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
 | 8 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 9 | [ChiaSoh](http://twitter.com/search?q=ChiaSoh) | N/A |
+| 9 | [chiasoh](http://twitter.com/search?q=chiasoh) | N/A |
 | 10 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 | 11 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 12 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 12 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
 | 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 14 | [OngTeo](http://twitter.com/search?q=OngTeo) | N/A |
-| 15 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 16 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 17 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 18 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 15 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 16 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 17 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 19 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 20 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 22 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 23 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 24 | [jinjin](http://twitter.com/search?q=jinjin) | N/A |
-| 25 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 26 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 27 | [putri dahlia](http://twitter.com/search?q=putri+dahlia) | N/A |
-| 28 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 29 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 30 | [Chanwoo](http://twitter.com/search?q=Chanwoo) | N/A |
-| 31 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 32 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
-| 33 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 34 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 35 | [thank you mc chaehyun](http://twitter.com/search?q=thank+you+mc+chaehyun) | N/A |
-| 36 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 37 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 38 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 39 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 40 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 41 | [Old Love](http://twitter.com/search?q=Old+Love) | N/A |
-| 42 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 43 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 44 | [yunho](http://twitter.com/search?q=yunho) | N/A |
-| 45 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 46 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 47 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
-| 48 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 49 | [Righttt](http://twitter.com/search?q=Righttt) | N/A |
+| 20 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 21 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 22 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 23 | [putri dahlia](http://twitter.com/search?q=putri+dahlia) | N/A |
+| 24 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 26 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 27 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 28 | [chanwoo](http://twitter.com/search?q=chanwoo) | N/A |
+| 29 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 30 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
+| 31 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 32 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 33 | [hyun](http://twitter.com/search?q=hyun) | N/A |
+| 34 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 35 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 36 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 37 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 38 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 39 | [Old Love](http://twitter.com/search?q=Old+Love) | N/A |
+| 40 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 41 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 42 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 43 | [CHANBAEK](http://twitter.com/search?q=CHANBAEK) | N/A |
+| 44 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 45 | [Ksoo](http://twitter.com/search?q=Ksoo) | N/A |
+| 46 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 47 | [Righttt](http://twitter.com/search?q=Righttt) | N/A |
+| 48 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 49 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
 | 50 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 
 

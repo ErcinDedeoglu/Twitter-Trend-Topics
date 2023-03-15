@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-15 15:17:58 UTC`
+📆 Last Updated: `2023-03-15 16:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 2 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 3 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 4 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 5 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 7 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
-| 8 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 9 | [Hurst](http://twitter.com/search?q=Hurst) | Hurst is a surname of English origin. It is derived from the Old English word hyrst, meaning "wooded hill". The name is most commonly associated with the village of Hurst in Berkshire, England. |
-| 10 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
-| 11 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 12 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
-| 13 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 14 | [Harty](http://twitter.com/search?q=Harty) | N/A |
-| 15 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 16 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 17 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 18 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
-| 19 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
-| 20 | [SITW](http://twitter.com/search?q=SITW) | N/A |
-| 21 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 22 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 23 | [Mint Mobile](http://twitter.com/search?q=Mint+Mobile) | N/A |
-| 24 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 25 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 26 | [Cole Holcomb](http://twitter.com/search?q=Cole+Holcomb) | N/A |
-| 27 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 28 | [Hines](http://twitter.com/search?q=Hines) | Hines is a surname of English origin. It is derived from the Old English personal name Hine, which was a short form of various compound names with the first element "hīwa" meaning "household". |
-| 29 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
-| 30 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 31 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 32 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 33 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 34 | [Deep Ellum](http://twitter.com/search?q=Deep+Ellum) | N/A |
-| 35 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 36 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 37 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
-| 38 | [Randy Rainbow](http://twitter.com/search?q=Randy+Rainbow) | N/A |
-| 39 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
-| 40 | [Rebel Moon](http://twitter.com/search?q=Rebel+Moon) | N/A |
-| 41 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 42 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
-| 43 | [Riley Reiff](http://twitter.com/search?q=Riley+Reiff) | N/A |
-| 44 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
-| 45 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 46 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 47 | [Harmonious](http://twitter.com/search?q=Harmonious) | N/A |
-| 48 | [Witherspoon](http://twitter.com/search?q=Witherspoon) | N/A |
-| 49 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 2 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 3 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 4 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 5 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 6 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
+| 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 9 | [SITW](http://twitter.com/search?q=SITW) | N/A |
+| 10 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
+| 11 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 12 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
+| 13 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 14 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 15 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 16 | [Kyle Trask](http://twitter.com/search?q=Kyle+Trask) | N/A |
+| 17 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 18 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
+| 19 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 20 | [Hurst](http://twitter.com/search?q=Hurst) | Hurst is a surname of English origin. It is derived from the Old English word hyrst, meaning "wooded hill". The name is most commonly associated with the village of Hurst in Berkshire, England. |
+| 21 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 22 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 23 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 24 | [Harty](http://twitter.com/search?q=Harty) | N/A |
+| 25 | [Mint Mobile](http://twitter.com/search?q=Mint+Mobile) | N/A |
+| 26 | [Mike Evans](http://twitter.com/search?q=Mike+Evans) | Mike Evans is a name. It does not have a specific meaning in English. |
+| 27 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 28 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 29 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 30 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 31 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 32 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
+| 33 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 34 | [Chris Godwin](http://twitter.com/search?q=Chris+Godwin) | N/A |
+| 35 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 36 | [Guo Wengui](http://twitter.com/search?q=Guo+Wengui) | N/A |
+| 37 | [Witherspoon](http://twitter.com/search?q=Witherspoon) | N/A |
+| 38 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 39 | [Something in the Water](http://twitter.com/search?q=Something+in+the+Water) | N/A |
+| 40 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
+| 41 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
+| 42 | [HISD](http://twitter.com/search?q=HISD) | N/A |
+| 43 | [Deep Ellum](http://twitter.com/search?q=Deep+Ellum) | N/A |
+| 44 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 45 | [Hines](http://twitter.com/search?q=Hines) | Hines is a surname of English origin. It is derived from the Old English personal name Hine, which was a short form of various compound names with the first element "hīwa" meaning "household". |
+| 46 | [Holcomb](http://twitter.com/search?q=Holcomb) | N/A |
+| 47 | [Marion](http://twitter.com/search?q=Marion) | N/A |
+| 48 | [My Flame](http://twitter.com/search?q=My+Flame) | N/A |
+| 49 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
 
 
 

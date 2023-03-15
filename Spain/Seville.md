@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-03-15 15:17:29 UTC`
+📆 Last Updated: `2023-03-15 16:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
-| 2 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 2 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
 | 3 | [Ossorio](http://twitter.com/search?q=Ossorio) | N/A |
-| 4 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
-| 5 | [Posición](http://twitter.com/search?q=Posici%c3%b3n) | N/A |
-| 6 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 7 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
+| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 5 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
+| 6 | [Posición](http://twitter.com/search?q=Posici%c3%b3n) | N/A |
+| 7 | [#VuelaCon7Play](http://twitter.com/search?q=%23VuelaCon7Play) | N/A |
 | 8 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 9 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 10 | [#VuelaCon7Play](http://twitter.com/search?q=%23VuelaCon7Play) | N/A |
-| 11 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 12 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
-| 13 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 14 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
-| 15 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
-| 16 | [Impune](http://twitter.com/search?q=Impune) | N/A |
-| 17 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
-| 18 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 19 | [Bono Social](http://twitter.com/search?q=Bono+Social) | N/A |
-| 20 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 21 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 22 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
-| 23 | [#LaRuletaDeLaSuerte](http://twitter.com/search?q=%23LaRuletaDeLaSuerte) | N/A |
-| 24 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
-| 25 | [BLEACH](http://twitter.com/search?q=BLEACH) | N/A |
-| 26 | [Blanca Portillo](http://twitter.com/search?q=Blanca+Portillo) | N/A |
-| 27 | [La Santa](http://twitter.com/search?q=La+Santa) | N/A |
-| 28 | [Hijes](http://twitter.com/search?q=Hijes) | N/A |
-| 29 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 30 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 9 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 10 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 11 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 12 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
+| 13 | [Buscando a Nemo](http://twitter.com/search?q=Buscando+a+Nemo) | N/A |
+| 14 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 15 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 16 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
+| 17 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
+| 18 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
+| 19 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 20 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
+| 21 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 22 | [Bono Social](http://twitter.com/search?q=Bono+Social) | N/A |
+| 23 | [Impune](http://twitter.com/search?q=Impune) | N/A |
+| 24 | [AZ Alkmaar](http://twitter.com/search?q=AZ+Alkmaar) | N/A |
+| 25 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
+| 26 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
+| 27 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
+| 28 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
+| 29 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 30 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
 | 31 | [CAN YAMAN FOR CHILDREN](http://twitter.com/search?q=CAN+YAMAN+FOR+CHILDREN) | N/A |
-| 32 | [Alfonso Guerra](http://twitter.com/search?q=Alfonso+Guerra) | N/A |
-| 33 | [C. Tangana](http://twitter.com/search?q=C.+Tangana) | N/A |
-| 34 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
-| 35 | [César](http://twitter.com/search?q=C%c3%a9sar) | N/A |
-| 36 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
-| 37 | [Pedro Sanchez](http://twitter.com/search?q=Pedro+Sanchez) | N/A |
-| 38 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 39 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
-| 40 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 41 | [Comunidad de Madrid](http://twitter.com/search?q=Comunidad+de+Madrid) | N/A |
-| 42 | [Lanzarote](http://twitter.com/search?q=Lanzarote) | N/A |
-| 43 | [Bolsa](http://twitter.com/search?q=Bolsa) | N/A |
-| 44 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
-| 45 | [Arabia Saudí](http://twitter.com/search?q=Arabia+Saud%c3%ad) | N/A |
-| 46 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
-| 47 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
-| 48 | [Díaz Ayuso](http://twitter.com/search?q=D%c3%adaz+Ayuso) | N/A |
-| 49 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 50 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 32 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 33 | [LA SANTA](http://twitter.com/search?q=LA+SANTA) | N/A |
+| 34 | [Bleach](http://twitter.com/search?q=Bleach) | N/A |
+| 35 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 36 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
+| 37 | [C. Tangana](http://twitter.com/search?q=C.+Tangana) | N/A |
+| 38 | [Pedro Sanchez](http://twitter.com/search?q=Pedro+Sanchez) | N/A |
+| 39 | [Alfonso Guerra](http://twitter.com/search?q=Alfonso+Guerra) | N/A |
+| 40 | [César](http://twitter.com/search?q=C%c3%a9sar) | N/A |
+| 41 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 42 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
+| 43 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
+| 44 | [Blanca Portillo](http://twitter.com/search?q=Blanca+Portillo) | N/A |
+| 45 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
+| 46 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 47 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
+| 48 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
+| 49 | [Lanzarote](http://twitter.com/search?q=Lanzarote) | N/A |
+| 50 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
 
 
 

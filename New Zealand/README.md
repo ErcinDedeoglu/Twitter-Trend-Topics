@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-15 15:18:09 UTC`
+📆 Last Updated: `2023-03-15 16:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,24 +19,24 @@ This is top 50 for New Zealand
 | 2 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
 | 3 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
 | 4 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
-| 5 | [#nblfinals](http://twitter.com/search?q=%23nblfinals) | N/A |
+| 5 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
 | 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
-| 8 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 7 | [kuriger](http://twitter.com/search?q=kuriger) | N/A |
+| 8 | [uffindell](http://twitter.com/search?q=uffindell) | N/A |
 | 9 | [cabinet manual](http://twitter.com/search?q=cabinet+manual) | N/A |
 | 10 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 11 | [Willis](http://twitter.com/search?q=Willis) | N/A |
-| 12 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
+| 12 | [niwa](http://twitter.com/search?q=niwa) | N/A |
 | 13 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
 | 14 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 15 | [Coster](http://twitter.com/search?q=Coster) | N/A |
+| 15 | [coster](http://twitter.com/search?q=coster) | N/A |
 | 16 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
 | 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 18 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
 | 19 | [Greens](http://twitter.com/search?q=Greens) | N/A |
 | 20 | [#unbreakable](http://twitter.com/search?q=%23unbreakable) | N/A |
 | 21 | [Leah](http://twitter.com/search?q=Leah) | N/A |
-| 22 | [National and ACT](http://twitter.com/search?q=National+and+ACT) | N/A |
+| 22 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
 | 23 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
 | 24 | [Meng](http://twitter.com/search?q=Meng) | N/A |
 | 25 | [megan woods](http://twitter.com/search?q=megan+woods) | N/A |
@@ -60,7 +60,7 @@ This is top 50 for New Zealand
 | 43 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 44 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 45 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 46 | [Simeon Brown](http://twitter.com/search?q=Simeon+Brown) | N/A |
+| 46 | [simeon brown](http://twitter.com/search?q=simeon+brown) | N/A |
 | 47 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 48 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
 | 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |

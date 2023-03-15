@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-15 15:17:20 UTC`
+📆 Last Updated: `2023-03-15 16:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Black](http://twitter.com/search?q=Black) | N/A |
 | 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 3 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 4 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 5 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 3 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 4 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 5 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
 | 6 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
 | 7 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 8 | [HABLA KEY](http://twitter.com/search?q=HABLA+KEY) | N/A |
-| 9 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 10 | [LARI NO MAIS VOCÊ](http://twitter.com/search?q=LARI+NO+MAIS+VOC%c3%8a) | N/A |
+| 8 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 9 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 10 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
 | 11 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 12 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 13 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 14 | [Doriana](http://twitter.com/search?q=Doriana) | N/A |
-| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 16 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 17 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 18 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
-| 19 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 20 | [#revoganovoensinomedio](http://twitter.com/search?q=%23revoganovoensinomedio) | N/A |
-| 21 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
-| 22 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
-| 23 | [São Longuinho](http://twitter.com/search?q=S%c3%a3o+Longuinho) | N/A |
-| 24 | [#RevogaNEM](http://twitter.com/search?q=%23RevogaNEM) | N/A |
-| 25 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 26 | [John Frusciante](http://twitter.com/search?q=John+Frusciante) | N/A |
-| 27 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 28 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 29 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 30 | [jota quest](http://twitter.com/search?q=jota+quest) | N/A |
-| 31 | [Imposto de Renda](http://twitter.com/search?q=Imposto+de+Renda) | N/A |
-| 32 | [TRABALHO ESCRAVO](http://twitter.com/search?q=TRABALHO+ESCRAVO) | N/A |
-| 33 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 34 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 35 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 36 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
-| 37 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
-| 38 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 39 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 40 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
-| 41 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
-| 42 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 43 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 44 | [Rigoni](http://twitter.com/search?q=Rigoni) | N/A |
-| 45 | [15 de Março](http://twitter.com/search?q=15+de+Mar%c3%a7o) | N/A |
-| 46 | [Sumire](http://twitter.com/search?q=Sumire) | N/A |
-| 47 | [Kuririn](http://twitter.com/search?q=Kuririn) | N/A |
-| 48 | [marina joyce](http://twitter.com/search?q=marina+joyce) | N/A |
-| 49 | [JENNIE KIM](http://twitter.com/search?q=JENNIE+KIM) | N/A |
-| 50 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 12 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 13 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 14 | [HABLA KEY](http://twitter.com/search?q=HABLA+KEY) | N/A |
+| 15 | [LARI NO MAIS VOCÊ](http://twitter.com/search?q=LARI+NO+MAIS+VOC%c3%8a) | N/A |
+| 16 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
+| 17 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 18 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 19 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 20 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 21 | [Doriana](http://twitter.com/search?q=Doriana) | N/A |
+| 22 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 23 | [#revoganovoensinomedio](http://twitter.com/search?q=%23revoganovoensinomedio) | N/A |
+| 24 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
+| 25 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
+| 26 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
+| 27 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
+| 28 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 29 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 30 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 31 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 32 | [América do Sul](http://twitter.com/search?q=Am%c3%a9rica+do+Sul) | N/A |
+| 33 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 34 | [Pronasci](http://twitter.com/search?q=Pronasci) | N/A |
+| 35 | [John Frusciante](http://twitter.com/search?q=John+Frusciante) | N/A |
+| 36 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 37 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 38 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
+| 39 | [São Longuinho](http://twitter.com/search?q=S%c3%a3o+Longuinho) | N/A |
+| 40 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
+| 41 | [Imposto de Renda](http://twitter.com/search?q=Imposto+de+Renda) | N/A |
+| 42 | [jota quest](http://twitter.com/search?q=jota+quest) | N/A |
+| 43 | [Milly Lacombe](http://twitter.com/search?q=Milly+Lacombe) | N/A |
+| 44 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 45 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 46 | [Infiel](http://twitter.com/search?q=Infiel) | N/A |
+| 47 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
+| 48 | [TRABALHO ESCRAVO](http://twitter.com/search?q=TRABALHO+ESCRAVO) | N/A |
+| 49 | [Kuririn](http://twitter.com/search?q=Kuririn) | N/A |
+| 50 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
 
 
 

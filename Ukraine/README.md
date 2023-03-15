@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-15 15:18:12 UTC`
+📆 Last Updated: `2023-03-15 16:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Ukraine
 | 2 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
 | 3 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
 | 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 5 | [Kramatorsk](http://twitter.com/search?q=Kramatorsk) | N/A |
+| 5 | [#Kramatorsk](http://twitter.com/search?q=%23Kramatorsk) | N/A |
 | 6 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 7 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 8 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 9 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 9 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 10 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
 | 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 12 | [су-27](http://twitter.com/search?q=%d1%81%d1%83-27) | N/A |
 | 13 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 14 | [черным](http://twitter.com/search?q=%d1%87%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
 | 15 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 16 | [#HODL](http://twitter.com/search?q=%23HODL) | N/A |
-| 17 | [БПЛА](http://twitter.com/search?q=%d0%91%d0%9f%d0%9b%d0%90) | N/A |
+| 17 | [бпла](http://twitter.com/search?q=%d0%b1%d0%bf%d0%bb%d0%b0) | N/A |
 | 18 | [оскара](http://twitter.com/search?q=%d0%be%d1%81%d0%ba%d0%b0%d1%80%d0%b0) | N/A |
 | 19 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
 | 20 | [#NFTartwork](http://twitter.com/search?q=%23NFTartwork) | N/A |
 | 21 | [West](http://twitter.com/search?q=West) | N/A |
 | 22 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
 | 23 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
-| 24 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 25 | [#stake](http://twitter.com/search?q=%23stake) | N/A |
-| 26 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 27 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 24 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
+| 25 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 26 | [#stake](http://twitter.com/search?q=%23stake) | N/A |
+| 27 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
 | 28 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
-| 29 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 30 | [Русня](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%bd%d1%8f) | N/A |
-| 31 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 32 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
-| 33 | [#healing](http://twitter.com/search?q=%23healing) | N/A |
-| 34 | [#indiedev](http://twitter.com/search?q=%23indiedev) | N/A |
-| 35 | [Донецка](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b0) | N/A |
-| 36 | [Їбать](http://twitter.com/search?q=%d0%87%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
-| 37 | [запада](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | N/A |
-| 38 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
-| 39 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
-| 40 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 41 | [короче](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
-| 42 | [Мариуполе](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d0%b5) | N/A |
-| 43 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 44 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 45 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
-| 46 | [лично](http://twitter.com/search?q=%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
-| 47 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
-| 48 | [кричу](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d1%87%d1%83) | N/A |
-| 49 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 50 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 29 | [Русня](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%bd%d1%8f) | N/A |
+| 30 | [#healing](http://twitter.com/search?q=%23healing) | N/A |
+| 31 | [видимо](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 32 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 33 | [гитлера](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
+| 34 | [Їбать](http://twitter.com/search?q=%d0%87%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
+| 35 | [запада](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | N/A |
+| 36 | [Донецка](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b0) | N/A |
+| 37 | [харькове](http://twitter.com/search?q=%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
+| 38 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 39 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 40 | [Мариуполе](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d0%b5) | N/A |
+| 41 | [КОРОЧЕ](http://twitter.com/search?q=%d0%9a%d0%9e%d0%a0%d0%9e%d0%a7%d0%95) | N/A |
+| 42 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 43 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
+| 44 | [лично](http://twitter.com/search?q=%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 45 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 46 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
+| 47 | [кричу](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d1%87%d1%83) | N/A |
+| 48 | [Украинцы](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%86%d1%8b) | N/A |
+| 49 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
+| 50 | [Пригожин](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd) | N/A |
 
 
 

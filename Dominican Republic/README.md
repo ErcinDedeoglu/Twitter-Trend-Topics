@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-15 15:18:05 UTC`
+📆 Last Updated: `2023-03-15 16:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Dominican Republic
 | ------- | ------------ | ------------ |
 | 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 2 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 3 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 4 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
-| 5 | [#LaCasaDeTodosDO](http://twitter.com/search?q=%23LaCasaDeTodosDO) | N/A |
-| 6 | [#PalacioRD](http://twitter.com/search?q=%23PalacioRD) | N/A |
-| 7 | [Eloy](http://twitter.com/search?q=Eloy) | N/A |
-| 8 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
-| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 10 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 11 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 12 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Adames](http://twitter.com/search?q=Adames) | N/A |
-| 15 | [#ExpoFomentaPymesBR](http://twitter.com/search?q=%23ExpoFomentaPymesBR) | N/A |
-| 16 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 17 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
-| 18 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 19 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 20 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
-| 21 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 22 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 23 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 3 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
+| 4 | [#lacasadetodosdo](http://twitter.com/search?q=%23lacasadetodosdo) | N/A |
+| 5 | [#PalacioRD](http://twitter.com/search?q=%23PalacioRD) | N/A |
+| 6 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 7 | [Adames](http://twitter.com/search?q=Adames) | N/A |
+| 8 | [Eloy](http://twitter.com/search?q=Eloy) | N/A |
+| 9 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 12 | [#ExpoFomentaPymesBR](http://twitter.com/search?q=%23ExpoFomentaPymesBR) | N/A |
+| 13 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 14 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
+| 15 | [Calixte](http://twitter.com/search?q=Calixte) | N/A |
+| 16 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 17 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 18 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 20 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
+| 21 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 22 | [DR-CAFTA](http://twitter.com/search?q=DR-CAFTA) | N/A |
+| 23 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
 | 24 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
 | 25 | [Gary Sanchez](http://twitter.com/search?q=Gary+Sanchez) | N/A |
-| 26 | [DR-CAFTA](http://twitter.com/search?q=DR-CAFTA) | N/A |
-| 27 | [Banreservas](http://twitter.com/search?q=Banreservas) | N/A |
-| 28 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 29 | [RD vs PR](http://twitter.com/search?q=RD+vs+PR) | N/A |
-| 30 | [Roansy Contreras](http://twitter.com/search?q=Roansy+Contreras) | N/A |
-| 31 | [bob melvin](http://twitter.com/search?q=bob+melvin) | N/A |
-| 32 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
-| 33 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 34 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 26 | [RD vs PR](http://twitter.com/search?q=RD+vs+PR) | N/A |
+| 27 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 28 | [roansy contreras](http://twitter.com/search?q=roansy+contreras) | N/A |
+| 29 | [bob melvin](http://twitter.com/search?q=bob+melvin) | N/A |
+| 30 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 31 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 32 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 33 | [Ketel Marte](http://twitter.com/search?q=Ketel+Marte) | N/A |
+| 34 | [RD y PR](http://twitter.com/search?q=RD+y+PR) | N/A |
 | 35 | [Uvero Alto](http://twitter.com/search?q=Uvero+Alto) | N/A |
-| 36 | [Banco Mundial](http://twitter.com/search?q=Banco+Mundial) | N/A |
-| 37 | [Esmil Rogers](http://twitter.com/search?q=Esmil+Rogers) | N/A |
-| 38 | [Ketel](http://twitter.com/search?q=Ketel) | N/A |
-| 39 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 40 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 41 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 42 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 43 | [El Señor](http://twitter.com/search?q=El+Se%c3%b1or) | N/A |
-| 44 | [RD y PR](http://twitter.com/search?q=RD+y+PR) | N/A |
+| 36 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
+| 37 | [Banco Mundial](http://twitter.com/search?q=Banco+Mundial) | N/A |
+| 38 | [Esmil Rogers](http://twitter.com/search?q=Esmil+Rogers) | N/A |
+| 39 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 40 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 41 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 42 | [El Señor](http://twitter.com/search?q=El+Se%c3%b1or) | N/A |
+| 43 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
+| 44 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 45 | [Espíritu Santo](http://twitter.com/search?q=Esp%c3%adritu+Santo) | N/A |
 | 46 | [luis rené canaán](http://twitter.com/search?q=luis+ren%c3%a9+cana%c3%a1n) | N/A |
-| 47 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 48 | [PR y RD](http://twitter.com/search?q=PR+y+RD) | N/A |
-| 49 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 50 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
+| 47 | [Junta Monetaria](http://twitter.com/search?q=Junta+Monetaria) | N/A |
+| 48 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 49 | [PR y RD](http://twitter.com/search?q=PR+y+RD) | N/A |
+| 50 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 
 
 

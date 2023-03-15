@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-03-15 15:17:11 UTC`
+📆 Last Updated: `2023-03-15 16:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Universal Support](http://twitter.com/search?q=Universal+Support) | N/A |
-| 2 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
-| 3 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
-| 4 | [mullins](http://twitter.com/search?q=mullins) | N/A |
-| 5 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
-| 6 | [#WDAD2023](http://twitter.com/search?q=%23WDAD2023) | N/A |
-| 7 | [#NeverLabour](http://twitter.com/search?q=%23NeverLabour) | N/A |
-| 8 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 9 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 10 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 11 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 12 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 13 | [Solly](http://twitter.com/search?q=Solly) | N/A |
-| 14 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
-| 15 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 1 | [Canary Wharfs](http://twitter.com/search?q=Canary+Wharfs) | N/A |
+| 2 | [Universal Support](http://twitter.com/search?q=Universal+Support) | N/A |
+| 3 | [Boxxer](http://twitter.com/search?q=Boxxer) | N/A |
+| 4 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 5 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
+| 6 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
+| 7 | [#ToriesOutNow](http://twitter.com/search?q=%23ToriesOutNow) | N/A |
+| 8 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
+| 9 | [#NeverLabour](http://twitter.com/search?q=%23NeverLabour) | N/A |
+| 10 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 11 | [#NetZero](http://twitter.com/search?q=%23NetZero) | N/A |
+| 12 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 13 | [#ITVRacing](http://twitter.com/search?q=%23ITVRacing) | N/A |
+| 14 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 15 | [Solly](http://twitter.com/search?q=Solly) | N/A |
 | 16 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
 | 17 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
 | 18 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 19 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
-| 20 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
-| 21 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 19 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
+| 20 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
+| 21 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
 | 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 23 | [Sir Gerhard](http://twitter.com/search?q=Sir+Gerhard) | N/A |
-| 24 | [Great British Nuclear](http://twitter.com/search?q=Great+British+Nuclear) | N/A |
-| 25 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 26 | [hermes allen](http://twitter.com/search?q=hermes+allen) | N/A |
-| 27 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
-| 28 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 29 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
-| 30 | [Lifetime Allowance](http://twitter.com/search?q=Lifetime+Allowance) | N/A |
-| 31 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
-| 32 | [Canary Wharfs](http://twitter.com/search?q=Canary+Wharfs) | N/A |
-| 33 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 34 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 35 | [Investment Zones](http://twitter.com/search?q=Investment+Zones) | N/A |
-| 36 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 37 | [Boxxer](http://twitter.com/search?q=Boxxer) | N/A |
-| 38 | [The OBR](http://twitter.com/search?q=The+OBR) | N/A |
+| 23 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
+| 24 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 25 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 26 | [Tony Bloom](http://twitter.com/search?q=Tony+Bloom) | N/A |
+| 27 | [Captain Guinness](http://twitter.com/search?q=Captain+Guinness) | N/A |
+| 28 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
+| 29 | [Champion Chase](http://twitter.com/search?q=Champion+Chase) | N/A |
+| 30 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
+| 31 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 32 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 33 | [Sir Gerhard](http://twitter.com/search?q=Sir+Gerhard) | N/A |
+| 34 | [Great British Nuclear](http://twitter.com/search?q=Great+British+Nuclear) | N/A |
+| 35 | [Camprond](http://twitter.com/search?q=Camprond) | N/A |
+| 36 | [Lifetime Allowance](http://twitter.com/search?q=Lifetime+Allowance) | N/A |
+| 37 | [Navy](http://twitter.com/search?q=Navy) | N/A |
+| 38 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
 | 39 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 40 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
-| 41 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 42 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
-| 43 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
-| 44 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 45 | [Ballymore](http://twitter.com/search?q=Ballymore) | N/A |
-| 46 | [Coral Cup](http://twitter.com/search?q=Coral+Cup) | N/A |
-| 47 | [Azeez](http://twitter.com/search?q=Azeez) | N/A |
-| 48 | [Stabilised](http://twitter.com/search?q=Stabilised) | N/A |
-| 49 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 50 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 40 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
+| 41 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
+| 42 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 43 | [Investment Zones](http://twitter.com/search?q=Investment+Zones) | N/A |
+| 44 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 45 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 46 | [The OBR](http://twitter.com/search?q=The+OBR) | N/A |
+| 47 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 48 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 49 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 50 | [Coral Cup](http://twitter.com/search?q=Coral+Cup) | N/A |
 
 
 
