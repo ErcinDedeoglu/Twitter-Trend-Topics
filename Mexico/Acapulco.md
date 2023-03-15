@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Acapulco
 
-📆 Last Updated: `2023-03-15 03:16:25 UTC`
+📆 Last Updated: `2023-03-15 04:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AumentaLaPobrezaEnPuebla](http://twitter.com/search?q=%23AumentaLaPobrezaEnPuebla) | N/A |
-| 2 | [#nishaspace](http://twitter.com/search?q=%23nishaspace) | N/A |
-| 3 | [#LaCasaDelBeisbol](http://twitter.com/search?q=%23LaCasaDelBeisbol) | N/A |
-| 4 | [#LMD6](http://twitter.com/search?q=%23LMD6) | N/A |
-| 5 | [Imagen TV](http://twitter.com/search?q=Imagen+TV) | N/A |
-| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 7 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
-| 8 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 9 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 10 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 11 | [Telmex](http://twitter.com/search?q=Telmex) | N/A |
-| 12 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 13 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 14 | [LIVE CON EVE](http://twitter.com/search?q=LIVE+CON+EVE) | N/A |
-| 15 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 16 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 17 | [Chano y Chon](http://twitter.com/search?q=Chano+y+Chon) | N/A |
-| 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 2 | [#LMD6](http://twitter.com/search?q=%23LMD6) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [MATI MEDAL HOLDER](http://twitter.com/search?q=MATI+MEDAL+HOLDER) | N/A |
+| 5 | [#MartesAllStar](http://twitter.com/search?q=%23MartesAllStar) | N/A |
+| 6 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 8 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 9 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
+| 10 | [LIVE CON EVE](http://twitter.com/search?q=LIVE+CON+EVE) | N/A |
+| 11 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 12 | [siempre con heliud](http://twitter.com/search?q=siempre+con+heliud) | N/A |
+| 13 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 14 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 15 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
+| 16 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 18 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
 | 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 20 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
-| 21 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 22 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 23 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 24 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 25 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 26 | [SMOKE SPRITE OUT NOW](http://twitter.com/search?q=SMOKE+SPRITE+OUT+NOW) | N/A |
-| 27 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
-| 28 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 29 | [Naucalpan](http://twitter.com/search?q=Naucalpan) | N/A |
-| 30 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 31 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 32 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
-| 33 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 34 | [#PlaydoitMexico](http://twitter.com/search?q=%23PlaydoitMexico) | N/A |
-| 35 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
-| 36 | [#스모크스프라이트_피처링남준](http://twitter.com/search?q=%23%ec%8a%a4%eb%aa%a8%ed%81%ac%ec%8a%a4%ed%94%84%eb%9d%bc%ec%9d%b4%ed%8a%b8_%ed%94%bc%ec%b2%98%eb%a7%81%eb%82%a8%ec%a4%80) | N/A |
-| 37 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 38 | [#endometriosis](http://twitter.com/search?q=%23endometriosis) | N/A |
-| 39 | [#PiensoEnTi](http://twitter.com/search?q=%23PiensoEnTi) | N/A |
-| 40 | [#JoseRamonLopezBeltran400](http://twitter.com/search?q=%23JoseRamonLopezBeltran400) | N/A |
+| 20 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 21 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
+| 22 | [Alexis Wilson](http://twitter.com/search?q=Alexis+Wilson) | N/A |
+| 23 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 24 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
+| 25 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 26 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 27 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 28 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 29 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 30 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
+| 31 | [Excelsior TV](http://twitter.com/search?q=Excelsior+TV) | N/A |
+| 32 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
+| 33 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 34 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 35 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 36 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 37 | [Imagen TV](http://twitter.com/search?q=Imagen+TV) | N/A |
+| 38 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
+| 39 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
+| 40 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 41 | [Alejandro Zendejas](http://twitter.com/search?q=Alejandro+Zendejas) | N/A |
+| 42 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 43 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
+| 44 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 45 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 46 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 47 | [Estadio Akron](http://twitter.com/search?q=Estadio+Akron) | N/A |
+| 48 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
+| 49 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
 
 
 

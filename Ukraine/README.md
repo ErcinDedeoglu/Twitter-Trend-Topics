@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-15 03:17:15 UTC`
+📆 Last Updated: `2023-03-15 04:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,8 +45,8 @@ This is top 50 for Ukraine
 | 28 | [#NFTartist](http://twitter.com/search?q=%23NFTartist) | N/A |
 | 29 | [донецка](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b0) | N/A |
 | 30 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 31 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
-| 32 | [РЕАЛЬНО](http://twitter.com/search?q=%d0%a0%d0%95%d0%90%d0%9b%d0%ac%d0%9d%d0%9e) | N/A |
+| 31 | [европы](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
+| 32 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 33 | [киеве](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
 | 34 | [байден](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
 | 35 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |

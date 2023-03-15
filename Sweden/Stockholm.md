@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-15 03:16:40 UTC`
+📆 Last Updated: `2023-03-15 04:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,19 +23,19 @@ This is top 50 for [Sweden](</Sweden>)
 | 6 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
 | 7 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
 | 8 | [oskarshamn](http://twitter.com/search?q=oskarshamn) | N/A |
-| 9 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
+| 9 | [leksand](http://twitter.com/search?q=leksand) | N/A |
 | 10 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 11 | [Kristersson](http://twitter.com/search?q=Kristersson) | N/A |
+| 11 | [kristersson](http://twitter.com/search?q=kristersson) | N/A |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 13 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 14 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
 | 15 | [hammar](http://twitter.com/search?q=hammar) | N/A |
-| 16 | [Oatly](http://twitter.com/search?q=Oatly) | N/A |
-| 17 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 16 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 17 | [oatly](http://twitter.com/search?q=oatly) | N/A |
 | 18 | [#hri2023](http://twitter.com/search?q=%23hri2023) | N/A |
-| 19 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
-| 20 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 21 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 19 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 20 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 21 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
 | 22 | [aktuellt](http://twitter.com/search?q=aktuellt) | N/A |
 | 23 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
 | 24 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |

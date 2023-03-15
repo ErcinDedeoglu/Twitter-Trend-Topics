@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-15 03:17:14 UTC`
+📆 Last Updated: `2023-03-15 04:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,7 +49,7 @@ This is top 50 for Switzerland
 | 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 33 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
 | 34 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 35 | [eidgenossen](http://twitter.com/search?q=eidgenossen) | N/A |
+| 35 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
 | 36 | [Themen](http://twitter.com/search?q=Themen) | N/A |
 | 37 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
 | 38 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
@@ -60,7 +60,7 @@ This is top 50 for Switzerland
 | 43 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
 | 44 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
 | 45 | [London](http://twitter.com/search?q=London) | N/A |
-| 46 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
+| 46 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
 | 47 | [Studien](http://twitter.com/search?q=Studien) | N/A |
 | 48 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
 | 49 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |

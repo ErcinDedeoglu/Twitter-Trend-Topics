@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Novosibirsk
 
-📆 Last Updated: `2023-03-15 03:16:53 UTC`
+📆 Last Updated: `2023-03-15 04:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for [Russia](</Russia>)
 | 9 | [Greetingg Doomboo](http://twitter.com/search?q=Greetingg+Doomboo) | N/A |
 | 10 | [европу](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
 | 11 | [байден](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
-| 12 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 12 | [жаль](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d1%8c) | N/A |
 | 13 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
 | 14 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
 | 15 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for [Russia](</Russia>)
 | 20 | [Обязательно](http://twitter.com/search?q=%d0%9e%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 21 | [простите](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
 | 22 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 23 | [грузию](http://twitter.com/search?q=%d0%b3%d1%80%d1%83%d0%b7%d0%b8%d1%8e) | N/A |
-| 24 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 25 | [яндекса](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81%d0%b0) | N/A |
-| 26 | [нато](http://twitter.com/search?q=%d0%bd%d0%b0%d1%82%d0%be) | N/A |
-| 27 | [обнимаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 28 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
-| 29 | [добро](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be) | N/A |
-| 30 | [странно](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
-| 31 | [прикольно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 32 | [игра wordle](http://twitter.com/search?q=%d0%b8%d0%b3%d1%80%d0%b0+wordle) | N/A |
-| 33 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 34 | [понятно](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 35 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 36 | [правильно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 37 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 38 | [The Last](http://twitter.com/search?q=The+Last) | N/A |
-| 39 | [#вордли](http://twitter.com/search?q=%23%d0%b2%d0%be%d1%80%d0%b4%d0%bb%d0%b8) | N/A |
-| 40 | [элли](http://twitter.com/search?q=%d1%8d%d0%bb%d0%bb%d0%b8) | N/A |
-| 41 | [сочи](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d0%b8) | N/A |
-| 42 | [питер](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80) | N/A |
-| 43 | [#yargi](http://twitter.com/search?q=%23yargi) | N/A |
-| 44 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 45 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
-| 46 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 47 | [Причем](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%87%d0%b5%d0%bc) | N/A |
-| 48 | [абсолютно](http://twitter.com/search?q=%d0%b0%d0%b1%d1%81%d0%be%d0%bb%d1%8e%d1%82%d0%bd%d0%be) | N/A |
-| 49 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 50 | [гитлер](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
+| 23 | [Грузию](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d1%8e) | N/A |
+| 24 | [яндекса](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81%d0%b0) | N/A |
+| 25 | [нато](http://twitter.com/search?q=%d0%bd%d0%b0%d1%82%d0%be) | N/A |
+| 26 | [обнимаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 27 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 28 | [добро](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be) | N/A |
+| 29 | [странно](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
+| 30 | [прикольно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 31 | [игра wordle](http://twitter.com/search?q=%d0%b8%d0%b3%d1%80%d0%b0+wordle) | N/A |
+| 32 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 33 | [понятно](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
+| 34 | [судя](http://twitter.com/search?q=%d1%81%d1%83%d0%b4%d1%8f) | N/A |
+| 35 | [правильно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 36 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 37 | [The Last](http://twitter.com/search?q=The+Last) | N/A |
+| 38 | [#вордли](http://twitter.com/search?q=%23%d0%b2%d0%be%d1%80%d0%b4%d0%bb%d0%b8) | N/A |
+| 39 | [элли](http://twitter.com/search?q=%d1%8d%d0%bb%d0%bb%d0%b8) | N/A |
+| 40 | [сочи](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d0%b8) | N/A |
+| 41 | [питер](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80) | N/A |
+| 42 | [#yargi](http://twitter.com/search?q=%23yargi) | N/A |
+| 43 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 44 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 45 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 46 | [Причем](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%87%d0%b5%d0%bc) | N/A |
+| 47 | [абсолютно](http://twitter.com/search?q=%d0%b0%d0%b1%d1%81%d0%be%d0%bb%d1%8e%d1%82%d0%bd%d0%be) | N/A |
+| 48 | [гитлер](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
+| 49 | [самая](http://twitter.com/search?q=%d1%81%d0%b0%d0%bc%d0%b0%d1%8f) | N/A |
+| 50 | [оооо](http://twitter.com/search?q=%d0%be%d0%be%d0%be%d0%be) | N/A |
 
 
 

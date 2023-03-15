@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-15 03:17:12 UTC`
+📆 Last Updated: `2023-03-15 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,27 +28,27 @@ This is top 50 for Netherlands
 | 11 | [ali b](http://twitter.com/search?q=ali+b) | N/A |
 | 12 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
 | 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 14 | [Jeroen Rietbergen](http://twitter.com/search?q=Jeroen+Rietbergen) | N/A |
+| 14 | [jeroen rietbergen](http://twitter.com/search?q=jeroen+rietbergen) | N/A |
 | 15 | [Marco Borsato](http://twitter.com/search?q=Marco+Borsato) | N/A |
 | 16 | [Engel](http://twitter.com/search?q=Engel) | N/A |
 | 17 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
 | 18 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
 | 19 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
 | 20 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 21 | [Genee](http://twitter.com/search?q=Genee) | N/A |
-| 22 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
-| 23 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 21 | [genee](http://twitter.com/search?q=genee) | N/A |
+| 22 | [van haga](http://twitter.com/search?q=van+haga) | N/A |
+| 23 | [derksen](http://twitter.com/search?q=derksen) | N/A |
 | 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 25 | [goedemorgen petra](http://twitter.com/search?q=goedemorgen+petra) | N/A |
 | 26 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
 | 27 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 28 | [gijp](http://twitter.com/search?q=gijp) | N/A |
 | 29 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 30 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
-| 31 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 32 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 33 | [ziggo](http://twitter.com/search?q=ziggo) | N/A |
-| 34 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 30 | [jezus leeft](http://twitter.com/search?q=jezus+leeft) | N/A |
+| 31 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 32 | [ziggo](http://twitter.com/search?q=ziggo) | N/A |
+| 33 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 34 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
 | 35 | [teze](http://twitter.com/search?q=teze) | N/A |
 | 36 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
 | 37 | [reijnders](http://twitter.com/search?q=reijnders) | N/A |

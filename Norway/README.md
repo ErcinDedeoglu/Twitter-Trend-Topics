@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-15 03:17:12 UTC`
+📆 Last Updated: `2023-03-15 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for Norway
 | 13 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 | 14 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
 | 15 | [#NarkoTwitter](http://twitter.com/search?q=%23NarkoTwitter) | N/A |
-| 16 | [#NNPF](http://twitter.com/search?q=%23NNPF) | N/A |
+| 16 | [#nnpf](http://twitter.com/search?q=%23nnpf) | N/A |
 | 17 | [tenker](http://twitter.com/search?q=tenker) | N/A |
 | 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 19 | [Google](http://twitter.com/search?q=Google) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Norway
 | 47 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 48 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 50 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
+| 50 | [problemet](http://twitter.com/search?q=problemet) | N/A |
 
 
 

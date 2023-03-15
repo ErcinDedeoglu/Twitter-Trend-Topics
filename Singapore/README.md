@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-15 03:17:14 UTC`
+📆 Last Updated: `2023-03-15 04:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,20 +28,20 @@ This is top 50 for Singapore
 | 11 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
 | 12 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
 | 13 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 14 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 15 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 16 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 17 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 18 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 19 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 20 | [neyo](http://twitter.com/search?q=neyo) | N/A |
-| 21 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 22 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 23 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
-| 24 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 25 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
-| 26 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 27 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 15 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 16 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 17 | [artem](http://twitter.com/search?q=artem) | N/A |
+| 18 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 19 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 20 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 21 | [neyo](http://twitter.com/search?q=neyo) | N/A |
+| 22 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 23 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 24 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
+| 25 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 26 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 27 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
 | 28 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
 | 29 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
 | 30 | [kamal adli](http://twitter.com/search?q=kamal+adli) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Singapore
 | 33 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
 | 34 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
 | 35 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 36 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 37 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 38 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 39 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 40 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 41 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
-| 42 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 43 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 44 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 45 | [London](http://twitter.com/search?q=London) | N/A |
-| 46 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 47 | [European](http://twitter.com/search?q=European) | N/A |
-| 48 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 49 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 50 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 36 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 37 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 38 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 39 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 40 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
+| 41 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 42 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 43 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 44 | [European](http://twitter.com/search?q=European) | N/A |
+| 45 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 46 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 47 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 48 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 
 
 

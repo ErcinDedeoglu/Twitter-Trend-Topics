@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-15 03:17:03 UTC`
+📆 Last Updated: `2023-03-15 04:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [The Lakers](http://twitter.com/search?q=The+Lakers) | N/A |
-| 2 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 3 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 2 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 3 | [Vando](http://twitter.com/search?q=Vando) | N/A |
 | 4 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
-| 5 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 6 | [Pi Day](http://twitter.com/search?q=Pi+Day) | N/A |
-| 7 | [PG&E](http://twitter.com/search?q=PG%26E) | N/A |
-| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 9 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 10 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 11 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
-| 12 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 13 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
-| 14 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 15 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 16 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 17 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 18 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 19 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 20 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 21 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 22 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 23 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 24 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 25 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 26 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 27 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
-| 28 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 29 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 30 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 31 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 32 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 33 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 34 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
-| 35 | [Charity](http://twitter.com/search?q=Charity) | N/A |
-| 36 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 37 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 38 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 5 | [Pi Day](http://twitter.com/search?q=Pi+Day) | N/A |
+| 6 | [PG&E](http://twitter.com/search?q=PG%26E) | N/A |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 8 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 9 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
+| 10 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 11 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 12 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 13 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 14 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 15 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 16 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 17 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 18 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 19 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 20 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 21 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 22 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 23 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
+| 24 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 25 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 26 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
+| 27 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 28 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 29 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 31 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
+| 32 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 33 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 34 | [HAIL TO PITT](http://twitter.com/search?q=HAIL+TO+PITT) | N/A |
+| 35 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 36 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 37 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
+| 38 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
 | 39 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 40 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 41 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
-| 42 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 43 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 44 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 45 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
-| 46 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
-| 47 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 48 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 49 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 40 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
+| 41 | [Tolu](http://twitter.com/search?q=Tolu) | N/A |
+| 42 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
+| 43 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 44 | [Steven Crowl](http://twitter.com/search?q=Steven+Crowl) | N/A |
+| 45 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 46 | [Diaz Graham](http://twitter.com/search?q=Diaz+Graham) | N/A |
+| 47 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 48 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 49 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
 
 
 

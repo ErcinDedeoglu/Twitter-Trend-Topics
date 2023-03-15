@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-15 03:17:12 UTC`
+📆 Last Updated: `2023-03-15 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,9 +34,9 @@ This is top 50 for Latvia
 | 17 | [kāds](http://twitter.com/search?q=k%c4%81ds) | N/A |
 | 18 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
 | 19 | [navaļnijs](http://twitter.com/search?q=nava%c4%bcnijs) | N/A |
-| 20 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 21 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 22 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 20 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 21 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 22 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
 | 23 | [oskaru](http://twitter.com/search?q=oskaru) | N/A |
 | 24 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 25 | [Apple](http://twitter.com/search?q=Apple) | N/A |

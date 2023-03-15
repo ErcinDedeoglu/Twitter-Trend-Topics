@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-15 03:17:05 UTC`
+📆 Last Updated: `2023-03-15 04:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [#SpaceX](http://twitter.com/search?q=%23SpaceX) | N/A |
 | 2 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
 | 3 | [#CRS27](http://twitter.com/search?q=%23CRS27) | N/A |
-| 4 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 7 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 8 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 9 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 10 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 11 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 12 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 13 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 14 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 15 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 16 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 17 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 18 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 6 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 7 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 8 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 9 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 10 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 11 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 12 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 13 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 14 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 15 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 16 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 17 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 18 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
 | 19 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 20 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 21 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
-| 22 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 23 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 24 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 25 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 26 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 20 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
+| 21 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 22 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 23 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 24 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 26 | [HAIL TO PITT](http://twitter.com/search?q=HAIL+TO+PITT) | N/A |
 | 27 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
 | 28 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
-| 29 | [Charity](http://twitter.com/search?q=Charity) | N/A |
-| 30 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 31 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 32 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 33 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 34 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 35 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
-| 36 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 37 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 29 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 30 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 31 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 32 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
+| 33 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
+| 34 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 35 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 36 | [Tolu](http://twitter.com/search?q=Tolu) | N/A |
+| 37 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
 | 38 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 39 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
-| 40 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
-| 41 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 42 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 43 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 44 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 45 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
-| 46 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 47 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 48 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 49 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
+| 39 | [Steven Crowl](http://twitter.com/search?q=Steven+Crowl) | N/A |
+| 40 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 41 | [Diaz Graham](http://twitter.com/search?q=Diaz+Graham) | N/A |
+| 42 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 43 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 44 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
+| 45 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 46 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
+| 47 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 48 | [Zardes](http://twitter.com/search?q=Zardes) | N/A |
+| 49 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
 
 
 

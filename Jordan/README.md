@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-15 03:17:11 UTC`
+📆 Last Updated: `2023-03-15 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for Jordan
 | 10 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
 | 11 | [الديوان الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
 | 12 | [#الهلال_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
-| 13 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
-| 14 | [الاغوار الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ba%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 13 | [الاغوار الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ba%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 14 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
 | 15 | [علي نعمه المطر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
 | 16 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
 | 17 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for Jordan
 | 21 | [الامن العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 22 | [#روسيا](http://twitter.com/search?q=%23%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
 | 23 | [علاوي حبيب](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d9%88%d9%8a+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 24 | [#صباح_الخير_والسعاده](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | #صباح_الخير_والسعاده is an Arabic phrase that translates to "Good morning and happiness". It is a common greeting used to wish someone a good morning and a happy day. |
+| 24 | [#البزنس98](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b398) | N/A |
 | 25 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
 | 26 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
 | 27 | [الطاقه الحراريه الجوفيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%81%d9%8a%d9%87) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-15 03:17:09 UTC`
+📆 Last Updated: `2023-03-15 04:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Denmark
 | 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 9 | [#fordanmark](http://twitter.com/search?q=%23fordanmark) | N/A |
 | 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Jelert](http://twitter.com/search?q=Jelert) | N/A |
+| 11 | [jelert](http://twitter.com/search?q=jelert) | N/A |
 | 12 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 13 | [venstre](http://twitter.com/search?q=venstre) | N/A |
 | 14 | [jess thorup](http://twitter.com/search?q=jess+thorup) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for Denmark
 | 29 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 30 | [mette frederiksen](http://twitter.com/search?q=mette+frederiksen) | N/A |
 | 31 | [egypten](http://twitter.com/search?q=egypten) | N/A |
-| 32 | [ODENSE](http://twitter.com/search?q=ODENSE) | N/A |
+| 32 | [odense](http://twitter.com/search?q=odense) | N/A |
 | 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 34 | [flot](http://twitter.com/search?q=flot) | N/A |
 | 35 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |

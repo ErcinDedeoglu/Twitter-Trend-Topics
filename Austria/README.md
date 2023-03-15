@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-15 03:17:08 UTC`
+📆 Last Updated: `2023-03-15 04:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 1 | [doskozil](http://twitter.com/search?q=doskozil) | N/A |
 | 2 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
 | 3 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
 | 4 | [seilbahn](http://twitter.com/search?q=seilbahn) | N/A |
 | 5 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 6 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 7 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
+| 7 | [parteitag](http://twitter.com/search?q=parteitag) | N/A |
 | 8 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 9 | [Bund](http://twitter.com/search?q=Bund) | N/A |
 | 10 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for Austria
 | 21 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
 | 22 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
 | 23 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 24 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 24 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
 | 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 26 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
 | 27 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |

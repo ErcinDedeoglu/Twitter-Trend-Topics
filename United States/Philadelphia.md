@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-15 03:17:05 UTC`
+📆 Last Updated: `2023-03-15 04:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
-| 2 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 3 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 2 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 3 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
 | 4 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 5 | [Graham](http://twitter.com/search?q=Graham) | N/A |
-| 6 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 7 | [Canadiens](http://twitter.com/search?q=Canadiens) | N/A |
-| 8 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 5 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 6 | [Canadiens](http://twitter.com/search?q=Canadiens) | N/A |
+| 7 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 8 | [Penny](http://twitter.com/search?q=Penny) | N/A |
 | 9 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 10 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 11 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 12 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 13 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 14 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 15 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
-| 16 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 17 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 18 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 19 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 20 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 21 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 22 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 23 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 24 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 25 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 26 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 27 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 28 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 29 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 30 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
-| 31 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 32 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 33 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 34 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 35 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 36 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 37 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
-| 38 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 10 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 11 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 12 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 13 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 14 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 15 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 16 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 17 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 18 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 19 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 20 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 21 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 22 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 23 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 24 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
+| 25 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 26 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 27 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
+| 28 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 29 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 30 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 31 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 32 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
+| 33 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 34 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 35 | [HAIL TO PITT](http://twitter.com/search?q=HAIL+TO+PITT) | N/A |
+| 36 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 37 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 38 | [Taijuan Walker](http://twitter.com/search?q=Taijuan+Walker) | N/A |
 | 39 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 40 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 41 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 42 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 43 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 44 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 45 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
-| 46 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 47 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 48 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 49 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
+| 40 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 41 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
+| 42 | [Tolu](http://twitter.com/search?q=Tolu) | N/A |
+| 43 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
+| 44 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 45 | [Steven Crowl](http://twitter.com/search?q=Steven+Crowl) | N/A |
+| 46 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 47 | [Diaz Graham](http://twitter.com/search?q=Diaz+Graham) | N/A |
+| 48 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 49 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
 | 50 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
 
 

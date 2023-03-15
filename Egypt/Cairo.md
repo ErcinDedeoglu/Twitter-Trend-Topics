@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cairo
 
-📆 Last Updated: `2023-03-15 03:16:50 UTC`
+📆 Last Updated: `2023-03-15 04:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,10 +25,10 @@ This is top 50 for [Egypt](</Egypt>)
 | 8 | [#دوري_ابطال_اوروبا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
 | 9 | [#عل_بن](http://twitter.com/search?q=%23%d8%b9%d9%84_%d8%a8%d9%86) | N/A |
 | 10 | [رقم ميسي](http://twitter.com/search?q=%d8%b1%d9%82%d9%85+%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
-| 11 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 12 | [#القيعي_مهندس_الصفقات_الفاشله](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d9%8a%d8%b9%d9%8a_%d9%85%d9%87%d9%86%d8%af%d8%b3_%d8%a7%d9%84%d8%b5%d9%81%d9%82%d8%a7%d8%aa_%d8%a7%d9%84%d9%81%d8%a7%d8%b4%d9%84%d9%87) | N/A |
-| 13 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 14 | [البحر الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
+| 11 | [#القيعي_مهندس_الصفقات_الفاشله](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d9%8a%d8%b9%d9%8a_%d9%85%d9%87%d9%86%d8%af%d8%b3_%d8%a7%d9%84%d8%b5%d9%81%d9%82%d8%a7%d8%aa_%d8%a7%d9%84%d9%81%d8%a7%d8%b4%d9%84%d9%87) | N/A |
+| 12 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 13 | [البحر الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
+| 14 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
 | 15 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
 | 16 | [الاتحاد الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 | 17 | [كاس الرابطه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7%d9%87) | N/A |
@@ -40,16 +40,16 @@ This is top 50 for [Egypt](</Egypt>)
 | 23 | [مايت سينما](http://twitter.com/search?q=%d9%85%d8%a7%d9%8a%d8%aa+%d8%b3%d9%8a%d9%86%d9%85%d8%a7) | N/A |
 | 24 | [بنت الغالي](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
 | 25 | [مونديال الانديه](http://twitter.com/search?q=%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 26 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 28 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 26 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 27 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 29 | [14 مارس 2023](http://twitter.com/search?q=14+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
 | 30 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
 | 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 32 | [صندوق مصر السيادي](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d9%85%d8%b5%d8%b1+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
 | 33 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 34 | [مصر القابضه](http://twitter.com/search?q=%d9%85%d8%b5%d8%b1+%d8%a7%d9%84%d9%82%d8%a7%d8%a8%d8%b6%d9%87) | N/A |
-| 35 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 34 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 35 | [مصر القابضه](http://twitter.com/search?q=%d9%85%d8%b5%d8%b1+%d8%a7%d9%84%d9%82%d8%a7%d8%a8%d8%b6%d9%87) | N/A |
 | 36 | [الشباب التايهه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d9%87%d9%87) | N/A |
 | 37 | [براند مصري](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7%d9%86%d8%af+%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
 | 38 | [احمد سعد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b3%d8%b9%d8%af) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Egypt](</Egypt>)
 | 43 | [المسيره الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
 | 44 | [الاجواء الشتويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%b4%d8%aa%d9%88%d9%8a%d9%87) | N/A |
 | 45 | [ورونالدو](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | N/A |
-| 46 | [البنوك الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 47 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 48 | [محمود مرسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
-| 49 | [فرح الاميره](http://twitter.com/search?q=%d9%81%d8%b1%d8%ad+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%87) | N/A |
-| 50 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 46 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 47 | [محمود مرسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
+| 48 | [فرح الاميره](http://twitter.com/search?q=%d9%81%d8%b1%d8%ad+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%87) | N/A |
+| 49 | [سيده مصر الاولي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d9%85%d8%b5%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 50 | [أمريكا](http://twitter.com/search?q=%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
 
 
 

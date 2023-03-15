@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-15 03:17:08 UTC`
+📆 Last Updated: `2023-03-15 04:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,7 +34,7 @@ This is top 50 for Belgium
 | 17 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
 | 18 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
 | 19 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
-| 20 | [Sanda Dia](http://twitter.com/search?q=Sanda+Dia) | N/A |
+| 20 | [sanda dia](http://twitter.com/search?q=sanda+dia) | N/A |
 | 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 22 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 23 | [Commission](http://twitter.com/search?q=Commission) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Belgium
 | 44 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 45 | [J'arrive](http://twitter.com/search?q=J%27arrive) | N/A |
 | 46 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
-| 47 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
+| 47 | [delhaize](http://twitter.com/search?q=delhaize) | N/A |
 | 48 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 49 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |

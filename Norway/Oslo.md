@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-15 03:16:39 UTC`
+📆 Last Updated: `2023-03-15 04:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for [Norway](</Norway>)
 | 13 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 | 14 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
 | 15 | [#NarkoTwitter](http://twitter.com/search?q=%23NarkoTwitter) | N/A |
-| 16 | [#NNPF](http://twitter.com/search?q=%23NNPF) | N/A |
+| 16 | [#nnpf](http://twitter.com/search?q=%23nnpf) | N/A |
 | 17 | [tenker](http://twitter.com/search?q=tenker) | N/A |
 | 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 19 | [Google](http://twitter.com/search?q=Google) | N/A |

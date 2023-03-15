@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-03-15 03:16:49 UTC`
+📆 Last Updated: `2023-03-15 04:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Ghana](</Ghana>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
+| 1 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
+| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 4 | [Nana Ama McBrown](http://twitter.com/search?q=Nana+Ama+McBrown) | N/A |
 | 5 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
@@ -26,14 +26,14 @@ This is top 50 for [Ghana](</Ghana>)
 | 9 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 10 | [Sark](http://twitter.com/search?q=Sark) | N/A |
 | 11 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 12 | [#knustgraduation](http://twitter.com/search?q=%23knustgraduation) | N/A |
-| 13 | [Ink Boy](http://twitter.com/search?q=Ink+Boy) | N/A |
-| 14 | [Despite Media](http://twitter.com/search?q=Despite+Media) | N/A |
-| 15 | [#dnbp](http://twitter.com/search?q=%23dnbp) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [e-levy](http://twitter.com/search?q=e-levy) | N/A |
-| 18 | [#puredrive](http://twitter.com/search?q=%23puredrive) | N/A |
-| 19 | [presec](http://twitter.com/search?q=presec) | N/A |
+| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 13 | [#knustgraduation](http://twitter.com/search?q=%23knustgraduation) | N/A |
+| 14 | [Ink Boy](http://twitter.com/search?q=Ink+Boy) | N/A |
+| 15 | [Despite Media](http://twitter.com/search?q=Despite+Media) | N/A |
+| 16 | [e-levy](http://twitter.com/search?q=e-levy) | N/A |
+| 17 | [#puredrive](http://twitter.com/search?q=%23puredrive) | N/A |
+| 18 | [presec](http://twitter.com/search?q=presec) | N/A |
+| 19 | [#royalsports](http://twitter.com/search?q=%23royalsports) | N/A |
 | 20 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 22 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for [Ghana](</Ghana>)
 | 27 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 28 | [Media General](http://twitter.com/search?q=Media+General) | N/A |
 | 29 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 30 | [Jordan Ayew](http://twitter.com/search?q=Jordan+Ayew) | N/A |
+| 30 | [jordan ayew](http://twitter.com/search?q=jordan+ayew) | N/A |
 | 31 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 32 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
 | 33 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Ghana](</Ghana>)
 | 45 | [anisah](http://twitter.com/search?q=anisah) | N/A |
 | 46 | [German](http://twitter.com/search?q=German) | N/A |
 | 47 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 48 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 48 | [Vote Thabang](http://twitter.com/search?q=Vote+Thabang) | N/A |
 | 49 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-15 03:16:30 UTC`
+📆 Last Updated: `2023-03-15 04:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 2 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 3 | [bruyne](http://twitter.com/search?q=bruyne) | Bruyne is a Dutch surname. It is derived from the Old Dutch word "bruin", meaning "brown". |
-| 4 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 5 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
-| 6 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 7 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
-| 8 | [Mainstreet](http://twitter.com/search?q=Mainstreet) | N/A |
-| 9 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 10 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 11 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
-| 12 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 13 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 14 | [HACKEARAM A RAINHA](http://twitter.com/search?q=HACKEARAM+A+RAINHA) | N/A |
-| 15 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 16 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 17 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 18 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
-| 19 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 20 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 21 | [#TheTown2023](http://twitter.com/search?q=%23TheTown2023) | N/A |
-| 22 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 23 | [VT da Bruna](http://twitter.com/search?q=VT+da+Bruna) | N/A |
-| 24 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 25 | [baby shark](http://twitter.com/search?q=baby+shark) | N/A |
-| 26 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 27 | [Cacto](http://twitter.com/search?q=Cacto) | N/A |
-| 28 | [Simaria](http://twitter.com/search?q=Simaria) | Simaria is a Portuguese word that means "twin". It is often used to refer to two people or things that are very similar. |
-| 29 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 30 | [PAULINHO DO MOTOCROSS](http://twitter.com/search?q=PAULINHO+DO+MOTOCROSS) | N/A |
-| 31 | [Mandume](http://twitter.com/search?q=Mandume) | N/A |
-| 32 | [Até a Sarah](http://twitter.com/search?q=At%c3%a9+a+Sarah) | N/A |
-| 33 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
-| 34 | [Renato Paiva](http://twitter.com/search?q=Renato+Paiva) | N/A |
-| 35 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
-| 36 | [VT da Sarinha](http://twitter.com/search?q=VT+da+Sarinha) | N/A |
-| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 38 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 39 | [O PERFIL DA MARILIA](http://twitter.com/search?q=O+PERFIL+DA+MARILIA) | N/A |
-| 40 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 41 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 42 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 43 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
-| 44 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 45 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 46 | [Bruno Viana](http://twitter.com/search?q=Bruno+Viana) | N/A |
-| 47 | [Nem a Sarah](http://twitter.com/search?q=Nem+a+Sarah) | N/A |
-| 48 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
-| 49 | [Alef Manga](http://twitter.com/search?q=Alef+Manga) | N/A |
-| 50 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 2 | [Fred e Bruna](http://twitter.com/search?q=Fred+e+Bruna) | N/A |
+| 3 | [wiz khalifa](http://twitter.com/search?q=wiz+khalifa) | N/A |
+| 4 | [Mainstreet](http://twitter.com/search?q=Mainstreet) | N/A |
+| 5 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 6 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 7 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
+| 8 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 9 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 10 | [HACKEARAM A RAINHA](http://twitter.com/search?q=HACKEARAM+A+RAINHA) | N/A |
+| 11 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 12 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 13 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 14 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 15 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
+| 16 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 17 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 18 | [#TheTown2023](http://twitter.com/search?q=%23TheTown2023) | N/A |
+| 19 | [VT da Bruna](http://twitter.com/search?q=VT+da+Bruna) | N/A |
+| 20 | [baby shark](http://twitter.com/search?q=baby+shark) | N/A |
+| 21 | [VT da Sarah](http://twitter.com/search?q=VT+da+Sarah) | N/A |
+| 22 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 23 | [Cacto](http://twitter.com/search?q=Cacto) | N/A |
+| 24 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
+| 25 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 26 | [PAULINHO DO MOTOCROSS](http://twitter.com/search?q=PAULINHO+DO+MOTOCROSS) | N/A |
+| 27 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
+| 28 | [Até a Sarah](http://twitter.com/search?q=At%c3%a9+a+Sarah) | N/A |
+| 29 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
+| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 31 | [Renato Paiva](http://twitter.com/search?q=Renato+Paiva) | N/A |
+| 32 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 33 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 34 | [QUE SABOR](http://twitter.com/search?q=QUE+SABOR) | N/A |
+| 35 | [O PERFIL DA MARILIA](http://twitter.com/search?q=O+PERFIL+DA+MARILIA) | N/A |
+| 36 | [Chora Fred](http://twitter.com/search?q=Chora+Fred) | N/A |
+| 37 | [Simaria](http://twitter.com/search?q=Simaria) | Simaria is a Portuguese word that means "twin". It is often used to refer to two people or things that are very similar. |
+| 38 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 39 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 40 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 41 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
+| 42 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 43 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
+| 44 | [Nem a Sarah](http://twitter.com/search?q=Nem+a+Sarah) | N/A |
+| 45 | [Alef Manga](http://twitter.com/search?q=Alef+Manga) | N/A |
+| 46 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 47 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 48 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 49 | [Bruno Viana](http://twitter.com/search?q=Bruno+Viana) | N/A |
+| 50 | [CURTINDO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-15 03:16:34 UTC`
+📆 Last Updated: `2023-03-15 04:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,41 +28,41 @@ This is top 50 for [France](</France>)
 | 11 | [Seine](http://twitter.com/search?q=Seine) | N/A |
 | 12 | [Sophia Aram](http://twitter.com/search?q=Sophia+Aram) | N/A |
 | 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 14 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 15 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 16 | [J-500](http://twitter.com/search?q=J-500) | N/A |
-| 17 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 14 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 15 | [J-500](http://twitter.com/search?q=J-500) | N/A |
+| 16 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 17 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
 | 18 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
 | 19 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
 | 20 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
-| 21 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 22 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 22 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 25 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
 | 26 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
-| 27 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 28 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 29 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 30 | [jérôme commandeur](http://twitter.com/search?q=j%c3%a9r%c3%b4me+commandeur) | N/A |
-| 31 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
-| 32 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 33 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
-| 34 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
-| 35 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
+| 27 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 28 | [Les Lakers](http://twitter.com/search?q=Les+Lakers) | N/A |
+| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 30 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 31 | [jérôme commandeur](http://twitter.com/search?q=j%c3%a9r%c3%b4me+commandeur) | N/A |
+| 32 | [bouilleur](http://twitter.com/search?q=bouilleur) | N/A |
+| 33 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 34 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 35 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
 | 36 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
 | 37 | [Noire](http://twitter.com/search?q=Noire) | N/A |
 | 38 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
-| 39 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 40 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
-| 41 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 42 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 43 | [Les Lakers](http://twitter.com/search?q=Les+Lakers) | N/A |
-| 44 | [Attali](http://twitter.com/search?q=Attali) | N/A |
-| 45 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 39 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
+| 40 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 41 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
+| 42 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 43 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 44 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 45 | [Attali](http://twitter.com/search?q=Attali) | N/A |
 | 46 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
 | 47 | [ménard](http://twitter.com/search?q=m%c3%a9nard) | N/A |
-| 48 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 48 | [géraldine](http://twitter.com/search?q=g%c3%a9raldine) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-15 03:16:35 UTC`
+📆 Last Updated: `2023-03-15 04:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 8 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 9 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 10 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 9 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 10 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
 | 11 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
 | 12 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 13 | [volksheld](http://twitter.com/search?q=volksheld) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for [Germany](</Germany>)
 | 22 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
 | 23 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
 | 24 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 25 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
+| 25 | [kaufhof](http://twitter.com/search?q=kaufhof) | N/A |
 | 26 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
 | 27 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
 | 28 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
@@ -50,7 +50,7 @@ This is top 50 for [Germany](</Germany>)
 | 33 | [Foul](http://twitter.com/search?q=Foul) | N/A |
 | 34 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
 | 35 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 36 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 36 | [kaufhäuser](http://twitter.com/search?q=kaufh%c3%a4user) | N/A |
 | 37 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
 | 38 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
 | 39 | [bock auf arbeit](http://twitter.com/search?q=bock+auf+arbeit) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for [Germany](</Germany>)
 | 42 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
 | 43 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
 | 44 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 45 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 45 | [empathie](http://twitter.com/search?q=empathie) | N/A |
 | 46 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
 | 47 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
 | 48 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
