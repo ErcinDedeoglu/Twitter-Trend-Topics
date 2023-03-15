@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-03-15 12:18:18 UTC`
+📆 Last Updated: `2023-03-15 13:20:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
 | 2 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 3 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 4 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
-| 5 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 6 | [Ossorio](http://twitter.com/search?q=Ossorio) | N/A |
-| 7 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 8 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
-| 9 | [#DIABLO4MM](http://twitter.com/search?q=%23DIABLO4MM) | N/A |
-| 10 | [#UniformiNelDonare](http://twitter.com/search?q=%23UniformiNelDonare) | N/A |
-| 11 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 12 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
-| 13 | [C. Tangana](http://twitter.com/search?q=C.+Tangana) | N/A |
-| 14 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
-| 15 | [Bleach](http://twitter.com/search?q=Bleach) | N/A |
-| 16 | [#APOYOROCIO15M](http://twitter.com/search?q=%23APOYOROCIO15M) | N/A |
-| 17 | [Blanca Portillo](http://twitter.com/search?q=Blanca+Portillo) | N/A |
+| 3 | [#VuelaCon7Play](http://twitter.com/search?q=%23VuelaCon7Play) | N/A |
+| 4 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 5 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
+| 6 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 7 | [Enrique Ossorio](http://twitter.com/search?q=Enrique+Ossorio) | N/A |
+| 8 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 9 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 10 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
+| 11 | [#UniformiNelDonare](http://twitter.com/search?q=%23UniformiNelDonare) | N/A |
+| 12 | [Hijes](http://twitter.com/search?q=Hijes) | N/A |
+| 13 | [Posición](http://twitter.com/search?q=Posici%c3%b3n) | N/A |
+| 14 | [C. Tangana](http://twitter.com/search?q=C.+Tangana) | N/A |
+| 15 | [#APOYOROCIO15M](http://twitter.com/search?q=%23APOYOROCIO15M) | N/A |
+| 16 | [#DIABLO4MM](http://twitter.com/search?q=%23DIABLO4MM) | N/A |
+| 17 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
 | 18 | [Alfonso Guerra](http://twitter.com/search?q=Alfonso+Guerra) | N/A |
-| 19 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 20 | [ally](http://twitter.com/search?q=ally) | N/A |
-| 21 | [Derechos del Consumidor](http://twitter.com/search?q=Derechos+del+Consumidor) | N/A |
-| 22 | [Marta Ortega](http://twitter.com/search?q=Marta+Ortega) | N/A |
-| 23 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
-| 24 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
-| 25 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 26 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
-| 27 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
-| 28 | [Comunidad de Madrid](http://twitter.com/search?q=Comunidad+de+Madrid) | N/A |
-| 29 | [Idus de Marzo](http://twitter.com/search?q=Idus+de+Marzo) | N/A |
-| 30 | [Roig](http://twitter.com/search?q=Roig) | N/A |
-| 31 | [El 15](http://twitter.com/search?q=El+15) | N/A |
-| 32 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 33 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 34 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 35 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
-| 36 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 19 | [CAN YAMAN FOR CHILDREN](http://twitter.com/search?q=CAN+YAMAN+FOR+CHILDREN) | N/A |
+| 20 | [Blanca Portillo](http://twitter.com/search?q=Blanca+Portillo) | N/A |
+| 21 | [Bleach](http://twitter.com/search?q=Bleach) | N/A |
+| 22 | [LA SANTA](http://twitter.com/search?q=LA+SANTA) | N/A |
+| 23 | [Impune](http://twitter.com/search?q=Impune) | N/A |
+| 24 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
+| 25 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
+| 26 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 27 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
+| 28 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
+| 29 | [Derechos del Consumidor](http://twitter.com/search?q=Derechos+del+Consumidor) | N/A |
+| 30 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
+| 31 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 32 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
+| 33 | [Marta Ortega](http://twitter.com/search?q=Marta+Ortega) | N/A |
+| 34 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 35 | [Comunidad de Madrid](http://twitter.com/search?q=Comunidad+de+Madrid) | N/A |
+| 36 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
 | 37 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 38 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 39 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 40 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 41 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 42 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 43 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 44 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
-| 45 | [Belarra](http://twitter.com/search?q=Belarra) | N/A |
-| 46 | [Eusebia](http://twitter.com/search?q=Eusebia) | N/A |
-| 47 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 48 | [#AEEH2023](http://twitter.com/search?q=%23AEEH2023) | N/A |
-| 49 | [#YoMeRebelo15M](http://twitter.com/search?q=%23YoMeRebelo15M) | N/A |
-| 50 | [#sostenibilidad](http://twitter.com/search?q=%23sostenibilidad) | N/A |
+| 38 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
+| 39 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
+| 40 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 41 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 42 | [El 15](http://twitter.com/search?q=El+15) | N/A |
+| 43 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 44 | [Lanzarote](http://twitter.com/search?q=Lanzarote) | N/A |
+| 45 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
+| 46 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
+| 47 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
+| 48 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 49 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 50 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
 
 
 

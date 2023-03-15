@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-03-15 12:18:22 UTC`
+📆 Last Updated: `2023-03-15 13:21:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [Keating](http://twitter.com/search?q=Keating) | N/A |
 | 2 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
 | 3 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 4 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
-| 5 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
+| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 5 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
 | 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 8 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 7 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 9 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
 | 10 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 11 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 12 | [probyn](http://twitter.com/search?q=probyn) | N/A |
-| 13 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 14 | [angus glover](http://twitter.com/search?q=angus+glover) | N/A |
-| 15 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 16 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
-| 17 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
-| 18 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 19 | [Marles](http://twitter.com/search?q=Marles) | N/A |
-| 20 | [Xavier Cooks](http://twitter.com/search?q=Xavier+Cooks) | N/A |
-| 21 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 23 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 24 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 25 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 26 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 27 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 28 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
-| 29 | [Uyghurs](http://twitter.com/search?q=Uyghurs) | N/A |
-| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 31 | [Albanese](http://twitter.com/search?q=Albanese) | N/A |
-| 32 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 33 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 34 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
-| 35 | [Coruscant](http://twitter.com/search?q=Coruscant) | N/A |
-| 36 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 37 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 38 | [Auckland](http://twitter.com/search?q=Auckland) | Auckland is the largest city in New Zealand. It is located in the North Island and is known for its diverse population, vibrant culture, and stunning natural beauty. The name Auckland comes from the Māori language and means "the place of Tāmaki". |
-| 39 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
-| 40 | [Subs](http://twitter.com/search?q=Subs) | N/A |
-| 41 | [Matthew Knott](http://twitter.com/search?q=Matthew+Knott) | N/A |
-| 42 | [Sydney Water](http://twitter.com/search?q=Sydney+Water) | N/A |
-| 43 | [Marise Payne](http://twitter.com/search?q=Marise+Payne) | N/A |
-| 44 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 45 | [NAPLAN](http://twitter.com/search?q=NAPLAN) | N/A |
-| 46 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 47 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
-| 48 | [Elliot Yeo](http://twitter.com/search?q=Elliot+Yeo) | N/A |
-| 49 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 50 | [canberra united](http://twitter.com/search?q=canberra+united) | N/A |
+| 11 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 12 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 13 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
+| 14 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
+| 15 | [Angus Glover](http://twitter.com/search?q=Angus+Glover) | N/A |
+| 16 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
+| 17 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 18 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 19 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 20 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 21 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
+| 22 | [Marles](http://twitter.com/search?q=Marles) | N/A |
+| 23 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [xavier cooks](http://twitter.com/search?q=xavier+cooks) | N/A |
+| 26 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 27 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 28 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 30 | [Uyghurs](http://twitter.com/search?q=Uyghurs) | N/A |
+| 31 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 32 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
+| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 34 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 35 | [Stage 3](http://twitter.com/search?q=Stage+3) | N/A |
+| 36 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 37 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 38 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
+| 39 | [Bree](http://twitter.com/search?q=Bree) | N/A |
+| 40 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
+| 41 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 42 | [Hartcher](http://twitter.com/search?q=Hartcher) | N/A |
+| 43 | [Albanese](http://twitter.com/search?q=Albanese) | N/A |
+| 44 | [Matthew Knott](http://twitter.com/search?q=Matthew+Knott) | N/A |
+| 45 | [Ethel Cain](http://twitter.com/search?q=Ethel+Cain) | N/A |
+| 46 | [Subs](http://twitter.com/search?q=Subs) | N/A |
+| 47 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
+| 48 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 49 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
+| 50 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
 
 
 

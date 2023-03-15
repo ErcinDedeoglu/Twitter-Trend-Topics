@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-15 12:18:12 UTC`
+📆 Last Updated: `2023-03-15 13:20:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 4 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
-| 5 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 6 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 7 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 8 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 9 | [#SoutienAuxEboueurs](http://twitter.com/search?q=%23SoutienAuxEboueurs) | N/A |
-| 10 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 12 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 13 | [Seine](http://twitter.com/search?q=Seine) | N/A |
-| 14 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 15 | [Sophia Aram](http://twitter.com/search?q=Sophia+Aram) | N/A |
-| 16 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
-| 17 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 18 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 19 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
-| 20 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 21 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
-| 22 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 23 | [J-500](http://twitter.com/search?q=J-500) | N/A |
-| 24 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 25 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 26 | [élodie](http://twitter.com/search?q=%c3%a9lodie) | N/A |
-| 27 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 28 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
-| 29 | [Bourse de Paris](http://twitter.com/search?q=Bourse+de+Paris) | N/A |
-| 30 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 31 | [Noire](http://twitter.com/search?q=Noire) | N/A |
-| 32 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
-| 33 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
-| 34 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
-| 35 | [Disiz](http://twitter.com/search?q=Disiz) | N/A |
-| 36 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 38 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 39 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 40 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 41 | [jérôme commandeur](http://twitter.com/search?q=j%c3%a9r%c3%b4me+commandeur) | N/A |
-| 42 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
-| 43 | [Parisiens](http://twitter.com/search?q=Parisiens) | N/A |
-| 44 | [Quintuplé](http://twitter.com/search?q=Quintupl%c3%a9) | N/A |
-| 45 | [Havre](http://twitter.com/search?q=Havre) | N/A |
-| 46 | [SHAMAN KING FLOWERS](http://twitter.com/search?q=SHAMAN+KING+FLOWERS) | N/A |
-| 47 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 48 | [florence foresti](http://twitter.com/search?q=florence+foresti) | N/A |
-| 49 | [Ingénieur](http://twitter.com/search?q=Ing%c3%a9nieur) | N/A |
-| 50 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 1 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
+| 2 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
+| 3 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 4 | [Parisiens](http://twitter.com/search?q=Parisiens) | N/A |
+| 5 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
+| 6 | [#Hidalgo](http://twitter.com/search?q=%23Hidalgo) | N/A |
+| 7 | [#SoutienAuxEboueurs](http://twitter.com/search?q=%23SoutienAuxEboueurs) | N/A |
+| 8 | [Havre](http://twitter.com/search?q=Havre) | N/A |
+| 9 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
+| 10 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
+| 11 | [société générale](http://twitter.com/search?q=soci%c3%a9t%c3%a9+g%c3%a9n%c3%a9rale) | N/A |
+| 12 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
+| 13 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 14 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 15 | [Bourse de Paris](http://twitter.com/search?q=Bourse+de+Paris) | N/A |
+| 16 | [Lisnard](http://twitter.com/search?q=Lisnard) | N/A |
+| 17 | [Nono](http://twitter.com/search?q=Nono) | N/A |
+| 18 | [Norvège](http://twitter.com/search?q=Norv%c3%a8ge) | N/A |
+| 19 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 20 | [Retirez](http://twitter.com/search?q=Retirez) | N/A |
+| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 22 | [grève du 15](http://twitter.com/search?q=gr%c3%a8ve+du+15) | N/A |
+| 23 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 24 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 25 | [gohan](http://twitter.com/search?q=gohan) | N/A |
+| 26 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
+| 27 | [Le 15](http://twitter.com/search?q=Le+15) | N/A |
+| 28 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 29 | [Marne](http://twitter.com/search?q=Marne) | N/A |
+| 30 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 31 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 32 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
+| 33 | [#RolandGarros](http://twitter.com/search?q=%23RolandGarros) | N/A |
+| 34 | [#NonALaReformeDesRetraites](http://twitter.com/search?q=%23NonALaReformeDesRetraites) | N/A |
+| 35 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 36 | [#CAC40](http://twitter.com/search?q=%23CAC40) | N/A |
+| 37 | [#grevedeseboueurs](http://twitter.com/search?q=%23grevedeseboueurs) | N/A |
+| 38 | [#banques](http://twitter.com/search?q=%23banques) | N/A |
+| 39 | [#orange](http://twitter.com/search?q=%23orange) | N/A |
+| 40 | [#64anscestnon](http://twitter.com/search?q=%2364anscestnon) | N/A |
+| 41 | [#TouchePasASophiaAram](http://twitter.com/search?q=%23TouchePasASophiaAram) | N/A |
+| 42 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 43 | [#CovidLong](http://twitter.com/search?q=%23CovidLong) | N/A |
+| 44 | [#NintendAlerts](http://twitter.com/search?q=%23NintendAlerts) | N/A |
+| 45 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 46 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
+| 47 | [#mipim2023](http://twitter.com/search?q=%23mipim2023) | N/A |
 
 
 

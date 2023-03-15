@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-15 12:18:58 UTC`
+📆 Last Updated: `2023-03-15 13:21:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Denmark
 | 1 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
 | 2 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
 | 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 4 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [#rfcagf](http://twitter.com/search?q=%23rfcagf) | N/A |
-| 8 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
-| 9 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 10 | [jess thorup](http://twitter.com/search?q=jess+thorup) | N/A |
-| 11 | [jelert](http://twitter.com/search?q=jelert) | N/A |
-| 12 | [david nielsen](http://twitter.com/search?q=david+nielsen) | N/A |
-| 13 | [Niels Frederiksen](http://twitter.com/search?q=Niels+Frederiksen) | N/A |
-| 14 | [Hermansen](http://twitter.com/search?q=Hermansen) | N/A |
-| 15 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 16 | [Capellas](http://twitter.com/search?q=Capellas) | N/A |
-| 17 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
-| 18 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
-| 19 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 20 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 21 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 22 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 23 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
-| 24 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 25 | [Enhedslisten](http://twitter.com/search?q=Enhedslisten) | N/A |
-| 26 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
-| 27 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 28 | [steinlein](http://twitter.com/search?q=steinlein) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 31 | [Lars Løkke](http://twitter.com/search?q=Lars+L%c3%b8kke) | N/A |
-| 32 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 33 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 34 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 35 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 36 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
-| 37 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
-| 38 | [London](http://twitter.com/search?q=London) | N/A |
-| 39 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
-| 40 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 41 | [Bornholm](http://twitter.com/search?q=Bornholm) | N/A |
-| 42 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 43 | [Bergur](http://twitter.com/search?q=Bergur) | N/A |
-| 44 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 45 | [Frederiksberg Bibliotek](http://twitter.com/search?q=Frederiksberg+Bibliotek) | N/A |
-| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 47 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 48 | [I Danmark](http://twitter.com/search?q=I+Danmark) | N/A |
-| 49 | [Danmarks](http://twitter.com/search?q=Danmarks) | N/A |
-| 50 | [nicolai poulsen](http://twitter.com/search?q=nicolai+poulsen) | N/A |
+| 7 | [jess thorup](http://twitter.com/search?q=jess+thorup) | N/A |
+| 8 | [Capellas](http://twitter.com/search?q=Capellas) | N/A |
+| 9 | [david nielsen](http://twitter.com/search?q=david+nielsen) | N/A |
+| 10 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 11 | [niels frederiksen](http://twitter.com/search?q=niels+frederiksen) | N/A |
+| 12 | [#metabolismday](http://twitter.com/search?q=%23metabolismday) | N/A |
+| 13 | [Jelert](http://twitter.com/search?q=Jelert) | N/A |
+| 14 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 15 | [Tænker](http://twitter.com/search?q=T%c3%a6nker) | N/A |
+| 16 | [#fordanmark](http://twitter.com/search?q=%23fordanmark) | N/A |
+| 17 | [Hermansen](http://twitter.com/search?q=Hermansen) | N/A |
+| 18 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 19 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
+| 22 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
+| 23 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
+| 24 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 25 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
+| 26 | [Norge](http://twitter.com/search?q=Norge) | N/A |
+| 27 | [Løkke](http://twitter.com/search?q=L%c3%b8kke) | N/A |
+| 28 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 29 | [West](http://twitter.com/search?q=West) | N/A |
+| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 31 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 32 | [Moderaterne](http://twitter.com/search?q=Moderaterne) | N/A |
+| 33 | [Steinlein](http://twitter.com/search?q=Steinlein) | N/A |
+| 34 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 35 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 36 | [Flot](http://twitter.com/search?q=Flot) | N/A |
+| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 38 | [nicolai poulsen](http://twitter.com/search?q=nicolai+poulsen) | N/A |
+| 39 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
+| 40 | [Tyrkiet](http://twitter.com/search?q=Tyrkiet) | N/A |
+| 41 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 42 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 43 | [Aarhus](http://twitter.com/search?q=Aarhus) | N/A |
+| 44 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 45 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 46 | [Jon Stephensen](http://twitter.com/search?q=Jon+Stephensen) | N/A |
+| 47 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 50 | [borgen](http://twitter.com/search?q=borgen) | N/A |
 
 
 

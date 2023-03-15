@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-15 12:18:46 UTC`
+📆 Last Updated: `2023-03-15 13:21:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 5 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
-| 6 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 2 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 3 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 4 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
 | 7 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 9 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 8 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 9 | [Cole Holcomb](http://twitter.com/search?q=Cole+Holcomb) | N/A |
 | 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 11 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 12 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
-| 13 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 14 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 15 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
-| 16 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 17 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 18 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 19 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 20 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 21 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 22 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 23 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
-| 24 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 25 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 26 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 27 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 28 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 29 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 30 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 31 | [Anonymous](http://twitter.com/search?q=Anonymous) | N/A |
-| 32 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 33 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 34 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 35 | [Background](http://twitter.com/search?q=Background) | N/A |
-| 36 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 37 | [Trunk](http://twitter.com/search?q=Trunk) | N/A |
-| 38 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 39 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 40 | [Unconstitutional](http://twitter.com/search?q=Unconstitutional) | N/A |
-| 41 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
-| 42 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 43 | [Trump or DeSantis](http://twitter.com/search?q=Trump+or+DeSantis) | N/A |
-| 44 | [Deuce](http://twitter.com/search?q=Deuce) | N/A |
-| 45 | [#WhiskersWednesday](http://twitter.com/search?q=%23WhiskersWednesday) | N/A |
-| 46 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 47 | [#GivingBlueday](http://twitter.com/search?q=%23GivingBlueday) | N/A |
-| 48 | [#Qatar](http://twitter.com/search?q=%23Qatar) | N/A |
+| 11 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 12 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 13 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
+| 14 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
+| 15 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 16 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 17 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 18 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 19 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 20 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 21 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
+| 22 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
+| 23 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
+| 24 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
+| 25 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
+| 26 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
+| 27 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
+| 28 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 29 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
+| 30 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 31 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 32 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
+| 33 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 34 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 35 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 36 | [Militia](http://twitter.com/search?q=Militia) | N/A |
+| 37 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 38 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 39 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 40 | [Assault](http://twitter.com/search?q=Assault) | N/A |
+| 41 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 42 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 43 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 44 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 45 | [Overboard](http://twitter.com/search?q=Overboard) | N/A |
+| 46 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 47 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 48 | [Collected](http://twitter.com/search?q=Collected) | N/A |
 
 
 

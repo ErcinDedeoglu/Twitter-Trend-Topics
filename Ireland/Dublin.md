@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-15 12:18:11 UTC`
+📆 Last Updated: `2023-03-15 13:20:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 1 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 4 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 5 | [dysart dynamo](http://twitter.com/search?q=dysart+dynamo) | N/A |
+| 5 | [#StPatricksDay](http://twitter.com/search?q=%23StPatricksDay) | N/A |
 | 6 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
-| 7 | [#StPatricksDay](http://twitter.com/search?q=%23StPatricksDay) | N/A |
-| 8 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
-| 11 | [#GSB2023](http://twitter.com/search?q=%23GSB2023) | N/A |
-| 12 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 13 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 14 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
-| 15 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 7 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
+| 8 | [#GSB2023](http://twitter.com/search?q=%23GSB2023) | N/A |
+| 9 | [el fabiolo](http://twitter.com/search?q=el+fabiolo) | N/A |
+| 10 | [stephen kenny](http://twitter.com/search?q=stephen+kenny) | N/A |
+| 11 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
+| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 13 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
+| 14 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 15 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 16 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 17 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 18 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
-| 21 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 22 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 23 | [Rachel Blackmore](http://twitter.com/search?q=Rachel+Blackmore) | N/A |
-| 24 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
-| 25 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
-| 26 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 27 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 28 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
-| 29 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 30 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
-| 31 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 32 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 33 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 34 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
-| 35 | [Kai and Sanam](http://twitter.com/search?q=Kai+and+Sanam) | N/A |
-| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 17 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 18 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
+| 19 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 20 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 21 | [Rachel Blackmore](http://twitter.com/search?q=Rachel+Blackmore) | N/A |
+| 22 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
+| 23 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
+| 24 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
+| 25 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 26 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 27 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
+| 28 | [taoiseach](http://twitter.com/search?q=taoiseach) | N/A |
+| 29 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 30 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 31 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 32 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 33 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 34 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 35 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 36 | [de bromhead](http://twitter.com/search?q=de+bromhead) | N/A |
 | 37 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 38 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 39 | [De Bromhead](http://twitter.com/search?q=De+Bromhead) | N/A |
-| 40 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 41 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 42 | [Joan](http://twitter.com/search?q=Joan) | N/A |
-| 43 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 44 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 45 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 46 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 47 | [Tell Housing Minister](http://twitter.com/search?q=Tell+Housing+Minister) | N/A |
-| 48 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
-| 49 | [George Hook](http://twitter.com/search?q=George+Hook) | N/A |
-| 50 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
+| 38 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 39 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 40 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 41 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
+| 42 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 43 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 44 | [Sinn Féin](http://twitter.com/search?q=Sinn+F%c3%a9in) | N/A |
+| 45 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
+| 46 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 47 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 48 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 49 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
+| 50 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
 
 
 

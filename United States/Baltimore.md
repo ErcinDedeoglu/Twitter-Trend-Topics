@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-15 12:18:46 UTC`
+📆 Last Updated: `2023-03-15 13:21:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 2 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 3 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 7 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
-| 8 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 9 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 11 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 12 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 13 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 14 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
+| 1 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 2 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 4 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 5 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 6 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 7 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 8 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 9 | [Cole Holcomb](http://twitter.com/search?q=Cole+Holcomb) | N/A |
+| 10 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 11 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
+| 12 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 13 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 14 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
 | 15 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 16 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 17 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 18 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 19 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 20 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 21 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 22 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
-| 23 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 24 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 25 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 26 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 27 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 28 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 29 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 30 | [Anonymous](http://twitter.com/search?q=Anonymous) | N/A |
-| 31 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 32 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 33 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 34 | [Background](http://twitter.com/search?q=Background) | N/A |
-| 35 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 36 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 37 | [Trunk](http://twitter.com/search?q=Trunk) | N/A |
-| 38 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 39 | [Unconstitutional](http://twitter.com/search?q=Unconstitutional) | N/A |
-| 40 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
-| 41 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 42 | [Trump or DeSantis](http://twitter.com/search?q=Trump+or+DeSantis) | N/A |
-| 43 | [Deuce](http://twitter.com/search?q=Deuce) | N/A |
-| 44 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 45 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 46 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
+| 16 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 17 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 18 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
+| 19 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
+| 20 | [Brutus](http://twitter.com/search?q=Brutus) | N/A |
+| 21 | [Sarada](http://twitter.com/search?q=Sarada) | N/A |
+| 22 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
+| 23 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
+| 24 | [Spillane](http://twitter.com/search?q=Spillane) | N/A |
+| 25 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 26 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
+| 27 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 28 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
+| 29 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 30 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 31 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 32 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 33 | [Militia](http://twitter.com/search?q=Militia) | N/A |
+| 34 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 35 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 36 | [Assault](http://twitter.com/search?q=Assault) | N/A |
+| 37 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 38 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 39 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 40 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 41 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 42 | [Overboard](http://twitter.com/search?q=Overboard) | N/A |
+| 43 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 44 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 45 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
+| 46 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 47 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
 
 
 

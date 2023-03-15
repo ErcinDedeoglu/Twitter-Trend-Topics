@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-03-15 12:18:40 UTC`
+📆 Last Updated: `2023-03-15 13:21:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MeetMrsChatterjeeIn2Days](http://twitter.com/search?q=%23MeetMrsChatterjeeIn2Days) | N/A |
-| 2 | [#ambition2039](http://twitter.com/search?q=%23ambition2039) | N/A |
-| 3 | [NationalExec Of MinorityDept](http://twitter.com/search?q=NationalExec+Of+MinorityDept) | N/A |
-| 4 | [#AICCMinorityDept](http://twitter.com/search?q=%23AICCMinorityDept) | N/A |
-| 5 | [#LokmatNationalConclave](http://twitter.com/search?q=%23LokmatNationalConclave) | N/A |
+| 1 | [#FSC2023](http://twitter.com/search?q=%23FSC2023) | N/A |
+| 2 | [#MeetMrsChatterjeeIn2Days](http://twitter.com/search?q=%23MeetMrsChatterjeeIn2Days) | N/A |
+| 3 | [#FSC2030](http://twitter.com/search?q=%23FSC2030) | N/A |
+| 4 | [#ambition2039](http://twitter.com/search?q=%23ambition2039) | N/A |
+| 5 | [nationalexec of minoritydept](http://twitter.com/search?q=nationalexec+of+minoritydept) | N/A |
 | 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 7 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 8 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 9 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
-| 10 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
-| 11 | [B. 1750](http://twitter.com/search?q=B.+1750) | N/A |
-| 12 | [A. Dynamic AMOLED 2X](http://twitter.com/search?q=A.+Dynamic+AMOLED+2X) | N/A |
-| 13 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 14 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
-| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 16 | [Shinde](http://twitter.com/search?q=Shinde) | N/A |
-| 17 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
-| 18 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 19 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
-| 20 | [शिक्षक भर्ती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95+%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80) | N/A |
-| 21 | [राबड़ी देवी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 22 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 23 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 24 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 25 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 7 | [#LokmatNationalConclave](http://twitter.com/search?q=%23LokmatNationalConclave) | N/A |
+| 8 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 9 | [Sindhu](http://twitter.com/search?q=Sindhu) | N/A |
+| 10 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 11 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
+| 12 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 13 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 14 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
+| 15 | [Nukkad](http://twitter.com/search?q=Nukkad) | N/A |
+| 16 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
+| 17 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 18 | [शिक्षक भर्ती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95+%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80) | N/A |
+| 19 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
+| 20 | [Arunachal Pradesh](http://twitter.com/search?q=Arunachal+Pradesh) | N/A |
+| 21 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 22 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
+| 23 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 24 | [राबड़ी देवी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 25 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
 | 26 | [लॉरेंस बिश्नोई](http://twitter.com/search?q=%e0%a4%b2%e0%a5%89%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8+%e0%a4%ac%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%a8%e0%a5%8b%e0%a4%88) | N/A |
-| 27 | [TSPSC](http://twitter.com/search?q=TSPSC) | N/A |
-| 28 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 29 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 30 | [IITian](http://twitter.com/search?q=IITian) | N/A |
-| 31 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 32 | [स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | स्वास्थ्य मंत्री is a Hindi phrase meaning "Health Minister". It is used to refer to the minister responsible for health and medical services in India. |
-| 33 | [#GeethaSakshigaa](http://twitter.com/search?q=%23GeethaSakshigaa) | N/A |
-| 34 | [#TuMeraSongOutNow](http://twitter.com/search?q=%23TuMeraSongOutNow) | N/A |
-| 35 | [#आदिवासी_विरोधी_कांग्रेस_जयस](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%80_%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80_%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8_%e0%a4%9c%e0%a4%af%e0%a4%b8) | N/A |
-| 36 | [#aadhamainaadhivosongoutnow](http://twitter.com/search?q=%23aadhamainaadhivosongoutnow) | N/A |
-| 37 | [#NDDBPoliticsWithMotherDairy](http://twitter.com/search?q=%23NDDBPoliticsWithMotherDairy) | N/A |
-| 38 | [#ICCRankings](http://twitter.com/search?q=%23ICCRankings) | N/A |
-| 39 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
-| 40 | [#AnpadhKejriwal](http://twitter.com/search?q=%23AnpadhKejriwal) | N/A |
-| 41 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
-| 42 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 43 | [#AliaBhatt](http://twitter.com/search?q=%23AliaBhatt) | N/A |
-| 44 | [#GalaxyS23giveaway](http://twitter.com/search?q=%23GalaxyS23giveaway) | N/A |
-| 45 | [#CustodyTeaser](http://twitter.com/search?q=%23CustodyTeaser) | N/A |
-| 46 | [#Mor_Awas_Mor_Adhikar](http://twitter.com/search?q=%23Mor_Awas_Mor_Adhikar) | N/A |
-| 47 | [#વીરાંજલિ](http://twitter.com/search?q=%23%e0%aa%b5%e0%ab%80%e0%aa%b0%e0%aa%be%e0%aa%82%e0%aa%9c%e0%aa%b2%e0%aa%bf) | N/A |
-| 48 | [#ImranKhanArrest](http://twitter.com/search?q=%23ImranKhanArrest) | N/A |
-| 49 | [#Chandramukhi2](http://twitter.com/search?q=%23Chandramukhi2) | N/A |
+| 27 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
+| 28 | [#AICCMinorityDept](http://twitter.com/search?q=%23AICCMinorityDept) | N/A |
+| 29 | [#KazhuvethiMoorkkan](http://twitter.com/search?q=%23KazhuvethiMoorkkan) | N/A |
+| 30 | [#TuMeraSongOutNow](http://twitter.com/search?q=%23TuMeraSongOutNow) | N/A |
+| 31 | [#आदिवासी_विरोधी_कांग्रेस_जयस](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%80_%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80_%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8_%e0%a4%9c%e0%a4%af%e0%a4%b8) | N/A |
+| 32 | [#ICCRankings](http://twitter.com/search?q=%23ICCRankings) | N/A |
+| 33 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
+| 34 | [#AadhaMainAadhiVoSongOutNow](http://twitter.com/search?q=%23AadhaMainAadhiVoSongOutNow) | N/A |
+| 35 | [#AliaBhatt](http://twitter.com/search?q=%23AliaBhatt) | N/A |
+| 36 | [#વીરાંજલિ](http://twitter.com/search?q=%23%e0%aa%b5%e0%ab%80%e0%aa%b0%e0%aa%be%e0%aa%82%e0%aa%9c%e0%aa%b2%e0%aa%bf) | N/A |
+| 37 | [#CustodyTeaser](http://twitter.com/search?q=%23CustodyTeaser) | N/A |
+| 38 | [#GalaxyS23giveaway](http://twitter.com/search?q=%23GalaxyS23giveaway) | N/A |
+| 39 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 40 | [#Chandramukhi2](http://twitter.com/search?q=%23Chandramukhi2) | N/A |
+| 41 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
+| 42 | [#Pakistan](http://twitter.com/search?q=%23Pakistan) | N/A |
+| 43 | [#AnpadhKejriwal](http://twitter.com/search?q=%23AnpadhKejriwal) | N/A |
+| 44 | [#RaghavaLawrence](http://twitter.com/search?q=%23RaghavaLawrence) | N/A |
+| 45 | [#Saveosholegacy](http://twitter.com/search?q=%23Saveosholegacy) | N/A |
+| 46 | [#RahulDramaBandKar](http://twitter.com/search?q=%23RahulDramaBandKar) | N/A |
+| 47 | [#RavanasuraOnApril7](http://twitter.com/search?q=%23RavanasuraOnApril7) | N/A |
+| 48 | [#Mor_Awas_Mor_Adhikar](http://twitter.com/search?q=%23Mor_Awas_Mor_Adhikar) | N/A |
+| 49 | [#KanganaRanaut](http://twitter.com/search?q=%23KanganaRanaut) | N/A |
 
 
 

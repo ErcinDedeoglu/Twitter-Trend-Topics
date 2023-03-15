@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-15 12:19:05 UTC`
+📆 Last Updated: `2023-03-15 13:21:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 2 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 3 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 4 | [#ShopSmartCookSavvy](http://twitter.com/search?q=%23ShopSmartCookSavvy) | N/A |
-| 5 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
-| 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 7 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 8 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 9 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
-| 10 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 11 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
-| 12 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 13 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 14 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 15 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 16 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 17 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 18 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
-| 19 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 20 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
-| 21 | [HMS Seahorse](http://twitter.com/search?q=HMS+Seahorse) | N/A |
-| 22 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
-| 23 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 24 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
-| 25 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 26 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 27 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
-| 28 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 29 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 30 | [Solly](http://twitter.com/search?q=Solly) | N/A |
-| 31 | [Corporation Tax](http://twitter.com/search?q=Corporation+Tax) | N/A |
-| 32 | [daily quordle 415](http://twitter.com/search?q=daily+quordle+415) | N/A |
-| 33 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
-| 34 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 35 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 36 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 37 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
-| 38 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
-| 39 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 40 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 41 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 42 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 43 | [Carol Vorderman](http://twitter.com/search?q=Carol+Vorderman) | N/A |
-| 44 | [Wriggle](http://twitter.com/search?q=Wriggle) | N/A |
-| 45 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 46 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 47 | [#KeepBBCLocalRadioLocal](http://twitter.com/search?q=%23KeepBBCLocalRadioLocal) | N/A |
-| 48 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 49 | [#teacherstrike](http://twitter.com/search?q=%23teacherstrike) | N/A |
-| 50 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
+| 2 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 3 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 5 | [#ucurising](http://twitter.com/search?q=%23ucurising) | N/A |
+| 6 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
+| 7 | [Great British Nuclear](http://twitter.com/search?q=Great+British+Nuclear) | N/A |
+| 8 | [#ShopSmartCookSavvy](http://twitter.com/search?q=%23ShopSmartCookSavvy) | N/A |
+| 9 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 10 | [Canary Wharfs](http://twitter.com/search?q=Canary+Wharfs) | N/A |
+| 11 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
+| 12 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 13 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 14 | [Stabilised](http://twitter.com/search?q=Stabilised) | N/A |
+| 15 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
+| 16 | [Investment Zones](http://twitter.com/search?q=Investment+Zones) | N/A |
+| 17 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 18 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
+| 19 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
+| 20 | [Boxxer](http://twitter.com/search?q=Boxxer) | N/A |
+| 21 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
+| 22 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
+| 23 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
+| 24 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 25 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 26 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 27 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
+| 28 | [Corporation Tax](http://twitter.com/search?q=Corporation+Tax) | N/A |
+| 29 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 30 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 31 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 32 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 33 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
+| 34 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 35 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 36 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 37 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 38 | [downing street](http://twitter.com/search?q=downing+street) | N/A |
+| 39 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 40 | [armada way](http://twitter.com/search?q=armada+way) | N/A |
+| 41 | [HMS Seahorse](http://twitter.com/search?q=HMS+Seahorse) | N/A |
+| 42 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 43 | [Solly](http://twitter.com/search?q=Solly) | N/A |
+| 44 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 45 | [Trees](http://twitter.com/search?q=Trees) | N/A |
+| 46 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 47 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
+| 48 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
+| 49 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 50 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
 
 
 

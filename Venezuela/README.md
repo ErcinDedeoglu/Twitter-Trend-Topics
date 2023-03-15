@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-15 12:19:06 UTC`
+📆 Last Updated: `2023-03-15 13:21:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Venezuela
 | ------- | ------------ | ------------ |
 | 1 | [#15Mar](http://twitter.com/search?q=%2315Mar) | N/A |
 | 2 | [#ChávezHechoMillones](http://twitter.com/search?q=%23Ch%c3%a1vezHechoMillones) | N/A |
-| 3 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 4 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 6 | [Saime](http://twitter.com/search?q=Saime) | N/A |
-| 7 | [Luis Beltrán Prieto Figueroa](http://twitter.com/search?q=Luis+Beltr%c3%a1n+Prieto+Figueroa) | N/A |
-| 8 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 10 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 11 | [Cayena](http://twitter.com/search?q=Cayena) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [#ExpoFomentaPymesBR](http://twitter.com/search?q=%23ExpoFomentaPymesBR) | N/A |
-| 14 | [Eduardo Rodríguez](http://twitter.com/search?q=Eduardo+Rodr%c3%adguez) | N/A |
-| 15 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 16 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
-| 17 | [carlos hernández](http://twitter.com/search?q=carlos+hern%c3%a1ndez) | N/A |
-| 18 | [Chicha](http://twitter.com/search?q=Chicha) | N/A |
-| 19 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 20 | [ganó venezuela](http://twitter.com/search?q=gan%c3%b3+venezuela) | N/A |
-| 21 | [Alma Llanera](http://twitter.com/search?q=Alma+Llanera) | N/A |
-| 22 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 23 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 24 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
-| 25 | [Aran](http://twitter.com/search?q=Aran) | N/A |
-| 26 | [josé ruiz](http://twitter.com/search?q=jos%c3%a9+ruiz) | N/A |
-| 27 | [quijada](http://twitter.com/search?q=quijada) | N/A |
-| 28 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 29 | [Pedro Elías Gutiérrez](http://twitter.com/search?q=Pedro+El%c3%adas+Guti%c3%a9rrez) | N/A |
-| 30 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 31 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 32 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 33 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 3 | [#chávezantiimperialista](http://twitter.com/search?q=%23ch%c3%a1vezantiimperialista) | N/A |
+| 4 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 5 | [Saime](http://twitter.com/search?q=Saime) | N/A |
+| 6 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 8 | [Luis Beltrán Prieto Figueroa](http://twitter.com/search?q=Luis+Beltr%c3%a1n+Prieto+Figueroa) | N/A |
+| 9 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 11 | [Juan Bautista Arismendi](http://twitter.com/search?q=Juan+Bautista+Arismendi) | N/A |
+| 12 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 13 | [Bien de Interés Cultural](http://twitter.com/search?q=Bien+de+Inter%c3%a9s+Cultural) | N/A |
+| 14 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
+| 15 | [carlos hernández](http://twitter.com/search?q=carlos+hern%c3%a1ndez) | N/A |
+| 16 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 17 | [alma llanera](http://twitter.com/search?q=alma+llanera) | N/A |
+| 18 | [Cayena](http://twitter.com/search?q=Cayena) | N/A |
+| 19 | [El 15](http://twitter.com/search?q=El+15) | N/A |
+| 20 | [Eugenio Suárez](http://twitter.com/search?q=Eugenio+Su%c3%a1rez) | N/A |
+| 21 | [Eduardo Rodríguez](http://twitter.com/search?q=Eduardo+Rodr%c3%adguez) | N/A |
+| 22 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
+| 23 | [josé ruiz](http://twitter.com/search?q=jos%c3%a9+ruiz) | N/A |
+| 24 | [Aran](http://twitter.com/search?q=Aran) | N/A |
+| 25 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 26 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 27 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
+| 28 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 29 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 30 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 31 | [Erika](http://twitter.com/search?q=Erika) | N/A |
+| 32 | [Pedro Elías Gutiérrez](http://twitter.com/search?q=Pedro+El%c3%adas+Guti%c3%a9rrez) | N/A |
+| 33 | [ganó venezuela](http://twitter.com/search?q=gan%c3%b3+venezuela) | N/A |
 | 34 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 35 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
-| 36 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
-| 37 | [Alegría](http://twitter.com/search?q=Alegr%c3%ada) | N/A |
-| 38 | [Algodón](http://twitter.com/search?q=Algod%c3%b3n) | N/A |
-| 39 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 40 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 41 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 42 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
-| 43 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 44 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
-| 45 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 46 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 47 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 48 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
-| 49 | [Rin Tin Tin](http://twitter.com/search?q=Rin+Tin+Tin) | N/A |
-| 50 | [Erika](http://twitter.com/search?q=Erika) | N/A |
+| 35 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
+| 38 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 39 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 40 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 41 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
+| 42 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 43 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 44 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 45 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 46 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 47 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
+| 48 | [Chicha](http://twitter.com/search?q=Chicha) | N/A |
+| 49 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 50 | [Algodón](http://twitter.com/search?q=Algod%c3%b3n) | N/A |
 
 
 

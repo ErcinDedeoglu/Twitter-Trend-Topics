@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-15 12:18:16 UTC`
+📆 Last Updated: `2023-03-15 13:20:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#PortoInter](http://twitter.com/search?q=%23PortoInter) | N/A |
 | 2 | [#15marzo](http://twitter.com/search?q=%2315marzo) | N/A |
 | 3 | [#Anastasio](http://twitter.com/search?q=%23Anastasio) | N/A |
-| 4 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
-| 5 | [#Haaland](http://twitter.com/search?q=%23Haaland) | N/A |
-| 6 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 7 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 8 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
+| 4 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 5 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
+| 6 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
+| 7 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
+| 8 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
 | 9 | [Mar Nero](http://twitter.com/search?q=Mar+Nero) | N/A |
-| 10 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 11 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
-| 12 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 13 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 14 | [Heather Parisi](http://twitter.com/search?q=Heather+Parisi) | N/A |
-| 15 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 16 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 17 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 18 | [Bergomi](http://twitter.com/search?q=Bergomi) | N/A |
-| 19 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 20 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
+| 10 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 11 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 12 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
+| 13 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 14 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 15 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 16 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 17 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 18 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 19 | [un ricordo per lulù](http://twitter.com/search?q=un+ricordo+per+lul%c3%b9) | N/A |
+| 20 | [Bergomi](http://twitter.com/search?q=Bergomi) | N/A |
 | 21 | [Duce](http://twitter.com/search?q=Duce) | N/A |
-| 22 | [Concita De Gregorio](http://twitter.com/search?q=Concita+De+Gregorio) | N/A |
-| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 24 | [un ricordo per lulù](http://twitter.com/search?q=un+ricordo+per+lul%c3%b9) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
-| 27 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 28 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
-| 29 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 30 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 31 | [Lipsia](http://twitter.com/search?q=Lipsia) | N/A |
-| 32 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 33 | [Garko](http://twitter.com/search?q=Garko) | N/A |
-| 34 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 35 | [Pierluigi Concutelli](http://twitter.com/search?q=Pierluigi+Concutelli) | N/A |
-| 36 | [Asfalta](http://twitter.com/search?q=Asfalta) | N/A |
-| 37 | [Auguri Paul](http://twitter.com/search?q=Auguri+Paul) | N/A |
-| 38 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 39 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 40 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 41 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 42 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 43 | [Trevisani](http://twitter.com/search?q=Trevisani) | N/A |
-| 44 | [Fattorini](http://twitter.com/search?q=Fattorini) | N/A |
-| 45 | [La UE](http://twitter.com/search?q=La+UE) | N/A |
-| 46 | [Bibbiano](http://twitter.com/search?q=Bibbiano) | N/A |
-| 47 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 48 | [Scanzi](http://twitter.com/search?q=Scanzi) | N/A |
-| 49 | [Jacqueline](http://twitter.com/search?q=Jacqueline) | Jacqueline is a French feminine given name. It is derived from the Hebrew name Ya'aqov, meaning "may God protect". In English, it is usually translated as "supplanter" or "one who supplants". |
-| 50 | [Andre](http://twitter.com/search?q=Andre) | N/A |
+| 22 | [Heather Parisi](http://twitter.com/search?q=Heather+Parisi) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 25 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 26 | [Concita De Gregorio](http://twitter.com/search?q=Concita+De+Gregorio) | N/A |
+| 27 | [brooke](http://twitter.com/search?q=brooke) | N/A |
+| 28 | [Libia](http://twitter.com/search?q=Libia) | N/A |
+| 29 | [Garko](http://twitter.com/search?q=Garko) | N/A |
+| 30 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 31 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
+| 32 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 33 | [Asfalta](http://twitter.com/search?q=Asfalta) | N/A |
+| 34 | [Brusaferro](http://twitter.com/search?q=Brusaferro) | N/A |
+| 35 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
+| 36 | [Bambini](http://twitter.com/search?q=Bambini) | N/A |
+| 37 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 38 | [Auguri Paul](http://twitter.com/search?q=Auguri+Paul) | N/A |
+| 39 | [D'Ambrosio](http://twitter.com/search?q=D%27Ambrosio) | N/A |
+| 40 | [Lipsia](http://twitter.com/search?q=Lipsia) | N/A |
+| 41 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
+| 42 | [Zhang](http://twitter.com/search?q=Zhang) | N/A |
+| 43 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 44 | [Il 15](http://twitter.com/search?q=Il+15) | N/A |
+| 45 | [Nobili](http://twitter.com/search?q=Nobili) | N/A |
+| 46 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 47 | [Bibbiano](http://twitter.com/search?q=Bibbiano) | N/A |
+| 48 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
+| 49 | [Diritti](http://twitter.com/search?q=Diritti) | N/A |
+| 50 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
 
 
 

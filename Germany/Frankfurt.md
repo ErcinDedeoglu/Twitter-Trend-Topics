@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-15 12:18:14 UTC`
+📆 Last Updated: `2023-03-15 13:20:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,47 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 2 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 4 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 5 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 9 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 10 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 11 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 12 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 13 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 14 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 15 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 16 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 17 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 18 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 19 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 20 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 21 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 22 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 23 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 24 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 25 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 26 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 27 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 28 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 29 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 30 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 31 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 32 | [Brie](http://twitter.com/search?q=Brie) | N/A |
-| 33 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
-| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 35 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 36 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 37 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 38 | [Skier](http://twitter.com/search?q=Skier) | N/A |
-| 39 | [einrad](http://twitter.com/search?q=einrad) | N/A |
-| 40 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
-| 41 | [Mobbing](http://twitter.com/search?q=Mobbing) | N/A |
-| 42 | [RTL II](http://twitter.com/search?q=RTL+II) | N/A |
-| 43 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 44 | [Hannah Arendt](http://twitter.com/search?q=Hannah+Arendt) | N/A |
-| 45 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 46 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 47 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 48 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 1 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
+| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 3 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 4 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 5 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 6 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
+| 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 8 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 9 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 10 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 11 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 12 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 13 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 14 | [Doku](http://twitter.com/search?q=Doku) | N/A |
+| 15 | [Telegram-Kanal](http://twitter.com/search?q=Telegram-Kanal) | N/A |
+| 16 | [Wartezeit](http://twitter.com/search?q=Wartezeit) | N/A |
+| 17 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 18 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 19 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
+| 20 | [Code](http://twitter.com/search?q=Code) | N/A |
+| 21 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 22 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 23 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 24 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 25 | [Cancel Culture](http://twitter.com/search?q=Cancel+Culture) | N/A |
+| 26 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 27 | [#EntkriminalisierungSofort](http://twitter.com/search?q=%23EntkriminalisierungSofort) | N/A |
+| 28 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
+| 29 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 30 | [#Klimaziele](http://twitter.com/search?q=%23Klimaziele) | N/A |
+| 31 | [#MECFS](http://twitter.com/search?q=%23MECFS) | N/A |
+| 32 | [#Verkehr](http://twitter.com/search?q=%23Verkehr) | N/A |
+| 33 | [#PickMEupBettina](http://twitter.com/search?q=%23PickMEupBettina) | N/A |
+| 34 | [#DEXIT](http://twitter.com/search?q=%23DEXIT) | N/A |
+| 35 | [#GrueneInkompetenz](http://twitter.com/search?q=%23GrueneInkompetenz) | N/A |
+| 36 | [#Polizeigewalt](http://twitter.com/search?q=%23Polizeigewalt) | N/A |
+| 37 | [#Weedmob](http://twitter.com/search?q=%23Weedmob) | N/A |
+| 38 | [#PostVac](http://twitter.com/search?q=%23PostVac) | N/A |
+| 39 | [#Bundestag](http://twitter.com/search?q=%23Bundestag) | N/A |
+| 40 | [#GrueneRausausdenParlamenten](http://twitter.com/search?q=%23GrueneRausausdenParlamenten) | N/A |
+| 41 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
 
 
 

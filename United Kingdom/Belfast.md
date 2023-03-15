@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-15 12:18:00 UTC`
+📆 Last Updated: `2023-03-15 13:20:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 3 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 4 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
-| 5 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
+| 2 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 3 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 5 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
 | 6 | [#ShopSmartCookSavvy](http://twitter.com/search?q=%23ShopSmartCookSavvy) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 8 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 9 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
-| 10 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 11 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 12 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 13 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 14 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 15 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 16 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
-| 17 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
-| 18 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 19 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 20 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
-| 21 | [HMS Seahorse](http://twitter.com/search?q=HMS+Seahorse) | N/A |
-| 22 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 23 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 24 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 25 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 26 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
-| 27 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 28 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
-| 29 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 31 | [Corporation Tax](http://twitter.com/search?q=Corporation+Tax) | N/A |
-| 32 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
-| 33 | [Solly](http://twitter.com/search?q=Solly) | N/A |
-| 34 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 35 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 36 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 37 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
-| 38 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
-| 39 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 40 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 41 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 42 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 43 | [Carol Vorderman](http://twitter.com/search?q=Carol+Vorderman) | N/A |
-| 44 | [Wriggle](http://twitter.com/search?q=Wriggle) | N/A |
-| 45 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 46 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 47 | [#KeepBBCLocalRadioLocal](http://twitter.com/search?q=%23KeepBBCLocalRadioLocal) | N/A |
-| 48 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 49 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 7 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
+| 8 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 9 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
+| 10 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 11 | [Investment Zones](http://twitter.com/search?q=Investment+Zones) | N/A |
+| 12 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
+| 13 | [Stabilised](http://twitter.com/search?q=Stabilised) | N/A |
+| 14 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 15 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 16 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
+| 17 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
+| 18 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
+| 19 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
+| 20 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
+| 21 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 22 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 23 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 24 | [Canary Wharf](http://twitter.com/search?q=Canary+Wharf) | N/A |
+| 25 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
+| 26 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 27 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 28 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 29 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 30 | [Corporation Tax](http://twitter.com/search?q=Corporation+Tax) | N/A |
+| 31 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 32 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
+| 33 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 34 | [HMS Seahorse](http://twitter.com/search?q=HMS+Seahorse) | N/A |
+| 35 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 36 | [Armada Way](http://twitter.com/search?q=Armada+Way) | N/A |
+| 37 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 38 | [Solly](http://twitter.com/search?q=Solly) | N/A |
+| 39 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 40 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 41 | [Trees](http://twitter.com/search?q=Trees) | N/A |
+| 42 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
+| 43 | [Davidson](http://twitter.com/search?q=Davidson) | N/A |
+| 44 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 45 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
+| 46 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
+| 47 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 48 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 49 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
 
 
 
