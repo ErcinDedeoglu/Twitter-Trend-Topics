@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-15 11:17:36 UTC`
+📆 Last Updated: `2023-03-15 12:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Belgium
 | 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 2 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 3 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 4 | [#EPBD](http://twitter.com/search?q=%23EPBD) | N/A |
 | 5 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 6 | [#EPBD](http://twitter.com/search?q=%23EPBD) | N/A |
-| 7 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 9 | [#BM100](http://twitter.com/search?q=%23BM100) | N/A |
-| 10 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 11 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 12 | [#FitFor55](http://twitter.com/search?q=%23FitFor55) | N/A |
-| 13 | [Sanda Dia](http://twitter.com/search?q=Sanda+Dia) | N/A |
-| 14 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 15 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 16 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 17 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 18 | [Oprechte](http://twitter.com/search?q=Oprechte) | N/A |
-| 19 | [MEPs](http://twitter.com/search?q=MEPs) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 22 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 23 | [Kevin De Bruyne](http://twitter.com/search?q=Kevin+De+Bruyne) | N/A |
-| 24 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
-| 25 | [Mary](http://twitter.com/search?q=Mary) | N/A |
-| 26 | [De Standaard](http://twitter.com/search?q=De+Standaard) | N/A |
-| 27 | [Tunesië](http://twitter.com/search?q=Tunesi%c3%ab) | N/A |
-| 28 | [Data Act](http://twitter.com/search?q=Data+Act) | N/A |
-| 29 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 30 | [Centre](http://twitter.com/search?q=Centre) | N/A |
+| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 7 | [#BM100](http://twitter.com/search?q=%23BM100) | N/A |
+| 8 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 9 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 10 | [#tettnvoortoine](http://twitter.com/search?q=%23tettnvoortoine) | N/A |
+| 11 | [Sanda Dia](http://twitter.com/search?q=Sanda+Dia) | N/A |
+| 12 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 13 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 15 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 16 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 17 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 18 | [MEPs](http://twitter.com/search?q=MEPs) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Innige](http://twitter.com/search?q=Innige) | N/A |
+| 21 | [KEVIN DE BRUYNE](http://twitter.com/search?q=KEVIN+DE+BRUYNE) | N/A |
+| 22 | [De Standaard](http://twitter.com/search?q=De+Standaard) | N/A |
+| 23 | [Oprechte](http://twitter.com/search?q=Oprechte) | N/A |
+| 24 | [Commission](http://twitter.com/search?q=Commission) | N/A |
+| 25 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
+| 26 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 28 | [Tunesië](http://twitter.com/search?q=Tunesi%c3%ab) | N/A |
+| 29 | [Data Act](http://twitter.com/search?q=Data+Act) | N/A |
+| 30 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
 | 31 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
 | 32 | [🇪🇺](http://twitter.com/search?q=%f0%9f%87%aa%f0%9f%87%ba) | N/A |
 | 33 | [Eden](http://twitter.com/search?q=Eden) | N/A |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 35 | [Commission](http://twitter.com/search?q=Commission) | N/A |
-| 36 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 37 | [Reuzegommers](http://twitter.com/search?q=Reuzegommers) | N/A |
-| 38 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 39 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 40 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
-| 41 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 42 | [Gelukkige](http://twitter.com/search?q=Gelukkige) | N/A |
-| 43 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 44 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
-| 45 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 46 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 47 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 48 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 49 | [Carrément](http://twitter.com/search?q=Carr%c3%a9ment) | N/A |
-| 50 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 34 | [Gelukkige](http://twitter.com/search?q=Gelukkige) | N/A |
+| 35 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 36 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
+| 37 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 38 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 39 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 40 | [Sterkte](http://twitter.com/search?q=Sterkte) | N/A |
+| 41 | [Reuzegommers](http://twitter.com/search?q=Reuzegommers) | N/A |
+| 42 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
+| 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 44 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 45 | [Carrément](http://twitter.com/search?q=Carr%c3%a9ment) | N/A |
+| 46 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 47 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 48 | [stib](http://twitter.com/search?q=stib) | N/A |
+| 49 | [willem engel](http://twitter.com/search?q=willem+engel) | N/A |
+| 50 | [Michel](http://twitter.com/search?q=Michel) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-15 11:17:29 UTC`
+📆 Last Updated: `2023-03-15 12:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Byron Murphy](http://twitter.com/search?q=Byron+Murphy) | N/A |
 | 2 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 3 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
+| 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 5 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 7 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 9 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 10 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
-| 11 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 12 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 13 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 14 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 15 | [Coruscant](http://twitter.com/search?q=Coruscant) | N/A |
-| 16 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 17 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 18 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
-| 19 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 20 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 21 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 5 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
+| 6 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 9 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 11 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 12 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
+| 13 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 14 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 15 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
+| 16 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 17 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 18 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 19 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
+| 20 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
+| 21 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
 | 22 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 23 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 23 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
 | 24 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 25 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 26 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 27 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 28 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 29 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 30 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 31 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 32 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
-| 33 | [Unconstitutional](http://twitter.com/search?q=Unconstitutional) | N/A |
-| 34 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
-| 35 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 36 | [Anonymous](http://twitter.com/search?q=Anonymous) | N/A |
-| 37 | [Deuce](http://twitter.com/search?q=Deuce) | N/A |
+| 25 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 26 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 27 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 28 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 29 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 30 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 31 | [Anonymous](http://twitter.com/search?q=Anonymous) | N/A |
+| 32 | [Assault](http://twitter.com/search?q=Assault) | N/A |
+| 33 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 34 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 35 | [Background](http://twitter.com/search?q=Background) | N/A |
+| 36 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 37 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
 | 38 | [Trunk](http://twitter.com/search?q=Trunk) | N/A |
-| 39 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 40 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 41 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 42 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
-| 43 | [Tales](http://twitter.com/search?q=Tales) | N/A |
-| 44 | [Jesse Singal](http://twitter.com/search?q=Jesse+Singal) | N/A |
-| 45 | [Background](http://twitter.com/search?q=Background) | N/A |
-| 46 | [Gate](http://twitter.com/search?q=Gate) | N/A |
-| 47 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 48 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
+| 39 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 40 | [Unconstitutional](http://twitter.com/search?q=Unconstitutional) | N/A |
+| 41 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
+| 42 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
+| 43 | [Trump or DeSantis](http://twitter.com/search?q=Trump+or+DeSantis) | N/A |
+| 44 | [Deuce](http://twitter.com/search?q=Deuce) | N/A |
+| 45 | [#WhiskersWednesday](http://twitter.com/search?q=%23WhiskersWednesday) | N/A |
+| 46 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 47 | [#Qatar](http://twitter.com/search?q=%23Qatar) | N/A |
+| 48 | [#GivingBlueday](http://twitter.com/search?q=%23GivingBlueday) | N/A |
 
 
 

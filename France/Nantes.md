@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-15 11:16:50 UTC`
+📆 Last Updated: `2023-03-15 12:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [France](</France>)
 | 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 2 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
 | 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 4 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 4 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
 | 5 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 7 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
@@ -28,41 +28,41 @@ This is top 50 for [France](</France>)
 | 11 | [Seine](http://twitter.com/search?q=Seine) | N/A |
 | 12 | [Werner](http://twitter.com/search?q=Werner) | N/A |
 | 13 | [Sophia Aram](http://twitter.com/search?q=Sophia+Aram) | N/A |
-| 14 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 15 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 16 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 17 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 18 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
-| 19 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 20 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 21 | [Roland Garros](http://twitter.com/search?q=Roland+Garros) | N/A |
+| 14 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
+| 15 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 16 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 17 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
+| 18 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
+| 19 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 20 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
+| 21 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
 | 22 | [J-500](http://twitter.com/search?q=J-500) | N/A |
-| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 24 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 25 | [Noire](http://twitter.com/search?q=Noire) | N/A |
-| 26 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
-| 27 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
-| 28 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 29 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
-| 30 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
-| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 32 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
-| 33 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 34 | [Bourse de Paris](http://twitter.com/search?q=Bourse+de+Paris) | N/A |
-| 35 | [jérôme commandeur](http://twitter.com/search?q=j%c3%a9r%c3%b4me+commandeur) | N/A |
-| 36 | [florence foresti](http://twitter.com/search?q=florence+foresti) | N/A |
-| 37 | [Quintuplé](http://twitter.com/search?q=Quintupl%c3%a9) | N/A |
-| 38 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 39 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 40 | [Disiz](http://twitter.com/search?q=Disiz) | N/A |
-| 41 | [Ingénieur](http://twitter.com/search?q=Ing%c3%a9nieur) | N/A |
+| 23 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 25 | [élodie](http://twitter.com/search?q=%c3%a9lodie) | N/A |
+| 26 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 27 | [Bourse de Paris](http://twitter.com/search?q=Bourse+de+Paris) | N/A |
+| 28 | [Noire](http://twitter.com/search?q=Noire) | N/A |
+| 29 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 30 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
+| 31 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
+| 32 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
+| 33 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
+| 34 | [Disiz](http://twitter.com/search?q=Disiz) | N/A |
+| 35 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 38 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 39 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 40 | [jérôme commandeur](http://twitter.com/search?q=j%c3%a9r%c3%b4me+commandeur) | N/A |
+| 41 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
 | 42 | [Parisiens](http://twitter.com/search?q=Parisiens) | N/A |
-| 43 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 43 | [Quintuplé](http://twitter.com/search?q=Quintupl%c3%a9) | N/A |
 | 44 | [Havre](http://twitter.com/search?q=Havre) | N/A |
-| 45 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 46 | [patrick pesnot](http://twitter.com/search?q=patrick+pesnot) | N/A |
-| 47 | [Rachida](http://twitter.com/search?q=Rachida) | N/A |
-| 48 | [Attali](http://twitter.com/search?q=Attali) | N/A |
+| 45 | [SHAMAN KING FLOWERS](http://twitter.com/search?q=SHAMAN+KING+FLOWERS) | N/A |
+| 46 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 47 | [florence foresti](http://twitter.com/search?q=florence+foresti) | N/A |
+| 48 | [Ingénieur](http://twitter.com/search?q=Ing%c3%a9nieur) | N/A |
 
 
 

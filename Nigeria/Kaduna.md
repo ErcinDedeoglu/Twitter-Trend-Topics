@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-15 11:17:10 UTC`
+📆 Last Updated: `2023-03-15 12:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Toni Tones](http://twitter.com/search?q=Toni+Tones) | Toni Tones is the stage name of Nigerian singer, songwriter, and producer, Atim Ukoh. Her music is a blend of Afro-pop, R&B, and soul. The name "Toni Tones" is derived from her real name Atim and her love for music. In English, it means "Atim's musical tones". |
-| 2 | [#itelCelebratesMum](http://twitter.com/search?q=%23itelCelebratesMum) | N/A |
-| 3 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
-| 4 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
-| 5 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
-| 6 | [#kibe](http://twitter.com/search?q=%23kibe) | N/A |
-| 7 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
-| 8 | [Baddo](http://twitter.com/search?q=Baddo) | N/A |
-| 9 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
-| 10 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 11 | [RIDING WITH PHYNA](http://twitter.com/search?q=RIDING+WITH+PHYNA) | N/A |
-| 12 | [SUGARCOAT PHYNA](http://twitter.com/search?q=SUGARCOAT+PHYNA) | N/A |
-| 13 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
-| 14 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 15 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
-| 16 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 17 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
-| 18 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 19 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 20 | [Ajimobi](http://twitter.com/search?q=Ajimobi) | N/A |
+| 1 | [#TryMyJobwithOlah](http://twitter.com/search?q=%23TryMyJobwithOlah) | N/A |
+| 2 | [Toni Tones](http://twitter.com/search?q=Toni+Tones) | Toni Tones is the stage name of Nigerian singer, songwriter, and producer, Atim Ukoh. Her music is a blend of Afro-pop, R&B, and soul. The name "Toni Tones" is derived from her real name Atim and her love for music. In English, it means "Atim's musical tones". |
+| 3 | [#SPARK10Pro](http://twitter.com/search?q=%23SPARK10Pro) | N/A |
+| 4 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
+| 5 | [#itelCelebratesMum](http://twitter.com/search?q=%23itelCelebratesMum) | N/A |
+| 6 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
+| 7 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
+| 8 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
+| 9 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 10 | [Baddo](http://twitter.com/search?q=Baddo) | N/A |
+| 11 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
+| 12 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
+| 13 | [SUGARCOAT PHYNA](http://twitter.com/search?q=SUGARCOAT+PHYNA) | N/A |
+| 14 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
+| 15 | [RIDING WITH PHYNA](http://twitter.com/search?q=RIDING+WITH+PHYNA) | N/A |
+| 16 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 17 | [Lege](http://twitter.com/search?q=Lege) | N/A |
+| 18 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 19 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 20 | [Grace](http://twitter.com/search?q=Grace) | N/A |
 | 21 | [The British](http://twitter.com/search?q=The+British) | N/A |
-| 22 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 23 | [Mike Igini](http://twitter.com/search?q=Mike+Igini) | N/A |
-| 24 | [Adekunle Gold](http://twitter.com/search?q=Adekunle+Gold) | N/A |
+| 22 | [Funke](http://twitter.com/search?q=Funke) | N/A |
+| 23 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 24 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 25 | [Zino](http://twitter.com/search?q=Zino) | N/A |
-| 26 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 27 | [The God](http://twitter.com/search?q=The+God) | N/A |
-| 28 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
-| 29 | [Clout](http://twitter.com/search?q=Clout) | N/A |
-| 30 | [Sabinus](http://twitter.com/search?q=Sabinus) | N/A |
-| 31 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 32 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
-| 33 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 34 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 35 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
-| 36 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 37 | [Access Bank](http://twitter.com/search?q=Access+Bank) | N/A |
-| 38 | [Benz](http://twitter.com/search?q=Benz) | N/A |
-| 39 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 40 | [#GoBawaGo](http://twitter.com/search?q=%23GoBawaGo) | N/A |
-| 41 | [#Reno8T](http://twitter.com/search?q=%23Reno8T) | N/A |
-| 42 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 43 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 44 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
-| 45 | [#Phyna𓃰](http://twitter.com/search?q=%23Phyna%f0%93%83%b0) | N/A |
-| 46 | [#NLPWithPastorBolaji](http://twitter.com/search?q=%23NLPWithPastorBolaji) | N/A |
+| 26 | [Ajimobi](http://twitter.com/search?q=Ajimobi) | N/A |
+| 27 | [Admin](http://twitter.com/search?q=Admin) | N/A |
+| 28 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 29 | [Adekunle Gold](http://twitter.com/search?q=Adekunle+Gold) | N/A |
+| 30 | [Mike Igini](http://twitter.com/search?q=Mike+Igini) | N/A |
+| 31 | [Oyetola](http://twitter.com/search?q=Oyetola) | Oyetola is a Yoruba name which means "God has done it". It is a popular name in Nigeria and other West African countries. |
+| 32 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
+| 33 | [2pac](http://twitter.com/search?q=2pac) | N/A |
+| 34 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 35 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
+| 36 | [The God](http://twitter.com/search?q=The+God) | N/A |
+| 37 | [Sabinus](http://twitter.com/search?q=Sabinus) | N/A |
+| 38 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 39 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
+| 40 | [Clout](http://twitter.com/search?q=Clout) | N/A |
+| 41 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
+| 42 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
+| 43 | [#kibe](http://twitter.com/search?q=%23kibe) | N/A |
+| 44 | [#GoBawaGo](http://twitter.com/search?q=%23GoBawaGo) | N/A |
+| 45 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 46 | [#Reno8T](http://twitter.com/search?q=%23Reno8T) | N/A |
+| 47 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 48 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
 
 
 

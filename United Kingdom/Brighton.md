@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brighton
 
-📆 Last Updated: `2023-03-15 11:16:34 UTC`
+📆 Last Updated: `2023-03-15 12:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#advertisingallin](http://twitter.com/search?q=%23advertisingallin) | N/A |
-| 2 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 3 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
-| 4 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 5 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 6 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 7 | [#ToryLiars](http://twitter.com/search?q=%23ToryLiars) | N/A |
-| 8 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 9 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 10 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 11 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 13 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 14 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 15 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 16 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
-| 17 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 18 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
-| 19 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 20 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 21 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 22 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 23 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 24 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
-| 25 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 26 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 1 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
+| 2 | [#advertisingallin](http://twitter.com/search?q=%23advertisingallin) | N/A |
+| 3 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 4 | [Solly](http://twitter.com/search?q=Solly) | N/A |
+| 5 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 6 | [#construction](http://twitter.com/search?q=%23construction) | N/A |
+| 7 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 8 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 10 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 11 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 12 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 13 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 14 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
+| 15 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 16 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 17 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 18 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 19 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
+| 20 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 21 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 22 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 23 | [HMS Seahorse](http://twitter.com/search?q=HMS+Seahorse) | N/A |
+| 24 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 25 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 26 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
 | 27 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 28 | [HMS Seahorse](http://twitter.com/search?q=HMS+Seahorse) | N/A |
-| 29 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
-| 30 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 31 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 32 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
-| 33 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 34 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
+| 28 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
+| 29 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 30 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
+| 31 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 32 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 33 | [Corporation Tax](http://twitter.com/search?q=Corporation+Tax) | N/A |
+| 34 | [Gaelic Warrior](http://twitter.com/search?q=Gaelic+Warrior) | N/A |
 | 35 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 36 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 37 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 38 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 39 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
-| 40 | [Wriggle](http://twitter.com/search?q=Wriggle) | N/A |
-| 41 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 42 | [#BM100](http://twitter.com/search?q=%23BM100) | N/A |
-| 43 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 44 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 45 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
-| 46 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 47 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 48 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 49 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 36 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 37 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
+| 38 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
+| 39 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 40 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 41 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 42 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 43 | [Wriggle](http://twitter.com/search?q=Wriggle) | N/A |
+| 44 | [#SignLanguageWeek](http://twitter.com/search?q=%23SignLanguageWeek) | N/A |
+| 45 | [#BM100](http://twitter.com/search?q=%23BM100) | N/A |
+| 46 | [#ToryLiars](http://twitter.com/search?q=%23ToryLiars) | N/A |
+| 47 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 48 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 49 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
 
 
 

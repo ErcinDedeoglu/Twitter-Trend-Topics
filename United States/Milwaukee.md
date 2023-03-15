@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-15 11:17:29 UTC`
+📆 Last Updated: `2023-03-15 12:18:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 2 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 3 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 4 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
-| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 7 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 8 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 11 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
-| 12 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 13 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 14 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 15 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
-| 16 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 17 | [Coruscant](http://twitter.com/search?q=Coruscant) | N/A |
-| 18 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 19 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 20 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
-| 21 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 22 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 23 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 24 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 25 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 3 | [#FearTheDeer](http://twitter.com/search?q=%23FearTheDeer) | N/A |
+| 4 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 7 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
+| 8 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 9 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 10 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 11 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 12 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 13 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 14 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
+| 15 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 16 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 17 | [Seek the Lord](http://twitter.com/search?q=Seek+the+Lord) | N/A |
+| 18 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 19 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 20 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 21 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
+| 22 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
+| 23 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 24 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 25 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
 | 26 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 27 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 28 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 29 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 30 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 31 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 32 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 33 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 34 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
-| 35 | [Unconstitutional](http://twitter.com/search?q=Unconstitutional) | N/A |
-| 36 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
-| 37 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 38 | [Anonymous](http://twitter.com/search?q=Anonymous) | N/A |
-| 39 | [Deuce](http://twitter.com/search?q=Deuce) | N/A |
+| 27 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 28 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 29 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 30 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 31 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 32 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 33 | [Anonymous](http://twitter.com/search?q=Anonymous) | N/A |
+| 34 | [Assault](http://twitter.com/search?q=Assault) | N/A |
+| 35 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 36 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 37 | [Background](http://twitter.com/search?q=Background) | N/A |
+| 38 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 39 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
 | 40 | [Trunk](http://twitter.com/search?q=Trunk) | N/A |
-| 41 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 42 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 43 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 44 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
-| 45 | [Tales](http://twitter.com/search?q=Tales) | N/A |
-| 46 | [Jesse Singal](http://twitter.com/search?q=Jesse+Singal) | N/A |
-| 47 | [Background](http://twitter.com/search?q=Background) | N/A |
-| 48 | [Gate](http://twitter.com/search?q=Gate) | N/A |
-| 49 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 50 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 41 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 42 | [Unconstitutional](http://twitter.com/search?q=Unconstitutional) | N/A |
+| 43 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
+| 44 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
+| 45 | [Trump or DeSantis](http://twitter.com/search?q=Trump+or+DeSantis) | N/A |
+| 46 | [Deuce](http://twitter.com/search?q=Deuce) | N/A |
+| 47 | [#WhiskersWednesday](http://twitter.com/search?q=%23WhiskersWednesday) | N/A |
+| 48 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 49 | [#Qatar](http://twitter.com/search?q=%23Qatar) | N/A |
+| 50 | [#GivingBlueday](http://twitter.com/search?q=%23GivingBlueday) | N/A |
 
 
 

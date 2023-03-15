@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-15 11:17:38 UTC`
+📆 Last Updated: `2023-03-15 12:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,15 +16,15 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [Manuel Baldizón](http://twitter.com/search?q=Manuel+Baldiz%c3%b3n) | N/A |
+| 2 | [manuel baldizón](http://twitter.com/search?q=manuel+baldiz%c3%b3n) | N/A |
 | 3 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 4 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 5 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 9 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 10 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 7 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 8 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 10 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
 | 11 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 12 | [Hace 3](http://twitter.com/search?q=Hace+3) | N/A |
 | 13 | [talento chapín](http://twitter.com/search?q=talento+chap%c3%adn) | N/A |
@@ -38,16 +38,16 @@ This is top 50 for Guatemala
 | 21 | [Feci](http://twitter.com/search?q=Feci) | N/A |
 | 22 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
 | 23 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 24 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
-| 25 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
-| 26 | [arzú](http://twitter.com/search?q=arz%c3%ba) | N/A |
-| 27 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 28 | [roberto montoya](http://twitter.com/search?q=roberto+montoya) | N/A |
-| 29 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
-| 30 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 31 | [FCN-Nación](http://twitter.com/search?q=FCN-Naci%c3%b3n) | N/A |
-| 32 | [el tse](http://twitter.com/search?q=el+tse) | N/A |
-| 33 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 24 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
+| 25 | [arzú](http://twitter.com/search?q=arz%c3%ba) | N/A |
+| 26 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 27 | [roberto montoya](http://twitter.com/search?q=roberto+montoya) | N/A |
+| 28 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 29 | [fcn-nación](http://twitter.com/search?q=fcn-naci%c3%b3n) | N/A |
+| 30 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
+| 31 | [el tse](http://twitter.com/search?q=el+tse) | N/A |
+| 32 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 33 | [carlos pineda](http://twitter.com/search?q=carlos+pineda) | N/A |
 | 34 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 35 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 36 | [Corte Suprema de Justicia](http://twitter.com/search?q=Corte+Suprema+de+Justicia) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Guatemala
 | 39 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
 | 40 | [suchitepéquez](http://twitter.com/search?q=suchitep%c3%a9quez) | N/A |
 | 41 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 42 | [Seguramente](http://twitter.com/search?q=Seguramente) | N/A |
-| 43 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
-| 44 | [villacorta](http://twitter.com/search?q=villacorta) | N/A |
-| 45 | [totonicapán](http://twitter.com/search?q=totonicap%c3%a1n) | N/A |
-| 46 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 47 | [el mp](http://twitter.com/search?q=el+mp) | N/A |
-| 48 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 49 | [Duki](http://twitter.com/search?q=Duki) | N/A |
-| 50 | [Llévame](http://twitter.com/search?q=Ll%c3%a9vame) | N/A |
+| 42 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
+| 43 | [totonicapán](http://twitter.com/search?q=totonicap%c3%a1n) | N/A |
+| 44 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 45 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
+| 46 | [Seguramente](http://twitter.com/search?q=Seguramente) | N/A |
+| 47 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 48 | [Duki](http://twitter.com/search?q=Duki) | N/A |
+| 49 | [Llévame](http://twitter.com/search?q=Ll%c3%a9vame) | N/A |
+| 50 | [Cacif](http://twitter.com/search?q=Cacif) | N/A |
 
 
 

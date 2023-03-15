@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-15 11:17:38 UTC`
+📆 Last Updated: `2023-03-15 12:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
-| 2 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
-| 3 | [Bikin Jadi Beneran](http://twitter.com/search?q=Bikin+Jadi+Beneran) | N/A |
-| 4 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
-| 5 | [#BCAExpoversary](http://twitter.com/search?q=%23BCAExpoversary) | N/A |
-| 6 | [#PerindoTembus5Persen](http://twitter.com/search?q=%23PerindoTembus5Persen) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [#Super9en3ration](http://twitter.com/search?q=%23Super9en3ration) | N/A |
-| 9 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 10 | [indonesia kuat disegani](http://twitter.com/search?q=indonesia+kuat+disegani) | N/A |
-| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 14 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 15 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
-| 16 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 19 | [Glepung](http://twitter.com/search?q=Glepung) | N/A |
-| 20 | [Selamat 9](http://twitter.com/search?q=Selamat+9) | N/A |
-| 21 | [GIVE US IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=GIVE+US+IRENE%27S+BIRTHDAY+PARTY) | N/A |
-| 22 | [Tally](http://twitter.com/search?q=Tally) | N/A |
-| 23 | [Beli](http://twitter.com/search?q=Beli) | N/A |
-| 24 | [ARMY FOREVER BANGTAN FOREVER](http://twitter.com/search?q=ARMY+FOREVER+BANGTAN+FOREVER) | N/A |
-| 25 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 26 | [jaga sportivitas u20](http://twitter.com/search?q=jaga+sportivitas+u20) | N/A |
-| 27 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
-| 28 | [Hambalang](http://twitter.com/search?q=Hambalang) | N/A |
-| 29 | [ngaji syariah kaffah](http://twitter.com/search?q=ngaji+syariah+kaffah) | N/A |
-| 30 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 31 | [50MP Camera](http://twitter.com/search?q=50MP+Camera) | N/A |
-| 32 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 33 | [islam rahmat semesta](http://twitter.com/search?q=islam+rahmat+semesta) | N/A |
-| 34 | [Sugik](http://twitter.com/search?q=Sugik) | N/A |
-| 35 | [Cleora Beauty](http://twitter.com/search?q=Cleora+Beauty) | N/A |
-| 36 | [Bahasa](http://twitter.com/search?q=Bahasa) | N/A |
-| 37 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 38 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 39 | [PPh 21](http://twitter.com/search?q=PPh+21) | N/A |
-| 40 | [MC LEE](http://twitter.com/search?q=MC+LEE) | N/A |
-| 41 | [Sore](http://twitter.com/search?q=Sore) | N/A |
-| 42 | [NCT 2023](http://twitter.com/search?q=NCT+2023) | N/A |
-| 43 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 44 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
-| 45 | [chanwoo](http://twitter.com/search?q=chanwoo) | N/A |
-| 46 | [ijal](http://twitter.com/search?q=ijal) | N/A |
-| 47 | [Pidato AHY](http://twitter.com/search?q=Pidato+AHY) | N/A |
-| 48 | [2024 tetap pak prabowo](http://twitter.com/search?q=2024+tetap+pak+prabowo) | N/A |
-| 49 | [pilih prabowo aja](http://twitter.com/search?q=pilih+prabowo+aja) | N/A |
-| 50 | [EXO JAYA JAYA JAYA](http://twitter.com/search?q=EXO+JAYA+JAYA+JAYA) | N/A |
+| 1 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
+| 2 | [FajRi](http://twitter.com/search?q=FajRi) | FajRi is an Arabic word that means dawn or sunrise. In English, it can be used to refer to the beginning of a new day or a new era. |
+| 3 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 4 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
+| 5 | [#HAECHANxLOUISVUITTON](http://twitter.com/search?q=%23HAECHANxLOUISVUITTON) | N/A |
+| 6 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 7 | [#PerindoTembus5Persen](http://twitter.com/search?q=%23PerindoTembus5Persen) | N/A |
+| 8 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 9 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
+| 10 | [Fajar](http://twitter.com/search?q=Fajar) | Fajar is an Arabic word meaning dawn or sunrise. It is also used to refer to the first prayer of the day in Islam, which is performed just before sunrise. |
+| 11 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 12 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
+| 13 | [Soodam](http://twitter.com/search?q=Soodam) | N/A |
+| 14 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
+| 15 | [Rian](http://twitter.com/search?q=Rian) | N/A |
+| 16 | [GIVE US IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=GIVE+US+IRENE%27S+BIRTHDAY+PARTY) | N/A |
+| 17 | [Jantung](http://twitter.com/search?q=Jantung) | N/A |
+| 18 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 19 | [HUENING KAI FOR W KOREA](http://twitter.com/search?q=HUENING+KAI+FOR+W+KOREA) | N/A |
+| 20 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 21 | [Sicepat](http://twitter.com/search?q=Sicepat) | N/A |
+| 22 | [Kyuhyun](http://twitter.com/search?q=Kyuhyun) | N/A |
+| 23 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 24 | [Glepung](http://twitter.com/search?q=Glepung) | N/A |
+| 25 | [Sunda](http://twitter.com/search?q=Sunda) | N/A |
+| 26 | [Biji](http://twitter.com/search?q=Biji) | N/A |
+| 27 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
+| 28 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
+| 29 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 30 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 31 | [Hambalang](http://twitter.com/search?q=Hambalang) | N/A |
+| 32 | [5 SD](http://twitter.com/search?q=5+SD) | N/A |
+| 33 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
+| 34 | [SPT Tahunan](http://twitter.com/search?q=SPT+Tahunan) | N/A |
+| 35 | [#WeAreCules](http://twitter.com/search?q=%23WeAreCules) | N/A |
+| 36 | [#XLGames](http://twitter.com/search?q=%23XLGames) | N/A |
+| 37 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
+| 38 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
+| 39 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
+| 40 | [#super9en3ration](http://twitter.com/search?q=%23super9en3ration) | N/A |
+| 41 | [#OPPOReno8T5GdiTokopedia](http://twitter.com/search?q=%23OPPOReno8T5GdiTokopedia) | N/A |
+| 42 | [#EigerGoGlobal](http://twitter.com/search?q=%23EigerGoGlobal) | N/A |
+| 43 | [#JINAN_RESOLVED](http://twitter.com/search?q=%23JINAN_RESOLVED) | N/A |
+| 44 | [#iKONonIDOLRADIO](http://twitter.com/search?q=%23iKONonIDOLRADIO) | N/A |
+| 45 | [#HotGirlGiselleInOsaka_D1](http://twitter.com/search?q=%23HotGirlGiselleInOsaka_D1) | N/A |
+| 46 | [#ProperTreatmentForIrene](http://twitter.com/search?q=%23ProperTreatmentForIrene) | N/A |
+| 47 | [#ShazamFuryOfTheGods](http://twitter.com/search?q=%23ShazamFuryOfTheGods) | N/A |
+| 48 | [#AllEnglandOpen2023](http://twitter.com/search?q=%23AllEnglandOpen2023) | N/A |
+| 49 | [#PalumodaMotionFM](http://twitter.com/search?q=%23PalumodaMotionFM) | N/A |
+| 50 | [#refundgudfestloudlive](http://twitter.com/search?q=%23refundgudfestloudlive) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-15 11:16:51 UTC`
+📆 Last Updated: `2023-03-15 12:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 3 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 4 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 5 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
-| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 8 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 1 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 2 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 4 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
+| 5 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
+| 6 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 7 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 9 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 11 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 12 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 13 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 12 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 13 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
 | 14 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 15 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 15 | [Sender](http://twitter.com/search?q=Sender) | N/A |
 | 16 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 17 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 18 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 19 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 19 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
 | 20 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 21 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 22 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 23 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 21 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
+| 22 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 23 | [Robert](http://twitter.com/search?q=Robert) | N/A |
 | 24 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
 | 25 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
 | 26 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 27 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 28 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 29 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 30 | [Brie](http://twitter.com/search?q=Brie) | N/A |
-| 31 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 32 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
-| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 34 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 35 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 36 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 37 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 27 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 28 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 29 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 30 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 31 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 32 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 33 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 34 | [Brie](http://twitter.com/search?q=Brie) | N/A |
+| 35 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
 | 38 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 39 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 40 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 41 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 42 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 43 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
-| 44 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 45 | [Hannah Arendt](http://twitter.com/search?q=Hannah+Arendt) | N/A |
-| 46 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 47 | [Einrad](http://twitter.com/search?q=Einrad) | N/A |
-| 48 | [Mobbing](http://twitter.com/search?q=Mobbing) | N/A |
-| 49 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 50 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
+| 39 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 40 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 41 | [einrad](http://twitter.com/search?q=einrad) | N/A |
+| 42 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
+| 43 | [Mobbing](http://twitter.com/search?q=Mobbing) | N/A |
+| 44 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 45 | [RTL II](http://twitter.com/search?q=RTL+II) | N/A |
+| 46 | [Hannah Arendt](http://twitter.com/search?q=Hannah+Arendt) | N/A |
+| 47 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 48 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 49 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 50 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 
 
 
