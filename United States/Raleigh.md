@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-15 09:19:01 UTC`
+📆 Last Updated: `2023-03-15 10:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 2 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 3 | [Coruscant](http://twitter.com/search?q=Coruscant) | N/A |
-| 4 | [New Republic](http://twitter.com/search?q=New+Republic) | N/A |
-| 5 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
-| 6 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
-| 7 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 8 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
-| 9 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 2 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 3 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
+| 4 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
+| 5 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 6 | [Coruscant](http://twitter.com/search?q=Coruscant) | N/A |
+| 7 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 8 | [New Republic](http://twitter.com/search?q=New+Republic) | N/A |
+| 9 | [Sneako](http://twitter.com/search?q=Sneako) | N/A |
 | 10 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 11 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
-| 12 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 13 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 14 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 15 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
-| 16 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
-| 17 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 18 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 19 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 20 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 21 | [Men In Black](http://twitter.com/search?q=Men+In+Black) | N/A |
-| 22 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 23 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
-| 24 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 25 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 26 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
-| 27 | [McBride](http://twitter.com/search?q=McBride) | N/A |
-| 28 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
-| 29 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 30 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 11 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 12 | [UC Davis](http://twitter.com/search?q=UC+Davis) | N/A |
+| 13 | [Men in Black](http://twitter.com/search?q=Men+in+Black) | N/A |
+| 14 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 15 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 16 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 17 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 18 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 19 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 20 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 21 | [Bethany Mandel](http://twitter.com/search?q=Bethany+Mandel) | N/A |
+| 22 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 23 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 24 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 25 | [Cam Reddish](http://twitter.com/search?q=Cam+Reddish) | Cam Reddish is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected tenth overall in the 2019 NBA Draft. The name "Cam Reddish" is derived from his given name Cameron. |
+| 26 | [Crowder](http://twitter.com/search?q=Crowder) | Crowder is a term used to describe a person who engages in online harassment, particularly against women and members of minority groups. It is derived from the term "troll" which is used to describe someone who posts inflammatory or offensive comments on social media platforms. |
+| 27 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
+| 28 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 29 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 30 | [Deuce](http://twitter.com/search?q=Deuce) | N/A |
 | 31 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 32 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 33 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
-| 34 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
-| 35 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 36 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 37 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 38 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 39 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 40 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 41 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 42 | [The Mask](http://twitter.com/search?q=The+Mask) | N/A |
-| 43 | [Lumi](http://twitter.com/search?q=Lumi) | N/A |
-| 44 | [Small Soldiers](http://twitter.com/search?q=Small+Soldiers) | N/A |
-| 45 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
-| 46 | [Harry Ford](http://twitter.com/search?q=Harry+Ford) | N/A |
-| 47 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
-| 48 | [Jesse Singal](http://twitter.com/search?q=Jesse+Singal) | N/A |
+| 32 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 33 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 34 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 35 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
+| 36 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
+| 37 | [Tales](http://twitter.com/search?q=Tales) | N/A |
+| 38 | [The Mask](http://twitter.com/search?q=The+Mask) | N/A |
+| 39 | [Unconstitutional](http://twitter.com/search?q=Unconstitutional) | N/A |
+| 40 | [Jesse Singal](http://twitter.com/search?q=Jesse+Singal) | N/A |
+| 41 | [Background](http://twitter.com/search?q=Background) | N/A |
+| 42 | [Gate](http://twitter.com/search?q=Gate) | N/A |
+| 43 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 44 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 45 | [Assault](http://twitter.com/search?q=Assault) | N/A |
+| 46 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
+| 47 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 48 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
 
 
 

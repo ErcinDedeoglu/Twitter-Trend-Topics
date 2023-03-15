@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-15 09:18:24 UTC`
+📆 Last Updated: `2023-03-15 10:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,36 +33,36 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 16 | [Gabriel Fuks](http://twitter.com/search?q=Gabriel+Fuks) | N/A |
 | 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 18 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 19 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 20 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 19 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 20 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
 | 21 | [Gabela](http://twitter.com/search?q=Gabela) | N/A |
 | 22 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
 | 23 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 24 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
-| 25 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
-| 26 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 27 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 28 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 29 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 30 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 24 | [Danilo Carrera](http://twitter.com/search?q=Danilo+Carrera) | N/A |
+| 25 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 26 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 27 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 28 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 29 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 30 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
 | 31 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 32 | [teleamazonas](http://twitter.com/search?q=teleamazonas) | N/A |
-| 33 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 34 | [vanessa egas](http://twitter.com/search?q=vanessa+egas) | N/A |
-| 35 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
-| 36 | [Rausch](http://twitter.com/search?q=Rausch) | N/A |
-| 37 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 33 | [vanessa egas](http://twitter.com/search?q=vanessa+egas) | N/A |
+| 34 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
+| 35 | [Rausch](http://twitter.com/search?q=Rausch) | N/A |
+| 36 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 37 | [Teleamazonas](http://twitter.com/search?q=Teleamazonas) | N/A |
 | 38 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 39 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
+| 39 | [camilo sesto](http://twitter.com/search?q=camilo+sesto) | N/A |
 | 40 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 41 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
-| 42 | [mauricio martínez](http://twitter.com/search?q=mauricio+mart%c3%adnez) | N/A |
-| 43 | [Diana Salazar](http://twitter.com/search?q=Diana+Salazar) | N/A |
-| 44 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 41 | [mauricio martínez](http://twitter.com/search?q=mauricio+mart%c3%adnez) | N/A |
+| 42 | [Diana Salazar](http://twitter.com/search?q=Diana+Salazar) | N/A |
+| 43 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 44 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
 | 45 | [iskra](http://twitter.com/search?q=iskra) | N/A |
 | 46 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
 | 47 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
-| 48 | [holguín](http://twitter.com/search?q=holgu%c3%adn) | N/A |
+| 48 | [Holguín](http://twitter.com/search?q=Holgu%c3%adn) | N/A |
 | 49 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
 | 50 | [superintendencia de compañías](http://twitter.com/search?q=superintendencia+de+compa%c3%b1%c3%adas) | N/A |
 

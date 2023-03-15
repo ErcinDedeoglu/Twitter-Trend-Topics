@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-15 09:18:54 UTC`
+📆 Last Updated: `2023-03-15 10:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fenerinmacivar](http://twitter.com/search?q=%23fenerinmacivar) | N/A |
-| 2 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
-| 3 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 4 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 5 | [Hakan](http://twitter.com/search?q=Hakan) | N/A |
-| 6 | [#Şanlıurfa](http://twitter.com/search?q=%23%c5%9eanl%c4%b1urfa) | N/A |
-| 7 | [#Adıyaman](http://twitter.com/search?q=%23Ad%c4%b1yaman) | N/A |
-| 8 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 9 | [Rahmi Doğan](http://twitter.com/search?q=Rahmi+Do%c4%9fan) | N/A |
-| 10 | [Milletvekili](http://twitter.com/search?q=Milletvekili) | N/A |
-| 11 | [Geçmiş Olsun](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f+Olsun) | N/A |
-| 12 | [Son Başbakanımız](http://twitter.com/search?q=Son+Ba%c5%9fbakan%c4%b1m%c4%b1z) | N/A |
-| 13 | [Dokunulmazlık](http://twitter.com/search?q=Dokunulmazl%c4%b1k) | N/A |
-| 14 | [Merhumeye Allah'tan](http://twitter.com/search?q=Merhumeye+Allah%27tan) | N/A |
-| 15 | [Dere](http://twitter.com/search?q=Dere) | N/A |
-| 16 | [Lincoln Henrique](http://twitter.com/search?q=Lincoln+Henrique) | N/A |
-| 17 | [Selden](http://twitter.com/search?q=Selden) | N/A |
-| 18 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
-| 19 | [Üsküdar Amerikan Lisesi](http://twitter.com/search?q=%c3%9csk%c3%bcdar+Amerikan+Lisesi) | N/A |
-| 20 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
-| 21 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 22 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
-| 23 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
-| 24 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 25 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 26 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
-| 27 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 28 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
-| 29 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
-| 30 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
-| 31 | [Ağam](http://twitter.com/search?q=A%c4%9fam) | N/A |
-| 32 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 33 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
+| 1 | [#BorsaIstanbul](http://twitter.com/search?q=%23BorsaIstanbul) | N/A |
+| 2 | [#fenerinmacivar](http://twitter.com/search?q=%23fenerinmacivar) | N/A |
+| 3 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
+| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 5 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 6 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
+| 7 | [#tuprs](http://twitter.com/search?q=%23tuprs) | N/A |
+| 8 | [#deryayanıkistifa](http://twitter.com/search?q=%23deryayan%c4%b1kistifa) | N/A |
+| 9 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 10 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 11 | [Milletvekili](http://twitter.com/search?q=Milletvekili) | N/A |
+| 12 | [Alsancak Konak Çiğli Karşıyaka](http://twitter.com/search?q=Alsancak+Konak+%c3%87i%c4%9fli+Kar%c5%9f%c4%b1yaka) | N/A |
+| 13 | [Buca Bayrakli Bornova Gaziemir](http://twitter.com/search?q=Buca+Bayrakli+Bornova+Gaziemir) | N/A |
+| 14 | [Rahmi Doğan](http://twitter.com/search?q=Rahmi+Do%c4%9fan) | N/A |
+| 15 | [Dokunulmazlık](http://twitter.com/search?q=Dokunulmazl%c4%b1k) | N/A |
+| 16 | [Dere](http://twitter.com/search?q=Dere) | N/A |
+| 17 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 18 | [Son Başbakanımız](http://twitter.com/search?q=Son+Ba%c5%9fbakan%c4%b1m%c4%b1z) | N/A |
+| 19 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 20 | [Selden](http://twitter.com/search?q=Selden) | N/A |
+| 21 | [Sivas'tan](http://twitter.com/search?q=Sivas%27tan) | N/A |
+| 22 | [İstiklal Caddesi'nde](http://twitter.com/search?q=%c4%b0stiklal+Caddesi%27nde) | N/A |
+| 23 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 24 | [Üsküdar Amerikan Lisesi](http://twitter.com/search?q=%c3%9csk%c3%bcdar+Amerikan+Lisesi) | N/A |
+| 25 | [Lincoln Henrique](http://twitter.com/search?q=Lincoln+Henrique) | N/A |
+| 26 | [İlyas Salman](http://twitter.com/search?q=%c4%b0lyas+Salman) | N/A |
+| 27 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 28 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 29 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
+| 30 | [Şiddet](http://twitter.com/search?q=%c5%9eiddet) | N/A |
+| 31 | [oruç](http://twitter.com/search?q=oru%c3%a7) | N/A |
+| 32 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
+| 33 | [Ağam](http://twitter.com/search?q=A%c4%9fam) | N/A |
 | 34 | [Uygun](http://twitter.com/search?q=Uygun) | N/A |
-| 35 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
-| 36 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 35 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
+| 36 | [Montaj](http://twitter.com/search?q=Montaj) | N/A |
 | 37 | [#selfelaketi](http://twitter.com/search?q=%23selfelaketi) | N/A |
-| 38 | [#balıklıgöl](http://twitter.com/search?q=%23bal%c4%b1kl%c4%b1g%c3%b6l) | N/A |
-| 39 | [#MilletTarihYazacak](http://twitter.com/search?q=%23MilletTarihYazacak) | N/A |
-| 40 | [#5BinveKısmiTorbaya](http://twitter.com/search?q=%235BinveK%c4%b1smiTorbaya) | N/A |
-| 41 | [#yağmur](http://twitter.com/search?q=%23ya%c4%9fmur) | N/A |
-| 42 | [#BakanlıkDepremi](http://twitter.com/search?q=%23Bakanl%c4%b1kDepremi) | N/A |
-| 43 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | Gaziantep is a city in southeastern Turkey. It is the sixth most populous city in the country and the capital of Gaziantep Province. The name Gaziantep is derived from the Arabic word "Azzanatif", which means "noble". In English, it translates to "Noble City". |
-| 44 | [#Malatya](http://twitter.com/search?q=%23Malatya) | Malatya is a city in eastern Turkey. It is the administrative center of Malatya Province and has a population of around 590,000. The name Malatya is derived from the Arabic word malatiyah, which means "fortress". In English, Malatya translates to "fortress of God". |
-| 45 | [#41MilyarLira](http://twitter.com/search?q=%2341MilyarLira) | N/A |
-| 46 | [#NeGünlereKaldık](http://twitter.com/search?q=%23NeG%c3%bcnlereKald%c4%b1k) | N/A |
-| 47 | [#Seçimi2000lerBelirler](http://twitter.com/search?q=%23Se%c3%a7imi2000lerBelirler) | N/A |
-| 48 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
-| 49 | [#MertRamazanDemir](http://twitter.com/search?q=%23MertRamazanDemir) | N/A |
-| 50 | [#TalatPaşa](http://twitter.com/search?q=%23TalatPa%c5%9fa) | N/A |
+| 38 | [#Şanlıurfa](http://twitter.com/search?q=%23%c5%9eanl%c4%b1urfa) | N/A |
+| 39 | [#Adıyaman](http://twitter.com/search?q=%23Ad%c4%b1yaman) | N/A |
+| 40 | [#balıklıgöl](http://twitter.com/search?q=%23bal%c4%b1kl%c4%b1g%c3%b6l) | N/A |
+| 41 | [#MilletTarihYazacak](http://twitter.com/search?q=%23MilletTarihYazacak) | N/A |
+| 42 | [#yagmur](http://twitter.com/search?q=%23yagmur) | N/A |
+| 43 | [#Malatya](http://twitter.com/search?q=%23Malatya) | Malatya is a city in eastern Turkey. It is the administrative center of Malatya Province and has a population of around 590,000. The name Malatya is derived from the Arabic word malatiyah, which means "fortress". In English, Malatya translates to "fortress of God". |
+| 44 | [#5BinveKısmiTorbaya](http://twitter.com/search?q=%235BinveK%c4%b1smiTorbaya) | N/A |
+| 45 | [#BakanlıkDepremi](http://twitter.com/search?q=%23Bakanl%c4%b1kDepremi) | N/A |
+| 46 | [#Seçimi2000lerBelirler](http://twitter.com/search?q=%23Se%c3%a7imi2000lerBelirler) | N/A |
+| 47 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | Gaziantep is a city in southeastern Turkey. It is the sixth most populous city in the country and the capital of Gaziantep Province. The name Gaziantep is derived from the Arabic word "Azzanatif", which means "noble". In English, it translates to "Noble City". |
+| 48 | [#AfraSaraçoğlu](http://twitter.com/search?q=%23AfraSara%c3%a7o%c4%9flu) | N/A |
+| 49 | [#çerkezköyescort](http://twitter.com/search?q=%23%c3%a7erkezk%c3%b6yescort) | N/A |
+| 50 | [#MertRamazanDemir](http://twitter.com/search?q=%23MertRamazanDemir) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-15 09:18:30 UTC`
+📆 Last Updated: `2023-03-15 10:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [France](</France>)
 | 3 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
 | 4 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 5 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 6 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 7 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 8 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 9 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 10 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 7 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 8 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 9 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 11 | [Seine](http://twitter.com/search?q=Seine) | N/A |
-| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 12 | [Werner](http://twitter.com/search?q=Werner) | N/A |
 | 13 | [Sophia Aram](http://twitter.com/search?q=Sophia+Aram) | N/A |
 | 14 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 15 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
+| 15 | [Marx](http://twitter.com/search?q=Marx) | N/A |
 | 16 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 17 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 18 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 19 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 21 | [J-500](http://twitter.com/search?q=J-500) | N/A |
-| 22 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 23 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 24 | [Lille 3](http://twitter.com/search?q=Lille+3) | N/A |
+| 17 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
+| 18 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 19 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 20 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 21 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 22 | [J-500](http://twitter.com/search?q=J-500) | N/A |
+| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 24 | [Noire](http://twitter.com/search?q=Noire) | N/A |
 | 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Christophe Barbier](http://twitter.com/search?q=Christophe+Barbier) | N/A |
-| 27 | [Ingénieur](http://twitter.com/search?q=Ing%c3%a9nieur) | N/A |
-| 28 | [Noire](http://twitter.com/search?q=Noire) | N/A |
-| 29 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
-| 30 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 31 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
-| 32 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
+| 26 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
+| 27 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 28 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
+| 29 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 30 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
+| 31 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
+| 32 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
 | 33 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
-| 34 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
-| 35 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
+| 34 | [Ingénieur](http://twitter.com/search?q=Ing%c3%a9nieur) | N/A |
+| 35 | [jérôme commandeur](http://twitter.com/search?q=j%c3%a9r%c3%b4me+commandeur) | N/A |
 | 36 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
-| 37 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 38 | [QUINTUPLÉ](http://twitter.com/search?q=QUINTUPL%c3%89) | N/A |
-| 39 | [Attali](http://twitter.com/search?q=Attali) | N/A |
-| 40 | [Augmenter](http://twitter.com/search?q=Augmenter) | N/A |
+| 37 | [Attali](http://twitter.com/search?q=Attali) | N/A |
+| 38 | [Quintuplé](http://twitter.com/search?q=Quintupl%c3%a9) | N/A |
+| 39 | [FODEN](http://twitter.com/search?q=FODEN) | N/A |
+| 40 | [Rachida](http://twitter.com/search?q=Rachida) | N/A |
 | 41 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
 | 42 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
-| 43 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 44 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 45 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 46 | [Rachida](http://twitter.com/search?q=Rachida) | N/A |
-| 47 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 48 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
+| 43 | [Disiz](http://twitter.com/search?q=Disiz) | N/A |
+| 44 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
+| 45 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 46 | [Havre](http://twitter.com/search?q=Havre) | N/A |
+| 47 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
+| 48 | [Damso](http://twitter.com/search?q=Damso) | N/A |
 
 
 

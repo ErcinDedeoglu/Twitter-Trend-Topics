@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-15 09:18:20 UTC`
+📆 Last Updated: `2023-03-15 10:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
-| 2 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
-| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 4 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
-| 5 | [#BCFC](http://twitter.com/search?q=%23BCFC) | N/A |
-| 6 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 7 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 8 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
-| 9 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 10 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
-| 11 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 12 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 13 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 14 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
-| 15 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 16 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 17 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 18 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 19 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 20 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 22 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 23 | [Wriggle](http://twitter.com/search?q=Wriggle) | N/A |
-| 24 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
-| 25 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 26 | [#BudgetDay2023](http://twitter.com/search?q=%23BudgetDay2023) | N/A |
-| 27 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 28 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 29 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 30 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 31 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 32 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
-| 33 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
-| 34 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 35 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
-| 36 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
-| 37 | [#SwallowAware2023](http://twitter.com/search?q=%23SwallowAware2023) | N/A |
-| 38 | [#WDAD2023](http://twitter.com/search?q=%23WDAD2023) | N/A |
-| 39 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 40 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 41 | [#WalkoutWednesday](http://twitter.com/search?q=%23WalkoutWednesday) | N/A |
-| 42 | [#closure](http://twitter.com/search?q=%23closure) | N/A |
-| 43 | [#ToriesOut251](http://twitter.com/search?q=%23ToriesOut251) | N/A |
-| 44 | [#childcare](http://twitter.com/search?q=%23childcare) | N/A |
-| 45 | [#Wordle634](http://twitter.com/search?q=%23Wordle634) | N/A |
-| 46 | [#Plymouth](http://twitter.com/search?q=%23Plymouth) | N/A |
-| 47 | [#ToryCostOfGreedCrisis](http://twitter.com/search?q=%23ToryCostOfGreedCrisis) | N/A |
-| 48 | [#BM100](http://twitter.com/search?q=%23BM100) | N/A |
+| 2 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
+| 3 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 4 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 5 | [#bm100](http://twitter.com/search?q=%23bm100) | N/A |
+| 6 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
+| 7 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 8 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 10 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
+| 11 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 12 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 13 | [HAPPY TWINKLVERSARY](http://twitter.com/search?q=HAPPY+TWINKLVERSARY) | N/A |
+| 14 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 15 | [Daily Quordle 415](http://twitter.com/search?q=Daily+Quordle+415) | N/A |
+| 16 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 17 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
+| 18 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
+| 19 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 20 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 21 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 22 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 23 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 24 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
+| 25 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 26 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 27 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 28 | [Martin Lewis](http://twitter.com/search?q=Martin+Lewis) | N/A |
+| 29 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 30 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 31 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 32 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 33 | [Wriggle](http://twitter.com/search?q=Wriggle) | N/A |
+| 34 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 35 | [#bcfc](http://twitter.com/search?q=%23bcfc) | N/A |
+| 36 | [#BudgetDay2023](http://twitter.com/search?q=%23BudgetDay2023) | N/A |
+| 37 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 38 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 39 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 40 | [#YoungCarersActionDay](http://twitter.com/search?q=%23YoungCarersActionDay) | N/A |
+| 41 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 42 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 43 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 44 | [#SwallowAware2023](http://twitter.com/search?q=%23SwallowAware2023) | N/A |
+| 45 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 46 | [#ASongOrMovieForPeanuts](http://twitter.com/search?q=%23ASongOrMovieForPeanuts) | N/A |
+| 47 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 48 | [#WDAD2023](http://twitter.com/search?q=%23WDAD2023) | N/A |
 
 
 

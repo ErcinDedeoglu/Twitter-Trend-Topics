@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-15 09:19:08 UTC`
+📆 Last Updated: `2023-03-15 10:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,39 +31,39 @@ This is top 50 for Peru
 | 14 | [Rímac](http://twitter.com/search?q=R%c3%admac) | N/A |
 | 15 | [#JINJIN](http://twitter.com/search?q=%23JINJIN) | N/A |
 | 16 | [sicurezza](http://twitter.com/search?q=sicurezza) | N/A |
-| 17 | [Porky](http://twitter.com/search?q=Porky) | N/A |
-| 18 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
+| 17 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
+| 18 | [Porky](http://twitter.com/search?q=Porky) | N/A |
 | 19 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 20 | [ancón](http://twitter.com/search?q=anc%c3%b3n) | N/A |
-| 21 | [cubillas](http://twitter.com/search?q=cubillas) | N/A |
-| 22 | [mariano soso](http://twitter.com/search?q=mariano+soso) | N/A |
-| 23 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 24 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 25 | [DALILA](http://twitter.com/search?q=DALILA) | N/A |
-| 26 | [alessia](http://twitter.com/search?q=alessia) | N/A |
-| 27 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
-| 28 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
+| 20 | [cubillas](http://twitter.com/search?q=cubillas) | N/A |
+| 21 | [mariano soso](http://twitter.com/search?q=mariano+soso) | N/A |
+| 22 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 23 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 24 | [DALILA](http://twitter.com/search?q=DALILA) | N/A |
+| 25 | [alessia](http://twitter.com/search?q=alessia) | N/A |
+| 26 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
+| 27 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
+| 28 | [Ancón](http://twitter.com/search?q=Anc%c3%b3n) | N/A |
 | 29 | [Comas](http://twitter.com/search?q=Comas) | N/A |
 | 30 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 31 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
 | 32 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
 | 33 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
 | 34 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
-| 35 | [mayra couto](http://twitter.com/search?q=mayra+couto) | N/A |
+| 35 | [MAYRA COUTO](http://twitter.com/search?q=MAYRA+COUTO) | N/A |
 | 36 | [nehemías 12](http://twitter.com/search?q=nehem%c3%adas+12) | N/A |
 | 37 | [Pobre Colombia](http://twitter.com/search?q=Pobre+Colombia) | N/A |
 | 38 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
-| 39 | [López Aliaga](http://twitter.com/search?q=L%c3%b3pez+Aliaga) | N/A |
-| 40 | [Relator](http://twitter.com/search?q=Relator) | N/A |
-| 41 | [Cieneguilla](http://twitter.com/search?q=Cieneguilla) | N/A |
-| 42 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
+| 39 | [relator](http://twitter.com/search?q=relator) | N/A |
+| 40 | [Cieneguilla](http://twitter.com/search?q=Cieneguilla) | N/A |
+| 41 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
+| 42 | [López Aliaga](http://twitter.com/search?q=L%c3%b3pez+Aliaga) | N/A |
 | 43 | [Comisión de Constitución](http://twitter.com/search?q=Comisi%c3%b3n+de+Constituci%c3%b3n) | N/A |
 | 44 | [Willy Huerta](http://twitter.com/search?q=Willy+Huerta) | N/A |
 | 45 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
 | 46 | [tambogrande](http://twitter.com/search?q=tambogrande) | N/A |
 | 47 | [Dona](http://twitter.com/search?q=Dona) | N/A |
-| 48 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
-| 49 | [Puente Piedra](http://twitter.com/search?q=Puente+Piedra) | N/A |
+| 48 | [roberto sánchez](http://twitter.com/search?q=roberto+s%c3%a1nchez) | N/A |
+| 49 | [puente piedra](http://twitter.com/search?q=puente+piedra) | N/A |
 | 50 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
 
 

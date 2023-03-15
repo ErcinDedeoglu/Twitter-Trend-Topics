@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-15 09:18:24 UTC`
+📆 Last Updated: `2023-03-15 10:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Colombia](</Colombia>)
 | 6 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
 | 7 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
 | 8 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
-| 9 | [Vice](http://twitter.com/search?q=Vice) | N/A |
-| 10 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
+| 9 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
+| 10 | [Vice](http://twitter.com/search?q=Vice) | N/A |
 | 11 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 12 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
-| 13 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 14 | [#sueñoconalejandrofernandez](http://twitter.com/search?q=%23sue%c3%b1oconalejandrofernandez) | N/A |
-| 15 | [#justiciaparacaicedo](http://twitter.com/search?q=%23justiciaparacaicedo) | N/A |
+| 12 | [portilla](http://twitter.com/search?q=portilla) | N/A |
+| 13 | [#sueñoconalejandrofernandez](http://twitter.com/search?q=%23sue%c3%b1oconalejandrofernandez) | N/A |
+| 14 | [#justiciaparacaicedo](http://twitter.com/search?q=%23justiciaparacaicedo) | N/A |
+| 15 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 | 16 | [Flip](http://twitter.com/search?q=Flip) | N/A |
 | 17 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
+| 18 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 20 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 21 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
-| 22 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
-| 23 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 24 | [MENA](http://twitter.com/search?q=MENA) | N/A |
-| 25 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 26 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
-| 27 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
-| 28 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 29 | [All I Wanted](http://twitter.com/search?q=All+I+Wanted) | N/A |
-| 30 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 31 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 32 | [Decode](http://twitter.com/search?q=Decode) | N/A |
-| 33 | [La Silla Vacía](http://twitter.com/search?q=La+Silla+Vac%c3%ada) | N/A |
-| 34 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
-| 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 36 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 37 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 38 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 39 | [The Only Exception](http://twitter.com/search?q=The+Only+Exception) | N/A |
-| 40 | [Laura Gil](http://twitter.com/search?q=Laura+Gil) | N/A |
-| 41 | [Matador](http://twitter.com/search?q=Matador) | N/A |
-| 42 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
-| 43 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
-| 44 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
+| 21 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
+| 22 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 23 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
+| 24 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
+| 25 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 26 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 27 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 28 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
+| 29 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 30 | [MENA](http://twitter.com/search?q=MENA) | N/A |
+| 31 | [la silla vacía](http://twitter.com/search?q=la+silla+vac%c3%ada) | N/A |
+| 32 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 33 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 34 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 35 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 36 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 37 | [Laura Gil](http://twitter.com/search?q=Laura+Gil) | N/A |
+| 38 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 39 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
+| 40 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
+| 41 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
+| 42 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 43 | [david murcia](http://twitter.com/search?q=david+murcia) | N/A |
+| 44 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
 | 45 | [Linero](http://twitter.com/search?q=Linero) | N/A |
-| 46 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 46 | [leys](http://twitter.com/search?q=leys) | N/A |
 | 47 | [Negra](http://twitter.com/search?q=Negra) | N/A |
-| 48 | [david murcia](http://twitter.com/search?q=david+murcia) | N/A |
-| 49 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 50 | [leys](http://twitter.com/search?q=leys) | N/A |
+| 48 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
+| 49 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 50 | [Sutatausa](http://twitter.com/search?q=Sutatausa) | N/A |
 
 
 

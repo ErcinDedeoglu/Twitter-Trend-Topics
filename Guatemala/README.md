@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-15 09:19:06 UTC`
+📆 Last Updated: `2023-03-15 10:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 3 | [Manuel Baldizón](http://twitter.com/search?q=Manuel+Baldiz%c3%b3n) | N/A |
+| 2 | [manuel baldizón](http://twitter.com/search?q=manuel+baldiz%c3%b3n) | N/A |
+| 3 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 4 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 5 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
@@ -31,12 +31,12 @@ This is top 50 for Guatemala
 | 14 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
 | 15 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 16 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 17 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 19 | [SET ME FREE PT2 TEASER](http://twitter.com/search?q=SET+ME+FREE+PT2+TEASER) | N/A |
-| 20 | [baldetti](http://twitter.com/search?q=baldetti) | N/A |
-| 21 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
-| 22 | [Feci](http://twitter.com/search?q=Feci) | N/A |
+| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 18 | [SET ME FREE PT2 TEASER](http://twitter.com/search?q=SET+ME+FREE+PT2+TEASER) | N/A |
+| 19 | [baldetti](http://twitter.com/search?q=baldetti) | N/A |
+| 20 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
+| 21 | [Feci](http://twitter.com/search?q=Feci) | N/A |
+| 22 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
 | 23 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
 | 24 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
 | 25 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
@@ -50,9 +50,9 @@ This is top 50 for Guatemala
 | 33 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
 | 34 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 35 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 36 | [corte suprema de justicia](http://twitter.com/search?q=corte+suprema+de+justicia) | N/A |
+| 36 | [Corte Suprema de Justicia](http://twitter.com/search?q=Corte+Suprema+de+Justicia) | N/A |
 | 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 38 | [Tribunal Supremo Electoral](http://twitter.com/search?q=Tribunal+Supremo+Electoral) | N/A |
+| 38 | [tribunal supremo electoral](http://twitter.com/search?q=tribunal+supremo+electoral) | N/A |
 | 39 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
 | 40 | [suchitepéquez](http://twitter.com/search?q=suchitep%c3%a9quez) | N/A |
 | 41 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
