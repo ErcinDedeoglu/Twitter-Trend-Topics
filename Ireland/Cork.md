@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-15 17:16:06 UTC`
+📆 Last Updated: `2023-03-15 18:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CheltenhamFestival](http://twitter.com/search?q=%23CheltenhamFestival) | N/A |
-| 2 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 4 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
-| 5 | [#StPatricksDay](http://twitter.com/search?q=%23StPatricksDay) | N/A |
-| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 7 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
-| 8 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
-| 9 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
-| 10 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
-| 11 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 12 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 13 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
+| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 3 | [#StPatricksDay](http://twitter.com/search?q=%23StPatricksDay) | N/A |
+| 4 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 6 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
+| 7 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
+| 8 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 9 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 10 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 11 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
+| 12 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
+| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 14 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
-| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 16 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 17 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 18 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 15 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
+| 16 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 17 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 18 | [Colm](http://twitter.com/search?q=Colm) | N/A |
 | 19 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
 | 20 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 21 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 21 | [John Kiely](http://twitter.com/search?q=John+Kiely) | N/A |
 | 22 | [Trish](http://twitter.com/search?q=Trish) | N/A |
 | 23 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 24 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
-| 25 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
-| 26 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
-| 27 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
-| 28 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
+| 24 | [barry connell](http://twitter.com/search?q=barry+connell) | N/A |
+| 25 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
+| 26 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 27 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
+| 28 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
 | 29 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
 | 30 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 31 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 32 | [Eimear](http://twitter.com/search?q=Eimear) | N/A |
-| 33 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
-| 34 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
-| 35 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 36 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 37 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
-| 38 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 39 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 40 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 41 | [Gardaí](http://twitter.com/search?q=Garda%c3%ad) | N/A |
-| 42 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 43 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 44 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
-| 45 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 46 | [Sinn Féin](http://twitter.com/search?q=Sinn+F%c3%a9in) | N/A |
-| 47 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 48 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 49 | [Tuam](http://twitter.com/search?q=Tuam) | N/A |
+| 31 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 32 | [Eamonn](http://twitter.com/search?q=Eamonn) | N/A |
+| 33 | [Eimear](http://twitter.com/search?q=Eimear) | N/A |
+| 34 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
+| 35 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 36 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 37 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
+| 38 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 39 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 40 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 41 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
+| 42 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 43 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 44 | [Gardaí](http://twitter.com/search?q=Garda%c3%ad) | N/A |
+| 45 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 46 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
+| 47 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 48 | [Sinn Féin](http://twitter.com/search?q=Sinn+F%c3%a9in) | N/A |
+| 49 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-15 17:16:08 UTC`
+📆 Last Updated: `2023-03-15 18:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
 | 2 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 3 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 4 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 5 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 3 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 4 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 5 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
 | 6 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 8 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 7 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 9 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 10 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 11 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 10 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 11 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
 | 12 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 14 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 15 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 16 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 17 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 18 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 19 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 20 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 21 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 22 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 23 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 24 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 25 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 13 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 14 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 15 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
+| 16 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 19 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 20 | [Mord](http://twitter.com/search?q=Mord) | N/A |
+| 21 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 22 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 23 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 24 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 25 | [Cathleen](http://twitter.com/search?q=Cathleen) | N/A |
 | 26 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
-| 27 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 28 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 29 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 30 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 31 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
-| 32 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 33 | [Verwaltung](http://twitter.com/search?q=Verwaltung) | N/A |
-| 34 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 35 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 36 | [Skier](http://twitter.com/search?q=Skier) | N/A |
-| 37 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 38 | [Zugangscode](http://twitter.com/search?q=Zugangscode) | N/A |
-| 39 | [Versehen](http://twitter.com/search?q=Versehen) | N/A |
-| 40 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
-| 41 | [RTL II](http://twitter.com/search?q=RTL+II) | N/A |
-| 42 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 43 | [Frage der Zeit](http://twitter.com/search?q=Frage+der+Zeit) | N/A |
-| 44 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
-| 45 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 46 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
-| 47 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 48 | [Peinlich](http://twitter.com/search?q=Peinlich) | N/A |
+| 27 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 28 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 29 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
+| 30 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 31 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 32 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 33 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 34 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 35 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 36 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 37 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 38 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 39 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
+| 40 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 41 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 42 | [Verwaltung](http://twitter.com/search?q=Verwaltung) | N/A |
+| 43 | [RTL II](http://twitter.com/search?q=RTL+II) | N/A |
+| 44 | [Vollidioten](http://twitter.com/search?q=Vollidioten) | N/A |
+| 45 | [Zugangscode](http://twitter.com/search?q=Zugangscode) | N/A |
+| 46 | [Versehen](http://twitter.com/search?q=Versehen) | N/A |
+| 47 | [Kartoffeln](http://twitter.com/search?q=Kartoffeln) | N/A |
+| 48 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
 
 
 

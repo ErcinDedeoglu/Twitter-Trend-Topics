@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-15 17:16:47 UTC`
+📆 Last Updated: `2023-03-15 18:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,26 +17,26 @@ This is top 50 for New Zealand
 | ------- | ------------ | ------------ |
 | 1 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 2 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
-| 3 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 4 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
-| 5 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
-| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [uffindell](http://twitter.com/search?q=uffindell) | N/A |
+| 3 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
+| 4 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 6 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 7 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
 | 8 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
 | 9 | [cabinet manual](http://twitter.com/search?q=cabinet+manual) | N/A |
 | 10 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 11 | [Willis](http://twitter.com/search?q=Willis) | N/A |
-| 12 | [Niwa](http://twitter.com/search?q=Niwa) | N/A |
-| 13 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 14 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 15 | [coster](http://twitter.com/search?q=coster) | N/A |
-| 16 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
-| 17 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 11 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 12 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 13 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
+| 14 | [Coster](http://twitter.com/search?q=Coster) | N/A |
+| 15 | [Niwa](http://twitter.com/search?q=Niwa) | N/A |
+| 16 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 17 | [Willis](http://twitter.com/search?q=Willis) | N/A |
 | 18 | [Greens](http://twitter.com/search?q=Greens) | N/A |
 | 19 | [#UNBREAKABLE](http://twitter.com/search?q=%23UNBREAKABLE) | N/A |
 | 20 | [Leah](http://twitter.com/search?q=Leah) | N/A |
-| 21 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
-| 22 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
+| 21 | [National and Act](http://twitter.com/search?q=National+and+Act) | N/A |
+| 22 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
 | 23 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
 | 24 | [Meng](http://twitter.com/search?q=Meng) | N/A |
 | 25 | [Te Reo](http://twitter.com/search?q=Te+Reo) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for New Zealand
 | 40 | [national mps](http://twitter.com/search?q=national+mps) | N/A |
 | 41 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
 | 42 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 43 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 44 | [Treaty of Waitangi](http://twitter.com/search?q=Treaty+of+Waitangi) | N/A |
-| 45 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 46 | [simeon brown](http://twitter.com/search?q=simeon+brown) | N/A |
-| 47 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 48 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 50 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 43 | [Treaty of Waitangi](http://twitter.com/search?q=Treaty+of+Waitangi) | N/A |
+| 44 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 45 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 46 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 47 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 48 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 49 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 50 | [aucklanders](http://twitter.com/search?q=aucklanders) | N/A |
 
 
 

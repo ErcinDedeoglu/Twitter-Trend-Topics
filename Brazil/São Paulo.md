@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-15 17:16:03 UTC`
+📆 Last Updated: `2023-03-15 18:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 2 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 4 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 5 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 6 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 7 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 8 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 1 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 2 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
+| 3 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 4 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 5 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 6 | [Rodoanel](http://twitter.com/search?q=Rodoanel) | N/A |
+| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 8 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
 | 9 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 10 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 10 | [Datena](http://twitter.com/search?q=Datena) | N/A |
 | 11 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 12 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 13 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 14 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 15 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 16 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 17 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 19 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 20 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 21 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 22 | [HABLA KEY](http://twitter.com/search?q=HABLA+KEY) | N/A |
-| 23 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
-| 24 | [Tove](http://twitter.com/search?q=Tove) | N/A |
-| 25 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 26 | [lari no mais você](http://twitter.com/search?q=lari+no+mais+voc%c3%aa) | N/A |
-| 27 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
-| 28 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 29 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 12 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
+| 13 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 14 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 16 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
+| 17 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 18 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 19 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 20 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
+| 21 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 22 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 23 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 24 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 25 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 26 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 27 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
+| 28 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 29 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
 | 30 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
 | 31 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
-| 32 | [Doriana](http://twitter.com/search?q=Doriana) | N/A |
-| 33 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
-| 34 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
-| 35 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 36 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 37 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 38 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 39 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 40 | [John Frusciante](http://twitter.com/search?q=John+Frusciante) | N/A |
-| 41 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 42 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
-| 43 | [Stefania](http://twitter.com/search?q=Stefania) | N/A |
-| 44 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
-| 45 | [Pronasci](http://twitter.com/search?q=Pronasci) | N/A |
-| 46 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
-| 47 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
-| 48 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
-| 49 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 50 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
+| 32 | [Andres](http://twitter.com/search?q=Andres) | N/A |
+| 33 | [Tove](http://twitter.com/search?q=Tove) | N/A |
+| 34 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 35 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 36 | [HABLA KEY](http://twitter.com/search?q=HABLA+KEY) | N/A |
+| 37 | [Luciano Castan](http://twitter.com/search?q=Luciano+Castan) | N/A |
+| 38 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
+| 39 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 40 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 41 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
+| 42 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 43 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 44 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 46 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
+| 47 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 48 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 49 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
+| 50 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
 
 
 

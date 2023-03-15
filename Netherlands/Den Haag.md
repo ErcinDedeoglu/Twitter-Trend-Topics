@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-15 17:16:10 UTC`
+📆 Last Updated: `2023-03-15 18:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 10 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
 | 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 12 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 13 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
-| 14 | [Freek](http://twitter.com/search?q=Freek) | N/A |
-| 15 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 17 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
-| 18 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
-| 19 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 20 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 21 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 23 | [reijnders](http://twitter.com/search?q=reijnders) | N/A |
-| 24 | [Wietse](http://twitter.com/search?q=Wietse) | N/A |
-| 25 | [Sociaal](http://twitter.com/search?q=Sociaal) | N/A |
-| 26 | [Vanavond](http://twitter.com/search?q=Vanavond) | N/A |
-| 27 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 28 | [marco borsato](http://twitter.com/search?q=marco+borsato) | N/A |
-| 29 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 12 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
+| 13 | [Napels](http://twitter.com/search?q=Napels) | N/A |
+| 14 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 15 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 16 | [Freek](http://twitter.com/search?q=Freek) | N/A |
+| 17 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 18 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 20 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
+| 21 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 22 | [reijnders](http://twitter.com/search?q=reijnders) | N/A |
+| 23 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 24 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 25 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
+| 26 | [Sociaal](http://twitter.com/search?q=Sociaal) | N/A |
+| 27 | [Vanavond](http://twitter.com/search?q=Vanavond) | N/A |
+| 28 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 29 | [Onteigening](http://twitter.com/search?q=Onteigening) | N/A |
 | 30 | [Jazeker](http://twitter.com/search?q=Jazeker) | N/A |
-| 31 | [Onteigening](http://twitter.com/search?q=Onteigening) | N/A |
-| 32 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
-| 33 | [Arvid de Kleijn](http://twitter.com/search?q=Arvid+de+Kleijn) | N/A |
-| 34 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 35 | [Mexx](http://twitter.com/search?q=Mexx) | N/A |
-| 36 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 37 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 38 | [Ali B](http://twitter.com/search?q=Ali+B) | N/A |
-| 39 | [Arbeidsinspectie](http://twitter.com/search?q=Arbeidsinspectie) | N/A |
-| 40 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 31 | [Arvid de Kleijn](http://twitter.com/search?q=Arvid+de+Kleijn) | N/A |
+| 32 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
+| 33 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 34 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 35 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
+| 36 | [Ali B](http://twitter.com/search?q=Ali+B) | N/A |
+| 37 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 38 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 40 | [Arbeidsinspectie](http://twitter.com/search?q=Arbeidsinspectie) | N/A |
 | 41 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 42 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 42 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
 | 43 | [Socialer](http://twitter.com/search?q=Socialer) | N/A |
 | 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 45 | [jeroen rietbergen](http://twitter.com/search?q=jeroen+rietbergen) | N/A |
-| 46 | [Jonge](http://twitter.com/search?q=Jonge) | N/A |
-| 47 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
-| 48 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
-| 49 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 45 | [Zojuist](http://twitter.com/search?q=Zojuist) | N/A |
+| 46 | [jeroen rietbergen](http://twitter.com/search?q=jeroen+rietbergen) | N/A |
+| 47 | [Wietse](http://twitter.com/search?q=Wietse) | N/A |
+| 48 | [Jonge](http://twitter.com/search?q=Jonge) | N/A |
+| 49 | [Lange](http://twitter.com/search?q=Lange) | N/A |
 
 
 

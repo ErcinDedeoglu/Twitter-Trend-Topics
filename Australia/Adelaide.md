@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-03-15 17:16:14 UTC`
+📆 Last Updated: `2023-03-15 18:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,10 +35,10 @@ This is top 50 for [Australia](</Australia>)
 | 18 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
 | 19 | [Uyghurs](http://twitter.com/search?q=Uyghurs) | N/A |
 | 20 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 21 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
-| 22 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 22 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
 | 23 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 24 | [Angus Glover](http://twitter.com/search?q=Angus+Glover) | N/A |
+| 24 | [angus glover](http://twitter.com/search?q=angus+glover) | N/A |
 | 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 26 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
 | 27 | [lyndall](http://twitter.com/search?q=lyndall) | N/A |
@@ -46,24 +46,24 @@ This is top 50 for [Australia](</Australia>)
 | 29 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
 | 30 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 31 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 32 | [tahnee](http://twitter.com/search?q=tahnee) | N/A |
-| 33 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
-| 34 | [Bree](http://twitter.com/search?q=Bree) | N/A |
-| 35 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 36 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 37 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 38 | [Gaze](http://twitter.com/search?q=Gaze) | N/A |
-| 39 | [Hartcher](http://twitter.com/search?q=Hartcher) | N/A |
-| 40 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 41 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
-| 42 | [matthew knott](http://twitter.com/search?q=matthew+knott) | N/A |
-| 43 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 44 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 45 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 46 | [Mansell](http://twitter.com/search?q=Mansell) | N/A |
-| 47 | [Subs](http://twitter.com/search?q=Subs) | N/A |
-| 48 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
-| 49 | [billy hughes](http://twitter.com/search?q=billy+hughes) | N/A |
+| 32 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
+| 33 | [Bree](http://twitter.com/search?q=Bree) | N/A |
+| 34 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 35 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 36 | [Gaze](http://twitter.com/search?q=Gaze) | N/A |
+| 37 | [Hartcher](http://twitter.com/search?q=Hartcher) | N/A |
+| 38 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 39 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
+| 40 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 41 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 42 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 43 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 44 | [Mansell](http://twitter.com/search?q=Mansell) | N/A |
+| 45 | [Subs](http://twitter.com/search?q=Subs) | N/A |
+| 46 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
+| 47 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 48 | [Billy Hughes](http://twitter.com/search?q=Billy+Hughes) | N/A |
+| 49 | [sydney harbour bridge](http://twitter.com/search?q=sydney+harbour+bridge) | N/A |
 
 
 

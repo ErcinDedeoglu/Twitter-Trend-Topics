@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-03-15 17:16:14 UTC`
+📆 Last Updated: `2023-03-15 18:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,14 +32,14 @@ This is top 50 for [Australia](</Australia>)
 | 15 | [#WeTheKings](http://twitter.com/search?q=%23WeTheKings) | N/A |
 | 16 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
 | 17 | [Marles](http://twitter.com/search?q=Marles) | N/A |
-| 18 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
-| 19 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 18 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 19 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
 | 20 | [Uyghurs](http://twitter.com/search?q=Uyghurs) | N/A |
 | 21 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 22 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
-| 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 24 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 25 | [Angus Glover](http://twitter.com/search?q=Angus+Glover) | N/A |
+| 22 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 23 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 24 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
+| 25 | [angus glover](http://twitter.com/search?q=angus+glover) | N/A |
 | 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 27 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
 | 28 | [lyndall](http://twitter.com/search?q=lyndall) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Australia](</Australia>)
 | 30 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
 | 31 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 32 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 33 | [tahnee](http://twitter.com/search?q=tahnee) | N/A |
-| 34 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
-| 35 | [Bree](http://twitter.com/search?q=Bree) | N/A |
-| 36 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 37 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 38 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 39 | [Gaze](http://twitter.com/search?q=Gaze) | N/A |
-| 40 | [Hartcher](http://twitter.com/search?q=Hartcher) | N/A |
-| 41 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 42 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
-| 43 | [matthew knott](http://twitter.com/search?q=matthew+knott) | N/A |
-| 44 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 45 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 46 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 47 | [Mansell](http://twitter.com/search?q=Mansell) | N/A |
-| 48 | [Subs](http://twitter.com/search?q=Subs) | N/A |
-| 49 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
-| 50 | [billy hughes](http://twitter.com/search?q=billy+hughes) | N/A |
+| 33 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
+| 34 | [Bree](http://twitter.com/search?q=Bree) | N/A |
+| 35 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 36 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 37 | [Gaze](http://twitter.com/search?q=Gaze) | N/A |
+| 38 | [Hartcher](http://twitter.com/search?q=Hartcher) | N/A |
+| 39 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 40 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
+| 41 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 42 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 43 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 44 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 45 | [Mansell](http://twitter.com/search?q=Mansell) | N/A |
+| 46 | [Subs](http://twitter.com/search?q=Subs) | N/A |
+| 47 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
+| 48 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 49 | [Billy Hughes](http://twitter.com/search?q=Billy+Hughes) | N/A |
+| 50 | [sydney harbour bridge](http://twitter.com/search?q=sydney+harbour+bridge) | N/A |
 
 
 
