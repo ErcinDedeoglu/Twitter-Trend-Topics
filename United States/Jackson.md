@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-03-15 01:43:56 UTC`
+📆 Last Updated: `2023-03-15 02:34:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 2 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 3 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 1 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 2 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 3 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
 | 4 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 5 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 6 | [Jamaal Williams](http://twitter.com/search?q=Jamaal+Williams) | Jamaal Williams is a professional American football player who currently plays for the Green Bay Packers of the National Football League (NFL). His name is derived from the Arabic word "Jamal", which means "beauty". |
-| 7 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 8 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 9 | [David Montgomery](http://twitter.com/search?q=David+Montgomery) | N/A |
+| 5 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 6 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 7 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 8 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 9 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
 | 10 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 11 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 12 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 13 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 14 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 15 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 16 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 17 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
-| 18 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 19 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
-| 20 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
-| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 22 | [Dylan Windler](http://twitter.com/search?q=Dylan+Windler) | N/A |
-| 23 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 24 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 25 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 26 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
-| 27 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 28 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 29 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 30 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
-| 31 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 32 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
-| 33 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 34 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 35 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 36 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 37 | [Corpus Christi](http://twitter.com/search?q=Corpus+Christi) | N/A |
-| 38 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
-| 39 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 40 | [Steve Lutz](http://twitter.com/search?q=Steve+Lutz) | N/A |
-| 41 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
-| 42 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 43 | [Small Soldiers](http://twitter.com/search?q=Small+Soldiers) | N/A |
-| 44 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 45 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 46 | [Harvey Dent](http://twitter.com/search?q=Harvey+Dent) | N/A |
-| 47 | [The Movie Critic](http://twitter.com/search?q=The+Movie+Critic) | N/A |
+| 11 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 12 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 13 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 14 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 15 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 16 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 17 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 18 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
+| 19 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 20 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 22 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
+| 23 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 24 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 25 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 26 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
+| 27 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 28 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 29 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 30 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
+| 31 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
+| 32 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 33 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 34 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 35 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
+| 36 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 37 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 38 | [Tolu](http://twitter.com/search?q=Tolu) | N/A |
+| 39 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
+| 40 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 41 | [Avery Johnson](http://twitter.com/search?q=Avery+Johnson) | N/A |
+| 42 | [Darvin](http://twitter.com/search?q=Darvin) | N/A |
+| 43 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 44 | [Jesse Singal](http://twitter.com/search?q=Jesse+Singal) | N/A |
+| 45 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
+| 46 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
+| 47 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
 
 
 

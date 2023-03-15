@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-15 01:43:59 UTC`
+📆 Last Updated: `2023-03-15 02:34:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 3 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 4 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 5 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 6 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 7 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 2 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 3 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 4 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 5 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 6 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 7 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 | 8 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 9 | [Jamaal Williams](http://twitter.com/search?q=Jamaal+Williams) | Jamaal Williams is a professional American football player who currently plays for the Green Bay Packers of the National Football League (NFL). His name is derived from the Arabic word "Jamal", which means "beauty". |
-| 10 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 11 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 12 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 13 | [#1000lbSisters](http://twitter.com/search?q=%231000lbSisters) | N/A |
-| 14 | [David Montgomery](http://twitter.com/search?q=David+Montgomery) | N/A |
-| 15 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 16 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 17 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 18 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 19 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 20 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 21 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 22 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 23 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
-| 24 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 25 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
-| 26 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 27 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 28 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
-| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 30 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 31 | [Dylan Windler](http://twitter.com/search?q=Dylan+Windler) | N/A |
-| 32 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 33 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
-| 34 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 35 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 36 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 37 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
-| 38 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 39 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
-| 40 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 41 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
-| 42 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 43 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 44 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 45 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 46 | [Corpus Christi](http://twitter.com/search?q=Corpus+Christi) | N/A |
-| 47 | [Steve Lutz](http://twitter.com/search?q=Steve+Lutz) | N/A |
-| 48 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
-| 49 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 50 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 9 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 10 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 11 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 12 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 13 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 14 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 15 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 16 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 17 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 18 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 19 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 20 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 21 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 22 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
+| 23 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 24 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 26 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
+| 27 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 28 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 29 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 30 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
+| 31 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 32 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 33 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 34 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
+| 35 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
+| 36 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 37 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 38 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 39 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
+| 40 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 41 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 42 | [Tolu](http://twitter.com/search?q=Tolu) | N/A |
+| 43 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
+| 44 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 45 | [Avery Johnson](http://twitter.com/search?q=Avery+Johnson) | N/A |
+| 46 | [Darvin](http://twitter.com/search?q=Darvin) | N/A |
+| 47 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 48 | [Jesse Singal](http://twitter.com/search?q=Jesse+Singal) | N/A |
+| 49 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
+| 50 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
 
 
 

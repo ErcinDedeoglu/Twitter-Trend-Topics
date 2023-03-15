@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-15 01:44:09 UTC`
+📆 Last Updated: `2023-03-15 02:34:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,29 +28,29 @@ This is top 50 for Switzerland
 | 11 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 12 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 15 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 16 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 14 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 15 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 16 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
 | 17 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 18 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 18 | [Africa](http://twitter.com/search?q=Africa) | N/A |
 | 19 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
 | 20 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
 | 21 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 22 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 23 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 24 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 25 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 26 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 27 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 28 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
-| 29 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 30 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 31 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 34 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 35 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 36 | [eidgenossen](http://twitter.com/search?q=eidgenossen) | N/A |
+| 22 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 23 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 24 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 25 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 26 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 27 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
+| 28 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 29 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 30 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 33 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 34 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 35 | [eidgenossen](http://twitter.com/search?q=eidgenossen) | N/A |
+| 36 | [Themen](http://twitter.com/search?q=Themen) | N/A |
 | 37 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
 | 38 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
 | 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |

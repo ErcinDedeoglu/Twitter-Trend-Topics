@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-15 01:44:03 UTC`
+📆 Last Updated: `2023-03-15 02:34:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,10 +41,10 @@ This is top 50 for Denmark
 | 24 | [bergur](http://twitter.com/search?q=bergur) | N/A |
 | 25 | [hermansen](http://twitter.com/search?q=hermansen) | N/A |
 | 26 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 27 | [Berlingske](http://twitter.com/search?q=Berlingske) | N/A |
-| 28 | [Steinlein](http://twitter.com/search?q=Steinlein) | N/A |
+| 27 | [berlingske](http://twitter.com/search?q=berlingske) | N/A |
+| 28 | [steinlein](http://twitter.com/search?q=steinlein) | N/A |
 | 29 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 30 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 30 | [mette frederiksen](http://twitter.com/search?q=mette+frederiksen) | N/A |
 | 31 | [egypten](http://twitter.com/search?q=egypten) | N/A |
 | 32 | [ODENSE](http://twitter.com/search?q=ODENSE) | N/A |
 | 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Denmark
 | 46 | [herning](http://twitter.com/search?q=herning) | N/A |
 | 47 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 48 | [nicolai poulsen](http://twitter.com/search?q=nicolai+poulsen) | N/A |
-| 49 | [America](http://twitter.com/search?q=America) | N/A |
-| 50 | [Heldigvis](http://twitter.com/search?q=Heldigvis) | N/A |
+| 49 | [heldigvis](http://twitter.com/search?q=heldigvis) | N/A |
+| 50 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 
 
 

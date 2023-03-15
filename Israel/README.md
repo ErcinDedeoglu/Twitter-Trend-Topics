@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-15 01:44:05 UTC`
+📆 Last Updated: `2023-03-15 02:34:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,15 +19,15 @@ This is top 50 for Israel
 | 2 | [של גפני](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%a4%d7%a0%d7%99) | N/A |
 | 3 | [יולי אדלשטיין](http://twitter.com/search?q=%d7%99%d7%95%d7%9c%d7%99+%d7%90%d7%93%d7%9c%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
 | 4 | [אודי סגל](http://twitter.com/search?q=%d7%90%d7%95%d7%93%d7%99+%d7%a1%d7%92%d7%9c) | N/A |
-| 5 | [איבר מין](http://twitter.com/search?q=%d7%90%d7%99%d7%91%d7%a8+%d7%9e%d7%99%d7%9f) | N/A |
-| 6 | [טראוויס סקוט](http://twitter.com/search?q=%d7%98%d7%a8%d7%90%d7%95%d7%95%d7%99%d7%a1+%d7%a1%d7%a7%d7%95%d7%98) | N/A |
-| 7 | [גז פלפל](http://twitter.com/search?q=%d7%92%d7%96+%d7%a4%d7%9c%d7%a4%d7%9c) | N/A |
-| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 9 | [מבקר המדינה](http://twitter.com/search?q=%d7%9e%d7%91%d7%a7%d7%a8+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 10 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
-| 11 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
-| 12 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 13 | [מערכת החינוך](http://twitter.com/search?q=%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
+| 5 | [טראוויס סקוט](http://twitter.com/search?q=%d7%98%d7%a8%d7%90%d7%95%d7%95%d7%99%d7%a1+%d7%a1%d7%a7%d7%95%d7%98) | N/A |
+| 6 | [גז פלפל](http://twitter.com/search?q=%d7%92%d7%96+%d7%a4%d7%9c%d7%a4%d7%9c) | N/A |
+| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 8 | [מבקר המדינה](http://twitter.com/search?q=%d7%9e%d7%91%d7%a7%d7%a8+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 9 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
+| 10 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
+| 11 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
+| 12 | [מערכת החינוך](http://twitter.com/search?q=%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
+| 13 | [איבר מין](http://twitter.com/search?q=%d7%90%d7%99%d7%91%d7%a8+%d7%9e%d7%99%d7%9f) | N/A |
 | 14 | [כ פוגל](http://twitter.com/search?q=%d7%9b+%d7%a4%d7%95%d7%92%d7%9c) | N/A |
 | 15 | [שר החינוך](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
 | 16 | [דרך ארץ](http://twitter.com/search?q=%d7%93%d7%a8%d7%9a+%d7%90%d7%a8%d7%a5) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Israel
 | 44 | [משנה מי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a0%d7%94+%d7%9e%d7%99) | N/A |
 | 45 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
 | 46 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 47 | [של חרדים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%a8%d7%93%d7%99%d7%9d) | N/A |
-| 48 | [עם חולצה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%95%d7%9c%d7%a6%d7%94) | N/A |
-| 49 | [חוק ההתנתקות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%94%d7%aa%d7%a0%d7%aa%d7%a7%d7%95%d7%aa) | N/A |
-| 50 | [מעגל ראשון](http://twitter.com/search?q=%d7%9e%d7%a2%d7%92%d7%9c+%d7%a8%d7%90%d7%a9%d7%95%d7%9f) | N/A |
+| 47 | [עם חולצה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%95%d7%9c%d7%a6%d7%94) | N/A |
+| 48 | [חוק ההתנתקות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%94%d7%aa%d7%a0%d7%aa%d7%a7%d7%95%d7%aa) | N/A |
+| 49 | [מעגל ראשון](http://twitter.com/search?q=%d7%9e%d7%a2%d7%92%d7%9c+%d7%a8%d7%90%d7%a9%d7%95%d7%9f) | N/A |
+| 50 | [כוח אדם](http://twitter.com/search?q=%d7%9b%d7%95%d7%97+%d7%90%d7%93%d7%9d) | N/A |
 
 
 

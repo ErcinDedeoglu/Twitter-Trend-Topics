@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-15 01:43:26 UTC`
+📆 Last Updated: `2023-03-15 02:33:58 UTC`
 
 🔧 Updated every 1 hour!
 

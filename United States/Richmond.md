@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-15 01:44:00 UTC`
+📆 Last Updated: `2023-03-15 02:34:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 2 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 3 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 4 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 5 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 1 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 2 | [Pi Day](http://twitter.com/search?q=Pi+Day) | N/A |
+| 3 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 4 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 5 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
 | 6 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 7 | [Jamaal Williams](http://twitter.com/search?q=Jamaal+Williams) | Jamaal Williams is a professional American football player who currently plays for the Green Bay Packers of the National Football League (NFL). His name is derived from the Arabic word "Jamal", which means "beauty". |
-| 8 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 9 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 10 | [#1000lbSisters](http://twitter.com/search?q=%231000lbSisters) | N/A |
-| 11 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 12 | [#TheOvalOnBET](http://twitter.com/search?q=%23TheOvalOnBET) | N/A |
-| 13 | [David Montgomery](http://twitter.com/search?q=David+Montgomery) | N/A |
+| 7 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 8 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 9 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 10 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 11 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 12 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 13 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 14 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 15 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 16 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 17 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 19 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 20 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 21 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
-| 22 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 23 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
-| 24 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
-| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 26 | [Dylan Windler](http://twitter.com/search?q=Dylan+Windler) | N/A |
-| 27 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 15 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 16 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 17 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 18 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 19 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 20 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 21 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 22 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
+| 23 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 24 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 26 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
+| 27 | [Charity](http://twitter.com/search?q=Charity) | N/A |
 | 28 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 29 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 30 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
-| 31 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 32 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 33 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 34 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
-| 35 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 36 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
-| 37 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 38 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
-| 39 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 40 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 41 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 42 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 43 | [Corpus Christi](http://twitter.com/search?q=Corpus+Christi) | N/A |
-| 44 | [Steve Lutz](http://twitter.com/search?q=Steve+Lutz) | N/A |
-| 45 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 46 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
-| 47 | [Small Soldiers](http://twitter.com/search?q=Small+Soldiers) | N/A |
-| 48 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 49 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 29 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 30 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
+| 31 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 32 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 33 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 34 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
+| 35 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
+| 36 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 37 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 38 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 39 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
+| 40 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 41 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 42 | [Tolu](http://twitter.com/search?q=Tolu) | N/A |
+| 43 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
+| 44 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 45 | [Avery Johnson](http://twitter.com/search?q=Avery+Johnson) | N/A |
+| 46 | [Darvin](http://twitter.com/search?q=Darvin) | N/A |
+| 47 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 48 | [Jesse Singal](http://twitter.com/search?q=Jesse+Singal) | N/A |
+| 49 | [Miss St](http://twitter.com/search?q=Miss+St) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-15 01:44:10 UTC`
+📆 Last Updated: `2023-03-15 02:34:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 9 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
 | 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 11 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 13 | [putri dahlia](http://twitter.com/search?q=putri+dahlia) | N/A |
-| 14 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 15 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 12 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 13 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 14 | [putri dahlia](http://twitter.com/search?q=putri+dahlia) | N/A |
+| 15 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
 | 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 17 | [chentoh](http://twitter.com/search?q=chentoh) | N/A |
 | 18 | [MINHEE](http://twitter.com/search?q=MINHEE) | N/A |
 | 19 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
 | 20 | [ongteo](http://twitter.com/search?q=ongteo) | N/A |
-| 21 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 23 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 24 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 25 | [tsmy](http://twitter.com/search?q=tsmy) | N/A |
-| 26 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 27 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 28 | [Jean](http://twitter.com/search?q=Jean) | N/A |
-| 29 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
+| 21 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 22 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 23 | [tsmy](http://twitter.com/search?q=tsmy) | N/A |
+| 24 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 26 | [Jean](http://twitter.com/search?q=Jean) | N/A |
+| 27 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
+| 28 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 29 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
 | 30 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 31 | [thank you mc chaehyun](http://twitter.com/search?q=thank+you+mc+chaehyun) | N/A |
+| 31 | [THANK YOU MC CHAEHYUN](http://twitter.com/search?q=THANK+YOU+MC+CHAEHYUN) | N/A |
 | 32 | [weiwei](http://twitter.com/search?q=weiwei) | N/A |
 | 33 | [finas](http://twitter.com/search?q=finas) | N/A |
 | 34 | [The Show](http://twitter.com/search?q=The+Show) | N/A |
-| 35 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 36 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 37 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 38 | [YAYY](http://twitter.com/search?q=YAYY) | N/A |
-| 39 | [Old Love](http://twitter.com/search?q=Old+Love) | N/A |
-| 40 | [Sabah](http://twitter.com/search?q=Sabah) | N/A |
-| 41 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 42 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
-| 43 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 44 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
-| 45 | [datuk roy](http://twitter.com/search?q=datuk+roy) | N/A |
-| 46 | [First MV](http://twitter.com/search?q=First+MV) | N/A |
-| 47 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 48 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 49 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 50 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 35 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 36 | [YAYY](http://twitter.com/search?q=YAYY) | N/A |
+| 37 | [OLD LOVE](http://twitter.com/search?q=OLD+LOVE) | N/A |
+| 38 | [Sabah](http://twitter.com/search?q=Sabah) | N/A |
+| 39 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 40 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 41 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 42 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 43 | [datuk roy](http://twitter.com/search?q=datuk+roy) | N/A |
+| 44 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 45 | [First MV](http://twitter.com/search?q=First+MV) | N/A |
+| 46 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 47 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 48 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 49 | [Women's March](http://twitter.com/search?q=Women%27s+March) | N/A |
+| 50 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
 
 
 

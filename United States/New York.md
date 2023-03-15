@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-15 01:43:58 UTC`
+📆 Last Updated: `2023-03-15 02:34:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 2 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
 | 3 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
 | 4 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 5 | [Beane](http://twitter.com/search?q=Beane) | N/A |
+| 5 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
 | 6 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 7 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 8 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 9 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 10 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 11 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 12 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 13 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 14 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 15 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 16 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 17 | [Jamaal Williams](http://twitter.com/search?q=Jamaal+Williams) | Jamaal Williams is a professional American football player who currently plays for the Green Bay Packers of the National Football League (NFL). His name is derived from the Arabic word "Jamal", which means "beauty". |
-| 18 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 19 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 20 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 21 | [#1000lbSisters](http://twitter.com/search?q=%231000lbSisters) | N/A |
-| 22 | [David Montgomery](http://twitter.com/search?q=David+Montgomery) | N/A |
-| 23 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 24 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 25 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 26 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 27 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 28 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 29 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 30 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 31 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
-| 32 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 33 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
-| 34 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 35 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 36 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
-| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 38 | [Dylan Windler](http://twitter.com/search?q=Dylan+Windler) | N/A |
-| 39 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 40 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 41 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
-| 42 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 43 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 44 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 45 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
-| 46 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 47 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
-| 48 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 49 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
-| 50 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 7 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
+| 8 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 9 | [Beane](http://twitter.com/search?q=Beane) | N/A |
+| 10 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 11 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 12 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 13 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 14 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 15 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 16 | [Montgomery](http://twitter.com/search?q=Montgomery) | N/A |
+| 17 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 18 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 19 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 20 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 21 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 22 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 23 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 24 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 25 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 26 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 27 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 28 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 29 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 30 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 31 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 32 | [Travis Homer](http://twitter.com/search?q=Travis+Homer) | N/A |
+| 33 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 34 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 36 | [Khalil Herbert](http://twitter.com/search?q=Khalil+Herbert) | N/A |
+| 37 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 38 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 39 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 40 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
+| 41 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 42 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 43 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 44 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
+| 45 | [Kvitova](http://twitter.com/search?q=Kvitova) | N/A |
+| 46 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 47 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 48 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 49 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
+| 50 | [Igor](http://twitter.com/search?q=Igor) | N/A |
 
 
 

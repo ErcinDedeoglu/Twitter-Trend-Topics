@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-15 01:43:25 UTC`
+📆 Last Updated: `2023-03-15 02:33:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,21 +20,21 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
 | 4 | [#ZemstaMateckiego](http://twitter.com/search?q=%23ZemstaMateckiego) | N/A |
 | 5 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 7 | [#JakJustyna](http://twitter.com/search?q=%23JakJustyna) | N/A |
+| 6 | [#jakjustyna](http://twitter.com/search?q=%23jakjustyna) | N/A |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 8 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
-| 9 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
-| 10 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 11 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 9 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 10 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 11 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 13 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
 | 14 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 15 | [kaleta](http://twitter.com/search?q=kaleta) | N/A |
 | 16 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 17 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
-| 18 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 19 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
-| 20 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 17 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 18 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 19 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 20 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
 | 21 | [Lange](http://twitter.com/search?q=Lange) | N/A |
 | 22 | [franciszek blachnicki](http://twitter.com/search?q=franciszek+blachnicki) | N/A |
 | 23 | [Lipsk](http://twitter.com/search?q=Lipsk) | N/A |
@@ -48,13 +48,13 @@ This is top 50 for [Poland](</Poland>)
 | 31 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
 | 32 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
 | 33 | [justyny wydrzyńskiej](http://twitter.com/search?q=justyny+wydrzy%c5%84skiej) | N/A |
-| 34 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 35 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
-| 36 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 37 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
-| 38 | [Wolność](http://twitter.com/search?q=Wolno%c5%9b%c4%87) | N/A |
-| 39 | [pięknego](http://twitter.com/search?q=pi%c4%99knego) | N/A |
-| 40 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 34 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
+| 35 | [trela](http://twitter.com/search?q=trela) | N/A |
+| 36 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
+| 37 | [Wolność](http://twitter.com/search?q=Wolno%c5%9b%c4%87) | N/A |
+| 38 | [pięknego](http://twitter.com/search?q=pi%c4%99knego) | N/A |
+| 39 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 40 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
 | 41 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
 | 42 | [Totalnie](http://twitter.com/search?q=Totalnie) | N/A |
 | 43 | [Winna](http://twitter.com/search?q=Winna) | N/A |

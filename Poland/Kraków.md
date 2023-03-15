@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-15 01:43:25 UTC`
+📆 Last Updated: `2023-03-15 02:33:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,18 +21,18 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 | 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 6 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
-| 7 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
-| 8 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 9 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 7 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 8 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 9 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
 | 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 11 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
 | 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 13 | [kaleta](http://twitter.com/search?q=kaleta) | N/A |
 | 14 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 15 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
-| 16 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 17 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
-| 18 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 15 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 16 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 17 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 18 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
 | 19 | [Lange](http://twitter.com/search?q=Lange) | N/A |
 | 20 | [franciszek blachnicki](http://twitter.com/search?q=franciszek+blachnicki) | N/A |
 | 21 | [Lipsk](http://twitter.com/search?q=Lipsk) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for [Poland](</Poland>)
 | 31 | [justyny wydrzyńskiej](http://twitter.com/search?q=justyny+wydrzy%c5%84skiej) | N/A |
 | 32 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
 | 33 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
-| 34 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 34 | [trela](http://twitter.com/search?q=trela) | N/A |
 | 35 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
 | 36 | [Wolność](http://twitter.com/search?q=Wolno%c5%9b%c4%87) | N/A |
 | 37 | [pięknego](http://twitter.com/search?q=pi%c4%99knego) | N/A |

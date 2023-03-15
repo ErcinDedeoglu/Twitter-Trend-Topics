@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-15 01:44:03 UTC`
+📆 Last Updated: `2023-03-15 02:34:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 2 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
-| 3 | [#DeMalas](http://twitter.com/search?q=%23DeMalas) | N/A |
+| 2 | [#DeMalas](http://twitter.com/search?q=%23DeMalas) | N/A |
+| 3 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
 | 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
-| 6 | [Bolillo](http://twitter.com/search?q=Bolillo) | N/A |
-| 7 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 8 | [Vicepresidenta](http://twitter.com/search?q=Vicepresidenta) | N/A |
-| 9 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
-| 10 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 11 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 12 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 13 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 16 | [#JusticiaParaCaicedo](http://twitter.com/search?q=%23JusticiaParaCaicedo) | N/A |
-| 17 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
-| 18 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
-| 19 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 20 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 21 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
-| 22 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 23 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
-| 24 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 25 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
-| 26 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 27 | [Matador](http://twitter.com/search?q=Matador) | N/A |
-| 28 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 29 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 30 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 31 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
-| 32 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 33 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 34 | [La Silla Vacía](http://twitter.com/search?q=La+Silla+Vac%c3%ada) | N/A |
-| 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 36 | [Linero](http://twitter.com/search?q=Linero) | N/A |
-| 37 | [David Murcia](http://twitter.com/search?q=David+Murcia) | N/A |
-| 38 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
-| 39 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
-| 40 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
-| 41 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
-| 42 | [Campin](http://twitter.com/search?q=Campin) | N/A |
-| 43 | [Negra](http://twitter.com/search?q=Negra) | N/A |
-| 44 | [Laura Gil](http://twitter.com/search?q=Laura+Gil) | N/A |
-| 45 | [Reinaldo Rueda](http://twitter.com/search?q=Reinaldo+Rueda) | N/A |
-| 46 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
-| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 48 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
-| 49 | [Kudai](http://twitter.com/search?q=Kudai) | N/A |
-| 50 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 5 | [Bolillo](http://twitter.com/search?q=Bolillo) | N/A |
+| 6 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 7 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
+| 8 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 9 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 10 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
+| 11 | [Vicepresidenta](http://twitter.com/search?q=Vicepresidenta) | N/A |
+| 12 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
+| 13 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
+| 14 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 15 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
+| 16 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 17 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
+| 18 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 21 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 22 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
+| 23 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
+| 24 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
+| 25 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
+| 26 | [Flip](http://twitter.com/search?q=Flip) | N/A |
+| 27 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
+| 28 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 29 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 30 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 31 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 32 | [Breiner](http://twitter.com/search?q=Breiner) | N/A |
+| 33 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 34 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 35 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 36 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
+| 37 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 38 | [Elke](http://twitter.com/search?q=Elke) | N/A |
+| 39 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 40 | [La Silla Vacía](http://twitter.com/search?q=La+Silla+Vac%c3%ada) | N/A |
+| 41 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 42 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 43 | [Laura Gil](http://twitter.com/search?q=Laura+Gil) | N/A |
+| 44 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
+| 45 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
+| 46 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
+| 47 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
+| 48 | [Linero](http://twitter.com/search?q=Linero) | N/A |
+| 49 | [Campín](http://twitter.com/search?q=Camp%c3%adn) | N/A |
+| 50 | [David Murcia](http://twitter.com/search?q=David+Murcia) | N/A |
 
 
 

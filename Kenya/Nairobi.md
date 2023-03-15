@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-15 01:43:43 UTC`
+📆 Last Updated: `2023-03-15 02:34:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 4 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 5 | [Kidero](http://twitter.com/search?q=Kidero) | N/A |
-| 6 | [#lgshowcase2023](http://twitter.com/search?q=%23lgshowcase2023) | N/A |
-| 7 | [Martha Karua](http://twitter.com/search?q=Martha+Karua) | N/A |
-| 8 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 9 | [#daybreak](http://twitter.com/search?q=%23daybreak) | N/A |
-| 10 | [#sundownerkbc](http://twitter.com/search?q=%23sundownerkbc) | N/A |
+| 1 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
+| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 4 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 5 | [#Nuru47](http://twitter.com/search?q=%23Nuru47) | N/A |
+| 6 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 7 | [Kidero](http://twitter.com/search?q=Kidero) | N/A |
+| 8 | [#lgshowcase2023](http://twitter.com/search?q=%23lgshowcase2023) | N/A |
+| 9 | [Martha Karua](http://twitter.com/search?q=Martha+Karua) | N/A |
+| 10 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 11 | [tirries tuesday](http://twitter.com/search?q=tirries+tuesday) | N/A |
-| 12 | [Luo Nyanza](http://twitter.com/search?q=Luo+Nyanza) | N/A |
+| 12 | [luo nyanza](http://twitter.com/search?q=luo+nyanza) | N/A |
 | 13 | [Arror and Kimwarer](http://twitter.com/search?q=Arror+and+Kimwarer) | N/A |
 | 14 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 15 | [harmony masaki jr](http://twitter.com/search?q=harmony+masaki+jr) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for [Kenya](</Kenya>)
 | 28 | [wireless oled tvs](http://twitter.com/search?q=wireless+oled+tvs) | N/A |
 | 29 | [brandy maina](http://twitter.com/search?q=brandy+maina) | N/A |
 | 30 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 31 | [moodup](http://twitter.com/search?q=moodup) | N/A |
-| 32 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 33 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 34 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 31 | [EPRA](http://twitter.com/search?q=EPRA) | N/A |
+| 32 | [moodup](http://twitter.com/search?q=moodup) | N/A |
+| 33 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 34 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
 | 35 | [kevo](http://twitter.com/search?q=kevo) | N/A |
-| 36 | [diesel and kerosene](http://twitter.com/search?q=diesel+and+kerosene) | N/A |
-| 37 | [alfred mutua](http://twitter.com/search?q=alfred+mutua) | N/A |
-| 38 | [lg signature](http://twitter.com/search?q=lg+signature) | N/A |
-| 39 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
-| 40 | [chicken welfare](http://twitter.com/search?q=chicken+welfare) | N/A |
-| 41 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 42 | [public holiday](http://twitter.com/search?q=public+holiday) | N/A |
-| 43 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 44 | [richard ngatia](http://twitter.com/search?q=richard+ngatia) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 47 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 48 | [Zambia](http://twitter.com/search?q=Zambia) | N/A |
-| 49 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 50 | [Unlawfully](http://twitter.com/search?q=Unlawfully) | N/A |
+| 36 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 37 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 38 | [diesel and kerosene](http://twitter.com/search?q=diesel+and+kerosene) | N/A |
+| 39 | [alfred mutua](http://twitter.com/search?q=alfred+mutua) | N/A |
+| 40 | [lg signature](http://twitter.com/search?q=lg+signature) | N/A |
+| 41 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
+| 42 | [chicken welfare](http://twitter.com/search?q=chicken+welfare) | N/A |
+| 43 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 44 | [public holiday](http://twitter.com/search?q=public+holiday) | N/A |
+| 45 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 46 | [richard ngatia](http://twitter.com/search?q=richard+ngatia) | N/A |
+| 47 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 48 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 49 | [Zambia](http://twitter.com/search?q=Zambia) | N/A |
+| 50 | [Baba](http://twitter.com/search?q=Baba) | N/A |
 
 
 

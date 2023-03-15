@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-15 01:44:02 UTC`
+📆 Last Updated: `2023-03-15 02:34:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,34 +37,34 @@ This is top 50 for Austria
 | 20 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
 | 21 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
 | 22 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 23 | [Rendi-Wagner](http://twitter.com/search?q=Rendi-Wagner) | N/A |
+| 23 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
 | 24 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
 | 25 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 26 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 27 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 28 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 29 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
-| 30 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 31 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 32 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 33 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 34 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
-| 35 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 36 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 37 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 38 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 39 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 40 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
-| 41 | [#klimaglück](http://twitter.com/search?q=%23klimagl%c3%bcck) | N/A |
-| 42 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
-| 43 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 44 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 45 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 46 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 47 | [spö-parteivorsitz](http://twitter.com/search?q=sp%c3%b6-parteivorsitz) | N/A |
-| 48 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
-| 49 | [Austrian](http://twitter.com/search?q=Austrian) | N/A |
-| 50 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 26 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 27 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 28 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
+| 29 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 30 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 31 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 32 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 33 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
+| 34 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 35 | [Basis](http://twitter.com/search?q=Basis) | N/A |
+| 36 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 37 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 38 | [#klimaglück](http://twitter.com/search?q=%23klimagl%c3%bcck) | N/A |
+| 39 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
+| 40 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 41 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 42 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 43 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 44 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 45 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
+| 46 | [spö-parteivorsitz](http://twitter.com/search?q=sp%c3%b6-parteivorsitz) | N/A |
+| 47 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 48 | [Austrian](http://twitter.com/search?q=Austrian) | N/A |
+| 49 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 50 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-15 01:43:15 UTC`
+📆 Last Updated: `2023-03-15 02:33:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 3 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 4 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 5 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 6 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 7 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 8 | [#bbcdn](http://twitter.com/search?q=%23bbcdn) | N/A |
-| 9 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
-| 10 | [#MCFC](http://twitter.com/search?q=%23MCFC) | N/A |
-| 11 | [#Paula](http://twitter.com/search?q=%23Paula) | N/A |
-| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 13 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 14 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 15 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 16 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 17 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
-| 18 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
-| 19 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
-| 20 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
-| 21 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
-| 22 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 23 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 24 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 25 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 26 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 27 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 28 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 29 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 30 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 31 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
-| 32 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 33 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 34 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
-| 35 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 36 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
-| 37 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 38 | [Norwegian](http://twitter.com/search?q=Norwegian) | N/A |
-| 39 | [Hogan](http://twitter.com/search?q=Hogan) | N/A |
-| 40 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 41 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
-| 42 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 43 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 44 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 45 | [Evans](http://twitter.com/search?q=Evans) | N/A |
-| 46 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
-| 47 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 48 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 49 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
-| 50 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 4 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 5 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 7 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 8 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 10 | [#bbcdn](http://twitter.com/search?q=%23bbcdn) | N/A |
+| 11 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 12 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 13 | [#MCFC](http://twitter.com/search?q=%23MCFC) | N/A |
+| 14 | [#Paula](http://twitter.com/search?q=%23Paula) | N/A |
+| 15 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 16 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 17 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
+| 18 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 19 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 20 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 21 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 22 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 23 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 24 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 25 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
+| 26 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 27 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 28 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
+| 29 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 30 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 31 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 32 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 33 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
+| 34 | [#pnefc](http://twitter.com/search?q=%23pnefc) | N/A |
+| 35 | [#bcfc](http://twitter.com/search?q=%23bcfc) | N/A |
+| 36 | [#interiordesignmasters](http://twitter.com/search?q=%23interiordesignmasters) | N/A |
+| 37 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
+| 38 | [#watfordfc](http://twitter.com/search?q=%23watfordfc) | N/A |
+| 39 | [#SCFC](http://twitter.com/search?q=%23SCFC) | N/A |
+| 40 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
+| 41 | [#MartinLewis](http://twitter.com/search?q=%23MartinLewis) | N/A |
+| 42 | [#cafc](http://twitter.com/search?q=%23cafc) | N/A |
+| 43 | [#TheSims4](http://twitter.com/search?q=%23TheSims4) | N/A |
+| 44 | [#pufc](http://twitter.com/search?q=%23pufc) | N/A |
+| 45 | [#Millwall](http://twitter.com/search?q=%23Millwall) | N/A |
 
 
 

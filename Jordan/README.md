@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-15 01:44:05 UTC`
+📆 Last Updated: `2023-03-15 02:34:37 UTC`
 
 🔧 Updated every 1 hour!
 

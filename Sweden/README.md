@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-15 01:44:09 UTC`
+📆 Last Updated: `2023-03-15 02:34:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Sweden
 | 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 6 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
 | 7 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 8 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
+| 8 | [oskarshamn](http://twitter.com/search?q=oskarshamn) | N/A |
 | 9 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
 | 10 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 11 | [Kristersson](http://twitter.com/search?q=Kristersson) | N/A |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 13 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 14 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
+| 14 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
 | 15 | [hammar](http://twitter.com/search?q=hammar) | N/A |
-| 16 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 17 | [Oatly](http://twitter.com/search?q=Oatly) | N/A |
+| 16 | [Oatly](http://twitter.com/search?q=Oatly) | N/A |
+| 17 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 18 | [#hri2023](http://twitter.com/search?q=%23hri2023) | N/A |
 | 19 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
 | 20 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 | 21 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 22 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
+| 22 | [aktuellt](http://twitter.com/search?q=aktuellt) | N/A |
 | 23 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
 | 24 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 25 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
 | 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 27 | [#hv71](http://twitter.com/search?q=%23hv71) | N/A |
 | 28 | [Salem](http://twitter.com/search?q=Salem) | N/A |
-| 29 | [#Bajen](http://twitter.com/search?q=%23Bajen) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 32 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 33 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
-| 34 | [trist](http://twitter.com/search?q=trist) | N/A |
-| 35 | [nordea](http://twitter.com/search?q=nordea) | N/A |
-| 36 | [Svarta](http://twitter.com/search?q=Svarta) | N/A |
-| 37 | [Durmaz](http://twitter.com/search?q=Durmaz) | N/A |
-| 38 | [Jättemätt](http://twitter.com/search?q=J%c3%a4ttem%c3%a4tt) | N/A |
-| 39 | [Tvärtom](http://twitter.com/search?q=Tv%c3%a4rtom) | N/A |
-| 40 | [kristdemokraterna](http://twitter.com/search?q=kristdemokraterna) | N/A |
-| 41 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 42 | [läser](http://twitter.com/search?q=l%c3%a4ser) | N/A |
-| 43 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 44 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 45 | [Saknar](http://twitter.com/search?q=Saknar) | N/A |
-| 46 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 47 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 48 | [kurtulus](http://twitter.com/search?q=kurtulus) | N/A |
-| 49 | [Hurra](http://twitter.com/search?q=Hurra) | N/A |
-| 50 | [grekland](http://twitter.com/search?q=grekland) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 31 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
+| 32 | [trist](http://twitter.com/search?q=trist) | N/A |
+| 33 | [nordea](http://twitter.com/search?q=nordea) | N/A |
+| 34 | [Svarta](http://twitter.com/search?q=Svarta) | N/A |
+| 35 | [durmaz](http://twitter.com/search?q=durmaz) | N/A |
+| 36 | [Jättemätt](http://twitter.com/search?q=J%c3%a4ttem%c3%a4tt) | N/A |
+| 37 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 38 | [tvärtom](http://twitter.com/search?q=tv%c3%a4rtom) | N/A |
+| 39 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 40 | [läser](http://twitter.com/search?q=l%c3%a4ser) | N/A |
+| 41 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 42 | [Bajen](http://twitter.com/search?q=Bajen) | N/A |
+| 43 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 44 | [saknar](http://twitter.com/search?q=saknar) | N/A |
+| 45 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 46 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 47 | [kurtulus](http://twitter.com/search?q=kurtulus) | N/A |
+| 48 | [Hurra](http://twitter.com/search?q=Hurra) | N/A |
+| 49 | [grekland](http://twitter.com/search?q=grekland) | N/A |
+| 50 | [östermalm](http://twitter.com/search?q=%c3%b6stermalm) | N/A |
 
 
 
