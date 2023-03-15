@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-15 00:28:50 UTC`
+📆 Last Updated: `2023-03-15 01:43:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zeca](http://twitter.com/search?q=Zeca) | N/A |
-| 2 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 1 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 2 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
 | 3 | [Braz](http://twitter.com/search?q=Braz) | N/A |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 6 | [#TheTown2023](http://twitter.com/search?q=%23TheTown2023) | N/A |
-| 7 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 8 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 9 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 10 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 11 | [CURTINDO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
-| 12 | [Bruno Viana](http://twitter.com/search?q=Bruno+Viana) | N/A |
-| 13 | [Marquinhos Gabriel](http://twitter.com/search?q=Marquinhos+Gabriel) | N/A |
-| 14 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 15 | [SIMARIA NO PORCHAT](http://twitter.com/search?q=SIMARIA+NO+PORCHAT) | N/A |
-| 16 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 17 | [#PreSaveVilã](http://twitter.com/search?q=%23PreSaveVil%c3%a3) | N/A |
-| 18 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 19 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 20 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 21 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 22 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 23 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 24 | [wiz khalifa](http://twitter.com/search?q=wiz+khalifa) | N/A |
-| 25 | [Bruninho](http://twitter.com/search?q=Bruninho) | N/A |
-| 26 | [5 GOLS](http://twitter.com/search?q=5+GOLS) | N/A |
-| 27 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 28 | [Renato Paiva](http://twitter.com/search?q=Renato+Paiva) | N/A |
-| 29 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 30 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 31 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 32 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 33 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 34 | [Bobs](http://twitter.com/search?q=Bobs) | N/A |
-| 35 | [Neiff](http://twitter.com/search?q=Neiff) | N/A |
-| 36 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 37 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 38 | [NÃO ANDA](http://twitter.com/search?q=N%c3%83O+ANDA) | N/A |
-| 39 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 40 | [Natanael](http://twitter.com/search?q=Natanael) | N/A |
+| 4 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
+| 5 | [Zeca](http://twitter.com/search?q=Zeca) | N/A |
+| 6 | [HACKEARAM A RAINHA](http://twitter.com/search?q=HACKEARAM+A+RAINHA) | N/A |
+| 7 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 8 | [#TheTown2023](http://twitter.com/search?q=%23TheTown2023) | N/A |
+| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 10 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 11 | [#PorchatNoGNT](http://twitter.com/search?q=%23PorchatNoGNT) | N/A |
+| 12 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 13 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
+| 14 | [O PERFIL DA MARILIA](http://twitter.com/search?q=O+PERFIL+DA+MARILIA) | N/A |
+| 15 | [CURTINDO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
+| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 17 | [Alef Manga](http://twitter.com/search?q=Alef+Manga) | N/A |
+| 18 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 19 | [bruyne](http://twitter.com/search?q=bruyne) | Bruyne is a Dutch surname. It is derived from the Old Dutch word "bruin", meaning "brown". |
+| 20 | [Bruno Viana](http://twitter.com/search?q=Bruno+Viana) | N/A |
+| 21 | [Jr Moraes](http://twitter.com/search?q=Jr+Moraes) | N/A |
+| 22 | [Marquinhos Gabriel](http://twitter.com/search?q=Marquinhos+Gabriel) | N/A |
+| 23 | [Noise](http://twitter.com/search?q=Noise) | N/A |
+| 24 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 25 | [#PreSaveVilã](http://twitter.com/search?q=%23PreSaveVil%c3%a3) | N/A |
+| 26 | [Renato Paiva](http://twitter.com/search?q=Renato+Paiva) | N/A |
+| 27 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
+| 28 | [Bruninho](http://twitter.com/search?q=Bruninho) | N/A |
+| 29 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 30 | [Benítez](http://twitter.com/search?q=Ben%c3%adtez) | N/A |
+| 31 | [Antônio Oliveira](http://twitter.com/search?q=Ant%c3%b4nio+Oliveira) | N/A |
+| 32 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 33 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 34 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
+| 35 | [Coxa](http://twitter.com/search?q=Coxa) | N/A |
+| 36 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 37 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 38 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 39 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 40 | [wiz khalifa](http://twitter.com/search?q=wiz+khalifa) | N/A |
 | 41 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 42 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 43 | [Foo Fighters](http://twitter.com/search?q=Foo+Fighters) | Foo Fighters is an American rock band formed in Seattle, Washington in 1994. The band's name is derived from the term "foo fighter," which was used by Allied aircraft pilots in World War II to describe various unidentified flying objects. The band consists of Dave Grohl (lead vocals, guitar, drums), Taylor Hawkins (drums, backing vocals), Nate Mendel (bass guitar), Chris Shiflett (guitar, backing vocals), Pat Smear (guitar, backing vocals) and Rami Jaffee (keyboard). Foo Fighters have released nine studio albums and have won multiple Grammy Awards. |
-| 44 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 45 | [Noise](http://twitter.com/search?q=Noise) | N/A |
-| 46 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 47 | [Rodoanel](http://twitter.com/search?q=Rodoanel) | N/A |
-| 48 | [CINCO GOLS](http://twitter.com/search?q=CINCO+GOLS) | N/A |
-| 49 | [Jota Júnior](http://twitter.com/search?q=Jota+J%c3%banior) | N/A |
-| 50 | [Peeta](http://twitter.com/search?q=Peeta) | N/A |
+| 42 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 43 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 44 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 45 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
+| 46 | [Rodoanel](http://twitter.com/search?q=Rodoanel) | N/A |
+| 47 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 48 | [Neiff](http://twitter.com/search?q=Neiff) | N/A |
+| 49 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 50 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 
 
 

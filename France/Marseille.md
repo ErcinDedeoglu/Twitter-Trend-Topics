@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-03-15 00:28:54 UTC`
+📆 Last Updated: `2023-03-15 01:43:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 2 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 4 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 5 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 6 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 7 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 8 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 9 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 10 | [#MCILEI](http://twitter.com/search?q=%23MCILEI) | N/A |
+| 5 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 7 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 8 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 9 | [#EboueursEnGreve](http://twitter.com/search?q=%23EboueursEnGreve) | N/A |
+| 10 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
 | 11 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 12 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 13 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 14 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 15 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 16 | [#NintendAlerts](http://twitter.com/search?q=%23NintendAlerts) | N/A |
-| 17 | [Quintuplé](http://twitter.com/search?q=Quintupl%c3%a9) | N/A |
-| 18 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 19 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 20 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 21 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
-| 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 23 | [#UnisFaceAuSeisme](http://twitter.com/search?q=%23UnisFaceAuSeisme) | N/A |
-| 24 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 25 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 26 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 27 | [Cyborg](http://twitter.com/search?q=Cyborg) | N/A |
-| 28 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 29 | [La VAR](http://twitter.com/search?q=La+VAR) | N/A |
-| 30 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
-| 31 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
-| 32 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 33 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 34 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 35 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
-| 36 | [Clémence](http://twitter.com/search?q=Cl%c3%a9mence) | N/A |
-| 37 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 38 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
-| 39 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
-| 40 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 41 | [Noire](http://twitter.com/search?q=Noire) | N/A |
-| 42 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 43 | [Maillot](http://twitter.com/search?q=Maillot) | N/A |
-| 44 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 45 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 46 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 47 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 48 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
-| 49 | [#FCPINT](http://twitter.com/search?q=%23FCPINT) | N/A |
-| 50 | [#SoutienAuxEboueurs](http://twitter.com/search?q=%23SoutienAuxEboueurs) | N/A |
+| 12 | [Seine](http://twitter.com/search?q=Seine) | N/A |
+| 13 | [#MCILEI](http://twitter.com/search?q=%23MCILEI) | N/A |
+| 14 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 16 | [Sophia Aram](http://twitter.com/search?q=Sophia+Aram) | N/A |
+| 17 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 18 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 19 | [J-500](http://twitter.com/search?q=J-500) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 22 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
+| 23 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
+| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 25 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 26 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
+| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 28 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
+| 29 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
+| 30 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 31 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 32 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 33 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
+| 34 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
+| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 36 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
+| 37 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 38 | [Noire](http://twitter.com/search?q=Noire) | N/A |
+| 39 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
+| 40 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 41 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 42 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 43 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 44 | [Attali](http://twitter.com/search?q=Attali) | N/A |
+| 45 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
+| 46 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
+| 47 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 48 | [Les Lakers](http://twitter.com/search?q=Les+Lakers) | N/A |
+| 49 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 50 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
 
 
 

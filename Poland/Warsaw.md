@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-15 00:28:53 UTC`
+📆 Last Updated: `2023-03-15 01:43:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 2 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
+| 1 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
+| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 3 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 4 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 5 | [#ZemstaMateckiego](http://twitter.com/search?q=%23ZemstaMateckiego) | N/A |
+| 4 | [#ZemstaMateckiego](http://twitter.com/search?q=%23ZemstaMateckiego) | N/A |
+| 5 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 | 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 7 | [#JakJustyna](http://twitter.com/search?q=%23JakJustyna) | N/A |
-| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 8 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
 | 9 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
-| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 13 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
-| 14 | [Lipska](http://twitter.com/search?q=Lipska) | N/A |
-| 15 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 16 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 17 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
-| 18 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 19 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 20 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 21 | [Interu](http://twitter.com/search?q=Interu) | N/A |
-| 22 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
-| 23 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 24 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 25 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 10 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 11 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 12 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 16 | [kaleta](http://twitter.com/search?q=kaleta) | N/A |
+| 17 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
+| 18 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
+| 19 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 20 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 21 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 22 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 23 | [franciszek blachnicki](http://twitter.com/search?q=franciszek+blachnicki) | N/A |
+| 24 | [Lipsk](http://twitter.com/search?q=Lipsk) | N/A |
+| 25 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
 | 26 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 27 | [Edersona](http://twitter.com/search?q=Edersona) | N/A |
-| 28 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
-| 29 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
-| 30 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
-| 31 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 32 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 33 | [Messiego](http://twitter.com/search?q=Messiego) | N/A |
-| 34 | [Winna](http://twitter.com/search?q=Winna) | N/A |
-| 35 | [tygodnik nie](http://twitter.com/search?q=tygodnik+nie) | N/A |
-| 36 | [Mediolanu](http://twitter.com/search?q=Mediolanu) | N/A |
-| 37 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
-| 38 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
-| 39 | [Taaak](http://twitter.com/search?q=Taaak) | N/A |
-| 40 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
-| 41 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
-| 42 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
-| 43 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
-| 44 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
-| 45 | [Ulubiona FIFA](http://twitter.com/search?q=Ulubiona+FIFA) | N/A |
-| 46 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
-| 47 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 48 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
-| 49 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
-| 50 | [Parlament Europejski](http://twitter.com/search?q=Parlament+Europejski) | N/A |
+| 27 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 28 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
+| 29 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 30 | [zdrówka](http://twitter.com/search?q=zdr%c3%b3wka) | N/A |
+| 31 | [mikołaj](http://twitter.com/search?q=miko%c5%82aj) | N/A |
+| 32 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
+| 33 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
+| 34 | [justyny wydrzyńskiej](http://twitter.com/search?q=justyny+wydrzy%c5%84skiej) | N/A |
+| 35 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 36 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
+| 37 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 38 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
+| 39 | [Wolność](http://twitter.com/search?q=Wolno%c5%9b%c4%87) | N/A |
+| 40 | [pięknego](http://twitter.com/search?q=pi%c4%99knego) | N/A |
+| 41 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 42 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 43 | [Totalnie](http://twitter.com/search?q=Totalnie) | N/A |
+| 44 | [Winna](http://twitter.com/search?q=Winna) | N/A |
+| 45 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
+| 46 | [tygodnik nie](http://twitter.com/search?q=tygodnik+nie) | N/A |
+| 47 | [gontarczyk](http://twitter.com/search?q=gontarczyk) | N/A |
+| 48 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 49 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
+| 50 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
 
 
 

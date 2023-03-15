@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-15 00:29:42 UTC`
+📆 Last Updated: `2023-03-15 01:44:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Germany
 | 3 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
 | 4 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
 | 5 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
-| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 7 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 9 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 10 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 11 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 12 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 13 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 14 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 6 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 9 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 10 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 11 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 12 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 13 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 14 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
 | 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 17 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
-| 18 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 19 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 20 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 16 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 17 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 19 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 20 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
 | 21 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
 | 22 | [Brie](http://twitter.com/search?q=Brie) | N/A |
-| 23 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 24 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 25 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 26 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 27 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 28 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 29 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 23 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 24 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 25 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 26 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 27 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 28 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
+| 29 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
 | 30 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
 | 31 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 32 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 33 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
-| 34 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 35 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 36 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 32 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 33 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 34 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 35 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 36 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
 | 37 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 38 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 39 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 40 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 41 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 42 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 43 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 44 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 45 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 46 | [Hannah Arendt](http://twitter.com/search?q=Hannah+Arendt) | N/A |
-| 47 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 48 | [Messerstichen](http://twitter.com/search?q=Messerstichen) | N/A |
-| 49 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 50 | [Zweitstimme](http://twitter.com/search?q=Zweitstimme) | N/A |
+| 38 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 39 | [bock auf arbeit](http://twitter.com/search?q=bock+auf+arbeit) | N/A |
+| 40 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 41 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
+| 42 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
+| 43 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 44 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 45 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 46 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 47 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 48 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 49 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 50 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-15 00:29:33 UTC`
+📆 Last Updated: `2023-03-15 01:43:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 1 | [The Lakers](http://twitter.com/search?q=The+Lakers) | N/A |
 | 2 | [PG&E](http://twitter.com/search?q=PG%26E) | N/A |
-| 3 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 4 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 5 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 6 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 7 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
-| 8 | [Monterey Park](http://twitter.com/search?q=Monterey+Park) | Monterey Park is a city located in Los Angeles County, California. It is a large, ethnically diverse suburb of Los Angeles with a population of over 60,000 people. The name Monterey Park comes from the Spanish words for "mountain" and "meadow," and it was originally part of the Rancho San Antonio land grant. |
-| 9 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 10 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 11 | [#rain](http://twitter.com/search?q=%23rain) | N/A |
-| 12 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 13 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
-| 14 | [#SearchLove](http://twitter.com/search?q=%23SearchLove) | N/A |
-| 15 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
-| 16 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 17 | [#SMMW23](http://twitter.com/search?q=%23SMMW23) | N/A |
-| 18 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
-| 19 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 20 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 21 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 22 | [Mark Davis](http://twitter.com/search?q=Mark+Davis) | Mark Davis is a name, and it has no particular meaning in English. |
-| 23 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 24 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 25 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 26 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 3 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 4 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 5 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
+| 6 | [Monterey Park](http://twitter.com/search?q=Monterey+Park) | Monterey Park is a city located in Los Angeles County, California. It is a large, ethnically diverse suburb of Los Angeles with a population of over 60,000 people. The name Monterey Park comes from the Spanish words for "mountain" and "meadow," and it was originally part of the Rancho San Antonio land grant. |
+| 7 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 8 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 9 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
+| 10 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 11 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
+| 12 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
+| 13 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 14 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 15 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 16 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 17 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 18 | [Jamaal Williams](http://twitter.com/search?q=Jamaal+Williams) | Jamaal Williams is a professional American football player who currently plays for the Green Bay Packers of the National Football League (NFL). His name is derived from the Arabic word "Jamal", which means "beauty". |
+| 19 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 20 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 21 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 22 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 23 | [David Montgomery](http://twitter.com/search?q=David+Montgomery) | N/A |
+| 24 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 25 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 26 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 27 | [Pels](http://twitter.com/search?q=Pels) | N/A |
 | 28 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 29 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 30 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 31 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 32 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 33 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 34 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 35 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 36 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 37 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 38 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 39 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
-| 40 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 41 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
-| 42 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 43 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 44 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 45 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 46 | [Samaje](http://twitter.com/search?q=Samaje) | N/A |
-| 47 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
-| 48 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 49 | [Matt Ryan](http://twitter.com/search?q=Matt+Ryan) | Matt Ryan is a nickname for the American football quarterback Matthew Thomas Ryan, who currently plays for the Atlanta Falcons of the National Football League (NFL). The name is derived from his given name, Matthew. |
+| 29 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 30 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 31 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
+| 32 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 33 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
+| 34 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
+| 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 36 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 37 | [Dylan Windler](http://twitter.com/search?q=Dylan+Windler) | N/A |
+| 38 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 39 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 40 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 41 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
+| 42 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 43 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 44 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 45 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
+| 46 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 47 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
+| 48 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 49 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
 
 
 

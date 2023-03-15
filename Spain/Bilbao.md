@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-03-15 00:28:59 UTC`
+📆 Last Updated: `2023-03-15 01:43:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,45 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#TierraDeNadie2](http://twitter.com/search?q=%23TierraDeNadie2) | N/A |
 | 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 3 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 4 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 5 | [#Hermanos14Mar](http://twitter.com/search?q=%23Hermanos14Mar) | N/A |
-| 6 | [Oporto](http://twitter.com/search?q=Oporto) | N/A |
-| 7 | [Ana Luque](http://twitter.com/search?q=Ana+Luque) | N/A |
-| 8 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 3 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 4 | [#Hermanos14Mar](http://twitter.com/search?q=%23Hermanos14Mar) | N/A |
+| 5 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 6 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 7 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 8 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
 | 9 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 10 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
-| 11 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 12 | [El Inter](http://twitter.com/search?q=El+Inter) | N/A |
-| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 14 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
-| 15 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
-| 16 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 18 | [bruyne](http://twitter.com/search?q=bruyne) | Bruyne is a Dutch surname. It is derived from the Old Dutch word "bruin", meaning "brown". |
-| 19 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 20 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 21 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 22 | [Akif](http://twitter.com/search?q=Akif) | N/A |
-| 23 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 24 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 25 | [Roig](http://twitter.com/search?q=Roig) | N/A |
-| 26 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 27 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 28 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
-| 29 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 30 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 31 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 32 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 33 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 34 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 35 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 36 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 37 | [ERC y Bildu](http://twitter.com/search?q=ERC+y+Bildu) | N/A |
-| 38 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 39 | [España y Portugal](http://twitter.com/search?q=Espa%c3%b1a+y+Portugal) | N/A |
-| 40 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 41 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 42 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 43 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 44 | [Participo](http://twitter.com/search?q=Participo) | N/A |
-| 45 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
-| 46 | [Ley Mordaza](http://twitter.com/search?q=Ley+Mordaza) | N/A |
-| 47 | [Mohamed VI](http://twitter.com/search?q=Mohamed+VI) | N/A |
+| 10 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 11 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
+| 12 | [Oporto](http://twitter.com/search?q=Oporto) | N/A |
+| 13 | [Ana Luque](http://twitter.com/search?q=Ana+Luque) | N/A |
+| 14 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 15 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 16 | [bruyne](http://twitter.com/search?q=bruyne) | Bruyne is a Dutch surname. It is derived from the Old Dutch word "bruin", meaning "brown". |
+| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 19 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 20 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 21 | [Roig](http://twitter.com/search?q=Roig) | N/A |
+| 22 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 23 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 24 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
+| 25 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 26 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 27 | [Mundial 2030](http://twitter.com/search?q=Mundial+2030) | N/A |
+| 28 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 29 | [Participo](http://twitter.com/search?q=Participo) | N/A |
+| 30 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 31 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
+| 32 | [#Felices41Malú](http://twitter.com/search?q=%23Felices41Mal%c3%ba) | N/A |
+| 33 | [#ConexiónHonduras2](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras2) | N/A |
+| 34 | [#ElCirc](http://twitter.com/search?q=%23ElCirc) | N/A |
+| 35 | [#CasadelLibro200](http://twitter.com/search?q=%23CasadelLibro200) | N/A |
+| 36 | [#CrisPorta14M](http://twitter.com/search?q=%23CrisPorta14M) | N/A |
+| 37 | [#firstdates14m](http://twitter.com/search?q=%23firstdates14m) | N/A |
+| 38 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 39 | [#RenfeBizumer](http://twitter.com/search?q=%23RenfeBizumer) | N/A |
+| 40 | [#DesbloqueoLeyELA](http://twitter.com/search?q=%23DesbloqueoLeyELA) | N/A |
+| 41 | [#OtraDePodemos](http://twitter.com/search?q=%23OtraDePodemos) | N/A |
 
 
 

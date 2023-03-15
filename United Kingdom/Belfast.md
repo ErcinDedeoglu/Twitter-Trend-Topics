@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-15 00:28:42 UTC`
+📆 Last Updated: `2023-03-15 01:43:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 3 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 4 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 5 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 6 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 7 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 8 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
-| 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 10 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 3 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 4 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 5 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 6 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 7 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 8 | [#bbcdn](http://twitter.com/search?q=%23bbcdn) | N/A |
+| 9 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 10 | [#MCFC](http://twitter.com/search?q=%23MCFC) | N/A |
 | 11 | [#Paula](http://twitter.com/search?q=%23Paula) | N/A |
-| 12 | [#MCFC](http://twitter.com/search?q=%23MCFC) | N/A |
-| 13 | [#bbcdn](http://twitter.com/search?q=%23bbcdn) | N/A |
-| 14 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 16 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
-| 17 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 18 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
-| 19 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 20 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 21 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
-| 22 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 23 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 24 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 26 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
-| 27 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 29 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
-| 30 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 31 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 32 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 33 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
+| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 13 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 14 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 15 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 16 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
+| 17 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
+| 18 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 19 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
+| 20 | [UNIT](http://twitter.com/search?q=UNIT) | N/A |
+| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 22 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 23 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 24 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 25 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 26 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 27 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 28 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 29 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 30 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
+| 31 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 32 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 33 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
 | 34 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
-| 35 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 36 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
-| 37 | [Eustace](http://twitter.com/search?q=Eustace) | N/A |
-| 38 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 39 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 40 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 41 | [Hoever](http://twitter.com/search?q=Hoever) | N/A |
-| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 43 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
-| 44 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 45 | [Cannon](http://twitter.com/search?q=Cannon) | N/A |
-| 46 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 47 | [Sheaf](http://twitter.com/search?q=Sheaf) | N/A |
-| 48 | [Alex Neil](http://twitter.com/search?q=Alex+Neil) | N/A |
-| 49 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
+| 35 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 36 | [Norwegian](http://twitter.com/search?q=Norwegian) | N/A |
+| 37 | [Hogan](http://twitter.com/search?q=Hogan) | N/A |
+| 38 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 39 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
+| 40 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 41 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 42 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 43 | [Evans](http://twitter.com/search?q=Evans) | N/A |
+| 44 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
+| 45 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 46 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 47 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 48 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
 
 
 

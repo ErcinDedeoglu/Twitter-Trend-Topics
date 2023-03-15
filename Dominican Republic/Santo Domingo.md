@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-15 00:28:42 UTC`
+📆 Last Updated: `2023-03-15 01:43:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LaCasadeTodosDo](http://twitter.com/search?q=%23LaCasadeTodosDo) | N/A |
-| 2 | [#PalacioRD](http://twitter.com/search?q=%23PalacioRD) | N/A |
-| 3 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 4 | [#ExpoFomentaPymesBR](http://twitter.com/search?q=%23ExpoFomentaPymesBR) | N/A |
-| 5 | [Eloy](http://twitter.com/search?q=Eloy) | N/A |
-| 6 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 7 | [El Ministro](http://twitter.com/search?q=El+Ministro) | N/A |
-| 8 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 9 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 10 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 2 | [#PioDeportesWBC2023](http://twitter.com/search?q=%23PioDeportesWBC2023) | N/A |
+| 3 | [Eloy](http://twitter.com/search?q=Eloy) | N/A |
+| 4 | [#LaCasadeTodosDo](http://twitter.com/search?q=%23LaCasadeTodosDo) | N/A |
+| 5 | [#PalacioRD](http://twitter.com/search?q=%23PalacioRD) | N/A |
+| 6 | [#ExpoFomentaPymesBR](http://twitter.com/search?q=%23ExpoFomentaPymesBR) | N/A |
+| 7 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 8 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 9 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 10 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
 | 11 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 14 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 15 | [Banreservas](http://twitter.com/search?q=Banreservas) | N/A |
-| 16 | [Jeremy Peña](http://twitter.com/search?q=Jeremy+Pe%c3%b1a) | N/A |
-| 17 | [Banco Mundial](http://twitter.com/search?q=Banco+Mundial) | N/A |
-| 18 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 19 | [Licey](http://twitter.com/search?q=Licey) | N/A |
-| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 21 | [la guáyiga](http://twitter.com/search?q=la+gu%c3%a1yiga) | N/A |
-| 22 | [Esmil Rogers](http://twitter.com/search?q=Esmil+Rogers) | N/A |
-| 23 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 12 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 13 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Julio Rodríguez](http://twitter.com/search?q=Julio+Rodr%c3%adguez) | N/A |
+| 16 | [Banco Mundial](http://twitter.com/search?q=Banco+Mundial) | N/A |
+| 17 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 18 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 19 | [Candelario](http://twitter.com/search?q=Candelario) | N/A |
+| 20 | [Cattleya](http://twitter.com/search?q=Cattleya) | N/A |
+| 21 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 22 | [Javier](http://twitter.com/search?q=Javier) | N/A |
+| 23 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 24 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 25 | [DR-CAFTA](http://twitter.com/search?q=DR-CAFTA) | N/A |
-| 26 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 27 | [Javier](http://twitter.com/search?q=Javier) | N/A |
+| 25 | [la guáyiga](http://twitter.com/search?q=la+gu%c3%a1yiga) | N/A |
+| 26 | [Licey](http://twitter.com/search?q=Licey) | N/A |
+| 27 | [Banreservas](http://twitter.com/search?q=Banreservas) | N/A |
 | 28 | [Luisin](http://twitter.com/search?q=Luisin) | N/A |
-| 29 | [Jorge Blanco](http://twitter.com/search?q=Jorge+Blanco) | N/A |
-| 30 | [Bob Melvin](http://twitter.com/search?q=Bob+Melvin) | N/A |
-| 31 | [Foke](http://twitter.com/search?q=Foke) | N/A |
-| 32 | [Supérate](http://twitter.com/search?q=Sup%c3%a9rate) | N/A |
-| 33 | [Las Américas](http://twitter.com/search?q=Las+Am%c3%a9ricas) | N/A |
-| 34 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 35 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 36 | [Gurabo](http://twitter.com/search?q=Gurabo) | N/A |
-| 37 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 38 | [Roansy Contreras](http://twitter.com/search?q=Roansy+Contreras) | N/A |
-| 39 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 40 | [Sergio Carlo](http://twitter.com/search?q=Sergio+Carlo) | N/A |
-| 41 | [Julio Rodríguez](http://twitter.com/search?q=Julio+Rodr%c3%adguez) | N/A |
-| 42 | [Liberación Dominicana](http://twitter.com/search?q=Liberaci%c3%b3n+Dominicana) | N/A |
+| 29 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 30 | [Roansy Contreras](http://twitter.com/search?q=Roansy+Contreras) | N/A |
+| 31 | [Willy Adames](http://twitter.com/search?q=Willy+Adames) | N/A |
+| 32 | [Bob Melvin](http://twitter.com/search?q=Bob+Melvin) | N/A |
+| 33 | [Azua](http://twitter.com/search?q=Azua) | N/A |
+| 34 | [Villa Mella](http://twitter.com/search?q=Villa+Mella) | N/A |
+| 35 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 36 | [Liberación Dominicana](http://twitter.com/search?q=Liberaci%c3%b3n+Dominicana) | N/A |
+| 37 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 38 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
+| 39 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 40 | [Foke](http://twitter.com/search?q=Foke) | N/A |
+| 41 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 42 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
 | 43 | [Graneado](http://twitter.com/search?q=Graneado) | N/A |
-| 44 | [San Francisco de Macorís](http://twitter.com/search?q=San+Francisco+de+Macor%c3%ads) | N/A |
-| 45 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
-| 46 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 47 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
-| 48 | [Villa Mella](http://twitter.com/search?q=Villa+Mella) | N/A |
-| 49 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
-| 50 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
+| 44 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 45 | [Sergio Carlo](http://twitter.com/search?q=Sergio+Carlo) | N/A |
+| 46 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 47 | [Tremenda](http://twitter.com/search?q=Tremenda) | N/A |
+| 48 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 49 | [Gurabo](http://twitter.com/search?q=Gurabo) | N/A |
+| 50 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 
 
 

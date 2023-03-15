@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-15 00:29:35 UTC`
+📆 Last Updated: `2023-03-15 01:43:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 2 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 1 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 2 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
 | 3 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 4 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 5 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 6 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 7 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 8 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 9 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 10 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 11 | [#Vtubers](http://twitter.com/search?q=%23Vtubers) | N/A |
-| 12 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 13 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
-| 14 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 15 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 16 | [#TogetherBlue](http://twitter.com/search?q=%23TogetherBlue) | #TogetherBlue is a hashtag used to promote unity and support for the Canadian men's national soccer team. It is meant to show solidarity and encourage fans to come together in support of the team. The hashtag is also used to promote the team's official merchandise, which features a blue colour scheme. |
-| 17 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 18 | [Green Bay](http://twitter.com/search?q=Green+Bay) | Green Bay is a city in Wisconsin, United States. It is located on the western shore of Lake Michigan at the mouth of the Fox River. The city is known for its association with the National Football League's Green Bay Packers, which play their home games at Lambeau Field. The name "Green Bay" comes from the French phrase "la baie des Puants," which translates to "the bay of stinks." |
-| 19 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 22 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 23 | [#bigcitygreensclassic](http://twitter.com/search?q=%23bigcitygreensclassic) | N/A |
-| 24 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 25 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 26 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 27 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 28 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 29 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 30 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 31 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 32 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
-| 33 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 34 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 35 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
-| 36 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 37 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 38 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 39 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 40 | [Samaje](http://twitter.com/search?q=Samaje) | N/A |
-| 41 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
-| 42 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 43 | [Matt Ryan](http://twitter.com/search?q=Matt+Ryan) | Matt Ryan is a nickname for the American football quarterback Matthew Thomas Ryan, who currently plays for the Atlanta Falcons of the National Football League (NFL). The name is derived from his given name, Matthew. |
-| 44 | [Jacob Steinmetz](http://twitter.com/search?q=Jacob+Steinmetz) | N/A |
-| 45 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 46 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 47 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 48 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 49 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 50 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 4 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 5 | [Beane](http://twitter.com/search?q=Beane) | N/A |
+| 6 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 7 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 8 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 9 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
+| 10 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 11 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
+| 12 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 13 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 14 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 15 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 16 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 17 | [Jamaal Williams](http://twitter.com/search?q=Jamaal+Williams) | Jamaal Williams is a professional American football player who currently plays for the Green Bay Packers of the National Football League (NFL). His name is derived from the Arabic word "Jamal", which means "beauty". |
+| 18 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 19 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 20 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 21 | [#1000lbSisters](http://twitter.com/search?q=%231000lbSisters) | N/A |
+| 22 | [David Montgomery](http://twitter.com/search?q=David+Montgomery) | N/A |
+| 23 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 24 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 25 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 26 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 27 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 28 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 29 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 30 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 31 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
+| 32 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 33 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
+| 34 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 35 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 36 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
+| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 38 | [Dylan Windler](http://twitter.com/search?q=Dylan+Windler) | N/A |
+| 39 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 40 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 41 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
+| 42 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 43 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 44 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 45 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
+| 46 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 47 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
+| 48 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 49 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
+| 50 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
 
 
 

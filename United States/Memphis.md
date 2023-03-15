@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-15 00:29:33 UTC`
+📆 Last Updated: `2023-03-15 01:43:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lipscomb](http://twitter.com/search?q=Lipscomb) | N/A |
-| 2 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 3 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 6 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 7 | [#bigcitygreensclassic](http://twitter.com/search?q=%23bigcitygreensclassic) | N/A |
-| 8 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 9 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 10 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 11 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 12 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 13 | [#SupermanAndLois](http://twitter.com/search?q=%23SupermanAndLois) | N/A |
-| 14 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 15 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 16 | [#ALeagueOfTheirOwn](http://twitter.com/search?q=%23ALeagueOfTheirOwn) | N/A |
-| 17 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 18 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 19 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 20 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 21 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
-| 22 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 23 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 24 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 25 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
-| 26 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 27 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 28 | [Samaje](http://twitter.com/search?q=Samaje) | N/A |
-| 29 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
-| 30 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 31 | [Matt Ryan](http://twitter.com/search?q=Matt+Ryan) | Matt Ryan is a nickname for the American football quarterback Matthew Thomas Ryan, who currently plays for the Atlanta Falcons of the National Football League (NFL). The name is derived from his given name, Matthew. |
-| 32 | [Jacob Steinmetz](http://twitter.com/search?q=Jacob+Steinmetz) | N/A |
-| 33 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 34 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 35 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 36 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 37 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 38 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 39 | [The Movie Critic](http://twitter.com/search?q=The+Movie+Critic) | N/A |
-| 40 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
-| 41 | [Gilly](http://twitter.com/search?q=Gilly) | N/A |
-| 42 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 43 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 44 | [Tatar](http://twitter.com/search?q=Tatar) | N/A |
+| 1 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 3 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 4 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 5 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 6 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 7 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 8 | [Jamaal Williams](http://twitter.com/search?q=Jamaal+Williams) | Jamaal Williams is a professional American football player who currently plays for the Green Bay Packers of the National Football League (NFL). His name is derived from the Arabic word "Jamal", which means "beauty". |
+| 9 | [#1000lbSisters](http://twitter.com/search?q=%231000lbSisters) | N/A |
+| 10 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 11 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 12 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 13 | [David Montgomery](http://twitter.com/search?q=David+Montgomery) | N/A |
+| 14 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 16 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 17 | [Andre Swift](http://twitter.com/search?q=Andre+Swift) | N/A |
+| 18 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 19 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
+| 20 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 21 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
+| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 23 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
+| 24 | [Dylan Windler](http://twitter.com/search?q=Dylan+Windler) | N/A |
+| 25 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 26 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 27 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 28 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
+| 29 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 30 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 31 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
+| 32 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 33 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
+| 34 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 35 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 36 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
+| 37 | [Corpus Christi](http://twitter.com/search?q=Corpus+Christi) | N/A |
+| 38 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 39 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
+| 40 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 41 | [Steve Lutz](http://twitter.com/search?q=Steve+Lutz) | N/A |
+| 42 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 43 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
+| 44 | [Small Soldiers](http://twitter.com/search?q=Small+Soldiers) | N/A |
 | 45 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 46 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
-| 47 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 48 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 49 | [Mika March](http://twitter.com/search?q=Mika+March) | N/A |
+| 46 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 47 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 48 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
+| 49 | [Harvey Dent](http://twitter.com/search?q=Harvey+Dent) | N/A |
 
 
 

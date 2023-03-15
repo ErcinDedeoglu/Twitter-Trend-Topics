@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-15 00:29:34 UTC`
+📆 Last Updated: `2023-03-15 01:43:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 2 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 3 | [Billy G](http://twitter.com/search?q=Billy+G) | N/A |
-| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 5 | [#AllTheDisneyThrills](http://twitter.com/search?q=%23AllTheDisneyThrills) | N/A |
-| 6 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 7 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 8 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 9 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 12 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 13 | [#bigcitygreensclassic](http://twitter.com/search?q=%23bigcitygreensclassic) | N/A |
-| 14 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 15 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 16 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 17 | [#SupermanAndLois](http://twitter.com/search?q=%23SupermanAndLois) | N/A |
-| 18 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 19 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
-| 20 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
-| 21 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 22 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 23 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 24 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 25 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
-| 26 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 27 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 28 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 29 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
-| 30 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 31 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 32 | [Samaje](http://twitter.com/search?q=Samaje) | N/A |
-| 33 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
-| 34 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 35 | [Matt Ryan](http://twitter.com/search?q=Matt+Ryan) | Matt Ryan is a nickname for the American football quarterback Matthew Thomas Ryan, who currently plays for the Atlanta Falcons of the National Football League (NFL). The name is derived from his given name, Matthew. |
-| 36 | [Jacob Steinmetz](http://twitter.com/search?q=Jacob+Steinmetz) | N/A |
-| 37 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 38 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 39 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 40 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 41 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 42 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 43 | [The Movie Critic](http://twitter.com/search?q=The+Movie+Critic) | N/A |
-| 44 | [Jaundice](http://twitter.com/search?q=Jaundice) | N/A |
-| 45 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 46 | [Gilly](http://twitter.com/search?q=Gilly) | N/A |
-| 47 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 48 | [Tatar](http://twitter.com/search?q=Tatar) | N/A |
-| 49 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 50 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 2 | [#SpaceX](http://twitter.com/search?q=%23SpaceX) | N/A |
+| 3 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 4 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 5 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 6 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 7 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 8 | [Jamaal Williams](http://twitter.com/search?q=Jamaal+Williams) | Jamaal Williams is a professional American football player who currently plays for the Green Bay Packers of the National Football League (NFL). His name is derived from the Arabic word "Jamal", which means "beauty". |
+| 9 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 10 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 11 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 12 | [#1000lbSisters](http://twitter.com/search?q=%231000lbSisters) | N/A |
+| 13 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 14 | [David Montgomery](http://twitter.com/search?q=David+Montgomery) | N/A |
+| 15 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 16 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 17 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 18 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 20 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 21 | [Mrs. Doubtfire](http://twitter.com/search?q=Mrs.+Doubtfire) | N/A |
+| 22 | [Texas A&M CC](http://twitter.com/search?q=Texas+A%26M+CC) | N/A |
+| 23 | [Young MA](http://twitter.com/search?q=Young+MA) | N/A |
+| 24 | [Nick Seeler](http://twitter.com/search?q=Nick+Seeler) | N/A |
+| 25 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
+| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 27 | [Dylan Windler](http://twitter.com/search?q=Dylan+Windler) | N/A |
+| 28 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 29 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 30 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 31 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
+| 32 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 33 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 34 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 35 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
+| 36 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 37 | [Nancy Meyers](http://twitter.com/search?q=Nancy+Meyers) | N/A |
+| 38 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 39 | [Juan Dixon](http://twitter.com/search?q=Juan+Dixon) | N/A |
+| 40 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 41 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 42 | [Pauline Kael](http://twitter.com/search?q=Pauline+Kael) | N/A |
+| 43 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 44 | [Corpus Christi](http://twitter.com/search?q=Corpus+Christi) | N/A |
+| 45 | [Steve Lutz](http://twitter.com/search?q=Steve+Lutz) | N/A |
+| 46 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 47 | [TruTV](http://twitter.com/search?q=TruTV) | N/A |
+| 48 | [Small Soldiers](http://twitter.com/search?q=Small+Soldiers) | N/A |
+| 49 | [Harvey Dent](http://twitter.com/search?q=Harvey+Dent) | N/A |
+| 50 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
 
 
 
