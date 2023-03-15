@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-15 18:17:06 UTC`
+📆 Last Updated: `2023-03-15 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 2 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 3 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 4 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 5 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 6 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 7 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 8 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 2 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 3 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
+| 4 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 5 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 6 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 8 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
 | 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 11 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 12 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 13 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 14 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 15 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
-| 16 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 10 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
+| 11 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
+| 12 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
+| 13 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 14 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 15 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 16 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
 | 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 19 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 20 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 18 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 19 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 20 | [Mord](http://twitter.com/search?q=Mord) | N/A |
 | 21 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
 | 22 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 23 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 24 | [Cathleen](http://twitter.com/search?q=Cathleen) | N/A |
-| 25 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
-| 26 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 27 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 28 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 29 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 30 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 31 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 32 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 33 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 34 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 35 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 36 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 37 | [Skier](http://twitter.com/search?q=Skier) | N/A |
-| 38 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
-| 39 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 40 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 41 | [Verwaltung](http://twitter.com/search?q=Verwaltung) | N/A |
-| 42 | [RTL II](http://twitter.com/search?q=RTL+II) | N/A |
-| 43 | [Vollidioten](http://twitter.com/search?q=Vollidioten) | N/A |
-| 44 | [Zugangscode](http://twitter.com/search?q=Zugangscode) | N/A |
-| 45 | [Versehen](http://twitter.com/search?q=Versehen) | N/A |
-| 46 | [Kartoffeln](http://twitter.com/search?q=Kartoffeln) | N/A |
-| 47 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
-| 48 | [Peinlich](http://twitter.com/search?q=Peinlich) | N/A |
+| 23 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 24 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 25 | [Cathleen](http://twitter.com/search?q=Cathleen) | N/A |
+| 26 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 27 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 28 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 29 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 30 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 31 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 32 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 33 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 34 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 35 | [Zugangscode](http://twitter.com/search?q=Zugangscode) | N/A |
+| 36 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
+| 37 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 38 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
+| 39 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 40 | [Randale](http://twitter.com/search?q=Randale) | N/A |
+| 41 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 42 | [Gewässer](http://twitter.com/search?q=Gew%c3%a4sser) | N/A |
+| 43 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 44 | [Einrad](http://twitter.com/search?q=Einrad) | N/A |
+| 45 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 46 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 47 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 48 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
 
 
 

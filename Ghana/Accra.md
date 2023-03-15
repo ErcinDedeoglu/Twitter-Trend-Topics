@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-15 18:17:19 UTC`
+📆 Last Updated: `2023-03-15 19:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ghana](</Ghana>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kejetia](http://twitter.com/search?q=Kejetia) | N/A |
-| 2 | [Anas](http://twitter.com/search?q=Anas) | N/A |
-| 3 | [#UselessGovernment](http://twitter.com/search?q=%23UselessGovernment) | N/A |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
-| 6 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 7 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 8 | [#kumasi](http://twitter.com/search?q=%23kumasi) | N/A |
-| 9 | [Prison](http://twitter.com/search?q=Prison) | N/A |
-| 10 | [#PabloDay](http://twitter.com/search?q=%23PabloDay) | N/A |
-| 11 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 1 | [Anas](http://twitter.com/search?q=Anas) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Kejetia](http://twitter.com/search?q=Kejetia) | N/A |
+| 4 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 6 | [#UselessGovernment](http://twitter.com/search?q=%23UselessGovernment) | N/A |
+| 7 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 8 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
+| 9 | [#PabloDay](http://twitter.com/search?q=%23PabloDay) | N/A |
+| 10 | [Prison](http://twitter.com/search?q=Prison) | N/A |
+| 11 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 12 | [Spooky](http://twitter.com/search?q=Spooky) | N/A |
-| 13 | [Nana Ama McBrown](http://twitter.com/search?q=Nana+Ama+McBrown) | N/A |
-| 14 | [two terty](http://twitter.com/search?q=two+terty) | N/A |
-| 15 | [#daybreakhitz](http://twitter.com/search?q=%23daybreakhitz) | N/A |
-| 16 | [#SportsCenter](http://twitter.com/search?q=%23SportsCenter) | N/A |
-| 17 | [One Million Cedis](http://twitter.com/search?q=One+Million+Cedis) | N/A |
-| 18 | [The NPP](http://twitter.com/search?q=The+NPP) | N/A |
-| 19 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 20 | [Kennedy Agyapong](http://twitter.com/search?q=Kennedy+Agyapong) | N/A |
-| 21 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 22 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 23 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 24 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 25 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 26 | [Ink Boy](http://twitter.com/search?q=Ink+Boy) | N/A |
-| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 28 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
-| 29 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 30 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 31 | [Sark](http://twitter.com/search?q=Sark) | N/A |
-| 32 | [University of London](http://twitter.com/search?q=University+of+London) | N/A |
-| 33 | [Money Heist](http://twitter.com/search?q=Money+Heist) | N/A |
-| 34 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 35 | [E-levy](http://twitter.com/search?q=E-levy) | N/A |
-| 36 | [takoradi to accra](http://twitter.com/search?q=takoradi+to+accra) | N/A |
-| 37 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 38 | [onua tv](http://twitter.com/search?q=onua+tv) | N/A |
-| 39 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 40 | [Ken Agyapong](http://twitter.com/search?q=Ken+Agyapong) | N/A |
-| 41 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
-| 42 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
-| 43 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
-| 44 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 45 | [national youth organizer](http://twitter.com/search?q=national+youth+organizer) | N/A |
-| 46 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 47 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 48 | [Agric](http://twitter.com/search?q=Agric) | N/A |
-| 49 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 50 | [despite media](http://twitter.com/search?q=despite+media) | N/A |
+| 13 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 14 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 15 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 16 | [Kennedy Agyapong](http://twitter.com/search?q=Kennedy+Agyapong) | N/A |
+| 17 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 18 | [#SportsCenter](http://twitter.com/search?q=%23SportsCenter) | N/A |
+| 19 | [Two Terty](http://twitter.com/search?q=Two+Terty) | N/A |
+| 20 | [Nana Ama McBrown](http://twitter.com/search?q=Nana+Ama+McBrown) | N/A |
+| 21 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 22 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 23 | [One Million Cedis](http://twitter.com/search?q=One+Million+Cedis) | N/A |
+| 24 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 26 | [Sark](http://twitter.com/search?q=Sark) | N/A |
+| 27 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 28 | [University of London](http://twitter.com/search?q=University+of+London) | N/A |
+| 29 | [Ink Boy](http://twitter.com/search?q=Ink+Boy) | N/A |
+| 30 | [Money Heist](http://twitter.com/search?q=Money+Heist) | N/A |
+| 31 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 33 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 34 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 35 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
+| 36 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 37 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
+| 38 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
+| 39 | [takoradi to accra](http://twitter.com/search?q=takoradi+to+accra) | N/A |
+| 40 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 41 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 43 | [E-levy](http://twitter.com/search?q=E-levy) | N/A |
+| 44 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 45 | [Agric](http://twitter.com/search?q=Agric) | N/A |
+| 46 | [national youth organizer](http://twitter.com/search?q=national+youth+organizer) | N/A |
+| 47 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 48 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 49 | [The NPP](http://twitter.com/search?q=The+NPP) | N/A |
+| 50 | [Despite Media](http://twitter.com/search?q=Despite+Media) | N/A |
 
 
 

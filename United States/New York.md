@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-15 18:17:35 UTC`
+📆 Last Updated: `2023-03-15 19:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 2 | [Hines](http://twitter.com/search?q=Hines) | Hines is a surname of English origin. It is derived from the Old English personal name Hine, which was a short form of various compound names with the first element "hīwa" meaning "household". |
-| 3 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 4 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 6 | [Beane](http://twitter.com/search?q=Beane) | N/A |
-| 7 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
-| 8 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 9 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 10 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 11 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 12 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 13 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 14 | [Jordan Love](http://twitter.com/search?q=Jordan+Love) | Jordan Love is a phrase used to express admiration or appreciation for someone. It is often used as a term of endearment, and can be used to show support or appreciation for someone's accomplishments. In English, it could be translated as "I love you, Jordan" or "I'm proud of you, Jordan". |
-| 15 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 16 | [#GoPackGo](http://twitter.com/search?q=%23GoPackGo) | #GoPackGo is a hashtag used by fans of the Green Bay Packers, an American football team based in Wisconsin. It is used to show support for the team and to encourage them to victory. The phrase "Go Pack Go" is a rallying cry for the team and its fans. |
-| 17 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 18 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 19 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
-| 20 | [Schefter](http://twitter.com/search?q=Schefter) | Schefter is a slang term used to describe someone who is a fan of the NFL Network's Adam Schefter, an American sports journalist and analyst. It is often used to describe someone who follows NFL news closely and is up-to-date on the latest news and rumors. |
-| 21 | [Favre](http://twitter.com/search?q=Favre) | N/A |
-| 22 | [#BillsMafia](http://twitter.com/search?q=%23BillsMafia) | #BillsMafia is a hashtag used by fans of the Buffalo Bills, an American football team based in Buffalo, New York. It is used to show support for the team and to connect with other fans. The term "Mafia" is used to refer to the passionate and loyal fan base of the Bills. |
-| 23 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
-| 24 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 25 | [Schefty](http://twitter.com/search?q=Schefty) | N/A |
-| 26 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 27 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
-| 28 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
-| 29 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 30 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
-| 31 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 32 | [Trask](http://twitter.com/search?q=Trask) | N/A |
-| 33 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 34 | [SITW](http://twitter.com/search?q=SITW) | N/A |
-| 35 | [Chip Roy](http://twitter.com/search?q=Chip+Roy) | Chip Roy is the name of an American politician who currently serves as the U.S. Representative for Texas's 21st congressional district. He is a member of the Republican Party. |
-| 36 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 37 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 38 | [#TakeFlight](http://twitter.com/search?q=%23TakeFlight) | #TakeFlight is a hashtag used to encourage people to take risks and pursue their dreams. It is often used as a motivational phrase to inspire people to take action and make their dreams a reality. |
-| 39 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 40 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 41 | [HISD](http://twitter.com/search?q=HISD) | N/A |
-| 42 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
-| 43 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 44 | [NFC North](http://twitter.com/search?q=NFC+North) | NFC North is an abbreviation for the National Football Conference North Division, which is one of the four divisions in the National Football League (NFL). It consists of teams from the Midwest region of the United States, including the Chicago Bears, Detroit Lions, Green Bay Packers, and Minnesota Vikings. |
-| 45 | [Trey Wingo](http://twitter.com/search?q=Trey+Wingo) | N/A |
-| 46 | [Bart Starr](http://twitter.com/search?q=Bart+Starr) | N/A |
-| 47 | [ARod](http://twitter.com/search?q=ARod) | N/A |
-| 48 | [LOSE MY NUMBER](http://twitter.com/search?q=LOSE+MY+NUMBER) | N/A |
-| 49 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
-| 50 | [RIP Legend](http://twitter.com/search?q=RIP+Legend) | N/A |
+| 2 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
+| 3 | [Harty](http://twitter.com/search?q=Harty) | N/A |
+| 4 | [Trey Wingo](http://twitter.com/search?q=Trey+Wingo) | N/A |
+| 5 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 6 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 7 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 8 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 9 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 10 | [Hines](http://twitter.com/search?q=Hines) | Hines is a surname of English origin. It is derived from the Old English personal name Hine, which was a short form of various compound names with the first element "hīwa" meaning "household". |
+| 11 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 12 | [Beane](http://twitter.com/search?q=Beane) | N/A |
+| 13 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
+| 14 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 15 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 16 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 17 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 18 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 19 | [Jordan Love](http://twitter.com/search?q=Jordan+Love) | Jordan Love is a phrase used to express admiration or appreciation for someone. It is often used as a term of endearment, and can be used to show support or appreciation for someone's accomplishments. In English, it could be translated as "I love you, Jordan" or "I'm proud of you, Jordan". |
+| 20 | [#GoPackGo](http://twitter.com/search?q=%23GoPackGo) | #GoPackGo is a hashtag used by fans of the Green Bay Packers, an American football team based in Wisconsin. It is used to show support for the team and to encourage them to victory. The phrase "Go Pack Go" is a rallying cry for the team and its fans. |
+| 21 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 22 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 23 | [Favre](http://twitter.com/search?q=Favre) | N/A |
+| 24 | [JuJu Smith](http://twitter.com/search?q=JuJu+Smith) | N/A |
+| 25 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 26 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
+| 27 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 28 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
+| 29 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
+| 30 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 31 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
+| 32 | [Schefter](http://twitter.com/search?q=Schefter) | Schefter is a slang term used to describe someone who is a fan of the NFL Network's Adam Schefter, an American sports journalist and analyst. It is often used to describe someone who follows NFL news closely and is up-to-date on the latest news and rumors. |
+| 33 | [#Willow](http://twitter.com/search?q=%23Willow) | N/A |
+| 34 | [Jakobi](http://twitter.com/search?q=Jakobi) | N/A |
+| 35 | [#BillsMafia](http://twitter.com/search?q=%23BillsMafia) | #BillsMafia is a hashtag used by fans of the Buffalo Bills, an American football team based in Buffalo, New York. It is used to show support for the team and to connect with other fans. The term "Mafia" is used to refer to the passionate and loyal fan base of the Bills. |
+| 36 | [Chip Roy](http://twitter.com/search?q=Chip+Roy) | Chip Roy is the name of an American politician who currently serves as the U.S. Representative for Texas's 21st congressional district. He is a member of the Republican Party. |
+| 37 | [Schefty](http://twitter.com/search?q=Schefty) | N/A |
+| 38 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 39 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 40 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 41 | [#BidenIsBeatingBigPharma](http://twitter.com/search?q=%23BidenIsBeatingBigPharma) | N/A |
+| 42 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
+| 43 | [Bart Starr](http://twitter.com/search?q=Bart+Starr) | N/A |
+| 44 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 45 | [SITW](http://twitter.com/search?q=SITW) | N/A |
+| 46 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 47 | [Farve](http://twitter.com/search?q=Farve) | N/A |
+| 48 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 49 | [Justice Hill](http://twitter.com/search?q=Justice+Hill) | N/A |
+| 50 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
 
 
 

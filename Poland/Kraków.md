@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-15 18:17:03 UTC`
+📆 Last Updated: `2023-03-15 19:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
 | 2 | [#ParagonyGrozy](http://twitter.com/search?q=%23ParagonyGrozy) | N/A |
-| 3 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
-| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 6 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 7 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
-| 8 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 9 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 12 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 13 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 14 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 15 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
-| 16 | [Neapolu](http://twitter.com/search?q=Neapolu) | N/A |
-| 17 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 18 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
-| 19 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 5 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
+| 6 | [Neapolu](http://twitter.com/search?q=Neapolu) | N/A |
+| 7 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 8 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 9 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
+| 10 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 11 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
+| 12 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
+| 13 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 15 | [Adam Sandauer](http://twitter.com/search?q=Adam+Sandauer) | N/A |
+| 16 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
+| 17 | [Eintrachtu](http://twitter.com/search?q=Eintrachtu) | N/A |
+| 18 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
+| 19 | [Trela](http://twitter.com/search?q=Trela) | N/A |
 | 20 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 21 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
-| 22 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 23 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 24 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 25 | [Biedronki](http://twitter.com/search?q=Biedronki) | N/A |
-| 26 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
-| 27 | [III RP](http://twitter.com/search?q=III+RP) | N/A |
-| 28 | [edersona](http://twitter.com/search?q=edersona) | N/A |
-| 29 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
-| 30 | [Błaszczaka](http://twitter.com/search?q=B%c5%82aszczaka) | N/A |
-| 31 | [Ceny](http://twitter.com/search?q=Ceny) | N/A |
-| 32 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
-| 33 | [Jedyna](http://twitter.com/search?q=Jedyna) | N/A |
-| 34 | [Lidlu](http://twitter.com/search?q=Lidlu) | N/A |
-| 35 | [Justyna](http://twitter.com/search?q=Justyna) | N/A |
-| 36 | [Zgłaszam](http://twitter.com/search?q=Zg%c5%82aszam) | N/A |
-| 37 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 38 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 39 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
-| 40 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 41 | [winna](http://twitter.com/search?q=winna) | N/A |
-| 42 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
-| 43 | [Szwajcarii](http://twitter.com/search?q=Szwajcarii) | N/A |
-| 44 | [Środa](http://twitter.com/search?q=%c5%9aroda) | N/A |
-| 45 | [Włodzimierza Karpińskiego](http://twitter.com/search?q=W%c5%82odzimierza+Karpi%c5%84skiego) | N/A |
-| 46 | [PKP PLK](http://twitter.com/search?q=PKP+PLK) | N/A |
+| 21 | [winna](http://twitter.com/search?q=winna) | N/A |
+| 22 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
+| 23 | [Zgłaszam](http://twitter.com/search?q=Zg%c5%82aszam) | N/A |
+| 24 | [Lipska](http://twitter.com/search?q=Lipska) | N/A |
+| 25 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 26 | [Środa](http://twitter.com/search?q=%c5%9aroda) | N/A |
+| 27 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 28 | [PKP PLK](http://twitter.com/search?q=PKP+PLK) | N/A |
+| 29 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 30 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 31 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
+| 32 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 33 | [W 2015](http://twitter.com/search?q=W+2015) | N/A |
+| 34 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
+| 35 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 36 | [Kryże](http://twitter.com/search?q=Kry%c5%bce) | N/A |
+| 37 | [Orlenie](http://twitter.com/search?q=Orlenie) | N/A |
+| 38 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
+| 39 | [O KURWA](http://twitter.com/search?q=O+KURWA) | N/A |
+| 40 | [Glapa](http://twitter.com/search?q=Glapa) | N/A |
+| 41 | [Maybe YOU](http://twitter.com/search?q=Maybe+YOU) | N/A |
+| 42 | [Oranżada](http://twitter.com/search?q=Oran%c5%bcada) | N/A |
+| 43 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 44 | [Mt 5](http://twitter.com/search?q=Mt+5) | N/A |
+| 45 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
+| 46 | [Płaskowyż](http://twitter.com/search?q=P%c5%82askowy%c5%bc) | N/A |
 
 
 

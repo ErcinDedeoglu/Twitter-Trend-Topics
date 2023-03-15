@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-15 18:17:02 UTC`
+📆 Last Updated: `2023-03-15 19:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 1 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 | 2 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 3 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 4 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
-| 5 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 6 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 8 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 9 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 10 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 11 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 12 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
-| 13 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 14 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 15 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 16 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 17 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 18 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 19 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 20 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 21 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
-| 22 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
-| 23 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 24 | [Andres](http://twitter.com/search?q=Andres) | N/A |
-| 25 | [Tove](http://twitter.com/search?q=Tove) | N/A |
-| 26 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 27 | [HABLA KEY](http://twitter.com/search?q=HABLA+KEY) | N/A |
-| 28 | [Luciano Castan](http://twitter.com/search?q=Luciano+Castan) | N/A |
-| 29 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 30 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 31 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
-| 32 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
-| 33 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
-| 34 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 35 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 36 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 37 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
-| 38 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
-| 39 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 40 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
-| 41 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
-| 42 | [Mosquito](http://twitter.com/search?q=Mosquito) | N/A |
-| 43 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 44 | [Conca](http://twitter.com/search?q=Conca) | N/A |
-| 45 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 3 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 4 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 5 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
+| 6 | [Ibaneis Rocha](http://twitter.com/search?q=Ibaneis+Rocha) | N/A |
+| 7 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 8 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
+| 9 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 10 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 11 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
+| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 13 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
+| 14 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
+| 15 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 16 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 17 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 18 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 19 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
+| 20 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 21 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 22 | [Iguaçu](http://twitter.com/search?q=Igua%c3%a7u) | N/A |
+| 23 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 24 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 25 | [Conca](http://twitter.com/search?q=Conca) | N/A |
+| 26 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
+| 27 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 28 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
+| 29 | [Acapulco Shore](http://twitter.com/search?q=Acapulco+Shore) | N/A |
+| 30 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 31 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 32 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
+| 33 | [Andres](http://twitter.com/search?q=Andres) | N/A |
+| 34 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 35 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 36 | [Luciano Castan](http://twitter.com/search?q=Luciano+Castan) | N/A |
+| 37 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 38 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 39 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
+| 40 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 41 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
+| 42 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 43 | [Obesidade](http://twitter.com/search?q=Obesidade) | N/A |
+| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 46 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 47 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
+| 48 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 49 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
 
 
 

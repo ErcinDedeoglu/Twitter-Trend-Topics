@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-15 18:17:08 UTC`
+📆 Last Updated: `2023-03-15 19:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,47 +18,43 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
 | 2 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
 | 3 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 4 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 5 | [Piazza del Gesù](http://twitter.com/search?q=Piazza+del+Ges%c3%b9) | N/A |
-| 6 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
-| 7 | [#Meloni_purtroppoINADEGUATA](http://twitter.com/search?q=%23Meloni_purtroppoINADEGUATA) | N/A |
-| 8 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 9 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
-| 10 | [Polizia](http://twitter.com/search?q=Polizia) | N/A |
-| 11 | [Napoletani](http://twitter.com/search?q=Napoletani) | N/A |
+| 4 | [Germania](http://twitter.com/search?q=Germania) | N/A |
+| 5 | [#CeferinOut](http://twitter.com/search?q=%23CeferinOut) | N/A |
+| 6 | [#Meloni_purtroppoINADEGUATA](http://twitter.com/search?q=%23Meloni_purtroppoINADEGUATA) | N/A |
+| 7 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
+| 8 | [Piazza del Gesù](http://twitter.com/search?q=Piazza+del+Ges%c3%b9) | N/A |
+| 9 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 10 | [Napoletani](http://twitter.com/search?q=Napoletani) | N/A |
+| 11 | [Polizia](http://twitter.com/search?q=Polizia) | N/A |
 | 12 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 13 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 14 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
-| 15 | [Zerbi](http://twitter.com/search?q=Zerbi) | N/A |
-| 16 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 17 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 18 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 19 | [Camera](http://twitter.com/search?q=Camera) | N/A |
-| 20 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 21 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 13 | [Tedeschi](http://twitter.com/search?q=Tedeschi) | N/A |
+| 14 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 15 | [Prefetto](http://twitter.com/search?q=Prefetto) | N/A |
+| 16 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 17 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 18 | [Camera](http://twitter.com/search?q=Camera) | N/A |
+| 19 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 20 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
+| 21 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
 | 22 | [Cele](http://twitter.com/search?q=Cele) | N/A |
-| 23 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 23 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
 | 24 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 25 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 26 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
-| 27 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 28 | [#ultras](http://twitter.com/search?q=%23ultras) | N/A |
-| 29 | [#Leclerc](http://twitter.com/search?q=%23Leclerc) | N/A |
-| 30 | [#15marzo](http://twitter.com/search?q=%2315marzo) | N/A |
-| 31 | [#UnArmadioPerDue](http://twitter.com/search?q=%23UnArmadioPerDue) | N/A |
-| 32 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
+| 25 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 26 | [#ultras](http://twitter.com/search?q=%23ultras) | N/A |
+| 27 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
+| 28 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
+| 29 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 30 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
+| 31 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
+| 32 | [#disturbialimentari](http://twitter.com/search?q=%23disturbialimentari) | N/A |
 | 33 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
-| 34 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
-| 35 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 36 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
-| 37 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
-| 38 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 39 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 40 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
-| 41 | [#disturbialimentari](http://twitter.com/search?q=%23disturbialimentari) | N/A |
-| 42 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
-| 43 | [#Chiesa](http://twitter.com/search?q=%23Chiesa) | N/A |
-| 44 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
+| 34 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 35 | [#Melonidimettiti](http://twitter.com/search?q=%23Melonidimettiti) | N/A |
+| 36 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 37 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
+| 38 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
+| 39 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
+| 40 | [#LaVoceDelleMuse](http://twitter.com/search?q=%23LaVoceDelleMuse) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-15 18:17:11 UTC`
+📆 Last Updated: `2023-03-15 19:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 2 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 3 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 2 | [#AturanAntiCintaJKT48](http://twitter.com/search?q=%23AturanAntiCintaJKT48) | N/A |
+| 3 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
 | 4 | [Pak Prabowo 2024](http://twitter.com/search?q=Pak+Prabowo+2024) | N/A |
 | 5 | [2024 Prabowo Menang](http://twitter.com/search?q=2024+Prabowo+Menang) | N/A |
-| 6 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 7 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 8 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 9 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 10 | [Sisca](http://twitter.com/search?q=Sisca) | N/A |
-| 11 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
-| 12 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
-| 13 | [Sireng](http://twitter.com/search?q=Sireng) | N/A |
-| 14 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 15 | [JISOO ME VISUAL TEASER](http://twitter.com/search?q=JISOO+ME+VISUAL+TEASER) | N/A |
-| 16 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 17 | [TUNE IN FOR NMIXX](http://twitter.com/search?q=TUNE+IN+FOR+NMIXX) | N/A |
-| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 19 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 20 | [Sarang](http://twitter.com/search?q=Sarang) | N/A |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 23 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 24 | [Guru](http://twitter.com/search?q=Guru) | N/A |
-| 25 | [Nasgor](http://twitter.com/search?q=Nasgor) | N/A |
-| 26 | [TayNew](http://twitter.com/search?q=TayNew) | N/A |
-| 27 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 28 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
-| 29 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
-| 30 | [FajRi](http://twitter.com/search?q=FajRi) | FajRi is an Arabic word that means dawn or sunrise. In English, it can be used to refer to the beginning of a new day or a new era. |
-| 31 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
-| 32 | [Yesus](http://twitter.com/search?q=Yesus) | N/A |
-| 33 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 34 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
-| 35 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 36 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 37 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 38 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 39 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
-| 40 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 41 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 42 | [Glepung](http://twitter.com/search?q=Glepung) | N/A |
-| 43 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 44 | [#AturanAntiCintaJKT48](http://twitter.com/search?q=%23AturanAntiCintaJKT48) | N/A |
-| 45 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 46 | [#BOBBYSOLOSINGLE_D5](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D5) | N/A |
-| 47 | [#EXPÉRGO_HighlightMedley](http://twitter.com/search?q=%23EXP%c3%89RGO_HighlightMedley) | N/A |
-| 48 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
-| 49 | [#หน้ากากกิเลน](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b4%e0%b9%80%e0%b8%a5%e0%b8%99) | N/A |
-| 50 | [#MaskSinger12](http://twitter.com/search?q=%23MaskSinger12) | N/A |
+| 6 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 7 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 8 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 9 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 10 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 11 | [Sisca](http://twitter.com/search?q=Sisca) | N/A |
+| 12 | [Sireng](http://twitter.com/search?q=Sireng) | N/A |
+| 13 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
+| 14 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 15 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 16 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 17 | [JISOO ME VISUAL TEASER](http://twitter.com/search?q=JISOO+ME+VISUAL+TEASER) | N/A |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [Sarang](http://twitter.com/search?q=Sarang) | N/A |
+| 20 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 21 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 22 | [Guru](http://twitter.com/search?q=Guru) | N/A |
+| 23 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 24 | [Nasgor](http://twitter.com/search?q=Nasgor) | N/A |
+| 25 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
+| 26 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 27 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
+| 28 | [Yesus](http://twitter.com/search?q=Yesus) | N/A |
+| 29 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 30 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
+| 31 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 32 | [#BOBBYSOLOSINGLE_D5](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D5) | N/A |
+| 33 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
+| 34 | [#HelloFuture100M](http://twitter.com/search?q=%23HelloFuture100M) | N/A |
+| 35 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 36 | [#PEAKTIME](http://twitter.com/search?q=%23PEAKTIME) | N/A |
+| 37 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
+| 38 | [#OPPOReno8T5GdiTokopedia](http://twitter.com/search?q=%23OPPOReno8T5GdiTokopedia) | N/A |
+| 39 | [#XLGames](http://twitter.com/search?q=%23XLGames) | N/A |
+| 40 | [#HAECHANxLOUISVUITTON](http://twitter.com/search?q=%23HAECHANxLOUISVUITTON) | N/A |
+| 41 | [#BliMinBeliin](http://twitter.com/search?q=%23BliMinBeliin) | N/A |
+| 42 | [#ShazamFuryOfTheGods](http://twitter.com/search?q=%23ShazamFuryOfTheGods) | N/A |
+| 43 | [#bbrightvc](http://twitter.com/search?q=%23bbrightvc) | N/A |
+| 44 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
+| 45 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
+| 46 | [#PalumodaMotionFM](http://twitter.com/search?q=%23PalumodaMotionFM) | N/A |
+| 47 | [#SayaNUSayaPPP](http://twitter.com/search?q=%23SayaNUSayaPPP) | N/A |
+| 48 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
 
 
 

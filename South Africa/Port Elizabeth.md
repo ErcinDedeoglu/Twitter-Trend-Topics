@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-15 18:17:21 UTC`
+📆 Last Updated: `2023-03-15 19:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,49 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 3 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 4 | [#ItCanBe](http://twitter.com/search?q=%23ItCanBe) | N/A |
+| 4 | [#SBLove](http://twitter.com/search?q=%23SBLove) | N/A |
 | 5 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 6 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 7 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 8 | [Lungile Phenyane](http://twitter.com/search?q=Lungile+Phenyane) | N/A |
-| 9 | [Santaco](http://twitter.com/search?q=Santaco) | N/A |
+| 6 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 7 | [Lungile Phenyane](http://twitter.com/search?q=Lungile+Phenyane) | N/A |
+| 8 | [Santaco](http://twitter.com/search?q=Santaco) | N/A |
+| 9 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 10 | [Savings](http://twitter.com/search?q=Savings) | N/A |
 | 11 | [Adriaan](http://twitter.com/search?q=Adriaan) | N/A |
 | 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 13 | [Dintle](http://twitter.com/search?q=Dintle) | N/A |
 | 14 | [Amanda Black](http://twitter.com/search?q=Amanda+Black) | N/A |
 | 15 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
-| 16 | [STAR BOY JUICY JAY](http://twitter.com/search?q=STAR+BOY+JUICY+JAY) | N/A |
-| 17 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
-| 18 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 19 | [Gloria Bosman](http://twitter.com/search?q=Gloria+Bosman) | N/A |
-| 20 | [Faith Nketsi](http://twitter.com/search?q=Faith+Nketsi) | N/A |
+| 16 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 17 | [STAR BOY JUICY JAY](http://twitter.com/search?q=STAR+BOY+JUICY+JAY) | N/A |
+| 18 | [Faith Nketsi](http://twitter.com/search?q=Faith+Nketsi) | N/A |
+| 19 | [Niger](http://twitter.com/search?q=Niger) | N/A |
+| 20 | [Gloria Bosman](http://twitter.com/search?q=Gloria+Bosman) | N/A |
 | 21 | [Sane](http://twitter.com/search?q=Sane) | N/A |
 | 22 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 23 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 23 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
 | 24 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 25 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 26 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 27 | [Mmusi](http://twitter.com/search?q=Mmusi) | N/A |
-| 28 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
-| 29 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
-| 30 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 25 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 26 | [Mmusi](http://twitter.com/search?q=Mmusi) | N/A |
+| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 28 | [Skeem Saam](http://twitter.com/search?q=Skeem+Saam) | N/A |
+| 29 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 30 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
 | 31 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 32 | [Stage 3](http://twitter.com/search?q=Stage+3) | N/A |
-| 33 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 34 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 35 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 36 | [Uzalo](http://twitter.com/search?q=Uzalo) | N/A |
-| 37 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
-| 38 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
-| 39 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 40 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 41 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
-| 42 | [Mabena](http://twitter.com/search?q=Mabena) | N/A |
-| 43 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 44 | [Zonke](http://twitter.com/search?q=Zonke) | N/A |
-| 45 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
-| 46 | [Clicks](http://twitter.com/search?q=Clicks) | N/A |
+| 32 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 33 | [Stage 3](http://twitter.com/search?q=Stage+3) | N/A |
+| 34 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 35 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 36 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 37 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 38 | [Uzalo](http://twitter.com/search?q=Uzalo) | N/A |
+| 39 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 40 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 41 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 42 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
+| 43 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
+| 44 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
+| 45 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
+| 46 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 
 
 

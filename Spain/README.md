@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-15 18:17:45 UTC`
+📆 Last Updated: `2023-03-15 19:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
-| 2 | [Ossorio](http://twitter.com/search?q=Ossorio) | N/A |
-| 3 | [#MociónyEleccionesYA](http://twitter.com/search?q=%23Moci%c3%b3nyEleccionesYA) | N/A |
+| 1 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 2 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
+| 3 | [Ossorio](http://twitter.com/search?q=Ossorio) | N/A |
 | 4 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 5 | [Kroos y Modric](http://twitter.com/search?q=Kroos+y+Modric) | Kroos y Modric is a Spanish phrase that translates to "Kroos and Modric" in English. It refers to the two professional soccer players, Toni Kroos and Luka Modric, who both play for Real Madrid. |
-| 6 | [#PecadoOriginal15Mar](http://twitter.com/search?q=%23PecadoOriginal15Mar) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 8 | [#15mderodolfitos](http://twitter.com/search?q=%2315mderodolfitos) | N/A |
-| 9 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
-| 10 | [#QuesaritoQuedate](http://twitter.com/search?q=%23QuesaritoQuedate) | N/A |
-| 11 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 12 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
-| 13 | [Alfonso Serrano](http://twitter.com/search?q=Alfonso+Serrano) | N/A |
-| 14 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 15 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
-| 16 | [Buscando a Nemo](http://twitter.com/search?q=Buscando+a+Nemo) | N/A |
-| 17 | [Pedro Sánchez](http://twitter.com/search?q=Pedro+S%c3%a1nchez) | N/A |
-| 18 | [#DebateUCM](http://twitter.com/search?q=%23DebateUCM) | N/A |
-| 19 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
-| 20 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 21 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 22 | [Dalí](http://twitter.com/search?q=Dal%c3%ad) | N/A |
-| 23 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
-| 24 | [Proyecto 176](http://twitter.com/search?q=Proyecto+176) | N/A |
-| 25 | [Posición](http://twitter.com/search?q=Posici%c3%b3n) | N/A |
-| 26 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 27 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
-| 28 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
-| 29 | [2 de Ayuso](http://twitter.com/search?q=2+de+Ayuso) | N/A |
-| 30 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
+| 5 | [#MociónyEleccionesYA](http://twitter.com/search?q=%23Moci%c3%b3nyEleccionesYA) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 8 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 10 | [#Willow](http://twitter.com/search?q=%23Willow) | N/A |
+| 11 | [#BastaDeBorbones](http://twitter.com/search?q=%23BastaDeBorbones) | N/A |
+| 12 | [Buscando a Nemo](http://twitter.com/search?q=Buscando+a+Nemo) | N/A |
+| 13 | [Future Lover](http://twitter.com/search?q=Future+Lover) | N/A |
+| 14 | [#QuesaritoQuedate](http://twitter.com/search?q=%23QuesaritoQuedate) | N/A |
+| 15 | [#PecadoOriginal15Mar](http://twitter.com/search?q=%23PecadoOriginal15Mar) | N/A |
+| 16 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 17 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
+| 18 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
+| 19 | [Alfonso Serrano](http://twitter.com/search?q=Alfonso+Serrano) | N/A |
+| 20 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
+| 21 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 22 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
+| 23 | [Pedro Sánchez](http://twitter.com/search?q=Pedro+S%c3%a1nchez) | N/A |
+| 24 | [2 de Ayuso](http://twitter.com/search?q=2+de+Ayuso) | N/A |
+| 25 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 26 | [Dalí](http://twitter.com/search?q=Dal%c3%ad) | N/A |
+| 27 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
+| 28 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
+| 29 | [Posición](http://twitter.com/search?q=Posici%c3%b3n) | N/A |
+| 30 | [Proyecto 176](http://twitter.com/search?q=Proyecto+176) | N/A |
 | 31 | [Bono Social](http://twitter.com/search?q=Bono+Social) | N/A |
-| 32 | [AZ Alkmaar](http://twitter.com/search?q=AZ+Alkmaar) | N/A |
-| 33 | [Impune](http://twitter.com/search?q=Impune) | N/A |
+| 32 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 33 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
 | 34 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 35 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 36 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
-| 37 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 38 | [Fouto](http://twitter.com/search?q=Fouto) | N/A |
-| 39 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 40 | [Alaska y Mario](http://twitter.com/search?q=Alaska+y+Mario) | N/A |
-| 41 | [CAN YAMAN FOR CHILDREN](http://twitter.com/search?q=CAN+YAMAN+FOR+CHILDREN) | N/A |
-| 42 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
-| 43 | [Abidal](http://twitter.com/search?q=Abidal) | N/A |
-| 44 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 45 | [Indecente](http://twitter.com/search?q=Indecente) | N/A |
-| 46 | [Alfonso Guerra](http://twitter.com/search?q=Alfonso+Guerra) | N/A |
-| 47 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
-| 48 | [Asamblea de Madrid](http://twitter.com/search?q=Asamblea+de+Madrid) | N/A |
-| 49 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
-| 50 | [la santa](http://twitter.com/search?q=la+santa) | N/A |
+| 35 | [CAN YAMAN FOR CHILDREN](http://twitter.com/search?q=CAN+YAMAN+FOR+CHILDREN) | N/A |
+| 36 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
+| 37 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 39 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 40 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
+| 41 | [Impune](http://twitter.com/search?q=Impune) | N/A |
+| 42 | [Fouto](http://twitter.com/search?q=Fouto) | N/A |
+| 43 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
+| 44 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 45 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
+| 46 | [Abidal](http://twitter.com/search?q=Abidal) | N/A |
+| 47 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 48 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
+| 49 | [Asamblea de Madrid](http://twitter.com/search?q=Asamblea+de+Madrid) | N/A |
+| 50 | [Indecente](http://twitter.com/search?q=Indecente) | N/A |
 
 
 

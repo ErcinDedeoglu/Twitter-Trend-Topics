@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-15 18:16:53 UTC`
+📆 Last Updated: `2023-03-15 19:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 2 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 3 | [#craghoppers](http://twitter.com/search?q=%23craghoppers) | N/A |
-| 4 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 5 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 1 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 2 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
+| 3 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 4 | [#craghoppers](http://twitter.com/search?q=%23craghoppers) | N/A |
+| 5 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
 | 6 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 7 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 8 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 10 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 12 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 13 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
-| 14 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
-| 15 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 16 | [Viddal](http://twitter.com/search?q=Viddal) | N/A |
-| 17 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 18 | [Joe Whitworth](http://twitter.com/search?q=Joe+Whitworth) | N/A |
-| 19 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
-| 20 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 21 | [Fact to File](http://twitter.com/search?q=Fact+to+File) | N/A |
-| 22 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
-| 23 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 24 | [Tony Bloom](http://twitter.com/search?q=Tony+Bloom) | N/A |
-| 25 | [The OBR](http://twitter.com/search?q=The+OBR) | N/A |
-| 26 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 27 | [Universal Credit](http://twitter.com/search?q=Universal+Credit) | N/A |
-| 28 | [Galvin](http://twitter.com/search?q=Galvin) | N/A |
-| 29 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 30 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 31 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 32 | [Champion Chase](http://twitter.com/search?q=Champion+Chase) | N/A |
-| 33 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
-| 34 | [Cross Country](http://twitter.com/search?q=Cross+Country) | N/A |
-| 35 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 36 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
-| 37 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 38 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 39 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 40 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 41 | [Great British Nuclear](http://twitter.com/search?q=Great+British+Nuclear) | N/A |
-| 42 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 43 | [Navy](http://twitter.com/search?q=Navy) | N/A |
-| 44 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 45 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 46 | [Valhalla](http://twitter.com/search?q=Valhalla) | N/A |
-| 47 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 48 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 49 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
+| 7 | [Joe Whitworth](http://twitter.com/search?q=Joe+Whitworth) | N/A |
+| 8 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 9 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 10 | [#CPFC](http://twitter.com/search?q=%23CPFC) | N/A |
+| 11 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 12 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 14 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
+| 15 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 16 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 17 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 18 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 19 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 20 | [Idah](http://twitter.com/search?q=Idah) | N/A |
+| 21 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 22 | [Welbeck](http://twitter.com/search?q=Welbeck) | Welbeck is a surname of English origin. It is derived from the Old English words "wel" meaning "spring" and "bece" meaning "stream". The name refers to someone who lived near a spring or stream. |
+| 23 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 24 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
+| 25 | [Viddal](http://twitter.com/search?q=Viddal) | N/A |
+| 26 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 27 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 28 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
+| 29 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 30 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 31 | [The OBR](http://twitter.com/search?q=The+OBR) | N/A |
+| 32 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 33 | [Schlupp](http://twitter.com/search?q=Schlupp) | Schlupp is a German word that means "to slip away" or "to sneak away". It can also be used to describe someone who is sneaky or sly. |
+| 34 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 35 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 36 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 37 | [Champion Bumper](http://twitter.com/search?q=Champion+Bumper) | N/A |
+| 38 | [Fact to File](http://twitter.com/search?q=Fact+to+File) | N/A |
+| 39 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
+| 40 | [Galvin](http://twitter.com/search?q=Galvin) | N/A |
+| 41 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 42 | [Tony Bloom](http://twitter.com/search?q=Tony+Bloom) | N/A |
+| 43 | [Cross Country](http://twitter.com/search?q=Cross+Country) | N/A |
+| 44 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
+| 45 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 46 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
+| 47 | [Brexit Pubs Guarantee](http://twitter.com/search?q=Brexit+Pubs+Guarantee) | N/A |
+| 48 | [Andor](http://twitter.com/search?q=Andor) | N/A |
 
 
 

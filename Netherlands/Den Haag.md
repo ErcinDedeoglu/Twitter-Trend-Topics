@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-15 18:17:08 UTC`
+📆 Last Updated: `2023-03-15 19:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 10 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
 | 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 12 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
-| 13 | [Napels](http://twitter.com/search?q=Napels) | N/A |
+| 12 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 13 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
 | 14 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 15 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
-| 16 | [Freek](http://twitter.com/search?q=Freek) | N/A |
-| 17 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 18 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 20 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
-| 21 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 22 | [reijnders](http://twitter.com/search?q=reijnders) | N/A |
-| 23 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 24 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 25 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
-| 26 | [Sociaal](http://twitter.com/search?q=Sociaal) | N/A |
-| 27 | [Vanavond](http://twitter.com/search?q=Vanavond) | N/A |
-| 28 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 29 | [Onteigening](http://twitter.com/search?q=Onteigening) | N/A |
-| 30 | [Jazeker](http://twitter.com/search?q=Jazeker) | N/A |
-| 31 | [Arvid de Kleijn](http://twitter.com/search?q=Arvid+de+Kleijn) | N/A |
+| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 17 | [Gift Orban](http://twitter.com/search?q=Gift+Orban) | N/A |
+| 18 | [Napels](http://twitter.com/search?q=Napels) | N/A |
+| 19 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
+| 20 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
+| 21 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 22 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 23 | [Sociaal](http://twitter.com/search?q=Sociaal) | N/A |
+| 24 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 25 | [Freek](http://twitter.com/search?q=Freek) | N/A |
+| 26 | [reijnders](http://twitter.com/search?q=reijnders) | N/A |
+| 27 | [Jazeker](http://twitter.com/search?q=Jazeker) | N/A |
+| 28 | [Partij](http://twitter.com/search?q=Partij) | N/A |
+| 29 | [Ali B](http://twitter.com/search?q=Ali+B) | N/A |
+| 30 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
+| 31 | [Socialer](http://twitter.com/search?q=Socialer) | N/A |
 | 32 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 33 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 34 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 35 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
-| 36 | [Ali B](http://twitter.com/search?q=Ali+B) | N/A |
-| 37 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 38 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 40 | [Arbeidsinspectie](http://twitter.com/search?q=Arbeidsinspectie) | N/A |
-| 41 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 42 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
-| 43 | [Socialer](http://twitter.com/search?q=Socialer) | N/A |
-| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 45 | [Zojuist](http://twitter.com/search?q=Zojuist) | N/A |
-| 46 | [jeroen rietbergen](http://twitter.com/search?q=jeroen+rietbergen) | N/A |
-| 47 | [Wietse](http://twitter.com/search?q=Wietse) | N/A |
-| 48 | [Jonge](http://twitter.com/search?q=Jonge) | N/A |
-| 49 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 33 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 34 | [Onteigening](http://twitter.com/search?q=Onteigening) | N/A |
+| 35 | [jeroen rietbergen](http://twitter.com/search?q=jeroen+rietbergen) | N/A |
+| 36 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 37 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 38 | [Arbeidsinspectie](http://twitter.com/search?q=Arbeidsinspectie) | N/A |
+| 39 | [Zojuist](http://twitter.com/search?q=Zojuist) | N/A |
+| 40 | [Storm](http://twitter.com/search?q=Storm) | N/A |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Wietse](http://twitter.com/search?q=Wietse) | N/A |
+| 43 | [Succes](http://twitter.com/search?q=Succes) | N/A |
+| 44 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 47 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 48 | [Yesilgöz](http://twitter.com/search?q=Yesilg%c3%b6z) | N/A |
+| 49 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-03-15 18:17:34 UTC`
+📆 Last Updated: `2023-03-15 19:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 3 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 1 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 2 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 4 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 5 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 6 | [Jordan Love](http://twitter.com/search?q=Jordan+Love) | Jordan Love is a phrase used to express admiration or appreciation for someone. It is often used as a term of endearment, and can be used to show support or appreciation for someone's accomplishments. In English, it could be translated as "I love you, Jordan" or "I'm proud of you, Jordan". |
-| 7 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 5 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 6 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 7 | [Jordan Love](http://twitter.com/search?q=Jordan+Love) | Jordan Love is a phrase used to express admiration or appreciation for someone. It is often used as a term of endearment, and can be used to show support or appreciation for someone's accomplishments. In English, it could be translated as "I love you, Jordan" or "I'm proud of you, Jordan". |
 | 8 | [#GoPackGo](http://twitter.com/search?q=%23GoPackGo) | #GoPackGo is a hashtag used by fans of the Green Bay Packers, an American football team based in Wisconsin. It is used to show support for the team and to encourage them to victory. The phrase "Go Pack Go" is a rallying cry for the team and its fans. |
-| 9 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 10 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
-| 11 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
-| 12 | [Schefter](http://twitter.com/search?q=Schefter) | Schefter is a slang term used to describe someone who is a fan of the NFL Network's Adam Schefter, an American sports journalist and analyst. It is often used to describe someone who follows NFL news closely and is up-to-date on the latest news and rumors. |
-| 13 | [Favre](http://twitter.com/search?q=Favre) | N/A |
-| 14 | [#BillsMafia](http://twitter.com/search?q=%23BillsMafia) | #BillsMafia is a hashtag used by fans of the Buffalo Bills, an American football team based in Buffalo, New York. It is used to show support for the team and to connect with other fans. The term "Mafia" is used to refer to the passionate and loyal fan base of the Bills. |
-| 15 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
-| 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 17 | [Schefty](http://twitter.com/search?q=Schefty) | N/A |
-| 18 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 19 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
-| 20 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
-| 21 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 22 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
-| 23 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 24 | [Trask](http://twitter.com/search?q=Trask) | N/A |
-| 25 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 26 | [SITW](http://twitter.com/search?q=SITW) | N/A |
-| 27 | [Chip Roy](http://twitter.com/search?q=Chip+Roy) | Chip Roy is the name of an American politician who currently serves as the U.S. Representative for Texas's 21st congressional district. He is a member of the Republican Party. |
-| 28 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 29 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 30 | [#TakeFlight](http://twitter.com/search?q=%23TakeFlight) | #TakeFlight is a hashtag used to encourage people to take risks and pursue their dreams. It is often used as a motivational phrase to inspire people to take action and make their dreams a reality. |
-| 31 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 32 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 33 | [HISD](http://twitter.com/search?q=HISD) | N/A |
-| 34 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
-| 35 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 36 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 37 | [NFC North](http://twitter.com/search?q=NFC+North) | NFC North is an abbreviation for the National Football Conference North Division, which is one of the four divisions in the National Football League (NFL). It consists of teams from the Midwest region of the United States, including the Chicago Bears, Detroit Lions, Green Bay Packers, and Minnesota Vikings. |
-| 38 | [Trey Wingo](http://twitter.com/search?q=Trey+Wingo) | N/A |
-| 39 | [ARod](http://twitter.com/search?q=ARod) | N/A |
-| 40 | [Bart Starr](http://twitter.com/search?q=Bart+Starr) | N/A |
-| 41 | [LOSE MY NUMBER](http://twitter.com/search?q=LOSE+MY+NUMBER) | N/A |
+| 9 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 10 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 11 | [Favre](http://twitter.com/search?q=Favre) | N/A |
+| 12 | [JuJu Smith](http://twitter.com/search?q=JuJu+Smith) | N/A |
+| 13 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 14 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
+| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 16 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
+| 17 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 18 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
+| 19 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
+| 20 | [Schefter](http://twitter.com/search?q=Schefter) | Schefter is a slang term used to describe someone who is a fan of the NFL Network's Adam Schefter, an American sports journalist and analyst. It is often used to describe someone who follows NFL news closely and is up-to-date on the latest news and rumors. |
+| 21 | [#Willow](http://twitter.com/search?q=%23Willow) | N/A |
+| 22 | [Jakobi](http://twitter.com/search?q=Jakobi) | N/A |
+| 23 | [#BillsMafia](http://twitter.com/search?q=%23BillsMafia) | #BillsMafia is a hashtag used by fans of the Buffalo Bills, an American football team based in Buffalo, New York. It is used to show support for the team and to connect with other fans. The term "Mafia" is used to refer to the passionate and loyal fan base of the Bills. |
+| 24 | [Chip Roy](http://twitter.com/search?q=Chip+Roy) | Chip Roy is the name of an American politician who currently serves as the U.S. Representative for Texas's 21st congressional district. He is a member of the Republican Party. |
+| 25 | [Schefty](http://twitter.com/search?q=Schefty) | N/A |
+| 26 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 27 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 28 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 29 | [#BidenIsBeatingBigPharma](http://twitter.com/search?q=%23BidenIsBeatingBigPharma) | N/A |
+| 30 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
+| 31 | [Bart Starr](http://twitter.com/search?q=Bart+Starr) | N/A |
+| 32 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 33 | [SITW](http://twitter.com/search?q=SITW) | N/A |
+| 34 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 35 | [Farve](http://twitter.com/search?q=Farve) | N/A |
+| 36 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 37 | [Justice Hill](http://twitter.com/search?q=Justice+Hill) | N/A |
+| 38 | [Trask](http://twitter.com/search?q=Trask) | N/A |
+| 39 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 40 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
+| 41 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 42 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
-| 43 | [RIP Legend](http://twitter.com/search?q=RIP+Legend) | N/A |
-| 44 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 45 | [Guo Wengui](http://twitter.com/search?q=Guo+Wengui) | N/A |
-| 46 | [Hyde](http://twitter.com/search?q=Hyde) | N/A |
-| 47 | [Denny](http://twitter.com/search?q=Denny) | N/A |
-| 48 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 49 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 43 | [HISD](http://twitter.com/search?q=HISD) | N/A |
+| 44 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 45 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 46 | [NFC North](http://twitter.com/search?q=NFC+North) | NFC North is an abbreviation for the National Football Conference North Division, which is one of the four divisions in the National Football League (NFL). It consists of teams from the Midwest region of the United States, including the Chicago Bears, Detroit Lions, Green Bay Packers, and Minnesota Vikings. |
+| 47 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 48 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 49 | [ARod](http://twitter.com/search?q=ARod) | N/A |
 
 
 

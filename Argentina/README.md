@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-15 18:17:39 UTC`
+📆 Last Updated: `2023-03-15 19:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Argentina
 | ------- | ------------ | ------------ |
 | 1 | [#LouisEsDeLOS40](http://twitter.com/search?q=%23LouisEsDeLOS40) | N/A |
 | 2 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 3 | [Cristian Castro](http://twitter.com/search?q=Cristian+Castro) | N/A |
-| 4 | [ESTA LLOVIENDO](http://twitter.com/search?q=ESTA+LLOVIENDO) | N/A |
-| 5 | [#15mderodolfitos](http://twitter.com/search?q=%2315mderodolfitos) | N/A |
+| 3 | [#Traferri](http://twitter.com/search?q=%23Traferri) | N/A |
+| 4 | [#SinLuzNiAgua](http://twitter.com/search?q=%23SinLuzNiAgua) | N/A |
+| 5 | [Cristian Castro](http://twitter.com/search?q=Cristian+Castro) | N/A |
 | 6 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 7 | [La Volpe](http://twitter.com/search?q=La+Volpe) | N/A |
-| 8 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 9 | [Hugo Ibarra](http://twitter.com/search?q=Hugo+Ibarra) | N/A |
-| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 11 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 12 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 13 | [#campeonesencasa](http://twitter.com/search?q=%23campeonesencasa) | N/A |
-| 14 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 15 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 16 | [Y FUE A MI CASA](http://twitter.com/search?q=Y+FUE+A+MI+CASA) | N/A |
-| 17 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 18 | [Ensenada](http://twitter.com/search?q=Ensenada) | N/A |
-| 19 | [angela torres](http://twitter.com/search?q=angela+torres) | N/A |
-| 20 | [Delirio](http://twitter.com/search?q=Delirio) | N/A |
-| 21 | [Traferri](http://twitter.com/search?q=Traferri) | N/A |
-| 22 | [Eliminatorias](http://twitter.com/search?q=Eliminatorias) | N/A |
-| 23 | [Pierde](http://twitter.com/search?q=Pierde) | N/A |
-| 24 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 25 | [Chat GPT-4](http://twitter.com/search?q=Chat+GPT-4) | N/A |
-| 26 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
-| 27 | [López Murphy](http://twitter.com/search?q=L%c3%b3pez+Murphy) | N/A |
-| 28 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
-| 29 | [POPULAR](http://twitter.com/search?q=POPULAR) | N/A |
-| 30 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 31 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
-| 32 | [La Rioja](http://twitter.com/search?q=La+Rioja) | N/A |
-| 33 | [En Europa](http://twitter.com/search?q=En+Europa) | N/A |
-| 34 | [Ventiladores](http://twitter.com/search?q=Ventiladores) | N/A |
-| 35 | [Vayan](http://twitter.com/search?q=Vayan) | N/A |
-| 36 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 37 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 38 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
-| 39 | [Campeones del Mundo](http://twitter.com/search?q=Campeones+del+Mundo) | N/A |
-| 40 | [Lollapalooza](http://twitter.com/search?q=Lollapalooza) | N/A |
-| 41 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
-| 42 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
-| 43 | [AL FIN](http://twitter.com/search?q=AL+FIN) | N/A |
-| 44 | [Caballito](http://twitter.com/search?q=Caballito) | N/A |
-| 45 | [Olivos](http://twitter.com/search?q=Olivos) | N/A |
-| 46 | [Mouche](http://twitter.com/search?q=Mouche) | N/A |
-| 47 | [Polo Obrero](http://twitter.com/search?q=Polo+Obrero) | N/A |
-| 48 | [San Isidro](http://twitter.com/search?q=San+Isidro) | N/A |
-| 49 | [Ramón Díaz](http://twitter.com/search?q=Ram%c3%b3n+D%c3%adaz) | N/A |
-| 50 | [Stornelli](http://twitter.com/search?q=Stornelli) | N/A |
+| 7 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 8 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 10 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 11 | [La Volpe](http://twitter.com/search?q=La+Volpe) | N/A |
+| 12 | [Hugo Ibarra](http://twitter.com/search?q=Hugo+Ibarra) | N/A |
+| 13 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 14 | [Y FUE A MI CASA](http://twitter.com/search?q=Y+FUE+A+MI+CASA) | N/A |
+| 15 | [Pierde](http://twitter.com/search?q=Pierde) | N/A |
+| 16 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 17 | [ESTA LLOVIENDO](http://twitter.com/search?q=ESTA+LLOVIENDO) | N/A |
+| 18 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 19 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 20 | [Ensenada](http://twitter.com/search?q=Ensenada) | N/A |
+| 21 | [Delirio](http://twitter.com/search?q=Delirio) | N/A |
+| 22 | [López Murphy](http://twitter.com/search?q=L%c3%b3pez+Murphy) | N/A |
+| 23 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 24 | [angela torres](http://twitter.com/search?q=angela+torres) | N/A |
+| 25 | [Eliminatorias](http://twitter.com/search?q=Eliminatorias) | N/A |
+| 26 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
+| 27 | [Popular](http://twitter.com/search?q=Popular) | N/A |
+| 28 | [En Europa](http://twitter.com/search?q=En+Europa) | N/A |
+| 29 | [Ventiladores](http://twitter.com/search?q=Ventiladores) | N/A |
+| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 31 | [Vayan](http://twitter.com/search?q=Vayan) | N/A |
+| 32 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
+| 33 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
+| 34 | [La Rioja](http://twitter.com/search?q=La+Rioja) | N/A |
+| 35 | [Lollapalooza](http://twitter.com/search?q=Lollapalooza) | N/A |
+| 36 | [Campeones del Mundo](http://twitter.com/search?q=Campeones+del+Mundo) | N/A |
+| 37 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 38 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
+| 39 | [Caballito](http://twitter.com/search?q=Caballito) | N/A |
+| 40 | [Mouche](http://twitter.com/search?q=Mouche) | N/A |
+| 41 | [Polo Obrero](http://twitter.com/search?q=Polo+Obrero) | N/A |
+| 42 | [Stornelli](http://twitter.com/search?q=Stornelli) | N/A |
+| 43 | [#15Mderodolfitos](http://twitter.com/search?q=%2315Mderodolfitos) | N/A |
+| 44 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 45 | [#campeonesencasa](http://twitter.com/search?q=%23campeonesencasa) | N/A |
+| 46 | [#SedalEnLollaAR](http://twitter.com/search?q=%23SedalEnLollaAR) | N/A |
+| 47 | [#EspnF90](http://twitter.com/search?q=%23EspnF90) | N/A |
+| 48 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 49 | [#GerardoPresidente](http://twitter.com/search?q=%23GerardoPresidente) | N/A |
+| 50 | [#llueve](http://twitter.com/search?q=%23llueve) | N/A |
 
 
 
