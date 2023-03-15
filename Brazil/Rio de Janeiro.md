@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-15 16:16:46 UTC`
+📆 Last Updated: `2023-03-15 17:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 2 | [#RJTV](http://twitter.com/search?q=%23RJTV) | N/A |
-| 3 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 4 | [Maranhão](http://twitter.com/search?q=Maranh%c3%a3o) | N/A |
-| 5 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 6 | [Natal](http://twitter.com/search?q=Natal) | Natal is a Portuguese word meaning "birth". It is often used to refer to the place of one's birth, or the celebration of one's birth. |
-| 7 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 8 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 9 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 10 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 11 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 12 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 13 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 14 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 15 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 16 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 17 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 18 | [HABLA KEY](http://twitter.com/search?q=HABLA+KEY) | N/A |
-| 19 | [LARI NO MAIS VOCÊ](http://twitter.com/search?q=LARI+NO+MAIS+VOC%c3%8a) | N/A |
-| 20 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 23 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 24 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 25 | [Doriana](http://twitter.com/search?q=Doriana) | N/A |
-| 26 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 27 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
-| 28 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
+| 1 | [Maranhão](http://twitter.com/search?q=Maranh%c3%a3o) | N/A |
+| 2 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 3 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 5 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
+| 6 | [#RJTV](http://twitter.com/search?q=%23RJTV) | N/A |
+| 7 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 8 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 9 | [Natal](http://twitter.com/search?q=Natal) | Natal is a Portuguese word meaning "birth". It is often used to refer to the place of one's birth, or the celebration of one's birth. |
+| 10 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 11 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 12 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 13 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 14 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 15 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 16 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 17 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 19 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 20 | [HABLA KEY](http://twitter.com/search?q=HABLA+KEY) | N/A |
+| 21 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 22 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 23 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
+| 24 | [Tove](http://twitter.com/search?q=Tove) | N/A |
+| 25 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 26 | [lari no mais você](http://twitter.com/search?q=lari+no+mais+voc%c3%aa) | N/A |
+| 27 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
+| 28 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
 | 29 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
-| 30 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
-| 31 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
-| 32 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 33 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 34 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 35 | [América do Sul](http://twitter.com/search?q=Am%c3%a9rica+do+Sul) | N/A |
+| 30 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 31 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
+| 32 | [Doriana](http://twitter.com/search?q=Doriana) | N/A |
+| 33 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 34 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
+| 35 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
 | 36 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 37 | [Pronasci](http://twitter.com/search?q=Pronasci) | N/A |
-| 38 | [John Frusciante](http://twitter.com/search?q=John+Frusciante) | N/A |
-| 39 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 40 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 41 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
-| 42 | [São Longuinho](http://twitter.com/search?q=S%c3%a3o+Longuinho) | N/A |
-| 43 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
-| 44 | [Imposto de Renda](http://twitter.com/search?q=Imposto+de+Renda) | N/A |
-| 45 | [jota quest](http://twitter.com/search?q=jota+quest) | N/A |
-| 46 | [Milly Lacombe](http://twitter.com/search?q=Milly+Lacombe) | N/A |
-| 47 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 48 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 49 | [Infiel](http://twitter.com/search?q=Infiel) | N/A |
+| 37 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 38 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 39 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 40 | [John Frusciante](http://twitter.com/search?q=John+Frusciante) | N/A |
+| 41 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 42 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
+| 43 | [Pronasci](http://twitter.com/search?q=Pronasci) | N/A |
+| 44 | [Stefania](http://twitter.com/search?q=Stefania) | N/A |
+| 45 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
+| 46 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 47 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
+| 48 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
+| 49 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
 | 50 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
 
 

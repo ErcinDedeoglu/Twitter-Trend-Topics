@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-03-15 16:16:41 UTC`
+📆 Last Updated: `2023-03-15 17:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 2 | [#PoderosoRaRaRa](http://twitter.com/search?q=%23PoderosoRaRaRa) | N/A |
-| 3 | [#LMD6](http://twitter.com/search?q=%23LMD6) | N/A |
-| 4 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 6 | [#KornoQuieroViveLatino](http://twitter.com/search?q=%23KornoQuieroViveLatino) | N/A |
-| 7 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 8 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 10 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 11 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Charles Leclerc](http://twitter.com/search?q=Charles+Leclerc) | N/A |
-| 14 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 15 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 16 | [ALEXIS WILSON](http://twitter.com/search?q=ALEXIS+WILSON) | N/A |
-| 17 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 18 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 19 | [Derechos del Consumidor](http://twitter.com/search?q=Derechos+del+Consumidor) | N/A |
-| 20 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 21 | [live con eve](http://twitter.com/search?q=live+con+eve) | N/A |
-| 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 23 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 24 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
-| 25 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 26 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 27 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 28 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 29 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
-| 30 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 31 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
-| 32 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 33 | [MATI MEDAL HOLDER](http://twitter.com/search?q=MATI+MEDAL+HOLDER) | N/A |
-| 34 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 35 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 36 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
-| 37 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 38 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 39 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 40 | [San Sebastián de Aparicio](http://twitter.com/search?q=San+Sebasti%c3%a1n+de+Aparicio) | N/A |
-| 41 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 42 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 43 | [Cuchillo](http://twitter.com/search?q=Cuchillo) | N/A |
-| 44 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 45 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 46 | [Epigmenio](http://twitter.com/search?q=Epigmenio) | N/A |
-| 47 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
-| 48 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 49 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 50 | [MARTES 14](http://twitter.com/search?q=MARTES+14) | N/A |
+| 1 | [#LMD6](http://twitter.com/search?q=%23LMD6) | N/A |
+| 2 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 3 | [#PoderosoRaRaRa](http://twitter.com/search?q=%23PoderosoRaRaRa) | N/A |
+| 4 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 5 | [#15Mderodolfitos](http://twitter.com/search?q=%2315Mderodolfitos) | N/A |
+| 6 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 7 | [Machaca](http://twitter.com/search?q=Machaca) | N/A |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 9 | [Nelly Furtado](http://twitter.com/search?q=Nelly+Furtado) | N/A |
+| 10 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 11 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 12 | [JISOO ME VISUAL TEASER](http://twitter.com/search?q=JISOO+ME+VISUAL+TEASER) | N/A |
+| 13 | [Loret](http://twitter.com/search?q=Loret) | N/A |
+| 14 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 15 | [Derechos del Consumidor](http://twitter.com/search?q=Derechos+del+Consumidor) | N/A |
+| 16 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 17 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
+| 18 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 19 | [Charles Leclerc](http://twitter.com/search?q=Charles+Leclerc) | N/A |
+| 20 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 21 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 22 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 23 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
+| 24 | [Damián Alcázar](http://twitter.com/search?q=Dami%c3%a1n+Alc%c3%a1zar) | N/A |
+| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 26 | [San Marcos](http://twitter.com/search?q=San+Marcos) | San Marcos is a city in the Central Texas region of the United States. It is the county seat of Hays County and is located on the San Marcos River. The name San Marcos is Spanish for "Saint Mark," referring to the patron saint of Venice, Italy. |
+| 27 | [Opino](http://twitter.com/search?q=Opino) | N/A |
+| 28 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
+| 29 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 30 | [Aguascalientes](http://twitter.com/search?q=Aguascalientes) | N/A |
+| 31 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 32 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 33 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
+| 34 | [Segob](http://twitter.com/search?q=Segob) | N/A |
+| 35 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
+| 36 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 37 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 38 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 39 | [Cínico](http://twitter.com/search?q=C%c3%adnico) | N/A |
+| 40 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 41 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 42 | [#KornoQuieroViveLatino](http://twitter.com/search?q=%23KornoQuieroViveLatino) | N/A |
+| 43 | [#Felices37CarlosRivera](http://twitter.com/search?q=%23Felices37CarlosRivera) | N/A |
+| 44 | [#fentanilo](http://twitter.com/search?q=%23fentanilo) | N/A |
+| 45 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
+| 46 | [#LaPaz](http://twitter.com/search?q=%23LaPaz) | N/A |
+| 47 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
+| 48 | [#TipoDeCambio](http://twitter.com/search?q=%23TipoDeCambio) | N/A |
+| 49 | [#sinyolanda](http://twitter.com/search?q=%23sinyolanda) | N/A |
 
 
 

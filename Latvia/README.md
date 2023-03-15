@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-15 16:17:30 UTC`
+📆 Last Updated: `2023-03-15 17:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Latvia
 | ------- | ------------ | ------------ |
 | 1 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
 | 2 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 3 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 4 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
-| 5 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 6 | [mq-9 reaper](http://twitter.com/search?q=mq-9+reaper) | N/A |
+| 3 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
+| 4 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 6 | [MQ-9 Reaper](http://twitter.com/search?q=MQ-9+Reaper) | N/A |
 | 7 | [melnās](http://twitter.com/search?q=meln%c4%81s) | N/A |
 | 8 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
-| 9 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 10 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 11 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
-| 12 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
-| 13 | [Nacionālās](http://twitter.com/search?q=Nacion%c4%81l%c4%81s) | N/A |
-| 14 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
-| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 16 | [krievija](http://twitter.com/search?q=krievija) | N/A |
-| 17 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 18 | [iMac](http://twitter.com/search?q=iMac) | N/A |
+| 9 | [Nacionālās](http://twitter.com/search?q=Nacion%c4%81l%c4%81s) | N/A |
+| 10 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 11 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 12 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
+| 13 | [#TeIrDarbs](http://twitter.com/search?q=%23TeIrDarbs) | N/A |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 15 | [krievija](http://twitter.com/search?q=krievija) | N/A |
+| 16 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 17 | [iMac](http://twitter.com/search?q=iMac) | N/A |
+| 18 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
 | 19 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 20 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
-| 21 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 22 | [navaļnija](http://twitter.com/search?q=nava%c4%bcnija) | N/A |
-| 23 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 24 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 25 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
-| 26 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 27 | [Laikam](http://twitter.com/search?q=Laikam) | N/A |
-| 28 | [Pareizi](http://twitter.com/search?q=Pareizi) | N/A |
-| 29 | [bija](http://twitter.com/search?q=bija) | N/A |
-| 30 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 31 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
+| 20 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 21 | [navaļnija](http://twitter.com/search?q=nava%c4%bcnija) | N/A |
+| 22 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 23 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 24 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
+| 25 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 26 | [Laikam](http://twitter.com/search?q=Laikam) | N/A |
+| 27 | [Pareizi](http://twitter.com/search?q=Pareizi) | N/A |
+| 28 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 29 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
+| 30 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
+| 31 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
 | 32 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 33 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
-| 34 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 35 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
-| 36 | [Vācijas](http://twitter.com/search?q=V%c4%81cijas) | N/A |
-| 37 | [Jautājums](http://twitter.com/search?q=Jaut%c4%81jums) | N/A |
-| 38 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
-| 39 | [Vecrīgā](http://twitter.com/search?q=Vecr%c4%abg%c4%81) | N/A |
-| 40 | [visi](http://twitter.com/search?q=visi) | N/A |
-| 41 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
-| 42 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
-| 43 | [Vismaz](http://twitter.com/search?q=Vismaz) | N/A |
-| 44 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 45 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
-| 46 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 47 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 48 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 49 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
-| 50 | [Visu](http://twitter.com/search?q=Visu) | N/A |
+| 33 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
+| 34 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 35 | [Vācijas](http://twitter.com/search?q=V%c4%81cijas) | N/A |
+| 36 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
+| 37 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
+| 38 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
+| 39 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
+| 40 | [Vecrīgā](http://twitter.com/search?q=Vecr%c4%abg%c4%81) | N/A |
+| 41 | [Visi](http://twitter.com/search?q=Visi) | N/A |
+| 42 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
+| 43 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
+| 44 | [Vismaz](http://twitter.com/search?q=Vismaz) | N/A |
+| 45 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 46 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
+| 47 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 48 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 49 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 50 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
 
 
 

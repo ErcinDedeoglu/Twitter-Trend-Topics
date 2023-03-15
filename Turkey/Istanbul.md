@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-15 16:17:16 UTC`
+📆 Last Updated: `2023-03-15 17:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Servet Kuş](http://twitter.com/search?q=Servet+Ku%c5%9f) | N/A |
-| 2 | [AdaletİçinŞimdi](http://twitter.com/search?q=Adalet%c4%b0%c3%a7in%c5%9eimdi) | N/A |
-| 3 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 4 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 5 | [Avrupa'ya](http://twitter.com/search?q=Avrupa%27ya) | N/A |
-| 6 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
-| 7 | [#sanliurfa](http://twitter.com/search?q=%23sanliurfa) | #Sanliurfa is a hashtag used to refer to the city of Sanliurfa in southeastern Turkey. In English, it translates to "Lion's Fortress". Sanliurfa is known for its ancient ruins and archaeological sites, as well as its rich cultural heritage. |
-| 8 | [#selfelaketi](http://twitter.com/search?q=%23selfelaketi) | N/A |
-| 9 | [#Diyarbakir](http://twitter.com/search?q=%23Diyarbakir) | #Diyarbakir is the largest city in southeastern Turkey and the administrative capital of the Diyarbakir Province. It is located on the banks of the Tigris River and is known for its ancient walls, mosques, and churches. In English, Diyarbakir means "land of copper". |
-| 10 | [#BayKemal100BinleCbKemal](http://twitter.com/search?q=%23BayKemal100BinleCbKemal) | N/A |
-| 11 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 12 | [Buca Bayrakli Bornova Gaziemir](http://twitter.com/search?q=Buca+Bayrakli+Bornova+Gaziemir) | N/A |
-| 13 | [Alsancak Konak Çiğli Karşıyaka](http://twitter.com/search?q=Alsancak+Konak+%c3%87i%c4%9fli+Kar%c5%9f%c4%b1yaka) | N/A |
-| 14 | [Allah'tan](http://twitter.com/search?q=Allah%27tan) | Allah'tan is a Turkish phrase that translates to "from Allah" in English. It is used to express gratitude or appreciation for something that has been given or received. |
-| 15 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
-| 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 17 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 18 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
-| 19 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 20 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
+| 1 | [AbdurrahmanDelen](http://twitter.com/search?q=AbdurrahmanDelen) | N/A |
+| 2 | [RTEAffı GönülleriKazanır](http://twitter.com/search?q=RTEAff%c4%b1+G%c3%b6n%c3%bclleriKazan%c4%b1r) | N/A |
+| 3 | [AdaletİçinŞimdi](http://twitter.com/search?q=Adalet%c4%b0%c3%a7in%c5%9eimdi) | N/A |
+| 4 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 5 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 6 | [AK Parti](http://twitter.com/search?q=AK+Parti) | N/A |
+| 7 | [#fenerbahcebiletdevir](http://twitter.com/search?q=%23fenerbahcebiletdevir) | N/A |
+| 8 | [#sanliurfa](http://twitter.com/search?q=%23sanliurfa) | #Sanliurfa is a hashtag used to refer to the city of Sanliurfa in southeastern Turkey. In English, it translates to "Lion's Fortress". Sanliurfa is known for its ancient ruins and archaeological sites, as well as its rich cultural heritage. |
+| 9 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
+| 10 | [#selfelaketi](http://twitter.com/search?q=%23selfelaketi) | N/A |
+| 11 | [#Diyarbakir](http://twitter.com/search?q=%23Diyarbakir) | #Diyarbakir is the largest city in southeastern Turkey and the administrative capital of the Diyarbakir Province. It is located on the banks of the Tigris River and is known for its ancient walls, mosques, and churches. In English, Diyarbakir means "land of copper". |
+| 12 | [#BayKemal100BinleCbKemal](http://twitter.com/search?q=%23BayKemal100BinleCbKemal) | N/A |
+| 13 | [Servet Kuş](http://twitter.com/search?q=Servet+Ku%c5%9f) | N/A |
+| 14 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 15 | [Alsancak Konak Çiğli Karşıyaka](http://twitter.com/search?q=Alsancak+Konak+%c3%87i%c4%9fli+Kar%c5%9f%c4%b1yaka) | N/A |
+| 16 | [Buca Bayrakli Bornova Gaziemir](http://twitter.com/search?q=Buca+Bayrakli+Bornova+Gaziemir) | N/A |
+| 17 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
+| 18 | [Allah'tan](http://twitter.com/search?q=Allah%27tan) | Allah'tan is a Turkish phrase that translates to "from Allah" in English. It is used to express gratitude or appreciation for something that has been given or received. |
+| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 20 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
 | 21 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 22 | [Doğa](http://twitter.com/search?q=Do%c4%9fa) | N/A |
-| 23 | [Dikili Foca](http://twitter.com/search?q=Dikili+Foca) | N/A |
-| 24 | [Hayri Kozak](http://twitter.com/search?q=Hayri+Kozak) | N/A |
-| 25 | [Milletvekili](http://twitter.com/search?q=Milletvekili) | N/A |
-| 26 | [Menderes Kemalpasa](http://twitter.com/search?q=Menderes+Kemalpasa) | N/A |
-| 27 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
-| 28 | [Kuecuekpark](http://twitter.com/search?q=Kuecuekpark) | N/A |
-| 29 | [Selden](http://twitter.com/search?q=Selden) | N/A |
+| 22 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 23 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
+| 24 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 25 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 26 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
+| 27 | [Brent](http://twitter.com/search?q=Brent) | N/A |
+| 28 | [Milletvekili](http://twitter.com/search?q=Milletvekili) | N/A |
+| 29 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
 | 30 | [Sevgilim](http://twitter.com/search?q=Sevgilim) | N/A |
-| 31 | [Dursun Özbek](http://twitter.com/search?q=Dursun+%c3%96zbek) | Dursun Özbek is a Turkish given name. It is composed of two elements: Dursun, which means "brave" or "courageous", and Özbek, which means "Turk". In English, the name would translate to "Brave Turk". |
-| 32 | [KETAR](http://twitter.com/search?q=KETAR) | N/A |
-| 33 | [Brent](http://twitter.com/search?q=Brent) | N/A |
-| 34 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 35 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
-| 36 | [Ziraat](http://twitter.com/search?q=Ziraat) | N/A |
-| 37 | [Baran](http://twitter.com/search?q=Baran) | N/A |
-| 38 | [Son Başbakanımız](http://twitter.com/search?q=Son+Ba%c5%9fbakan%c4%b1m%c4%b1z) | N/A |
-| 39 | [Talat Paşa](http://twitter.com/search?q=Talat+Pa%c5%9fa) | N/A |
+| 31 | [Dikili Foca](http://twitter.com/search?q=Dikili+Foca) | N/A |
+| 32 | [Dere](http://twitter.com/search?q=Dere) | N/A |
+| 33 | [Selden](http://twitter.com/search?q=Selden) | N/A |
+| 34 | [Dursun Özbek](http://twitter.com/search?q=Dursun+%c3%96zbek) | Dursun Özbek is a Turkish given name. It is composed of two elements: Dursun, which means "brave" or "courageous", and Özbek, which means "Turk". In English, the name would translate to "Brave Turk". |
+| 35 | [Ketar](http://twitter.com/search?q=Ketar) | N/A |
+| 36 | [Baran](http://twitter.com/search?q=Baran) | N/A |
+| 37 | [Babamı](http://twitter.com/search?q=Babam%c4%b1) | N/A |
+| 38 | [Dokunulmazlık](http://twitter.com/search?q=Dokunulmazl%c4%b1k) | N/A |
+| 39 | [Kuecuekpark](http://twitter.com/search?q=Kuecuekpark) | N/A |
 | 40 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
-| 41 | [Dokunulmazlık](http://twitter.com/search?q=Dokunulmazl%c4%b1k) | N/A |
-| 42 | [İçki](http://twitter.com/search?q=%c4%b0%c3%a7ki) | N/A |
-| 43 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
-| 44 | [Üsküdar Amerikan Lisesi](http://twitter.com/search?q=%c3%9csk%c3%bcdar+Amerikan+Lisesi) | N/A |
-| 45 | [Zeynel](http://twitter.com/search?q=Zeynel) | N/A |
-| 46 | [#Adiyaman](http://twitter.com/search?q=%23Adiyaman) | N/A |
+| 41 | [Ziraat](http://twitter.com/search?q=Ziraat) | N/A |
+| 42 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 43 | [Son Başbakanımız](http://twitter.com/search?q=Son+Ba%c5%9fbakan%c4%b1m%c4%b1z) | N/A |
+| 44 | [Bir Talat](http://twitter.com/search?q=Bir+Talat) | N/A |
+| 45 | [Liyakat](http://twitter.com/search?q=Liyakat) | N/A |
+| 46 | [İçki](http://twitter.com/search?q=%c4%b0%c3%a7ki) | N/A |
 | 47 | [#GundemKamuMuhendisleri](http://twitter.com/search?q=%23GundemKamuMuhendisleri) | N/A |
-| 48 | [#pinkpccollab](http://twitter.com/search?q=%23pinkpccollab) | N/A |
-| 49 | [#spkgovtr](http://twitter.com/search?q=%23spkgovtr) | N/A |
-| 50 | [#StajTorbayaEllerHavaya](http://twitter.com/search?q=%23StajTorbayaEllerHavaya) | N/A |
+| 48 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 49 | [#Adiyaman](http://twitter.com/search?q=%23Adiyaman) | N/A |
+| 50 | [#pinkpccollab](http://twitter.com/search?q=%23pinkpccollab) | N/A |
 
 
 

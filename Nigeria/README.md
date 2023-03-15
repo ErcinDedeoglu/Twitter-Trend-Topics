@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-15 16:17:31 UTC`
+📆 Last Updated: `2023-03-15 17:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aunty Esther](http://twitter.com/search?q=Aunty+Esther) | N/A |
-| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 3 | [#Reno8T](http://twitter.com/search?q=%23Reno8T) | N/A |
-| 4 | [#SPARK10Pro](http://twitter.com/search?q=%23SPARK10Pro) | N/A |
-| 5 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
-| 6 | [#TECNO](http://twitter.com/search?q=%23TECNO) | N/A |
-| 7 | [#TryMyJobwithOlah](http://twitter.com/search?q=%23TryMyJobwithOlah) | N/A |
-| 8 | [Baddo](http://twitter.com/search?q=Baddo) | N/A |
-| 9 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 10 | [toni tones](http://twitter.com/search?q=toni+tones) | N/A |
-| 11 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
-| 12 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 13 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
-| 14 | [Oba Elegushi](http://twitter.com/search?q=Oba+Elegushi) | N/A |
-| 15 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 16 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
-| 17 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 18 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 19 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 20 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 21 | [Zino](http://twitter.com/search?q=Zino) | N/A |
-| 22 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 23 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 24 | [The British](http://twitter.com/search?q=The+British) | N/A |
-| 25 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 26 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 1 | [#Reno8T](http://twitter.com/search?q=%23Reno8T) | N/A |
+| 2 | [Tekno](http://twitter.com/search?q=Tekno) | N/A |
+| 3 | [Congratulations Rinu](http://twitter.com/search?q=Congratulations+Rinu) | N/A |
+| 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 5 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 6 | [Oba Elegushi](http://twitter.com/search?q=Oba+Elegushi) | N/A |
+| 7 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
+| 8 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 9 | [Happy Hour](http://twitter.com/search?q=Happy+Hour) | N/A |
+| 10 | [#Davido](http://twitter.com/search?q=%23Davido) | N/A |
+| 11 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 12 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 13 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
+| 14 | [Obas](http://twitter.com/search?q=Obas) | N/A |
+| 15 | [#TryMyJobwithOlah](http://twitter.com/search?q=%23TryMyJobwithOlah) | N/A |
+| 16 | [RIDING WITH PHYNA](http://twitter.com/search?q=RIDING+WITH+PHYNA) | N/A |
+| 17 | [Anikulapo](http://twitter.com/search?q=Anikulapo) | N/A |
+| 18 | [Akwa Ibom](http://twitter.com/search?q=Akwa+Ibom) | N/A |
+| 19 | [Mr Macaroni](http://twitter.com/search?q=Mr+Macaroni) | N/A |
+| 20 | [Debo](http://twitter.com/search?q=Debo) | N/A |
+| 21 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 22 | [SUGARCOAT PHYNA](http://twitter.com/search?q=SUGARCOAT+PHYNA) | N/A |
+| 23 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 24 | [Dey Play](http://twitter.com/search?q=Dey+Play) | N/A |
+| 25 | [Presiding Officer](http://twitter.com/search?q=Presiding+Officer) | N/A |
+| 26 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
 | 27 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
-| 28 | [BEAUTY TUKURA IS COMING](http://twitter.com/search?q=BEAUTY+TUKURA+IS+COMING) | N/A |
-| 29 | [Adekunle Gold](http://twitter.com/search?q=Adekunle+Gold) | N/A |
-| 30 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 31 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
-| 32 | [Mr Macaroni](http://twitter.com/search?q=Mr+Macaroni) | N/A |
-| 33 | [riding with phyna](http://twitter.com/search?q=riding+with+phyna) | N/A |
-| 34 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
-| 35 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 36 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
-| 37 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 38 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
-| 39 | [Anikulapo](http://twitter.com/search?q=Anikulapo) | N/A |
-| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 41 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 42 | [SUGARCOAT PHYNA](http://twitter.com/search?q=SUGARCOAT+PHYNA) | N/A |
-| 43 | [Lege](http://twitter.com/search?q=Lege) | N/A |
-| 44 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 45 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 46 | [AFC Richmond](http://twitter.com/search?q=AFC+Richmond) | N/A |
-| 47 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 48 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 49 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 50 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 28 | [Baddo](http://twitter.com/search?q=Baddo) | N/A |
+| 29 | [The British](http://twitter.com/search?q=The+British) | N/A |
+| 30 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
+| 31 | [Duck](http://twitter.com/search?q=Duck) | N/A |
+| 32 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 33 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 34 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 35 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 36 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 37 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
+| 38 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 39 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
+| 40 | [#lluvias](http://twitter.com/search?q=%23lluvias) | N/A |
+| 41 | [#kibe](http://twitter.com/search?q=%23kibe) | N/A |
+| 42 | [#Phyna𓃰](http://twitter.com/search?q=%23Phyna%f0%93%83%b0) | N/A |
+| 43 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
 
 
 

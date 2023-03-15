@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-15 16:17:18 UTC`
+📆 Last Updated: `2023-03-15 17:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
-| 2 | [Cincy](http://twitter.com/search?q=Cincy) | Cincy is a nickname for the city of Cincinnati, Ohio. It is derived from the city's name and is commonly used by locals. |
+| 2 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 3 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 4 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
+| 4 | [Cincy](http://twitter.com/search?q=Cincy) | Cincy is a nickname for the city of Cincinnati, Ohio. It is derived from the city's name and is commonly used by locals. |
 | 5 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 6 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 7 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 6 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 7 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
 | 8 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 9 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 9 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 10 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
-| 11 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 13 | [SITW](http://twitter.com/search?q=SITW) | N/A |
-| 14 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
-| 15 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 16 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
-| 17 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 18 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 19 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 20 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 21 | [Kyle Trask](http://twitter.com/search?q=Kyle+Trask) | N/A |
-| 22 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
-| 23 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 24 | [Hurst](http://twitter.com/search?q=Hurst) | Hurst is a surname of English origin. It is derived from the Old English word hyrst, meaning "wooded hill". The name is most commonly associated with the village of Hurst in Berkshire, England. |
-| 25 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 26 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 27 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 28 | [Harty](http://twitter.com/search?q=Harty) | N/A |
-| 29 | [Mint Mobile](http://twitter.com/search?q=Mint+Mobile) | N/A |
-| 30 | [Mike Evans](http://twitter.com/search?q=Mike+Evans) | Mike Evans is a name. It does not have a specific meaning in English. |
-| 31 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 32 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 33 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 11 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 12 | [What You Won't Do For Love](http://twitter.com/search?q=What+You+Won%27t+Do+For+Love) | N/A |
+| 13 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 15 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
+| 16 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 17 | [Trask](http://twitter.com/search?q=Trask) | N/A |
+| 18 | [SITW](http://twitter.com/search?q=SITW) | N/A |
+| 19 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 20 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 21 | [#BillsMafia](http://twitter.com/search?q=%23BillsMafia) | #BillsMafia is a hashtag used by fans of the Buffalo Bills, an American football team based in Buffalo, New York. It is used to show support for the team and to connect with other fans. The term "Mafia" is used to refer to the passionate and loyal fan base of the Bills. |
+| 22 | [Pat McAfee](http://twitter.com/search?q=Pat+McAfee) | Pat McAfee is the name of an American former professional football player, sports analyst, and comedian. He is best known for his eight-year career as a punter in the National Football League (NFL). He is also the founder of the Pat McAfee Show, a popular podcast and YouTube channel. The phrase "Pat McAfee" is used to refer to his career, his show, or his comedic style. |
+| 23 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 24 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 25 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 26 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 27 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 28 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 29 | [HISD](http://twitter.com/search?q=HISD) | N/A |
+| 30 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 31 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
+| 32 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 33 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
 | 34 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 35 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
-| 36 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 37 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 38 | [Chris Godwin](http://twitter.com/search?q=Chris+Godwin) | N/A |
-| 39 | [Guo Wengui](http://twitter.com/search?q=Guo+Wengui) | N/A |
-| 40 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 41 | [Witherspoon](http://twitter.com/search?q=Witherspoon) | N/A |
-| 42 | [Something in the Water](http://twitter.com/search?q=Something+in+the+Water) | N/A |
-| 43 | [Open Your Eyes](http://twitter.com/search?q=Open+Your+Eyes) | N/A |
-| 44 | [HISD](http://twitter.com/search?q=HISD) | N/A |
-| 45 | [Deep Ellum](http://twitter.com/search?q=Deep+Ellum) | N/A |
-| 46 | [Trump Media](http://twitter.com/search?q=Trump+Media) | N/A |
-| 47 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 48 | [Hines](http://twitter.com/search?q=Hines) | Hines is a surname of English origin. It is derived from the Old English personal name Hine, which was a short form of various compound names with the first element "hīwa" meaning "household". |
-| 49 | [Holcomb](http://twitter.com/search?q=Holcomb) | N/A |
+| 35 | [McKenzie](http://twitter.com/search?q=McKenzie) | N/A |
+| 36 | [Harty](http://twitter.com/search?q=Harty) | N/A |
+| 37 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 38 | [Guo Wengui](http://twitter.com/search?q=Guo+Wengui) | N/A |
+| 39 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 40 | [Mike Evans](http://twitter.com/search?q=Mike+Evans) | Mike Evans is a name. It does not have a specific meaning in English. |
+| 41 | [Mint Mobile](http://twitter.com/search?q=Mint+Mobile) | N/A |
+| 42 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 43 | [Hurst](http://twitter.com/search?q=Hurst) | Hurst is a surname of English origin. It is derived from the Old English word hyrst, meaning "wooded hill". The name is most commonly associated with the village of Hurst in Berkshire, England. |
+| 44 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 45 | [RIP Legend](http://twitter.com/search?q=RIP+Legend) | N/A |
+| 46 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
+| 47 | [Marion](http://twitter.com/search?q=Marion) | N/A |
+| 48 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 49 | [Something In The Water](http://twitter.com/search?q=Something+In+The+Water) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-15 16:17:34 UTC`
+📆 Last Updated: `2023-03-15 17:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Venezuela
 | 2 | [#ChávezHechoMillones](http://twitter.com/search?q=%23Ch%c3%a1vezHechoMillones) | N/A |
 | 3 | [#chávezantiimperialista](http://twitter.com/search?q=%23ch%c3%a1vezantiimperialista) | N/A |
 | 4 | [Saime](http://twitter.com/search?q=Saime) | N/A |
-| 5 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 7 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 9 | [Luis Beltrán Prieto Figueroa](http://twitter.com/search?q=Luis+Beltr%c3%a1n+Prieto+Figueroa) | N/A |
+| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 6 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 7 | [Eduardo Escobar](http://twitter.com/search?q=Eduardo+Escobar) | N/A |
+| 8 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 11 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
-| 12 | [#ExpoFomentaPymesBR](http://twitter.com/search?q=%23ExpoFomentaPymesBR) | N/A |
-| 13 | [victor cuica](http://twitter.com/search?q=victor+cuica) | N/A |
-| 14 | [Carlos Hernández](http://twitter.com/search?q=Carlos+Hern%c3%a1ndez) | N/A |
-| 15 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 16 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 17 | [alma llanera](http://twitter.com/search?q=alma+llanera) | N/A |
-| 18 | [Juan Bautista Arismendi](http://twitter.com/search?q=Juan+Bautista+Arismendi) | N/A |
-| 19 | [Bien de Interés Cultural](http://twitter.com/search?q=Bien+de+Inter%c3%a9s+Cultural) | N/A |
-| 20 | [eduardo rodríguez](http://twitter.com/search?q=eduardo+rodr%c3%adguez) | N/A |
-| 21 | [José Gregorio Hernández](http://twitter.com/search?q=Jos%c3%a9+Gregorio+Hern%c3%a1ndez) | N/A |
-| 22 | [Guama](http://twitter.com/search?q=Guama) | N/A |
-| 23 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 11 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 12 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 13 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 14 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
+| 15 | [Luis Beltrán Prieto Figueroa](http://twitter.com/search?q=Luis+Beltr%c3%a1n+Prieto+Figueroa) | N/A |
+| 16 | [Carlos Hernández](http://twitter.com/search?q=Carlos+Hern%c3%a1ndez) | N/A |
+| 17 | [Juan Bautista Arismendi](http://twitter.com/search?q=Juan+Bautista+Arismendi) | N/A |
+| 18 | [alma llanera](http://twitter.com/search?q=alma+llanera) | N/A |
+| 19 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 20 | [Bien de Interés Cultural](http://twitter.com/search?q=Bien+de+Inter%c3%a9s+Cultural) | N/A |
+| 21 | [eduardo rodríguez](http://twitter.com/search?q=eduardo+rodr%c3%adguez) | N/A |
+| 22 | [Víctor Cuica](http://twitter.com/search?q=V%c3%adctor+Cuica) | N/A |
+| 23 | [La Dimensión Latina](http://twitter.com/search?q=La+Dimensi%c3%b3n+Latina) | N/A |
 | 24 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 25 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 26 | [Cayena](http://twitter.com/search?q=Cayena) | N/A |
-| 27 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 28 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 29 | [pedro elías gutiérrez](http://twitter.com/search?q=pedro+el%c3%adas+guti%c3%a9rrez) | N/A |
-| 30 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 31 | [ganó venezuela](http://twitter.com/search?q=gan%c3%b3+venezuela) | N/A |
-| 32 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
-| 33 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
-| 34 | [El 15](http://twitter.com/search?q=El+15) | N/A |
-| 35 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 36 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 37 | [Chicha](http://twitter.com/search?q=Chicha) | N/A |
-| 38 | [La Dimensión Latina](http://twitter.com/search?q=La+Dimensi%c3%b3n+Latina) | N/A |
-| 39 | [igsa](http://twitter.com/search?q=igsa) | N/A |
-| 40 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 41 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 42 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 43 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 44 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
-| 45 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 25 | [Marchan](http://twitter.com/search?q=Marchan) | N/A |
+| 26 | [eugenio suárez](http://twitter.com/search?q=eugenio+su%c3%a1rez) | N/A |
+| 27 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 28 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 29 | [Aran](http://twitter.com/search?q=Aran) | N/A |
+| 30 | [Cayena](http://twitter.com/search?q=Cayena) | N/A |
+| 31 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 32 | [pedro elías gutiérrez](http://twitter.com/search?q=pedro+el%c3%adas+guti%c3%a9rrez) | N/A |
+| 33 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
+| 34 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
+| 35 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 36 | [El 15](http://twitter.com/search?q=El+15) | N/A |
+| 37 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 38 | [Chicha](http://twitter.com/search?q=Chicha) | N/A |
+| 39 | [Jesús Luzardo](http://twitter.com/search?q=Jes%c3%bas+Luzardo) | N/A |
+| 40 | [Guama](http://twitter.com/search?q=Guama) | N/A |
+| 41 | [Luis Mariano Rivera](http://twitter.com/search?q=Luis+Mariano+Rivera) | N/A |
+| 42 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
+| 43 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 44 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 45 | [Igsa](http://twitter.com/search?q=Igsa) | N/A |
 | 46 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 47 | [Luis Mariano Rivera](http://twitter.com/search?q=Luis+Mariano+Rivera) | N/A |
-| 48 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 49 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 50 | [gilberto correa](http://twitter.com/search?q=gilberto+correa) | N/A |
+| 47 | [Kleiver](http://twitter.com/search?q=Kleiver) | N/A |
+| 48 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
+| 49 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 50 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
 
 
 

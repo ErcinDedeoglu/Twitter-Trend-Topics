@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-15 16:16:45 UTC`
+📆 Last Updated: `2023-03-15 17:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 2 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 3 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 4 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 5 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 6 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 7 | [Punta Hermosa](http://twitter.com/search?q=Punta+Hermosa) | N/A |
+| 1 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 2 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 3 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 4 | [#15Mderodolfitos](http://twitter.com/search?q=%2315Mderodolfitos) | N/A |
+| 5 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
+| 6 | [Punta Hermosa](http://twitter.com/search?q=Punta+Hermosa) | N/A |
+| 7 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
 | 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 9 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 10 | [Ripley](http://twitter.com/search?q=Ripley) | N/A |
-| 11 | [#SetMeFree_Pt2_TeaserShorts](http://twitter.com/search?q=%23SetMeFree_Pt2_TeaserShorts) | N/A |
-| 12 | [Rímac](http://twitter.com/search?q=R%c3%admac) | N/A |
-| 13 | [Porky](http://twitter.com/search?q=Porky) | N/A |
-| 14 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 15 | [#huayco](http://twitter.com/search?q=%23huayco) | N/A |
+| 10 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 11 | [Ripley](http://twitter.com/search?q=Ripley) | N/A |
+| 12 | [Porky](http://twitter.com/search?q=Porky) | N/A |
+| 13 | [Rímac](http://twitter.com/search?q=R%c3%admac) | N/A |
+| 14 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 16 | [Chosica](http://twitter.com/search?q=Chosica) | N/A |
-| 17 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 17 | [#huayco](http://twitter.com/search?q=%23huayco) | N/A |
 | 18 | [Chaclacayo](http://twitter.com/search?q=Chaclacayo) | N/A |
-| 19 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 19 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
 | 20 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 21 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
-| 22 | [Chillón](http://twitter.com/search?q=Chill%c3%b3n) | N/A |
-| 23 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 24 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
-| 25 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 26 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 27 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
+| 21 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 22 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
+| 23 | [Chillón](http://twitter.com/search?q=Chill%c3%b3n) | N/A |
+| 24 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 25 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
+| 26 | [Cieneguilla](http://twitter.com/search?q=Cieneguilla) | N/A |
+| 27 | [López Aliaga](http://twitter.com/search?q=L%c3%b3pez+Aliaga) | N/A |
 | 28 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
-| 29 | [Cieneguilla](http://twitter.com/search?q=Cieneguilla) | N/A |
+| 29 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
 | 30 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
-| 31 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 31 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
 | 32 | [Eliminatorias](http://twitter.com/search?q=Eliminatorias) | N/A |
 | 33 | [Carretera Central](http://twitter.com/search?q=Carretera+Central) | N/A |
-| 34 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
-| 35 | [López Aliaga](http://twitter.com/search?q=L%c3%b3pez+Aliaga) | N/A |
-| 36 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 37 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 38 | [Pobre Colombia](http://twitter.com/search?q=Pobre+Colombia) | N/A |
-| 39 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 40 | [Sicurezza](http://twitter.com/search?q=Sicurezza) | N/A |
+| 34 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 35 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 36 | [Pobre Colombia](http://twitter.com/search?q=Pobre+Colombia) | N/A |
+| 37 | [sicurezza](http://twitter.com/search?q=sicurezza) | N/A |
+| 38 | [Flor Pablo](http://twitter.com/search?q=Flor+Pablo) | N/A |
+| 39 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 40 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
 | 41 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 42 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 43 | [Comas](http://twitter.com/search?q=Comas) | N/A |
-| 44 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 45 | [río Piura](http://twitter.com/search?q=r%c3%ado+Piura) | N/A |
-| 46 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 47 | [Dalila](http://twitter.com/search?q=Dalila) | N/A |
-| 48 | [San Juan de Lurigancho](http://twitter.com/search?q=San+Juan+de+Lurigancho) | N/A |
-| 49 | [Flor Pablo](http://twitter.com/search?q=Flor+Pablo) | N/A |
-| 50 | [Dona](http://twitter.com/search?q=Dona) | N/A |
+| 42 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 43 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 44 | [río Piura](http://twitter.com/search?q=r%c3%ado+Piura) | N/A |
+| 45 | [Dalila](http://twitter.com/search?q=Dalila) | N/A |
+| 46 | [Panamericana Sur](http://twitter.com/search?q=Panamericana+Sur) | N/A |
+| 47 | [Relator](http://twitter.com/search?q=Relator) | N/A |
+| 48 | [mariano soso](http://twitter.com/search?q=mariano+soso) | N/A |
+| 49 | [San Juan de Lurigancho](http://twitter.com/search?q=San+Juan+de+Lurigancho) | N/A |
+| 50 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
 
 
 

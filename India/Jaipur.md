@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-15 16:17:13 UTC`
+📆 Last Updated: `2023-03-15 17:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
-| 2 | [#IBFADUBAI](http://twitter.com/search?q=%23IBFADUBAI) | N/A |
-| 3 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
-| 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 5 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 6 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
-| 7 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 8 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 9 | [Ellyse Perry](http://twitter.com/search?q=Ellyse+Perry) | N/A |
-| 10 | [Sushant Worth Emulating](http://twitter.com/search?q=Sushant+Worth+Emulating) | N/A |
-| 11 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 12 | [Jacks](http://twitter.com/search?q=Jacks) | N/A |
-| 13 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 14 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
-| 15 | [bracewell](http://twitter.com/search?q=bracewell) | N/A |
-| 16 | [RECALLING 2YR OF FATEJO](http://twitter.com/search?q=RECALLING+2YR+OF+FATEJO) | N/A |
-| 17 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 18 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 19 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
-| 20 | [B. 1750](http://twitter.com/search?q=B.+1750) | N/A |
-| 21 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 22 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
-| 23 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
-| 24 | [IPL 2023](http://twitter.com/search?q=IPL+2023) | N/A |
-| 25 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 26 | [आवास योजना](http://twitter.com/search?q=%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 27 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 28 | [समीक्षा बैठक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ac%e0%a5%88%e0%a4%a0%e0%a4%95) | N/A |
-| 29 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 30 | [Kharge](http://twitter.com/search?q=Kharge) | N/A |
-| 31 | [Arunachal Pradesh](http://twitter.com/search?q=Arunachal+Pradesh) | N/A |
-| 32 | [#CongressDartiHai](http://twitter.com/search?q=%23CongressDartiHai) | N/A |
-| 33 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 34 | [#FIHProLeague](http://twitter.com/search?q=%23FIHProLeague) | N/A |
-| 35 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
-| 36 | [#PKSDT](http://twitter.com/search?q=%23PKSDT) | N/A |
-| 37 | [#ambition2039](http://twitter.com/search?q=%23ambition2039) | N/A |
-| 38 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
-| 39 | [#Kazhuvethimoorkkan](http://twitter.com/search?q=%23Kazhuvethimoorkkan) | N/A |
-| 40 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
-| 41 | [#EknathShinde](http://twitter.com/search?q=%23EknathShinde) | N/A |
-| 42 | [#ShivSena](http://twitter.com/search?q=%23ShivSena) | N/A |
-| 43 | [#UddhavThackeray](http://twitter.com/search?q=%23UddhavThackeray) | N/A |
-| 44 | [#BankingCrisis](http://twitter.com/search?q=%23BankingCrisis) | N/A |
-| 45 | [#WinGalaxyS23](http://twitter.com/search?q=%23WinGalaxyS23) | N/A |
-| 46 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 47 | [#વીરાંજલિ](http://twitter.com/search?q=%23%e0%aa%b5%e0%ab%80%e0%aa%b0%e0%aa%be%e0%aa%82%e0%aa%9c%e0%aa%b2%e0%aa%bf) | N/A |
-| 48 | [#SetMeFree_Pt2_Is_Coming](http://twitter.com/search?q=%23SetMeFree_Pt2_Is_Coming) | N/A |
+| 1 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 2 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
+| 3 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
+| 4 | [#IBFADUBAI](http://twitter.com/search?q=%23IBFADUBAI) | N/A |
+| 5 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 6 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 7 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 8 | [Smriti Mandhana](http://twitter.com/search?q=Smriti+Mandhana) | N/A |
+| 9 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 10 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 11 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 12 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
+| 13 | [Sushant Worth Emulating](http://twitter.com/search?q=Sushant+Worth+Emulating) | N/A |
+| 14 | [Richa](http://twitter.com/search?q=Richa) | N/A |
+| 15 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 16 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 17 | [Governor of the Year](http://twitter.com/search?q=Governor+of+the+Year) | N/A |
+| 18 | [Nobel Peace Prize](http://twitter.com/search?q=Nobel+Peace+Prize) | N/A |
+| 19 | [Jacks](http://twitter.com/search?q=Jacks) | N/A |
+| 20 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 21 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
+| 22 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 23 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 24 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 25 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 26 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
+| 27 | [Prabhas](http://twitter.com/search?q=Prabhas) | N/A |
+| 28 | [B. 1750](http://twitter.com/search?q=B.+1750) | N/A |
+| 29 | [TSPSC](http://twitter.com/search?q=TSPSC) | N/A |
+| 30 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
+| 31 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 32 | [आवास योजना](http://twitter.com/search?q=%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 33 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
+| 34 | [IPL 2023](http://twitter.com/search?q=IPL+2023) | N/A |
+| 35 | [भूपेश सरकार](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 36 | [समीक्षा बैठक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ac%e0%a5%88%e0%a4%a0%e0%a4%95) | N/A |
+| 37 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 38 | [#ShivangiJoshi](http://twitter.com/search?q=%23ShivangiJoshi) | N/A |
+| 39 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
+| 40 | [#CongressDartiHai](http://twitter.com/search?q=%23CongressDartiHai) | N/A |
+| 41 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
+| 42 | [#MadanRavichandran](http://twitter.com/search?q=%23MadanRavichandran) | N/A |
+| 43 | [#FIHProLeague](http://twitter.com/search?q=%23FIHProLeague) | N/A |
+| 44 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 45 | [#Kavin04](http://twitter.com/search?q=%23Kavin04) | N/A |
+| 46 | [#PKSDT](http://twitter.com/search?q=%23PKSDT) | N/A |
+| 47 | [#TereIshqMeinGhayal](http://twitter.com/search?q=%23TereIshqMeinGhayal) | N/A |
+| 48 | [#ambition2039](http://twitter.com/search?q=%23ambition2039) | N/A |
+| 49 | [#Atman](http://twitter.com/search?q=%23Atman) | N/A |
+| 50 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
 
 
 

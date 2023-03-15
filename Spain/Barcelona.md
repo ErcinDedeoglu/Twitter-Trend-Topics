@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-15 16:16:54 UTC`
+📆 Last Updated: `2023-03-15 17:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Spain](</Spain>)
 | 1 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
 | 2 | [Ossorio](http://twitter.com/search?q=Ossorio) | N/A |
 | 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 4 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
-| 5 | [Posición](http://twitter.com/search?q=Posici%c3%b3n) | N/A |
-| 6 | [#VuelaCon7Play](http://twitter.com/search?q=%23VuelaCon7Play) | N/A |
-| 7 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
-| 8 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 9 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 10 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 4 | [#QuesaritoQuedate](http://twitter.com/search?q=%23QuesaritoQuedate) | N/A |
+| 5 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
+| 6 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 7 | [Posición](http://twitter.com/search?q=Posici%c3%b3n) | N/A |
+| 8 | [#TodoEsMentira15M](http://twitter.com/search?q=%23TodoEsMentira15M) | N/A |
+| 9 | [Pedro Sánchez](http://twitter.com/search?q=Pedro+S%c3%a1nchez) | N/A |
+| 10 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
 | 11 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
 | 12 | [Buscando a Nemo](http://twitter.com/search?q=Buscando+a+Nemo) | N/A |
-| 13 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 14 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 15 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
-| 16 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
-| 17 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 18 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
-| 19 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
-| 20 | [ledesma](http://twitter.com/search?q=ledesma) | N/A |
-| 21 | [Bono Social](http://twitter.com/search?q=Bono+Social) | N/A |
-| 22 | [Impune](http://twitter.com/search?q=Impune) | N/A |
-| 23 | [AZ Alkmaar](http://twitter.com/search?q=AZ+Alkmaar) | N/A |
-| 24 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
-| 25 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
-| 26 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
-| 27 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
-| 28 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 29 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
-| 30 | [CAN YAMAN FOR CHILDREN](http://twitter.com/search?q=CAN+YAMAN+FOR+CHILDREN) | N/A |
-| 31 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 32 | [LA SANTA](http://twitter.com/search?q=LA+SANTA) | N/A |
-| 33 | [Bleach](http://twitter.com/search?q=Bleach) | N/A |
-| 34 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 35 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
-| 36 | [C. Tangana](http://twitter.com/search?q=C.+Tangana) | N/A |
-| 37 | [Pedro Sanchez](http://twitter.com/search?q=Pedro+Sanchez) | N/A |
-| 38 | [Alfonso Guerra](http://twitter.com/search?q=Alfonso+Guerra) | N/A |
-| 39 | [César](http://twitter.com/search?q=C%c3%a9sar) | N/A |
-| 40 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 41 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
-| 42 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
-| 43 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
-| 44 | [Blanca Portillo](http://twitter.com/search?q=Blanca+Portillo) | N/A |
-| 45 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
-| 46 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 47 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
-| 48 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 49 | [Lanzarote](http://twitter.com/search?q=Lanzarote) | N/A |
-| 50 | [Arabia Saudí](http://twitter.com/search?q=Arabia+Saud%c3%ad) | N/A |
+| 13 | [#VuelaCon7Play](http://twitter.com/search?q=%23VuelaCon7Play) | N/A |
+| 14 | [#DebateUCM](http://twitter.com/search?q=%23DebateUCM) | N/A |
+| 15 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 16 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 17 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
+| 18 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
+| 19 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 20 | [Impune](http://twitter.com/search?q=Impune) | N/A |
+| 21 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
+| 22 | [AZ Alkmaar](http://twitter.com/search?q=AZ+Alkmaar) | N/A |
+| 23 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 24 | [Fouto](http://twitter.com/search?q=Fouto) | N/A |
+| 25 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 26 | [CAN YAMAN FOR CHILDREN](http://twitter.com/search?q=CAN+YAMAN+FOR+CHILDREN) | N/A |
+| 27 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
+| 28 | [Bono Social](http://twitter.com/search?q=Bono+Social) | N/A |
+| 29 | [Dalí](http://twitter.com/search?q=Dal%c3%ad) | N/A |
+| 30 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
+| 31 | [2 de Ayuso](http://twitter.com/search?q=2+de+Ayuso) | N/A |
+| 32 | [Alfonso Guerra](http://twitter.com/search?q=Alfonso+Guerra) | N/A |
+| 33 | [Youth League](http://twitter.com/search?q=Youth+League) | N/A |
+| 34 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
+| 35 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 36 | [la santa](http://twitter.com/search?q=la+santa) | N/A |
+| 37 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
+| 38 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
+| 39 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
+| 40 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 41 | [Bleach](http://twitter.com/search?q=Bleach) | N/A |
+| 42 | [C. Tangana](http://twitter.com/search?q=C.+Tangana) | N/A |
+| 43 | [César](http://twitter.com/search?q=C%c3%a9sar) | N/A |
+| 44 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
+| 45 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 46 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 47 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
+| 48 | [Inditex](http://twitter.com/search?q=Inditex) | N/A |
+| 49 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 50 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
 
 
 

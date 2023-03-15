@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-15 16:16:46 UTC`
+📆 Last Updated: `2023-03-15 17:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 2 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 3 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 4 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 1 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 2 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 3 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 4 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
 | 5 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 6 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 7 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 8 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 9 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 10 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 11 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 12 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 13 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 14 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 15 | [HABLA KEY](http://twitter.com/search?q=HABLA+KEY) | N/A |
-| 16 | [LARI NO MAIS VOCÊ](http://twitter.com/search?q=LARI+NO+MAIS+VOC%c3%8a) | N/A |
-| 17 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 19 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 20 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 21 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 22 | [Doriana](http://twitter.com/search?q=Doriana) | N/A |
-| 23 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 24 | [#revoganovoensinomedio](http://twitter.com/search?q=%23revoganovoensinomedio) | N/A |
-| 25 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
-| 26 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
-| 27 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
-| 28 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
-| 29 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 6 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 7 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 8 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 9 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 10 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 11 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 13 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 14 | [HABLA KEY](http://twitter.com/search?q=HABLA+KEY) | N/A |
+| 15 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 16 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 17 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
+| 18 | [Tove](http://twitter.com/search?q=Tove) | N/A |
+| 19 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 20 | [lari no mais você](http://twitter.com/search?q=lari+no+mais+voc%c3%aa) | N/A |
+| 21 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
+| 22 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 23 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
+| 24 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 25 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
+| 26 | [#revoganovoensinomedio](http://twitter.com/search?q=%23revoganovoensinomedio) | N/A |
+| 27 | [Doriana](http://twitter.com/search?q=Doriana) | N/A |
+| 28 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 29 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
 | 30 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 31 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 31 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
 | 32 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 33 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 34 | [Pronasci](http://twitter.com/search?q=Pronasci) | N/A |
+| 33 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 34 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
 | 35 | [John Frusciante](http://twitter.com/search?q=John+Frusciante) | N/A |
 | 36 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 37 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 38 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
-| 39 | [São Longuinho](http://twitter.com/search?q=S%c3%a3o+Longuinho) | N/A |
+| 37 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
+| 38 | [Pronasci](http://twitter.com/search?q=Pronasci) | N/A |
+| 39 | [Stefania](http://twitter.com/search?q=Stefania) | N/A |
 | 40 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
-| 41 | [Imposto de Renda](http://twitter.com/search?q=Imposto+de+Renda) | N/A |
-| 42 | [jota quest](http://twitter.com/search?q=jota+quest) | N/A |
-| 43 | [Milly Lacombe](http://twitter.com/search?q=Milly+Lacombe) | N/A |
-| 44 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 45 | [Infiel](http://twitter.com/search?q=Infiel) | N/A |
-| 46 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 47 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
-| 48 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 49 | [TRABALHO ESCRAVO](http://twitter.com/search?q=TRABALHO+ESCRAVO) | N/A |
+| 41 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 42 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
+| 43 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
+| 44 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
+| 45 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
+| 46 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 47 | [Conca](http://twitter.com/search?q=Conca) | N/A |
+| 48 | [Infiel](http://twitter.com/search?q=Infiel) | N/A |
 
 
 

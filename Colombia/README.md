@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-15 16:17:27 UTC`
+📆 Last Updated: `2023-03-15 17:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Colombia
 | 5 | [#DeMalas](http://twitter.com/search?q=%23DeMalas) | N/A |
 | 6 | [Bolillo](http://twitter.com/search?q=Bolillo) | N/A |
 | 7 | [Sutatausa](http://twitter.com/search?q=Sutatausa) | N/A |
-| 8 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
-| 9 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
+| 8 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
+| 9 | [CANALLA](http://twitter.com/search?q=CANALLA) | N/A |
 | 10 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 12 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
-| 13 | [#sueñoconalejandrofernandez](http://twitter.com/search?q=%23sue%c3%b1oconalejandrofernandez) | N/A |
-| 14 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 15 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 16 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 11 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
+| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 13 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
+| 14 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
+| 15 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 16 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 | 17 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 18 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
 | 19 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 20 | [la silla vacía](http://twitter.com/search?q=la+silla+vac%c3%ada) | N/A |
-| 21 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
-| 22 | [Fernando Gaviria](http://twitter.com/search?q=Fernando+Gaviria) | N/A |
-| 23 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
-| 26 | [Upegui](http://twitter.com/search?q=Upegui) | N/A |
-| 27 | [El País de Uruguay](http://twitter.com/search?q=El+Pa%c3%ads+de+Uruguay) | N/A |
-| 28 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 20 | [La Silla Vacía](http://twitter.com/search?q=La+Silla+Vac%c3%ada) | N/A |
+| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 23 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
+| 24 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
+| 25 | [Lección](http://twitter.com/search?q=Lecci%c3%b3n) | N/A |
+| 26 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 27 | [Fernando Gaviria](http://twitter.com/search?q=Fernando+Gaviria) | N/A |
+| 28 | [Laura Gil](http://twitter.com/search?q=Laura+Gil) | N/A |
 | 29 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 30 | [Lección](http://twitter.com/search?q=Lecci%c3%b3n) | N/A |
-| 31 | [Laura Gil](http://twitter.com/search?q=Laura+Gil) | N/A |
-| 32 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 33 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 34 | [Arvid de Kleijn](http://twitter.com/search?q=Arvid+de+Kleijn) | N/A |
-| 35 | [enamorado](http://twitter.com/search?q=enamorado) | N/A |
-| 36 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
-| 37 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 38 | [Decode](http://twitter.com/search?q=Decode) | N/A |
-| 39 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
-| 40 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 41 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
-| 42 | [Mesetas](http://twitter.com/search?q=Mesetas) | N/A |
-| 43 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 30 | [Decode](http://twitter.com/search?q=Decode) | N/A |
+| 31 | [ENAMORADO](http://twitter.com/search?q=ENAMORADO) | N/A |
+| 32 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
+| 33 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 34 | [Mesetas](http://twitter.com/search?q=Mesetas) | N/A |
+| 35 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
+| 36 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
+| 37 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 40 | [Upegui](http://twitter.com/search?q=Upegui) | N/A |
+| 41 | [Guima](http://twitter.com/search?q=Guima) | N/A |
+| 42 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 43 | [wilder](http://twitter.com/search?q=wilder) | N/A |
 | 44 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
-| 45 | [ultra air](http://twitter.com/search?q=ultra+air) | N/A |
-| 46 | [Matador](http://twitter.com/search?q=Matador) | N/A |
-| 47 | [Guima](http://twitter.com/search?q=Guima) | N/A |
-| 48 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 45 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 46 | [Juanita León](http://twitter.com/search?q=Juanita+Le%c3%b3n) | N/A |
+| 47 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 48 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
 | 49 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 50 | [Juanita León](http://twitter.com/search?q=Juanita+Le%c3%b3n) | N/A |
+| 50 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
 
 
 

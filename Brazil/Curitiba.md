@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-15 16:16:46 UTC`
+📆 Last Updated: `2023-03-15 17:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 2 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 3 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 2 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 3 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
 | 4 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
 | 5 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 6 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 7 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 8 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 9 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 10 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 11 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 6 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
+| 7 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 8 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 9 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 11 | [Larson](http://twitter.com/search?q=Larson) | N/A |
 | 12 | [HABLA KEY](http://twitter.com/search?q=HABLA+KEY) | N/A |
-| 13 | [LARI NO MAIS VOCÊ](http://twitter.com/search?q=LARI+NO+MAIS+VOC%c3%8a) | N/A |
-| 14 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 16 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 17 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 18 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 19 | [Doriana](http://twitter.com/search?q=Doriana) | N/A |
+| 13 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 14 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 15 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
+| 16 | [Tove](http://twitter.com/search?q=Tove) | N/A |
+| 17 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
+| 18 | [lari no mais você](http://twitter.com/search?q=lari+no+mais+voc%c3%aa) | N/A |
+| 19 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
 | 20 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 21 | [#revoganovoensinomedio](http://twitter.com/search?q=%23revoganovoensinomedio) | N/A |
-| 22 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
+| 21 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 22 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
 | 23 | [Rei da América](http://twitter.com/search?q=Rei+da+Am%c3%a9rica) | N/A |
-| 24 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
-| 25 | [Se o Liverpool](http://twitter.com/search?q=Se+o+Liverpool) | N/A |
+| 24 | [#revoganovoensinomedio](http://twitter.com/search?q=%23revoganovoensinomedio) | N/A |
+| 25 | [Doriana](http://twitter.com/search?q=Doriana) | N/A |
 | 26 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
-| 27 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 28 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 29 | [América do Sul](http://twitter.com/search?q=Am%c3%a9rica+do+Sul) | N/A |
-| 30 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 31 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 32 | [Pronasci](http://twitter.com/search?q=Pronasci) | N/A |
-| 33 | [John Frusciante](http://twitter.com/search?q=John+Frusciante) | N/A |
-| 34 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 35 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 36 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
-| 37 | [São Longuinho](http://twitter.com/search?q=S%c3%a3o+Longuinho) | N/A |
+| 27 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
+| 28 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 29 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 30 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 31 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 32 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 33 | [Pronasci](http://twitter.com/search?q=Pronasci) | N/A |
+| 34 | [John Frusciante](http://twitter.com/search?q=John+Frusciante) | N/A |
+| 35 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 36 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
+| 37 | [Stefania](http://twitter.com/search?q=Stefania) | N/A |
 | 38 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
-| 39 | [Imposto de Renda](http://twitter.com/search?q=Imposto+de+Renda) | N/A |
-| 40 | [jota quest](http://twitter.com/search?q=jota+quest) | N/A |
-| 41 | [Milly Lacombe](http://twitter.com/search?q=Milly+Lacombe) | N/A |
-| 42 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 43 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 44 | [Infiel](http://twitter.com/search?q=Infiel) | N/A |
-| 45 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
-| 46 | [TRABALHO ESCRAVO](http://twitter.com/search?q=TRABALHO+ESCRAVO) | N/A |
-| 47 | [Kuririn](http://twitter.com/search?q=Kuririn) | N/A |
+| 39 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 40 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
+| 41 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
+| 42 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
+| 43 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
+| 44 | [América do Sul](http://twitter.com/search?q=Am%c3%a9rica+do+Sul) | N/A |
+| 45 | [Conca](http://twitter.com/search?q=Conca) | N/A |
+| 46 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 47 | [Infiel](http://twitter.com/search?q=Infiel) | N/A |
 | 48 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 49 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 50 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
+| 49 | [5 ANOS](http://twitter.com/search?q=5+ANOS) | N/A |
+| 50 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
 
 
 

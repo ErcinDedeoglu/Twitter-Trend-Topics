@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-15 16:16:53 UTC`
+📆 Last Updated: `2023-03-15 17:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,51 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GovernoMeloni](http://twitter.com/search?q=%23GovernoMeloni) | N/A |
-| 2 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 3 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
-| 4 | [#QuestionTime](http://twitter.com/search?q=%23QuestionTime) | N/A |
-| 5 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
-| 6 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 8 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 9 | [Zerbi](http://twitter.com/search?q=Zerbi) | N/A |
-| 10 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 11 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 12 | [Cele](http://twitter.com/search?q=Cele) | N/A |
-| 13 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
-| 14 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 15 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 16 | [Francoforte](http://twitter.com/search?q=Francoforte) | N/A |
-| 17 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 18 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 19 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 20 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 23 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 26 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 27 | [#Leclerc](http://twitter.com/search?q=%23Leclerc) | N/A |
-| 28 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
+| 2 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
+| 3 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
+| 4 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 5 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
+| 6 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 7 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
+| 8 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
+| 9 | [Francoforte](http://twitter.com/search?q=Francoforte) | N/A |
+| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 11 | [Zerbi](http://twitter.com/search?q=Zerbi) | N/A |
+| 12 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 13 | [Polizia](http://twitter.com/search?q=Polizia) | N/A |
+| 14 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 15 | [Napoletani](http://twitter.com/search?q=Napoletani) | N/A |
+| 16 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 17 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 18 | [Cele](http://twitter.com/search?q=Cele) | N/A |
+| 19 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 20 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 21 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 22 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 23 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 24 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 25 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
+| 28 | [#Leclerc](http://twitter.com/search?q=%23Leclerc) | N/A |
 | 29 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 30 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
-| 31 | [#Camera](http://twitter.com/search?q=%23Camera) | N/A |
-| 32 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
-| 33 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
-| 34 | [#15marzo](http://twitter.com/search?q=%2315marzo) | N/A |
-| 35 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 36 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
-| 37 | [#unarmadioperdue](http://twitter.com/search?q=%23unarmadioperdue) | N/A |
-| 38 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 39 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 40 | [#Chiesa](http://twitter.com/search?q=%23Chiesa) | N/A |
-| 41 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
-| 42 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 30 | [#Meloni_purtroppoINADEGUATA](http://twitter.com/search?q=%23Meloni_purtroppoINADEGUATA) | N/A |
+| 31 | [#15marzo](http://twitter.com/search?q=%2315marzo) | N/A |
+| 32 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
+| 33 | [#camera](http://twitter.com/search?q=%23camera) | N/A |
+| 34 | [#UnArmadioPerDue](http://twitter.com/search?q=%23UnArmadioPerDue) | N/A |
+| 35 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
+| 36 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 37 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
+| 38 | [#MilanoTorino](http://twitter.com/search?q=%23MilanoTorino) | N/A |
+| 39 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
+| 40 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
+| 41 | [#Chiesa](http://twitter.com/search?q=%23Chiesa) | N/A |
+| 42 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
 | 43 | [#disturbialimentari](http://twitter.com/search?q=%23disturbialimentari) | N/A |
 | 44 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
-| 45 | [#lariachetirala7](http://twitter.com/search?q=%23lariachetirala7) | N/A |
-| 46 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
-| 47 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
-| 48 | [#LaVoceDelleMuse](http://twitter.com/search?q=%23LaVoceDelleMuse) | N/A |
-| 49 | [#PNRR](http://twitter.com/search?q=%23PNRR) | N/A |
+| 45 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
+| 46 | [#LaVoceDelleMuse](http://twitter.com/search?q=%23LaVoceDelleMuse) | N/A |
 
 
 
