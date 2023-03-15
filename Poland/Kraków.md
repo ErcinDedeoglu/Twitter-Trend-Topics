@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-15 05:16:30 UTC`
+📆 Last Updated: `2023-03-15 06:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 2 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
-| 3 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 4 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
-| 8 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
-| 11 | [lipsk](http://twitter.com/search?q=lipsk) | N/A |
-| 12 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 13 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 14 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 15 | [CENZURA](http://twitter.com/search?q=CENZURA) | N/A |
-| 16 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 17 | [pomoc](http://twitter.com/search?q=pomoc) | N/A |
-| 18 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 19 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 20 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 21 | [edersona](http://twitter.com/search?q=edersona) | N/A |
-| 22 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 23 | [pogromca](http://twitter.com/search?q=pogromca) | N/A |
-| 24 | [poczta polska](http://twitter.com/search?q=poczta+polska) | N/A |
-| 25 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
-| 26 | [trela](http://twitter.com/search?q=trela) | N/A |
-| 27 | [interu](http://twitter.com/search?q=interu) | N/A |
-| 28 | [ligi mistrzów](http://twitter.com/search?q=ligi+mistrz%c3%b3w) | N/A |
-| 29 | [tygodnik nie](http://twitter.com/search?q=tygodnik+nie) | N/A |
-| 30 | [Winna](http://twitter.com/search?q=Winna) | N/A |
-| 31 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 32 | [glocka](http://twitter.com/search?q=glocka) | N/A |
-| 33 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
-| 34 | [taaak](http://twitter.com/search?q=taaak) | N/A |
-| 35 | [broń](http://twitter.com/search?q=bro%c5%84) | N/A |
-| 36 | [nawalny](http://twitter.com/search?q=nawalny) | N/A |
-| 37 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
-| 38 | [siemoniak](http://twitter.com/search?q=siemoniak) | N/A |
-| 39 | [granerud](http://twitter.com/search?q=granerud) | N/A |
-| 40 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
-| 41 | [nitrasa](http://twitter.com/search?q=nitrasa) | N/A |
-| 42 | [nawalnego](http://twitter.com/search?q=nawalnego) | N/A |
-| 43 | [parlament europejski](http://twitter.com/search?q=parlament+europejski) | N/A |
-| 44 | [Ulubiona FIFA](http://twitter.com/search?q=Ulubiona+FIFA) | N/A |
-| 45 | [orlenie](http://twitter.com/search?q=orlenie) | N/A |
-| 46 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
+| 1 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
+| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 3 | [Brawo Iga](http://twitter.com/search?q=Brawo+Iga) | N/A |
+| 4 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
+| 5 | [Raducanu](http://twitter.com/search?q=Raducanu) | Raducanu is a Romanian surname. It is derived from the given name Radu, which is derived from the Slavic name Radomir, meaning "peaceful ruler". |
+| 6 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 7 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 9 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
+| 12 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
+| 13 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 14 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 15 | [japierdole](http://twitter.com/search?q=japierdole) | N/A |
+| 16 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 17 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 18 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
+| 19 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
+| 20 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 21 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 22 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 23 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 24 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 25 | [zdrówka](http://twitter.com/search?q=zdr%c3%b3wka) | N/A |
+| 26 | [lipska](http://twitter.com/search?q=lipska) | N/A |
+| 27 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
+| 28 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 29 | [pogromca](http://twitter.com/search?q=pogromca) | N/A |
+| 30 | [Franciszek Blachnicki](http://twitter.com/search?q=Franciszek+Blachnicki) | N/A |
+| 31 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 32 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 33 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 34 | [grabarczyk](http://twitter.com/search?q=grabarczyk) | N/A |
+| 35 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 36 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
+| 37 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 38 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 39 | [Pcimia](http://twitter.com/search?q=Pcimia) | N/A |
+| 40 | [totalnie](http://twitter.com/search?q=totalnie) | N/A |
+| 41 | [tygodnik nie](http://twitter.com/search?q=tygodnik+nie) | N/A |
+| 42 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 43 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 44 | [lasy państwowe](http://twitter.com/search?q=lasy+pa%c5%84stwowe) | N/A |
+| 45 | ["Wolność"](http://twitter.com/search?q=%22Wolno%c5%9b%c4%87%22) | N/A |
+| 46 | [Winna](http://twitter.com/search?q=Winna) | N/A |
 
 
 

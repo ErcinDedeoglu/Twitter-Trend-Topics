@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-03-15 05:16:54 UTC`
+📆 Last Updated: `2023-03-15 06:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldConsumerRightsDay](http://twitter.com/search?q=%23WorldConsumerRightsDay) | N/A |
-| 2 | [#ContentWithOne](http://twitter.com/search?q=%23ContentWithOne) | N/A |
-| 3 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
-| 4 | [#समाज_के_लिए_खतरा](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c_%e0%a4%95%e0%a5%87_%e0%a4%b2%e0%a4%bf%e0%a4%8f_%e0%a4%96%e0%a4%a4%e0%a4%b0%e0%a4%be) | N/A |
-| 5 | [BIRTH Campaign](http://twitter.com/search?q=BIRTH+Campaign) | N/A |
-| 6 | [#JusticeForYSViveka](http://twitter.com/search?q=%23JusticeForYSViveka) | N/A |
-| 7 | [Dr Mahendra Singh](http://twitter.com/search?q=Dr+Mahendra+Singh) | N/A |
-| 8 | [False Rape Cases](http://twitter.com/search?q=False+Rape+Cases) | N/A |
-| 9 | [Classic Example](http://twitter.com/search?q=Classic+Example) | N/A |
-| 10 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 11 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 12 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 13 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
+| 2 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
+| 3 | [#SameerKhakhar](http://twitter.com/search?q=%23SameerKhakhar) | N/A |
+| 4 | [#JusticeForYSViveka](http://twitter.com/search?q=%23JusticeForYSViveka) | N/A |
+| 5 | [#ContentWithOne](http://twitter.com/search?q=%23ContentWithOne) | N/A |
+| 6 | [Dr Mahendra Singh](http://twitter.com/search?q=Dr+Mahendra+Singh) | N/A |
+| 7 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 8 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 9 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 10 | [BIRTH Campaign](http://twitter.com/search?q=BIRTH+Campaign) | N/A |
+| 11 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
+| 12 | [False Rape Cases](http://twitter.com/search?q=False+Rape+Cases) | N/A |
+| 13 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
 | 14 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 15 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
-| 16 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 15 | [Classic Example](http://twitter.com/search?q=Classic+Example) | N/A |
+| 16 | [राबड़ी देवी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
 | 17 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 18 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 20 | [राजनैतिक चेतना](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%88%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8%e0%a4%be) | N/A |
-| 21 | [मेजर संदीप उन्नीकृष्णन](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%9c%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa+%e0%a4%89%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a5%80%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%a8) | N/A |
-| 22 | [साहिब सिंह वर्मा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%ac+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 23 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
-| 24 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
+| 18 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 19 | [लैंड फॉर जॉब](http://twitter.com/search?q=%e0%a4%b2%e0%a5%88%e0%a4%82%e0%a4%a1+%e0%a4%ab%e0%a5%89%e0%a4%b0+%e0%a4%9c%e0%a5%89%e0%a4%ac) | N/A |
+| 20 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 21 | [Holy Bible](http://twitter.com/search?q=Holy+Bible) | N/A |
+| 22 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
+| 23 | [राजनैतिक चेतना](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%88%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%a8%e0%a4%be) | N/A |
+| 24 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
 | 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 26 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 27 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 28 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 29 | [#HappyBirthdayAliaBhatt](http://twitter.com/search?q=%23HappyBirthdayAliaBhatt) | N/A |
-| 30 | [#फूलदेई](http://twitter.com/search?q=%23%e0%a4%ab%e0%a5%82%e0%a4%b2%e0%a4%a6%e0%a5%87%e0%a4%88) | N/A |
-| 31 | [#MP_PESA_Act_Scam](http://twitter.com/search?q=%23MP_PESA_Act_Scam) | N/A |
-| 32 | [#KanshiRamJayanti](http://twitter.com/search?q=%23KanshiRamJayanti) | N/A |
-| 33 | [#मेरा_मसीहा_कांशीराम](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%be_%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9%e0%a4%be_%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 34 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 35 | [#SandeepUnnikrishnan](http://twitter.com/search?q=%23SandeepUnnikrishnan) | N/A |
-| 36 | [#शीतला_अष्टमी](http://twitter.com/search?q=%23%e0%a4%b6%e0%a5%80%e0%a4%a4%e0%a4%b2%e0%a4%be_%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80) | N/A |
-| 37 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 38 | [#विश्व_उपभोक्ता_अधिकार_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%89%e0%a4%aa%e0%a4%ad%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%be_%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 39 | [#LawrenceBishnoi](http://twitter.com/search?q=%23LawrenceBishnoi) | N/A |
-| 40 | [#GodMorningWednesday](http://twitter.com/search?q=%23GodMorningWednesday) | N/A |
-| 41 | [#GoodMorningTwitterWorld](http://twitter.com/search?q=%23GoodMorningTwitterWorld) | N/A |
-| 42 | [#Uttarakhand](http://twitter.com/search?q=%23Uttarakhand) | N/A |
-| 43 | [#उत्तराखंड](http://twitter.com/search?q=%23%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0%e0%a4%be%e0%a4%96%e0%a4%82%e0%a4%a1) | N/A |
-| 44 | [#SGXNIFTY](http://twitter.com/search?q=%23SGXNIFTY) | N/A |
-| 45 | [#ImranKhanArrest](http://twitter.com/search?q=%23ImranKhanArrest) | N/A |
-| 46 | [#AnpadhPM](http://twitter.com/search?q=%23AnpadhPM) | N/A |
-| 47 | [#openai](http://twitter.com/search?q=%23openai) | N/A |
-| 48 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
-| 49 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 50 | [#NEETPG2023](http://twitter.com/search?q=%23NEETPG2023) | N/A |
+| 26 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 27 | [#HappyBirthdayAliaBhatt](http://twitter.com/search?q=%23HappyBirthdayAliaBhatt) | N/A |
+| 28 | [#समाज_के_लिए_खतरा](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c_%e0%a4%95%e0%a5%87_%e0%a4%b2%e0%a4%bf%e0%a4%8f_%e0%a4%96%e0%a4%a4%e0%a4%b0%e0%a4%be) | N/A |
+| 29 | [#RabriDevi](http://twitter.com/search?q=%23RabriDevi) | N/A |
+| 30 | [#TwitterSeva](http://twitter.com/search?q=%23TwitterSeva) | N/A |
+| 31 | [#PawanSinghalFraud](http://twitter.com/search?q=%23PawanSinghalFraud) | N/A |
+| 32 | [#ArrestgangsterhritikSinghal](http://twitter.com/search?q=%23ArrestgangsterhritikSinghal) | N/A |
+| 33 | [#Nukkad](http://twitter.com/search?q=%23Nukkad) | N/A |
+| 34 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
+| 35 | [#MP_PESA_Act_Scam](http://twitter.com/search?q=%23MP_PESA_Act_Scam) | N/A |
+| 36 | [#SandeepUnnikrishnan](http://twitter.com/search?q=%23SandeepUnnikrishnan) | N/A |
+| 37 | [#LaluYadav](http://twitter.com/search?q=%23LaluYadav) | N/A |
+| 38 | [#फूलदेई](http://twitter.com/search?q=%23%e0%a4%ab%e0%a5%82%e0%a4%b2%e0%a4%a6%e0%a5%87%e0%a4%88) | N/A |
+| 39 | [#विश्व_उपभोक्ता_अधिकार_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%89%e0%a4%aa%e0%a4%ad%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%be_%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 40 | [#SaintRampalJi](http://twitter.com/search?q=%23SaintRampalJi) | N/A |
+| 41 | [#KanshiRamJayanti](http://twitter.com/search?q=%23KanshiRamJayanti) | N/A |
+| 42 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 43 | [#LawrenceBishnoi](http://twitter.com/search?q=%23LawrenceBishnoi) | N/A |
+| 44 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 45 | [#शीतला_अष्टमी_2023](http://twitter.com/search?q=%23%e0%a4%b6%e0%a5%80%e0%a4%a4%e0%a4%b2%e0%a4%be_%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80_2023) | N/A |
+| 46 | [#YoYoHoneySingh](http://twitter.com/search?q=%23YoYoHoneySingh) | N/A |
+| 47 | [#VisComing](http://twitter.com/search?q=%23VisComing) | N/A |
+| 48 | [#phooldei](http://twitter.com/search?q=%23phooldei) | N/A |
 
 
 

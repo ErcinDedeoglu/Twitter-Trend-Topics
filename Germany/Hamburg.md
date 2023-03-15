@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-15 05:16:33 UTC`
+📆 Last Updated: `2023-03-15 06:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
 | 5 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
 | 6 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 8 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 7 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 8 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
 | 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 11 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 12 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [karstadt](http://twitter.com/search?q=karstadt) | N/A |
-| 15 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 16 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 17 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 18 | [Brie](http://twitter.com/search?q=Brie) | N/A |
-| 19 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 20 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 21 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 22 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 23 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 24 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 25 | [kaufhof](http://twitter.com/search?q=kaufhof) | N/A |
-| 26 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 27 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 28 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 29 | [kaufhäuser](http://twitter.com/search?q=kaufh%c3%a4user) | N/A |
-| 30 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 31 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 32 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 33 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 34 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 35 | [innenstädte](http://twitter.com/search?q=innenst%c3%a4dte) | N/A |
-| 36 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 37 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 38 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 39 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 40 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 41 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 42 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 43 | [Messerstichen](http://twitter.com/search?q=Messerstichen) | N/A |
-| 44 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 45 | [Hannah Arendt](http://twitter.com/search?q=Hannah+Arendt) | N/A |
-| 46 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 47 | [filialen](http://twitter.com/search?q=filialen) | N/A |
-| 48 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 49 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 50 | [schrittgeschwindigkeit](http://twitter.com/search?q=schrittgeschwindigkeit) | N/A |
+| 10 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 13 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 14 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 15 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 16 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 17 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 20 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 21 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 22 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 23 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 24 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 25 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 26 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 27 | [Brie](http://twitter.com/search?q=Brie) | N/A |
+| 28 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 29 | [strafmündigkeit](http://twitter.com/search?q=strafm%c3%bcndigkeit) | N/A |
+| 30 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 31 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 32 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 33 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 34 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 35 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 36 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 37 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 38 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 39 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
+| 40 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
+| 41 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 42 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 43 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 44 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 45 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 46 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 47 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 48 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 49 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 50 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
 
 
 

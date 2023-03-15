@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-15 05:16:45 UTC`
+📆 Last Updated: `2023-03-15 06:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BORNPINKINMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKINMANILA_BULACAN) | N/A |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [#BORNPINKINMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKINMANILA_BULACAN) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#LoveOnTourPH](http://twitter.com/search?q=%23LoveOnTourPH) | N/A |
 | 4 | [#HarryStylesinPH](http://twitter.com/search?q=%23HarryStylesinPH) | N/A |
-| 5 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
-| 6 | [MC LEE](http://twitter.com/search?q=MC+LEE) | N/A |
-| 7 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
-| 8 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
-| 9 | [SHARLENExNYLON MARCH COVER](http://twitter.com/search?q=SHARLENExNYLON+MARCH+COVER) | N/A |
-| 10 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 11 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
+| 5 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
+| 6 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 7 | [SHARLENExNYLON MARCH COVER](http://twitter.com/search?q=SHARLENExNYLON+MARCH+COVER) | N/A |
+| 8 | [jeon seol](http://twitter.com/search?q=jeon+seol) | N/A |
+| 9 | [MTLE](http://twitter.com/search?q=MTLE) | N/A |
+| 10 | [MC LEE](http://twitter.com/search?q=MC+LEE) | N/A |
+| 11 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
 | 12 | [BGYO ALBUM SHOWCASE](http://twitter.com/search?q=BGYO+ALBUM+SHOWCASE) | N/A |
-| 13 | [KODREA SA ShowtimeOnlineU](http://twitter.com/search?q=KODREA+SA+ShowtimeOnlineU) | N/A |
-| 14 | [MTLE](http://twitter.com/search?q=MTLE) | N/A |
+| 13 | [John Matthew Salilig](http://twitter.com/search?q=John+Matthew+Salilig) | N/A |
+| 14 | [KDLEX WalangAray SaSHOWTIME](http://twitter.com/search?q=KDLEX+WalangAray+SaSHOWTIME) | N/A |
 | 15 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 16 | [Cha Eunwoo](http://twitter.com/search?q=Cha+Eunwoo) | N/A |
-| 17 | [jay cover](http://twitter.com/search?q=jay+cover) | N/A |
+| 16 | [Cepada](http://twitter.com/search?q=Cepada) | N/A |
+| 17 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
 | 18 | [FELIP SINAGOT ANG PANGUNGULILA](http://twitter.com/search?q=FELIP+SINAGOT+ANG+PANGUNGULILA) | N/A |
-| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 20 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
-| 21 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 22 | [seol](http://twitter.com/search?q=seol) | N/A |
-| 23 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 24 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 25 | [RMT NA AKO](http://twitter.com/search?q=RMT+NA+AKO) | N/A |
-| 26 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
-| 27 | [Paji](http://twitter.com/search?q=Paji) | N/A |
-| 28 | [JK Live](http://twitter.com/search?q=JK+Live) | N/A |
-| 29 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 30 | [Lea Salonga](http://twitter.com/search?q=Lea+Salonga) | N/A |
-| 31 | [Give me your Forever](http://twitter.com/search?q=Give+me+your+Forever) | N/A |
-| 32 | [prince pienabalik](http://twitter.com/search?q=prince+pienabalik) | N/A |
-| 33 | [JAY UR BACK](http://twitter.com/search?q=JAY+UR+BACK) | N/A |
-| 34 | [Regine Velasquez](http://twitter.com/search?q=Regine+Velasquez) | N/A |
-| 35 | [Puregold](http://twitter.com/search?q=Puregold) | N/A |
-| 36 | [vibrent matapang vlog](http://twitter.com/search?q=vibrent+matapang+vlog) | N/A |
-| 37 | [BOOMERANG MV OUTNOW](http://twitter.com/search?q=BOOMERANG+MV+OUTNOW) | N/A |
-| 38 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
-| 39 | [Hema](http://twitter.com/search?q=Hema) | N/A |
-| 40 | [mahal din kita](http://twitter.com/search?q=mahal+din+kita) | N/A |
-| 41 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 42 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 43 | [BGYO OFFICIAL MERCH BOX](http://twitter.com/search?q=BGYO+OFFICIAL+MERCH+BOX) | N/A |
-| 44 | [ISBB](http://twitter.com/search?q=ISBB) | N/A |
-| 45 | [bobby sir concept photo](http://twitter.com/search?q=bobby+sir+concept+photo) | N/A |
-| 46 | [JS1 ME](http://twitter.com/search?q=JS1+ME) | N/A |
-| 47 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 48 | [my exo](http://twitter.com/search?q=my+exo) | N/A |
+| 19 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 20 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
+| 21 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
+| 22 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 23 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 24 | [KODREA SA ShowtimeOnlineU](http://twitter.com/search?q=KODREA+SA+ShowtimeOnlineU) | N/A |
+| 25 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 26 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
+| 27 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 28 | [boomerang mv outnow](http://twitter.com/search?q=boomerang+mv+outnow) | N/A |
+| 29 | [JK Live](http://twitter.com/search?q=JK+Live) | N/A |
+| 30 | [Regine Velasquez](http://twitter.com/search?q=Regine+Velasquez) | N/A |
+| 31 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 32 | [RMT NA AKO](http://twitter.com/search?q=RMT+NA+AKO) | N/A |
+| 33 | [Lea Salonga](http://twitter.com/search?q=Lea+Salonga) | N/A |
+| 34 | [Give Me Your Forever](http://twitter.com/search?q=Give+Me+Your+Forever) | N/A |
+| 35 | [JAY IS BACK](http://twitter.com/search?q=JAY+IS+BACK) | N/A |
+| 36 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 37 | [vibrent matapang vlog](http://twitter.com/search?q=vibrent+matapang+vlog) | N/A |
+| 38 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 39 | [Appointments](http://twitter.com/search?q=Appointments) | N/A |
+| 40 | [prince pienabalik](http://twitter.com/search?q=prince+pienabalik) | N/A |
+| 41 | [mahal din kita](http://twitter.com/search?q=mahal+din+kita) | N/A |
+| 42 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 43 | [JAY UR BACK](http://twitter.com/search?q=JAY+UR+BACK) | N/A |
+| 44 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
+| 45 | [Puregold](http://twitter.com/search?q=Puregold) | N/A |
+| 46 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 47 | [Paji](http://twitter.com/search?q=Paji) | N/A |
+| 48 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
 
 
 

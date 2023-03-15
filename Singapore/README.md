@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-15 05:17:11 UTC`
+📆 Last Updated: `2023-03-15 06:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Singapore
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 3 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
-| 4 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
-| 5 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
-| 6 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
-| 7 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 8 | [#뉴이스트_데뷔11주년_축하해](http://twitter.com/search?q=%23%eb%89%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 9 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 10 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 11 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 12 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
-| 13 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 14 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
-| 15 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 16 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 17 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 18 | [Kamal Adli](http://twitter.com/search?q=Kamal+Adli) | N/A |
-| 19 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 21 | [neyo](http://twitter.com/search?q=neyo) | N/A |
-| 22 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 24 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 25 | [Yayy](http://twitter.com/search?q=Yayy) | N/A |
-| 26 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 27 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 28 | [Weibo](http://twitter.com/search?q=Weibo) | N/A |
-| 29 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 30 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 31 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 32 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
-| 33 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 34 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 35 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 36 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 37 | [$HEX](http://twitter.com/search?q=%24HEX) | N/A |
-| 38 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 40 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 41 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 42 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 43 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 44 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 45 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 46 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 47 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 48 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 49 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 50 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 4 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 5 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 6 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 7 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 8 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 9 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
+| 10 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 13 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 14 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 15 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 16 | [#MilePhakphum](http://twitter.com/search?q=%23MilePhakphum) | N/A |
+| 17 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 19 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 20 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 21 | [Neyo](http://twitter.com/search?q=Neyo) | N/A |
+| 22 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 23 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
+| 24 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 25 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 26 | [Artem](http://twitter.com/search?q=Artem) | N/A |
+| 27 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 28 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 29 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 30 | [kamal adli](http://twitter.com/search?q=kamal+adli) | N/A |
+| 31 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 33 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 34 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 35 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 36 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 37 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 38 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 39 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 40 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 41 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
+| 42 | [SO CUTE](http://twitter.com/search?q=SO+CUTE) | N/A |
+| 43 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 45 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 46 | [European](http://twitter.com/search?q=European) | N/A |
+| 47 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 48 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 49 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 50 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
 
 
 

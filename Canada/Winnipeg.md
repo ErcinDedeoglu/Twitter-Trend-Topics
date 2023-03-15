@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-15 05:16:18 UTC`
+📆 Last Updated: `2023-03-15 06:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 2 | [Louisette Dussault](http://twitter.com/search?q=Louisette+Dussault) | N/A |
-| 3 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 4 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 5 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 6 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 7 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 8 | [Derek Ryan](http://twitter.com/search?q=Derek+Ryan) | N/A |
-| 9 | [Bjugstad](http://twitter.com/search?q=Bjugstad) | N/A |
-| 10 | [#BudFirstGoal](http://twitter.com/search?q=%23BudFirstGoal) | N/A |
-| 11 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 12 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 13 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 14 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 15 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 16 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 17 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 18 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 19 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 20 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 21 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 22 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 23 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 24 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
-| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 26 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 28 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 29 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 30 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 31 | [Otto Lopez](http://twitter.com/search?q=Otto+Lopez) | N/A |
-| 32 | [Pi Day](http://twitter.com/search?q=Pi+Day) | N/A |
-| 33 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 34 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 35 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 36 | [Bond](http://twitter.com/search?q=Bond) | N/A |
-| 37 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 38 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 39 | [Big Pharma](http://twitter.com/search?q=Big+Pharma) | N/A |
-| 40 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 41 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 42 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
-| 43 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 44 | [#SupermanAndLois](http://twitter.com/search?q=%23SupermanAndLois) | N/A |
-| 45 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 46 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
+| 1 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 2 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 3 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 4 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 5 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 7 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 9 | [2M ETH](http://twitter.com/search?q=2M+ETH) | N/A |
+| 10 | [2M in ETH](http://twitter.com/search?q=2M+in+ETH) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Junos](http://twitter.com/search?q=Junos) | N/A |
+| 13 | [Guillaume Brisebois](http://twitter.com/search?q=Guillaume+Brisebois) | N/A |
+| 14 | [Amqui](http://twitter.com/search?q=Amqui) | N/A |
+| 15 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 16 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 17 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 18 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 19 | [Valimaki](http://twitter.com/search?q=Valimaki) | N/A |
+| 20 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 21 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 22 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 23 | [Louisette Dussault](http://twitter.com/search?q=Louisette+Dussault) | N/A |
+| 24 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 25 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 26 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 27 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 28 | [Otto Lopez](http://twitter.com/search?q=Otto+Lopez) | N/A |
+| 29 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 30 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 31 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 32 | [Brock Boeser](http://twitter.com/search?q=Brock+Boeser) | N/A |
+| 33 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 34 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 35 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 36 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 37 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 38 | [Volkswagen](http://twitter.com/search?q=Volkswagen) | N/A |
+| 39 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 40 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 41 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
+| 42 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 43 | [Leon Draisaitl](http://twitter.com/search?q=Leon+Draisaitl) | N/A |
+| 44 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 45 | [skinner mcdavid](http://twitter.com/search?q=skinner+mcdavid) | N/A |
+| 46 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 47 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 48 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 49 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 50 | [derek ryan](http://twitter.com/search?q=derek+ryan) | N/A |
 
 
 

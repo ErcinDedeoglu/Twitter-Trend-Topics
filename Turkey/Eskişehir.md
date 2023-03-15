@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-15 05:16:56 UTC`
+📆 Last Updated: `2023-03-15 06:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,51 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
 | 3 | [#TOGG](http://twitter.com/search?q=%23TOGG) | N/A |
 | 4 | [#41MilyarLira](http://twitter.com/search?q=%2341MilyarLira) | N/A |
-| 5 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
-| 6 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 7 | [AlparslanHocaya TelefonYasağı](http://twitter.com/search?q=AlparslanHocaya+TelefonYasa%c4%9f%c4%b1) | N/A |
-| 8 | [dibyedeklericinakademi](http://twitter.com/search?q=dibyedeklericinakademi) | N/A |
-| 9 | [denkliksorununucozun](http://twitter.com/search?q=denkliksorununucozun) | N/A |
-| 10 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 11 | [emel uslu atik](http://twitter.com/search?q=emel+uslu+atik) | N/A |
-| 12 | [BahçeliSözü MahkumaAF](http://twitter.com/search?q=Bah%c3%a7eliS%c3%b6z%c3%bc+MahkumaAF) | N/A |
-| 13 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 14 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
-| 15 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 16 | [35YaşSınırı TorbaYasaya](http://twitter.com/search?q=35Ya%c5%9fS%c4%b1n%c4%b1r%c4%b1+TorbaYasaya) | N/A |
-| 17 | [mebohalde şartsıztayin](http://twitter.com/search?q=mebohalde+%c5%9farts%c4%b1ztayin) | N/A |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [Konda](http://twitter.com/search?q=Konda) | N/A |
-| 20 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
-| 21 | [beni türk](http://twitter.com/search?q=beni+t%c3%bcrk) | N/A |
+| 5 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 6 | [AlparslanHocaya TelefonYasağı](http://twitter.com/search?q=AlparslanHocaya+TelefonYasa%c4%9f%c4%b1) | N/A |
+| 7 | [dibyedeklericinakademi](http://twitter.com/search?q=dibyedeklericinakademi) | N/A |
+| 8 | [denkliksorununucozun](http://twitter.com/search?q=denkliksorununucozun) | N/A |
+| 9 | [35yaşsınırı torbayasaya](http://twitter.com/search?q=35ya%c5%9fs%c4%b1n%c4%b1r%c4%b1+torbayasaya) | N/A |
+| 10 | [emel uslu atik](http://twitter.com/search?q=emel+uslu+atik) | N/A |
+| 11 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
+| 12 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 13 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 14 | [BahçeliSözü MahkumaAF](http://twitter.com/search?q=Bah%c3%a7eliS%c3%b6z%c3%bc+MahkumaAF) | N/A |
+| 15 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 16 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 17 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
+| 18 | [Konda](http://twitter.com/search?q=Konda) | N/A |
+| 19 | [beni türk](http://twitter.com/search?q=beni+t%c3%bcrk) | N/A |
+| 20 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
+| 21 | [otocost otomotivasistanınız](http://twitter.com/search?q=otocost+otomotivasistan%c4%b1n%c4%b1z) | N/A |
 | 22 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 23 | [birlikte aşıyoruz](http://twitter.com/search?q=birlikte+a%c5%9f%c4%b1yoruz) | N/A |
-| 24 | [asrın dayanışması](http://twitter.com/search?q=asr%c4%b1n+dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 25 | [Kurtlar Vadisi](http://twitter.com/search?q=Kurtlar+Vadisi) | N/A |
-| 26 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 27 | [otocost otomotivasistanınız](http://twitter.com/search?q=otocost+otomotivasistan%c4%b1n%c4%b1z) | N/A |
-| 28 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 29 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 30 | [esnafsuçlu değilborçlu](http://twitter.com/search?q=esnafsu%c3%a7lu+de%c4%9filbor%c3%a7lu) | N/A |
-| 31 | [cumhur ittifaki kazanacak](http://twitter.com/search?q=cumhur+ittifaki+kazanacak) | N/A |
-| 32 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 33 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 34 | [Rus Su-27](http://twitter.com/search?q=Rus+Su-27) | N/A |
-| 35 | [Barış Yıldız](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Y%c4%b1ld%c4%b1z) | N/A |
-| 36 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
-| 37 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 38 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
-| 39 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
-| 40 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
-| 41 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
-| 42 | [Malatya Valiliği](http://twitter.com/search?q=Malatya+Valili%c4%9fi) | N/A |
-| 43 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
-| 44 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 45 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
-| 46 | [HÜDA PAR](http://twitter.com/search?q=H%c3%9cDA+PAR) | N/A |
-| 47 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 48 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 49 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
-| 50 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 23 | [asrın dayanışması](http://twitter.com/search?q=asr%c4%b1n+dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 25 | [yapıkayıt mağdurları](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+ma%c4%9fdurlar%c4%b1) | N/A |
+| 26 | [MebOhalde ŞartsızTayin](http://twitter.com/search?q=MebOhalde+%c5%9earts%c4%b1zTayin) | N/A |
+| 27 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 28 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
+| 29 | [esnafsuçlu değilborçlu](http://twitter.com/search?q=esnafsu%c3%a7lu+de%c4%9filbor%c3%a7lu) | N/A |
+| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 31 | [Rus Su-27](http://twitter.com/search?q=Rus+Su-27) | N/A |
+| 32 | [sosyal bilgiler](http://twitter.com/search?q=sosyal+bilgiler) | N/A |
+| 33 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
+| 34 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
+| 35 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 36 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 37 | [Barış Yıldız](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Y%c4%b1ld%c4%b1z) | N/A |
+| 38 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
+| 39 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
+| 40 | [Bir Talat](http://twitter.com/search?q=Bir+Talat) | N/A |
+| 41 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
+| 42 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
+| 43 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
+| 44 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 45 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
+| 46 | [Yerli](http://twitter.com/search?q=Yerli) | N/A |
+| 47 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 48 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 49 | [AfSizden OyBizden](http://twitter.com/search?q=AfSizden+OyBizden) | N/A |
 
 
 
