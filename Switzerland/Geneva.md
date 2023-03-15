@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-15 20:16:52 UTC`
+📆 Last Updated: `2023-03-15 21:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 3 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 2 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 3 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 4 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
 | 5 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 7 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 8 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 9 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
-| 10 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 11 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 12 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 15 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 16 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 17 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 18 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 19 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 20 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 21 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 22 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 23 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 24 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 25 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
-| 26 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 27 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 28 | [hacktätschli](http://twitter.com/search?q=hackt%c3%a4tschli) | N/A |
-| 29 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 30 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 31 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 32 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 33 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 34 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
-| 35 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 36 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 37 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
-| 38 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 39 | [Kreisen](http://twitter.com/search?q=Kreisen) | N/A |
-| 40 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 41 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 42 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
-| 43 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 44 | [Wert](http://twitter.com/search?q=Wert) | N/A |
-| 45 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 46 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 47 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 48 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 6 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
+| 7 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 8 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 9 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 11 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 12 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 13 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 14 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 15 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 16 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 17 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
+| 18 | [Berne](http://twitter.com/search?q=Berne) | N/A |
+| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [Raum](http://twitter.com/search?q=Raum) | N/A |
+| 24 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 25 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 26 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 27 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 28 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 29 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 30 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 32 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 33 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 35 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 36 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 38 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 39 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 40 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 41 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 42 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 43 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
+| 44 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 45 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 46 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 47 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 48 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
 
 
 

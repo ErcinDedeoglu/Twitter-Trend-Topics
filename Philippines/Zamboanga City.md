@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-15 20:17:01 UTC`
+📆 Last Updated: `2023-03-15 21:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
 | 5 | [#LoveOnTourPH](http://twitter.com/search?q=%23LoveOnTourPH) | N/A |
 | 6 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 7 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 7 | [donny for belo beauty](http://twitter.com/search?q=donny+for+belo+beauty) | N/A |
 | 8 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 9 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
-| 10 | [donny for belo beauty](http://twitter.com/search?q=donny+for+belo+beauty) | N/A |
-| 11 | [JAY CAME HOME](http://twitter.com/search?q=JAY+CAME+HOME) | N/A |
-| 12 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 13 | [gose](http://twitter.com/search?q=gose) | N/A |
-| 14 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
+| 9 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 10 | [JAY CAME HOME](http://twitter.com/search?q=JAY+CAME+HOME) | N/A |
+| 11 | [rmts](http://twitter.com/search?q=rmts) | N/A |
+| 12 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 13 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
+| 14 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
 | 15 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 16 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
-| 17 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
-| 18 | [RIKI](http://twitter.com/search?q=RIKI) | N/A |
-| 19 | [BOOK YOUR TICKETS NOW](http://twitter.com/search?q=BOOK+YOUR+TICKETS+NOW) | N/A |
-| 20 | [EXCITED FOR YOU KINJI](http://twitter.com/search?q=EXCITED+FOR+YOU+KINJI) | N/A |
-| 21 | [SHARLENExNYLON MARCH COVER](http://twitter.com/search?q=SHARLENExNYLON+MARCH+COVER) | N/A |
-| 22 | [UMUWI NA JAYKI](http://twitter.com/search?q=UMUWI+NA+JAYKI) | N/A |
+| 17 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 18 | [BOOK YOUR TICKETS NOW](http://twitter.com/search?q=BOOK+YOUR+TICKETS+NOW) | N/A |
+| 19 | [EXCITED FOR YOU KINJI](http://twitter.com/search?q=EXCITED+FOR+YOU+KINJI) | N/A |
+| 20 | [mtle](http://twitter.com/search?q=mtle) | N/A |
+| 21 | [FELIP ON AQUATIC PLANET](http://twitter.com/search?q=FELIP+ON+AQUATIC+PLANET) | N/A |
+| 22 | [VXON IkawNaNaNa MV OUTNOW](http://twitter.com/search?q=VXON+IkawNaNaNa+MV+OUTNOW) | N/A |
 | 23 | [JAY IS BACK](http://twitter.com/search?q=JAY+IS+BACK) | N/A |
-| 24 | [FELIP ON AQUATIC PLANET](http://twitter.com/search?q=FELIP+ON+AQUATIC+PLANET) | N/A |
-| 25 | [VXON IkawNaNaNa MV OUTNOW](http://twitter.com/search?q=VXON+IkawNaNaNa+MV+OUTNOW) | N/A |
+| 24 | [rmt na ako](http://twitter.com/search?q=rmt+na+ako) | N/A |
+| 25 | [riki](http://twitter.com/search?q=riki) | N/A |
 | 26 | [CHERRY BLOSSOMS MV TEASER](http://twitter.com/search?q=CHERRY+BLOSSOMS+MV+TEASER) | N/A |
-| 27 | [jay finally came home](http://twitter.com/search?q=jay+finally+came+home) | N/A |
-| 28 | [seventeen mafia game](http://twitter.com/search?q=seventeen+mafia+game) | N/A |
-| 29 | [rmt na ako](http://twitter.com/search?q=rmt+na+ako) | N/A |
+| 27 | [seventeen mafia game](http://twitter.com/search?q=seventeen+mafia+game) | N/A |
+| 28 | [SHARLENExNYLON MARCH COVER](http://twitter.com/search?q=SHARLENExNYLON+MARCH+COVER) | N/A |
+| 29 | [jay finally came home](http://twitter.com/search?q=jay+finally+came+home) | N/A |
 | 30 | [GIVE US IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=GIVE+US+IRENE%27S+BIRTHDAY+PARTY) | N/A |
-| 31 | [JAY UR BACK](http://twitter.com/search?q=JAY+UR+BACK) | N/A |
-| 32 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 33 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 34 | [mtle](http://twitter.com/search?q=mtle) | N/A |
-| 35 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
-| 36 | [Appointments](http://twitter.com/search?q=Appointments) | N/A |
-| 37 | [FELIP ON AQUATIC BEATS](http://twitter.com/search?q=FELIP+ON+AQUATIC+BEATS) | N/A |
-| 38 | [MY YUNKI](http://twitter.com/search?q=MY+YUNKI) | N/A |
-| 39 | [BGYO ALBUM SHOWCASE](http://twitter.com/search?q=BGYO+ALBUM+SHOWCASE) | N/A |
-| 40 | [Tanggol](http://twitter.com/search?q=Tanggol) | N/A |
-| 41 | [seol](http://twitter.com/search?q=seol) | N/A |
-| 42 | [vanie](http://twitter.com/search?q=vanie) | N/A |
-| 43 | [umuwi na si jay](http://twitter.com/search?q=umuwi+na+si+jay) | N/A |
-| 44 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 45 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
-| 46 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
-| 47 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 48 | [JAY WEVERSE](http://twitter.com/search?q=JAY+WEVERSE) | N/A |
-| 49 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 31 | [jay ur back](http://twitter.com/search?q=jay+ur+back) | N/A |
+| 32 | [UMUWI NA JAYKI](http://twitter.com/search?q=UMUWI+NA+JAYKI) | N/A |
+| 33 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 34 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 35 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 36 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
+| 37 | [Tanggol](http://twitter.com/search?q=Tanggol) | N/A |
+| 38 | [my yunki](http://twitter.com/search?q=my+yunki) | N/A |
+| 39 | [appointments](http://twitter.com/search?q=appointments) | N/A |
+| 40 | [Vanie](http://twitter.com/search?q=Vanie) | N/A |
+| 41 | [umuwi na si jay](http://twitter.com/search?q=umuwi+na+si+jay) | N/A |
+| 42 | [felip on aquatic beats](http://twitter.com/search?q=felip+on+aquatic+beats) | N/A |
+| 43 | [Chanbaek](http://twitter.com/search?q=Chanbaek) | N/A |
+| 44 | [Jongdae](http://twitter.com/search?q=Jongdae) | N/A |
+| 45 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
+| 46 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 47 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
+| 48 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 49 | [JAY WEVERSE](http://twitter.com/search?q=JAY+WEVERSE) | N/A |
 
 
 

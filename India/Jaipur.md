@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-15 20:17:10 UTC`
+📆 Last Updated: `2023-03-15 21:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 1 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
 | 2 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
-| 3 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 5 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 6 | [#HBDayCRPaatil](http://twitter.com/search?q=%23HBDayCRPaatil) | N/A |
-| 7 | [Kanika Ahuja](http://twitter.com/search?q=Kanika+Ahuja) | N/A |
-| 8 | [#RCBW](http://twitter.com/search?q=%23RCBW) | N/A |
-| 9 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 10 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 11 | [Finally RCB](http://twitter.com/search?q=Finally+RCB) | N/A |
-| 12 | [Sushant Worth Emulating](http://twitter.com/search?q=Sushant+Worth+Emulating) | N/A |
-| 13 | [Richa](http://twitter.com/search?q=Richa) | N/A |
-| 14 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 15 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 16 | [Sam Pitroda](http://twitter.com/search?q=Sam+Pitroda) | N/A |
-| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 18 | [Bihar Police](http://twitter.com/search?q=Bihar+Police) | N/A |
-| 19 | [Smriti Mandhana](http://twitter.com/search?q=Smriti+Mandhana) | N/A |
-| 20 | [Nobel Peace Prize](http://twitter.com/search?q=Nobel+Peace+Prize) | N/A |
-| 21 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
-| 22 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 23 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
-| 24 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 25 | [Raghuram Rajan](http://twitter.com/search?q=Raghuram+Rajan) | N/A |
-| 26 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 27 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 28 | [Prabhas](http://twitter.com/search?q=Prabhas) | N/A |
-| 29 | [Shiv Sena](http://twitter.com/search?q=Shiv+Sena) | N/A |
-| 30 | [#MadanRavichandran](http://twitter.com/search?q=%23MadanRavichandran) | N/A |
-| 31 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
-| 32 | [#ShivSum](http://twitter.com/search?q=%23ShivSum) | N/A |
-| 33 | [#fullcircle](http://twitter.com/search?q=%23fullcircle) | N/A |
-| 34 | [#PlayBold](http://twitter.com/search?q=%23PlayBold) | N/A |
-| 35 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 36 | [#RoyalChallengersBangalore](http://twitter.com/search?q=%23RoyalChallengersBangalore) | N/A |
-| 37 | [#MSDhoni𓃵](http://twitter.com/search?q=%23MSDhoni%f0%93%83%b5) | N/A |
-| 38 | [#FIHProLeague](http://twitter.com/search?q=%23FIHProLeague) | N/A |
-| 39 | [#chatgpt4](http://twitter.com/search?q=%23chatgpt4) | N/A |
-| 40 | [#BankingCrisis](http://twitter.com/search?q=%23BankingCrisis) | N/A |
-| 41 | [#DowJones](http://twitter.com/search?q=%23DowJones) | N/A |
-| 42 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
-| 43 | [#Ayodhya](http://twitter.com/search?q=%23Ayodhya) | N/A |
-| 44 | [#PKSDT](http://twitter.com/search?q=%23PKSDT) | N/A |
-| 45 | [#Islamophobia](http://twitter.com/search?q=%23Islamophobia) | N/A |
-| 46 | [#KanwarDhillon](http://twitter.com/search?q=%23KanwarDhillon) | N/A |
-| 47 | [#CrudeOil](http://twitter.com/search?q=%23CrudeOil) | N/A |
-| 48 | [#EknathShinde](http://twitter.com/search?q=%23EknathShinde) | N/A |
+| 3 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 4 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 5 | [#WorldConsumerRightsDay](http://twitter.com/search?q=%23WorldConsumerRightsDay) | N/A |
+| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 7 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 8 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
+| 9 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 12 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 13 | [SA True Story](http://twitter.com/search?q=SA+True+Story) | N/A |
+| 14 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 15 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 16 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 17 | [nationalexec of minoritydept](http://twitter.com/search?q=nationalexec+of+minoritydept) | N/A |
+| 18 | [BIRTH Campaign](http://twitter.com/search?q=BIRTH+Campaign) | N/A |
+| 19 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 20 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 21 | [Kanika](http://twitter.com/search?q=Kanika) | N/A |
+| 22 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 23 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
+| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 25 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
+| 26 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 27 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
+| 28 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 29 | [False Rape Cases](http://twitter.com/search?q=False+Rape+Cases) | N/A |
+| 30 | [we luv u abhimanyu birla](http://twitter.com/search?q=we+luv+u+abhimanyu+birla) | N/A |
+| 31 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 32 | [dr mahendra singh](http://twitter.com/search?q=dr+mahendra+singh) | N/A |
+| 33 | [classic example](http://twitter.com/search?q=classic+example) | N/A |
+| 34 | [Sushant Worth Emulating](http://twitter.com/search?q=Sushant+Worth+Emulating) | N/A |
+| 35 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 36 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 37 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 38 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 39 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 40 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 42 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
+| 43 | [B. 1750](http://twitter.com/search?q=B.+1750) | N/A |
+| 44 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 45 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 46 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 47 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 49 | [Nobel Peace Prize](http://twitter.com/search?q=Nobel+Peace+Prize) | N/A |
+| 50 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
 
 
 

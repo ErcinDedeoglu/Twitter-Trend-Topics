@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-15 20:16:47 UTC`
+📆 Last Updated: `2023-03-15 21:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 2 | [#CheltenhamFestival](http://twitter.com/search?q=%23CheltenhamFestival) | N/A |
-| 3 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 4 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
-| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 6 | [#StPatricksDay](http://twitter.com/search?q=%23StPatricksDay) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 2 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 3 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 4 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 5 | [#CheltenhamFestival](http://twitter.com/search?q=%23CheltenhamFestival) | N/A |
+| 6 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 7 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 8 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 9 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 10 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
-| 11 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 12 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
-| 13 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 14 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 15 | [Champion Bumper](http://twitter.com/search?q=Champion+Bumper) | N/A |
-| 16 | [John Kiely](http://twitter.com/search?q=John+Kiely) | N/A |
-| 17 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
-| 18 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 19 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
-| 20 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 9 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
+| 10 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 11 | [#StPatricksDay](http://twitter.com/search?q=%23StPatricksDay) | N/A |
+| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 14 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
+| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 18 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 19 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
+| 20 | [John Kiely](http://twitter.com/search?q=John+Kiely) | N/A |
 | 21 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
-| 24 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
-| 25 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 26 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 27 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
-| 28 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
-| 29 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 22 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
+| 23 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
+| 24 | [barry connell](http://twitter.com/search?q=barry+connell) | N/A |
+| 25 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 26 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
+| 27 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 28 | [Eamonn](http://twitter.com/search?q=Eamonn) | N/A |
+| 29 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 30 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
-| 31 | [Eamonn](http://twitter.com/search?q=Eamonn) | N/A |
-| 32 | [Stephen Silver](http://twitter.com/search?q=Stephen+Silver) | N/A |
-| 33 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
-| 34 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
-| 35 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 36 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 37 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 38 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 39 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 40 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
-| 41 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 42 | [Colm](http://twitter.com/search?q=Colm) | N/A |
-| 43 | [Eimear](http://twitter.com/search?q=Eimear) | N/A |
-| 44 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 45 | [Meath](http://twitter.com/search?q=Meath) | N/A |
-| 46 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 47 | [Tuam](http://twitter.com/search?q=Tuam) | N/A |
-| 48 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
-| 49 | [george hook](http://twitter.com/search?q=george+hook) | N/A |
+| 31 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 32 | [burkes](http://twitter.com/search?q=burkes) | N/A |
+| 33 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
+| 34 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 35 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 36 | [Stephen Silver](http://twitter.com/search?q=Stephen+Silver) | N/A |
+| 37 | [Colm](http://twitter.com/search?q=Colm) | N/A |
+| 38 | [Hermes Allen](http://twitter.com/search?q=Hermes+Allen) | N/A |
+| 39 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
+| 40 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 41 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
+| 42 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
+| 43 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 44 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 45 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 46 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
+| 47 | [Eimear](http://twitter.com/search?q=Eimear) | N/A |
+| 48 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 49 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
 
 
 

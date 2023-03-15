@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-15 20:17:09 UTC`
+📆 Last Updated: `2023-03-15 21:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#دہشگردPTIکو_بین_کرو](http://twitter.com/search?q=%23%d8%af%db%81%d8%b4%da%af%d8%b1%d8%afPTI%da%a9%d9%88_%d8%a8%db%8c%d9%86_%da%a9%d8%b1%d9%88) | N/A |
 | 6 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
 | 7 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
-| 8 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
-| 9 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 8 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 9 | [Waziristan](http://twitter.com/search?q=Waziristan) | N/A |
 | 10 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 11 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
-| 12 | [Finals](http://twitter.com/search?q=Finals) | N/A |
-| 13 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 14 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
+| 14 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
 | 15 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 16 | [Rizzy](http://twitter.com/search?q=Rizzy) | N/A |
-| 17 | [Cottrell](http://twitter.com/search?q=Cottrell) | N/A |
-| 18 | [London](http://twitter.com/search?q=London) | N/A |
-| 19 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 20 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
-| 21 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 22 | [Rs 5](http://twitter.com/search?q=Rs+5) | Rs 5 is the abbreviation for Indian Rupee 5, which is equivalent to approximately 0.068 US Dollars. |
-| 23 | [Lahoris](http://twitter.com/search?q=Lahoris) | N/A |
-| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 25 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 26 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 27 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 28 | [Qualifier](http://twitter.com/search?q=Qualifier) | N/A |
-| 29 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 30 | [LEAs](http://twitter.com/search?q=LEAs) | N/A |
-| 31 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 32 | [Sam Billings](http://twitter.com/search?q=Sam+Billings) | N/A |
-| 33 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
-| 34 | [Burger](http://twitter.com/search?q=Burger) | N/A |
-| 35 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
-| 36 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
-| 37 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 38 | [Haya](http://twitter.com/search?q=Haya) | N/A |
-| 39 | [Goosebumps](http://twitter.com/search?q=Goosebumps) | N/A |
-| 40 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 41 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 16 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 17 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
+| 18 | [Rs 5](http://twitter.com/search?q=Rs+5) | Rs 5 is the abbreviation for Indian Rupee 5, which is equivalent to approximately 0.068 US Dollars. |
+| 19 | [Cottrell](http://twitter.com/search?q=Cottrell) | N/A |
+| 20 | [London](http://twitter.com/search?q=London) | N/A |
+| 21 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 22 | [Lahoris](http://twitter.com/search?q=Lahoris) | N/A |
+| 23 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 24 | [Qualifier](http://twitter.com/search?q=Qualifier) | N/A |
+| 25 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 26 | [Brave](http://twitter.com/search?q=Brave) | N/A |
+| 27 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
+| 28 | [Rana Sanaullah](http://twitter.com/search?q=Rana+Sanaullah) | N/A |
+| 29 | [Sam Billings](http://twitter.com/search?q=Sam+Billings) | N/A |
+| 30 | [Burger](http://twitter.com/search?q=Burger) | N/A |
+| 31 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 32 | [Rizzy](http://twitter.com/search?q=Rizzy) | N/A |
+| 33 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 34 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 36 | [Goosebumps](http://twitter.com/search?q=Goosebumps) | N/A |
+| 37 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 38 | [Professional](http://twitter.com/search?q=Professional) | N/A |
+| 39 | [Mere](http://twitter.com/search?q=Mere) | N/A |
+| 40 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 41 | [Prophet](http://twitter.com/search?q=Prophet) | N/A |
 | 42 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 43 | [Abbas](http://twitter.com/search?q=Abbas) | N/A |
-| 44 | [Gaddafi](http://twitter.com/search?q=Gaddafi) | N/A |
-| 45 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 46 | [Khair](http://twitter.com/search?q=Khair) | N/A |
-| 47 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
-| 48 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 49 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 50 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 43 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 44 | [Waly](http://twitter.com/search?q=Waly) | N/A |
+| 45 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 46 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
+| 47 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
+| 48 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 49 | [America](http://twitter.com/search?q=America) | N/A |
+| 50 | [Neutrals](http://twitter.com/search?q=Neutrals) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-03-15 20:17:03 UTC`
+📆 Last Updated: `2023-03-15 21:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Congratulations Rinu](http://twitter.com/search?q=Congratulations+Rinu) | N/A |
-| 2 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 3 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 4 | [#LagosSwindlers](http://twitter.com/search?q=%23LagosSwindlers) | N/A |
-| 5 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 6 | [G-spot](http://twitter.com/search?q=G-spot) | N/A |
-| 7 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 8 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 9 | [#NaSanwoNoCap](http://twitter.com/search?q=%23NaSanwoNoCap) | N/A |
-| 10 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
-| 11 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 12 | [#Reno8T](http://twitter.com/search?q=%23Reno8T) | N/A |
-| 13 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 14 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 15 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 16 | [FUNAAB](http://twitter.com/search?q=FUNAAB) | N/A |
-| 17 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 18 | [Happy Hour](http://twitter.com/search?q=Happy+Hour) | N/A |
-| 19 | [Mary](http://twitter.com/search?q=Mary) | N/A |
-| 20 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
-| 21 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 22 | [The President-elect](http://twitter.com/search?q=The+President-elect) | N/A |
-| 23 | [Adekunle](http://twitter.com/search?q=Adekunle) | N/A |
-| 24 | [Oba Elegushi](http://twitter.com/search?q=Oba+Elegushi) | N/A |
-| 25 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 26 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
-| 27 | [Akwa](http://twitter.com/search?q=Akwa) | N/A |
-| 28 | [Tom Cruise](http://twitter.com/search?q=Tom+Cruise) | N/A |
-| 29 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 30 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 31 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 32 | [Shanty Town](http://twitter.com/search?q=Shanty+Town) | Shanty Town is a term used to describe a slum or an area of poverty-stricken dwellings. It is usually characterized by makeshift housing, overcrowding, and lack of basic amenities such as running water and electricity. The term is derived from the French word "chantier," which means construction site. |
-| 33 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 34 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
-| 35 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 36 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
-| 37 | [Olamide](http://twitter.com/search?q=Olamide) | N/A |
-| 38 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
-| 39 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 40 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 41 | [Mr Macaroni](http://twitter.com/search?q=Mr+Macaroni) | N/A |
-| 42 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
-| 43 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 44 | [#Davido](http://twitter.com/search?q=%23Davido) | N/A |
+| 1 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 2 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 3 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 4 | [Congratulations Rinu](http://twitter.com/search?q=Congratulations+Rinu) | N/A |
+| 5 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 6 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 7 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 8 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 9 | [#LagosSwindlers](http://twitter.com/search?q=%23LagosSwindlers) | N/A |
+| 10 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 11 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 12 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 14 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 15 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 16 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 17 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 18 | [G-spot](http://twitter.com/search?q=G-spot) | N/A |
+| 19 | [#NaSanwoNoCap](http://twitter.com/search?q=%23NaSanwoNoCap) | N/A |
+| 20 | [FUNAAB](http://twitter.com/search?q=FUNAAB) | N/A |
+| 21 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
+| 22 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 23 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 24 | [Gent](http://twitter.com/search?q=Gent) | N/A |
+| 25 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 26 | [#Davido](http://twitter.com/search?q=%23Davido) | N/A |
+| 27 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
+| 28 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 29 | [Happy Hour](http://twitter.com/search?q=Happy+Hour) | N/A |
+| 30 | [The President-elect](http://twitter.com/search?q=The+President-elect) | N/A |
+| 31 | [Tom Cruise](http://twitter.com/search?q=Tom+Cruise) | N/A |
+| 32 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 33 | [Oba Elegushi](http://twitter.com/search?q=Oba+Elegushi) | N/A |
+| 34 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 35 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 36 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 37 | [Adekunle](http://twitter.com/search?q=Adekunle) | N/A |
+| 38 | [Akwa](http://twitter.com/search?q=Akwa) | N/A |
+| 39 | [Shanty](http://twitter.com/search?q=Shanty) | N/A |
+| 40 | [Sheriff](http://twitter.com/search?q=Sheriff) | N/A |
+| 41 | [E DEY COOK E GO RUSH](http://twitter.com/search?q=E+DEY+COOK+E+GO+RUSH) | N/A |
+| 42 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 43 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
+| 44 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 45 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 46 | [#AMItura](http://twitter.com/search?q=%23AMItura) | N/A |
-| 47 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
-| 48 | [#TECNO](http://twitter.com/search?q=%23TECNO) | N/A |
+| 46 | [#AMCovenant](http://twitter.com/search?q=%23AMCovenant) | N/A |
+| 47 | [#Reno8T](http://twitter.com/search?q=%23Reno8T) | N/A |
 
 
 

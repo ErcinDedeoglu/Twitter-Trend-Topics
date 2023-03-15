@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-15 20:16:49 UTC`
+📆 Last Updated: `2023-03-15 21:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 3 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
+| 1 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 2 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
+| 3 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
 | 4 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
 | 5 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 6 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 7 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 8 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 11 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 12 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 13 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
-| 14 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 16 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 6 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 8 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 9 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 11 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 12 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 13 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
+| 14 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 15 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 16 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
 | 17 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 20 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 21 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 22 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 23 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 24 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 25 | [Flips](http://twitter.com/search?q=Flips) | N/A |
-| 26 | [Polo](http://twitter.com/search?q=Polo) | N/A |
-| 27 | [Ausschreitungen](http://twitter.com/search?q=Ausschreitungen) | N/A |
-| 28 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 29 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 30 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 31 | [Zugangscode](http://twitter.com/search?q=Zugangscode) | N/A |
-| 32 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 33 | [Skier](http://twitter.com/search?q=Skier) | N/A |
-| 34 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 35 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 36 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 37 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
-| 38 | [Hooligans](http://twitter.com/search?q=Hooligans) | N/A |
-| 39 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 40 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 41 | [Gewässer](http://twitter.com/search?q=Gew%c3%a4sser) | N/A |
-| 42 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 43 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 44 | [Randale](http://twitter.com/search?q=Randale) | N/A |
-| 45 | [Einrad](http://twitter.com/search?q=Einrad) | N/A |
-| 46 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 47 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
-| 48 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 18 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 19 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 20 | [Mord](http://twitter.com/search?q=Mord) | N/A |
+| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 22 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 23 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
+| 24 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
+| 25 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 26 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 27 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 28 | [Vollidioten](http://twitter.com/search?q=Vollidioten) | N/A |
+| 29 | [Lenz](http://twitter.com/search?q=Lenz) | N/A |
+| 30 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 31 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 32 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 33 | [Polo](http://twitter.com/search?q=Polo) | N/A |
+| 34 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 35 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
+| 36 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
+| 37 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 38 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 39 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 40 | [Verwaltung](http://twitter.com/search?q=Verwaltung) | N/A |
+| 41 | [Rache](http://twitter.com/search?q=Rache) | N/A |
+| 42 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
+| 43 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 44 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 45 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
+| 46 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 47 | [Zugangscode](http://twitter.com/search?q=Zugangscode) | N/A |
+| 48 | [Bist Du](http://twitter.com/search?q=Bist+Du) | N/A |
 
 
 

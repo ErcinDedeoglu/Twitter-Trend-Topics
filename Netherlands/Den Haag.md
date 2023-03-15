@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-15 20:16:51 UTC`
+📆 Last Updated: `2023-03-15 21:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
-| 2 | [#stemmen](http://twitter.com/search?q=%23stemmen) | N/A |
-| 3 | [#NederlandKiest](http://twitter.com/search?q=%23NederlandKiest) | N/A |
-| 4 | [#PS2023](http://twitter.com/search?q=%23PS2023) | N/A |
-| 5 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 6 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
-| 7 | [Noord-Holland](http://twitter.com/search?q=Noord-Holland) | N/A |
-| 8 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 9 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 2 | [#PS2023](http://twitter.com/search?q=%23PS2023) | N/A |
+| 3 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
+| 4 | [#stemmen](http://twitter.com/search?q=%23stemmen) | N/A |
+| 5 | [#NederlandKiest](http://twitter.com/search?q=%23NederlandKiest) | N/A |
+| 6 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 7 | [#bruinelaarzen](http://twitter.com/search?q=%23bruinelaarzen) | N/A |
+| 8 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
+| 9 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
 | 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 11 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
-| 12 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 14 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
-| 15 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
-| 16 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 17 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [Napels](http://twitter.com/search?q=Napels) | N/A |
-| 21 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
-| 22 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
-| 23 | [Freek](http://twitter.com/search?q=Freek) | N/A |
-| 24 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 25 | [Sociaal](http://twitter.com/search?q=Sociaal) | N/A |
-| 26 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 27 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 28 | [Partij](http://twitter.com/search?q=Partij) | N/A |
-| 29 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 30 | [Onteigening](http://twitter.com/search?q=Onteigening) | N/A |
-| 31 | [Wietse](http://twitter.com/search?q=Wietse) | N/A |
-| 32 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
-| 33 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 34 | [jeroen rietbergen](http://twitter.com/search?q=jeroen+rietbergen) | N/A |
-| 35 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 36 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 37 | [Zojuist](http://twitter.com/search?q=Zojuist) | N/A |
-| 38 | [Arbeidsinspectie](http://twitter.com/search?q=Arbeidsinspectie) | N/A |
-| 39 | [Storm](http://twitter.com/search?q=Storm) | N/A |
-| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 41 | [Gift Orban](http://twitter.com/search?q=Gift+Orban) | N/A |
-| 42 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 43 | [Maurice de Hond](http://twitter.com/search?q=Maurice+de+Hond) | N/A |
-| 44 | [Succes](http://twitter.com/search?q=Succes) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [Jazeker](http://twitter.com/search?q=Jazeker) | N/A |
-| 47 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 48 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 49 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
+| 11 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 12 | [Noord Holland](http://twitter.com/search?q=Noord+Holland) | N/A |
+| 13 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 14 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
+| 15 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
+| 16 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 17 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
+| 18 | [Brabant](http://twitter.com/search?q=Brabant) | N/A |
+| 19 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 20 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 22 | [Freek](http://twitter.com/search?q=Freek) | N/A |
+| 23 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 24 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 25 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
+| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 28 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 29 | [Napels](http://twitter.com/search?q=Napels) | N/A |
+| 30 | [Sociaal](http://twitter.com/search?q=Sociaal) | N/A |
+| 31 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 32 | [Engel](http://twitter.com/search?q=Engel) | N/A |
+| 33 | [Rob Trip](http://twitter.com/search?q=Rob+Trip) | N/A |
+| 34 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 35 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 36 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
+| 37 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 38 | [Vanavond](http://twitter.com/search?q=Vanavond) | N/A |
+| 39 | [Wietse](http://twitter.com/search?q=Wietse) | N/A |
+| 40 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 41 | [arbeidsinspectie](http://twitter.com/search?q=arbeidsinspectie) | N/A |
+| 42 | [Onteigening](http://twitter.com/search?q=Onteigening) | N/A |
+| 43 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
+| 44 | [Zojuist](http://twitter.com/search?q=Zojuist) | N/A |
+| 45 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
+| 46 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
+| 47 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
+| 48 | [jeroen rietbergen](http://twitter.com/search?q=jeroen+rietbergen) | N/A |
+| 49 | [Houd](http://twitter.com/search?q=Houd) | N/A |
+| 50 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
 
 
 

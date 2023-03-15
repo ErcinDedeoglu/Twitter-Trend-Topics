@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-15 20:16:54 UTC`
+📆 Last Updated: `2023-03-15 21:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 2 | [2024 Prabowo Menang](http://twitter.com/search?q=2024+Prabowo+Menang) | N/A |
-| 3 | [bikin jadi beneran](http://twitter.com/search?q=bikin+jadi+beneran) | N/A |
-| 4 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 5 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 1 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
+| 2 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 3 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 4 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 5 | [bikin jadi beneran](http://twitter.com/search?q=bikin+jadi+beneran) | N/A |
 | 6 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
 | 7 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
 | 8 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 9 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
-| 10 | [Sireng](http://twitter.com/search?q=Sireng) | N/A |
-| 11 | [Sisca](http://twitter.com/search?q=Sisca) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Glepung](http://twitter.com/search?q=Glepung) | N/A |
+| 9 | [FajRi](http://twitter.com/search?q=FajRi) | FajRi is an Arabic word that means dawn or sunrise. In English, it can be used to refer to the beginning of a new day or a new era. |
+| 10 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 11 | [Sireng](http://twitter.com/search?q=Sireng) | N/A |
+| 12 | [Sisca](http://twitter.com/search?q=Sisca) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 14 | [partai persatuan pembangunan](http://twitter.com/search?q=partai+persatuan+pembangunan) | N/A |
 | 15 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 16 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
-| 17 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
-| 18 | [ngaji budaya](http://twitter.com/search?q=ngaji+budaya) | N/A |
+| 16 | [Glepung](http://twitter.com/search?q=Glepung) | N/A |
+| 17 | [ngaji budaya](http://twitter.com/search?q=ngaji+budaya) | N/A |
+| 18 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
 | 19 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
 | 20 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 21 | [ngaji syariah kaffah](http://twitter.com/search?q=ngaji+syariah+kaffah) | N/A |
+| 21 | [Hambalang](http://twitter.com/search?q=Hambalang) | N/A |
 | 22 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
 | 23 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
 | 24 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
-| 25 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
-| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 27 | [islam rahmat semesta](http://twitter.com/search?q=islam+rahmat+semesta) | N/A |
-| 28 | [Tally](http://twitter.com/search?q=Tally) | N/A |
-| 29 | [Hambalang](http://twitter.com/search?q=Hambalang) | N/A |
-| 30 | [Selamat 9](http://twitter.com/search?q=Selamat+9) | N/A |
-| 31 | [Sugik](http://twitter.com/search?q=Sugik) | N/A |
-| 32 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 33 | [pph 21](http://twitter.com/search?q=pph+21) | N/A |
-| 34 | [Pak Prabowo 2024](http://twitter.com/search?q=Pak+Prabowo+2024) | N/A |
-| 35 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 36 | [ARMY FOREVER BANGTAN FOREVER](http://twitter.com/search?q=ARMY+FOREVER+BANGTAN+FOREVER) | N/A |
-| 37 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 38 | [MC LEE](http://twitter.com/search?q=MC+LEE) | N/A |
-| 39 | [lee haechan](http://twitter.com/search?q=lee+haechan) | N/A |
-| 40 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 41 | [Bahasa](http://twitter.com/search?q=Bahasa) | N/A |
-| 42 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 43 | [HUENING KAI FOR W KOREA](http://twitter.com/search?q=HUENING+KAI+FOR+W+KOREA) | N/A |
-| 44 | [you mean the world to me](http://twitter.com/search?q=you+mean+the+world+to+me) | N/A |
+| 25 | [Sarang](http://twitter.com/search?q=Sarang) | N/A |
+| 26 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
+| 27 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
+| 28 | [5 SD](http://twitter.com/search?q=5+SD) | N/A |
+| 29 | [rm is coming](http://twitter.com/search?q=rm+is+coming) | N/A |
+| 30 | [ngaji syariah kaffah](http://twitter.com/search?q=ngaji+syariah+kaffah) | N/A |
+| 31 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 32 | [Tally](http://twitter.com/search?q=Tally) | N/A |
+| 33 | [pempek](http://twitter.com/search?q=pempek) | N/A |
+| 34 | [2024 Prabowo Menang](http://twitter.com/search?q=2024+Prabowo+Menang) | N/A |
+| 35 | [Pak Prabowo 2024](http://twitter.com/search?q=Pak+Prabowo+2024) | N/A |
+| 36 | [islam rahmat semesta](http://twitter.com/search?q=islam+rahmat+semesta) | N/A |
+| 37 | [lee haechan](http://twitter.com/search?q=lee+haechan) | N/A |
+| 38 | [Sugik](http://twitter.com/search?q=Sugik) | N/A |
+| 39 | [pph 21](http://twitter.com/search?q=pph+21) | N/A |
+| 40 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 41 | [Babymetal](http://twitter.com/search?q=Babymetal) | N/A |
+| 42 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 43 | [Selamat 9](http://twitter.com/search?q=Selamat+9) | N/A |
+| 44 | [huening kai for w korea](http://twitter.com/search?q=huening+kai+for+w+korea) | N/A |
+| 45 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-15 20:16:38 UTC`
+📆 Last Updated: `2023-03-15 21:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 2 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 3 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 4 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 5 | [Buatsi](http://twitter.com/search?q=Buatsi) | N/A |
-| 6 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
-| 7 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 8 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 9 | [#KeepBBCLocalRadioLocal](http://twitter.com/search?q=%23KeepBBCLocalRadioLocal) | N/A |
-| 10 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
-| 11 | [#NeverLabour](http://twitter.com/search?q=%23NeverLabour) | N/A |
-| 12 | [Chips](http://twitter.com/search?q=Chips) | N/A |
-| 13 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
-| 14 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 15 | [Canary Wharf](http://twitter.com/search?q=Canary+Wharf) | N/A |
-| 16 | [Gordon Brown](http://twitter.com/search?q=Gordon+Brown) | N/A |
-| 17 | [Energy Price Guarantee](http://twitter.com/search?q=Energy+Price+Guarantee) | N/A |
-| 18 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
-| 19 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 20 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 21 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
-| 24 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 25 | [Joe Whitworth](http://twitter.com/search?q=Joe+Whitworth) | N/A |
-| 26 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 27 | [Dike](http://twitter.com/search?q=Dike) | N/A |
-| 28 | [Redmen](http://twitter.com/search?q=Redmen) | N/A |
-| 29 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 30 | [Michael Owen](http://twitter.com/search?q=Michael+Owen) | N/A |
-| 31 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 32 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 33 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 34 | [Edouard](http://twitter.com/search?q=Edouard) | N/A |
-| 35 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 36 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
-| 37 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 38 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 39 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 40 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 41 | [Up the Reds](http://twitter.com/search?q=Up+the+Reds) | N/A |
-| 42 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 43 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
-| 44 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 45 | [Welbeck](http://twitter.com/search?q=Welbeck) | Welbeck is a surname of English origin. It is derived from the Old English words "wel" meaning "spring" and "bece" meaning "stream". The name refers to someone who lived near a spring or stream. |
+| 1 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 2 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 3 | [#cpfc](http://twitter.com/search?q=%23cpfc) | N/A |
+| 4 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 5 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 6 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 7 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 8 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 9 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 10 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 11 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 13 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 14 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 15 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 16 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 17 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 18 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 19 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
+| 20 | [#ShopSmartCookSavvy](http://twitter.com/search?q=%23ShopSmartCookSavvy) | N/A |
+| 21 | [#KeepBBCLocalRadioLocal](http://twitter.com/search?q=%23KeepBBCLocalRadioLocal) | N/A |
+| 22 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
+| 23 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 24 | [Great British Nuclear](http://twitter.com/search?q=Great+British+Nuclear) | N/A |
+| 25 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
+| 26 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
+| 27 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
+| 28 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 29 | [Canary Wharf](http://twitter.com/search?q=Canary+Wharf) | N/A |
+| 30 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 31 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 32 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 33 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 34 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 35 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 36 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 37 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 38 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 39 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 40 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 41 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 42 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 43 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 44 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
+| 45 | [Joe Whitworth](http://twitter.com/search?q=Joe+Whitworth) | N/A |
 | 46 | [Idah](http://twitter.com/search?q=Idah) | N/A |
-| 47 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 48 | [Viddal](http://twitter.com/search?q=Viddal) | N/A |
-| 49 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 50 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 47 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 48 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 49 | [Michut](http://twitter.com/search?q=Michut) | N/A |
+| 50 | [Edouard](http://twitter.com/search?q=Edouard) | N/A |
 
 
 

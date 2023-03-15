@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-15 20:16:50 UTC`
+📆 Last Updated: `2023-03-15 21:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,53 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
-| 2 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 3 | [#PiantedosiDimettiti](http://twitter.com/search?q=%23PiantedosiDimettiti) | N/A |
-| 4 | [#Meloni_purtroppoINADEGUATA](http://twitter.com/search?q=%23Meloni_purtroppoINADEGUATA) | N/A |
-| 5 | [Germania](http://twitter.com/search?q=Germania) | N/A |
-| 6 | [#CeferinOut](http://twitter.com/search?q=%23CeferinOut) | N/A |
-| 7 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
-| 8 | [Piazza del Gesù](http://twitter.com/search?q=Piazza+del+Ges%c3%b9) | N/A |
-| 9 | [Napoletani](http://twitter.com/search?q=Napoletani) | N/A |
-| 10 | [Polizia](http://twitter.com/search?q=Polizia) | N/A |
-| 11 | [Prefetto](http://twitter.com/search?q=Prefetto) | N/A |
-| 12 | [Tedeschi](http://twitter.com/search?q=Tedeschi) | N/A |
+| 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
+| 2 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
+| 3 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
+| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 5 | [#MatrimonioAPrimaVista](http://twitter.com/search?q=%23MatrimonioAPrimaVista) | N/A |
+| 6 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 7 | [Germania](http://twitter.com/search?q=Germania) | N/A |
+| 8 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 9 | [Vittorio](http://twitter.com/search?q=Vittorio) | N/A |
+| 10 | [Piazza del Gesù](http://twitter.com/search?q=Piazza+del+Ges%c3%b9) | N/A |
+| 11 | [Polizia](http://twitter.com/search?q=Polizia) | N/A |
+| 12 | [Napoletani](http://twitter.com/search?q=Napoletani) | N/A |
 | 13 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 14 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 15 | [Congratulazioni](http://twitter.com/search?q=Congratulazioni) | N/A |
-| 16 | [Camera](http://twitter.com/search?q=Camera) | N/A |
-| 17 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 18 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
-| 19 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 20 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 21 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 22 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 23 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 24 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 25 | [#ultras](http://twitter.com/search?q=%23ultras) | N/A |
-| 26 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 27 | [#Melonidimettiti](http://twitter.com/search?q=%23Melonidimettiti) | N/A |
-| 28 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
-| 29 | [#UEFA](http://twitter.com/search?q=%23UEFA) | N/A |
-| 30 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
-| 31 | [#RealSociedadRoma](http://twitter.com/search?q=%23RealSociedadRoma) | N/A |
-| 32 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
-| 33 | [#disturbialimentari](http://twitter.com/search?q=%23disturbialimentari) | N/A |
-| 34 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 35 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
-| 36 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
-| 37 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 38 | [#Montaruli](http://twitter.com/search?q=%23Montaruli) | N/A |
+| 14 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 15 | [Tedeschi](http://twitter.com/search?q=Tedeschi) | N/A |
+| 16 | [Prefetto](http://twitter.com/search?q=Prefetto) | N/A |
+| 17 | [Congratulazioni](http://twitter.com/search?q=Congratulazioni) | N/A |
+| 18 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 19 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 20 | [Camera](http://twitter.com/search?q=Camera) | N/A |
+| 21 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 22 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 23 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
+| 24 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 25 | [#PiantedosiDimettiti](http://twitter.com/search?q=%23PiantedosiDimettiti) | N/A |
+| 26 | [#ilRischioDi](http://twitter.com/search?q=%23ilRischioDi) | N/A |
+| 27 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
+| 28 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 29 | [#CeferinOut](http://twitter.com/search?q=%23CeferinOut) | N/A |
+| 30 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 31 | [#Meloni_purtroppoINADEGUATA](http://twitter.com/search?q=%23Meloni_purtroppoINADEGUATA) | N/A |
+| 32 | [#salariominimo](http://twitter.com/search?q=%23salariominimo) | N/A |
+| 33 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 34 | [#ultras](http://twitter.com/search?q=%23ultras) | N/A |
+| 35 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 36 | [#questiontime](http://twitter.com/search?q=%23questiontime) | N/A |
+| 37 | [#citazionisbagliate](http://twitter.com/search?q=%23citazionisbagliate) | N/A |
+| 38 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
+| 39 | [#fiocchettolilla](http://twitter.com/search?q=%23fiocchettolilla) | N/A |
+| 40 | [#Leclerc](http://twitter.com/search?q=%23Leclerc) | N/A |
+| 41 | [#Melonidimettiti](http://twitter.com/search?q=%23Melonidimettiti) | N/A |
+| 42 | [#disturbialimentari](http://twitter.com/search?q=%23disturbialimentari) | N/A |
+| 43 | [#BreakTheWallTour2023](http://twitter.com/search?q=%23BreakTheWallTour2023) | N/A |
+| 44 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 45 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
+| 46 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 47 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
 
 
 

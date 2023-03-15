@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-03-15 20:17:28 UTC`
+📆 Last Updated: `2023-03-15 21:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Thailand
 | 9 | [NOBODY KNOWS](http://twitter.com/search?q=NOBODY+KNOWS) | N/A |
 | 10 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
 | 11 | [Nene Heading To Sky](http://twitter.com/search?q=Nene+Heading+To+Sky) | N/A |
-| 12 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
-| 13 | [patrick paris metro](http://twitter.com/search?q=patrick+paris+metro) | N/A |
-| 14 | [JAM X NESCAFE](http://twitter.com/search?q=JAM+X+NESCAFE) | N/A |
-| 15 | [march15 has charlotte](http://twitter.com/search?q=march15+has+charlotte) | N/A |
-| 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 17 | [bambam gm 15march](http://twitter.com/search?q=bambam+gm+15march) | N/A |
+| 12 | [patrick paris metro](http://twitter.com/search?q=patrick+paris+metro) | N/A |
+| 13 | [JAM X NESCAFE](http://twitter.com/search?q=JAM+X+NESCAFE) | N/A |
+| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 15 | [All About That Day](http://twitter.com/search?q=All+About+That+Day) | N/A |
+| 16 | [mookda love](http://twitter.com/search?q=mookda+love) | N/A |
+| 17 | [march15 has charlotte](http://twitter.com/search?q=march15+has+charlotte) | N/A |
 | 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 19 | [All About That Day](http://twitter.com/search?q=All+About+That+Day) | N/A |
-| 20 | [mookda love](http://twitter.com/search?q=mookda+love) | N/A |
-| 21 | [SOS x NOEY](http://twitter.com/search?q=SOS+x+NOEY) | N/A |
-| 22 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 23 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 24 | [Kazz](http://twitter.com/search?q=Kazz) | N/A |
-| 25 | [#OngleeOscar19thBDay](http://twitter.com/search?q=%23OngleeOscar19thBDay) | N/A |
-| 26 | [#BossCKMwithIG](http://twitter.com/search?q=%23BossCKMwithIG) | N/A |
-| 27 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 28 | [#หน้ากากอนามัย](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%ad%e0%b8%99%e0%b8%b2%e0%b8%a1%e0%b8%b1%e0%b8%a2) | N/A |
-| 29 | [#NuNew](http://twitter.com/search?q=%23NuNew) | N/A |
-| 30 | [#สารวัตรคลั่ง](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%a7%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%a5%e0%b8%b1%e0%b9%88%e0%b8%87) | N/A |
-| 31 | [#มิวเลียนส์5ปีแล้วจ้า](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a5%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%aa%e0%b9%8c5%e0%b8%9b%e0%b8%b5%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%88%e0%b9%89%e0%b8%b2) | N/A |
-| 32 | [#PROXIEOnglee](http://twitter.com/search?q=%23PROXIEOnglee) | N/A |
-| 33 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
-| 34 | [#CutiePieJapanD2](http://twitter.com/search?q=%23CutiePieJapanD2) | N/A |
-| 35 | [#SourandSweetConcept7_8](http://twitter.com/search?q=%23SourandSweetConcept7_8) | N/A |
-| 36 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
-| 37 | [#HAECHANxLOUISVUITTON](http://twitter.com/search?q=%23HAECHANxLOUISVUITTON) | N/A |
-| 38 | [#กราดยิง](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%94%e0%b8%a2%e0%b8%b4%e0%b8%87) | N/A |
-| 39 | [#18ปีไม่มีใครรู้](http://twitter.com/search?q=%2318%e0%b8%9b%e0%b8%b5%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b9%83%e0%b8%84%e0%b8%a3%e0%b8%a3%e0%b8%b9%e0%b9%89) | N/A |
-| 40 | [#เมคเฟรนนักวาด](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a1%e0%b8%84%e0%b9%80%e0%b8%9f%e0%b8%a3%e0%b8%99%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a7%e0%b8%b2%e0%b8%94) | N/A |
-| 41 | [#สะใภ้วาบิ](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%a7%e0%b8%b2%e0%b8%9a%e0%b8%b4) | N/A |
-| 42 | [#Moveไปด้วยกัน](http://twitter.com/search?q=%23Move%e0%b9%84%e0%b8%9b%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
-| 43 | [#Waterbombbangkok2023](http://twitter.com/search?q=%23Waterbombbangkok2023) | N/A |
-| 44 | [#HandsomeNET700K](http://twitter.com/search?q=%23HandsomeNET700K) | N/A |
-| 45 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 46 | [#LuoYizhou23Birthday](http://twitter.com/search?q=%23LuoYizhou23Birthday) | N/A |
-| 47 | [#คิดถึงเจ้าwar](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2war) | N/A |
-| 48 | [#NADECollagenxMeenPing](http://twitter.com/search?q=%23NADECollagenxMeenPing) | N/A |
-| 49 | [#ลงรูปเก่าให้หายคิดถึงนนท์](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%87%e0%b8%a3%e0%b8%b9%e0%b8%9b%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%99%e0%b8%99%e0%b8%97%e0%b9%8c) | N/A |
-| 50 | [#200kalwayslovemeen](http://twitter.com/search?q=%23200kalwayslovemeen) | N/A |
+| 19 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
+| 20 | [Kazz](http://twitter.com/search?q=Kazz) | N/A |
+| 21 | [AOMG](http://twitter.com/search?q=AOMG) | N/A |
+| 22 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 23 | [#หน้ากากอนามัย](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%ad%e0%b8%99%e0%b8%b2%e0%b8%a1%e0%b8%b1%e0%b8%a2) | N/A |
+| 24 | [#NuNew](http://twitter.com/search?q=%23NuNew) | N/A |
+| 25 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 26 | [#OngleeOscar19thBDay](http://twitter.com/search?q=%23OngleeOscar19thBDay) | N/A |
+| 27 | [#สารวัตรคลั่ง](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%a7%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%a5%e0%b8%b1%e0%b9%88%e0%b8%87) | N/A |
+| 28 | [#มิวเลียนส์5ปีแล้วจ้า](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a5%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%aa%e0%b9%8c5%e0%b8%9b%e0%b8%b5%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%88%e0%b9%89%e0%b8%b2) | N/A |
+| 29 | [#BossCKMwithIG](http://twitter.com/search?q=%23BossCKMwithIG) | N/A |
+| 30 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
+| 31 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
+| 32 | [#HAECHANxLOUISVUITTON](http://twitter.com/search?q=%23HAECHANxLOUISVUITTON) | N/A |
+| 33 | [#CutiePieJapanD2](http://twitter.com/search?q=%23CutiePieJapanD2) | N/A |
+| 34 | [#SourandSweetConcept7_8](http://twitter.com/search?q=%23SourandSweetConcept7_8) | N/A |
+| 35 | [#กราดยิง](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%94%e0%b8%a2%e0%b8%b4%e0%b8%87) | N/A |
+| 36 | [#เมคเฟรนนักวาด](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a1%e0%b8%84%e0%b9%80%e0%b8%9f%e0%b8%a3%e0%b8%99%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a7%e0%b8%b2%e0%b8%94) | N/A |
+| 37 | [#Waterbombbangkok2023](http://twitter.com/search?q=%23Waterbombbangkok2023) | N/A |
+| 38 | [#สะใภ้วาบิ](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%a7%e0%b8%b2%e0%b8%9a%e0%b8%b4) | N/A |
+| 39 | [#Moveไปด้วยกัน](http://twitter.com/search?q=%23Move%e0%b9%84%e0%b8%9b%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
+| 40 | [#PROXIEOnglee](http://twitter.com/search?q=%23PROXIEOnglee) | N/A |
+| 41 | [#18ปีไม่มีใครรู้](http://twitter.com/search?q=%2318%e0%b8%9b%e0%b8%b5%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b9%83%e0%b8%84%e0%b8%a3%e0%b8%a3%e0%b8%b9%e0%b9%89) | N/A |
+| 42 | [#คิดถึงเจ้าwar](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2war) | N/A |
+| 43 | [#HandsomeNET700K](http://twitter.com/search?q=%23HandsomeNET700K) | N/A |
+| 44 | [#มุขจีบซีนิว](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b8%e0%b8%82%e0%b8%88%e0%b8%b5%e0%b8%9a%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 45 | [#200kalwayslovemeen](http://twitter.com/search?q=%23200kalwayslovemeen) | N/A |
+| 46 | [#ลงรูปเก่าให้หายคิดถึงนนท์](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%87%e0%b8%a3%e0%b8%b9%e0%b8%9b%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%99%e0%b8%99%e0%b8%97%e0%b9%8c) | N/A |
+| 47 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
+| 48 | [#nadecollagenxmeenping](http://twitter.com/search?q=%23nadecollagenxmeenping) | N/A |
+| 49 | [#MyDearJS300K](http://twitter.com/search?q=%23MyDearJS300K) | N/A |
+| 50 | [#อิงล็อต](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | #อิงล็อต is a hashtag used on social media in Thailand. It translates to "Follow the Lottery" and is used to encourage people to follow the Thai lottery results. |
 
 
 

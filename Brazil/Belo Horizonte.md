@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-15 20:16:44 UTC`
+📆 Last Updated: `2023-03-15 21:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luciano Castan](http://twitter.com/search?q=Luciano+Castan) | N/A |
-| 2 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 3 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
-| 4 | [Norte](http://twitter.com/search?q=Norte) | N/A |
-| 5 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 8 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 9 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
-| 10 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 11 | [Ibaneis Rocha](http://twitter.com/search?q=Ibaneis+Rocha) | N/A |
-| 12 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 14 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 15 | [Acapulco Shore](http://twitter.com/search?q=Acapulco+Shore) | N/A |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [Iguaçu](http://twitter.com/search?q=Igua%c3%a7u) | N/A |
-| 18 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
-| 19 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
+| 1 | [Norte](http://twitter.com/search?q=Norte) | N/A |
+| 2 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 5 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 6 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 8 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 9 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 10 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 11 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 12 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 13 | [#Reelz](http://twitter.com/search?q=%23Reelz) | N/A |
+| 14 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
+| 15 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 16 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 17 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 18 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 19 | [Fred e Marvvila](http://twitter.com/search?q=Fred+e+Marvvila) | N/A |
 | 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 21 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 22 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 23 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
+| 21 | [Ibaneis Rocha](http://twitter.com/search?q=Ibaneis+Rocha) | N/A |
+| 22 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 23 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 24 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
-| 25 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 26 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 27 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 28 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
-| 29 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 30 | [Conca](http://twitter.com/search?q=Conca) | N/A |
-| 31 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 32 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 33 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 34 | [Espanhol](http://twitter.com/search?q=Espanhol) | N/A |
-| 35 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
-| 36 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 37 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 38 | [Cidade de Deus](http://twitter.com/search?q=Cidade+de+Deus) | N/A |
-| 39 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 40 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 41 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
-| 42 | [Elettra](http://twitter.com/search?q=Elettra) | N/A |
-| 43 | [Ministro da Justiça](http://twitter.com/search?q=Ministro+da+Justi%c3%a7a) | N/A |
-| 44 | [#revoganovoensinomedio](http://twitter.com/search?q=%23revoganovoensinomedio) | N/A |
-| 45 | [JOSH BEAUCHAMP](http://twitter.com/search?q=JOSH+BEAUCHAMP) | N/A |
-| 46 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 47 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 48 | [Andres](http://twitter.com/search?q=Andres) | N/A |
-| 49 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 50 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 25 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 26 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 27 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
+| 28 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
+| 29 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 30 | [Iguaçu](http://twitter.com/search?q=Igua%c3%a7u) | N/A |
+| 31 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 32 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 33 | [Chicão](http://twitter.com/search?q=Chic%c3%a3o) | N/A |
+| 34 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 35 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
+| 36 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
+| 37 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
+| 38 | [Espanhol](http://twitter.com/search?q=Espanhol) | N/A |
+| 39 | [Obesidade](http://twitter.com/search?q=Obesidade) | N/A |
+| 40 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 41 | [Ministro da Justiça](http://twitter.com/search?q=Ministro+da+Justi%c3%a7a) | N/A |
+| 42 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
+| 43 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 44 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 45 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 46 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 47 | [Conca](http://twitter.com/search?q=Conca) | N/A |
+| 48 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
+| 49 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 50 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
 
 
 
