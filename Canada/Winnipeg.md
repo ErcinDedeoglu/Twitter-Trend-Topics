@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-15 22:15:54 UTC`
+📆 Last Updated: `2023-03-15 23:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [David Johnston](http://twitter.com/search?q=David+Johnston) | N/A |
-| 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 4 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 1 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 2 | [David Johnston](http://twitter.com/search?q=David+Johnston) | N/A |
+| 3 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 5 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 8 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 9 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
-| 10 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 11 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 12 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 13 | [Paul Arcand](http://twitter.com/search?q=Paul+Arcand) | N/A |
-| 14 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 15 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 16 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [Louisette Dussault](http://twitter.com/search?q=Louisette+Dussault) | N/A |
-| 19 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 20 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 21 | [Patrick Lagacé](http://twitter.com/search?q=Patrick+Lagac%c3%a9) | N/A |
-| 22 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 23 | [Otto Lopez](http://twitter.com/search?q=Otto+Lopez) | N/A |
-| 24 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 25 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 26 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 27 | [Bo Naylor](http://twitter.com/search?q=Bo+Naylor) | N/A |
+| 6 | [Harper](http://twitter.com/search?q=Harper) | N/A |
+| 7 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 8 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [Governor General](http://twitter.com/search?q=Governor+General) | N/A |
+| 11 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 12 | [#IdesOfMarch](http://twitter.com/search?q=%23IdesOfMarch) | N/A |
+| 13 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 14 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 15 | [Paul Arcand](http://twitter.com/search?q=Paul+Arcand) | N/A |
+| 16 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 17 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
+| 18 | [Leonardo Rizzuto](http://twitter.com/search?q=Leonardo+Rizzuto) | N/A |
+| 19 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 21 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 22 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 23 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 24 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 25 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 26 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 27 | [Louisette Dussault](http://twitter.com/search?q=Louisette+Dussault) | N/A |
 | 28 | [skinner mcdavid](http://twitter.com/search?q=skinner+mcdavid) | N/A |
-| 29 | [Amqui](http://twitter.com/search?q=Amqui) | N/A |
-| 30 | [Gardiner](http://twitter.com/search?q=Gardiner) | N/A |
-| 31 | [Jayden Struble](http://twitter.com/search?q=Jayden+Struble) | N/A |
-| 32 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 33 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 34 | [Harper](http://twitter.com/search?q=Harper) | N/A |
-| 35 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 36 | [Carson Briere](http://twitter.com/search?q=Carson+Briere) | N/A |
-| 37 | [Jordan Love](http://twitter.com/search?q=Jordan+Love) | Jordan Love is a phrase used to express admiration or appreciation for someone. It is often used as a term of endearment, and can be used to show support or appreciation for someone's accomplishments. In English, it could be translated as "I love you, Jordan" or "I'm proud of you, Jordan". |
-| 38 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 39 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 40 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 41 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
-| 42 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 43 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 44 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 45 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 46 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 47 | [Volkswagen](http://twitter.com/search?q=Volkswagen) | N/A |
-| 48 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 29 | [Lagacé](http://twitter.com/search?q=Lagac%c3%a9) | N/A |
+| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 31 | [Carson Briere](http://twitter.com/search?q=Carson+Briere) | N/A |
+| 32 | [Otto Lopez](http://twitter.com/search?q=Otto+Lopez) | N/A |
+| 33 | [Jayden Struble](http://twitter.com/search?q=Jayden+Struble) | N/A |
+| 34 | [Gardiner](http://twitter.com/search?q=Gardiner) | N/A |
+| 35 | [Amqui](http://twitter.com/search?q=Amqui) | N/A |
+| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 37 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 38 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 39 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 40 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
+| 41 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 42 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 43 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 44 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
+| 45 | [Mint Mobile](http://twitter.com/search?q=Mint+Mobile) | N/A |
+| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 47 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 48 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 49 | [Volkswagen](http://twitter.com/search?q=Volkswagen) | N/A |
+| 50 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 
 
 

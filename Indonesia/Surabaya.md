@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-15 22:16:15 UTC`
+📆 Last Updated: `2023-03-15 23:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
 | 2 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
-| 3 | [#bcaexpoversary](http://twitter.com/search?q=%23bcaexpoversary) | N/A |
-| 4 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 3 | [#BCAExpoversary](http://twitter.com/search?q=%23BCAExpoversary) | N/A |
+| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 5 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
-| 6 | [#HAECHANxLOUISVUITTON](http://twitter.com/search?q=%23HAECHANxLOUISVUITTON) | N/A |
-| 7 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 8 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 9 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 10 | [bikin jadi beneran](http://twitter.com/search?q=bikin+jadi+beneran) | N/A |
-| 11 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
-| 12 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
-| 13 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 14 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 15 | [FajRi](http://twitter.com/search?q=FajRi) | FajRi is an Arabic word that means dawn or sunrise. In English, it can be used to refer to the beginning of a new day or a new era. |
-| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 17 | [Sisca](http://twitter.com/search?q=Sisca) | N/A |
-| 18 | [Sireng](http://twitter.com/search?q=Sireng) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [partai persatuan pembangunan](http://twitter.com/search?q=partai+persatuan+pembangunan) | N/A |
-| 21 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 22 | [Glepung](http://twitter.com/search?q=Glepung) | N/A |
-| 23 | [ngaji budaya](http://twitter.com/search?q=ngaji+budaya) | N/A |
-| 24 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
-| 25 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 26 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 27 | [Hambalang](http://twitter.com/search?q=Hambalang) | N/A |
-| 28 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 29 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
-| 30 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
-| 31 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
-| 32 | [5 SD](http://twitter.com/search?q=5+SD) | N/A |
-| 33 | [rm is coming](http://twitter.com/search?q=rm+is+coming) | N/A |
-| 34 | [ngaji syariah kaffah](http://twitter.com/search?q=ngaji+syariah+kaffah) | N/A |
-| 35 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 36 | [Tally](http://twitter.com/search?q=Tally) | N/A |
-| 37 | [Sarang](http://twitter.com/search?q=Sarang) | N/A |
-| 38 | [pempek](http://twitter.com/search?q=pempek) | N/A |
-| 39 | [2024 Prabowo Menang](http://twitter.com/search?q=2024+Prabowo+Menang) | N/A |
-| 40 | [pak prabowo 2024](http://twitter.com/search?q=pak+prabowo+2024) | N/A |
-| 41 | [islam rahmat semesta](http://twitter.com/search?q=islam+rahmat+semesta) | N/A |
-| 42 | [lee haechan](http://twitter.com/search?q=lee+haechan) | N/A |
-| 43 | [Sugik](http://twitter.com/search?q=Sugik) | N/A |
-| 44 | [pph 21](http://twitter.com/search?q=pph+21) | N/A |
-| 45 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 46 | [BABYMETAL](http://twitter.com/search?q=BABYMETAL) | N/A |
-| 47 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 48 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 49 | [selamat 9](http://twitter.com/search?q=selamat+9) | N/A |
-| 50 | [huening kai for w korea](http://twitter.com/search?q=huening+kai+for+w+korea) | N/A |
+| 6 | [Berkah Dengan Syariah Kaffah](http://twitter.com/search?q=Berkah+Dengan+Syariah+Kaffah) | N/A |
+| 7 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 8 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 9 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 10 | [#aturananticintajkt48](http://twitter.com/search?q=%23aturananticintajkt48) | N/A |
+| 11 | [#HAECHANxLOUISVUITTON](http://twitter.com/search?q=%23HAECHANxLOUISVUITTON) | N/A |
+| 12 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 13 | [bikin jadi beneran](http://twitter.com/search?q=bikin+jadi+beneran) | N/A |
+| 14 | [2024 Prabowo Menang](http://twitter.com/search?q=2024+Prabowo+Menang) | N/A |
+| 15 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
+| 16 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 17 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 18 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 19 | [fajri](http://twitter.com/search?q=fajri) | N/A |
+| 20 | [Sireng](http://twitter.com/search?q=Sireng) | N/A |
+| 21 | [Sisca](http://twitter.com/search?q=Sisca) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 26 | [partai persatuan pembangunan](http://twitter.com/search?q=partai+persatuan+pembangunan) | N/A |
+| 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 28 | [Glepung](http://twitter.com/search?q=Glepung) | N/A |
+| 29 | [ngaji budaya](http://twitter.com/search?q=ngaji+budaya) | N/A |
+| 30 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
+| 31 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 32 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 33 | [Chika](http://twitter.com/search?q=Chika) | N/A |
+| 34 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 35 | [Hambalang](http://twitter.com/search?q=Hambalang) | N/A |
+| 36 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
+| 39 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
+| 40 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 41 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
+| 42 | [ngaji syariah kaffah](http://twitter.com/search?q=ngaji+syariah+kaffah) | N/A |
+| 43 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 44 | [Tally](http://twitter.com/search?q=Tally) | N/A |
+| 45 | [pempek](http://twitter.com/search?q=pempek) | N/A |
+| 46 | [islam rahmat semesta](http://twitter.com/search?q=islam+rahmat+semesta) | N/A |
+| 47 | [Sarang](http://twitter.com/search?q=Sarang) | N/A |
+| 48 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
+| 49 | [5 SD](http://twitter.com/search?q=5+SD) | N/A |
+| 50 | [pph 21](http://twitter.com/search?q=pph+21) | N/A |
 
 
 

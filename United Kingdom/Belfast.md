@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-15 22:15:58 UTC`
+📆 Last Updated: `2023-03-15 23:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
 | 2 | [#ThePiano](http://twitter.com/search?q=%23ThePiano) | N/A |
-| 3 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 4 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 5 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 3 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 4 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 5 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 6 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 7 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 8 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 9 | [YNWA](http://twitter.com/search?q=YNWA) | N/A |
-| 10 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 11 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 12 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
-| 13 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 14 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 15 | [#cpfc](http://twitter.com/search?q=%23cpfc) | N/A |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 18 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 20 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
-| 21 | [Chamberlain](http://twitter.com/search?q=Chamberlain) | Chamberlain is an old English word meaning "steward" or "manager". It was originally used to refer to a person who managed the household of a noble or royal family. Today, it is often used to refer to a person who is in charge of managing the affairs of a government or organization. |
-| 22 | [#craghoppers](http://twitter.com/search?q=%23craghoppers) | N/A |
-| 23 | [McManaman](http://twitter.com/search?q=McManaman) | N/A |
-| 24 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 25 | [Oxlade](http://twitter.com/search?q=Oxlade) | Oxlade is a Nigerian singer, songwriter, and record producer. His real name is Ikuforiji Abdulrahman Olaitan. He is best known for his hit single "Away" which was released in 2018. The name Oxlade is derived from the Yoruba language and means "one who has wealth". |
-| 26 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 27 | [Don Goodman](http://twitter.com/search?q=Don+Goodman) | N/A |
-| 28 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 29 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 30 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 31 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 32 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 33 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 34 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 35 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
-| 36 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
-| 37 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 38 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 39 | [Tella](http://twitter.com/search?q=Tella) | Tella is a slang term used to describe someone who is very talkative or chatty. It is derived from the Spanish word “tella” which means “to talk”. |
-| 40 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 41 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 42 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 43 | [Idah](http://twitter.com/search?q=Idah) | N/A |
-| 44 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
-| 45 | [Joe Whitworth](http://twitter.com/search?q=Joe+Whitworth) | N/A |
-| 46 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 47 | [Brighton and Brentford](http://twitter.com/search?q=Brighton+and+Brentford) | N/A |
-| 48 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 49 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 50 | [Michut](http://twitter.com/search?q=Michut) | N/A |
+| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 8 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 9 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 10 | [YNWA](http://twitter.com/search?q=YNWA) | N/A |
+| 11 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 12 | [#saintsfc](http://twitter.com/search?q=%23saintsfc) | N/A |
+| 13 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
+| 14 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 15 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 16 | [Michael Owen](http://twitter.com/search?q=Michael+Owen) | N/A |
+| 17 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 18 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 20 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 22 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 24 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 25 | [Don Goodman](http://twitter.com/search?q=Don+Goodman) | N/A |
+| 26 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 27 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 28 | [Nathan Tella](http://twitter.com/search?q=Nathan+Tella) | N/A |
+| 29 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 30 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 31 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 32 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 33 | [Chamberlain](http://twitter.com/search?q=Chamberlain) | Chamberlain is an old English word meaning "steward" or "manager". It was originally used to refer to a person who managed the household of a noble or royal family. Today, it is often used to refer to a person who is in charge of managing the affairs of a government or organization. |
+| 34 | [McManaman](http://twitter.com/search?q=McManaman) | N/A |
+| 35 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 36 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 37 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 38 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 39 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 40 | [Rio Ferdinand](http://twitter.com/search?q=Rio+Ferdinand) | N/A |
+| 41 | [Oxlade](http://twitter.com/search?q=Oxlade) | Oxlade is a Nigerian singer, songwriter, and record producer. His real name is Ikuforiji Abdulrahman Olaitan. He is best known for his hit single "Away" which was released in 2018. The name Oxlade is derived from the Yoruba language and means "one who has wealth". |
+| 42 | [Michut](http://twitter.com/search?q=Michut) | N/A |
+| 43 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 44 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 45 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 46 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 47 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 48 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 49 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 50 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
 
 
 

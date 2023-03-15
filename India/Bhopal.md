@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-03-15 22:16:32 UTC`
+📆 Last Updated: `2023-03-15 23:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,48 @@ This is top 50 for [India](</India>)
 | 2 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
 | 3 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
 | 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 5 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
-| 6 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 5 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 6 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
 | 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 9 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 10 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 11 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 12 | [SA True Story](http://twitter.com/search?q=SA+True+Story) | N/A |
+| 8 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 9 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 10 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 11 | [sa true story](http://twitter.com/search?q=sa+true+story) | N/A |
+| 12 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 13 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 14 | [nationalexec of minoritydept](http://twitter.com/search?q=nationalexec+of+minoritydept) | N/A |
-| 15 | [BIRTH Campaign](http://twitter.com/search?q=BIRTH+Campaign) | N/A |
-| 16 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 17 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 18 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 19 | [kanwar turns thirty](http://twitter.com/search?q=kanwar+turns+thirty) | N/A |
-| 20 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 21 | [Kanika Ahuja](http://twitter.com/search?q=Kanika+Ahuja) | N/A |
-| 22 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 24 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
-| 25 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
-| 26 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 27 | [false rape cases](http://twitter.com/search?q=false+rape+cases) | N/A |
-| 28 | [we luv u abhimanyu birla](http://twitter.com/search?q=we+luv+u+abhimanyu+birla) | N/A |
-| 29 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 14 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 15 | [nationalexec of minoritydept](http://twitter.com/search?q=nationalexec+of+minoritydept) | N/A |
+| 16 | [birth campaign](http://twitter.com/search?q=birth+campaign) | N/A |
+| 17 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 18 | [kanwar turns thirty](http://twitter.com/search?q=kanwar+turns+thirty) | N/A |
+| 19 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 20 | [grace harris](http://twitter.com/search?q=grace+harris) | N/A |
+| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 22 | [Loopholes InSSR Staff Story](http://twitter.com/search?q=Loopholes+InSSR+Staff+Story) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 25 | [false rape cases](http://twitter.com/search?q=false+rape+cases) | N/A |
+| 26 | [we luv u abhimanyu birla](http://twitter.com/search?q=we+luv+u+abhimanyu+birla) | N/A |
+| 27 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 28 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 29 | [Kanika Ahuja](http://twitter.com/search?q=Kanika+Ahuja) | N/A |
 | 30 | [dr mahendra singh](http://twitter.com/search?q=dr+mahendra+singh) | N/A |
 | 31 | [classic example](http://twitter.com/search?q=classic+example) | N/A |
 | 32 | [Sushant Worth Emulating](http://twitter.com/search?q=Sushant+Worth+Emulating) | N/A |
-| 33 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 34 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 35 | [Nukkad](http://twitter.com/search?q=Nukkad) | N/A |
-| 36 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 37 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 38 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 33 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 34 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 35 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 37 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 38 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 39 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
 | 40 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
 | 41 | [B. 1750](http://twitter.com/search?q=B.+1750) | N/A |
 | 42 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
 | 43 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
 | 44 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 45 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 46 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
 | 47 | [Nobel Peace Prize](http://twitter.com/search?q=Nobel+Peace+Prize) | N/A |
 | 48 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-15 22:16:21 UTC`
+📆 Last Updated: `2023-03-15 23:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 2 | [#BORNPINKINMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKINMANILA_BULACAN) | N/A |
+| 1 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 2 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
-| 5 | [#LoveOnTourPH](http://twitter.com/search?q=%23LoveOnTourPH) | N/A |
-| 6 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 7 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
-| 8 | [donny for belo beauty](http://twitter.com/search?q=donny+for+belo+beauty) | N/A |
-| 9 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 10 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
-| 11 | [jay came home](http://twitter.com/search?q=jay+came+home) | N/A |
-| 12 | [rmts](http://twitter.com/search?q=rmts) | N/A |
-| 13 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
-| 14 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 15 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 16 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
-| 17 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
-| 18 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 19 | [BOOK YOUR TICKETS NOW](http://twitter.com/search?q=BOOK+YOUR+TICKETS+NOW) | N/A |
-| 20 | [excited for you kinji](http://twitter.com/search?q=excited+for+you+kinji) | N/A |
-| 21 | [mtle](http://twitter.com/search?q=mtle) | N/A |
-| 22 | [FELIP ON AQUATIC PLANET](http://twitter.com/search?q=FELIP+ON+AQUATIC+PLANET) | N/A |
-| 23 | [RIKI](http://twitter.com/search?q=RIKI) | N/A |
-| 24 | [VXON IkawNaNaNa MV OUTNOW](http://twitter.com/search?q=VXON+IkawNaNaNa+MV+OUTNOW) | N/A |
-| 25 | [rmt na ako](http://twitter.com/search?q=rmt+na+ako) | N/A |
-| 26 | [CHERRY BLOSSOMS MV TEASER](http://twitter.com/search?q=CHERRY+BLOSSOMS+MV+TEASER) | N/A |
-| 27 | [JAY IS BACK](http://twitter.com/search?q=JAY+IS+BACK) | N/A |
-| 28 | [seventeen mafia game](http://twitter.com/search?q=seventeen+mafia+game) | N/A |
-| 29 | [SHARLENExNYLON MARCH COVER](http://twitter.com/search?q=SHARLENExNYLON+MARCH+COVER) | N/A |
-| 30 | [jay finally came home](http://twitter.com/search?q=jay+finally+came+home) | N/A |
-| 31 | [GIVE US IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=GIVE+US+IRENE%27S+BIRTHDAY+PARTY) | N/A |
-| 32 | [UMUWI NA JAYKI](http://twitter.com/search?q=UMUWI+NA+JAYKI) | N/A |
-| 33 | [jay ur back](http://twitter.com/search?q=jay+ur+back) | N/A |
-| 34 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 35 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 4 | [#BORNPINKINMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKINMANILA_BULACAN) | N/A |
+| 5 | [bogum](http://twitter.com/search?q=bogum) | N/A |
+| 6 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
+| 7 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 8 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
+| 9 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 10 | [#LoveOnTourPH](http://twitter.com/search?q=%23LoveOnTourPH) | N/A |
+| 11 | [donny for belo beauty](http://twitter.com/search?q=donny+for+belo+beauty) | N/A |
+| 12 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 13 | [jay came home](http://twitter.com/search?q=jay+came+home) | N/A |
+| 14 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
+| 15 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
+| 16 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 17 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
+| 18 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
+| 19 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 20 | [book your tickets now](http://twitter.com/search?q=book+your+tickets+now) | N/A |
+| 21 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 23 | [excited for you kinji](http://twitter.com/search?q=excited+for+you+kinji) | N/A |
+| 24 | [FELIP ON AQUATIC PLANET](http://twitter.com/search?q=FELIP+ON+AQUATIC+PLANET) | N/A |
+| 25 | [riki](http://twitter.com/search?q=riki) | N/A |
+| 26 | [VXON IkawNaNaNa MV OUTNOW](http://twitter.com/search?q=VXON+IkawNaNaNa+MV+OUTNOW) | N/A |
+| 27 | [rmt na ako](http://twitter.com/search?q=rmt+na+ako) | N/A |
+| 28 | [CHERRY BLOSSOMS MV TEASER](http://twitter.com/search?q=CHERRY+BLOSSOMS+MV+TEASER) | N/A |
+| 29 | [JAY IS BACK](http://twitter.com/search?q=JAY+IS+BACK) | N/A |
+| 30 | [seventeen mafia game](http://twitter.com/search?q=seventeen+mafia+game) | N/A |
+| 31 | [DROWNING IN BOBBY](http://twitter.com/search?q=DROWNING+IN+BOBBY) | N/A |
+| 32 | [jay finally came home](http://twitter.com/search?q=jay+finally+came+home) | N/A |
+| 33 | [GIVE US IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=GIVE+US+IRENE%27S+BIRTHDAY+PARTY) | N/A |
+| 34 | [UMUWI NA JAYKI](http://twitter.com/search?q=UMUWI+NA+JAYKI) | N/A |
+| 35 | [jay ur back](http://twitter.com/search?q=jay+ur+back) | N/A |
 | 36 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 | 37 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 38 | [Tanggol](http://twitter.com/search?q=Tanggol) | N/A |
-| 39 | [my yunki](http://twitter.com/search?q=my+yunki) | N/A |
-| 40 | [appointments](http://twitter.com/search?q=appointments) | N/A |
-| 41 | [Vanie](http://twitter.com/search?q=Vanie) | N/A |
-| 42 | [umuwi na si jay](http://twitter.com/search?q=umuwi+na+si+jay) | N/A |
-| 43 | [felip on aquatic beats](http://twitter.com/search?q=felip+on+aquatic+beats) | N/A |
-| 44 | [Chanbaek](http://twitter.com/search?q=Chanbaek) | N/A |
-| 45 | [Jongdae](http://twitter.com/search?q=Jongdae) | N/A |
-| 46 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
-| 47 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 48 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
-| 49 | [JAY WEVERSE](http://twitter.com/search?q=JAY+WEVERSE) | N/A |
-| 50 | [BGYO ALBUM SHOWCASE](http://twitter.com/search?q=BGYO+ALBUM+SHOWCASE) | N/A |
+| 38 | [Mtle](http://twitter.com/search?q=Mtle) | N/A |
+| 39 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 40 | [my yunki](http://twitter.com/search?q=my+yunki) | N/A |
+| 41 | [SHARLENExNYLON MARCH COVER](http://twitter.com/search?q=SHARLENExNYLON+MARCH+COVER) | N/A |
+| 42 | [appointments](http://twitter.com/search?q=appointments) | N/A |
+| 43 | [Vanie](http://twitter.com/search?q=Vanie) | N/A |
+| 44 | [Tanggol](http://twitter.com/search?q=Tanggol) | N/A |
+| 45 | [umuwi na si jay](http://twitter.com/search?q=umuwi+na+si+jay) | N/A |
+| 46 | [felip on aquatic beats](http://twitter.com/search?q=felip+on+aquatic+beats) | N/A |
+| 47 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 48 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
+| 49 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 50 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-15 22:16:52 UTC`
+📆 Last Updated: `2023-03-15 23:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for Vietnam
 | 23 | [vinh](http://twitter.com/search?q=vinh) | N/A |
 | 24 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 25 | [KOLs](http://twitter.com/search?q=KOLs) | N/A |
-| 26 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 26 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
 | 27 | [dApps](http://twitter.com/search?q=dApps) | N/A |
 | 28 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
 | 29 | [vietravel - vietravel](http://twitter.com/search?q=vietravel+-+vietravel) | N/A |
-| 30 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 31 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 32 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 33 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
-| 34 | [chơi](http://twitter.com/search?q=ch%c6%a1i) | N/A |
-| 35 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
-| 36 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 37 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 38 | [nhân](http://twitter.com/search?q=nh%c3%a2n) | N/A |
-| 39 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 41 | [Proof](http://twitter.com/search?q=Proof) | N/A |
-| 42 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 43 | [face prerelease mv teaser](http://twitter.com/search?q=face+prerelease+mv+teaser) | N/A |
-| 44 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
-| 45 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 46 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
-| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 48 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
-| 49 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
-| 50 | [vâng](http://twitter.com/search?q=v%c3%a2ng) | N/A |
+| 30 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 31 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 32 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 33 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 34 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
+| 35 | [chơi](http://twitter.com/search?q=ch%c6%a1i) | N/A |
+| 36 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
+| 37 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 38 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 39 | [nhân](http://twitter.com/search?q=nh%c3%a2n) | N/A |
+| 40 | [xinh](http://twitter.com/search?q=xinh) | N/A |
+| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 42 | [Proof](http://twitter.com/search?q=Proof) | N/A |
+| 43 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 44 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
+| 45 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
+| 46 | [hóng](http://twitter.com/search?q=h%c3%b3ng) | N/A |
+| 47 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
+| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 49 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
+| 50 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
 
 
 
