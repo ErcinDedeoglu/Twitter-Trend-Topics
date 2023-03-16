@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-16 08:17:57 UTC`
+📆 Last Updated: `2023-03-16 09:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 2 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 3 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 4 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 5 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 6 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 7 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 8 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 9 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 10 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 11 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 12 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 13 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 14 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 15 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
-| 16 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 17 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 3 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 4 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 5 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 6 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 7 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 8 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 9 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 10 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 11 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 12 | [#ShadowAndBone2](http://twitter.com/search?q=%23ShadowAndBone2) | N/A |
+| 13 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 14 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
+| 15 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 16 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 17 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
 | 18 | [Lala](http://twitter.com/search?q=Lala) | N/A |
 | 19 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 20 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 21 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 22 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 23 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 24 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 25 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 26 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 27 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 28 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 20 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 21 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 22 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 23 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 24 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 25 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 26 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 27 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 28 | [Morris](http://twitter.com/search?q=Morris) | N/A |
 | 29 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 30 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 31 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 30 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 31 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
 | 32 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 33 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 34 | [De'Aaron Fox](http://twitter.com/search?q=De%27Aaron+Fox) | De'Aaron Fox is an American professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is a combination of his parents' names, Deanna and Aaron. The name means "strong and wise" in English. |
-| 35 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 36 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 37 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 38 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
-| 39 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 40 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 41 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 33 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 34 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 35 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 36 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 37 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 38 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 39 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 40 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 41 | [Mamamoo](http://twitter.com/search?q=Mamamoo) | N/A |
 | 42 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 43 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 44 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 45 | [Mamamoo](http://twitter.com/search?q=Mamamoo) | N/A |
-| 46 | [Charli](http://twitter.com/search?q=Charli) | N/A |
-| 47 | [Oathbreaker](http://twitter.com/search?q=Oathbreaker) | N/A |
-| 48 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 43 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 44 | [Charli](http://twitter.com/search?q=Charli) | N/A |
+| 45 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 46 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 47 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 48 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
 | 49 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 50 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 50 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
 
 
 

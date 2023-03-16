@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-16 08:17:52 UTC`
+📆 Last Updated: `2023-03-16 09:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 2 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 3 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
-| 4 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 5 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 6 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 7 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 8 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 9 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 11 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 12 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 13 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 14 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 15 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 16 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 17 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 18 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 19 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 20 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
-| 21 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 22 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 23 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 24 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 25 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 26 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 2 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 3 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 4 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
+| 5 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 6 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 7 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 8 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 9 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 10 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 11 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 12 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 13 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 14 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 15 | [#ShadowAndBone2](http://twitter.com/search?q=%23ShadowAndBone2) | N/A |
+| 16 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
+| 17 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 18 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 19 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 20 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 21 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 22 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 23 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 24 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 25 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 26 | [Araki](http://twitter.com/search?q=Araki) | N/A |
 | 27 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 28 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 29 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 30 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 31 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 32 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 33 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 34 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 35 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 36 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 37 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 38 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 39 | [De'Aaron Fox](http://twitter.com/search?q=De%27Aaron+Fox) | De'Aaron Fox is an American professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is a combination of his parents' names, Deanna and Aaron. The name means "strong and wise" in English. |
-| 40 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 41 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 42 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 43 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
-| 44 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 45 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 28 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 29 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 30 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 31 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 32 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 33 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 34 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 35 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 36 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 37 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 38 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 39 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 40 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 41 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 42 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 43 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 44 | [Mamamoo](http://twitter.com/search?q=Mamamoo) | N/A |
+| 45 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
 | 46 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 47 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 48 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 49 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 50 | [Mamamoo](http://twitter.com/search?q=Mamamoo) | N/A |
+| 47 | [Charli](http://twitter.com/search?q=Charli) | N/A |
+| 48 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 49 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 50 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
 
 
 

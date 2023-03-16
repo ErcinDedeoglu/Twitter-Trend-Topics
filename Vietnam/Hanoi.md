@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-16 08:17:39 UTC`
+📆 Last Updated: `2023-03-16 09:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,34 +37,34 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 20 | [Goerli](http://twitter.com/search?q=Goerli) | N/A |
 | 21 | [TUSD](http://twitter.com/search?q=TUSD) | N/A |
 | 22 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
-| 23 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 24 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 25 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
+| 23 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 24 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 25 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
 | 26 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
 | 27 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 28 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 29 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
-| 30 | [Việt](http://twitter.com/search?q=Vi%e1%bb%87t) | N/A |
-| 31 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
-| 32 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 33 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 34 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 35 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 36 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
-| 37 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
-| 38 | [hiện](http://twitter.com/search?q=hi%e1%bb%87n) | N/A |
-| 39 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
-| 40 | [kols](http://twitter.com/search?q=kols) | N/A |
-| 41 | [Châu Âu](http://twitter.com/search?q=Ch%c3%a2u+%c3%82u) | N/A |
-| 42 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 43 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 44 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 45 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 46 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 47 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
-| 48 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 50 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 28 | [Jubail](http://twitter.com/search?q=Jubail) | N/A |
+| 29 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 30 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
+| 31 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 32 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
+| 33 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 34 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
+| 35 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 36 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 37 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
+| 38 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
+| 39 | [hiện](http://twitter.com/search?q=hi%e1%bb%87n) | N/A |
+| 40 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
+| 41 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
+| 42 | [kols](http://twitter.com/search?q=kols) | N/A |
+| 43 | [Châu Âu](http://twitter.com/search?q=Ch%c3%a2u+%c3%82u) | N/A |
+| 44 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 45 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 46 | [VIETRAVEL - Vietravel](http://twitter.com/search?q=VIETRAVEL+-+Vietravel) | N/A |
+| 47 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 48 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
+| 49 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 50 | [xin 1](http://twitter.com/search?q=xin+1) | N/A |
 
 
 

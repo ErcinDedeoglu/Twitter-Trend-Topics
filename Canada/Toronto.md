@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-16 08:17:12 UTC`
+📆 Last Updated: `2023-03-16 09:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 2 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 3 | [David Johnston](http://twitter.com/search?q=David+Johnston) | N/A |
-| 4 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 5 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 7 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 11 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
-| 12 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 13 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 14 | [Governor General](http://twitter.com/search?q=Governor+General) | N/A |
-| 15 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 16 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 17 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 18 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 19 | [#dominospiday](http://twitter.com/search?q=%23dominospiday) | N/A |
-| 20 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 21 | [paul arcand](http://twitter.com/search?q=paul+arcand) | N/A |
-| 22 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 23 | [louisette dussault](http://twitter.com/search?q=louisette+dussault) | N/A |
-| 24 | [otto lopez](http://twitter.com/search?q=otto+lopez) | N/A |
-| 25 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 26 | [Carson Briere](http://twitter.com/search?q=Carson+Briere) | N/A |
-| 27 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 28 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 1 | [David Johnston](http://twitter.com/search?q=David+Johnston) | N/A |
+| 2 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 3 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 7 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 8 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
+| 9 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 10 | [Harper](http://twitter.com/search?q=Harper) | N/A |
+| 11 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 12 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 13 | [Governor General](http://twitter.com/search?q=Governor+General) | N/A |
+| 14 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 15 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 16 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 17 | [#dominospiday](http://twitter.com/search?q=%23dominospiday) | N/A |
+| 18 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 19 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 20 | [paul arcand](http://twitter.com/search?q=paul+arcand) | N/A |
+| 21 | [louisette dussault](http://twitter.com/search?q=louisette+dussault) | N/A |
+| 22 | [otto lopez](http://twitter.com/search?q=otto+lopez) | N/A |
+| 23 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
+| 24 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 25 | [Carson Briere](http://twitter.com/search?q=Carson+Briere) | N/A |
+| 26 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 27 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
+| 28 | [MORGAN RIELLY](http://twitter.com/search?q=MORGAN+RIELLY) | N/A |
 | 29 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 30 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
-| 31 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
-| 32 | [patrick lagacé](http://twitter.com/search?q=patrick+lagac%c3%a9) | N/A |
-| 33 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 34 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 35 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 37 | [Lisa LaFlamme](http://twitter.com/search?q=Lisa+LaFlamme) | N/A |
-| 38 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
-| 39 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
-| 40 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 41 | [happy pi](http://twitter.com/search?q=happy+pi) | N/A |
-| 42 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 43 | [Gardiner](http://twitter.com/search?q=Gardiner) | N/A |
-| 44 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 45 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 46 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 47 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 48 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 49 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 50 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 30 | [patrick lagacé](http://twitter.com/search?q=patrick+lagac%c3%a9) | N/A |
+| 31 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 33 | [Lisa LaFlamme](http://twitter.com/search?q=Lisa+LaFlamme) | N/A |
+| 34 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 35 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
+| 36 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
+| 37 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 38 | [Happy PI](http://twitter.com/search?q=Happy+PI) | N/A |
+| 39 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 40 | [Gardiner](http://twitter.com/search?q=Gardiner) | N/A |
+| 41 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 42 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 43 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 44 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 45 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 46 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 47 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 48 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 49 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 50 | [Bettman](http://twitter.com/search?q=Bettman) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-16 08:18:04 UTC`
+📆 Last Updated: `2023-03-16 09:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,7 +49,7 @@ This is top 50 for Panama
 | 32 | [albrook](http://twitter.com/search?q=albrook) | N/A |
 | 33 | [ampyme](http://twitter.com/search?q=ampyme) | N/A |
 | 34 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 35 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 35 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 | 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 37 | [chilibre](http://twitter.com/search?q=chilibre) | N/A |
 | 38 | [Guayacanes](http://twitter.com/search?q=Guayacanes) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Panama
 | 40 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 41 | [Juez](http://twitter.com/search?q=Juez) | N/A |
 | 42 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
-| 43 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 44 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 45 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 46 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 47 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 48 | [idaan](http://twitter.com/search?q=idaan) | N/A |
-| 49 | [juan carlos tapia](http://twitter.com/search?q=juan+carlos+tapia) | N/A |
-| 50 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 43 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 44 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 45 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 46 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 47 | [idaan](http://twitter.com/search?q=idaan) | N/A |
+| 48 | [juan carlos tapia](http://twitter.com/search?q=juan+carlos+tapia) | N/A |
+| 49 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 50 | [blandón](http://twitter.com/search?q=bland%c3%b3n) | N/A |
 
 
 

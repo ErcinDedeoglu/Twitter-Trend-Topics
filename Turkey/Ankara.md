@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-16 08:17:49 UTC`
+📆 Last Updated: `2023-03-16 09:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
-| 2 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
-| 3 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 1 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
+| 2 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
+| 3 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
 | 4 | [#EnkazBıraktınAKP](http://twitter.com/search?q=%23EnkazB%c4%b1rakt%c4%b1nAKP) | N/A |
-| 5 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
-| 6 | [Daye](http://twitter.com/search?q=Daye) | N/A |
-| 7 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
-| 8 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 9 | [Godoş](http://twitter.com/search?q=Godo%c5%9f) | N/A |
-| 10 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
-| 11 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
-| 12 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
-| 13 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 14 | [Mülteci](http://twitter.com/search?q=M%c3%bclteci) | N/A |
-| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 16 | [Derya Yanık](http://twitter.com/search?q=Derya+Yan%c4%b1k) | N/A |
-| 17 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
-| 18 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
-| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 21 | [#KöpeklerToplanacak](http://twitter.com/search?q=%23K%c3%b6peklerToplanacak) | N/A |
-| 22 | [#StajyerinPatronuDevlet](http://twitter.com/search?q=%23StajyerinPatronuDevlet) | N/A |
-| 23 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
-| 24 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
-| 25 | [#200Lirayla](http://twitter.com/search?q=%23200Lirayla) | N/A |
-| 26 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
-| 27 | [#DiyecekSözBulamıyoruz](http://twitter.com/search?q=%23DiyecekS%c3%b6zBulam%c4%b1yoruz) | N/A |
-| 28 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
-| 29 | [#AllahaEmanet](http://twitter.com/search?q=%23AllahaEmanet) | N/A |
-| 30 | [#HalabjaGenocide](http://twitter.com/search?q=%23HalabjaGenocide) | N/A |
-| 31 | [#16Mart](http://twitter.com/search?q=%2316Mart) | N/A |
-| 32 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
-| 33 | [#ABOHakkımızdır](http://twitter.com/search?q=%23ABOHakk%c4%b1m%c4%b1zd%c4%b1r) | N/A |
-| 34 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
-| 35 | [#HatayValisi](http://twitter.com/search?q=%23HatayValisi) | N/A |
-| 36 | [#YesilSolParti](http://twitter.com/search?q=%23YesilSolParti) | N/A |
-| 37 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
-| 38 | [#SGKPersoneli](http://twitter.com/search?q=%23SGKPersoneli) | N/A |
-| 39 | [#5BinveKısmiTorbaya](http://twitter.com/search?q=%235BinveK%c4%b1smiTorbaya) | N/A |
-| 40 | [#Secimi2000lerBelirler](http://twitter.com/search?q=%23Secimi2000lerBelirler) | N/A |
-| 41 | [#biletdevret](http://twitter.com/search?q=%23biletdevret) | N/A |
-| 42 | [#MahirÇayan](http://twitter.com/search?q=%23Mahir%c3%87ayan) | N/A |
+| 5 | [Zorbay Küçük](http://twitter.com/search?q=Zorbay+K%c3%bc%c3%a7%c3%bck) | Zorbay Küçük is a Turkish phrase that translates to "tough little one." It is often used as an affectionate term for someone who is small but strong and resilient. |
+| 6 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
+| 7 | [Daye](http://twitter.com/search?q=Daye) | N/A |
+| 8 | [Öğretmen](http://twitter.com/search?q=%c3%96%c4%9fretmen) | N/A |
+| 9 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
+| 10 | [Elma](http://twitter.com/search?q=Elma) | N/A |
+| 11 | [Dolar 19](http://twitter.com/search?q=Dolar+19) | N/A |
+| 12 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 13 | [Beyazıt](http://twitter.com/search?q=Beyaz%c4%b1t) | N/A |
+| 14 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 15 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
+| 16 | [Sosyal Bilgiler](http://twitter.com/search?q=Sosyal+Bilgiler) | N/A |
+| 17 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
+| 18 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 20 | [HER ŞEYDEN ÖNCE TÜRKİYE](http://twitter.com/search?q=HER+%c5%9eEYDEN+%c3%96NCE+T%c3%9cRK%c4%b0YE) | N/A |
+| 21 | [Milletiyle](http://twitter.com/search?q=Milletiyle) | N/A |
+| 22 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
+| 23 | [Sinir](http://twitter.com/search?q=Sinir) | N/A |
+| 24 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 25 | [Mülteci](http://twitter.com/search?q=M%c3%bclteci) | N/A |
+| 26 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
+| 27 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
+| 28 | [Doğal](http://twitter.com/search?q=Do%c4%9fal) | N/A |
+| 29 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
+| 30 | [Derya Yanık](http://twitter.com/search?q=Derya+Yan%c4%b1k) | N/A |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 32 | [#KöpeklerToplanacak](http://twitter.com/search?q=%23K%c3%b6peklerToplanacak) | N/A |
+| 33 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 34 | [#MebSosyaleSesVer](http://twitter.com/search?q=%23MebSosyaleSesVer) | N/A |
+| 35 | [#5binAboVeKısmiNerede](http://twitter.com/search?q=%235binAboVeK%c4%b1smiNerede) | N/A |
+| 36 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
+| 37 | [#StajyerinPatronuDevlet](http://twitter.com/search?q=%23StajyerinPatronuDevlet) | N/A |
+| 38 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
+| 39 | [#20marttayuzyuzekarari](http://twitter.com/search?q=%2320marttayuzyuzekarari) | N/A |
+| 40 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
+| 41 | [#HalabjaGenocide](http://twitter.com/search?q=%23HalabjaGenocide) | N/A |
+| 42 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
+| 43 | [#200Lirayla](http://twitter.com/search?q=%23200Lirayla) | N/A |
+| 44 | [#DiyecekSözBulamıyoruz](http://twitter.com/search?q=%23DiyecekS%c3%b6zBulam%c4%b1yoruz) | N/A |
+| 45 | [#AllahaEmanet](http://twitter.com/search?q=%23AllahaEmanet) | N/A |
+| 46 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
+| 47 | [#16Mart](http://twitter.com/search?q=%2316Mart) | N/A |
+| 48 | [#ABOHakkımızdır](http://twitter.com/search?q=%23ABOHakk%c4%b1m%c4%b1zd%c4%b1r) | N/A |
+| 49 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
 
 
 

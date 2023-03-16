@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-03-16 08:17:21 UTC`
+📆 Last Updated: `2023-03-16 09:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marabá](http://twitter.com/search?q=Marab%c3%a1) | N/A |
+| 1 | [marabá](http://twitter.com/search?q=marab%c3%a1) | N/A |
 | 2 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
 | 3 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
 | 4 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
 | 5 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 | 6 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 7 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 8 | [AMANDA CAMPEÃ](http://twitter.com/search?q=AMANDA+CAMPE%c3%83) | N/A |
-| 9 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 10 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 11 | [#amagiaacontecenobbb](http://twitter.com/search?q=%23amagiaacontecenobbb) | N/A |
-| 12 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
-| 13 | [Mc Guime](http://twitter.com/search?q=Mc+Guime) | N/A |
-| 14 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 15 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 16 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 17 | [Beijou](http://twitter.com/search?q=Beijou) | N/A |
-| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 19 | [PARABÉNS SAPATO](http://twitter.com/search?q=PARAB%c3%89NS+SAPATO) | N/A |
-| 20 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
-| 21 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 22 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 7 | [AMANDA CAMPEÃ](http://twitter.com/search?q=AMANDA+CAMPE%c3%83) | N/A |
+| 8 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 9 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 10 | [Guimê e Sapato](http://twitter.com/search?q=Guim%c3%aa+e+Sapato) | N/A |
+| 11 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
+| 12 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 13 | [MC Guimê](http://twitter.com/search?q=MC+Guim%c3%aa) | N/A |
+| 14 | [#amagiaacontecenobbb](http://twitter.com/search?q=%23amagiaacontecenobbb) | N/A |
+| 15 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
+| 16 | [Beijou](http://twitter.com/search?q=Beijou) | N/A |
+| 17 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 18 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 19 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
+| 20 | [PARABÉNS SAPATO](http://twitter.com/search?q=PARAB%c3%89NS+SAPATO) | N/A |
+| 21 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 22 | [#LCDF3](http://twitter.com/search?q=%23LCDF3) | N/A |
 | 23 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
-| 24 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
-| 25 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
-| 26 | [DOMITILA SABOTADA](http://twitter.com/search?q=DOMITILA+SABOTADA) | N/A |
-| 27 | [Luara](http://twitter.com/search?q=Luara) | N/A |
-| 28 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
-| 29 | [Amigão](http://twitter.com/search?q=Amig%c3%a3o) | N/A |
-| 30 | [paulo vieira](http://twitter.com/search?q=paulo+vieira) | N/A |
-| 31 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 32 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 33 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 34 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 35 | [Shadow and Bone](http://twitter.com/search?q=Shadow+and+Bone) | N/A |
-| 36 | [PRE SAVE DR3](http://twitter.com/search?q=PRE+SAVE+DR3) | N/A |
-| 37 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 38 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 39 | [Recalculando](http://twitter.com/search?q=Recalculando) | N/A |
-| 40 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 41 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 42 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
-| 43 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 44 | [Brasiliense](http://twitter.com/search?q=Brasiliense) | N/A |
-| 45 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 46 | [Erechim](http://twitter.com/search?q=Erechim) | N/A |
-| 47 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 48 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
-| 49 | [Glauber](http://twitter.com/search?q=Glauber) | N/A |
-| 50 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
+| 24 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 25 | [#LaCasaDeLosFamosos](http://twitter.com/search?q=%23LaCasaDeLosFamosos) | N/A |
+| 26 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 27 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 28 | [Amigão](http://twitter.com/search?q=Amig%c3%a3o) | N/A |
+| 29 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
+| 30 | [DOMITILA SABOTADA](http://twitter.com/search?q=DOMITILA+SABOTADA) | N/A |
+| 31 | [Luara](http://twitter.com/search?q=Luara) | N/A |
+| 32 | [Shadow and Bone](http://twitter.com/search?q=Shadow+and+Bone) | N/A |
+| 33 | [ATLÉTICO MINEIRO](http://twitter.com/search?q=ATL%c3%89TICO+MINEIRO) | N/A |
+| 34 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
+| 35 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 36 | [paulo vieira](http://twitter.com/search?q=paulo+vieira) | N/A |
+| 37 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 38 | [bragantino](http://twitter.com/search?q=bragantino) | N/A |
+| 39 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 40 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
+| 41 | [Recalculando](http://twitter.com/search?q=Recalculando) | N/A |
+| 42 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 43 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
+| 44 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 45 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
+| 46 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
 
 
 
