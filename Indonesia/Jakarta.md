@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-16 05:16:51 UTC`
+📆 Last Updated: `2023-03-16 06:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Turut](http://twitter.com/search?q=Turut) | N/A |
+| 1 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
 | 2 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 3 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
 | 4 | [#1MindIDHopes](http://twitter.com/search?q=%231MindIDHopes) | N/A |
@@ -23,47 +23,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 6 | [Prabowo Hatinya Tulus](http://twitter.com/search?q=Prabowo+Hatinya+Tulus) | N/A |
 | 7 | [Politik Baik Gerindra](http://twitter.com/search?q=Politik+Baik+Gerindra) | N/A |
 | 8 | [Rakyat NyamanPilih Prabowo](http://twitter.com/search?q=Rakyat+NyamanPilih+Prabowo) | N/A |
-| 9 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 10 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
-| 11 | [KIM JUNKYU](http://twitter.com/search?q=KIM+JUNKYU) | N/A |
-| 12 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 9 | [KIM JUNKYU](http://twitter.com/search?q=KIM+JUNKYU) | N/A |
+| 10 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 11 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
+| 12 | [Turut](http://twitter.com/search?q=Turut) | N/A |
 | 13 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
 | 14 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 15 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 16 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 17 | [#KemenanganBersama2024](http://twitter.com/search?q=%23KemenanganBersama2024) | N/A |
-| 18 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 15 | [#DrRomantic3](http://twitter.com/search?q=%23DrRomantic3) | N/A |
+| 16 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 17 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 18 | [#KemenanganBersama2024](http://twitter.com/search?q=%23KemenanganBersama2024) | N/A |
 | 19 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 20 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 21 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 20 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 21 | [Roti](http://twitter.com/search?q=Roti) | N/A |
+| 22 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 25 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 26 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 28 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 29 | [Bahlul](http://twitter.com/search?q=Bahlul) | N/A |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [Tinggalin](http://twitter.com/search?q=Tinggalin) | N/A |
+| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 27 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
+| 28 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 29 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 30 | [Tinggalin](http://twitter.com/search?q=Tinggalin) | N/A |
+| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 32 | [Sunda](http://twitter.com/search?q=Sunda) | N/A |
-| 33 | [Jabar](http://twitter.com/search?q=Jabar) | N/A |
-| 34 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 33 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 34 | [Bahlul](http://twitter.com/search?q=Bahlul) | N/A |
 | 35 | [Gubernur](http://twitter.com/search?q=Gubernur) | N/A |
-| 36 | [Sepatu](http://twitter.com/search?q=Sepatu) | N/A |
-| 37 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 38 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
-| 39 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 40 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
-| 41 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 42 | [#PerubahanDanPerbaikan](http://twitter.com/search?q=%23PerubahanDanPerbaikan) | N/A |
-| 43 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 44 | [#DecayRegime](http://twitter.com/search?q=%23DecayRegime) | N/A |
-| 45 | [#sugantehpinter](http://twitter.com/search?q=%23sugantehpinter) | N/A |
-| 46 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
-| 47 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 48 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 49 | [#PalumodaMotionFM](http://twitter.com/search?q=%23PalumodaMotionFM) | N/A |
+| 36 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 37 | [Jabar](http://twitter.com/search?q=Jabar) | N/A |
+| 38 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
+| 39 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 40 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
+| 41 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
+| 42 | [Sepatu](http://twitter.com/search?q=Sepatu) | N/A |
+| 43 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 44 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 45 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
+| 46 | [#PerubahanDanPerbaikan](http://twitter.com/search?q=%23PerubahanDanPerbaikan) | N/A |
+| 47 | [#DecayRegime](http://twitter.com/search?q=%23DecayRegime) | N/A |
+| 48 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
+| 49 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
 
 
 

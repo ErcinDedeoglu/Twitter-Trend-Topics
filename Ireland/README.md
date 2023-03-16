@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-16 05:17:20 UTC`
+📆 Last Updated: `2023-03-16 06:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for Ireland
 | 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 8 | [#StPatricksDay2023](http://twitter.com/search?q=%23StPatricksDay2023) | N/A |
 | 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 10 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 11 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 10 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 11 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 14 | [John Kiely](http://twitter.com/search?q=John+Kiely) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Ireland
 | 17 | [delta work](http://twitter.com/search?q=delta+work) | N/A |
 | 18 | [the real whacker](http://twitter.com/search?q=the+real+whacker) | N/A |
 | 19 | [Eamonn](http://twitter.com/search?q=Eamonn) | N/A |
-| 20 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
+| 20 | [paul murphy](http://twitter.com/search?q=paul+murphy) | N/A |
 | 21 | [barry connell](http://twitter.com/search?q=barry+connell) | N/A |
 | 22 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 23 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
@@ -43,10 +43,10 @@ This is top 50 for Ireland
 | 26 | [gerri colombe](http://twitter.com/search?q=gerri+colombe) | N/A |
 | 27 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 28 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
-| 29 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
-| 30 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 29 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 30 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
 | 31 | [burkes](http://twitter.com/search?q=burkes) | N/A |
-| 32 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
+| 32 | [langer dan](http://twitter.com/search?q=langer+dan) | N/A |
 | 33 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 34 | [facile vega](http://twitter.com/search?q=facile+vega) | N/A |
 | 35 | [stephen silver](http://twitter.com/search?q=stephen+silver) | N/A |

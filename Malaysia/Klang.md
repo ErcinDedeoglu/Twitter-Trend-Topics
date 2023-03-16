@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-16 05:16:56 UTC`
+📆 Last Updated: `2023-03-16 06:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
-| 2 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
-| 3 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 4 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 5 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 6 | [#MaskSinger12](http://twitter.com/search?q=%23MaskSinger12) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 9 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 10 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 2 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 3 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 4 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 5 | [#MaskSinger12](http://twitter.com/search?q=%23MaskSinger12) | N/A |
+| 6 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
+| 7 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 8 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 11 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 12 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 13 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 12 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 13 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 14 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
 | 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 16 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
 | 17 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 18 | [ChiaSoh](http://twitter.com/search?q=ChiaSoh) | N/A |
-| 19 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 20 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 21 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 22 | [putri dahlia](http://twitter.com/search?q=putri+dahlia) | N/A |
-| 23 | [jinki](http://twitter.com/search?q=jinki) | N/A |
-| 24 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 25 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 26 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 27 | [chanwoo](http://twitter.com/search?q=chanwoo) | N/A |
-| 28 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 29 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 31 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 32 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
-| 33 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
-| 34 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 35 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
-| 36 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 37 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 19 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 20 | [putri dahlia](http://twitter.com/search?q=putri+dahlia) | N/A |
+| 21 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 22 | [jinki](http://twitter.com/search?q=jinki) | N/A |
+| 23 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 24 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 25 | [chanwoo](http://twitter.com/search?q=chanwoo) | N/A |
+| 26 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 27 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 28 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 29 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 30 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 32 | [Jongup](http://twitter.com/search?q=Jongup) | N/A |
+| 33 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 34 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 35 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 36 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 37 | [jisung](http://twitter.com/search?q=jisung) | N/A |
 | 38 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 39 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 40 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 41 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 42 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 43 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 44 | [Junkyu](http://twitter.com/search?q=Junkyu) | N/A |
-| 45 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 46 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 47 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 48 | [Day6](http://twitter.com/search?q=Day6) | N/A |
-| 49 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 39 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 40 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
+| 41 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 42 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 43 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 44 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 45 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 46 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 47 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 48 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 49 | [Junkyu](http://twitter.com/search?q=Junkyu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-16 05:16:43 UTC`
+📆 Last Updated: `2023-03-16 06:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 6 | [stephen kenny](http://twitter.com/search?q=stephen+kenny) | N/A |
 | 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 8 | [#StPatricksDay2023](http://twitter.com/search?q=%23StPatricksDay2023) | N/A |
-| 9 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 10 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 9 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 10 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 13 | [John Kiely](http://twitter.com/search?q=John+Kiely) | N/A |
@@ -42,10 +42,10 @@ This is top 50 for [Ireland](</Ireland>)
 | 25 | [gerri colombe](http://twitter.com/search?q=gerri+colombe) | N/A |
 | 26 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 27 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
-| 28 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
-| 29 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 28 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 29 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
 | 30 | [burkes](http://twitter.com/search?q=burkes) | N/A |
-| 31 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
+| 31 | [langer dan](http://twitter.com/search?q=langer+dan) | N/A |
 | 32 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 33 | [facile vega](http://twitter.com/search?q=facile+vega) | N/A |
 | 34 | [stephen silver](http://twitter.com/search?q=stephen+silver) | N/A |

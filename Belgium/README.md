@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-16 05:17:19 UTC`
+📆 Last Updated: `2023-03-16 06:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,24 +19,24 @@ This is top 50 for Belgium
 | 2 | [#basgnt](http://twitter.com/search?q=%23basgnt) | N/A |
 | 3 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 4 | [#tettnvoortoine](http://twitter.com/search?q=%23tettnvoortoine) | N/A |
-| 5 | [#NokereKoerse](http://twitter.com/search?q=%23NokereKoerse) | N/A |
-| 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 7 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 5 | [#nokerekoerse](http://twitter.com/search?q=%23nokerekoerse) | N/A |
+| 6 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 9 | [Kijk](http://twitter.com/search?q=Kijk) | N/A |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [Bracke](http://twitter.com/search?q=Bracke) | N/A |
+| 9 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
+| 10 | [Kijk](http://twitter.com/search?q=Kijk) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 13 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
 | 14 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 15 | [verloren](http://twitter.com/search?q=verloren) | N/A |
-| 16 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
-| 17 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 18 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
-| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 16 | [Bracke](http://twitter.com/search?q=Bracke) | N/A |
+| 17 | [VERLOREN](http://twitter.com/search?q=VERLOREN) | N/A |
+| 18 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
+| 19 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
 | 20 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 21 | [Leuven](http://twitter.com/search?q=Leuven) | N/A |
-| 22 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 21 | [Reuzegommers](http://twitter.com/search?q=Reuzegommers) | N/A |
+| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 23 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 | 24 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 25 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Belgium
 | 29 | [oprechte](http://twitter.com/search?q=oprechte) | N/A |
 | 30 | [de standaard](http://twitter.com/search?q=de+standaard) | N/A |
 | 31 | [Supprime](http://twitter.com/search?q=Supprime) | N/A |
-| 32 | [innige](http://twitter.com/search?q=innige) | N/A |
-| 33 | [T'en](http://twitter.com/search?q=T%27en) | N/A |
-| 34 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 35 | [Wentelteefjes](http://twitter.com/search?q=Wentelteefjes) | N/A |
-| 36 | [Lotte Kopecky](http://twitter.com/search?q=Lotte+Kopecky) | N/A |
-| 37 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 38 | [La Gantoise](http://twitter.com/search?q=La+Gantoise) | N/A |
-| 39 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 41 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 42 | [Commission](http://twitter.com/search?q=Commission) | N/A |
-| 43 | [🇪🇺](http://twitter.com/search?q=%f0%9f%87%aa%f0%9f%87%ba) | N/A |
-| 44 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
-| 45 | [Gand](http://twitter.com/search?q=Gand) | N/A |
-| 46 | [Voila](http://twitter.com/search?q=Voila) | N/A |
-| 47 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
-| 48 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
-| 49 | [Antwerp](http://twitter.com/search?q=Antwerp) | N/A |
-| 50 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 32 | [Leuven](http://twitter.com/search?q=Leuven) | N/A |
+| 33 | [innige](http://twitter.com/search?q=innige) | N/A |
+| 34 | [T'en](http://twitter.com/search?q=T%27en) | N/A |
+| 35 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 36 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 37 | [Wentelteefjes](http://twitter.com/search?q=Wentelteefjes) | N/A |
+| 38 | [lotte kopecky](http://twitter.com/search?q=lotte+kopecky) | N/A |
+| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 40 | [La Gantoise](http://twitter.com/search?q=La+Gantoise) | N/A |
+| 41 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 42 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 43 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 44 | [Commission](http://twitter.com/search?q=Commission) | N/A |
+| 45 | [🇪🇺](http://twitter.com/search?q=%f0%9f%87%aa%f0%9f%87%ba) | N/A |
+| 46 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
+| 47 | [Gand](http://twitter.com/search?q=Gand) | N/A |
+| 48 | [Voila](http://twitter.com/search?q=Voila) | N/A |
+| 49 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
+| 50 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
 
 
 
