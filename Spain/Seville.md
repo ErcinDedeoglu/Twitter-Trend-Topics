@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-03-16 17:16:35 UTC`
+📆 Last Updated: `2023-03-16 18:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TodoEsMentira16M](http://twitter.com/search?q=%23TodoEsMentira16M) | N/A |
-| 2 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
-| 3 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
-| 4 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 5 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 7 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
-| 8 | [#BizumPadre](http://twitter.com/search?q=%23BizumPadre) | N/A |
-| 9 | [Affleck](http://twitter.com/search?q=Affleck) | N/A |
-| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 11 | [#GPDenain](http://twitter.com/search?q=%23GPDenain) | N/A |
-| 12 | [#RealBetisManUtd](http://twitter.com/search?q=%23RealBetisManUtd) | N/A |
-| 13 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
-| 14 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 15 | [Teodoro García Egea](http://twitter.com/search?q=Teodoro+Garc%c3%ada+Egea) | N/A |
-| 16 | [Bertín Osborne](http://twitter.com/search?q=Bert%c3%adn+Osborne) | N/A |
-| 17 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
-| 18 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
-| 19 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Dimitir](http://twitter.com/search?q=Dimitir) | N/A |
+| 1 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 2 | [#Pecado16Mar](http://twitter.com/search?q=%23Pecado16Mar) | N/A |
+| 3 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 4 | [#TodoEsMentira16M](http://twitter.com/search?q=%23TodoEsMentira16M) | N/A |
+| 5 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
+| 6 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
+| 7 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
+| 8 | [#AdaraSv16M](http://twitter.com/search?q=%23AdaraSv16M) | N/A |
+| 9 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 10 | [#RealBetisManUtd](http://twitter.com/search?q=%23RealBetisManUtd) | N/A |
+| 11 | [Bertín Osborne](http://twitter.com/search?q=Bert%c3%adn+Osborne) | N/A |
+| 12 | [Terelu](http://twitter.com/search?q=Terelu) | N/A |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 14 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
+| 15 | [Affleck](http://twitter.com/search?q=Affleck) | N/A |
+| 16 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 17 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
+| 18 | [Benito Villamarín](http://twitter.com/search?q=Benito+Villamar%c3%adn) | N/A |
+| 19 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
+| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 21 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
 | 22 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
-| 23 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 24 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 25 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
-| 26 | [Ossorio](http://twitter.com/search?q=Ossorio) | N/A |
-| 27 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
-| 28 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
-| 29 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 31 | [Dimisión](http://twitter.com/search?q=Dimisi%c3%b3n) | N/A |
-| 32 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
-| 33 | [Pasapalabra](http://twitter.com/search?q=Pasapalabra) | N/A |
-| 34 | [Día del Padre](http://twitter.com/search?q=D%c3%ada+del+Padre) | N/A |
-| 35 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
-| 36 | [De Burgos](http://twitter.com/search?q=De+Burgos) | N/A |
-| 37 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 38 | [Opus](http://twitter.com/search?q=Opus) | N/A |
-| 39 | [Nemo](http://twitter.com/search?q=Nemo) | N/A |
-| 40 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 41 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 42 | [Jaguar](http://twitter.com/search?q=Jaguar) | N/A |
-| 43 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
-| 44 | [#APOYOROCIO16M](http://twitter.com/search?q=%23APOYOROCIO16M) | N/A |
-| 45 | [#RE4MM](http://twitter.com/search?q=%23RE4MM) | N/A |
-| 46 | [#YoMeRebelo16M](http://twitter.com/search?q=%23YoMeRebelo16M) | N/A |
-| 47 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
-| 48 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 49 | [#ADMALTRATADOR](http://twitter.com/search?q=%23ADMALTRATADOR) | N/A |
+| 23 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
+| 24 | [Jojolands](http://twitter.com/search?q=Jojolands) | N/A |
+| 25 | [Dimitir](http://twitter.com/search?q=Dimitir) | N/A |
+| 26 | [Mónica](http://twitter.com/search?q=M%c3%b3nica) | N/A |
+| 27 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 28 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 29 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 30 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
+| 31 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
+| 32 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
+| 33 | [Ossorio](http://twitter.com/search?q=Ossorio) | N/A |
+| 34 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
+| 35 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
+| 36 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 37 | [Opus](http://twitter.com/search?q=Opus) | N/A |
+| 38 | [DIMISIÓN](http://twitter.com/search?q=DIMISI%c3%93N) | N/A |
+| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 40 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
+| 41 | [Nemo](http://twitter.com/search?q=Nemo) | N/A |
+| 42 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 43 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
+| 44 | [#BizumPadre](http://twitter.com/search?q=%23BizumPadre) | N/A |
+| 45 | [#GPDenain](http://twitter.com/search?q=%23GPDenain) | N/A |
+| 46 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 47 | [#APOYOROCIO16M](http://twitter.com/search?q=%23APOYOROCIO16M) | N/A |
+| 48 | [#YoMeRebelo16M](http://twitter.com/search?q=%23YoMeRebelo16M) | N/A |
+| 49 | [#Pasapalabra](http://twitter.com/search?q=%23Pasapalabra) | N/A |
 
 
 

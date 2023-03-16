@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-16 17:17:07 UTC`
+📆 Last Updated: `2023-03-16 18:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for France
 | ------- | ------------ | ------------ |
 | 1 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 2 | [#MotionDeCensure](http://twitter.com/search?q=%23MotionDeCensure) | N/A |
-| 3 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
-| 4 | [Concorde](http://twitter.com/search?q=Concorde) | N/A |
-| 5 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
+| 3 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
+| 4 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
+| 5 | [Concorde](http://twitter.com/search?q=Concorde) | N/A |
 | 6 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 7 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 8 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
-| 9 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 10 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
-| 11 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 12 | [Louis XVI](http://twitter.com/search?q=Louis+XVI) | N/A |
-| 13 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 14 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 15 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 16 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
-| 17 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
-| 18 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 7 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 8 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 9 | [Louis XVI](http://twitter.com/search?q=Louis+XVI) | N/A |
+| 10 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
+| 11 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 12 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
+| 13 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 14 | [Ma France](http://twitter.com/search?q=Ma+France) | N/A |
+| 15 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 16 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 17 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 18 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
 | 19 | [Votez](http://twitter.com/search?q=Votez) | N/A |
-| 20 | [Ve République](http://twitter.com/search?q=Ve+R%c3%a9publique) | N/A |
-| 21 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 22 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
-| 23 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 24 | [Ma France](http://twitter.com/search?q=Ma+France) | N/A |
-| 25 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 26 | [Samba](http://twitter.com/search?q=Samba) | N/A |
-| 27 | [L'utilisation du 49.3](http://twitter.com/search?q=L%27utilisation+du+49.3) | N/A |
-| 28 | [Aurélien Pradié](http://twitter.com/search?q=Aur%c3%a9lien+Pradi%c3%a9) | N/A |
-| 29 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
-| 30 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 31 | [Démocratie](http://twitter.com/search?q=D%c3%a9mocratie) | N/A |
-| 32 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
-| 33 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
-| 34 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 35 | [Un 49.3](http://twitter.com/search?q=Un+49.3) | N/A |
-| 36 | [Espoirs](http://twitter.com/search?q=Espoirs) | N/A |
-| 37 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 38 | [Républicains](http://twitter.com/search?q=R%c3%a9publicains) | N/A |
-| 39 | [Mai 68](http://twitter.com/search?q=Mai+68) | N/A |
-| 40 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 41 | [Kalulu](http://twitter.com/search?q=Kalulu) | N/A |
-| 42 | [traître](http://twitter.com/search?q=tra%c3%aetre) | N/A |
-| 43 | [La Première](http://twitter.com/search?q=La+Premi%c3%a8re) | N/A |
-| 44 | [Kephren](http://twitter.com/search?q=Kephren) | N/A |
-| 45 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
-| 46 | [LREM](http://twitter.com/search?q=LREM) | N/A |
-| 47 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
-| 48 | [dictature](http://twitter.com/search?q=dictature) | N/A |
-| 49 | [Préfecture](http://twitter.com/search?q=Pr%c3%a9fecture) | N/A |
-| 50 | [Matignon](http://twitter.com/search?q=Matignon) | N/A |
+| 20 | [Areola](http://twitter.com/search?q=Areola) | N/A |
+| 21 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
+| 22 | [Les Républicains](http://twitter.com/search?q=Les+R%c3%a9publicains) | N/A |
+| 23 | [Ve République](http://twitter.com/search?q=Ve+R%c3%a9publique) | N/A |
+| 24 | [Courson](http://twitter.com/search?q=Courson) | N/A |
+| 25 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
+| 26 | [LREM](http://twitter.com/search?q=LREM) | N/A |
+| 27 | [Pradié](http://twitter.com/search?q=Pradi%c3%a9) | N/A |
+| 28 | [L'utilisation du 49.3](http://twitter.com/search?q=L%27utilisation+du+49.3) | N/A |
+| 29 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 30 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 31 | [Un 49.3](http://twitter.com/search?q=Un+49.3) | N/A |
+| 32 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 33 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 34 | [Traître](http://twitter.com/search?q=Tra%c3%aetre) | N/A |
+| 35 | [Samba](http://twitter.com/search?q=Samba) | N/A |
+| 36 | [Kalulu](http://twitter.com/search?q=Kalulu) | N/A |
+| 37 | [49.3 de la Constitution](http://twitter.com/search?q=49.3+de+la+Constitution) | N/A |
+| 38 | [Mai 68](http://twitter.com/search?q=Mai+68) | N/A |
+| 39 | [Espoirs](http://twitter.com/search?q=Espoirs) | N/A |
+| 40 | [Préfecture](http://twitter.com/search?q=Pr%c3%a9fecture) | N/A |
+| 41 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
+| 42 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 43 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
+| 44 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 45 | [Le Gouvernement](http://twitter.com/search?q=Le+Gouvernement) | N/A |
+| 46 | [Kephren](http://twitter.com/search?q=Kephren) | N/A |
+| 47 | [Chirac](http://twitter.com/search?q=Chirac) | N/A |
+| 48 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 49 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 50 | [De Gaulle](http://twitter.com/search?q=De+Gaulle) | N/A |
 
 
 

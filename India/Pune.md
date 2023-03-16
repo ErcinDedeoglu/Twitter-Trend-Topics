@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-03-16 17:16:54 UTC`
+📆 Last Updated: `2023-03-16 18:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 2 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 3 | [India Against Modani](http://twitter.com/search?q=India+Against+Modani) | N/A |
-| 4 | [#HNETakingCharge](http://twitter.com/search?q=%23HNETakingCharge) | N/A |
-| 5 | [Dinner with SRK](http://twitter.com/search?q=Dinner+with+SRK) | N/A |
-| 6 | [Rajesh Gopinathan](http://twitter.com/search?q=Rajesh+Gopinathan) | N/A |
-| 7 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
-| 8 | [K Krithivasan](http://twitter.com/search?q=K+Krithivasan) | N/A |
-| 9 | [Sushant Nuggets Of Wisdom](http://twitter.com/search?q=Sushant+Nuggets+Of+Wisdom) | N/A |
-| 10 | [जयराम रमेश](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6) | N/A |
-| 11 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [MUNAWAR X JASSIE MV OUT TMRW](http://twitter.com/search?q=MUNAWAR+X+JASSIE+MV+OUT+TMRW) | N/A |
-| 14 | [बिजली आपूर्ति](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 15 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
-| 16 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 17 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 18 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 19 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
-| 20 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 21 | [Cheetah](http://twitter.com/search?q=Cheetah) | N/A |
-| 22 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 1 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
+| 2 | [Dinner with SRK](http://twitter.com/search?q=Dinner+with+SRK) | N/A |
+| 3 | [#DCvGG](http://twitter.com/search?q=%23DCvGG) | N/A |
+| 4 | [India Against Modani](http://twitter.com/search?q=India+Against+Modani) | N/A |
+| 5 | [#JayPandaLies](http://twitter.com/search?q=%23JayPandaLies) | N/A |
+| 6 | [#PZvsIU](http://twitter.com/search?q=%23PZvsIU) | N/A |
+| 7 | [#PrideOfIndiaRamCharan](http://twitter.com/search?q=%23PrideOfIndiaRamCharan) | N/A |
+| 8 | [Sushant Nuggets Of Wisdom](http://twitter.com/search?q=Sushant+Nuggets+Of+Wisdom) | N/A |
+| 9 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
+| 10 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 11 | [Rajesh Gopinathan](http://twitter.com/search?q=Rajesh+Gopinathan) | N/A |
+| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 13 | [जयराम रमेश](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6) | N/A |
+| 14 | [K Krithivasan](http://twitter.com/search?q=K+Krithivasan) | N/A |
+| 15 | [Sneh Rana](http://twitter.com/search?q=Sneh+Rana) | N/A |
+| 16 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 17 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 18 | [बिजली आपूर्ति](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 19 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 20 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
+| 21 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 22 | [स्वरा भास्कर](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be+%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0) | N/A |
 | 23 | [Small Role](http://twitter.com/search?q=Small+Role) | N/A |
-| 24 | [EVIL EYES OFF SUMAAN](http://twitter.com/search?q=EVIL+EYES+OFF+SUMAAN) | N/A |
-| 25 | [Patrick French](http://twitter.com/search?q=Patrick+French) | N/A |
-| 26 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 27 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 28 | [Pyaar](http://twitter.com/search?q=Pyaar) | N/A |
-| 29 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 30 | [प्रेस कांफ्रेंस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8) | N/A |
-| 31 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 32 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 33 | [Mandala](http://twitter.com/search?q=Mandala) | N/A |
-| 34 | [भारतीय सेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
-| 35 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 36 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 37 | [Asle Toje](http://twitter.com/search?q=Asle+Toje) | N/A |
-| 38 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 39 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
-| 40 | [#JayPandaLies](http://twitter.com/search?q=%23JayPandaLies) | N/A |
-| 41 | [#saynotopensionstrike](http://twitter.com/search?q=%23saynotopensionstrike) | N/A |
-| 42 | [#DCvGG](http://twitter.com/search?q=%23DCvGG) | N/A |
-| 43 | [#PrideOfIndiaRamCharan](http://twitter.com/search?q=%23PrideOfIndiaRamCharan) | N/A |
+| 24 | [Pyaar](http://twitter.com/search?q=Pyaar) | N/A |
+| 25 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 26 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 27 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 28 | [EVIL EYES OFF SUMAAN](http://twitter.com/search?q=EVIL+EYES+OFF+SUMAAN) | N/A |
+| 29 | [Sher](http://twitter.com/search?q=Sher) | N/A |
+| 30 | [Cheetah](http://twitter.com/search?q=Cheetah) | N/A |
+| 31 | [Zomato](http://twitter.com/search?q=Zomato) | N/A |
+| 32 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 33 | [Patrick French](http://twitter.com/search?q=Patrick+French) | N/A |
+| 34 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 35 | [Member of Parliament](http://twitter.com/search?q=Member+of+Parliament) | N/A |
+| 36 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 37 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
+| 38 | [प्रेस कांफ्रेंस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8) | N/A |
+| 39 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 40 | [Mandala](http://twitter.com/search?q=Mandala) | N/A |
+| 41 | [भारतीय सेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
+| 42 | [Asle Toje](http://twitter.com/search?q=Asle+Toje) | N/A |
+| 43 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
 | 44 | [#HappyBirthdayDrPRK](http://twitter.com/search?q=%23HappyBirthdayDrPRK) | N/A |
-| 45 | [#PowerStarBdayCDP](http://twitter.com/search?q=%23PowerStarBdayCDP) | N/A |
-| 46 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 47 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
+| 45 | [#HNETakingCharge](http://twitter.com/search?q=%23HNETakingCharge) | N/A |
+| 46 | [#PowerStarBdayCDP](http://twitter.com/search?q=%23PowerStarBdayCDP) | N/A |
+| 47 | [#SayNoToPensionStrike](http://twitter.com/search?q=%23SayNoToPensionStrike) | N/A |
+| 48 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 49 | [#ImpeccableInspirationAppu](http://twitter.com/search?q=%23ImpeccableInspirationAppu) | N/A |
+| 50 | [#GGvsDC](http://twitter.com/search?q=%23GGvsDC) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-03-16 17:16:23 UTC`
+📆 Last Updated: `2023-03-16 18:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
 | 3 | [#JovenesEnMovimiento](http://twitter.com/search?q=%23JovenesEnMovimiento) | N/A |
 | 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [#PoderosoYTravieso](http://twitter.com/search?q=%23PoderosoYTravieso) | N/A |
-| 6 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 7 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
-| 8 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 9 | [Omar Núñez](http://twitter.com/search?q=Omar+N%c3%ba%c3%b1ez) | N/A |
-| 10 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 14 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 15 | [Gallese](http://twitter.com/search?q=Gallese) | N/A |
-| 16 | [Melissa Galindo](http://twitter.com/search?q=Melissa+Galindo) | N/A |
-| 17 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 19 | [Tomás Yarrington](http://twitter.com/search?q=Tom%c3%a1s+Yarrington) | N/A |
-| 20 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 21 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 22 | [Alejandro Encinas](http://twitter.com/search?q=Alejandro+Encinas) | N/A |
-| 23 | [nevado](http://twitter.com/search?q=nevado) | N/A |
-| 24 | [San Juan de Aragón](http://twitter.com/search?q=San+Juan+de+Arag%c3%b3n) | N/A |
-| 25 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 26 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 27 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 28 | [alexis wilson](http://twitter.com/search?q=alexis+wilson) | N/A |
-| 29 | [El Pentágono](http://twitter.com/search?q=El+Pent%c3%a1gono) | N/A |
-| 30 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 31 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 32 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
-| 33 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
-| 34 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 5 | [#erickml](http://twitter.com/search?q=%23erickml) | N/A |
+| 6 | [Santi Giménez](http://twitter.com/search?q=Santi+Gim%c3%a9nez) | N/A |
+| 7 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 8 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
+| 9 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 10 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 11 | [Omar Núñez](http://twitter.com/search?q=Omar+N%c3%ba%c3%b1ez) | N/A |
+| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 13 | [Loret](http://twitter.com/search?q=Loret) | N/A |
+| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 15 | [Bebote](http://twitter.com/search?q=Bebote) | N/A |
+| 16 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 17 | [Nevado](http://twitter.com/search?q=Nevado) | N/A |
+| 18 | [Melissa Galindo](http://twitter.com/search?q=Melissa+Galindo) | N/A |
+| 19 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 20 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 21 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 22 | [Tomás Yarrington](http://twitter.com/search?q=Tom%c3%a1s+Yarrington) | N/A |
+| 23 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 24 | [Gallese](http://twitter.com/search?q=Gallese) | N/A |
+| 25 | [San Juan de Aragón](http://twitter.com/search?q=San+Juan+de+Arag%c3%b3n) | N/A |
+| 26 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 27 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 28 | [Alejandro Encinas](http://twitter.com/search?q=Alejandro+Encinas) | N/A |
+| 29 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 32 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 33 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 34 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
 | 35 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 36 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
-| 37 | [Damián Alcázar](http://twitter.com/search?q=Dami%c3%a1n+Alc%c3%a1zar) | N/A |
-| 38 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 39 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 40 | [Corcholatas](http://twitter.com/search?q=Corcholatas) | N/A |
-| 41 | [Daniel Robles Haro](http://twitter.com/search?q=Daniel+Robles+Haro) | N/A |
-| 42 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 36 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 37 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
+| 38 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 39 | [Jueves 16](http://twitter.com/search?q=Jueves+16) | N/A |
+| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 41 | [Tata Martino](http://twitter.com/search?q=Tata+Martino) | N/A |
+| 42 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
 | 43 | [Catón](http://twitter.com/search?q=Cat%c3%b3n) | N/A |
-| 44 | [Cuartos de Final](http://twitter.com/search?q=Cuartos+de+Final) | N/A |
-| 45 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 47 | [Machaca](http://twitter.com/search?q=Machaca) | N/A |
-| 48 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 44 | [Damián Alcázar](http://twitter.com/search?q=Dami%c3%a1n+Alc%c3%a1zar) | N/A |
+| 45 | [Shakhtar](http://twitter.com/search?q=Shakhtar) | Shakhtar is a Ukrainian football club based in Donetsk. The name Shakhtar is derived from the word "shakhtyor", which means "miner" in Ukrainian. In English, Shakhtar translates to "miner". |
+| 46 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 47 | [Juan Ferrara](http://twitter.com/search?q=Juan+Ferrara) | N/A |
+| 48 | [El Pentágono](http://twitter.com/search?q=El+Pent%c3%a1gono) | N/A |
 
 
 

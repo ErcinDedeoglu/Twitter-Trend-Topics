@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-16 17:16:36 UTC`
+📆 Last Updated: `2023-03-16 18:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 3 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 4 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 5 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 6 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 7 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 8 | [#VDZ23](http://twitter.com/search?q=%23VDZ23) | N/A |
-| 9 | [#Macron](http://twitter.com/search?q=%23Macron) | N/A |
-| 10 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 11 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 12 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 13 | [la bns](http://twitter.com/search?q=la+bns) | N/A |
-| 14 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 15 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 16 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 18 | [wald](http://twitter.com/search?q=wald) | N/A |
-| 19 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
-| 20 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 22 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 23 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 24 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 25 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 26 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 27 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 28 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 29 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 30 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 31 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
-| 32 | [Lara Gut-Behrami](http://twitter.com/search?q=Lara+Gut-Behrami) | N/A |
-| 33 | [London](http://twitter.com/search?q=London) | N/A |
-| 34 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 35 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 36 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 37 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 38 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 39 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 40 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 41 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 42 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 43 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 44 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 45 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 46 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 47 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 48 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 49 | [President](http://twitter.com/search?q=President) | N/A |
+| 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 5 | [#VDZ23](http://twitter.com/search?q=%23VDZ23) | N/A |
+| 6 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
+| 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 8 | [#Macron](http://twitter.com/search?q=%23Macron) | N/A |
+| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 10 | [La BNS](http://twitter.com/search?q=La+BNS) | N/A |
+| 11 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 12 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 13 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 14 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 15 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
+| 16 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 17 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 18 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 19 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 20 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 21 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 22 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 23 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 24 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 25 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
+| 26 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 27 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 28 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 29 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 30 | [Valais](http://twitter.com/search?q=Valais) | N/A |
+| 31 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
+| 32 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 33 | [Programm](http://twitter.com/search?q=Programm) | N/A |
+| 34 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 35 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 36 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 37 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 38 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
+| 39 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
+| 40 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 41 | [Confédération](http://twitter.com/search?q=Conf%c3%a9d%c3%a9ration) | N/A |
+| 42 | [Statement](http://twitter.com/search?q=Statement) | N/A |
+| 43 | [Schäden](http://twitter.com/search?q=Sch%c3%a4den) | N/A |
+| 44 | [Alpen](http://twitter.com/search?q=Alpen) | N/A |
+| 45 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 46 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 47 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 48 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
+| 49 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 50 | [Hose](http://twitter.com/search?q=Hose) | N/A |
 
 
 

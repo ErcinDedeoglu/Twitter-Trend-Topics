@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-16 17:17:12 UTC`
+📆 Last Updated: `2023-03-16 18:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Singapore
 | ------- | ------------ | ------------ |
 | 1 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 2 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
-| 5 | [#SOLAR](http://twitter.com/search?q=%23SOLAR) | N/A |
-| 6 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 7 | [#MOONBYUL](http://twitter.com/search?q=%23MOONBYUL) | N/A |
-| 8 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 9 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
-| 10 | [#WaitingForKiaNoElyuVlog](http://twitter.com/search?q=%23WaitingForKiaNoElyuVlog) | N/A |
-| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 12 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 13 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 14 | [GINOROQUE OnPIEnalo](http://twitter.com/search?q=GINOROQUE+OnPIEnalo) | N/A |
-| 15 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 16 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 17 | [Changi](http://twitter.com/search?q=Changi) | N/A |
+| 3 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
+| 4 | [#WaitingForKiaNoElyuVlog](http://twitter.com/search?q=%23WaitingForKiaNoElyuVlog) | N/A |
+| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 6 | [#BWDNtoJapan](http://twitter.com/search?q=%23BWDNtoJapan) | N/A |
+| 7 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 8 | [GINOROQUE OnPIEnalo](http://twitter.com/search?q=GINOROQUE+OnPIEnalo) | N/A |
+| 9 | [#หน้ากากกิเลน](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b4%e0%b9%80%e0%b8%a5%e0%b8%99) | N/A |
+| 10 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 11 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 12 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 13 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 14 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 15 | [Changi](http://twitter.com/search?q=Changi) | N/A |
+| 16 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 17 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 | 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 19 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 20 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 21 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 22 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 23 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 24 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 25 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 28 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 29 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 30 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 31 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 32 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 33 | [Azuki](http://twitter.com/search?q=Azuki) | N/A |
-| 34 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
-| 35 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 36 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 38 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 40 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 41 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 42 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 43 | [European](http://twitter.com/search?q=European) | N/A |
-| 44 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 45 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 46 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 47 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 48 | [Nanami](http://twitter.com/search?q=Nanami) | N/A |
-| 49 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
-| 50 | [Wdym](http://twitter.com/search?q=Wdym) | N/A |
+| 19 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 20 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 21 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
+| 22 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 23 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
+| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 26 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 27 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 28 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 29 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 30 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 31 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 32 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 33 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 34 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 35 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 36 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 37 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 38 | [Australians](http://twitter.com/search?q=Australians) | N/A |
+| 39 | [Christ](http://twitter.com/search?q=Christ) | N/A |
+| 40 | [Nanami](http://twitter.com/search?q=Nanami) | N/A |
+| 41 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 43 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 44 | [Yesssss](http://twitter.com/search?q=Yesssss) | N/A |
+| 45 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 46 | [Xinjiang](http://twitter.com/search?q=Xinjiang) | N/A |
+| 47 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 48 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 49 | [My Little Joy Blog](http://twitter.com/search?q=My+Little+Joy+Blog) | N/A |
+| 50 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
 
 
 
