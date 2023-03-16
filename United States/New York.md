@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-16 01:44:17 UTC`
+📆 Last Updated: `2023-03-16 02:35:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 2 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 5 | [Tuch](http://twitter.com/search?q=Tuch) | N/A |
-| 6 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 1 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 2 | [Tuch](http://twitter.com/search?q=Tuch) | N/A |
+| 3 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 4 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
+| 5 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
+| 6 | [Ovechkin](http://twitter.com/search?q=Ovechkin) | Ovechkin is a Russian surname derived from the word "ovets", which means ram. It is most famously associated with Alexander Ovechkin, a professional ice hockey player who currently plays for the Washington Capitals of the National Hockey League (NHL). |
 | 7 | [Claire](http://twitter.com/search?q=Claire) | N/A |
 | 8 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 9 | [Welcome to Buffalo](http://twitter.com/search?q=Welcome+to+Buffalo) | N/A |
-| 10 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 11 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 12 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 13 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 14 | [Jordan Love](http://twitter.com/search?q=Jordan+Love) | Jordan Love is a phrase used to express admiration or appreciation for someone. It is often used as a term of endearment, and can be used to show support or appreciation for someone's accomplishments. In English, it could be translated as "I love you, Jordan" or "I'm proud of you, Jordan". |
-| 15 | [Go Bills](http://twitter.com/search?q=Go+Bills) | "Go Bills" is a phrase used by fans of the Buffalo Bills, an American football team based in Buffalo, New York. It is used to show support for the team and to encourage them to win. |
-| 16 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 9 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 10 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 11 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 12 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 13 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 14 | [Jamaal Williams](http://twitter.com/search?q=Jamaal+Williams) | Jamaal Williams is a professional American football player who currently plays for the Green Bay Packers of the National Football League (NFL). His name is derived from the Arabic word "Jamal", which means "beauty". |
+| 15 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 16 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
 | 17 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 18 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
+| 18 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
 | 19 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 20 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 21 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 22 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 23 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 24 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
-| 25 | [Taya](http://twitter.com/search?q=Taya) | N/A |
-| 26 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 27 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 28 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 29 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 30 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 31 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 32 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 33 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
-| 34 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 35 | [Julio Rodriguez](http://twitter.com/search?q=Julio+Rodriguez) | N/A |
-| 36 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 37 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
-| 38 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 39 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 40 | [Stu Grayson](http://twitter.com/search?q=Stu+Grayson) | N/A |
-| 41 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 42 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 43 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 44 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 45 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
-| 46 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
-| 47 | [Morehead State](http://twitter.com/search?q=Morehead+State) | N/A |
-| 48 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 49 | [James Robinson](http://twitter.com/search?q=James+Robinson) | N/A |
-| 50 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 20 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
+| 21 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 22 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 23 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 24 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 25 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 26 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 27 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 28 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 29 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
+| 30 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 31 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 32 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 33 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 34 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 35 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 36 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 37 | [Taya](http://twitter.com/search?q=Taya) | N/A |
+| 38 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 39 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 40 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 41 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 42 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 43 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 44 | [Steve Alford](http://twitter.com/search?q=Steve+Alford) | N/A |
+| 45 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 46 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
+| 47 | [Charli](http://twitter.com/search?q=Charli) | N/A |
+| 48 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 49 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 50 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
 
 
 

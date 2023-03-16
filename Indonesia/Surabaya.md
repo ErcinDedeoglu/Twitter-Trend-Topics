@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-16 01:43:52 UTC`
+📆 Last Updated: `2023-03-16 02:35:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
 | 2 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 3 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 4 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
-| 5 | [#IslamPunyaSolusi](http://twitter.com/search?q=%23IslamPunyaSolusi) | N/A |
-| 6 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 7 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 8 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 9 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 10 | [bikin jadi beneran](http://twitter.com/search?q=bikin+jadi+beneran) | N/A |
-| 11 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 12 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
-| 13 | [Berkah Dengan Syariah Kaffah](http://twitter.com/search?q=Berkah+Dengan+Syariah+Kaffah) | N/A |
-| 14 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 15 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
-| 16 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
-| 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 18 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 19 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 20 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 21 | [Sireng](http://twitter.com/search?q=Sireng) | N/A |
-| 22 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 23 | [Sisca](http://twitter.com/search?q=Sisca) | N/A |
-| 24 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 26 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
-| 27 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 28 | [Where is Jisung](http://twitter.com/search?q=Where+is+Jisung) | N/A |
-| 29 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 30 | [MASIH PAGI](http://twitter.com/search?q=MASIH+PAGI) | N/A |
-| 31 | [partai persatuan pembangunan](http://twitter.com/search?q=partai+persatuan+pembangunan) | N/A |
-| 32 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 34 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 35 | [ngaji budaya](http://twitter.com/search?q=ngaji+budaya) | N/A |
-| 36 | [Glepung](http://twitter.com/search?q=Glepung) | N/A |
-| 37 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 38 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
-| 39 | [Hambalang](http://twitter.com/search?q=Hambalang) | N/A |
-| 40 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 41 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 42 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 43 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
-| 44 | [Sunda](http://twitter.com/search?q=Sunda) | N/A |
-| 45 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
-| 46 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 47 | [2024 Prabowo Menang](http://twitter.com/search?q=2024+Prabowo+Menang) | N/A |
-| 48 | [Pak Prabowo 2024](http://twitter.com/search?q=Pak+Prabowo+2024) | N/A |
-| 49 | [Sarang](http://twitter.com/search?q=Sarang) | N/A |
-| 50 | [pph 21](http://twitter.com/search?q=pph+21) | N/A |
+| 3 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
+| 4 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 5 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
+| 6 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 7 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 8 | [bikin jadi beneran](http://twitter.com/search?q=bikin+jadi+beneran) | N/A |
+| 9 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 10 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
+| 11 | [#HAECHANxLOUISVUITTON](http://twitter.com/search?q=%23HAECHANxLOUISVUITTON) | N/A |
+| 12 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 13 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 14 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 15 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 16 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 17 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
+| 18 | [Sireng](http://twitter.com/search?q=Sireng) | N/A |
+| 19 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 20 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 21 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 22 | [Sisca](http://twitter.com/search?q=Sisca) | N/A |
+| 23 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 24 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
+| 25 | [Where is Jisung](http://twitter.com/search?q=Where+is+Jisung) | N/A |
+| 26 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 28 | [partai persatuan pembangunan](http://twitter.com/search?q=partai+persatuan+pembangunan) | N/A |
+| 29 | [Bajaj Bajuri](http://twitter.com/search?q=Bajaj+Bajuri) | N/A |
+| 30 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 31 | [Berkah Dengan Syariah Kaffah](http://twitter.com/search?q=Berkah+Dengan+Syariah+Kaffah) | N/A |
+| 32 | [ngaji budaya](http://twitter.com/search?q=ngaji+budaya) | N/A |
+| 33 | [Glepung](http://twitter.com/search?q=Glepung) | N/A |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 36 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 37 | [MASIH PAGI](http://twitter.com/search?q=MASIH+PAGI) | N/A |
+| 38 | [Sunda](http://twitter.com/search?q=Sunda) | N/A |
+| 39 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
+| 40 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 41 | [Turut](http://twitter.com/search?q=Turut) | N/A |
+| 42 | [Hambalang](http://twitter.com/search?q=Hambalang) | N/A |
+| 43 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 44 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 45 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 46 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
+| 47 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 48 | [Rematch](http://twitter.com/search?q=Rematch) | N/A |
+| 49 | [2024 Prabowo Menang](http://twitter.com/search?q=2024+Prabowo+Menang) | N/A |
+| 50 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-16 01:43:39 UTC`
+📆 Last Updated: `2023-03-16 02:35:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Felipe Flores](http://twitter.com/search?q=Felipe+Flores) | N/A |
+| 1 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
 | 2 | [#libertadoresxchv](http://twitter.com/search?q=%23libertadoresxchv) | N/A |
-| 3 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 4 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 5 | [#BoricDesastreParaChile](http://twitter.com/search?q=%23BoricDesastreParaChile) | N/A |
-| 6 | [Jordhy Thompson](http://twitter.com/search?q=Jordhy+Thompson) | N/A |
-| 7 | [#tstxtntsports](http://twitter.com/search?q=%23tstxtntsports) | N/A |
-| 8 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 9 | [Hugo Gutiérrez](http://twitter.com/search?q=Hugo+Guti%c3%a9rrez) | N/A |
-| 10 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 11 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 3 | [Felipe Flores](http://twitter.com/search?q=Felipe+Flores) | N/A |
+| 4 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 5 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
+| 6 | [#BoricDesastreParaChile](http://twitter.com/search?q=%23BoricDesastreParaChile) | N/A |
+| 7 | [Jordhy Thompson](http://twitter.com/search?q=Jordhy+Thompson) | N/A |
+| 8 | [Hugo Gutiérrez](http://twitter.com/search?q=Hugo+Guti%c3%a9rrez) | N/A |
+| 9 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 10 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 12 | [K-Pop Primera Línea](http://twitter.com/search?q=K-Pop+Primera+L%c3%adnea) | N/A |
-| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 14 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 13 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 14 | [Cárdenas](http://twitter.com/search?q=C%c3%a1rdenas) | N/A |
 | 15 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 16 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
+| 16 | [Willow](http://twitter.com/search?q=Willow) | N/A |
 | 17 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 18 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 19 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 20 | [El Pirómano](http://twitter.com/search?q=El+Pir%c3%b3mano) | N/A |
-| 21 | [Tom Cruise](http://twitter.com/search?q=Tom+Cruise) | N/A |
-| 22 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 23 | [Anto Larraín](http://twitter.com/search?q=Anto+Larra%c3%adn) | N/A |
-| 24 | [Alex Salazar](http://twitter.com/search?q=Alex+Salazar) | N/A |
-| 25 | [Evopoli](http://twitter.com/search?q=Evopoli) | N/A |
-| 26 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 18 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
+| 19 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 20 | [Tom Cruise](http://twitter.com/search?q=Tom+Cruise) | N/A |
+| 21 | [Alex Salazar](http://twitter.com/search?q=Alex+Salazar) | N/A |
+| 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 23 | [El Pirómano](http://twitter.com/search?q=El+Pir%c3%b3mano) | N/A |
+| 24 | [Evopoli](http://twitter.com/search?q=Evopoli) | N/A |
+| 25 | [Anto Larraín](http://twitter.com/search?q=Anto+Larra%c3%adn) | N/A |
+| 26 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
 | 27 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 28 | [Concepción](http://twitter.com/search?q=Concepci%c3%b3n) | N/A |
-| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 28 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
+| 29 | [Cariola](http://twitter.com/search?q=Cariola) | N/A |
 | 30 | [Laura Pausini](http://twitter.com/search?q=Laura+Pausini) | N/A |
-| 31 | [Cariola](http://twitter.com/search?q=Cariola) | N/A |
-| 32 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 34 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 35 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
+| 31 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 32 | [Concepción](http://twitter.com/search?q=Concepci%c3%b3n) | N/A |
+| 33 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 34 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 35 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
 | 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 37 | [Colchane](http://twitter.com/search?q=Colchane) | N/A |
-| 38 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 39 | [Visibilidad Lésbica](http://twitter.com/search?q=Visibilidad+L%c3%a9sbica) | N/A |
-| 40 | [Ximena Rincón](http://twitter.com/search?q=Ximena+Rinc%c3%b3n) | N/A |
-| 41 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 42 | [Mónica Briones](http://twitter.com/search?q=M%c3%b3nica+Briones) | N/A |
+| 40 | [Colchane](http://twitter.com/search?q=Colchane) | N/A |
+| 41 | [Tohá](http://twitter.com/search?q=Toh%c3%a1) | N/A |
+| 42 | [Ximena Rincón](http://twitter.com/search?q=Ximena+Rinc%c3%b3n) | N/A |
 | 43 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 44 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
-| 45 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
-| 48 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 44 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 45 | [Nueva Zelanda](http://twitter.com/search?q=Nueva+Zelanda) | N/A |
+| 46 | [Jorge Castillo](http://twitter.com/search?q=Jorge+Castillo) | N/A |
+| 47 | [Mónica Briones](http://twitter.com/search?q=M%c3%b3nica+Briones) | N/A |
+| 48 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 
 
 

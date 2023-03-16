@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-16 01:44:18 UTC`
+📆 Last Updated: `2023-03-16 02:36:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 2 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 3 | [Fletcher Cox](http://twitter.com/search?q=Fletcher+Cox) | N/A |
-| 4 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 5 | [Eagle](http://twitter.com/search?q=Eagle) | N/A |
-| 6 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 8 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
-| 9 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 10 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 11 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 12 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 13 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 14 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
-| 15 | [Taya](http://twitter.com/search?q=Taya) | N/A |
-| 16 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 17 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 18 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 19 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 20 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 21 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 22 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 23 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
-| 24 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 25 | [Julio Rodriguez](http://twitter.com/search?q=Julio+Rodriguez) | N/A |
-| 26 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 27 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
-| 28 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 29 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 30 | [Stu Grayson](http://twitter.com/search?q=Stu+Grayson) | N/A |
-| 31 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 32 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 33 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 34 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 35 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
-| 36 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
-| 37 | [Morehead State](http://twitter.com/search?q=Morehead+State) | N/A |
-| 38 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 39 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 40 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 41 | [James Robinson](http://twitter.com/search?q=James+Robinson) | N/A |
-| 42 | [Lee Daniels](http://twitter.com/search?q=Lee+Daniels) | N/A |
-| 43 | [Jade Cargill](http://twitter.com/search?q=Jade+Cargill) | N/A |
-| 44 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 45 | [Brownell](http://twitter.com/search?q=Brownell) | N/A |
-| 46 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
-| 47 | [Mattison](http://twitter.com/search?q=Mattison) | N/A |
-| 48 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 49 | [Double J](http://twitter.com/search?q=Double+J) | N/A |
-| 50 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
+| 1 | [#Sixers](http://twitter.com/search?q=%23Sixers) | N/A |
+| 2 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
+| 3 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 4 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 5 | [Fletch](http://twitter.com/search?q=Fletch) | N/A |
+| 6 | [Miles Sanders](http://twitter.com/search?q=Miles+Sanders) | N/A |
+| 7 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 8 | [Eagle](http://twitter.com/search?q=Eagle) | N/A |
+| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 10 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 11 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 12 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
+| 13 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 14 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 15 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 16 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 17 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 18 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 19 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 20 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 21 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 22 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
+| 23 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 24 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 25 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 26 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 27 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 28 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 29 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 30 | [Taya](http://twitter.com/search?q=Taya) | N/A |
+| 31 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 32 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 33 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 34 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 35 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 36 | [Steve Alford](http://twitter.com/search?q=Steve+Alford) | N/A |
+| 37 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 38 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 39 | [Charli](http://twitter.com/search?q=Charli) | N/A |
+| 40 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
+| 41 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 42 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 43 | [Mamamoo](http://twitter.com/search?q=Mamamoo) | N/A |
+| 44 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 45 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 46 | [James Robinson](http://twitter.com/search?q=James+Robinson) | N/A |
+| 47 | [The Elite](http://twitter.com/search?q=The+Elite) | The Elite is a term used to refer to a group of people who are considered to be the most powerful, influential, or successful in a particular field or society. It can also refer to those who have achieved the highest level of social or economic status. |
+| 48 | [PJ Walker](http://twitter.com/search?q=PJ+Walker) | N/A |
+| 49 | [Hangman](http://twitter.com/search?q=Hangman) | Hangman is a classic word guessing game. The goal of the game is to guess the hidden word before the man is "hung" (all parts of his body are drawn). The player guesses one letter at a time, and if the letter is not in the word, then a part of the man's body is drawn. If all parts of the man's body are drawn before the word is guessed, then the player loses. |
+| 50 | [Danni](http://twitter.com/search?q=Danni) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-16 01:44:28 UTC`
+📆 Last Updated: `2023-03-16 02:36:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,34 +37,34 @@ This is top 50 for Switzerland
 | 20 | [Corona](http://twitter.com/search?q=Corona) | N/A |
 | 21 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
 | 22 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 23 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 23 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
 | 24 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
 | 25 | [Wald](http://twitter.com/search?q=Wald) | N/A |
 | 26 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 27 | [Raum](http://twitter.com/search?q=Raum) | N/A |
 | 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 30 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 31 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 32 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 33 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 34 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 35 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 36 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 37 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 38 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 39 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 40 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 41 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 43 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 44 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 45 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 46 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 47 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 48 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 49 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
-| 50 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 30 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 31 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 32 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 33 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 34 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 35 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 36 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 37 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 38 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 39 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 40 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 42 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 43 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 44 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 45 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 46 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 47 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 48 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 49 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 50 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
 
 
 

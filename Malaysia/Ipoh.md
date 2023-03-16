@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-03-16 01:43:58 UTC`
+📆 Last Updated: `2023-03-16 02:35:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [#hirunkit_](http://twitter.com/search?q=%23hirunkit_) | N/A |
 | 6 | [#ferragamo](http://twitter.com/search?q=%23ferragamo) | N/A |
-| 7 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 8 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 9 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 10 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 11 | [you mean the world to me](http://twitter.com/search?q=you+mean+the+world+to+me) | N/A |
-| 12 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 13 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 14 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 7 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 8 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 9 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 10 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 12 | [you mean the world to me](http://twitter.com/search?q=you+mean+the+world+to+me) | N/A |
+| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 14 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 16 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 17 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
 | 18 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 19 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 21 | [chiasoh](http://twitter.com/search?q=chiasoh) | N/A |
-| 22 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 23 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 20 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 21 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 22 | [chiasoh](http://twitter.com/search?q=chiasoh) | N/A |
+| 23 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 24 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 26 | [putri dahlia](http://twitter.com/search?q=putri+dahlia) | N/A |
-| 27 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 27 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 | 28 | [jinki](http://twitter.com/search?q=jinki) | N/A |
 | 29 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 30 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 31 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 32 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
-| 33 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 34 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 35 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 36 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 37 | [zii jia](http://twitter.com/search?q=zii+jia) | N/A |
-| 38 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 40 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 41 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 42 | [jongup](http://twitter.com/search?q=jongup) | N/A |
-| 43 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 44 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 45 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 46 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
-| 47 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 48 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
-| 49 | [Riki](http://twitter.com/search?q=Riki) | N/A |
+| 30 | [Chanwoo](http://twitter.com/search?q=Chanwoo) | N/A |
+| 31 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 32 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 33 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 34 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 35 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
+| 36 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 37 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 38 | [Zii Jia](http://twitter.com/search?q=Zii+Jia) | N/A |
+| 39 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 40 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 41 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 42 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 43 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 44 | [jongup](http://twitter.com/search?q=jongup) | N/A |
+| 45 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 46 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 47 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 48 | [day6](http://twitter.com/search?q=day6) | N/A |
+| 49 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
 
 
 

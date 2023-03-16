@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-16 01:43:36 UTC`
+📆 Last Updated: `2023-03-16 02:35:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
-| 2 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 3 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 4 | [#JovenesEnMovimiento](http://twitter.com/search?q=%23JovenesEnMovimiento) | N/A |
-| 5 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
-| 6 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 7 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 8 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 9 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 10 | [#enhorabuenavive](http://twitter.com/search?q=%23enhorabuenavive) | N/A |
-| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 14 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 15 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 16 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 17 | [Omar Núñez](http://twitter.com/search?q=Omar+N%c3%ba%c3%b1ez) | N/A |
-| 18 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 19 | [Alejandro Encinas](http://twitter.com/search?q=Alejandro+Encinas) | N/A |
-| 20 | [Tomás Yarrington](http://twitter.com/search?q=Tom%c3%a1s+Yarrington) | N/A |
-| 21 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 22 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 23 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 24 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 26 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 27 | [10-3 a Canadá](http://twitter.com/search?q=10-3+a+Canad%c3%a1) | N/A |
-| 28 | [GAME OVER](http://twitter.com/search?q=GAME+OVER) | N/A |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 31 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 32 | [Cuartos de Final](http://twitter.com/search?q=Cuartos+de+Final) | N/A |
-| 33 | [Carla Humphrey](http://twitter.com/search?q=Carla+Humphrey) | N/A |
-| 34 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 35 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
-| 36 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 37 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 38 | [Cordova](http://twitter.com/search?q=Cordova) | N/A |
-| 39 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 40 | [Damián Alcázar](http://twitter.com/search?q=Dami%c3%a1n+Alc%c3%a1zar) | N/A |
-| 41 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 42 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 43 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 44 | [#TatatiuEnConvoy](http://twitter.com/search?q=%23TatatiuEnConvoy) | N/A |
-| 45 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 46 | [#ladofdefrankenvivo](http://twitter.com/search?q=%23ladofdefrankenvivo) | N/A |
-| 47 | [#TecatePalNorte](http://twitter.com/search?q=%23TecatePalNorte) | N/A |
-| 48 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 49 | [#FueraElJudasDeMonreal](http://twitter.com/search?q=%23FueraElJudasDeMonreal) | N/A |
-| 50 | [#DragonBallZ](http://twitter.com/search?q=%23DragonBallZ) | N/A |
+| 1 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 2 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 3 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
+| 4 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 5 | [#JovenesEnMovimiento](http://twitter.com/search?q=%23JovenesEnMovimiento) | N/A |
+| 6 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
+| 7 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
+| 8 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 9 | [Gallese](http://twitter.com/search?q=Gallese) | N/A |
+| 10 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 11 | [#Apagon](http://twitter.com/search?q=%23Apagon) | N/A |
+| 12 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 13 | [#MásDebatesMásDemocracia](http://twitter.com/search?q=%23M%c3%a1sDebatesM%c3%a1sDemocracia) | N/A |
+| 14 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 15 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 16 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
+| 17 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 19 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 22 | [Omar Núñez](http://twitter.com/search?q=Omar+N%c3%ba%c3%b1ez) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 25 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 26 | [Narvarte](http://twitter.com/search?q=Narvarte) | N/A |
+| 27 | [Tomás Yarrington](http://twitter.com/search?q=Tom%c3%a1s+Yarrington) | N/A |
+| 28 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 29 | [Alejandro Encinas](http://twitter.com/search?q=Alejandro+Encinas) | N/A |
+| 30 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 31 | [Rescate](http://twitter.com/search?q=Rescate) | N/A |
+| 32 | [10-3 a Canadá](http://twitter.com/search?q=10-3+a+Canad%c3%a1) | N/A |
+| 33 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 35 | [GAME OVER](http://twitter.com/search?q=GAME+OVER) | N/A |
+| 36 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 37 | [Chapultepec](http://twitter.com/search?q=Chapultepec) | N/A |
+| 38 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 39 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 40 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 42 | [Cuartos de Final](http://twitter.com/search?q=Cuartos+de+Final) | N/A |
+| 43 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 44 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 45 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 46 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 47 | [Carla Humphrey](http://twitter.com/search?q=Carla+Humphrey) | N/A |
+| 48 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
+| 49 | [Damián Alcázar](http://twitter.com/search?q=Dami%c3%a1n+Alc%c3%a1zar) | N/A |
+| 50 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 
 
 

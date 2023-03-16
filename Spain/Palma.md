@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-16 01:43:50 UTC`
+📆 Last Updated: `2023-03-16 02:35:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 3 | [#elconquis9ETB](http://twitter.com/search?q=%23elconquis9ETB) | N/A |
-| 4 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
-| 5 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 6 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 7 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 8 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 9 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
-| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 11 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
-| 12 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 13 | [Culos](http://twitter.com/search?q=Culos) | N/A |
-| 14 | [#DiasDeTele](http://twitter.com/search?q=%23DiasDeTele) | N/A |
-| 15 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 16 | [#PlanetaCalleja](http://twitter.com/search?q=%23PlanetaCalleja) | N/A |
-| 17 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 18 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
-| 19 | [#firstdates15m](http://twitter.com/search?q=%23firstdates15m) | N/A |
-| 20 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 21 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 22 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
-| 23 | [Killer](http://twitter.com/search?q=Killer) | N/A |
-| 24 | [Santiago Bernabéu](http://twitter.com/search?q=Santiago+Bernab%c3%a9u) | N/A |
-| 25 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
-| 26 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 27 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
-| 28 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 29 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 30 | [Nemo](http://twitter.com/search?q=Nemo) | N/A |
-| 31 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 32 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 33 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
-| 34 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 35 | [The Mandalorian](http://twitter.com/search?q=The+Mandalorian) | N/A |
-| 36 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
-| 37 | [Dalí](http://twitter.com/search?q=Dal%c3%ad) | N/A |
-| 38 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 39 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 40 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 41 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 42 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 43 | [#LaNoche24h](http://twitter.com/search?q=%23LaNoche24h) | N/A |
-| 44 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 45 | [#Pasapalabra725](http://twitter.com/search?q=%23Pasapalabra725) | N/A |
+| 1 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
+| 2 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Ossorio](http://twitter.com/search?q=Ossorio) | N/A |
+| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 7 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 9 | [#CasadelLibro200](http://twitter.com/search?q=%23CasadelLibro200) | N/A |
+| 10 | [Juan Roig](http://twitter.com/search?q=Juan+Roig) | N/A |
+| 11 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 12 | [#elconquis9ETB](http://twitter.com/search?q=%23elconquis9ETB) | N/A |
+| 13 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [#TierraDeNadie2](http://twitter.com/search?q=%23TierraDeNadie2) | N/A |
+| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 17 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
+| 18 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 20 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 21 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 22 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 23 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 25 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 26 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 28 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 29 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Buscando a Nemo](http://twitter.com/search?q=Buscando+a+Nemo) | N/A |
+| 32 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 33 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
+| 34 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
+| 35 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 36 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
+| 37 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 38 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 39 | [Culos](http://twitter.com/search?q=Culos) | N/A |
+| 40 | [Ley Mordaza](http://twitter.com/search?q=Ley+Mordaza) | N/A |
+| 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 42 | [Alfonso Guerra](http://twitter.com/search?q=Alfonso+Guerra) | N/A |
+| 43 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 44 | [Jorge Javier](http://twitter.com/search?q=Jorge+Javier) | N/A |
+| 45 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
+| 46 | [EBAU](http://twitter.com/search?q=EBAU) | N/A |
+| 47 | [Bleach](http://twitter.com/search?q=Bleach) | N/A |
+| 48 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-16 01:44:21 UTC`
+📆 Last Updated: `2023-03-16 02:36:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,18 +30,18 @@ This is top 50 for Austria
 | 13 | [Lage](http://twitter.com/search?q=Lage) | N/A |
 | 14 | [burgenland](http://twitter.com/search?q=burgenland) | N/A |
 | 15 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
-| 16 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
-| 17 | [#RendiWagner](http://twitter.com/search?q=%23RendiWagner) | N/A |
-| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 19 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 20 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 16 | [#RendiWagner](http://twitter.com/search?q=%23RendiWagner) | N/A |
+| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 18 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
+| 19 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 20 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
 | 21 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 22 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 23 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 24 | [Konsequenzen](http://twitter.com/search?q=Konsequenzen) | N/A |
-| 25 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
-| 26 | [Druck](http://twitter.com/search?q=Druck) | N/A |
-| 27 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 22 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 23 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 24 | [sozialdemokratie](http://twitter.com/search?q=sozialdemokratie) | N/A |
+| 25 | [Druck](http://twitter.com/search?q=Druck) | N/A |
+| 26 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 27 | [Konsequenzen](http://twitter.com/search?q=Konsequenzen) | N/A |
 | 28 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
 | 29 | [Programm](http://twitter.com/search?q=Programm) | N/A |
 | 30 | [Fällen](http://twitter.com/search?q=F%c3%a4llen) | N/A |

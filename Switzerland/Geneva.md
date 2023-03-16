@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-16 01:43:51 UTC`
+📆 Last Updated: `2023-03-16 02:35:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,11 +24,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
 | 8 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 9 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 10 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 11 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
-| 12 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 13 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 10 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 11 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 12 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
+| 13 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 14 | [Russen](http://twitter.com/search?q=Russen) | N/A |
 | 15 | [Berne](http://twitter.com/search?q=Berne) | N/A |
 | 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
@@ -42,27 +42,27 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 25 | [Raum](http://twitter.com/search?q=Raum) | N/A |
 | 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 29 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 30 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 31 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 32 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 33 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 34 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 35 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 36 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 37 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 38 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 39 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 41 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 42 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 43 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 44 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 45 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 46 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 47 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
-| 48 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 28 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 29 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 30 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 31 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 32 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 33 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 34 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 35 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 36 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 37 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 38 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 40 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 41 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 42 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 43 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 44 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 45 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 46 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 47 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 48 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
 
 
 

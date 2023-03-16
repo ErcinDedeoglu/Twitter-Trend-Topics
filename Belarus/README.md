@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-16 01:44:22 UTC`
+📆 Last Updated: `2023-03-16 02:36:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,20 +27,20 @@ This is top 50 for Belarus
 | 10 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
 | 11 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
 | 12 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 13 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 14 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 15 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 16 | [#nftart](http://twitter.com/search?q=%23nftart) | N/A |
-| 17 | [бресте](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
-| 18 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 13 | [понимаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 14 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 15 | [#nftart](http://twitter.com/search?q=%23nftart) | N/A |
+| 16 | [бресте](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
+| 17 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 18 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 19 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
 | 20 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
 | 21 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
-| 22 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 22 | [жаль](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d1%8c) | N/A |
 | 23 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 24 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
 | 25 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 26 | [Минск](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
+| 26 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 | 27 | [оооо](http://twitter.com/search?q=%d0%be%d0%be%d0%be%d0%be) | N/A |
 | 28 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
 

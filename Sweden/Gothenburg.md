@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-16 01:43:51 UTC`
+📆 Last Updated: `2023-03-16 02:35:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Sweden](</Sweden>)
 | 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 4 | [#hv71](http://twitter.com/search?q=%23hv71) | N/A |
 | 5 | [Cajuste](http://twitter.com/search?q=Cajuste) | N/A |
-| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Barbro Westerholm](http://twitter.com/search?q=Barbro+Westerholm) | N/A |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [montén](http://twitter.com/search?q=mont%c3%a9n) | N/A |
-| 11 | [Janne](http://twitter.com/search?q=Janne) | N/A |
-| 12 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 13 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 14 | [Willys](http://twitter.com/search?q=Willys) | N/A |
-| 15 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 16 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 17 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
-| 18 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 6 | [Barbro Westerholm](http://twitter.com/search?q=Barbro+Westerholm) | N/A |
+| 7 | [montén](http://twitter.com/search?q=mont%c3%a9n) | N/A |
+| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 9 | [Janne](http://twitter.com/search?q=Janne) | N/A |
+| 10 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 13 | [Willys](http://twitter.com/search?q=Willys) | N/A |
+| 14 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 15 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 16 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
+| 17 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 19 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
-| 20 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 22 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
-| 23 | [MeToo](http://twitter.com/search?q=MeToo) | N/A |
-| 24 | [Busch](http://twitter.com/search?q=Busch) | N/A |
-| 25 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [Riksbanken](http://twitter.com/search?q=Riksbanken) | N/A |
-| 29 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 30 | [Kadhammar](http://twitter.com/search?q=Kadhammar) | N/A |
-| 31 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 32 | [Eneroth](http://twitter.com/search?q=Eneroth) | N/A |
-| 33 | [Stina Oscarsons](http://twitter.com/search?q=Stina+Oscarsons) | N/A |
-| 34 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 35 | [poznan](http://twitter.com/search?q=poznan) | N/A |
-| 36 | [First Aid Kit](http://twitter.com/search?q=First+Aid+Kit) | N/A |
-| 37 | [troligen](http://twitter.com/search?q=troligen) | N/A |
-| 38 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 39 | [nubben](http://twitter.com/search?q=nubben) | N/A |
-| 40 | [kristersson](http://twitter.com/search?q=kristersson) | N/A |
-| 41 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 43 | [Trist](http://twitter.com/search?q=Trist) | N/A |
-| 44 | [snygg](http://twitter.com/search?q=snygg) | N/A |
-| 45 | [Östersjön](http://twitter.com/search?q=%c3%96stersj%c3%b6n) | N/A |
-| 46 | [Wien](http://twitter.com/search?q=Wien) | N/A |
-| 47 | [Olsson](http://twitter.com/search?q=Olsson) | N/A |
-| 48 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
+| 20 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
+| 21 | [Metoo](http://twitter.com/search?q=Metoo) | N/A |
+| 22 | [Busch](http://twitter.com/search?q=Busch) | N/A |
+| 23 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Riksbanken](http://twitter.com/search?q=Riksbanken) | N/A |
+| 26 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 27 | [kadhammar](http://twitter.com/search?q=kadhammar) | N/A |
+| 28 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 29 | [eneroth](http://twitter.com/search?q=eneroth) | N/A |
+| 30 | [Stina Oscarsons](http://twitter.com/search?q=Stina+Oscarsons) | N/A |
+| 31 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 32 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 33 | [poznan](http://twitter.com/search?q=poznan) | N/A |
+| 34 | [First Aid Kit](http://twitter.com/search?q=First+Aid+Kit) | N/A |
+| 35 | [troligen](http://twitter.com/search?q=troligen) | N/A |
+| 36 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 37 | [nubben](http://twitter.com/search?q=nubben) | N/A |
+| 38 | [kristersson](http://twitter.com/search?q=kristersson) | N/A |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 41 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 42 | [snygg](http://twitter.com/search?q=snygg) | N/A |
+| 43 | [östersjön](http://twitter.com/search?q=%c3%b6stersj%c3%b6n) | N/A |
+| 44 | [Wien](http://twitter.com/search?q=Wien) | N/A |
+| 45 | [Olsson](http://twitter.com/search?q=Olsson) | N/A |
+| 46 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 47 | [belgien](http://twitter.com/search?q=belgien) | N/A |
+| 48 | [ekdal](http://twitter.com/search?q=ekdal) | N/A |
 
 
 

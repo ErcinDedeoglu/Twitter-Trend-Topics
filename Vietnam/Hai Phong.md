@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-16 01:44:00 UTC`
+📆 Last Updated: `2023-03-16 02:35:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 5 | [#BeYourOwnBOSS](http://twitter.com/search?q=%23BeYourOwnBOSS) | N/A |
 | 6 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
 | 7 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 8 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 9 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 10 | [#GMMTVtreatPondPhuwinbetter](http://twitter.com/search?q=%23GMMTVtreatPondPhuwinbetter) | N/A |
-| 11 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
-| 12 | [ace karina at hyperline osaka](http://twitter.com/search?q=ace+karina+at+hyperline+osaka) | N/A |
-| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 14 | [fuyuko charms osaka](http://twitter.com/search?q=fuyuko+charms+osaka) | N/A |
-| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 8 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 9 | [#gmmtvtreatpondphuwinbetter](http://twitter.com/search?q=%23gmmtvtreatpondphuwinbetter) | N/A |
+| 10 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
+| 11 | [ace karina at hyperline osaka](http://twitter.com/search?q=ace+karina+at+hyperline+osaka) | N/A |
+| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 13 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [fuyuko charms osaka](http://twitter.com/search?q=fuyuko+charms+osaka) | N/A |
 | 16 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 17 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 18 | [Thai](http://twitter.com/search?q=Thai) | N/A |
-| 19 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
-| 20 | [trong](http://twitter.com/search?q=trong) | N/A |
-| 21 | [xin 1](http://twitter.com/search?q=xin+1) | N/A |
+| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 18 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 19 | [Thai](http://twitter.com/search?q=Thai) | N/A |
+| 20 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
+| 21 | [trong](http://twitter.com/search?q=trong) | N/A |
 | 22 | [Hook](http://twitter.com/search?q=Hook) | N/A |
 | 23 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 24 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
-| 25 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 26 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 27 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 28 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 29 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 30 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 31 | [vietravel - vietravel](http://twitter.com/search?q=vietravel+-+vietravel) | N/A |
-| 32 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 33 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 34 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 35 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 24 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 25 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 26 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 27 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
+| 28 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 29 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
+| 30 | [Xin 1](http://twitter.com/search?q=Xin+1) | N/A |
+| 31 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 32 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 33 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 34 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 35 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
 | 36 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
 | 37 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
 | 38 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
-| 39 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
-| 40 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 41 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 42 | [xinh](http://twitter.com/search?q=xinh) | N/A |
-| 43 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 44 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 45 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
-| 46 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
-| 47 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
-| 48 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 49 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 50 | [giống](http://twitter.com/search?q=gi%e1%bb%91ng) | N/A |
+| 39 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 40 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 41 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 42 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
+| 43 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
+| 44 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
+| 45 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 46 | [giống](http://twitter.com/search?q=gi%e1%bb%91ng) | N/A |
+| 47 | [Kols](http://twitter.com/search?q=Kols) | N/A |
+| 48 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 49 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
+| 50 | [Proof](http://twitter.com/search?q=Proof) | N/A |
 
 
 

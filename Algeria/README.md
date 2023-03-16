@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-16 01:44:21 UTC`
+📆 Last Updated: `2023-03-16 02:36:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,11 +18,11 @@ This is top 50 for Algeria
 | 1 | [#تبون_يمثلني](http://twitter.com/search?q=%23%d8%aa%d8%a8%d9%88%d9%86_%d9%8a%d9%85%d8%ab%d9%84%d9%86%d9%8a) | N/A |
 | 2 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
 | 3 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 4 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 4 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
 | 5 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 6 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 7 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 9 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
 | 10 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
 | 11 | [#رمضانك_مع_المجد](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%83_%d9%85%d8%b9_%d8%a7%d9%84%d9%85%d8%ac%d8%af) | N/A |
@@ -48,11 +48,11 @@ This is top 50 for Algeria
 | 31 | [ياسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
 | 32 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
 | 33 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 34 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 35 | [البحر الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
-| 36 | [الانكار العلني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%83%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%86%d9%8a) | N/A |
-| 37 | [المكتب التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
-| 38 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 34 | [البحر الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
+| 35 | [الانكار العلني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%83%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%86%d9%8a) | N/A |
+| 36 | [المكتب التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
+| 37 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 38 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 39 | [البرتغال](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84) | N/A |
 | 40 | [نور الجزايريه](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 41 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |

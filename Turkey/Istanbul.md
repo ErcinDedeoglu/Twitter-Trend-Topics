@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-16 01:44:11 UTC`
+📆 Last Updated: `2023-03-16 02:35:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,36 +29,36 @@ This is top 50 for [Turkey](</Turkey>)
 | 12 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
 | 13 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
 | 14 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
-| 15 | [Milletvekili](http://twitter.com/search?q=Milletvekili) | N/A |
-| 16 | [servet kuş](http://twitter.com/search?q=servet+ku%c5%9f) | N/A |
-| 17 | [abdurrahmandelen](http://twitter.com/search?q=abdurrahmandelen) | N/A |
+| 15 | [servet kuş](http://twitter.com/search?q=servet+ku%c5%9f) | N/A |
+| 16 | [abdurrahmandelen](http://twitter.com/search?q=abdurrahmandelen) | N/A |
+| 17 | [Milletvekili](http://twitter.com/search?q=Milletvekili) | N/A |
 | 18 | [patnoscezaevi suçişliyor](http://twitter.com/search?q=patnoscezaevi+su%c3%a7i%c5%9fliyor) | N/A |
 | 19 | [Fahriye Yıldırım](http://twitter.com/search?q=Fahriye+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
 | 20 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 21 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 22 | [VerinArtık Denkliğimizi](http://twitter.com/search?q=VerinArt%c4%b1k+Denkli%c4%9fimizi) | N/A |
+| 22 | [verinartık denkliğimizi](http://twitter.com/search?q=verinart%c4%b1k+denkli%c4%9fimizi) | N/A |
 | 23 | [adaletiçinşimdi](http://twitter.com/search?q=adaleti%c3%a7in%c5%9fimdi) | N/A |
 | 24 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
 | 25 | [RTEAffı GönülleriKazanır](http://twitter.com/search?q=RTEAff%c4%b1+G%c3%b6n%c3%bclleriKazan%c4%b1r) | N/A |
 | 26 | [35yaşsınırı torbayasaya](http://twitter.com/search?q=35ya%c5%9fs%c4%b1n%c4%b1r%c4%b1+torbayasaya) | N/A |
-| 27 | [Topunuza Karşı Erdoğan](http://twitter.com/search?q=Topunuza+Kar%c5%9f%c4%b1+Erdo%c4%9fan) | N/A |
-| 28 | [Dere](http://twitter.com/search?q=Dere) | N/A |
+| 27 | [Dere](http://twitter.com/search?q=Dere) | N/A |
+| 28 | [Rahmi Doğan](http://twitter.com/search?q=Rahmi+Do%c4%9fan) | N/A |
 | 29 | [Selden](http://twitter.com/search?q=Selden) | N/A |
 | 30 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 31 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 32 | [alparslanhocaya telefonyasağı](http://twitter.com/search?q=alparslanhocaya+telefonyasa%c4%9f%c4%b1) | N/A |
+| 31 | [alparslanhocaya telefonyasağı](http://twitter.com/search?q=alparslanhocaya+telefonyasa%c4%9f%c4%b1) | N/A |
+| 32 | [Kader](http://twitter.com/search?q=Kader) | N/A |
 | 33 | [Dikili Foca](http://twitter.com/search?q=Dikili+Foca) | N/A |
-| 34 | [Dokunulmazlık](http://twitter.com/search?q=Dokunulmazl%c4%b1k) | N/A |
-| 35 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
-| 36 | [Kuecuekpark](http://twitter.com/search?q=Kuecuekpark) | N/A |
-| 37 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 38 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
-| 39 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 40 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 41 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
-| 42 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 43 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 44 | [Mustafa Şen](http://twitter.com/search?q=Mustafa+%c5%9een) | N/A |
+| 34 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
+| 35 | [Kuecuekpark](http://twitter.com/search?q=Kuecuekpark) | N/A |
+| 36 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
+| 37 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 38 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 39 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
+| 40 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 41 | [Dokunulmazlık](http://twitter.com/search?q=Dokunulmazl%c4%b1k) | N/A |
+| 42 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 43 | [Mustafa Şen](http://twitter.com/search?q=Mustafa+%c5%9een) | N/A |
+| 44 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 46 | [DenetimliHakkı Uygulanmıyor](http://twitter.com/search?q=DenetimliHakk%c4%b1+Uygulanm%c4%b1yor) | N/A |
 | 47 | [Milletiyle](http://twitter.com/search?q=Milletiyle) | N/A |

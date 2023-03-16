@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-16 01:44:19 UTC`
+📆 Last Updated: `2023-03-16 02:36:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [Chip](http://twitter.com/search?q=Chip) | N/A |
-| 3 | [HISD](http://twitter.com/search?q=HISD) | N/A |
-| 4 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 5 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
-| 6 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 9 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 10 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 11 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
-| 12 | [Deep Ellum](http://twitter.com/search?q=Deep+Ellum) | N/A |
-| 13 | [Houston ISD](http://twitter.com/search?q=Houston+ISD) | N/A |
-| 14 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 15 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
-| 16 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 17 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 18 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 19 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 20 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
-| 21 | [Taya](http://twitter.com/search?q=Taya) | N/A |
-| 22 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 23 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 24 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 25 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 26 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 27 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 28 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 29 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
-| 30 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 31 | [Julio Rodriguez](http://twitter.com/search?q=Julio+Rodriguez) | N/A |
-| 32 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 33 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
-| 34 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 35 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 36 | [Stu Grayson](http://twitter.com/search?q=Stu+Grayson) | N/A |
-| 37 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 38 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 39 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 40 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 41 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
-| 42 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
-| 43 | [Morehead State](http://twitter.com/search?q=Morehead+State) | N/A |
-| 44 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 45 | [James Robinson](http://twitter.com/search?q=James+Robinson) | N/A |
-| 46 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 47 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 48 | [Lee Daniels](http://twitter.com/search?q=Lee+Daniels) | N/A |
-| 49 | [Jade Cargill](http://twitter.com/search?q=Jade+Cargill) | N/A |
-| 50 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 4 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 5 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 6 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 7 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
+| 8 | [HISD](http://twitter.com/search?q=HISD) | N/A |
+| 9 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 10 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 11 | [Deep Ellum](http://twitter.com/search?q=Deep+Ellum) | N/A |
+| 12 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 13 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 16 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 17 | [Houston ISD](http://twitter.com/search?q=Houston+ISD) | N/A |
+| 18 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 19 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 20 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 21 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
+| 22 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 23 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 24 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 25 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 26 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 27 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 28 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 29 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 30 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
+| 31 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 32 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 33 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 34 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 35 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 36 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 37 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 38 | [Taya](http://twitter.com/search?q=Taya) | N/A |
+| 39 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 40 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 41 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 42 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 43 | [Steve Alford](http://twitter.com/search?q=Steve+Alford) | N/A |
+| 44 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 45 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 46 | [Charli](http://twitter.com/search?q=Charli) | N/A |
+| 47 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 48 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 49 | [Mamamoo](http://twitter.com/search?q=Mamamoo) | N/A |
+| 50 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
 
 
 

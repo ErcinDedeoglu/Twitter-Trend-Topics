@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-16 01:44:28 UTC`
+📆 Last Updated: `2023-03-16 02:36:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,14 +35,14 @@ This is top 50 for Ukraine
 | 18 | [скорее](http://twitter.com/search?q=%d1%81%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
 | 19 | [#healing](http://twitter.com/search?q=%23healing) | N/A |
 | 20 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 21 | [Пишу](http://twitter.com/search?q=%d0%9f%d0%b8%d1%88%d1%83) | N/A |
+| 21 | [пишу](http://twitter.com/search?q=%d0%bf%d0%b8%d1%88%d1%83) | N/A |
 | 22 | [#ЛигаЧемпионов](http://twitter.com/search?q=%23%d0%9b%d0%b8%d0%b3%d0%b0%d0%a7%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
 | 23 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
 | 24 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
 | 25 | [Soviet Union](http://twitter.com/search?q=Soviet+Union) | N/A |
 | 26 | [клас](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81) | N/A |
 | 27 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 28 | [норм](http://twitter.com/search?q=%d0%bd%d0%be%d1%80%d0%bc) | N/A |
+| 28 | [Норм](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc) | N/A |
 | 29 | [їбать](http://twitter.com/search?q=%d1%97%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
 | 30 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
 | 31 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for Ukraine
 | 38 | [Буде](http://twitter.com/search?q=%d0%91%d1%83%d0%b4%d0%b5) | N/A |
 | 39 | [гитлера](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
 | 40 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
-| 41 | [БПЛА](http://twitter.com/search?q=%d0%91%d0%9f%d0%9b%d0%90) | N/A |
+| 41 | [бпла](http://twitter.com/search?q=%d0%b1%d0%bf%d0%bb%d0%b0) | N/A |
 | 42 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
 | 43 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
 | 44 | [черным](http://twitter.com/search?q=%d1%87%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |

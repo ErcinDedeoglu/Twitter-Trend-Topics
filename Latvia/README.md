@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-16 01:44:25 UTC`
+📆 Last Updated: `2023-03-16 02:36:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for Latvia
 | 15 | [kāds](http://twitter.com/search?q=k%c4%81ds) | N/A |
 | 16 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
 | 17 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 18 | [bija](http://twitter.com/search?q=bija) | N/A |
+| 18 | ["Bija"](http://twitter.com/search?q=%22Bija%22) | N/A |
 | 19 | [laikam](http://twitter.com/search?q=laikam) | N/A |
 | 20 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
 | 21 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Latvia
 | 44 | [vajag](http://twitter.com/search?q=vajag) | N/A |
 | 45 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
 | 46 | [vismaz](http://twitter.com/search?q=vismaz) | N/A |
-| 47 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 47 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 48 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 50 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
