@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-16 04:16:54 UTC`
+📆 Last Updated: `2023-03-16 05:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 3 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 5 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 6 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
-| 7 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 8 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 9 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 10 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 11 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 12 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
-| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 15 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 16 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
-| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 18 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 19 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 20 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
-| 21 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 22 | [hacktätschli](http://twitter.com/search?q=hackt%c3%a4tschli) | N/A |
-| 23 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 24 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 25 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 26 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 27 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 28 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 29 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
-| 30 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 31 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 32 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 33 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 34 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 35 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 36 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 37 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
-| 38 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 39 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 40 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 41 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 42 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 44 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
-| 45 | [Drittel](http://twitter.com/search?q=Drittel) | N/A |
-| 46 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 48 | [Wortwahl](http://twitter.com/search?q=Wortwahl) | N/A |
+| 2 | [#hrc52](http://twitter.com/search?q=%23hrc52) | N/A |
+| 3 | [Swiss National Bank](http://twitter.com/search?q=Swiss+National+Bank) | N/A |
+| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 5 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 6 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 7 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 8 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 9 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 10 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 11 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
+| 12 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 13 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 14 | [Berne](http://twitter.com/search?q=Berne) | N/A |
+| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 16 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 17 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 18 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 19 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 20 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
+| 21 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 22 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 23 | [Raum](http://twitter.com/search?q=Raum) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 26 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 27 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 28 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 29 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 30 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 31 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 32 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 33 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 34 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 35 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 36 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 37 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 38 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 39 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 40 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 41 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 42 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 43 | [Regierungen](http://twitter.com/search?q=Regierungen) | N/A |
+| 44 | [Statement](http://twitter.com/search?q=Statement) | N/A |
+| 45 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 46 | [London](http://twitter.com/search?q=London) | N/A |
+| 47 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
+| 48 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
 
 
 

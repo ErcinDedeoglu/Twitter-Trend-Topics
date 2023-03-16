@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-16 04:17:30 UTC`
+📆 Last Updated: `2023-03-16 05:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Vietnam
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
-| 2 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 3 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 4 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 5 | [BOSS WITH RIKIMARU](http://twitter.com/search?q=BOSS+WITH+RIKIMARU) | N/A |
-| 6 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 7 | [#GMMTVtreatPondPhuwinbetter](http://twitter.com/search?q=%23GMMTVtreatPondPhuwinbetter) | N/A |
-| 8 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 2 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 3 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 4 | [#RikimaruxBossSS2023](http://twitter.com/search?q=%23RikimaruxBossSS2023) | N/A |
+| 5 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 6 | [#gmmtvtreatpondphuwinbetter](http://twitter.com/search?q=%23gmmtvtreatpondphuwinbetter) | N/A |
+| 7 | [#BeYourOwnBOSS](http://twitter.com/search?q=%23BeYourOwnBOSS) | N/A |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 9 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
-| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 11 | [#SetMeFree_Pt2_TeaserShorts](http://twitter.com/search?q=%23SetMeFree_Pt2_TeaserShorts) | N/A |
-| 12 | [#BeYourOwnBOSS](http://twitter.com/search?q=%23BeYourOwnBOSS) | N/A |
-| 13 | [ace karina at hyperline osaka](http://twitter.com/search?q=ace+karina+at+hyperline+osaka) | N/A |
+| 10 | [ace karina at hyperline osaka](http://twitter.com/search?q=ace+karina+at+hyperline+osaka) | N/A |
+| 11 | [#MaskSinger12](http://twitter.com/search?q=%23MaskSinger12) | N/A |
+| 12 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 13 | [fuyuko charms osaka](http://twitter.com/search?q=fuyuko+charms+osaka) | N/A |
 | 14 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 15 | [fuyuko charms osaka](http://twitter.com/search?q=fuyuko+charms+osaka) | N/A |
-| 16 | [$TRU](http://twitter.com/search?q=%24TRU) | N/A |
-| 17 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 19 | [Goerli](http://twitter.com/search?q=Goerli) | N/A |
-| 20 | [TUSD](http://twitter.com/search?q=TUSD) | N/A |
-| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 22 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 23 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 24 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 25 | [TO THE MOON](http://twitter.com/search?q=TO+THE+MOON) | N/A |
-| 26 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 27 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 28 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 29 | [trong](http://twitter.com/search?q=trong) | N/A |
-| 30 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
-| 31 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
-| 32 | [thời](http://twitter.com/search?q=th%e1%bb%9di) | N/A |
-| 33 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 35 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
-| 36 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 37 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 38 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 39 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 40 | [hiện](http://twitter.com/search?q=hi%e1%bb%87n) | N/A |
-| 41 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
-| 42 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 43 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
-| 44 | [Kols](http://twitter.com/search?q=Kols) | N/A |
-| 45 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 46 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 47 | [đảng](http://twitter.com/search?q=%c4%91%e1%ba%a3ng) | N/A |
-| 48 | [Proof](http://twitter.com/search?q=Proof) | N/A |
-| 49 | [Mile](http://twitter.com/search?q=Mile) | N/A |
-| 50 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 15 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 16 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 17 | [Thai](http://twitter.com/search?q=Thai) | N/A |
+| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 19 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 20 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
+| 21 | [trong](http://twitter.com/search?q=trong) | N/A |
+| 22 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 23 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 24 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 25 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 26 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
+| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 28 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
+| 29 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
+| 30 | [Xin 1](http://twitter.com/search?q=Xin+1) | N/A |
+| 31 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 32 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 33 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
+| 34 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
+| 35 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
+| 36 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 37 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
+| 38 | [Kols](http://twitter.com/search?q=Kols) | N/A |
+| 39 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 40 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
+| 41 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 42 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 43 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 44 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
+| 45 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 47 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 48 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
+| 49 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 50 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 
 
 

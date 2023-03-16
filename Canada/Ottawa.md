@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-16 04:16:35 UTC`
+📆 Last Updated: `2023-03-16 05:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 3 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 4 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 5 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 2 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 3 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 4 | [David Johnston](http://twitter.com/search?q=David+Johnston) | N/A |
+| 5 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
 | 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 7 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 8 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 9 | [David Johnston](http://twitter.com/search?q=David+Johnston) | N/A |
-| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 11 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 12 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 13 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 14 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 15 | [#COLvsTOR](http://twitter.com/search?q=%23COLvsTOR) | N/A |
-| 16 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 17 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 18 | [Governor General](http://twitter.com/search?q=Governor+General) | N/A |
-| 19 | [Coyne](http://twitter.com/search?q=Coyne) | N/A |
-| 20 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 21 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 22 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
-| 23 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
-| 24 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 25 | [islamophobia](http://twitter.com/search?q=islamophobia) | N/A |
-| 26 | [Seamus](http://twitter.com/search?q=Seamus) | N/A |
-| 27 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 28 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 29 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 30 | [Hooters](http://twitter.com/search?q=Hooters) | N/A |
-| 31 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
-| 32 | [Bettman](http://twitter.com/search?q=Bettman) | N/A |
-| 33 | [Independent](http://twitter.com/search?q=Independent) | N/A |
-| 34 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 36 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 37 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 38 | [#TrudeauDestroyingCanada](http://twitter.com/search?q=%23TrudeauDestroyingCanada) | N/A |
+| 7 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 8 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 10 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 12 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 13 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
+| 14 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 15 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 16 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 17 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 18 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 19 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 20 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 21 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 22 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 23 | [Governor General](http://twitter.com/search?q=Governor+General) | N/A |
+| 24 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 25 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 26 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 27 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 28 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
+| 29 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 30 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 31 | [Paul Arcand](http://twitter.com/search?q=Paul+Arcand) | N/A |
+| 32 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 33 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 34 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 35 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 36 | [Coyne](http://twitter.com/search?q=Coyne) | N/A |
+| 37 | [Lisa LaFlamme](http://twitter.com/search?q=Lisa+LaFlamme) | N/A |
+| 38 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 39 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 40 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 41 | [louisette dussault](http://twitter.com/search?q=louisette+dussault) | N/A |
+| 42 | [Carson Briere](http://twitter.com/search?q=Carson+Briere) | N/A |
+| 43 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
+| 44 | [otto lopez](http://twitter.com/search?q=otto+lopez) | N/A |
+| 45 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
+| 46 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 47 | [Gravy](http://twitter.com/search?q=Gravy) | N/A |
+| 48 | [Ron Hextall](http://twitter.com/search?q=Ron+Hextall) | N/A |
+| 49 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 50 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
 
 
 

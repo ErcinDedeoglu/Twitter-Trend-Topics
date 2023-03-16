@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-16 04:17:06 UTC`
+📆 Last Updated: `2023-03-16 05:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,49 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 3 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 4 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
+| 4 | [#ItCanBe](http://twitter.com/search?q=%23ItCanBe) | N/A |
 | 5 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 6 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 6 | [SANTACO](http://twitter.com/search?q=SANTACO) | N/A |
 | 7 | [Lungile Phenyane](http://twitter.com/search?q=Lungile+Phenyane) | N/A |
-| 8 | [Santaco](http://twitter.com/search?q=Santaco) | N/A |
-| 9 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 10 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 11 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 12 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 8 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 9 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 10 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 11 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 12 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 13 | [Savings](http://twitter.com/search?q=Savings) | N/A |
-| 14 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 15 | [amanda black](http://twitter.com/search?q=amanda+black) | N/A |
-| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 17 | [Adriaan](http://twitter.com/search?q=Adriaan) | N/A |
-| 18 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 20 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 21 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 22 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 23 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
-| 24 | [STAR BOY JUICY JAY](http://twitter.com/search?q=STAR+BOY+JUICY+JAY) | N/A |
-| 25 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 26 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 14 | [amanda black](http://twitter.com/search?q=amanda+black) | N/A |
+| 15 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 16 | [Adriaan](http://twitter.com/search?q=Adriaan) | N/A |
+| 17 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 20 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 21 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
+| 22 | [STAR BOY JUICY JAY](http://twitter.com/search?q=STAR+BOY+JUICY+JAY) | N/A |
+| 23 | [Faith Nketsi](http://twitter.com/search?q=Faith+Nketsi) | N/A |
+| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 25 | [Namibia](http://twitter.com/search?q=Namibia) | N/A |
+| 26 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
 | 27 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 28 | [Faith Nketsi](http://twitter.com/search?q=Faith+Nketsi) | N/A |
-| 29 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 30 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
-| 31 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 33 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 34 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 35 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 37 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 38 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 39 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 40 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 41 | [Block 9](http://twitter.com/search?q=Block+9) | N/A |
-| 42 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 43 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
-| 44 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 45 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 46 | [MacG](http://twitter.com/search?q=MacG) | N/A |
+| 28 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
+| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 30 | [Winnie](http://twitter.com/search?q=Winnie) | N/A |
+| 31 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 32 | [Niger](http://twitter.com/search?q=Niger) | N/A |
+| 33 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 34 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 35 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 36 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 37 | [MacG](http://twitter.com/search?q=MacG) | N/A |
+| 38 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 39 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 40 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 41 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 42 | [Skeem Saam](http://twitter.com/search?q=Skeem+Saam) | N/A |
+| 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 44 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 45 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 46 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
 
 
 

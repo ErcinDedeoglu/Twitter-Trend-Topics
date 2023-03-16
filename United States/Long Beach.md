@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-16 04:17:18 UTC`
+📆 Last Updated: `2023-03-16 05:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 3 | [De’Aaron](http://twitter.com/search?q=De%e2%80%99Aaron) | N/A |
-| 4 | [Mook](http://twitter.com/search?q=Mook) | N/A |
-| 5 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 6 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 7 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 8 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 3 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 4 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 5 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 6 | [Mook](http://twitter.com/search?q=Mook) | N/A |
+| 7 | [De’Aaron](http://twitter.com/search?q=De%e2%80%99Aaron) | N/A |
+| 8 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
 | 9 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 10 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
-| 11 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 12 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 13 | [The Lakers](http://twitter.com/search?q=The+Lakers) | N/A |
-| 14 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
-| 15 | [No Jumper](http://twitter.com/search?q=No+Jumper) | N/A |
-| 16 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 17 | [Center](http://twitter.com/search?q=Center) | N/A |
-| 18 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 19 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 20 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 21 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 22 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 23 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 24 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 25 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 26 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 27 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 28 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 29 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 30 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 31 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 32 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 33 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 34 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 35 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 36 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 37 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 38 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 39 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 40 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 41 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 42 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 43 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 44 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 45 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 46 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 47 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 48 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 49 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 50 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 10 | [Clips](http://twitter.com/search?q=Clips) | N/A |
+| 11 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 12 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 13 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 14 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 15 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 16 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 17 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 18 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 19 | [The Lakers](http://twitter.com/search?q=The+Lakers) | N/A |
+| 20 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 21 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 22 | [No Jumper](http://twitter.com/search?q=No+Jumper) | N/A |
+| 23 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 24 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 25 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 26 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
+| 27 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
+| 28 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 29 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 30 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 31 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 32 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 33 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 34 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 35 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 36 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 37 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 38 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 39 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 40 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 41 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
+| 42 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 43 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 44 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 45 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 46 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 47 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 48 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 49 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 50 | [Flower](http://twitter.com/search?q=Flower) | N/A |
 
 
 

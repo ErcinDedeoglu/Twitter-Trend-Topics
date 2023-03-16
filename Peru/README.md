@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-16 04:17:28 UTC`
+📆 Last Updated: `2023-03-16 05:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Peru
 | 5 | [Porky](http://twitter.com/search?q=Porky) | N/A |
 | 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 7 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
-| 8 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 9 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 8 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 9 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
 | 10 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 11 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 12 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 13 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
-| 14 | [#GQ_apologize_to_TXT](http://twitter.com/search?q=%23GQ_apologize_to_TXT) | N/A |
+| 11 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 12 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
+| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 14 | [#GQ_RESPECT_TXT](http://twitter.com/search?q=%23GQ_RESPECT_TXT) | N/A |
 | 15 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 16 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 17 | [Gigio](http://twitter.com/search?q=Gigio) | N/A |
+| 16 | [Gigio](http://twitter.com/search?q=Gigio) | N/A |
+| 17 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
 | 18 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 19 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 20 | [Chosica](http://twitter.com/search?q=Chosica) | N/A |
-| 21 | [Padilla](http://twitter.com/search?q=Padilla) | N/A |
-| 22 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 23 | [Jicamarca](http://twitter.com/search?q=Jicamarca) | N/A |
-| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 25 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
-| 26 | [López Aliaga](http://twitter.com/search?q=L%c3%b3pez+Aliaga) | N/A |
-| 27 | [Chaclacayo](http://twitter.com/search?q=Chaclacayo) | N/A |
-| 28 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 29 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 30 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
-| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 32 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 33 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 34 | [Cieneguilla](http://twitter.com/search?q=Cieneguilla) | N/A |
-| 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 36 | [NO PUEDE SER](http://twitter.com/search?q=NO+PUEDE+SER) | N/A |
-| 37 | [Panamericana Sur](http://twitter.com/search?q=Panamericana+Sur) | N/A |
-| 38 | [Rímac](http://twitter.com/search?q=R%c3%admac) | N/A |
-| 39 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
-| 40 | [Inppares](http://twitter.com/search?q=Inppares) | N/A |
-| 41 | [Sagasti](http://twitter.com/search?q=Sagasti) | N/A |
-| 42 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 44 | [Ripley](http://twitter.com/search?q=Ripley) | N/A |
-| 45 | [Muñoz](http://twitter.com/search?q=Mu%c3%b1oz) | N/A |
-| 46 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 47 | [Cáncer](http://twitter.com/search?q=C%c3%a1ncer) | N/A |
-| 48 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 49 | [San Juan de Lurigancho](http://twitter.com/search?q=San+Juan+de+Lurigancho) | N/A |
-| 50 | [Noche Blanquiazul Femenina](http://twitter.com/search?q=Noche+Blanquiazul+Femenina) | N/A |
+| 19 | [Jicamarca](http://twitter.com/search?q=Jicamarca) | N/A |
+| 20 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
+| 21 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 22 | [Chosica](http://twitter.com/search?q=Chosica) | N/A |
+| 23 | [López Aliaga](http://twitter.com/search?q=L%c3%b3pez+Aliaga) | N/A |
+| 24 | [Padilla](http://twitter.com/search?q=Padilla) | N/A |
+| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 26 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
+| 27 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 28 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 29 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 30 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 31 | [HAPPY JINJIN DAY](http://twitter.com/search?q=HAPPY+JINJIN+DAY) | N/A |
+| 32 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
+| 33 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
+| 34 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 35 | [Rímac](http://twitter.com/search?q=R%c3%admac) | N/A |
+| 36 | [Muñoz](http://twitter.com/search?q=Mu%c3%b1oz) | N/A |
+| 37 | [Chaclacayo](http://twitter.com/search?q=Chaclacayo) | N/A |
+| 38 | [Villaran](http://twitter.com/search?q=Villaran) | N/A |
+| 39 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 40 | [Cáncer](http://twitter.com/search?q=C%c3%a1ncer) | N/A |
+| 41 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
+| 42 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 43 | [Noche Blanquiazul Femenina](http://twitter.com/search?q=Noche+Blanquiazul+Femenina) | N/A |
+| 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 45 | [INPPARES](http://twitter.com/search?q=INPPARES) | N/A |
+| 46 | [mariano soso](http://twitter.com/search?q=mariano+soso) | N/A |
+| 47 | [Sagasti](http://twitter.com/search?q=Sagasti) | N/A |
+| 48 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 49 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 50 | [Consejo de Ministros](http://twitter.com/search?q=Consejo+de+Ministros) | N/A |
 
 
 

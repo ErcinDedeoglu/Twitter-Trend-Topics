@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-16 04:17:15 UTC`
+📆 Last Updated: `2023-03-16 05:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
-| 3 | [Welcome to Carolina](http://twitter.com/search?q=Welcome+to+Carolina) | N/A |
-| 4 | [#KeepPounding](http://twitter.com/search?q=%23KeepPounding) | N/A |
-| 5 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 6 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 7 | [Foreman](http://twitter.com/search?q=Foreman) | N/A |
-| 8 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 9 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 11 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 12 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 13 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 14 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 15 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 16 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 17 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 18 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 19 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 20 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 21 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 22 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 23 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 24 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 25 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 26 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 27 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 1 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
+| 4 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 5 | [#KeepPounding](http://twitter.com/search?q=%23KeepPounding) | N/A |
+| 6 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 7 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 8 | [Foreman](http://twitter.com/search?q=Foreman) | N/A |
+| 9 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 10 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 11 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 12 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 13 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 14 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 15 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 16 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 17 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 18 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 19 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 20 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 21 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 22 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 23 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 24 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 25 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 26 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 27 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
 | 28 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 29 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 30 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 31 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 32 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 33 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 34 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 35 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
-| 36 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 37 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 38 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 39 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 40 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 41 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 42 | [Flagrant 2](http://twitter.com/search?q=Flagrant+2) | N/A |
-| 43 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 44 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 45 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 46 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 47 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
-| 48 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 49 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 50 | [Steve Alford](http://twitter.com/search?q=Steve+Alford) | N/A |
+| 29 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 30 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 31 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
+| 32 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 33 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 34 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 35 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 36 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 37 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 38 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 39 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 40 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 41 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 42 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 43 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 44 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 45 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 46 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 47 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 48 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 49 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 50 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
 
 
 
