@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-16 22:17:24 UTC`
+📆 Last Updated: `2023-03-16 23:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#ZamanPark_under_attack](http://twitter.com/search?q=%23ZamanPark_under_attack) | N/A |
 | 5 | [#BabarAzam𓃵](http://twitter.com/search?q=%23BabarAzam%f0%93%83%b5) | N/A |
 | 6 | [Salman Irshad](http://twitter.com/search?q=Salman+Irshad) | N/A |
-| 7 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
-| 8 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 9 | [Munro](http://twitter.com/search?q=Munro) | N/A |
-| 10 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 11 | [Hales](http://twitter.com/search?q=Hales) | N/A |
-| 12 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 13 | [Waziristan](http://twitter.com/search?q=Waziristan) | N/A |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 15 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
-| 16 | [Sohaib Maqsood](http://twitter.com/search?q=Sohaib+Maqsood) | N/A |
-| 17 | [Chris Gayle](http://twitter.com/search?q=Chris+Gayle) | N/A |
-| 18 | [Eliminator](http://twitter.com/search?q=Eliminator) | N/A |
-| 19 | [neesham](http://twitter.com/search?q=neesham) | N/A |
-| 20 | [Sunday and Monday](http://twitter.com/search?q=Sunday+and+Monday) | N/A |
-| 21 | [PP-158](http://twitter.com/search?q=PP-158) | N/A |
-| 22 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 23 | [Aleem Dar](http://twitter.com/search?q=Aleem+Dar) | Aleem Dar is a Pakistani cricket umpire. The name Aleem Dar is derived from the Arabic word for “knowledgeable” or “wise”. In English, Aleem Dar means “wise one” or “learned one”. |
-| 24 | [Islu](http://twitter.com/search?q=Islu) | N/A |
-| 25 | [IG Punjab](http://twitter.com/search?q=IG+Punjab) | N/A |
-| 26 | [PP-149](http://twitter.com/search?q=PP-149) | N/A |
-| 27 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
-| 28 | [PP-63](http://twitter.com/search?q=PP-63) | N/A |
-| 29 | [PP-173](http://twitter.com/search?q=PP-173) | N/A |
-| 30 | [Ahmadis](http://twitter.com/search?q=Ahmadis) | N/A |
-| 31 | [Fraud United](http://twitter.com/search?q=Fraud+United) | N/A |
-| 32 | [Pathan](http://twitter.com/search?q=Pathan) | N/A |
-| 33 | [Pashtoons](http://twitter.com/search?q=Pashtoons) | N/A |
-| 34 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
-| 35 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 36 | [Hard Luck](http://twitter.com/search?q=Hard+Luck) | N/A |
-| 37 | [Shaddy](http://twitter.com/search?q=Shaddy) | N/A |
-| 38 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 9 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 10 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
+| 11 | [Munro](http://twitter.com/search?q=Munro) | N/A |
+| 12 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 13 | [Hales](http://twitter.com/search?q=Hales) | N/A |
+| 14 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 15 | [Waziristan](http://twitter.com/search?q=Waziristan) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
+| 18 | [Sohaib Maqsood](http://twitter.com/search?q=Sohaib+Maqsood) | N/A |
+| 19 | [Chris Gayle](http://twitter.com/search?q=Chris+Gayle) | N/A |
+| 20 | [Eliminator](http://twitter.com/search?q=Eliminator) | N/A |
+| 21 | [neesham](http://twitter.com/search?q=neesham) | N/A |
+| 22 | [Sunday and Monday](http://twitter.com/search?q=Sunday+and+Monday) | N/A |
+| 23 | [PP-158](http://twitter.com/search?q=PP-158) | N/A |
+| 24 | [haris rauf](http://twitter.com/search?q=haris+rauf) | N/A |
+| 25 | [Aleem Dar](http://twitter.com/search?q=Aleem+Dar) | Aleem Dar is a Pakistani cricket umpire. The name Aleem Dar is derived from the Arabic word for “knowledgeable” or “wise”. In English, Aleem Dar means “wise one” or “learned one”. |
+| 26 | [Islu](http://twitter.com/search?q=Islu) | N/A |
+| 27 | [IG Punjab](http://twitter.com/search?q=IG+Punjab) | N/A |
+| 28 | [PP-149](http://twitter.com/search?q=PP-149) | N/A |
+| 29 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
+| 30 | [PP-63](http://twitter.com/search?q=PP-63) | N/A |
+| 31 | [PP-173](http://twitter.com/search?q=PP-173) | N/A |
+| 32 | [Ahmadis](http://twitter.com/search?q=Ahmadis) | N/A |
+| 33 | [fraud united](http://twitter.com/search?q=fraud+united) | N/A |
+| 34 | [Pashtoons](http://twitter.com/search?q=Pashtoons) | N/A |
+| 35 | [European](http://twitter.com/search?q=European) | N/A |
+| 36 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
+| 37 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 38 | [Hard Luck](http://twitter.com/search?q=Hard+Luck) | N/A |
 | 39 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 40 | [Insha'Allah](http://twitter.com/search?q=Insha%27Allah) | N/A |
-| 41 | [Aqeel Shah](http://twitter.com/search?q=Aqeel+Shah) | N/A |
-| 42 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
-| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 44 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 45 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 46 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 47 | [Syed](http://twitter.com/search?q=Syed) | N/A |
-| 48 | [Zafar Iqbal](http://twitter.com/search?q=Zafar+Iqbal) | N/A |
-| 49 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 50 | [Hota](http://twitter.com/search?q=Hota) | N/A |
+| 40 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 41 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 42 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
+| 43 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 44 | [I Can](http://twitter.com/search?q=I+Can) | N/A |
+| 45 | [Syed](http://twitter.com/search?q=Syed) | N/A |
+| 46 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 47 | [Hota](http://twitter.com/search?q=Hota) | N/A |
+| 48 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
 
 
 

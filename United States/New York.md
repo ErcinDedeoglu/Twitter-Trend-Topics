@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-16 22:17:33 UTC`
+📆 Last Updated: `2023-03-16 23:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 2 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 3 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 4 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 5 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
-| 6 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 7 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 8 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 9 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 10 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 11 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 12 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 13 | [#reelzapp](http://twitter.com/search?q=%23reelzapp) | N/A |
-| 14 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 17 | [#AspireTour2023](http://twitter.com/search?q=%23AspireTour2023) | N/A |
-| 18 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 19 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 20 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 21 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 22 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
-| 23 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 24 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
-| 25 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
-| 26 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 27 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 28 | [Tony Bennett](http://twitter.com/search?q=Tony+Bennett) | N/A |
-| 29 | [#Illini](http://twitter.com/search?q=%23Illini) | N/A |
-| 30 | [Fort Worth](http://twitter.com/search?q=Fort+Worth) | N/A |
-| 31 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 32 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
-| 33 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
-| 34 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 35 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
-| 36 | [CofC](http://twitter.com/search?q=CofC) | N/A |
-| 37 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 38 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
-| 39 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 40 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 41 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 42 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
-| 43 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 44 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 45 | [Minshew](http://twitter.com/search?q=Minshew) | Minshew is a surname of English origin. It is derived from the Old English words "myne" (mine) and "sceaga" (wood). The name was originally given to someone who lived near a wood or forest. |
-| 46 | [Brad Underwood](http://twitter.com/search?q=Brad+Underwood) | N/A |
-| 47 | [Slayton](http://twitter.com/search?q=Slayton) | Slayton is a surname of English origin. It is derived from the Old English words 'slae' meaning 'willow' and 'tun' meaning 'enclosure'. The name is thought to have originally referred to someone who lived near a willow enclosure. |
-| 48 | [Tornado Warning](http://twitter.com/search?q=Tornado+Warning) | N/A |
-| 49 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 50 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 1 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 2 | [Slayton](http://twitter.com/search?q=Slayton) | Slayton is a surname of English origin. It is derived from the Old English words 'slae' meaning 'willow' and 'tun' meaning 'enclosure'. The name is thought to have originally referred to someone who lived near a willow enclosure. |
+| 3 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 4 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 5 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
+| 6 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 7 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 8 | [First Republic](http://twitter.com/search?q=First+Republic) | N/A |
+| 9 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 10 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 11 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
+| 12 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 13 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 14 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
+| 15 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 16 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 17 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 18 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 19 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 21 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 22 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
+| 23 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 25 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 26 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 27 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 28 | [Tommy Lloyd](http://twitter.com/search?q=Tommy+Lloyd) | N/A |
+| 29 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 30 | [Coleman Hawkins](http://twitter.com/search?q=Coleman+Hawkins) | N/A |
+| 31 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 32 | [UofA](http://twitter.com/search?q=UofA) | N/A |
+| 33 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 34 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 35 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 36 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 37 | [Pete Carril](http://twitter.com/search?q=Pete+Carril) | N/A |
+| 38 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
+| 39 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
+| 40 | [Underwood](http://twitter.com/search?q=Underwood) | N/A |
+| 41 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 42 | [Fort Worth](http://twitter.com/search?q=Fort+Worth) | N/A |
+| 43 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 44 | [RRDS TAKEOVER](http://twitter.com/search?q=RRDS+TAKEOVER) | N/A |
+| 45 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 46 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 47 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 48 | [Minshew](http://twitter.com/search?q=Minshew) | Minshew is a surname of English origin. It is derived from the Old English words "myne" (mine) and "sceaga" (wood). The name was originally given to someone who lived near a wood or forest. |
+| 49 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 50 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
 
 
 

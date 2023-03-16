@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-16 22:17:18 UTC`
+📆 Last Updated: `2023-03-16 23:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 2 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 3 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 4 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 5 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 6 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
-| 7 | [#ARSSPO](http://twitter.com/search?q=%23ARSSPO) | N/A |
-| 8 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 9 | [Olumide](http://twitter.com/search?q=Olumide) | N/A |
-| 10 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 11 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 12 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 13 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 14 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 15 | [Pedro Goncalves](http://twitter.com/search?q=Pedro+Goncalves) | N/A |
-| 16 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 17 | [Desmond Elliot](http://twitter.com/search?q=Desmond+Elliot) | N/A |
-| 18 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 19 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 20 | [Doyin Okupe](http://twitter.com/search?q=Doyin+Okupe) | Doyin Okupe is a Nigerian name, derived from the Yoruba language. It means "The Crown of Honor". |
-| 21 | [#bolu](http://twitter.com/search?q=%23bolu) | N/A |
-| 22 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
-| 23 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 24 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
-| 25 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
-| 26 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 27 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 28 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 30 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 31 | [Neco](http://twitter.com/search?q=Neco) | N/A |
-| 32 | [Tunde Ednut](http://twitter.com/search?q=Tunde+Ednut) | N/A |
-| 33 | [Ben Hundeyin](http://twitter.com/search?q=Ben+Hundeyin) | N/A |
-| 34 | [Khobang](http://twitter.com/search?q=Khobang) | N/A |
-| 35 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 36 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
-| 37 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 39 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 40 | [Lebanese](http://twitter.com/search?q=Lebanese) | N/A |
-| 41 | [Dele Alli](http://twitter.com/search?q=Dele+Alli) | Dele Alli is the nickname of English professional footballer Dele Alli, who plays for Tottenham Hotspur and the England national team. The name is a combination of his given name, Bamidele, and his surname, Alli. |
-| 42 | [Choco](http://twitter.com/search?q=Choco) | N/A |
-| 43 | [Shortbread](http://twitter.com/search?q=Shortbread) | N/A |
-| 44 | [At 20](http://twitter.com/search?q=At+20) | N/A |
-| 45 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 46 | [Ahmed Musa](http://twitter.com/search?q=Ahmed+Musa) | N/A |
-| 47 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
-| 48 | [Rema](http://twitter.com/search?q=Rema) | N/A |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 3 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 4 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 5 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
+| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 7 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 8 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 9 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 10 | [European](http://twitter.com/search?q=European) | N/A |
+| 11 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 12 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 13 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 14 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 15 | [#ARSSPO](http://twitter.com/search?q=%23ARSSPO) | N/A |
+| 16 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 17 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 18 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 19 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
+| 20 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 21 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 22 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 23 | [Assnal](http://twitter.com/search?q=Assnal) | N/A |
+| 24 | [Olumide](http://twitter.com/search?q=Olumide) | N/A |
+| 25 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 26 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 27 | [Pedro Goncalves](http://twitter.com/search?q=Pedro+Goncalves) | N/A |
+| 28 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 29 | [Desmond Elliot](http://twitter.com/search?q=Desmond+Elliot) | N/A |
+| 30 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 31 | [Lahoz](http://twitter.com/search?q=Lahoz) | N/A |
+| 32 | [#bolu](http://twitter.com/search?q=%23bolu) | N/A |
+| 33 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
+| 34 | [Doyin Okupe](http://twitter.com/search?q=Doyin+Okupe) | Doyin Okupe is a Nigerian name, derived from the Yoruba language. It means "The Crown of Honor". |
+| 35 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 36 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 37 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 38 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 39 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 40 | [Penalties](http://twitter.com/search?q=Penalties) | N/A |
+| 41 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 42 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 43 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 44 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 45 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 46 | [NECO](http://twitter.com/search?q=NECO) | N/A |
+| 47 | [Ben Hundeyin](http://twitter.com/search?q=Ben+Hundeyin) | N/A |
+| 48 | [Tunde Ednut](http://twitter.com/search?q=Tunde+Ednut) | N/A |
+| 49 | [Khobang](http://twitter.com/search?q=Khobang) | N/A |
+| 50 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
 
 
 

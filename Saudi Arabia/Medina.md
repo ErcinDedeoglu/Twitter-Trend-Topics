@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-03-16 22:17:20 UTC`
+📆 Last Updated: `2023-03-16 23:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
-| 2 | [#الاهلي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 3 | [#كم_وحده_تبي_تتزوج](http://twitter.com/search?q=%23%d9%83%d9%85_%d9%88%d8%ad%d8%af%d9%87_%d8%aa%d8%a8%d9%8a_%d8%aa%d8%aa%d8%b2%d9%88%d8%ac) | N/A |
-| 4 | [#مها_الصيعري](http://twitter.com/search?q=%23%d9%85%d9%87%d8%a7_%d8%a7%d9%84%d8%b5%d9%8a%d8%b9%d8%b1%d9%8a) | N/A |
-| 5 | [#البزنس100](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b3100) | N/A |
-| 6 | [لشبونه](http://twitter.com/search?q=%d9%84%d8%b4%d8%a8%d9%88%d9%86%d9%87) | N/A |
-| 7 | [فييرا](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
-| 8 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 9 | [وليد معاذ](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d9%85%d8%b9%d8%a7%d8%b0) | N/A |
+| 1 | [#انقذوا_الاهلي_مثل_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%86%d9%82%d8%b0%d9%88%d8%a7_%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d9%85%d8%ab%d9%84_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
+| 2 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 3 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 4 | [لشبونه](http://twitter.com/search?q=%d9%84%d8%b4%d8%a8%d9%88%d9%86%d9%87) | N/A |
+| 5 | [#مها_الصيعري](http://twitter.com/search?q=%23%d9%85%d9%87%d8%a7_%d8%a7%d9%84%d8%b5%d9%8a%d8%b9%d8%b1%d9%8a) | N/A |
+| 6 | [#كم_وحده_تبي_تتزوج](http://twitter.com/search?q=%23%d9%83%d9%85_%d9%88%d8%ad%d8%af%d9%87_%d8%aa%d8%a8%d9%8a_%d8%aa%d8%aa%d8%b2%d9%88%d8%ac) | N/A |
+| 7 | [#البزنس100](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b3100) | N/A |
+| 8 | [وليد معاذ](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d9%85%d8%b9%d8%a7%d8%b0) | N/A |
+| 9 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
 | 10 | [التدابير الوقتيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%a7%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d9%88%d9%82%d8%aa%d9%8a%d9%87) | N/A |
-| 11 | [سبورتينغ](http://twitter.com/search?q=%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%8a%d9%86%d8%ba) | N/A |
-| 12 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 13 | [عبدالرحمن بن مساعد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a8%d9%86+%d9%85%d8%b3%d8%a7%d8%b9%d8%af) | N/A |
-| 14 | [هولدينغ](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d8%af%d9%8a%d9%86%d8%ba) | هولدينغ (Holding) is a term used in business and finance to refer to the ownership of a company or asset. It is the act of owning or controlling a certain percentage of the total shares of a company or asset. In English, it can be translated as "holding" or "ownership". |
-| 15 | [نزيه العثماني](http://twitter.com/search?q=%d9%86%d8%b2%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%ab%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 16 | [نصير البسطاء](http://twitter.com/search?q=%d9%86%d8%b5%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d8%b3%d8%b7%d8%a7%d8%a1) | N/A |
-| 17 | [جامعه القانون](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86) | N/A |
-| 18 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 19 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
-| 20 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 11 | [فييرا](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
+| 12 | [نصير البسطاء](http://twitter.com/search?q=%d9%86%d8%b5%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d8%b3%d8%b7%d8%a7%d8%a1) | N/A |
+| 13 | [اوديغارد](http://twitter.com/search?q=%d8%a7%d9%88%d8%af%d9%8a%d8%ba%d8%a7%d8%b1%d8%af) | اوديغارد is an Arabic name that means "Odyssey" in English. It is derived from the Greek word "Ὀδύσσεια" which means a long journey or voyage. |
+| 14 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 15 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 16 | [عبدالرحمن بن مساعد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a8%d9%86+%d9%85%d8%b3%d8%a7%d8%b9%d8%af) | N/A |
+| 17 | [هولدينغ](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d8%af%d9%8a%d9%86%d8%ba) | هولدينغ (Holding) is a term used in business and finance to refer to the ownership of a company or asset. It is the act of owning or controlling a certain percentage of the total shares of a company or asset. In English, it can be translated as "holding" or "ownership". |
+| 18 | [جامعه القانون](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86) | N/A |
+| 19 | [ماجد النفيعي](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d9%86%d9%81%d9%8a%d8%b9%d9%8a) | N/A |
+| 20 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
 | 21 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 22 | [ماجد النفيعي](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d9%86%d9%81%d9%8a%d8%b9%d9%8a) | N/A |
-| 23 | [سوسيداد](http://twitter.com/search?q=%d8%b3%d9%88%d8%b3%d9%8a%d8%af%d8%a7%d8%af) | سوسيداد (Soussad) is an Arabic word meaning "dignity" or "honor". It is often used to refer to the dignity and respect that should be accorded to a person or group of people. |
-| 24 | [سعود بن تركي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86+%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 25 | [احمد الشيخي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae%d9%8a) | N/A |
-| 26 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
-| 27 | [سوزا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b2%d8%a7) | N/A |
-| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 29 | [تايلور](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d9%88%d8%b1) | N/A |
-| 30 | [بوك مارك](http://twitter.com/search?q=%d8%a8%d9%88%d9%83+%d9%85%d8%a7%d8%b1%d9%83) | N/A |
-| 31 | [محمد بن فيصل](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 32 | [وزارة الرياضة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9) | N/A |
-| 33 | [العرض العايلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%8a) | N/A |
-| 34 | [بيتيس](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3) | بيتيس (pronounced "bay-tees") is an Arabic word meaning "my house". It is often used as a term of endearment, similar to saying "my home" or "my place". |
-| 35 | [التحديث الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
-| 36 | [عرض العايله](http://twitter.com/search?q=%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87) | N/A |
-| 37 | [حارس النصر](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | حارس النصر is an Arabic phrase meaning "Guardian of Victory". It is often used to refer to someone who is a protector or defender of a cause or victory. |
-| 38 | [الايادي المرتعشه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%b9%d8%b4%d9%87) | N/A |
-| 39 | [الدرجه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 40 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 41 | [الرشيدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
-| 42 | [السومة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d8%a9) | N/A |
-| 43 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
-| 44 | [الناقل الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%82%d9%84+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
-| 45 | [نواف العقيدي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | نواف العقيدي is an Arabic phrase meaning "the commander of the faithful". It is a title given to the leader of a Muslim community, usually referring to the Caliph or Imam. |
-| 46 | [حسين الغاوي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d9%88%d9%8a) | N/A |
-| 47 | [القضايا الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 48 | [الاتحاد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 49 | [غير رياضي](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 50 | [فهد بن نافل](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a8%d9%86+%d9%86%d8%a7%d9%81%d9%84) | N/A |
+| 22 | [فينالدوم](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d8%a7%d9%84%d8%af%d9%88%d9%85) | N/A |
+| 23 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 24 | [احمد الشيخي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae%d9%8a) | N/A |
+| 25 | [سوسيداد](http://twitter.com/search?q=%d8%b3%d9%88%d8%b3%d9%8a%d8%af%d8%a7%d8%af) | سوسيداد (Soussad) is an Arabic word meaning "dignity" or "honor". It is often used to refer to the dignity and respect that should be accorded to a person or group of people. |
+| 26 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
+| 27 | [سلمان بن خالد](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 28 | [اليورباليغ](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d8%b1%d8%a8%d8%a7%d9%84%d9%8a%d8%ba) | N/A |
+| 29 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
+| 30 | [سعود بن تركي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86+%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 31 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 32 | [سوزا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b2%d8%a7) | N/A |
+| 33 | [عادل الجبير](http://twitter.com/search?q=%d8%b9%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d8%ac%d8%a8%d9%8a%d8%b1) | N/A |
+| 34 | [ياسر الرميان](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b1%d9%85%d9%8a%d8%a7%d9%86) | N/A |
+| 35 | [بوك مارك](http://twitter.com/search?q=%d8%a8%d9%88%d9%83+%d9%85%d8%a7%d8%b1%d9%83) | N/A |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [وزارة الرياضة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9) | N/A |
+| 38 | [السومه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d9%87) | N/A |
+| 39 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 40 | [الرشيدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
+| 41 | [الاداره السابقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82%d9%87) | N/A |
+| 42 | [التحديث الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 43 | [العرض العايلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%8a) | N/A |
+| 44 | [تايلور](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d9%88%d8%b1) | N/A |
+| 45 | [محمد بن فيصل](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 46 | [عرض العايله](http://twitter.com/search?q=%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87) | N/A |
+| 47 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 48 | [الاداره الحاليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 49 | [الدرجه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 50 | [عايض القرني](http://twitter.com/search?q=%d8%b9%d8%a7%d9%8a%d8%b6+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
 
 
 

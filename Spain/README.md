@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-16 22:17:43 UTC`
+📆 Last Updated: `2023-03-16 23:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SVGala3](http://twitter.com/search?q=%23SVGala3) | N/A |
-| 2 | [#EspecialPasapalabra](http://twitter.com/search?q=%23EspecialPasapalabra) | N/A |
-| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [#ElDesafioEH](http://twitter.com/search?q=%23ElDesafioEH) | N/A |
-| 5 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 6 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 7 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 8 | [#LaCazaGuadiana](http://twitter.com/search?q=%23LaCazaGuadiana) | N/A |
-| 9 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
-| 10 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 11 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
-| 12 | [Carlos Fernández](http://twitter.com/search?q=Carlos+Fern%c3%a1ndez) | N/A |
-| 13 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
-| 14 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 15 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 16 | [El Hormiguero](http://twitter.com/search?q=El+Hormiguero) | N/A |
-| 17 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 18 | [Diego Rico](http://twitter.com/search?q=Diego+Rico) | N/A |
-| 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 20 | [Conference](http://twitter.com/search?q=Conference) | N/A |
-| 21 | [Sorloth](http://twitter.com/search?q=Sorloth) | Sorloth is a Scandinavian name derived from Old Norse. It is believed to mean "sword of the people" or "sword of Thor". |
-| 22 | [Tamara Falcó](http://twitter.com/search?q=Tamara+Falc%c3%b3) | N/A |
-| 23 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
-| 24 | [Gorosabel](http://twitter.com/search?q=Gorosabel) | N/A |
-| 25 | [Smalling](http://twitter.com/search?q=Smalling) | N/A |
-| 26 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 27 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
-| 28 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 29 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 30 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
-| 31 | [Dmitrovic](http://twitter.com/search?q=Dmitrovic) | N/A |
-| 32 | [El Betis](http://twitter.com/search?q=El+Betis) | El Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name El Betis is derived from the Latin phrase "bene et recte," which translates to "well and rightly." |
-| 33 | [Carlos Sánchez](http://twitter.com/search?q=Carlos+S%c3%a1nchez) | N/A |
-| 34 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 35 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
-| 36 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
-| 37 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 38 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 39 | [Telles](http://twitter.com/search?q=Telles) | N/A |
-| 40 | [Mariló](http://twitter.com/search?q=Maril%c3%b3) | N/A |
-| 41 | [Antena 3](http://twitter.com/search?q=Antena+3) | N/A |
-| 42 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 43 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 44 | [Pollito](http://twitter.com/search?q=Pollito) | N/A |
-| 45 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 46 | [Pablo Motos](http://twitter.com/search?q=Pablo+Motos) | N/A |
+| 1 | [#PasapalabraBote](http://twitter.com/search?q=%23PasapalabraBote) | N/A |
+| 2 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 3 | [#SVGala3](http://twitter.com/search?q=%23SVGala3) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [#LASANTAOUTNOW](http://twitter.com/search?q=%23LASANTAOUTNOW) | N/A |
+| 6 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
+| 7 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 8 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
+| 9 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 10 | [Enhorabuena Rafa](http://twitter.com/search?q=Enhorabuena+Rafa) | N/A |
+| 11 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 12 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 13 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [Rosco](http://twitter.com/search?q=Rosco) | N/A |
+| 16 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 17 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 18 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
+| 19 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 20 | [Antonio Adán](http://twitter.com/search?q=Antonio+Ad%c3%a1n) | N/A |
+| 21 | [Grande Rafa](http://twitter.com/search?q=Grande+Rafa) | N/A |
+| 22 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
+| 23 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 24 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 25 | [Rafa Castaño](http://twitter.com/search?q=Rafa+Casta%c3%b1o) | N/A |
+| 26 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 27 | [Carlos Fernández](http://twitter.com/search?q=Carlos+Fern%c3%a1ndez) | N/A |
+| 28 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 29 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 30 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 31 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
+| 32 | [Gorosabel](http://twitter.com/search?q=Gorosabel) | N/A |
+| 33 | [Antena 3](http://twitter.com/search?q=Antena+3) | N/A |
+| 34 | [El Hormiguero](http://twitter.com/search?q=El+Hormiguero) | N/A |
+| 35 | [Sorloth](http://twitter.com/search?q=Sorloth) | Sorloth is a Scandinavian name derived from Old Norse. It is believed to mean "sword of the people" or "sword of Thor". |
+| 36 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 37 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 38 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 39 | [Diego Rico](http://twitter.com/search?q=Diego+Rico) | N/A |
+| 40 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 41 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
+| 42 | [Tamara Falcó](http://twitter.com/search?q=Tamara+Falc%c3%b3) | N/A |
+| 43 | [Laura Madrueño](http://twitter.com/search?q=Laura+Madrue%c3%b1o) | N/A |
+| 44 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
+| 45 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 46 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
 | 47 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
-| 48 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 49 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 50 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
+| 48 | [casanova](http://twitter.com/search?q=casanova) | N/A |
+| 49 | [Roberto Leal](http://twitter.com/search?q=Roberto+Leal) | N/A |
+| 50 | [Smalling](http://twitter.com/search?q=Smalling) | N/A |
 
 
 

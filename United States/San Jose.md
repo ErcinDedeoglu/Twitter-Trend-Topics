@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-16 22:17:36 UTC`
+📆 Last Updated: `2023-03-16 23:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
-| 2 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
-| 3 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
-| 4 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 5 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 6 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
-| 7 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 8 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 9 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 10 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 11 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 12 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 13 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 14 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 15 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 16 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 17 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 18 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 19 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 20 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 21 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 22 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 24 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 25 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 26 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 27 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 28 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 29 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
-| 30 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 31 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
-| 32 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 33 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 34 | [Tony Bennett](http://twitter.com/search?q=Tony+Bennett) | N/A |
-| 35 | [Fort Worth](http://twitter.com/search?q=Fort+Worth) | N/A |
-| 36 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 37 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
-| 38 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
-| 39 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 40 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
-| 41 | [CofC](http://twitter.com/search?q=CofC) | N/A |
-| 42 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 43 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
-| 44 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 45 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 46 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 47 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
-| 48 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 49 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 2 | [#BearDown](http://twitter.com/search?q=%23BearDown) | N/A |
+| 3 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 4 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 5 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 6 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
+| 7 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 8 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
+| 9 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 10 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 11 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 12 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 13 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 14 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 15 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 16 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 17 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 18 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 19 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 20 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 22 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 23 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
+| 24 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 27 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 28 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 29 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 30 | [Tommy Lloyd](http://twitter.com/search?q=Tommy+Lloyd) | N/A |
+| 31 | [Coleman Hawkins](http://twitter.com/search?q=Coleman+Hawkins) | N/A |
+| 32 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 33 | [UofA](http://twitter.com/search?q=UofA) | N/A |
+| 34 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 35 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 36 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 37 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
+| 38 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 39 | [Pete Carril](http://twitter.com/search?q=Pete+Carril) | N/A |
+| 40 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
+| 41 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 42 | [Underwood](http://twitter.com/search?q=Underwood) | N/A |
+| 43 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 44 | [Fort Worth](http://twitter.com/search?q=Fort+Worth) | N/A |
+| 45 | [RRDS TAKEOVER](http://twitter.com/search?q=RRDS+TAKEOVER) | N/A |
+| 46 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 47 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 48 | [Minshew](http://twitter.com/search?q=Minshew) | Minshew is a surname of English origin. It is derived from the Old English words "myne" (mine) and "sceaga" (wood). The name was originally given to someone who lived near a wood or forest. |
+| 49 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
 
 
 

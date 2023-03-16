@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-16 22:17:06 UTC`
+📆 Last Updated: `2023-03-16 23:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 2 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
-| 3 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 4 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
-| 5 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 6 | [#RealSociedadRoma](http://twitter.com/search?q=%23RealSociedadRoma) | N/A |
-| 7 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 8 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
-| 9 | [Suor Angela](http://twitter.com/search?q=Suor+Angela) | N/A |
+| 1 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
+| 2 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 3 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
+| 4 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 5 | [#RealSociedadRoma](http://twitter.com/search?q=%23RealSociedadRoma) | N/A |
+| 6 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 7 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
+| 8 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 9 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
 | 10 | [Suor Teresa](http://twitter.com/search?q=Suor+Teresa) | N/A |
-| 11 | [Elia](http://twitter.com/search?q=Elia) | N/A |
-| 12 | [Achille](http://twitter.com/search?q=Achille) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 15 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
-| 16 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
-| 17 | [Corinna](http://twitter.com/search?q=Corinna) | N/A |
-| 18 | [Daje Roma](http://twitter.com/search?q=Daje+Roma) | N/A |
-| 19 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 20 | [Karsdorp](http://twitter.com/search?q=Karsdorp) | N/A |
-| 21 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 22 | [Milinkovic](http://twitter.com/search?q=Milinkovic) | N/A |
-| 23 | [Basic](http://twitter.com/search?q=Basic) | N/A |
-| 24 | [Sandra Milo](http://twitter.com/search?q=Sandra+Milo) | N/A |
-| 25 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 26 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 29 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 30 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 31 | [Messina](http://twitter.com/search?q=Messina) | N/A |
-| 32 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 33 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 34 | [CGIL](http://twitter.com/search?q=CGIL) | N/A |
-| 35 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 36 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 37 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
-| 38 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 39 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 40 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
-| 41 | [#AZLazio](http://twitter.com/search?q=%23AZLazio) | N/A |
-| 42 | [#drittoerovescio](http://twitter.com/search?q=%23drittoerovescio) | N/A |
-| 43 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
-| 44 | [#splendidacornice](http://twitter.com/search?q=%23splendidacornice) | N/A |
-| 45 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
-| 46 | [#Chiesa](http://twitter.com/search?q=%23Chiesa) | N/A |
-| 47 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 48 | [#laMigliorMedicina](http://twitter.com/search?q=%23laMigliorMedicina) | N/A |
-| 49 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
-| 50 | [#Vlahovic](http://twitter.com/search?q=%23Vlahovic) | N/A |
+| 11 | [Suor Angela](http://twitter.com/search?q=Suor+Angela) | N/A |
+| 12 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 13 | [La Lazio](http://twitter.com/search?q=La+Lazio) | N/A |
+| 14 | [Elia](http://twitter.com/search?q=Elia) | N/A |
+| 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 16 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 17 | [Achille](http://twitter.com/search?q=Achille) | N/A |
+| 18 | [Corinna](http://twitter.com/search?q=Corinna) | N/A |
+| 19 | [Daje Roma](http://twitter.com/search?q=Daje+Roma) | N/A |
+| 20 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 22 | [Chirico](http://twitter.com/search?q=Chirico) | N/A |
+| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 24 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 25 | [Basic](http://twitter.com/search?q=Basic) | N/A |
+| 26 | [Forza Lazio](http://twitter.com/search?q=Forza+Lazio) | N/A |
+| 27 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
+| 28 | [Sandra Milo](http://twitter.com/search?q=Sandra+Milo) | N/A |
+| 29 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 30 | [Milinkovic](http://twitter.com/search?q=Milinkovic) | N/A |
+| 31 | [Smalling](http://twitter.com/search?q=Smalling) | N/A |
+| 32 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 33 | [Karsdorp](http://twitter.com/search?q=Karsdorp) | N/A |
+| 34 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 35 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 36 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 37 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 38 | [Messina](http://twitter.com/search?q=Messina) | N/A |
+| 39 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 40 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 41 | [Cgil](http://twitter.com/search?q=Cgil) | N/A |
+| 42 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 43 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 44 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 45 | [#drittoerovescio](http://twitter.com/search?q=%23drittoerovescio) | N/A |
+| 46 | [#AZLazio](http://twitter.com/search?q=%23AZLazio) | N/A |
+| 47 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
+| 48 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 49 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
+| 50 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
 
 
 

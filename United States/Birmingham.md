@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-16 22:17:29 UTC`
+📆 Last Updated: `2023-03-16 23:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 2 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 3 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 1 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 2 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 3 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
 | 4 | [Mark Sears](http://twitter.com/search?q=Mark+Sears) | N/A |
-| 5 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 6 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 7 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 8 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 9 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 10 | [#reelzapp](http://twitter.com/search?q=%23reelzapp) | N/A |
-| 11 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 14 | [#AspireTour2023](http://twitter.com/search?q=%23AspireTour2023) | N/A |
-| 15 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 16 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 17 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 5 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 6 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 7 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 8 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 9 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 10 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [#reelzapp](http://twitter.com/search?q=%23reelzapp) | N/A |
+| 13 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 14 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
+| 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
 | 18 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 19 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
-| 20 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 21 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
-| 22 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
-| 23 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 24 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 25 | [Tony Bennett](http://twitter.com/search?q=Tony+Bennett) | N/A |
-| 26 | [#Illini](http://twitter.com/search?q=%23Illini) | N/A |
-| 27 | [Fort Worth](http://twitter.com/search?q=Fort+Worth) | N/A |
-| 28 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 29 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
-| 30 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
-| 31 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 32 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
-| 33 | [CofC](http://twitter.com/search?q=CofC) | N/A |
-| 34 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 35 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
-| 36 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 37 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 38 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 39 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
-| 40 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 41 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 42 | [Minshew](http://twitter.com/search?q=Minshew) | Minshew is a surname of English origin. It is derived from the Old English words "myne" (mine) and "sceaga" (wood). The name was originally given to someone who lived near a wood or forest. |
-| 43 | [Brad Underwood](http://twitter.com/search?q=Brad+Underwood) | N/A |
-| 44 | [Slayton](http://twitter.com/search?q=Slayton) | Slayton is a surname of English origin. It is derived from the Old English words 'slae' meaning 'willow' and 'tun' meaning 'enclosure'. The name is thought to have originally referred to someone who lived near a willow enclosure. |
-| 45 | [Tornado Warning](http://twitter.com/search?q=Tornado+Warning) | N/A |
-| 46 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 47 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 48 | [First Republic](http://twitter.com/search?q=First+Republic) | N/A |
-| 49 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 50 | [Kamani](http://twitter.com/search?q=Kamani) | N/A |
+| 19 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 20 | [#AspireTour2023](http://twitter.com/search?q=%23AspireTour2023) | N/A |
+| 21 | [Tommy Lloyd](http://twitter.com/search?q=Tommy+Lloyd) | N/A |
+| 22 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 23 | [#Illini](http://twitter.com/search?q=%23Illini) | N/A |
+| 24 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 25 | [Coleman Hawkins](http://twitter.com/search?q=Coleman+Hawkins) | N/A |
+| 26 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 27 | [UofA](http://twitter.com/search?q=UofA) | N/A |
+| 28 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 29 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 30 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 31 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 32 | [Pete Carril](http://twitter.com/search?q=Pete+Carril) | N/A |
+| 33 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
+| 34 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
+| 35 | [Underwood](http://twitter.com/search?q=Underwood) | N/A |
+| 36 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 37 | [Fort Worth](http://twitter.com/search?q=Fort+Worth) | N/A |
+| 38 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 39 | [RRDS TAKEOVER](http://twitter.com/search?q=RRDS+TAKEOVER) | N/A |
+| 40 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 41 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 42 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 43 | [Minshew](http://twitter.com/search?q=Minshew) | Minshew is a surname of English origin. It is derived from the Old English words "myne" (mine) and "sceaga" (wood). The name was originally given to someone who lived near a wood or forest. |
+| 44 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 45 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 46 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 47 | [Tony Bennett](http://twitter.com/search?q=Tony+Bennett) | N/A |
+| 48 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
+| 49 | [Courtney Ramey](http://twitter.com/search?q=Courtney+Ramey) | N/A |
+| 50 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
 
 
 

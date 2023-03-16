@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-03-16 22:16:56 UTC`
+📆 Last Updated: `2023-03-16 23:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
-| 4 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 5 | [#ESENCIASPOTIFY](http://twitter.com/search?q=%23ESENCIASPOTIFY) | N/A |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
+| 5 | [#MéxicoMásPobreConAMLO](http://twitter.com/search?q=%23M%c3%a9xicoM%c3%a1sPobreConAMLO) | N/A |
 | 6 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 7 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
-| 8 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 9 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
-| 10 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 11 | [Helena Rojo](http://twitter.com/search?q=Helena+Rojo) | N/A |
-| 12 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 7 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 8 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 9 | [#ESENCIASPOTIFY](http://twitter.com/search?q=%23ESENCIASPOTIFY) | N/A |
+| 10 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
+| 11 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 12 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
 | 13 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
-| 14 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 15 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 16 | [Bebote](http://twitter.com/search?q=Bebote) | N/A |
-| 17 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
-| 18 | [Roberto Borge](http://twitter.com/search?q=Roberto+Borge) | N/A |
-| 19 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 20 | [lottie](http://twitter.com/search?q=lottie) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 23 | [Shakhtar](http://twitter.com/search?q=Shakhtar) | Shakhtar is a Ukrainian football club based in Donetsk. The name Shakhtar is derived from the word "shakhtyor", which means "miner" in Ukrainian. In English, Shakhtar translates to "miner". |
+| 14 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 15 | [Helena Rojo](http://twitter.com/search?q=Helena+Rojo) | N/A |
+| 16 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 17 | [Roberto Borge](http://twitter.com/search?q=Roberto+Borge) | N/A |
+| 18 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 20 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 21 | [Bebote](http://twitter.com/search?q=Bebote) | N/A |
+| 22 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 23 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
 | 24 | [Conasupo](http://twitter.com/search?q=Conasupo) | N/A |
-| 25 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 26 | [Rels](http://twitter.com/search?q=Rels) | N/A |
+| 25 | [Melissa Galindo](http://twitter.com/search?q=Melissa+Galindo) | N/A |
+| 26 | [Shakhtar](http://twitter.com/search?q=Shakhtar) | Shakhtar is a Ukrainian football club based in Donetsk. The name Shakhtar is derived from the word "shakhtyor", which means "miner" in Ukrainian. In English, Shakhtar translates to "miner". |
 | 27 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
-| 28 | [Raúl Jiménez](http://twitter.com/search?q=Ra%c3%bal+Jim%c3%a9nez) | N/A |
-| 29 | [Melissa Galindo](http://twitter.com/search?q=Melissa+Galindo) | N/A |
-| 30 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 31 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 32 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 33 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
-| 34 | [Enrique Vargas](http://twitter.com/search?q=Enrique+Vargas) | N/A |
-| 35 | [Coppel](http://twitter.com/search?q=Coppel) | N/A |
-| 36 | [Omar Núñez](http://twitter.com/search?q=Omar+N%c3%ba%c3%b1ez) | N/A |
-| 37 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 38 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
-| 39 | [#VL909](http://twitter.com/search?q=%23VL909) | N/A |
-| 40 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
-| 41 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 42 | [#Bullying](http://twitter.com/search?q=%23Bullying) | N/A |
-| 43 | [#BTSLOCKDOWN](http://twitter.com/search?q=%23BTSLOCKDOWN) | N/A |
-| 44 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 45 | [#Metepec](http://twitter.com/search?q=%23Metepec) | N/A |
+| 28 | [Exelente](http://twitter.com/search?q=Exelente) | N/A |
+| 29 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 30 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 31 | [Clásico Regio](http://twitter.com/search?q=Cl%c3%a1sico+Regio) | N/A |
+| 32 | [Adán](http://twitter.com/search?q=Ad%c3%a1n) | N/A |
+| 33 | [Raúl Jiménez](http://twitter.com/search?q=Ra%c3%bal+Jim%c3%a9nez) | N/A |
+| 34 | [Roja](http://twitter.com/search?q=Roja) | N/A |
+| 35 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 36 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
+| 37 | [Coppel](http://twitter.com/search?q=Coppel) | N/A |
+| 38 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 39 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 40 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 41 | [#PlaydoitMexico](http://twitter.com/search?q=%23PlaydoitMexico) | N/A |
+| 42 | [#Ecatepec](http://twitter.com/search?q=%23Ecatepec) | N/A |
+| 43 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 44 | [#Bullying](http://twitter.com/search?q=%23Bullying) | N/A |
+| 45 | [#VL909](http://twitter.com/search?q=%23VL909) | N/A |
 | 46 | [#Teotihuacán](http://twitter.com/search?q=%23Teotihuac%c3%a1n) | N/A |
-| 47 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
-| 48 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 47 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
+| 48 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 
 
 
