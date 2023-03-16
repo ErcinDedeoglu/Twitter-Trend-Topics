@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-16 11:19:07 UTC`
+📆 Last Updated: `2023-03-16 12:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 2 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 3 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 4 | [#Eberl](http://twitter.com/search?q=%23Eberl) | N/A |
+| 1 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 3 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
+| 4 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
 | 5 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 6 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
+| 6 | [#Eberl](http://twitter.com/search?q=%23Eberl) | N/A |
 | 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 8 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 9 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 10 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 11 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 12 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 13 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 14 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 16 | [Sportstudio](http://twitter.com/search?q=Sportstudio) | N/A |
-| 17 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 18 | ['Langeweile'](http://twitter.com/search?q=%27Langeweile%27) | N/A |
-| 19 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 20 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 21 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 22 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
-| 23 | [Causa Gladbach](http://twitter.com/search?q=Causa+Gladbach) | N/A |
-| 24 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
-| 25 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
-| 26 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 27 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 28 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 29 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 30 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 31 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
-| 32 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 33 | [Per Applaus](http://twitter.com/search?q=Per+Applaus) | N/A |
-| 34 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 35 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
-| 36 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 37 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 38 | [Denkmalschutz](http://twitter.com/search?q=Denkmalschutz) | N/A |
-| 39 | [Peinlich](http://twitter.com/search?q=Peinlich) | N/A |
-| 40 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 8 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 9 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 10 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 11 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 12 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 13 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 14 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
+| 15 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 16 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
+| 17 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
+| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 19 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 20 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 21 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
+| 22 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
+| 23 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 24 | [Causa Gladbach](http://twitter.com/search?q=Causa+Gladbach) | N/A |
+| 25 | [Sportstudio](http://twitter.com/search?q=Sportstudio) | N/A |
+| 26 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 27 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
+| 28 | ['Langeweile'](http://twitter.com/search?q=%27Langeweile%27) | N/A |
+| 29 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 30 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
+| 31 | [Per Applaus](http://twitter.com/search?q=Per+Applaus) | N/A |
+| 32 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 33 | [Propeller](http://twitter.com/search?q=Propeller) | N/A |
+| 34 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 35 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 36 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
+| 37 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 38 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 39 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 40 | [Chief](http://twitter.com/search?q=Chief) | N/A |
 | 41 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 42 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
-| 43 | [Absturz](http://twitter.com/search?q=Absturz) | N/A |
-| 44 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
-| 45 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 46 | [Chief](http://twitter.com/search?q=Chief) | N/A |
-| 47 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 48 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
-| 49 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
-| 50 | [Besitzer](http://twitter.com/search?q=Besitzer) | N/A |
+| 42 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 43 | [Verkehrssektor](http://twitter.com/search?q=Verkehrssektor) | N/A |
+| 44 | [Würmer](http://twitter.com/search?q=W%c3%bcrmer) | N/A |
+| 45 | [HOBI](http://twitter.com/search?q=HOBI) | N/A |
+| 46 | [Ausschreitungen](http://twitter.com/search?q=Ausschreitungen) | N/A |
+| 47 | [Apfelsaft](http://twitter.com/search?q=Apfelsaft) | N/A |
+| 48 | [Windrad](http://twitter.com/search?q=Windrad) | N/A |
+| 49 | [Messerstiche](http://twitter.com/search?q=Messerstiche) | N/A |
+| 50 | [Transrechte](http://twitter.com/search?q=Transrechte) | N/A |
 
 
 

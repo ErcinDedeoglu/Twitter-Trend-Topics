@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-16 11:19:13 UTC`
+📆 Last Updated: `2023-03-16 12:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 2 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 3 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 4 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 5 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 6 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 7 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 8 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 9 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 10 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 11 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
-| 12 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 13 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
-| 14 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
-| 15 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 16 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
-| 17 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
-| 18 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 19 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 20 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 21 | [Home By The Lee](http://twitter.com/search?q=Home+By+The+Lee) | N/A |
-| 22 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 23 | [Trumpian](http://twitter.com/search?q=Trumpian) | N/A |
-| 24 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
-| 25 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
-| 26 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
-| 27 | [Capri](http://twitter.com/search?q=Capri) | N/A |
-| 28 | [Strikes](http://twitter.com/search?q=Strikes) | N/A |
-| 29 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 30 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
-| 31 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
-| 32 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 33 | [Khan](http://twitter.com/search?q=Khan) | N/A |
-| 34 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 35 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 36 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
-| 37 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 38 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 39 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 40 | [SNP HQ](http://twitter.com/search?q=SNP+HQ) | N/A |
-| 41 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 42 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 43 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 1 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 2 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 3 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 4 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 5 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 6 | [Stefan Bajcetic](http://twitter.com/search?q=Stefan+Bajcetic) | N/A |
+| 7 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 8 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 9 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 10 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
+| 11 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 12 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 13 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 14 | [Inverness](http://twitter.com/search?q=Inverness) | N/A |
+| 15 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
+| 16 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
+| 17 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 18 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
+| 19 | [Home By The Lee](http://twitter.com/search?q=Home+By+The+Lee) | N/A |
+| 20 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 21 | [Carra](http://twitter.com/search?q=Carra) | N/A |
+| 22 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
+| 23 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
+| 24 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
+| 25 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
+| 26 | [Trumpian](http://twitter.com/search?q=Trumpian) | N/A |
+| 27 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 28 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 29 | [capri](http://twitter.com/search?q=capri) | N/A |
+| 30 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 31 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 32 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 33 | [Strikes](http://twitter.com/search?q=Strikes) | N/A |
+| 34 | [Rachel reeves](http://twitter.com/search?q=Rachel+reeves) | N/A |
+| 35 | [St Patrick's Day](http://twitter.com/search?q=St+Patrick%27s+Day) | N/A |
+| 36 | [SNP HQ](http://twitter.com/search?q=SNP+HQ) | N/A |
+| 37 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 38 | [Comic Relief](http://twitter.com/search?q=Comic+Relief) | N/A |
+| 39 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 40 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 41 | [Councils](http://twitter.com/search?q=Councils) | N/A |
+| 42 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 43 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
 | 44 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 45 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 45 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
 | 46 | [#ASongOrMovieForLips](http://twitter.com/search?q=%23ASongOrMovieForLips) | N/A |
-| 47 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
-| 48 | [#octopus](http://twitter.com/search?q=%23octopus) | N/A |
-| 49 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 50 | [#adoorablethursday](http://twitter.com/search?q=%23adoorablethursday) | N/A |
+| 47 | [#octopus](http://twitter.com/search?q=%23octopus) | N/A |
+| 48 | [#PCC2023](http://twitter.com/search?q=%23PCC2023) | N/A |
+| 49 | [#Lorraine](http://twitter.com/search?q=%23Lorraine) | N/A |
+| 50 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
 
 
 

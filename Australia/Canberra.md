@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-16 11:18:29 UTC`
+📆 Last Updated: `2023-03-16 12:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AFLTigersBlues](http://twitter.com/search?q=%23AFLTigersBlues) | N/A |
-| 2 | [#NRLManlyEels](http://twitter.com/search?q=%23NRLManlyEels) | N/A |
-| 3 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 2 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 3 | [#NRLManlyEels](http://twitter.com/search?q=%23NRLManlyEels) | N/A |
 | 4 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
 | 5 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 6 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 7 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 8 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
-| 9 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 10 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 6 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 7 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 8 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 9 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
+| 10 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
 | 11 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 12 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
-| 13 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
-| 14 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
-| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 16 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 17 | [#NetballChaos](http://twitter.com/search?q=%23NetballChaos) | N/A |
-| 18 | [#Baggers](http://twitter.com/search?q=%23Baggers) | N/A |
-| 19 | [McGovern](http://twitter.com/search?q=McGovern) | N/A |
-| 20 | [Schuster](http://twitter.com/search?q=Schuster) | N/A |
-| 21 | [Acres](http://twitter.com/search?q=Acres) | N/A |
-| 22 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 13 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
+| 14 | [#NetballChaos](http://twitter.com/search?q=%23NetballChaos) | N/A |
+| 15 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
+| 16 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 17 | [#AFL23](http://twitter.com/search?q=%23AFL23) | N/A |
+| 18 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
+| 19 | [Acres](http://twitter.com/search?q=Acres) | N/A |
+| 20 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 21 | [Schuster](http://twitter.com/search?q=Schuster) | N/A |
+| 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 23 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
-| 24 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
-| 25 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 26 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 27 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
-| 28 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
-| 29 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
-| 30 | [Curnow](http://twitter.com/search?q=Curnow) | N/A |
-| 31 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
-| 32 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
-| 33 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
-| 34 | [Docherty](http://twitter.com/search?q=Docherty) | N/A |
-| 35 | [Lachie Cowan](http://twitter.com/search?q=Lachie+Cowan) | N/A |
-| 36 | [Garrick](http://twitter.com/search?q=Garrick) | N/A |
-| 37 | [Lewis Young](http://twitter.com/search?q=Lewis+Young) | N/A |
-| 38 | [Brad Parker](http://twitter.com/search?q=Brad+Parker) | N/A |
-| 39 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 24 | [Rioli](http://twitter.com/search?q=Rioli) | N/A |
+| 25 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
+| 26 | [Docherty](http://twitter.com/search?q=Docherty) | N/A |
+| 27 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 28 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
+| 29 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
+| 30 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
+| 31 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 32 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 33 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
+| 34 | [Balta](http://twitter.com/search?q=Balta) | N/A |
+| 35 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
+| 36 | [Lewis Young](http://twitter.com/search?q=Lewis+Young) | N/A |
+| 37 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 38 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 39 | [Curnow](http://twitter.com/search?q=Curnow) | N/A |
 | 40 | [Brian Taylor](http://twitter.com/search?q=Brian+Taylor) | N/A |
-| 41 | [Brad Arthur](http://twitter.com/search?q=Brad+Arthur) | N/A |
-| 42 | [Balta](http://twitter.com/search?q=Balta) | N/A |
+| 41 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
+| 42 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
 | 43 | [Riewoldt](http://twitter.com/search?q=Riewoldt) | N/A |
-| 44 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
-| 45 | [Ben Fordham](http://twitter.com/search?q=Ben+Fordham) | N/A |
-| 46 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 47 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 48 | [Latitude Financial](http://twitter.com/search?q=Latitude+Financial) | N/A |
-| 49 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
+| 44 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
+| 45 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
+| 46 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 47 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
+| 48 | [Brad Parker](http://twitter.com/search?q=Brad+Parker) | N/A |
+| 49 | [Draw](http://twitter.com/search?q=Draw) | N/A |
 
 
 

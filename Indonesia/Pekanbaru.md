@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-16 11:18:27 UTC`
+📆 Last Updated: `2023-03-16 12:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MuDAberaNNY](http://twitter.com/search?q=%23MuDAberaNNY) | N/A |
-| 2 | [Danny Praditya](http://twitter.com/search?q=Danny+Praditya) | N/A |
+| 1 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
+| 2 | [Angin](http://twitter.com/search?q=Angin) | N/A |
 | 3 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 4 | [FABA](http://twitter.com/search?q=FABA) | N/A |
-| 5 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 6 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 7 | [Bab 1](http://twitter.com/search?q=Bab+1) | N/A |
-| 8 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
-| 9 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 10 | [JABAR NGAHIJI](http://twitter.com/search?q=JABAR+NGAHIJI) | N/A |
-| 11 | [PKB KAHIJI](http://twitter.com/search?q=PKB+KAHIJI) | N/A |
-| 12 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 13 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 4 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 5 | [FABA](http://twitter.com/search?q=FABA) | N/A |
+| 6 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
+| 7 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
+| 8 | [Bab 1](http://twitter.com/search?q=Bab+1) | N/A |
+| 9 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 10 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 11 | [Spesialis](http://twitter.com/search?q=Spesialis) | N/A |
+| 12 | [JABAR NGAHIJI](http://twitter.com/search?q=JABAR+NGAHIJI) | N/A |
+| 13 | [PKB KAHIJI](http://twitter.com/search?q=PKB+KAHIJI) | N/A |
 | 14 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 15 | [Spesialis](http://twitter.com/search?q=Spesialis) | N/A |
-| 16 | [Bawah](http://twitter.com/search?q=Bawah) | N/A |
-| 17 | [KIM JUNKYU](http://twitter.com/search?q=KIM+JUNKYU) | N/A |
-| 18 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 19 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 20 | [Turut](http://twitter.com/search?q=Turut) | N/A |
-| 21 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 22 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 23 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
-| 24 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 25 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
-| 26 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
-| 27 | [#FightingClimateChange](http://twitter.com/search?q=%23FightingClimateChange) | N/A |
-| 28 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
-| 29 | [#TangkapAgus](http://twitter.com/search?q=%23TangkapAgus) | N/A |
+| 15 | [Smtown](http://twitter.com/search?q=Smtown) | N/A |
+| 16 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
+| 17 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 18 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 19 | [Politik Baik Gerindra](http://twitter.com/search?q=Politik+Baik+Gerindra) | N/A |
+| 20 | [Prabowo Hatinya Tulus](http://twitter.com/search?q=Prabowo+Hatinya+Tulus) | N/A |
+| 21 | [Rakyat NyamanPilih Prabowo](http://twitter.com/search?q=Rakyat+NyamanPilih+Prabowo) | N/A |
+| 22 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 23 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 24 | [Bawah](http://twitter.com/search?q=Bawah) | N/A |
+| 25 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
+| 26 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 27 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 28 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
+| 29 | [KIM JUNKYU](http://twitter.com/search?q=KIM+JUNKYU) | N/A |
 | 30 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
-| 31 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 32 | [#AwesomeGeneration](http://twitter.com/search?q=%23AwesomeGeneration) | N/A |
-| 33 | [#GalaxyA34](http://twitter.com/search?q=%23GalaxyA34) | N/A |
-| 34 | [#GetWellSoonGemini](http://twitter.com/search?q=%23GetWellSoonGemini) | N/A |
-| 35 | [#IbukotaBaruMendunia](http://twitter.com/search?q=%23IbukotaBaruMendunia) | N/A |
-| 36 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
-| 37 | [#DrRomantic3](http://twitter.com/search?q=%23DrRomantic3) | N/A |
-| 38 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 39 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
-| 40 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 41 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
-| 42 | [#MilePhakphum](http://twitter.com/search?q=%23MilePhakphum) | N/A |
-| 43 | [#IndonesiaMaju](http://twitter.com/search?q=%23IndonesiaMaju) | N/A |
-| 44 | [#Pemilu2024](http://twitter.com/search?q=%23Pemilu2024) | N/A |
+| 31 | [#FightingClimateChange](http://twitter.com/search?q=%23FightingClimateChange) | N/A |
+| 32 | [#MudikGratisGanjar](http://twitter.com/search?q=%23MudikGratisGanjar) | N/A |
+| 33 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
+| 34 | [#TangkapAgus](http://twitter.com/search?q=%23TangkapAgus) | N/A |
+| 35 | [#SUNGHANBINxTOMBOY](http://twitter.com/search?q=%23SUNGHANBINxTOMBOY) | N/A |
+| 36 | [#IndonesiaKayaBBN](http://twitter.com/search?q=%23IndonesiaKayaBBN) | N/A |
+| 37 | [#BanggaKayaBBN](http://twitter.com/search?q=%23BanggaKayaBBN) | N/A |
+| 38 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
+| 39 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 40 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
+| 41 | [#GalaxyA34](http://twitter.com/search?q=%23GalaxyA34) | N/A |
+| 42 | [#AwesomeGeneration](http://twitter.com/search?q=%23AwesomeGeneration) | N/A |
+| 43 | [#GetWellSoonGemini](http://twitter.com/search?q=%23GetWellSoonGemini) | N/A |
 
 
 

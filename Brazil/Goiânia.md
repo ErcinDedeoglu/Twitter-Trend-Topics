@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-16 11:18:15 UTC`
+📆 Last Updated: `2023-03-16 12:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,51 @@ This is top 50 for [Brazil](</Brazil>)
 | 3 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 | 4 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
 | 5 | [Guimê e Sapato](http://twitter.com/search?q=Guim%c3%aa+e+Sapato) | N/A |
-| 6 | [AMANDA CAMPEÃ](http://twitter.com/search?q=AMANDA+CAMPE%c3%83) | N/A |
-| 7 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
-| 8 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 9 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
+| 6 | [ANY G PUMA](http://twitter.com/search?q=ANY+G+PUMA) | N/A |
+| 7 | [AMANDA CAMPEÃ](http://twitter.com/search?q=AMANDA+CAMPE%c3%83) | N/A |
+| 8 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
+| 9 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
 | 10 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
-| 11 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 11 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
 | 12 | [Shadow and Bone](http://twitter.com/search?q=Shadow+and+Bone) | N/A |
-| 13 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 14 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 15 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 16 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
-| 17 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
-| 18 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 19 | [Amigão](http://twitter.com/search?q=Amig%c3%a3o) | N/A |
-| 20 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 21 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 22 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 23 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 24 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
-| 25 | [Merecem](http://twitter.com/search?q=Merecem) | N/A |
-| 26 | [#amagiaacontecenobbb](http://twitter.com/search?q=%23amagiaacontecenobbb) | N/A |
-| 27 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
-| 28 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 29 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 30 | [ROHAN](http://twitter.com/search?q=ROHAN) | N/A |
-| 31 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 32 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 33 | [#LCDF3](http://twitter.com/search?q=%23LCDF3) | N/A |
-| 34 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 35 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 36 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 37 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 38 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 39 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
-| 40 | [PARABÉNS SAPATO](http://twitter.com/search?q=PARAB%c3%89NS+SAPATO) | N/A |
-| 41 | [Ministro da Justiça](http://twitter.com/search?q=Ministro+da+Justi%c3%a7a) | N/A |
-| 42 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 43 | [Glauber](http://twitter.com/search?q=Glauber) | N/A |
-| 44 | [paulo vieira](http://twitter.com/search?q=paulo+vieira) | N/A |
-| 45 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 46 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
-| 47 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 48 | [DEATH IS COMING](http://twitter.com/search?q=DEATH+IS+COMING) | N/A |
-| 49 | [#LaCasaDeLosFamosos](http://twitter.com/search?q=%23LaCasaDeLosFamosos) | N/A |
+| 13 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 14 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 15 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
+| 16 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 17 | [Assediador](http://twitter.com/search?q=Assediador) | N/A |
+| 18 | [Expulsão](http://twitter.com/search?q=Expuls%c3%a3o) | N/A |
+| 19 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
+| 20 | [CASADO](http://twitter.com/search?q=CASADO) | N/A |
+| 21 | [Amigão](http://twitter.com/search?q=Amig%c3%a3o) | N/A |
+| 22 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
+| 23 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
+| 24 | [#VCnoJM](http://twitter.com/search?q=%23VCnoJM) | N/A |
+| 25 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
+| 26 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 27 | [Bebida](http://twitter.com/search?q=Bebida) | N/A |
+| 28 | [matthias](http://twitter.com/search?q=matthias) | N/A |
+| 29 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 30 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 31 | [Alina](http://twitter.com/search?q=Alina) | N/A |
+| 32 | [Wylan](http://twitter.com/search?q=Wylan) | N/A |
+| 33 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 34 | [Merecem](http://twitter.com/search?q=Merecem) | N/A |
+| 35 | [Sombra e Ossos](http://twitter.com/search?q=Sombra+e+Ossos) | N/A |
+| 36 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 37 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 38 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 39 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
+| 40 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 41 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 42 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 43 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 44 | [Glauber](http://twitter.com/search?q=Glauber) | N/A |
+| 45 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 46 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
+| 47 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 48 | [força nacional](http://twitter.com/search?q=for%c3%a7a+nacional) | N/A |
+| 49 | [Ministro da Justiça](http://twitter.com/search?q=Ministro+da+Justi%c3%a7a) | N/A |
+| 50 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
 
 
 

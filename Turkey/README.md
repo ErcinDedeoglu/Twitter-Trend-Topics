@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-16 11:19:13 UTC`
+📆 Last Updated: `2023-03-16 12:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Turkey
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bolu](http://twitter.com/search?q=%23bolu) | N/A |
-| 2 | [Türk Devletleri Teşkilatı](http://twitter.com/search?q=T%c3%bcrk+Devletleri+Te%c5%9fkilat%c4%b1) | N/A |
-| 3 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
-| 4 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
-| 5 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
+| 2 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
+| 3 | [#düzce](http://twitter.com/search?q=%23d%c3%bczce) | N/A |
+| 4 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
+| 5 | [Türk Devletleri Teşkilatı](http://twitter.com/search?q=T%c3%bcrk+Devletleri+Te%c5%9fkilat%c4%b1) | N/A |
 | 6 | [#20marttayuzyuzekarari](http://twitter.com/search?q=%2320marttayuzyuzekarari) | N/A |
-| 7 | [SandıktanÖnce KadroGelsin](http://twitter.com/search?q=Sand%c4%b1ktan%c3%96nce+KadroGelsin) | N/A |
-| 8 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
-| 9 | [Menzil](http://twitter.com/search?q=Menzil) | N/A |
-| 10 | [Süleymancılar](http://twitter.com/search?q=S%c3%bcleymanc%c4%b1lar) | N/A |
-| 11 | [Günü](http://twitter.com/search?q=G%c3%bcn%c3%bc) | N/A |
-| 12 | [Dolar 19](http://twitter.com/search?q=Dolar+19) | N/A |
-| 13 | [Daye](http://twitter.com/search?q=Daye) | N/A |
-| 14 | [Tanzanya](http://twitter.com/search?q=Tanzanya) | N/A |
-| 15 | [Zorbay Küçük](http://twitter.com/search?q=Zorbay+K%c3%bc%c3%a7%c3%bck) | Zorbay Küçük is a Turkish phrase that translates to "tough little one." It is often used as an affectionate term for someone who is small but strong and resilient. |
-| 16 | [Öğretmen](http://twitter.com/search?q=%c3%96%c4%9fretmen) | N/A |
-| 17 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
-| 18 | [Şuursuz](http://twitter.com/search?q=%c5%9euursuz) | N/A |
-| 19 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
-| 20 | [Esad](http://twitter.com/search?q=Esad) | N/A |
-| 21 | [Elma](http://twitter.com/search?q=Elma) | N/A |
-| 22 | [HER ŞEYDEN ÖNCE TÜRKİYE](http://twitter.com/search?q=HER+%c5%9eEYDEN+%c3%96NCE+T%c3%9cRK%c4%b0YE) | N/A |
-| 23 | [Milletiyle](http://twitter.com/search?q=Milletiyle) | N/A |
-| 24 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 25 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 26 | [Sosyal Bilgiler](http://twitter.com/search?q=Sosyal+Bilgiler) | N/A |
-| 27 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
-| 28 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
-| 29 | [Urfalılar](http://twitter.com/search?q=Urfal%c4%b1lar) | N/A |
-| 30 | [Mülteci](http://twitter.com/search?q=M%c3%bclteci) | N/A |
-| 31 | [Sinir](http://twitter.com/search?q=Sinir) | N/A |
-| 32 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
-| 33 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
-| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 35 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 36 | [#düzce](http://twitter.com/search?q=%23d%c3%bczce) | N/A |
-| 37 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
-| 38 | [#5binAboVeKısmiNerede](http://twitter.com/search?q=%235binAboVeK%c4%b1smiNerede) | N/A |
-| 39 | [#MebSosyaleSesVer](http://twitter.com/search?q=%23MebSosyaleSesVer) | N/A |
-| 40 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 41 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
-| 42 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
-| 43 | [#EnkazBıraktınAKP](http://twitter.com/search?q=%23EnkazB%c4%b1rakt%c4%b1nAKP) | N/A |
-| 44 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
-| 45 | [#HalabjaGenocide](http://twitter.com/search?q=%23HalabjaGenocide) | N/A |
-| 46 | [#KöpeklerToplanacak](http://twitter.com/search?q=%23K%c3%b6peklerToplanacak) | N/A |
-| 47 | [#16Mart1988](http://twitter.com/search?q=%2316Mart1988) | N/A |
-| 48 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
-| 49 | [#BeyazıtKatliamı](http://twitter.com/search?q=%23Beyaz%c4%b1tKatliam%c4%b1) | N/A |
-| 50 | [#ABOHakkımızdır](http://twitter.com/search?q=%23ABOHakk%c4%b1m%c4%b1zd%c4%b1r) | N/A |
+| 7 | [Deprem Ağı](http://twitter.com/search?q=Deprem+A%c4%9f%c4%b1) | N/A |
+| 8 | [Menzil](http://twitter.com/search?q=Menzil) | N/A |
+| 9 | [Süleymancılar](http://twitter.com/search?q=S%c3%bcleymanc%c4%b1lar) | N/A |
+| 10 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 11 | [Tanzanya](http://twitter.com/search?q=Tanzanya) | N/A |
+| 12 | [SandıktanÖnce KadroGelsin](http://twitter.com/search?q=Sand%c4%b1ktan%c3%96nce+KadroGelsin) | N/A |
+| 13 | [Dolar 19](http://twitter.com/search?q=Dolar+19) | N/A |
+| 14 | [Daye](http://twitter.com/search?q=Daye) | N/A |
+| 15 | [Günü](http://twitter.com/search?q=G%c3%bcn%c3%bc) | N/A |
+| 16 | [Şuursuz](http://twitter.com/search?q=%c5%9euursuz) | N/A |
+| 17 | [Öğretmen](http://twitter.com/search?q=%c3%96%c4%9fretmen) | N/A |
+| 18 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
+| 19 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 20 | [esad](http://twitter.com/search?q=esad) | N/A |
+| 21 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
+| 22 | [Elma](http://twitter.com/search?q=Elma) | N/A |
+| 23 | [HER ŞEYDEN ÖNCE TÜRKİYE](http://twitter.com/search?q=HER+%c5%9eEYDEN+%c3%96NCE+T%c3%9cRK%c4%b0YE) | N/A |
+| 24 | [Milletiyle](http://twitter.com/search?q=Milletiyle) | N/A |
+| 25 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 26 | [Urfalılar](http://twitter.com/search?q=Urfal%c4%b1lar) | N/A |
+| 27 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
+| 28 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 29 | [Sinir](http://twitter.com/search?q=Sinir) | N/A |
+| 30 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
+| 31 | [#fenerinmaçıvar](http://twitter.com/search?q=%23fenerinma%c3%a7%c4%b1var) | N/A |
+| 32 | [#5binAboVeKısmiNerede](http://twitter.com/search?q=%235binAboVeK%c4%b1smiNerede) | N/A |
+| 33 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
+| 34 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
+| 35 | [#Sakarya](http://twitter.com/search?q=%23Sakarya) | N/A |
+| 36 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
+| 37 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
+| 38 | [#MebSosyaleSesVer](http://twitter.com/search?q=%23MebSosyaleSesVer) | N/A |
+| 39 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 40 | [#HalabjaGenocide](http://twitter.com/search?q=%23HalabjaGenocide) | N/A |
+| 41 | [#KöpeklerToplanacak](http://twitter.com/search?q=%23K%c3%b6peklerToplanacak) | N/A |
+| 42 | [#EnkazBıraktınAKP](http://twitter.com/search?q=%23EnkazB%c4%b1rakt%c4%b1nAKP) | N/A |
+| 43 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
+| 44 | [#BeyazıtKatliamı](http://twitter.com/search?q=%23Beyaz%c4%b1tKatliam%c4%b1) | N/A |
+| 45 | [#16Mart](http://twitter.com/search?q=%2316Mart) | N/A |
+| 46 | [#RachelCorrie](http://twitter.com/search?q=%23RachelCorrie) | N/A |
+| 47 | [#ABOHakkımızdır](http://twitter.com/search?q=%23ABOHakk%c4%b1m%c4%b1zd%c4%b1r) | N/A |
+| 48 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 49 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
+| 50 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-16 11:19:10 UTC`
+📆 Last Updated: `2023-03-16 12:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PS2023](http://twitter.com/search?q=%23PS2023) | N/A |
-| 2 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
-| 3 | [#verkiezingsuitslagen](http://twitter.com/search?q=%23verkiezingsuitslagen) | N/A |
-| 4 | [#stemmen](http://twitter.com/search?q=%23stemmen) | N/A |
-| 5 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 2 | [#verkiezingsuitslagen](http://twitter.com/search?q=%23verkiezingsuitslagen) | N/A |
+| 3 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
+| 4 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 5 | [#stemmen](http://twitter.com/search?q=%23stemmen) | N/A |
 | 6 | [#NederlandKiest](http://twitter.com/search?q=%23NederlandKiest) | N/A |
-| 7 | [baudet](http://twitter.com/search?q=baudet) | N/A |
-| 8 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
-| 9 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
-| 10 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 11 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 12 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 7 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 8 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
+| 9 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 10 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
+| 11 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 12 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
 | 13 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 15 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
-| 16 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
-| 17 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 18 | [Volt](http://twitter.com/search?q=Volt) | N/A |
-| 19 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 20 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 21 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
-| 22 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 23 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 24 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
-| 25 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 26 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
-| 27 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
-| 28 | [Build Back Better](http://twitter.com/search?q=Build+Back+Better) | N/A |
-| 29 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
-| 30 | [Napels](http://twitter.com/search?q=Napels) | N/A |
-| 31 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
+| 14 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 15 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 16 | [Volt](http://twitter.com/search?q=Volt) | N/A |
+| 17 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
+| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 19 | [Forum](http://twitter.com/search?q=Forum) | N/A |
+| 20 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
+| 21 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 22 | [Noord-Holland](http://twitter.com/search?q=Noord-Holland) | N/A |
+| 23 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 24 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 25 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
+| 26 | [Napels](http://twitter.com/search?q=Napels) | N/A |
+| 27 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
+| 28 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 29 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
+| 30 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
+| 31 | [Schiermonnikoog](http://twitter.com/search?q=Schiermonnikoog) | N/A |
 | 32 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 33 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 34 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 35 | [Slechte](http://twitter.com/search?q=Slechte) | N/A |
-| 36 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 37 | [Maurice de Hond](http://twitter.com/search?q=Maurice+de+Hond) | N/A |
-| 38 | [Democratie](http://twitter.com/search?q=Democratie) | N/A |
-| 39 | [Big Agro](http://twitter.com/search?q=Big+Agro) | N/A |
-| 40 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 41 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
-| 42 | [rob trip](http://twitter.com/search?q=rob+trip) | N/A |
-| 43 | [Zuur](http://twitter.com/search?q=Zuur) | N/A |
-| 44 | [Zwitserse](http://twitter.com/search?q=Zwitserse) | N/A |
-| 45 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 46 | [Coalitie](http://twitter.com/search?q=Coalitie) | N/A |
-| 47 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 48 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 49 | [De FvD](http://twitter.com/search?q=De+FvD) | N/A |
-| 50 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 33 | [Maurice de Hond](http://twitter.com/search?q=Maurice+de+Hond) | N/A |
+| 34 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
+| 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 36 | [Slechte](http://twitter.com/search?q=Slechte) | N/A |
+| 37 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 38 | [rob trip](http://twitter.com/search?q=rob+trip) | N/A |
+| 39 | [Democratie](http://twitter.com/search?q=Democratie) | N/A |
+| 40 | [Big Agro](http://twitter.com/search?q=Big+Agro) | N/A |
+| 41 | [Randstad](http://twitter.com/search?q=Randstad) | N/A |
+| 42 | [zojuist](http://twitter.com/search?q=zojuist) | N/A |
+| 43 | [Tjer](http://twitter.com/search?q=Tjer) | N/A |
+| 44 | [Partij](http://twitter.com/search?q=Partij) | N/A |
+| 45 | [Zuur](http://twitter.com/search?q=Zuur) | N/A |
+| 46 | [En BBB](http://twitter.com/search?q=En+BBB) | N/A |
+| 47 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 48 | [Europese](http://twitter.com/search?q=Europese) | N/A |
+| 49 | [Marijnissen](http://twitter.com/search?q=Marijnissen) | N/A |
+| 50 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
 
 
 
