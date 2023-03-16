@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-03-16 06:17:32 UTC`
+📆 Last Updated: `2023-03-16 07:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#يوم_الطفل_الاماراتي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b7%d9%81%d9%84_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
-| 2 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 1 | [#LetsGrowTogether](http://twitter.com/search?q=%23LetsGrowTogether) | N/A |
+| 2 | [#يوم_الطفل_الاماراتي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b7%d9%81%d9%84_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
 | 3 | [#زمان_پارک_پُہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%d9%8f%db%81%d9%86%da%86%d9%88) | N/A |
 | 4 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 5 | [#EmiratiChildrensDay](http://twitter.com/search?q=%23EmiratiChildrensDay) | N/A |
-| 6 | [#سعودي_ايدول](http://twitter.com/search?q=%23%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d8%a7%d9%8a%d8%af%d9%88%d9%84) | #سعودي_ايدول is a hashtag used by Saudi Arabian citizens to express their pride in their country and its achievements. In English, it translates to "Saudi Arabia is Awesome". |
-| 7 | [ماجد ناصر](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 8 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 9 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 10 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 5 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 6 | [#EmiratiChildrensDay](http://twitter.com/search?q=%23EmiratiChildrensDay) | N/A |
+| 7 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 8 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 9 | [ماجد ناصر](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 10 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 11 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 13 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 14 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 15 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 16 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 17 | [15 مارس](http://twitter.com/search?q=15+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 18 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 19 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 21 | [محمد سعيد الشحي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b4%d8%ad%d9%8a) | N/A |
-| 22 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
-| 23 | [البحر الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
-| 24 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 26 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 27 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [الشعب المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 30 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 31 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 32 | [العمل المناخي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a) | N/A |
-| 33 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 34 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 35 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 36 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 37 | [الجهات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 38 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
-| 39 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 40 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 41 | [Chup](http://twitter.com/search?q=Chup) | N/A |
-| 42 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 43 | [المسيره الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 44 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 45 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 46 | [بن عجيل](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d8%ac%d9%8a%d9%84) | N/A |
-| 47 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
-| 48 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
+| 12 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 13 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 14 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 16 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 17 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 19 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 20 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 21 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 22 | [محمد سعيد الشحي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b4%d8%ad%d9%8a) | N/A |
+| 23 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
+| 24 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 25 | [15 مارس](http://twitter.com/search?q=15+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 26 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 27 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 28 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 29 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 30 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 31 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 32 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 34 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 35 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
+| 36 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 37 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 38 | [البحر الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
+| 39 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 41 | [عبدالعزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 44 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
+| 45 | [القمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 46 | [المسيره الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 47 | [كاس اسيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d8%b3%d9%8a%d8%a7) | كاس اسيا (Kas Asia) is an annual football tournament held in Southeast Asia. It is organized by the ASEAN Football Federation (AFF) and features teams from the ten ASEAN countries. The tournament was first held in 1996 and has been held every two years since then. The tournament serves as a qualifying event for the AFC Asian Cup, with the top four teams qualifying for the continental championship. |
+| 48 | [البرنابيو](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d8%a8%d9%8a%d9%88) | N/A |
 | 49 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 50 | [الاختبارات الحضوريه المحدده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%ad%d8%af%d8%af%d9%87) | N/A |
+| 50 | [بن عجيل](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d8%ac%d9%8a%d9%84) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-16 06:17:22 UTC`
+📆 Last Updated: `2023-03-16 07:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Australia](</Australia>)
 | 4 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
 | 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 6 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 8 | [#CloseTheGap](http://twitter.com/search?q=%23CloseTheGap) | N/A |
-| 9 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
-| 10 | [#bcm325](http://twitter.com/search?q=%23bcm325) | N/A |
-| 11 | [#AFLTigersBlues](http://twitter.com/search?q=%23AFLTigersBlues) | N/A |
-| 12 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 13 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 14 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 15 | [#PowerOfPositivity](http://twitter.com/search?q=%23PowerOfPositivity) | N/A |
-| 16 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
-| 17 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 18 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 19 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
-| 20 | [Blade Runner](http://twitter.com/search?q=Blade+Runner) | N/A |
-| 21 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
-| 22 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 23 | [Latitude Financial](http://twitter.com/search?q=Latitude+Financial) | N/A |
-| 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 25 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 26 | [Uyghurs](http://twitter.com/search?q=Uyghurs) | N/A |
-| 27 | [Marles](http://twitter.com/search?q=Marles) | N/A |
-| 28 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
-| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 30 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 31 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
-| 32 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
-| 33 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 34 | [Tracey](http://twitter.com/search?q=Tracey) | N/A |
-| 35 | [Ben Fordham](http://twitter.com/search?q=Ben+Fordham) | N/A |
-| 36 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 37 | [angus glover](http://twitter.com/search?q=angus+glover) | N/A |
-| 38 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 39 | [Albanese](http://twitter.com/search?q=Albanese) | N/A |
-| 40 | [Peking Paul](http://twitter.com/search?q=Peking+Paul) | N/A |
-| 41 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 42 | [Kyle Amor](http://twitter.com/search?q=Kyle+Amor) | N/A |
-| 43 | [AEMO](http://twitter.com/search?q=AEMO) | N/A |
-| 44 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 45 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 46 | [Labor Party](http://twitter.com/search?q=Labor+Party) | N/A |
-| 47 | [Knott](http://twitter.com/search?q=Knott) | N/A |
-| 48 | [Gaze](http://twitter.com/search?q=Gaze) | N/A |
-| 49 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 50 | [Myer](http://twitter.com/search?q=Myer) | N/A |
+| 7 | [#AFLTigersBlues](http://twitter.com/search?q=%23AFLTigersBlues) | N/A |
+| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 9 | [#CloseTheGap](http://twitter.com/search?q=%23CloseTheGap) | N/A |
+| 10 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
+| 11 | [#bcm325](http://twitter.com/search?q=%23bcm325) | N/A |
+| 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 13 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 14 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
+| 15 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 16 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
+| 17 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
+| 18 | [Blade Runner](http://twitter.com/search?q=Blade+Runner) | N/A |
+| 19 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 20 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 21 | [Latitude Financial](http://twitter.com/search?q=Latitude+Financial) | N/A |
+| 22 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 23 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
+| 24 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
+| 25 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
+| 26 | [Albanese](http://twitter.com/search?q=Albanese) | N/A |
+| 27 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 28 | [Uyghurs](http://twitter.com/search?q=Uyghurs) | N/A |
+| 29 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 30 | [Gaze](http://twitter.com/search?q=Gaze) | N/A |
+| 31 | [Peking Paul](http://twitter.com/search?q=Peking+Paul) | N/A |
+| 32 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 33 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 34 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 35 | [Myer](http://twitter.com/search?q=Myer) | N/A |
+| 36 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 37 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 38 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
+| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 40 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 41 | [Brittany Higgins](http://twitter.com/search?q=Brittany+Higgins) | N/A |
+| 42 | [Matthew Knott](http://twitter.com/search?q=Matthew+Knott) | N/A |
+| 43 | [Kyle Amor](http://twitter.com/search?q=Kyle+Amor) | N/A |
+| 44 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 45 | [Bogut](http://twitter.com/search?q=Bogut) | N/A |
+| 46 | [Red Alert](http://twitter.com/search?q=Red+Alert) | N/A |
+| 47 | [UK and US](http://twitter.com/search?q=UK+and+US) | N/A |
+| 48 | [AEMO](http://twitter.com/search?q=AEMO) | N/A |
+| 49 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 50 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-16 06:17:13 UTC`
+📆 Last Updated: `2023-03-16 07:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
-| 2 | [#ParagonyGrozy](http://twitter.com/search?q=%23ParagonyGrozy) | N/A |
-| 3 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
+| 2 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 3 | [#DrogoBoPiS](http://twitter.com/search?q=%23DrogoBoPiS) | N/A |
 | 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 5 | [Dzieńdoberek](http://twitter.com/search?q=Dzie%c5%84doberek) | N/A |
-| 6 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 7 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 8 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 5 | [Piaseckiego](http://twitter.com/search?q=Piaseckiego) | N/A |
+| 6 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 7 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
+| 8 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 9 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
 | 10 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
-| 11 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 12 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
-| 13 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 14 | [neapolu](http://twitter.com/search?q=neapolu) | N/A |
-| 15 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
-| 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 17 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 18 | [Biedronki](http://twitter.com/search?q=Biedronki) | N/A |
-| 19 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 20 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
-| 21 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
-| 22 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 23 | [Stanowski](http://twitter.com/search?q=Stanowski) | N/A |
-| 24 | [morzem czarnym](http://twitter.com/search?q=morzem+czarnym) | N/A |
-| 25 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 26 | [Ceny](http://twitter.com/search?q=Ceny) | N/A |
-| 27 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 28 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
-| 29 | [Lidlu](http://twitter.com/search?q=Lidlu) | N/A |
-| 30 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 31 | [w 2015](http://twitter.com/search?q=w+2015) | N/A |
-| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 33 | [sawicki](http://twitter.com/search?q=sawicki) | N/A |
-| 34 | [środa](http://twitter.com/search?q=%c5%9broda) | N/A |
-| 35 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
-| 36 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 37 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
-| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 39 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 40 | [Halo](http://twitter.com/search?q=Halo) | N/A |
-| 41 | [ozdoba](http://twitter.com/search?q=ozdoba) | N/A |
-| 42 | [Kuba](http://twitter.com/search?q=Kuba) | N/A |
-| 43 | [Giertych](http://twitter.com/search?q=Giertych) | N/A |
-| 44 | [III RP](http://twitter.com/search?q=III+RP) | N/A |
-| 45 | [jedyna](http://twitter.com/search?q=jedyna) | N/A |
-| 46 | [zgłaszam](http://twitter.com/search?q=zg%c5%82aszam) | N/A |
-| 47 | [Morawieckim](http://twitter.com/search?q=Morawieckim) | N/A |
+| 11 | [Giertych](http://twitter.com/search?q=Giertych) | N/A |
+| 12 | [Pisowcem](http://twitter.com/search?q=Pisowcem) | N/A |
+| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 14 | [Sądu Apelacyjnego](http://twitter.com/search?q=S%c4%85du+Apelacyjnego) | N/A |
+| 15 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 17 | [Rady Europy](http://twitter.com/search?q=Rady+Europy) | N/A |
+| 18 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
+| 19 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 20 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
+| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 22 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 23 | [sawicki](http://twitter.com/search?q=sawicki) | N/A |
+| 24 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 25 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 26 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
+| 27 | [Robercie](http://twitter.com/search?q=Robercie) | N/A |
+| 28 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
+| 29 | [morzem czarnym](http://twitter.com/search?q=morzem+czarnym) | N/A |
+| 30 | [Stanowski](http://twitter.com/search?q=Stanowski) | N/A |
+| 31 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 32 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 34 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 35 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 36 | [Środa](http://twitter.com/search?q=%c5%9aroda) | N/A |
+| 37 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 38 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
+| 39 | [Orlenu](http://twitter.com/search?q=Orlenu) | N/A |
+| 40 | [Adam Sandauer](http://twitter.com/search?q=Adam+Sandauer) | N/A |
+| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 42 | [lipsk](http://twitter.com/search?q=lipsk) | N/A |
+| 43 | [vikersund](http://twitter.com/search?q=vikersund) | N/A |
+| 44 | [panie donaldzie](http://twitter.com/search?q=panie+donaldzie) | N/A |
+| 45 | [Zgłaszam](http://twitter.com/search?q=Zg%c5%82aszam) | N/A |
+| 46 | [pkp plk](http://twitter.com/search?q=pkp+plk) | N/A |
+| 47 | [oranżada](http://twitter.com/search?q=oran%c5%bcada) | N/A |
 
 
 

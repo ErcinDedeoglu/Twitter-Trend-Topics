@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecatepec de Morelos
 
-📆 Last Updated: `2023-03-16 06:17:06 UTC`
+📆 Last Updated: `2023-03-16 07:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 2 | [#JovenesEnMovimiento](http://twitter.com/search?q=%23JovenesEnMovimiento) | N/A |
-| 3 | [Omar Núñez](http://twitter.com/search?q=Omar+N%c3%ba%c3%b1ez) | N/A |
-| 4 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 5 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 6 | [#Apagon](http://twitter.com/search?q=%23Apagon) | N/A |
-| 7 | [#AllStarEnBatalla](http://twitter.com/search?q=%23AllStarEnBatalla) | N/A |
-| 8 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
-| 9 | [Gallese](http://twitter.com/search?q=Gallese) | N/A |
-| 10 | [Corcholatas](http://twitter.com/search?q=Corcholatas) | N/A |
-| 11 | [WE LOVE YOU QUACKITY](http://twitter.com/search?q=WE+LOVE+YOU+QUACKITY) | N/A |
-| 12 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 13 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 14 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 15 | [Columba](http://twitter.com/search?q=Columba) | N/A |
-| 16 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 17 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 18 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 19 | [Monreal](http://twitter.com/search?q=Monreal) | N/A |
-| 20 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 21 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 24 | [Dulces](http://twitter.com/search?q=Dulces) | N/A |
-| 25 | [Narvarte](http://twitter.com/search?q=Narvarte) | N/A |
-| 26 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 27 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 28 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 29 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 30 | [GAME OVER](http://twitter.com/search?q=GAME+OVER) | N/A |
-| 31 | [Chapultepec](http://twitter.com/search?q=Chapultepec) | N/A |
-| 32 | [Tomás Yarrington](http://twitter.com/search?q=Tom%c3%a1s+Yarrington) | N/A |
-| 33 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 34 | [Cuartos de Final](http://twitter.com/search?q=Cuartos+de+Final) | N/A |
-| 35 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 36 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 37 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 38 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 39 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 40 | [#MásDebatesMásDemocracia](http://twitter.com/search?q=%23M%c3%a1sDebatesM%c3%a1sDemocracia) | N/A |
-| 41 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 42 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 43 | [#TecatePalNorte](http://twitter.com/search?q=%23TecatePalNorte) | N/A |
-| 44 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 45 | [#ShazamFuryOfTheGods](http://twitter.com/search?q=%23ShazamFuryOfTheGods) | N/A |
-| 46 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
+| 2 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 3 | [#JovenesEnMovimiento](http://twitter.com/search?q=%23JovenesEnMovimiento) | N/A |
+| 4 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 5 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 8 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 9 | [#MasAccionMasDiversion](http://twitter.com/search?q=%23MasAccionMasDiversion) | N/A |
+| 10 | [Loret](http://twitter.com/search?q=Loret) | N/A |
+| 11 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 12 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 13 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 17 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 18 | [Gallese](http://twitter.com/search?q=Gallese) | N/A |
+| 19 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 20 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 21 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 23 | [Tomás Yarrington](http://twitter.com/search?q=Tom%c3%a1s+Yarrington) | N/A |
+| 24 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 25 | [Corcholatas](http://twitter.com/search?q=Corcholatas) | N/A |
+| 26 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 27 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 28 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
+| 29 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 30 | [Damián Alcázar](http://twitter.com/search?q=Dami%c3%a1n+Alc%c3%a1zar) | N/A |
+| 31 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 32 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 33 | [Machaca](http://twitter.com/search?q=Machaca) | N/A |
+| 34 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 35 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 36 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 37 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 38 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 39 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 40 | [Alejandro Encinas](http://twitter.com/search?q=Alejandro+Encinas) | N/A |
+| 41 | [Cuartos de Final](http://twitter.com/search?q=Cuartos+de+Final) | N/A |
+| 42 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 43 | [GAME OVER](http://twitter.com/search?q=GAME+OVER) | N/A |
+| 44 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 45 | [alexis wilson](http://twitter.com/search?q=alexis+wilson) | N/A |
+| 46 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
+| 47 | [Nelly Furtado](http://twitter.com/search?q=Nelly+Furtado) | N/A |
+| 48 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 49 | [San Marcos](http://twitter.com/search?q=San+Marcos) | San Marcos is a city in the Central Texas region of the United States. It is the county seat of Hays County and is located on the San Marcos River. The name San Marcos is Spanish for "Saint Mark," referring to the patron saint of Venice, Italy. |
+| 50 | [Devour](http://twitter.com/search?q=Devour) | N/A |
 
 
 

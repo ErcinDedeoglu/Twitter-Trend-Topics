@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-16 06:17:17 UTC`
+📆 Last Updated: `2023-03-16 07:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
-| 2 | [#16Marzo](http://twitter.com/search?q=%2316Marzo) | N/A |
-| 3 | [#ilRischioDi](http://twitter.com/search?q=%23ilRischioDi) | N/A |
-| 4 | [#portointer](http://twitter.com/search?q=%23portointer) | N/A |
-| 5 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 2 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
+| 3 | [#16marzo](http://twitter.com/search?q=%2316marzo) | N/A |
+| 4 | [#ilRischioDi](http://twitter.com/search?q=%23ilRischioDi) | N/A |
+| 5 | [#PortoInter](http://twitter.com/search?q=%23PortoInter) | N/A |
 | 6 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 8 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 9 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 10 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 11 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 12 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 13 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 15 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
-| 16 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 17 | [Ettore](http://twitter.com/search?q=Ettore) | N/A |
-| 18 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 19 | [Mar Nero](http://twitter.com/search?q=Mar+Nero) | N/A |
-| 20 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 21 | [Buongiorno Renato](http://twitter.com/search?q=Buongiorno+Renato) | N/A |
-| 22 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 23 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 25 | [piazza del gesù](http://twitter.com/search?q=piazza+del+ges%c3%b9) | N/A |
-| 26 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 27 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 28 | [Germania](http://twitter.com/search?q=Germania) | N/A |
-| 29 | [Napoletani](http://twitter.com/search?q=Napoletani) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 32 | [Vittorio](http://twitter.com/search?q=Vittorio) | N/A |
-| 33 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 34 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
-| 35 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 36 | [DUMFRIES](http://twitter.com/search?q=DUMFRIES) | N/A |
-| 37 | [Prefetto](http://twitter.com/search?q=Prefetto) | N/A |
-| 38 | [Polizia](http://twitter.com/search?q=Polizia) | N/A |
-| 39 | [can yaman for children](http://twitter.com/search?q=can+yaman+for+children) | N/A |
-| 40 | [Zerbi](http://twitter.com/search?q=Zerbi) | N/A |
-| 41 | [Bergomi](http://twitter.com/search?q=Bergomi) | N/A |
-| 42 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 43 | [marattin](http://twitter.com/search?q=marattin) | N/A |
-| 44 | [il 15](http://twitter.com/search?q=il+15) | N/A |
-| 45 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 46 | [Asfalta](http://twitter.com/search?q=Asfalta) | N/A |
-| 47 | [Tedeschi](http://twitter.com/search?q=Tedeschi) | N/A |
-| 48 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 49 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
-| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 9 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 10 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 11 | [Desdemona](http://twitter.com/search?q=Desdemona) | N/A |
+| 12 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
+| 13 | [Il 16](http://twitter.com/search?q=Il+16) | N/A |
+| 14 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
+| 15 | [Ettore](http://twitter.com/search?q=Ettore) | N/A |
+| 16 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 17 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 18 | [Mar Nero](http://twitter.com/search?q=Mar+Nero) | N/A |
+| 19 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 20 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 21 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 22 | [Germania](http://twitter.com/search?q=Germania) | N/A |
+| 23 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Buongiorno Gerardina](http://twitter.com/search?q=Buongiorno+Gerardina) | N/A |
+| 26 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 27 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 28 | [Lobotka](http://twitter.com/search?q=Lobotka) | N/A |
+| 29 | [Buongiorno Michael](http://twitter.com/search?q=Buongiorno+Michael) | N/A |
+| 30 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 31 | [Piazza del Gesù](http://twitter.com/search?q=Piazza+del+Ges%c3%b9) | N/A |
+| 32 | [crazy j](http://twitter.com/search?q=crazy+j) | N/A |
+| 33 | [Vittorio](http://twitter.com/search?q=Vittorio) | N/A |
+| 34 | [Prefetto](http://twitter.com/search?q=Prefetto) | N/A |
+| 35 | [can yaman for children](http://twitter.com/search?q=can+yaman+for+children) | N/A |
+| 36 | [Tedeschi](http://twitter.com/search?q=Tedeschi) | N/A |
+| 37 | [Napoletani](http://twitter.com/search?q=Napoletani) | N/A |
+| 38 | [Buongiorno Renato](http://twitter.com/search?q=Buongiorno+Renato) | N/A |
+| 39 | [filippo](http://twitter.com/search?q=filippo) | N/A |
+| 40 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 41 | [Polizia](http://twitter.com/search?q=Polizia) | N/A |
+| 42 | [Bayern Monaco](http://twitter.com/search?q=Bayern+Monaco) | N/A |
+| 43 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 44 | [Buongiorno Maurizio](http://twitter.com/search?q=Buongiorno+Maurizio) | N/A |
+| 45 | [heather parisi](http://twitter.com/search?q=heather+parisi) | N/A |
+| 46 | [Buongiorno Roberta](http://twitter.com/search?q=Buongiorno+Roberta) | N/A |
+| 47 | [Rave](http://twitter.com/search?q=Rave) | N/A |
+| 48 | [Buongiorno Sabrina](http://twitter.com/search?q=Buongiorno+Sabrina) | N/A |
+| 49 | [Dolcissima](http://twitter.com/search?q=Dolcissima) | N/A |
+| 50 | [Asfalta](http://twitter.com/search?q=Asfalta) | N/A |
 
 
 

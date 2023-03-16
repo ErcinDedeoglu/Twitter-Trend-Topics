@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-03-16 06:17:10 UTC`
+📆 Last Updated: `2023-03-16 07:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 2 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 3 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 4 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 5 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 6 | [#amagiaacontecenobbb](http://twitter.com/search?q=%23amagiaacontecenobbb) | N/A |
-| 7 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 8 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 9 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 10 | [PARABÉNS SAPATO](http://twitter.com/search?q=PARAB%c3%89NS+SAPATO) | N/A |
-| 11 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 12 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 13 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
-| 14 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 15 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 16 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
-| 17 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 18 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 19 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
-| 20 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 21 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
-| 22 | [DOMITILA SABOTADA](http://twitter.com/search?q=DOMITILA+SABOTADA) | N/A |
-| 23 | [#LaCasaDeLosFamosos](http://twitter.com/search?q=%23LaCasaDeLosFamosos) | N/A |
-| 24 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 25 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 26 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
+| 1 | [Marabá](http://twitter.com/search?q=Marab%c3%a1) | N/A |
+| 2 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
+| 3 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 4 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 5 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 6 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 7 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 8 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 9 | [#amagiaacontecenobbb](http://twitter.com/search?q=%23amagiaacontecenobbb) | N/A |
+| 10 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
+| 11 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 12 | [Mc Guime](http://twitter.com/search?q=Mc+Guime) | N/A |
+| 13 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 14 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 16 | [PARABÉNS SAPATO](http://twitter.com/search?q=PARAB%c3%89NS+SAPATO) | N/A |
+| 17 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
+| 18 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 19 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 20 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 21 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
+| 22 | [Beijou](http://twitter.com/search?q=Beijou) | N/A |
+| 23 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 24 | [DOMITILA SABOTADA](http://twitter.com/search?q=DOMITILA+SABOTADA) | N/A |
+| 25 | [#LaCasaDeLosFamosos](http://twitter.com/search?q=%23LaCasaDeLosFamosos) | N/A |
+| 26 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
 | 27 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 28 | [Golden State](http://twitter.com/search?q=Golden+State) | Golden State is a nickname for the U.S. state of California. It is derived from the state's nickname, The Golden State, which was first used in print by author and historian O.P. Austin in 1876. The term is often used to refer to the entire West Coast of the United States, or more specifically, to the area along the Pacific coast from Oregon to Southern California. |
-| 29 | [PRE SAVE DR3](http://twitter.com/search?q=PRE+SAVE+DR3) | N/A |
-| 30 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 31 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 32 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 33 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 34 | [Amigão](http://twitter.com/search?q=Amig%c3%a3o) | N/A |
-| 35 | [MC Guimê](http://twitter.com/search?q=MC+Guim%c3%aa) | N/A |
-| 36 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 37 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
-| 38 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 39 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 28 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 29 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
+| 30 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
+| 31 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 32 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
+| 33 | [PRE SAVE DR3](http://twitter.com/search?q=PRE+SAVE+DR3) | N/A |
+| 34 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 35 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 36 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 37 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 38 | [Mineirão](http://twitter.com/search?q=Mineir%c3%a3o) | Mineirão is a football stadium located in Belo Horizonte, Brazil. It is the home of the Cruzeiro Esporte Clube and Atlético Mineiro football clubs. The name Mineirão is a reference to the state of Minas Gerais, where Belo Horizonte is located. In English, Mineirão translates to "Big Mineiro". |
+| 39 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 40 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 41 | [Maria do Bairro](http://twitter.com/search?q=Maria+do+Bairro) | N/A |
 | 42 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
-| 43 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 44 | [Maria do Bairro](http://twitter.com/search?q=Maria+do+Bairro) | N/A |
+| 43 | [Usurpadora](http://twitter.com/search?q=Usurpadora) | N/A |
+| 44 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
 | 45 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
-| 46 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 47 | [Mineirão](http://twitter.com/search?q=Mineir%c3%a3o) | Mineirão is a football stadium located in Belo Horizonte, Brazil. It is the home of the Cruzeiro Esporte Clube and Atlético Mineiro football clubs. The name Mineirão is a reference to the state of Minas Gerais, where Belo Horizonte is located. In English, Mineirão translates to "Big Mineiro". |
-| 48 | [Brasiliense](http://twitter.com/search?q=Brasiliense) | N/A |
-| 49 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 50 | [Usurpadora](http://twitter.com/search?q=Usurpadora) | N/A |
+| 46 | [Brasiliense](http://twitter.com/search?q=Brasiliense) | N/A |
+| 47 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 48 | [Erechim](http://twitter.com/search?q=Erechim) | N/A |
+| 49 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 50 | [Shadow and Bone](http://twitter.com/search?q=Shadow+and+Bone) | N/A |
 
 
 

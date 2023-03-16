@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-16 06:17:16 UTC`
+📆 Last Updated: `2023-03-16 07:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
-| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 1 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 2 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
 | 3 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 4 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
-| 5 | [Sonnenaufgang](http://twitter.com/search?q=Sonnenaufgang) | N/A |
-| 6 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 7 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 8 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 9 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 10 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 11 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
-| 12 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 13 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 14 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 15 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 16 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 17 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 18 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 19 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 20 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 21 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 22 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 23 | [bundid](http://twitter.com/search?q=bundid) | N/A |
-| 24 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 25 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 26 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
-| 27 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 28 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
-| 29 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 30 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 31 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 32 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 33 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 34 | [Flips](http://twitter.com/search?q=Flips) | N/A |
-| 35 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 36 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 37 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
-| 38 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
-| 39 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 40 | [Vollidioten](http://twitter.com/search?q=Vollidioten) | N/A |
-| 41 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 42 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
-| 43 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 44 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 45 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 46 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 47 | [Studis](http://twitter.com/search?q=Studis) | N/A |
-| 48 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 49 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 4 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
+| 5 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 6 | [Sonnenaufgang](http://twitter.com/search?q=Sonnenaufgang) | N/A |
+| 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 8 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 9 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 10 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 11 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 12 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 13 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 14 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 16 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 17 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
+| 18 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 19 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 20 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
+| 21 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 22 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 23 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 24 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 25 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
+| 26 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 27 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 28 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 29 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
+| 30 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 31 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 32 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 33 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 34 | [zugangscode](http://twitter.com/search?q=zugangscode) | N/A |
+| 35 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
+| 36 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 37 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 38 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
+| 39 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 40 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 41 | [Missy](http://twitter.com/search?q=Missy) | Missy is a term of endearment used to refer to a young woman or girl. It is derived from the word "miss" and is often used as a nickname for someone who is seen as cute, endearing, or attractive. |
+| 42 | [Verkehrssektor](http://twitter.com/search?q=Verkehrssektor) | N/A |
+| 43 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 44 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 45 | [Einrad](http://twitter.com/search?q=Einrad) | N/A |
+| 46 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 47 | [elster](http://twitter.com/search?q=elster) | N/A |
+| 48 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 49 | [rtl ii](http://twitter.com/search?q=rtl+ii) | N/A |
 
 
 

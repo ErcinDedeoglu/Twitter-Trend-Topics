@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-16 06:17:41 UTC`
+📆 Last Updated: `2023-03-16 07:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 2 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 5 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 6 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 7 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 8 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 9 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
-| 10 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 11 | [Luka and Kyrie](http://twitter.com/search?q=Luka+and+Kyrie) | Luka and Kyrie is a phrase used to refer to the two NBA superstars, Luka Doncic and Kyrie Irving. The phrase is often used to describe the duo's incredible talent and potential as basketball players. |
-| 12 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 13 | [#PorVida](http://twitter.com/search?q=%23PorVida) | N/A |
-| 14 | [Houston ISD](http://twitter.com/search?q=Houston+ISD) | N/A |
-| 15 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 16 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 17 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 18 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 19 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 20 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 21 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 22 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 23 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 24 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 25 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 26 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 27 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 28 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 29 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 30 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 31 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 32 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 33 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 34 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 35 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 36 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 37 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 38 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 39 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 40 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
-| 41 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 42 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 43 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 44 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 45 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 46 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 47 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 48 | [Evil Dead Rise](http://twitter.com/search?q=Evil+Dead+Rise) | N/A |
-| 49 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 50 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 1 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 2 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 4 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 7 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 8 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
+| 9 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 11 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 12 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 13 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 14 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 15 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 16 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 17 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
+| 18 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 19 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 20 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 21 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 22 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 23 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 24 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 25 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 26 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 27 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 28 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 29 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 30 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 31 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
+| 32 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 33 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 34 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 35 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 36 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 37 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 38 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 39 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 40 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 41 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 42 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 43 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 44 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 45 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 46 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 47 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 48 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 49 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 50 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
 
 
 

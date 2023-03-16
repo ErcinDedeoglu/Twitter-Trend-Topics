@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-16 06:17:41 UTC`
+📆 Last Updated: `2023-03-16 07:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 2 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
 | 3 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 4 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 5 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 6 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 7 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 8 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 9 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 10 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 11 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 12 | [Cincy](http://twitter.com/search?q=Cincy) | Cincy is a nickname for the city of Cincinnati, Ohio. It is derived from the city's name and is commonly used by locals. |
-| 13 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 14 | [#RuleTheJungle](http://twitter.com/search?q=%23RuleTheJungle) | #RuleTheJungle is a phrase that is used to encourage people to take control of their lives and be the master of their own destiny. It is a call to action for people to take charge and be the leader of their own lives. |
-| 15 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
-| 16 | [#Bearcats](http://twitter.com/search?q=%23Bearcats) | N/A |
-| 17 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 18 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 19 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 20 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 21 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 22 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 23 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 24 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 25 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 26 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 27 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 28 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 29 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 30 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 31 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 32 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 33 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 34 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 35 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 36 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 37 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 38 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 39 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 40 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 41 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
-| 42 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 43 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 44 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 45 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 46 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 47 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 48 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 49 | [Evil Dead Rise](http://twitter.com/search?q=Evil+Dead+Rise) | N/A |
+| 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 5 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 6 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 7 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
+| 8 | [#Bearcats](http://twitter.com/search?q=%23Bearcats) | N/A |
+| 9 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 11 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 12 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 13 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 14 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 15 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 16 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 17 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
+| 18 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 19 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 20 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 21 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 22 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 23 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 24 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 25 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 26 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 27 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 28 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 29 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 30 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
+| 31 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 32 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 33 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 34 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 35 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 36 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 37 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 38 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 39 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 40 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 41 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 42 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 43 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 44 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 45 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 46 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 47 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 48 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 49 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
 
 
 

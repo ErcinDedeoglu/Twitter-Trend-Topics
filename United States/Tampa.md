@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-16 06:17:47 UTC`
+📆 Last Updated: `2023-03-16 07:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 2 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
-| 3 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 4 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 5 | [#HEATCulture](http://twitter.com/search?q=%23HEATCulture) | N/A |
-| 6 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 7 | [#VamosOrlando](http://twitter.com/search?q=%23VamosOrlando) | N/A |
-| 8 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 9 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 11 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 12 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 13 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 14 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 15 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 16 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 17 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 18 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 19 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 20 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 21 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 2 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 3 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 4 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 5 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 6 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 7 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 8 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 9 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 10 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 11 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 12 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 13 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
+| 14 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 15 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 16 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 17 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 18 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 19 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 20 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 21 | [Binner](http://twitter.com/search?q=Binner) | N/A |
 | 22 | [Flower](http://twitter.com/search?q=Flower) | N/A |
 | 23 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 24 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 24 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
 | 25 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 26 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 27 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 28 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 29 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 30 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 31 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
-| 32 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 33 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 34 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 35 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 36 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 37 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 38 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 39 | [Evil Dead Rise](http://twitter.com/search?q=Evil+Dead+Rise) | N/A |
-| 40 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 41 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 42 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 26 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
+| 27 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 28 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 29 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 30 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 31 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 32 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 33 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 34 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 35 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 36 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 37 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 38 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 39 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 40 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
+| 41 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 42 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
 | 43 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 44 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
-| 45 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 46 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 47 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
-| 48 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 49 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 44 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 45 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 46 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 47 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 48 | [Ryan Reaves](http://twitter.com/search?q=Ryan+Reaves) | N/A |
+| 49 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
 
 
 
