@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-16 10:16:58 UTC`
+📆 Last Updated: `2023-03-16 11:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 2 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 3 | [Prabowo Hatinya Tulus](http://twitter.com/search?q=Prabowo+Hatinya+Tulus) | N/A |
-| 4 | [Politik Baik Gerindra](http://twitter.com/search?q=Politik+Baik+Gerindra) | N/A |
-| 5 | [Rakyat NyamanPilih Prabowo](http://twitter.com/search?q=Rakyat+NyamanPilih+Prabowo) | N/A |
-| 6 | [Sunda](http://twitter.com/search?q=Sunda) | N/A |
-| 7 | [#MuDAberaNNY](http://twitter.com/search?q=%23MuDAberaNNY) | N/A |
-| 8 | [Danny Praditya](http://twitter.com/search?q=Danny+Praditya) | N/A |
-| 9 | [#FightingClimateChange](http://twitter.com/search?q=%23FightingClimateChange) | N/A |
-| 10 | [#TangkapAgus](http://twitter.com/search?q=%23TangkapAgus) | N/A |
-| 11 | [FABA](http://twitter.com/search?q=FABA) | N/A |
-| 12 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 13 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 14 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 15 | [PKB KAHIJI](http://twitter.com/search?q=PKB+KAHIJI) | N/A |
+| 3 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 4 | [#MuDAberaNNY](http://twitter.com/search?q=%23MuDAberaNNY) | N/A |
+| 5 | [Danny Praditya](http://twitter.com/search?q=Danny+Praditya) | N/A |
+| 6 | [#FightingClimateChange](http://twitter.com/search?q=%23FightingClimateChange) | N/A |
+| 7 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
+| 8 | [#TangkapAgus](http://twitter.com/search?q=%23TangkapAgus) | N/A |
+| 9 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 10 | [FABA](http://twitter.com/search?q=FABA) | N/A |
+| 11 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 12 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 13 | [Bab 1](http://twitter.com/search?q=Bab+1) | N/A |
+| 14 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
+| 15 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
 | 16 | [JABAR NGAHIJI](http://twitter.com/search?q=JABAR+NGAHIJI) | N/A |
-| 17 | [Spesialis](http://twitter.com/search?q=Spesialis) | N/A |
-| 18 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 19 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 20 | [KIM JUNKYU](http://twitter.com/search?q=KIM+JUNKYU) | N/A |
-| 21 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 22 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 23 | [Turut](http://twitter.com/search?q=Turut) | N/A |
-| 24 | [Bawah](http://twitter.com/search?q=Bawah) | N/A |
-| 25 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 26 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
-| 27 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 28 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 29 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
-| 30 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
-| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 32 | [#GetWellSoonGemini](http://twitter.com/search?q=%23GetWellSoonGemini) | N/A |
-| 33 | [#AwesomeGeneration](http://twitter.com/search?q=%23AwesomeGeneration) | N/A |
-| 34 | [#GalaxyA34](http://twitter.com/search?q=%23GalaxyA34) | N/A |
-| 35 | [#IbukotaBaruMendunia](http://twitter.com/search?q=%23IbukotaBaruMendunia) | N/A |
-| 36 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
-| 37 | [#DrRomantic3](http://twitter.com/search?q=%23DrRomantic3) | N/A |
-| 38 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 39 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
-| 40 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
-| 41 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
-| 42 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 43 | [#IndonesiaMaju](http://twitter.com/search?q=%23IndonesiaMaju) | N/A |
+| 17 | [PKB KAHIJI](http://twitter.com/search?q=PKB+KAHIJI) | N/A |
+| 18 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 19 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 20 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 21 | [Spesialis](http://twitter.com/search?q=Spesialis) | N/A |
+| 22 | [Bawah](http://twitter.com/search?q=Bawah) | N/A |
+| 23 | [KIM JUNKYU](http://twitter.com/search?q=KIM+JUNKYU) | N/A |
+| 24 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
+| 25 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 26 | [Turut](http://twitter.com/search?q=Turut) | N/A |
+| 27 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 28 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 29 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
+| 30 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 31 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
+| 32 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
+| 33 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
+| 34 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 35 | [#AwesomeGeneration](http://twitter.com/search?q=%23AwesomeGeneration) | N/A |
+| 36 | [#GalaxyA34](http://twitter.com/search?q=%23GalaxyA34) | N/A |
+| 37 | [#GetWellSoonGemini](http://twitter.com/search?q=%23GetWellSoonGemini) | N/A |
+| 38 | [#IbukotaBaruMendunia](http://twitter.com/search?q=%23IbukotaBaruMendunia) | N/A |
+| 39 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 40 | [#DrRomantic3](http://twitter.com/search?q=%23DrRomantic3) | N/A |
+| 41 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 42 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
+| 43 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
 | 44 | [#BlibliSelalu](http://twitter.com/search?q=%23BlibliSelalu) | N/A |
 | 45 | [#MilePhakphum](http://twitter.com/search?q=%23MilePhakphum) | N/A |
-| 46 | [#Pemilu2024](http://twitter.com/search?q=%23Pemilu2024) | N/A |
-| 47 | [#XLGames](http://twitter.com/search?q=%23XLGames) | N/A |
+| 46 | [#IndonesiaMaju](http://twitter.com/search?q=%23IndonesiaMaju) | N/A |
+| 47 | [#Pemilu2024](http://twitter.com/search?q=%23Pemilu2024) | N/A |
 
 
 

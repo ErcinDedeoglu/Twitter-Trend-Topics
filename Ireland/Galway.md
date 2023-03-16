@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-16 10:16:51 UTC`
+📆 Last Updated: `2023-03-16 11:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 2 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 3 | [St John Ambulance](http://twitter.com/search?q=St+John+Ambulance) | N/A |
-| 4 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 5 | [St Patrick's Day](http://twitter.com/search?q=St+Patrick%27s+Day) | N/A |
-| 6 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 7 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 8 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 9 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 10 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
+| 1 | [Ryan Tubridy](http://twitter.com/search?q=Ryan+Tubridy) | N/A |
+| 2 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 3 | [The Late Late Show](http://twitter.com/search?q=The+Late+Late+Show) | N/A |
+| 4 | [St Patrick's Day](http://twitter.com/search?q=St+Patrick%27s+Day) | N/A |
+| 5 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 6 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 7 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 8 | [#BreakTheSilence](http://twitter.com/search?q=%23BreakTheSilence) | N/A |
+| 9 | [St John Ambulance](http://twitter.com/search?q=St+John+Ambulance) | N/A |
+| 10 | [stephen kenny](http://twitter.com/search?q=stephen+kenny) | N/A |
 | 11 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 12 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 13 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 15 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 18 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 19 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 20 | [YNWA](http://twitter.com/search?q=YNWA) | N/A |
-| 21 | [#ThePiano](http://twitter.com/search?q=%23ThePiano) | N/A |
-| 22 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
-| 23 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 24 | [Eamonn](http://twitter.com/search?q=Eamonn) | N/A |
-| 25 | [Geraldine](http://twitter.com/search?q=Geraldine) | N/A |
-| 26 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 28 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 29 | [impaire et passe](http://twitter.com/search?q=impaire+et+passe) | N/A |
-| 30 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 31 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 32 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 33 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
-| 34 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
-| 35 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 36 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 37 | [Julia Roberts](http://twitter.com/search?q=Julia+Roberts) | N/A |
-| 38 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 39 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 40 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
-| 41 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 42 | [John Kiely](http://twitter.com/search?q=John+Kiely) | N/A |
-| 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 44 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
-| 45 | [gerry armstrong](http://twitter.com/search?q=gerry+armstrong) | N/A |
-| 46 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 47 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 48 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
-| 49 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 12 | [#CheltenhamFestival](http://twitter.com/search?q=%23CheltenhamFestival) | N/A |
+| 13 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 14 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 16 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 17 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 18 | [Impaire Et Passe](http://twitter.com/search?q=Impaire+Et+Passe) | N/A |
+| 19 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 20 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 21 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 22 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 23 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 24 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
+| 25 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
+| 26 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 27 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 28 | [Dungarvan](http://twitter.com/search?q=Dungarvan) | N/A |
+| 29 | [Erling Haaland](http://twitter.com/search?q=Erling+Haaland) | Erling Haaland is a Norwegian professional footballer who plays as a striker for Borussia Dortmund and the Norway national team. His name translates to "Eagle of the Sea" in English. |
+| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 31 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 32 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 33 | [Energumene](http://twitter.com/search?q=Energumene) | N/A |
+| 34 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 35 | [John Kiely](http://twitter.com/search?q=John+Kiely) | N/A |
+| 36 | [United Ireland](http://twitter.com/search?q=United+Ireland) | N/A |
+| 37 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 38 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
+| 39 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 40 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
+| 41 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 42 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 43 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 44 | [Eamonn](http://twitter.com/search?q=Eamonn) | N/A |
+| 45 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 46 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 47 | [Colm](http://twitter.com/search?q=Colm) | N/A |
+| 48 | [Unionism](http://twitter.com/search?q=Unionism) | N/A |
+| 49 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 
 
 

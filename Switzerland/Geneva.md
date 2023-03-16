@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-16 10:16:56 UTC`
+📆 Last Updated: `2023-03-16 11:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 2 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 3 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 5 | [#NapoliEintracht](http://twitter.com/search?q=%23NapoliEintracht) | N/A |
-| 6 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 8 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
-| 9 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 10 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 11 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 12 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 13 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 14 | [La BNS](http://twitter.com/search?q=La+BNS) | N/A |
-| 15 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 16 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
-| 17 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 18 | [hacktätschli](http://twitter.com/search?q=hackt%c3%a4tschli) | N/A |
-| 19 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 20 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
-| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 22 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 23 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 24 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 25 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 26 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 27 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 28 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
-| 29 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 30 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 31 | [Alpen](http://twitter.com/search?q=Alpen) | N/A |
-| 32 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 33 | [Drittel](http://twitter.com/search?q=Drittel) | N/A |
-| 34 | [kontext](http://twitter.com/search?q=kontext) | N/A |
-| 35 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 36 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
-| 37 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 38 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 39 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
-| 40 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 41 | [Konto](http://twitter.com/search?q=Konto) | N/A |
-| 42 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
-| 43 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
-| 44 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 45 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 46 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 47 | [Patienten](http://twitter.com/search?q=Patienten) | N/A |
-| 48 | [Witz](http://twitter.com/search?q=Witz) | N/A |
+| 3 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 4 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 6 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 7 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 8 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 9 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 10 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
+| 11 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 12 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
+| 13 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 14 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 15 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 16 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
+| 17 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 18 | [La BNS](http://twitter.com/search?q=La+BNS) | N/A |
+| 19 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 22 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 23 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 24 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 25 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 26 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 27 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 28 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 29 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 30 | [London](http://twitter.com/search?q=London) | N/A |
+| 31 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 32 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
+| 33 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 34 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 35 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 36 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 37 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 38 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 39 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 40 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 41 | [strasse](http://twitter.com/search?q=strasse) | N/A |
+| 42 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 43 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 44 | [Programm](http://twitter.com/search?q=Programm) | N/A |
+| 45 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 46 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 47 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 48 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-03-16 10:17:33 UTC`
+📆 Last Updated: `2023-03-16 11:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ツイートAI分析](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88AI%e5%88%86%e6%9e%90) | N/A |
-| 2 | [ネッシー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc) | N/A |
-| 3 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
-| 4 | [イーウィヤ](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%a6%e3%82%a3%e3%83%a4) | N/A |
-| 5 | [アスタリア](http://twitter.com/search?q=%e3%82%a2%e3%82%b9%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
-| 6 | [村上5番](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a5%e7%95%aa) | N/A |
-| 7 | [#あなたのチー牛度](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e3%83%81%e3%83%bc%e7%89%9b%e5%ba%a6) | N/A |
-| 8 | [ローラン](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
-| 9 | [源田スタメン](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 10 | [転スラコラボ](http://twitter.com/search?q=%e8%bb%a2%e3%82%b9%e3%83%a9%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 11 | [源田さん](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 12 | [野球ハラスメント](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%83%8f%e3%83%a9%e3%82%b9%e3%83%a1%e3%83%b3%e3%83%88) | N/A |
-| 13 | [プレイボール](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 14 | [源田大丈夫](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
-| 15 | [秘匿タブ](http://twitter.com/search?q=%e7%a7%98%e5%8c%bf%e3%82%bf%e3%83%96) | N/A |
-| 16 | [ディオナ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%aa%e3%83%8a) | N/A |
-| 17 | [圧倒的リア充](http://twitter.com/search?q=%e5%9c%a7%e5%80%92%e7%9a%84%e3%83%aa%e3%82%a2%e5%85%85) | 圧倒的リア充 is a Japanese phrase that translates to "overwhelmingly real-life oriented". It is used to describe someone who is focused on their real life and not on virtual or online activities. |
-| 18 | [次のフェス](http://twitter.com/search?q=%e6%ac%a1%e3%81%ae%e3%83%95%e3%82%a7%e3%82%b9) | 次のフェス is a Japanese phrase that translates to "next festival" in English. It is used to refer to an upcoming event or celebration. |
-| 19 | [普通の陽キャ](http://twitter.com/search?q=%e6%99%ae%e9%80%9a%e3%81%ae%e9%99%bd%e3%82%ad%e3%83%a3) | N/A |
-| 20 | [スクロース](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%ad%e3%83%bc%e3%82%b9) | N/A |
-| 21 | [冷やかし](http://twitter.com/search?q=%e5%86%b7%e3%82%84%e3%81%8b%e3%81%97) | N/A |
-| 22 | [ガチのチー牛](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%81%ae%e3%83%81%e3%83%bc%e7%89%9b) | N/A |
-| 23 | [村上4番](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a4%e7%95%aa) | N/A |
-| 24 | [吉田4番](http://twitter.com/search?q=%e5%90%89%e7%94%b04%e7%95%aa) | N/A |
-| 25 | [武器ガチャ](http://twitter.com/search?q=%e6%ad%a6%e5%99%a8%e3%82%ac%e3%83%81%e3%83%a3) | 武器ガチャ (Buki Gacha) is a type of Japanese gacha game where players can use virtual currency to purchase virtual weapons. The weapons can then be used in battle or to customize characters. The English translation of 武器ガチャ is "Weapon Gacha". |
-| 26 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
-| 27 | [水着モニカ](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%83%a2%e3%83%8b%e3%82%ab) | N/A |
-| 28 | [非国民扱い](http://twitter.com/search?q=%e9%9d%9e%e5%9b%bd%e6%b0%91%e6%89%b1%e3%81%84) | N/A |
-| 29 | [宇宙人一択](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e4%ba%ba%e4%b8%80%e6%8a%9e) | N/A |
-| 30 | [ヌメルゴン](http://twitter.com/search?q=%e3%83%8c%e3%83%a1%e3%83%ab%e3%82%b4%e3%83%b3) | N/A |
-| 31 | [シャルルマーニュ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%ab%e3%83%9e%e3%83%bc%e3%83%8b%e3%83%a5) | N/A |
-| 32 | [源田骨折](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e9%aa%a8%e6%8a%98) | N/A |
-| 33 | [源田選手](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e9%81%b8%e6%89%8b) | N/A |
-| 34 | [正尚4番](http://twitter.com/search?q=%e6%ad%a3%e5%b0%9a4%e7%95%aa) | N/A |
-| 35 | [源田復帰](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e5%be%a9%e5%b8%b0) | N/A |
-| 36 | [ANNX継続](http://twitter.com/search?q=ANNX%e7%b6%99%e7%b6%9a) | N/A |
-| 37 | [ドリームカード](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%bc%e3%83%a0%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 38 | [メモリアルガチャ](http://twitter.com/search?q=%e3%83%a1%e3%83%a2%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 39 | [ゼリーフライ](http://twitter.com/search?q=%e3%82%bc%e3%83%aa%e3%83%bc%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
-| 40 | [SAITAMA](http://twitter.com/search?q=SAITAMA) | N/A |
-| 41 | [大谷の声](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%ae%e5%a3%b0) | N/A |
-| 42 | [ミカくん](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%81%8f%e3%82%93) | ミカくん is a character from the Japanese manga series, Yotsuba&!. His name is Mi-Kun and he is a small, green alien who befriends the main character, Yotsuba. He often helps her with her various adventures. |
-| 43 | [スプラフェス](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | スプラフェス (SplaFes) is an annual event held by Nintendo for the Splatoon series of video games. It is a celebration of the Splatoon franchise, featuring tournaments, exclusive merchandise, and special in-game content. The English translation of スプラフェス is Splatfest. |
-| 44 | [源田復活](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e5%be%a9%e6%b4%bb) | N/A |
-| 45 | [国際手配](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e6%89%8b%e9%85%8d) | N/A |
-| 46 | [公開タブ](http://twitter.com/search?q=%e5%85%ac%e9%96%8b%e3%82%bf%e3%83%96) | N/A |
-| 47 | [Adoさん](http://twitter.com/search?q=Ado%e3%81%95%e3%82%93) | N/A |
+| 2 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
+| 3 | [ネッシー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc) | N/A |
+| 4 | [大谷バント](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%90%e3%83%b3%e3%83%88) | N/A |
+| 5 | [サインミス](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%b3%e3%83%9f%e3%82%b9) | N/A |
+| 6 | [#WBC準々決勝](http://twitter.com/search?q=%23WBC%e6%ba%96%e3%80%85%e6%b1%ba%e5%8b%9d) | N/A |
+| 7 | [イーウィヤ](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%a6%e3%82%a3%e3%83%a4) | N/A |
+| 8 | [セーフティ](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%95%e3%83%86%e3%82%a3) | N/A |
+| 9 | [岡本ホームラン](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 10 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
+| 11 | [岡本和真](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e5%92%8c%e7%9c%9f) | N/A |
+| 12 | [岡本さん](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
+| 13 | [スリーラン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
+| 14 | [岡本選手](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e9%81%b8%e6%89%8b) | N/A |
+| 15 | [#あなたのチー牛度](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e3%83%81%e3%83%bc%e7%89%9b%e5%ba%a6) | N/A |
+| 16 | [アスタリア](http://twitter.com/search?q=%e3%82%a2%e3%82%b9%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
+| 17 | [ローラン](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
+| 18 | [#VS魂](http://twitter.com/search?q=%23VS%e9%ad%82) | #VS魂 is a hashtag used by Japanese gamers to express their enthusiasm for playing video games. It translates to "Soul of VS" and is used to show their passion for competing against others in video games. |
+| 19 | [日本先制](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%85%88%e5%88%b6) | N/A |
+| 20 | [村上5番](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a5%e7%95%aa) | N/A |
+| 21 | [巨人の4番](http://twitter.com/search?q=%e5%b7%a8%e4%ba%ba%e3%81%ae4%e7%95%aa) | N/A |
+| 22 | [源田さん](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 23 | [源田スタメン](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 24 | [岡本3ラン](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac3%e3%83%a9%e3%83%b3) | N/A |
+| 25 | [ナイスホームラン](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 26 | [エンドラン](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%89%e3%83%a9%e3%83%b3) | N/A |
+| 27 | [転スラコラボ](http://twitter.com/search?q=%e8%bb%a2%e3%82%b9%e3%83%a9%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 28 | [大谷さんバント](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93%e3%83%90%e3%83%b3%e3%83%88) | N/A |
+| 29 | [ラソーサ](http://twitter.com/search?q=%e3%83%a9%e3%82%bd%e3%83%bc%e3%82%b5) | N/A |
+| 30 | [野球ハラスメント](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%83%8f%e3%83%a9%e3%82%b9%e3%83%a1%e3%83%b3%e3%83%88) | N/A |
+| 31 | [岡本くん](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e3%81%8f%e3%82%93) | N/A |
+| 32 | [水着アズサ](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%82%a2%e3%82%ba%e3%82%b5) | N/A |
+| 33 | [オオタニサンのバント](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3%e3%81%ae%e3%83%90%e3%83%b3%e3%83%88) | N/A |
+| 34 | [水着モニカ](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%83%a2%e3%83%8b%e3%82%ab) | N/A |
+| 35 | [フレッチャー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 36 | [センター前](http://twitter.com/search?q=%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e5%89%8d) | N/A |
+| 37 | [大谷シフト](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%82%b7%e3%83%95%e3%83%88) | N/A |
+| 38 | [カステラニ](http://twitter.com/search?q=%e3%82%ab%e3%82%b9%e3%83%86%e3%83%a9%e3%83%8b) | N/A |
+| 39 | [ドームラン](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 40 | [盗塁失敗](http://twitter.com/search?q=%e7%9b%97%e5%a1%81%e5%a4%b1%e6%95%97) | N/A |
+| 41 | [源田大丈夫](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
+| 42 | [ガチャピン](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e3%83%94%e3%83%b3) | ガチャピン is a Japanese slang term derived from the phrase "gachapon," which is a type of vending machine that dispenses small toys and collectibles. The term is used to describe someone who is passionate and enthusiastic about something, often to an extreme degree. In English, it can be translated as "super fan" or "die-hard fan." |
+| 43 | [プレイボール](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
+| 44 | [大谷の声](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%ae%e5%a3%b0) | N/A |
+| 45 | [見逃し三振](http://twitter.com/search?q=%e8%a6%8b%e9%80%83%e3%81%97%e4%b8%89%e6%8c%af) | N/A |
+| 46 | [秘匿タブ](http://twitter.com/search?q=%e7%a7%98%e5%8c%bf%e3%82%bf%e3%83%96) | N/A |
+| 47 | [次のフェス](http://twitter.com/search?q=%e6%ac%a1%e3%81%ae%e3%83%95%e3%82%a7%e3%82%b9) | 次のフェス is a Japanese phrase that translates to "next festival" in English. It is used to refer to an upcoming event or celebration. |
+| 48 | [ナイスバント](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%90%e3%83%b3%e3%83%88) | N/A |
+| 49 | [ノーアウト1](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%881) | N/A |
+| 50 | [普通の陽キャ](http://twitter.com/search?q=%e6%99%ae%e9%80%9a%e3%81%ae%e9%99%bd%e3%82%ad%e3%83%a3) | N/A |
 
 
 

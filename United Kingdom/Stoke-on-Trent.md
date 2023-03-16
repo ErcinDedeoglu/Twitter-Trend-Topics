@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-16 10:16:42 UTC`
+📆 Last Updated: `2023-03-16 11:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 2 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 3 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 1 | [Tracey](http://twitter.com/search?q=Tracey) | N/A |
+| 2 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 3 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
 | 4 | [#ToryLiars](http://twitter.com/search?q=%23ToryLiars) | N/A |
-| 5 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 6 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 7 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 5 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 6 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 7 | [#ThePiano](http://twitter.com/search?q=%23ThePiano) | N/A |
+| 8 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 9 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
 | 10 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
 | 11 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 12 | [#ASongOrMovieForLips](http://twitter.com/search?q=%23ASongOrMovieForLips) | N/A |
-| 13 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 14 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 15 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
-| 16 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 17 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 18 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 19 | [Home By The Lee](http://twitter.com/search?q=Home+By+The+Lee) | N/A |
-| 20 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
-| 21 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
-| 22 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
-| 23 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 24 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
-| 25 | [Capri](http://twitter.com/search?q=Capri) | N/A |
-| 26 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 27 | [Trumpian](http://twitter.com/search?q=Trumpian) | N/A |
-| 28 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 29 | [Strikes](http://twitter.com/search?q=Strikes) | N/A |
-| 30 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
+| 12 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 13 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 14 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 15 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
+| 16 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
+| 17 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 18 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
+| 19 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
+| 20 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 21 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 22 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
+| 23 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 24 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
+| 25 | [Home By The Lee](http://twitter.com/search?q=Home+By+The+Lee) | N/A |
+| 26 | [Carra](http://twitter.com/search?q=Carra) | N/A |
+| 27 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
+| 28 | [Trumpian](http://twitter.com/search?q=Trumpian) | N/A |
+| 29 | [Capri](http://twitter.com/search?q=Capri) | N/A |
+| 30 | [Strikes](http://twitter.com/search?q=Strikes) | N/A |
 | 31 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
-| 32 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 33 | [Victoria Derbyshire](http://twitter.com/search?q=Victoria+Derbyshire) | N/A |
-| 34 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
-| 35 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 36 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 37 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 38 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 39 | [Comic Relief](http://twitter.com/search?q=Comic+Relief) | N/A |
-| 40 | [St Patrick's Day](http://twitter.com/search?q=St+Patrick%27s+Day) | N/A |
-| 41 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 42 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 43 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
-| 44 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 45 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 46 | [#ToriesOut252](http://twitter.com/search?q=%23ToriesOut252) | N/A |
-| 47 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 48 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 32 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 33 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
+| 34 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 35 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
+| 36 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 37 | [Khan](http://twitter.com/search?q=Khan) | N/A |
+| 38 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 39 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 40 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
+| 41 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 42 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 43 | [SNP HQ](http://twitter.com/search?q=SNP+HQ) | N/A |
+| 44 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 45 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 46 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 47 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
 
 
 

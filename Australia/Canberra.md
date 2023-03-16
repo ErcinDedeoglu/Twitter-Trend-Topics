@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-16 10:16:59 UTC`
+📆 Last Updated: `2023-03-16 11:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AFLTigersBlues](http://twitter.com/search?q=%23AFLTigersBlues) | N/A |
-| 2 | [Keating](http://twitter.com/search?q=Keating) | N/A |
-| 3 | [#NRLManlyEels](http://twitter.com/search?q=%23NRLManlyEels) | N/A |
-| 4 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 5 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 6 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 7 | [#NetballChaos](http://twitter.com/search?q=%23NetballChaos) | N/A |
-| 8 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
-| 9 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 2 | [#NRLManlyEels](http://twitter.com/search?q=%23NRLManlyEels) | N/A |
+| 3 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 4 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 5 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 6 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 7 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 8 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 9 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 10 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 11 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 12 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 11 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 12 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
+| 13 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
 | 14 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
-| 15 | [Riewoldt](http://twitter.com/search?q=Riewoldt) | N/A |
-| 16 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
-| 17 | [#GoggleboxAU](http://twitter.com/search?q=%23GoggleboxAU) | N/A |
-| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 19 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
-| 20 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
-| 21 | [Schuster](http://twitter.com/search?q=Schuster) | N/A |
-| 22 | [McGovern](http://twitter.com/search?q=McGovern) | N/A |
-| 23 | [McKay](http://twitter.com/search?q=McKay) | N/A |
-| 24 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 25 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
-| 26 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
-| 27 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 28 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 29 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
-| 30 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 31 | [Lewis Young](http://twitter.com/search?q=Lewis+Young) | N/A |
-| 32 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 33 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
-| 34 | [Marles](http://twitter.com/search?q=Marles) | N/A |
-| 35 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
-| 36 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
-| 37 | [Latitude Financial](http://twitter.com/search?q=Latitude+Financial) | N/A |
-| 38 | [Ed Curnow](http://twitter.com/search?q=Ed+Curnow) | N/A |
-| 39 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 40 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 41 | [Albanese](http://twitter.com/search?q=Albanese) | N/A |
-| 42 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
-| 43 | [Prestia](http://twitter.com/search?q=Prestia) | N/A |
-| 44 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 45 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
-| 46 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 47 | [Blade Runner](http://twitter.com/search?q=Blade+Runner) | N/A |
-| 48 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 49 | [Sea Eagles](http://twitter.com/search?q=Sea+Eagles) | N/A |
+| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 16 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
+| 17 | [#NetballChaos](http://twitter.com/search?q=%23NetballChaos) | N/A |
+| 18 | [#Baggers](http://twitter.com/search?q=%23Baggers) | N/A |
+| 19 | [McGovern](http://twitter.com/search?q=McGovern) | N/A |
+| 20 | [Schuster](http://twitter.com/search?q=Schuster) | N/A |
+| 21 | [Acres](http://twitter.com/search?q=Acres) | N/A |
+| 22 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 23 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
+| 24 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
+| 25 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 26 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 27 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
+| 28 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
+| 29 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
+| 30 | [Curnow](http://twitter.com/search?q=Curnow) | N/A |
+| 31 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
+| 32 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
+| 33 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
+| 34 | [Docherty](http://twitter.com/search?q=Docherty) | N/A |
+| 35 | [Lachie Cowan](http://twitter.com/search?q=Lachie+Cowan) | N/A |
+| 36 | [Garrick](http://twitter.com/search?q=Garrick) | N/A |
+| 37 | [Lewis Young](http://twitter.com/search?q=Lewis+Young) | N/A |
+| 38 | [Brad Parker](http://twitter.com/search?q=Brad+Parker) | N/A |
+| 39 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 40 | [Brian Taylor](http://twitter.com/search?q=Brian+Taylor) | N/A |
+| 41 | [Brad Arthur](http://twitter.com/search?q=Brad+Arthur) | N/A |
+| 42 | [Balta](http://twitter.com/search?q=Balta) | N/A |
+| 43 | [Riewoldt](http://twitter.com/search?q=Riewoldt) | N/A |
+| 44 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
+| 45 | [Ben Fordham](http://twitter.com/search?q=Ben+Fordham) | N/A |
+| 46 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 47 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
+| 48 | [Latitude Financial](http://twitter.com/search?q=Latitude+Financial) | N/A |
+| 49 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
 
 
 

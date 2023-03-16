@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-03-16 10:17:16 UTC`
+📆 Last Updated: `2023-03-16 11:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
-| 2 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
-| 3 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 4 | [#EnkazBıraktınAKP](http://twitter.com/search?q=%23EnkazB%c4%b1rakt%c4%b1nAKP) | N/A |
-| 5 | [SandıktanÖnce KadroGelsin](http://twitter.com/search?q=Sand%c4%b1ktan%c3%96nce+KadroGelsin) | N/A |
-| 6 | [#5binAboVeKısmiNerede](http://twitter.com/search?q=%235binAboVeK%c4%b1smiNerede) | N/A |
-| 7 | [Dolar 19](http://twitter.com/search?q=Dolar+19) | N/A |
+| 1 | [#bolu](http://twitter.com/search?q=%23bolu) | N/A |
+| 2 | [Türk Devletleri Teşkilatı](http://twitter.com/search?q=T%c3%bcrk+Devletleri+Te%c5%9fkilat%c4%b1) | N/A |
+| 3 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
+| 4 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
+| 5 | [#20marttayuzyuzekarari](http://twitter.com/search?q=%2320marttayuzyuzekarari) | N/A |
+| 6 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
+| 7 | [SandıktanÖnce KadroGelsin](http://twitter.com/search?q=Sand%c4%b1ktan%c3%96nce+KadroGelsin) | N/A |
 | 8 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
-| 9 | [Zorbay Küçük](http://twitter.com/search?q=Zorbay+K%c3%bc%c3%a7%c3%bck) | Zorbay Küçük is a Turkish phrase that translates to "tough little one." It is often used as an affectionate term for someone who is small but strong and resilient. |
-| 10 | [Daye](http://twitter.com/search?q=Daye) | N/A |
-| 11 | [Öğretmen](http://twitter.com/search?q=%c3%96%c4%9fretmen) | N/A |
-| 12 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
-| 13 | [Süleymancılar](http://twitter.com/search?q=S%c3%bcleymanc%c4%b1lar) | N/A |
-| 14 | [Günü](http://twitter.com/search?q=G%c3%bcn%c3%bc) | N/A |
-| 15 | [Elma](http://twitter.com/search?q=Elma) | N/A |
-| 16 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
-| 17 | [Beyazıt](http://twitter.com/search?q=Beyaz%c4%b1t) | N/A |
-| 18 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 19 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
-| 20 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 21 | [HER ŞEYDEN ÖNCE TÜRKİYE](http://twitter.com/search?q=HER+%c5%9eEYDEN+%c3%96NCE+T%c3%9cRK%c4%b0YE) | N/A |
-| 22 | [Milletiyle](http://twitter.com/search?q=Milletiyle) | N/A |
-| 23 | [Sosyal Bilgiler](http://twitter.com/search?q=Sosyal+Bilgiler) | N/A |
-| 24 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
-| 25 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 26 | [Urfalılar](http://twitter.com/search?q=Urfal%c4%b1lar) | N/A |
-| 27 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 28 | [Sinir](http://twitter.com/search?q=Sinir) | N/A |
-| 29 | [Mülteci](http://twitter.com/search?q=M%c3%bclteci) | N/A |
-| 30 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
-| 31 | [Doğal](http://twitter.com/search?q=Do%c4%9fal) | N/A |
-| 32 | [Derya Yanık](http://twitter.com/search?q=Derya+Yan%c4%b1k) | N/A |
+| 9 | [Menzil](http://twitter.com/search?q=Menzil) | N/A |
+| 10 | [Süleymancılar](http://twitter.com/search?q=S%c3%bcleymanc%c4%b1lar) | N/A |
+| 11 | [Dolar 19](http://twitter.com/search?q=Dolar+19) | N/A |
+| 12 | [Günü](http://twitter.com/search?q=G%c3%bcn%c3%bc) | N/A |
+| 13 | [Daye](http://twitter.com/search?q=Daye) | N/A |
+| 14 | [Zorbay Küçük](http://twitter.com/search?q=Zorbay+K%c3%bc%c3%a7%c3%bck) | Zorbay Küçük is a Turkish phrase that translates to "tough little one." It is often used as an affectionate term for someone who is small but strong and resilient. |
+| 15 | [Öğretmen](http://twitter.com/search?q=%c3%96%c4%9fretmen) | N/A |
+| 16 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
+| 17 | [Şuursuz](http://twitter.com/search?q=%c5%9euursuz) | N/A |
+| 18 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
+| 19 | [HER ŞEYDEN ÖNCE TÜRKİYE](http://twitter.com/search?q=HER+%c5%9eEYDEN+%c3%96NCE+T%c3%9cRK%c4%b0YE) | N/A |
+| 20 | [Esad](http://twitter.com/search?q=Esad) | N/A |
+| 21 | [Milletiyle](http://twitter.com/search?q=Milletiyle) | N/A |
+| 22 | [Elma](http://twitter.com/search?q=Elma) | N/A |
+| 23 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 24 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 25 | [Sosyal Bilgiler](http://twitter.com/search?q=Sosyal+Bilgiler) | N/A |
+| 26 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
+| 27 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 28 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
+| 29 | [Urfalılar](http://twitter.com/search?q=Urfal%c4%b1lar) | N/A |
+| 30 | [Mülteci](http://twitter.com/search?q=M%c3%bclteci) | N/A |
+| 31 | [Sinir](http://twitter.com/search?q=Sinir) | N/A |
+| 32 | [Tuğrul](http://twitter.com/search?q=Tu%c4%9frul) | N/A |
 | 33 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
-| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 35 | [#20marttayuzyuzekarari](http://twitter.com/search?q=%2320marttayuzyuzekarari) | N/A |
-| 36 | [#MebSosyaleSesVer](http://twitter.com/search?q=%23MebSosyaleSesVer) | N/A |
-| 37 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 34 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 36 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 37 | [#düzce](http://twitter.com/search?q=%23d%c3%bczce) | N/A |
 | 38 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
-| 39 | [#KöpeklerToplanacak](http://twitter.com/search?q=%23K%c3%b6peklerToplanacak) | N/A |
-| 40 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
-| 41 | [#StajyerinPatronuDevlet](http://twitter.com/search?q=%23StajyerinPatronuDevlet) | N/A |
-| 42 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
-| 43 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
-| 44 | [#HalabjaGenocide](http://twitter.com/search?q=%23HalabjaGenocide) | N/A |
-| 45 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
-| 46 | [#16Mart](http://twitter.com/search?q=%2316Mart) | N/A |
-| 47 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
-| 48 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
-| 49 | [#ABOHakkımızdır](http://twitter.com/search?q=%23ABOHakk%c4%b1m%c4%b1zd%c4%b1r) | N/A |
-| 50 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 39 | [#5binAboVeKısmiNerede](http://twitter.com/search?q=%235binAboVeK%c4%b1smiNerede) | N/A |
+| 40 | [#MebSosyaleSesVer](http://twitter.com/search?q=%23MebSosyaleSesVer) | N/A |
+| 41 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 42 | [#EnkazBıraktınAKP](http://twitter.com/search?q=%23EnkazB%c4%b1rakt%c4%b1nAKP) | N/A |
+| 43 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
+| 44 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
+| 45 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
+| 46 | [#KöpeklerToplanacak](http://twitter.com/search?q=%23K%c3%b6peklerToplanacak) | N/A |
+| 47 | [#HalabjaGenocide](http://twitter.com/search?q=%23HalabjaGenocide) | N/A |
+| 48 | [#16Mart1988](http://twitter.com/search?q=%2316Mart1988) | N/A |
+| 49 | [#BeyazıtKatliamı](http://twitter.com/search?q=%23Beyaz%c4%b1tKatliam%c4%b1) | N/A |
+| 50 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
 
 
 

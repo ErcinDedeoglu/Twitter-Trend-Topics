@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-16 10:16:38 UTC`
+📆 Last Updated: `2023-03-16 11:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Canada](</Canada>)
 | 3 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
 | 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
+| 6 | [#nlwx](http://twitter.com/search?q=%23nlwx) | N/A |
+| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 8 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 9 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 10 | [#nlwx](http://twitter.com/search?q=%23nlwx) | N/A |
+| 9 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
+| 10 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
 | 11 | [Harper](http://twitter.com/search?q=Harper) | N/A |
-| 12 | [Governor General](http://twitter.com/search?q=Governor+General) | N/A |
+| 12 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
 | 13 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 14 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 15 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 16 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 17 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 18 | [paul arcand](http://twitter.com/search?q=paul+arcand) | N/A |
-| 19 | [otto lopez](http://twitter.com/search?q=otto+lopez) | N/A |
-| 20 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 21 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 14 | [Governor General](http://twitter.com/search?q=Governor+General) | N/A |
+| 15 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 16 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
+| 17 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 18 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 19 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 20 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 21 | [otto lopez](http://twitter.com/search?q=otto+lopez) | N/A |
 | 22 | [Carson Briere](http://twitter.com/search?q=Carson+Briere) | N/A |
-| 23 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 24 | [MORGAN RIELLY](http://twitter.com/search?q=MORGAN+RIELLY) | N/A |
-| 25 | [patrick lagacé](http://twitter.com/search?q=patrick+lagac%c3%a9) | N/A |
-| 26 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 27 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
-| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 29 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
-| 30 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 31 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
-| 32 | [Happy PI](http://twitter.com/search?q=Happy+PI) | N/A |
-| 33 | [Lisa LaFlamme](http://twitter.com/search?q=Lisa+LaFlamme) | N/A |
-| 34 | [Gardiner](http://twitter.com/search?q=Gardiner) | N/A |
-| 35 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 36 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 37 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 38 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 39 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
-| 40 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 41 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 42 | [Bettman](http://twitter.com/search?q=Bettman) | N/A |
-| 43 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 45 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 46 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 47 | [fonderie horne](http://twitter.com/search?q=fonderie+horne) | N/A |
-| 48 | [Coyne](http://twitter.com/search?q=Coyne) | N/A |
-| 49 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 23 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 24 | [Coyne](http://twitter.com/search?q=Coyne) | N/A |
+| 25 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 26 | [gary bettman](http://twitter.com/search?q=gary+bettman) | N/A |
+| 27 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 28 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 29 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 30 | [Hooters](http://twitter.com/search?q=Hooters) | N/A |
+| 31 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
+| 32 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
+| 33 | [jayden struble](http://twitter.com/search?q=jayden+struble) | N/A |
+| 34 | [MORGAN RIELLY](http://twitter.com/search?q=MORGAN+RIELLY) | N/A |
+| 35 | [Gardiner](http://twitter.com/search?q=Gardiner) | N/A |
+| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 37 | [Lagacé](http://twitter.com/search?q=Lagac%c3%a9) | N/A |
+| 38 | [lisa laflamme](http://twitter.com/search?q=lisa+laflamme) | N/A |
+| 39 | [Paul Arcand](http://twitter.com/search?q=Paul+Arcand) | N/A |
+| 40 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 41 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
+| 42 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 43 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 44 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 45 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 46 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 47 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
+| 48 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
+| 49 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
 
 
 

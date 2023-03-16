@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-03-16 10:16:41 UTC`
+📆 Last Updated: `2023-03-16 11:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 2 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 3 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 4 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 5 | [#bhafc](http://twitter.com/search?q=%23bhafc) | N/A |
-| 6 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 7 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 10 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 11 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 12 | [#ASongOrMovieForLips](http://twitter.com/search?q=%23ASongOrMovieForLips) | N/A |
-| 13 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 14 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
-| 15 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 16 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 17 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 18 | [Home By The Lee](http://twitter.com/search?q=Home+By+The+Lee) | N/A |
+| 1 | [Tracey](http://twitter.com/search?q=Tracey) | N/A |
+| 2 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 3 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 4 | [#ToryLiars](http://twitter.com/search?q=%23ToryLiars) | N/A |
+| 5 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 6 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 7 | [#BHAFC](http://twitter.com/search?q=%23BHAFC) | N/A |
+| 8 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 10 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 11 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 12 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 13 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 14 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 15 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 16 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
+| 17 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
+| 18 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 19 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
-| 20 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
-| 21 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
-| 22 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 23 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
-| 24 | [Capri](http://twitter.com/search?q=Capri) | N/A |
-| 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 26 | [Trumpian](http://twitter.com/search?q=Trumpian) | N/A |
+| 20 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
+| 21 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 22 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 23 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
+| 24 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 25 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
+| 26 | [Home By The Lee](http://twitter.com/search?q=Home+By+The+Lee) | N/A |
 | 27 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 28 | [Strikes](http://twitter.com/search?q=Strikes) | N/A |
-| 29 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
-| 30 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
-| 31 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 32 | [Victoria Derbyshire](http://twitter.com/search?q=Victoria+Derbyshire) | N/A |
-| 33 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
-| 34 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 35 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 36 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 37 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 38 | [Comic Relief](http://twitter.com/search?q=Comic+Relief) | N/A |
-| 39 | [St Patrick's Day](http://twitter.com/search?q=St+Patrick%27s+Day) | N/A |
-| 40 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 41 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 42 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 43 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
-| 44 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 45 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 46 | [#ToriesOut252](http://twitter.com/search?q=%23ToriesOut252) | N/A |
-| 47 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 48 | [#Nsppd](http://twitter.com/search?q=%23Nsppd) | N/A |
-| 49 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 28 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
+| 29 | [Trumpian](http://twitter.com/search?q=Trumpian) | N/A |
+| 30 | [Capri](http://twitter.com/search?q=Capri) | N/A |
+| 31 | [Strikes](http://twitter.com/search?q=Strikes) | N/A |
+| 32 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
+| 33 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 34 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
+| 35 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 36 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
+| 37 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 38 | [Khan](http://twitter.com/search?q=Khan) | N/A |
+| 39 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 40 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 41 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
+| 42 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 43 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 44 | [SNP HQ](http://twitter.com/search?q=SNP+HQ) | N/A |
+| 45 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 46 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 47 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 48 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 49 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 
 
 

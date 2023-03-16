@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-16 10:16:42 UTC`
+📆 Last Updated: `2023-03-16 11:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 1 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
 | 2 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 3 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 4 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 3 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 4 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
 | 5 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 6 | [#ASongOrMovieForLips](http://twitter.com/search?q=%23ASongOrMovieForLips) | N/A |
-| 7 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 8 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 9 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
-| 10 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
-| 11 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 12 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 13 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 14 | [Home By The Lee](http://twitter.com/search?q=Home+By+The+Lee) | N/A |
-| 15 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
-| 16 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
-| 17 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
-| 18 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 19 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
-| 20 | [Capri](http://twitter.com/search?q=Capri) | N/A |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [Trumpian](http://twitter.com/search?q=Trumpian) | N/A |
-| 23 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 24 | [Strikes](http://twitter.com/search?q=Strikes) | N/A |
-| 25 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
-| 26 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 27 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
-| 28 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 29 | [Victoria Derbyshire](http://twitter.com/search?q=Victoria+Derbyshire) | N/A |
-| 30 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
-| 31 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 32 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 33 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 34 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 35 | [Comic Relief](http://twitter.com/search?q=Comic+Relief) | N/A |
-| 36 | [St Patrick's Day](http://twitter.com/search?q=St+Patrick%27s+Day) | N/A |
-| 37 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 38 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 39 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 40 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 41 | [#ToriesOut252](http://twitter.com/search?q=%23ToriesOut252) | N/A |
-| 42 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 43 | [#Nsppd](http://twitter.com/search?q=%23Nsppd) | N/A |
-| 44 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 45 | [#ToryCostOfGreedCrisis](http://twitter.com/search?q=%23ToryCostOfGreedCrisis) | N/A |
-| 46 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
-| 47 | [#IrishTop10](http://twitter.com/search?q=%23IrishTop10) | N/A |
-| 48 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
-| 49 | [#ToriesOutNow](http://twitter.com/search?q=%23ToriesOutNow) | N/A |
+| 6 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 7 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 8 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 9 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 10 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
+| 11 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
+| 12 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 13 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
+| 14 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
+| 15 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 16 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 17 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
+| 18 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 19 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
+| 20 | [Home By The Lee](http://twitter.com/search?q=Home+By+The+Lee) | N/A |
+| 21 | [Carra](http://twitter.com/search?q=Carra) | N/A |
+| 22 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
+| 23 | [Trumpian](http://twitter.com/search?q=Trumpian) | N/A |
+| 24 | [Capri](http://twitter.com/search?q=Capri) | N/A |
+| 25 | [Strikes](http://twitter.com/search?q=Strikes) | N/A |
+| 26 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
+| 27 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 28 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
+| 29 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 30 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
+| 31 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 32 | [Khan](http://twitter.com/search?q=Khan) | N/A |
+| 33 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 34 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 35 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
+| 36 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 37 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 38 | [SNP HQ](http://twitter.com/search?q=SNP+HQ) | N/A |
+| 39 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 40 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 41 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 42 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 43 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 44 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 45 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 46 | [#ASongOrMovieForLips](http://twitter.com/search?q=%23ASongOrMovieForLips) | N/A |
+| 47 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
+| 48 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
 
 
 

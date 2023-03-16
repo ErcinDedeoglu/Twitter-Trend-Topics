@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-16 10:16:50 UTC`
+📆 Last Updated: `2023-03-16 11:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [Stefan Wilmont](http://twitter.com/search?q=Stefan+Wilmont) | N/A |
 | 2 | [Pawła Adamowicza](http://twitter.com/search?q=Paw%c5%82a+Adamowicza) | N/A |
 | 3 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
-| 4 | [#ShadowAndBone2](http://twitter.com/search?q=%23ShadowAndBone2) | N/A |
-| 5 | [#ParagonyGrozy](http://twitter.com/search?q=%23ParagonyGrozy) | N/A |
+| 4 | [#ParagonyGrozy](http://twitter.com/search?q=%23ParagonyGrozy) | N/A |
+| 5 | [#ShadowAndBone2](http://twitter.com/search?q=%23ShadowAndBone2) | N/A |
 | 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 7 | [Groty](http://twitter.com/search?q=Groty) | N/A |
-| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 9 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
-| 10 | [Onetu](http://twitter.com/search?q=Onetu) | N/A |
-| 11 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
+| 7 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
+| 8 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 9 | [Groty](http://twitter.com/search?q=Groty) | N/A |
+| 10 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
+| 11 | [Giertych](http://twitter.com/search?q=Giertych) | N/A |
 | 12 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 14 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 15 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 16 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 17 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
-| 18 | [Pisowcem](http://twitter.com/search?q=Pisowcem) | N/A |
-| 19 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
-| 20 | [Giertych](http://twitter.com/search?q=Giertych) | N/A |
-| 21 | [sawicki](http://twitter.com/search?q=sawicki) | N/A |
-| 22 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 23 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 24 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
-| 25 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
-| 26 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 27 | [Justynę Wydrzyńską](http://twitter.com/search?q=Justyn%c4%99+Wydrzy%c5%84sk%c4%85) | N/A |
-| 28 | [Halinko](http://twitter.com/search?q=Halinko) | N/A |
-| 29 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
-| 30 | [Gdańsku](http://twitter.com/search?q=Gda%c5%84sku) | N/A |
-| 31 | [Środa](http://twitter.com/search?q=%c5%9aroda) | N/A |
-| 32 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 33 | [Adam Sandauer](http://twitter.com/search?q=Adam+Sandauer) | N/A |
-| 34 | [lipsk](http://twitter.com/search?q=lipsk) | N/A |
-| 35 | [Sądu Apelacyjnego](http://twitter.com/search?q=S%c4%85du+Apelacyjnego) | N/A |
-| 36 | [Dzieńdoberek](http://twitter.com/search?q=Dzie%c5%84doberek) | N/A |
-| 37 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 38 | [panie donaldzie](http://twitter.com/search?q=panie+donaldzie) | N/A |
-| 39 | [Blachnickiego](http://twitter.com/search?q=Blachnickiego) | N/A |
-| 40 | [oranżada](http://twitter.com/search?q=oran%c5%bcada) | N/A |
-| 41 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 42 | [Zdrowiej](http://twitter.com/search?q=Zdrowiej) | N/A |
-| 43 | [włodzimierza karpińskiego](http://twitter.com/search?q=w%c5%82odzimierza+karpi%c5%84skiego) | N/A |
-| 44 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 45 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 46 | [Zgłaszam](http://twitter.com/search?q=Zg%c5%82aszam) | N/A |
-| 47 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
-| 48 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 13 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
+| 14 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 15 | [Biedronki](http://twitter.com/search?q=Biedronki) | N/A |
+| 16 | [Szwajcarii](http://twitter.com/search?q=Szwajcarii) | N/A |
+| 17 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 18 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 19 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 20 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 21 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 22 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
+| 23 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 24 | [ceny](http://twitter.com/search?q=ceny) | N/A |
+| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 26 | [Neapolu](http://twitter.com/search?q=Neapolu) | N/A |
+| 27 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 28 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 29 | [sawicki](http://twitter.com/search?q=sawicki) | N/A |
+| 30 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 31 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
+| 32 | [Pisowcem](http://twitter.com/search?q=Pisowcem) | N/A |
+| 33 | [konfederacja](http://twitter.com/search?q=konfederacja) | N/A |
+| 34 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 35 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
+| 36 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
+| 37 | [Justynę Wydrzyńską](http://twitter.com/search?q=Justyn%c4%99+Wydrzy%c5%84sk%c4%85) | N/A |
+| 38 | [Ozdoba](http://twitter.com/search?q=Ozdoba) | N/A |
+| 39 | [Solidarnej Polski](http://twitter.com/search?q=Solidarnej+Polski) | N/A |
+| 40 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 41 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 42 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 43 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
+| 44 | [Morawieckim](http://twitter.com/search?q=Morawieckim) | N/A |
+| 45 | [oranżada](http://twitter.com/search?q=oran%c5%bcada) | N/A |
+| 46 | [Lidlu](http://twitter.com/search?q=Lidlu) | N/A |
+| 47 | [Marta](http://twitter.com/search?q=Marta) | N/A |
+| 48 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
 
 
 
