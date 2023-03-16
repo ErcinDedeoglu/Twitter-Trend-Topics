@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-16 19:17:04 UTC`
+📆 Last Updated: `2023-03-16 20:18:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 2 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 3 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 4 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 5 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 2 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 3 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 4 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 6 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
-| 7 | [TAYLOR](http://twitter.com/search?q=TAYLOR) | N/A |
-| 8 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 9 | [Tony Bennett](http://twitter.com/search?q=Tony+Bennett) | N/A |
-| 10 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 11 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 12 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 13 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 14 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
-| 15 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 16 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
-| 17 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 18 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
-| 19 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 20 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
-| 21 | [Bob Huggins](http://twitter.com/search?q=Bob+Huggins) | N/A |
-| 22 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
-| 23 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 24 | [Stevenson](http://twitter.com/search?q=Stevenson) | Stevenson is a surname of Scottish origin. It is derived from the Old English words 'stið' meaning 'strong' and 'ham' meaning 'home'. The name can be translated to mean 'strong home'. |
-| 25 | [Julian Reese](http://twitter.com/search?q=Julian+Reese) | N/A |
-| 26 | [Kedrian Johnson](http://twitter.com/search?q=Kedrian+Johnson) | N/A |
-| 27 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 28 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 29 | [Jalen Slawson](http://twitter.com/search?q=Jalen+Slawson) | N/A |
-| 30 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
-| 31 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
-| 32 | [#BracketBusted](http://twitter.com/search?q=%23BracketBusted) | N/A |
-| 33 | [JP Pegues](http://twitter.com/search?q=JP+Pegues) | N/A |
-| 34 | [Bookmarks](http://twitter.com/search?q=Bookmarks) | N/A |
-| 35 | [Mountaineers](http://twitter.com/search?q=Mountaineers) | N/A |
-| 36 | [Bob Richey](http://twitter.com/search?q=Bob+Richey) | N/A |
-| 37 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
-| 38 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 39 | [FU ALL THE TIME](http://twitter.com/search?q=FU+ALL+THE+TIME) | N/A |
-| 40 | [The Civil Wars](http://twitter.com/search?q=The+Civil+Wars) | N/A |
-| 41 | [#WVUvsMD](http://twitter.com/search?q=%23WVUvsMD) | N/A |
-| 42 | [Hoos](http://twitter.com/search?q=Hoos) | N/A |
-| 43 | [Haddy](http://twitter.com/search?q=Haddy) | N/A |
-| 44 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 45 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 46 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 47 | [SNOOPYTOOZ](http://twitter.com/search?q=SNOOPYTOOZ) | N/A |
-| 48 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
-| 49 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
-| 50 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
+| 7 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 8 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 9 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 10 | [#AspireTour2023](http://twitter.com/search?q=%23AspireTour2023) | N/A |
+| 11 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
+| 12 | [Tony Bennett](http://twitter.com/search?q=Tony+Bennett) | N/A |
+| 13 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 14 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 15 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 17 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
+| 18 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
+| 19 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 20 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
+| 21 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 22 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 23 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 24 | [Dennis Gates](http://twitter.com/search?q=Dennis+Gates) | N/A |
+| 25 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 26 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
+| 27 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
+| 28 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
+| 29 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
+| 30 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 31 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 32 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 33 | [Bob Huggins](http://twitter.com/search?q=Bob+Huggins) | N/A |
+| 34 | [Jalen Slawson](http://twitter.com/search?q=Jalen+Slawson) | N/A |
+| 35 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 36 | [#PackStrike](http://twitter.com/search?q=%23PackStrike) | N/A |
+| 37 | [Julian Reese](http://twitter.com/search?q=Julian+Reese) | N/A |
+| 38 | [Kedrian Johnson](http://twitter.com/search?q=Kedrian+Johnson) | N/A |
+| 39 | [Stevenson](http://twitter.com/search?q=Stevenson) | Stevenson is a surname of Scottish origin. It is derived from the Old English words 'stið' meaning 'strong' and 'ham' meaning 'home'. The name can be translated to mean 'strong home'. |
+| 40 | [Bookmarks](http://twitter.com/search?q=Bookmarks) | N/A |
+| 41 | [Mark Sears](http://twitter.com/search?q=Mark+Sears) | N/A |
+| 42 | [Bogi](http://twitter.com/search?q=Bogi) | N/A |
+| 43 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 44 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
+| 45 | [JP Pegues](http://twitter.com/search?q=JP+Pegues) | N/A |
+| 46 | [FU ALL THE TIME](http://twitter.com/search?q=FU+ALL+THE+TIME) | N/A |
+| 47 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 48 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 49 | [Sean East](http://twitter.com/search?q=Sean+East) | N/A |
+| 50 | [First Republic](http://twitter.com/search?q=First+Republic) | N/A |
 
 
 

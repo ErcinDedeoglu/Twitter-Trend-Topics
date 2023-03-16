@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-16 19:17:14 UTC`
+📆 Last Updated: `2023-03-16 20:19:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Argentina
 | ------- | ------------ | ------------ |
 | 1 | [#EntradasArgentina](http://twitter.com/search?q=%23EntradasArgentina) | N/A |
 | 2 | [robert pattinson](http://twitter.com/search?q=robert+pattinson) | N/A |
-| 3 | [#deportick](http://twitter.com/search?q=%23deportick) | N/A |
-| 4 | [TAYLOR](http://twitter.com/search?q=TAYLOR) | N/A |
-| 5 | [lottie](http://twitter.com/search?q=lottie) | N/A |
-| 6 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 7 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 8 | [#nuestratarde](http://twitter.com/search?q=%23nuestratarde) | N/A |
-| 9 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 10 | [Enrique Symns](http://twitter.com/search?q=Enrique+Symns) | N/A |
-| 11 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 12 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 13 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [#deportick](http://twitter.com/search?q=%23deportick) | N/A |
+| 5 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 6 | [lottie](http://twitter.com/search?q=lottie) | N/A |
+| 7 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 8 | [Enrique Symns](http://twitter.com/search?q=Enrique+Symns) | N/A |
+| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 10 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 11 | [#nuestratarde](http://twitter.com/search?q=%23nuestratarde) | N/A |
+| 12 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 13 | [AGOTADO](http://twitter.com/search?q=AGOTADO) | N/A |
 | 14 | [edward cullen](http://twitter.com/search?q=edward+cullen) | N/A |
-| 15 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 15 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 16 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
-| 17 | [Alt F4](http://twitter.com/search?q=Alt+F4) | N/A |
-| 18 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 19 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 20 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 21 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 22 | [Nati Jota](http://twitter.com/search?q=Nati+Jota) | N/A |
-| 23 | [#ESPNF90](http://twitter.com/search?q=%23ESPNF90) | N/A |
-| 24 | [Pudiste](http://twitter.com/search?q=Pudiste) | N/A |
-| 25 | [Luzu TV](http://twitter.com/search?q=Luzu+TV) | N/A |
-| 26 | [Zaira Nara](http://twitter.com/search?q=Zaira+Nara) | N/A |
-| 27 | [Más de 1](http://twitter.com/search?q=M%c3%a1s+de+1) | N/A |
-| 28 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 29 | [Las PASO](http://twitter.com/search?q=Las+PASO) | N/A |
-| 30 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 31 | [chiqui tapia](http://twitter.com/search?q=chiqui+tapia) | N/A |
-| 32 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 33 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 34 | [Gabriela Cerruti](http://twitter.com/search?q=Gabriela+Cerruti) | N/A |
-| 35 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 36 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 37 | [Bilardo](http://twitter.com/search?q=Bilardo) | N/A |
-| 38 | [Balvanera](http://twitter.com/search?q=Balvanera) | N/A |
-| 39 | [Longobardi](http://twitter.com/search?q=Longobardi) | N/A |
-| 40 | [Quiroga](http://twitter.com/search?q=Quiroga) | N/A |
-| 41 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 42 | [Aysa](http://twitter.com/search?q=Aysa) | N/A |
-| 43 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 44 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 45 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 46 | [Shadow and Bone](http://twitter.com/search?q=Shadow+and+Bone) | N/A |
-| 47 | [Edenor](http://twitter.com/search?q=Edenor) | N/A |
-| 48 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 49 | [Bussi](http://twitter.com/search?q=Bussi) | N/A |
-| 50 | [Joaqui](http://twitter.com/search?q=Joaqui) | Joaqui is a Spanish name derived from the Hebrew name Joachim, which means "God will establish". |
+| 17 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 18 | [Luzu TV](http://twitter.com/search?q=Luzu+TV) | N/A |
+| 19 | [Nati Jota](http://twitter.com/search?q=Nati+Jota) | N/A |
+| 20 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 22 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 23 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
+| 24 | [Alt F4](http://twitter.com/search?q=Alt+F4) | N/A |
+| 25 | [chiqui tapia](http://twitter.com/search?q=chiqui+tapia) | N/A |
+| 26 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 28 | [#EconAr](http://twitter.com/search?q=%23EconAr) | N/A |
+| 29 | [Pudiste](http://twitter.com/search?q=Pudiste) | N/A |
+| 30 | [Conseguiste](http://twitter.com/search?q=Conseguiste) | N/A |
+| 31 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 32 | [Suki](http://twitter.com/search?q=Suki) | N/A |
+| 33 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 34 | [Anne](http://twitter.com/search?q=Anne) | N/A |
+| 35 | [Más de 1](http://twitter.com/search?q=M%c3%a1s+de+1) | N/A |
+| 36 | [Las PASO](http://twitter.com/search?q=Las+PASO) | N/A |
+| 37 | [BCRA](http://twitter.com/search?q=BCRA) | N/A |
+| 38 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 39 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 40 | [Zaira Nara](http://twitter.com/search?q=Zaira+Nara) | N/A |
+| 41 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 42 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 43 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
+| 44 | [Bilardo](http://twitter.com/search?q=Bilardo) | N/A |
+| 45 | [Longobardi](http://twitter.com/search?q=Longobardi) | N/A |
+| 46 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 47 | [Quiroga](http://twitter.com/search?q=Quiroga) | N/A |
+| 48 | [Bussi](http://twitter.com/search?q=Bussi) | N/A |
+| 49 | [Balvanera](http://twitter.com/search?q=Balvanera) | N/A |
+| 50 | [Aysa](http://twitter.com/search?q=Aysa) | N/A |
 
 
 

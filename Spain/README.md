@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-16 19:17:21 UTC`
+📆 Last Updated: `2023-03-16 20:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TAYLOR](http://twitter.com/search?q=TAYLOR) | N/A |
-| 2 | [Telles](http://twitter.com/search?q=Telles) | N/A |
-| 3 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 4 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 5 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 6 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
+| 1 | [#EspecialPasapalabra](http://twitter.com/search?q=%23EspecialPasapalabra) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 3 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 4 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 5 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 6 | [Dmitrovic](http://twitter.com/search?q=Dmitrovic) | N/A |
 | 7 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
-| 8 | [Dmitrovic](http://twitter.com/search?q=Dmitrovic) | N/A |
-| 9 | [#EspecialPasapalabra](http://twitter.com/search?q=%23EspecialPasapalabra) | N/A |
-| 10 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 11 | [lottie](http://twitter.com/search?q=lottie) | N/A |
-| 12 | [#RealBetisManUtd](http://twitter.com/search?q=%23RealBetisManUtd) | N/A |
-| 13 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 14 | [#Pecado16Mar](http://twitter.com/search?q=%23Pecado16Mar) | N/A |
-| 15 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
-| 16 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Benito Villamarín](http://twitter.com/search?q=Benito+Villamar%c3%adn) | N/A |
-| 19 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 21 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 22 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 23 | [Bertín Osborne](http://twitter.com/search?q=Bert%c3%adn+Osborne) | N/A |
-| 24 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 25 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 26 | [Terelu](http://twitter.com/search?q=Terelu) | N/A |
-| 27 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
-| 28 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 29 | [Affleck](http://twitter.com/search?q=Affleck) | N/A |
-| 30 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
-| 31 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 32 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
-| 33 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 34 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
-| 35 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
-| 36 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 37 | [Dimitir](http://twitter.com/search?q=Dimitir) | N/A |
-| 38 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 39 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 40 | [Teodoro García Egea](http://twitter.com/search?q=Teodoro+Garc%c3%ada+Egea) | N/A |
-| 41 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
-| 42 | [Alfonso Serrano](http://twitter.com/search?q=Alfonso+Serrano) | N/A |
-| 43 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
-| 44 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 45 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
-| 46 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 47 | [Mas Madrid](http://twitter.com/search?q=Mas+Madrid) | N/A |
-| 48 | [Opus](http://twitter.com/search?q=Opus) | N/A |
-| 49 | [Dimisión](http://twitter.com/search?q=Dimisi%c3%b3n) | N/A |
-| 50 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Telles](http://twitter.com/search?q=Telles) | N/A |
+| 9 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 10 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 11 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
+| 12 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 13 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 14 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 15 | [#PremiosDial](http://twitter.com/search?q=%23PremiosDial) | N/A |
+| 16 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
+| 17 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
+| 18 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 20 | [Partizan](http://twitter.com/search?q=Partizan) | N/A |
+| 21 | [lottie](http://twitter.com/search?q=lottie) | N/A |
+| 22 | [#RealBetisManUtd](http://twitter.com/search?q=%23RealBetisManUtd) | N/A |
+| 23 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
+| 24 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
+| 25 | [#VamosMiSevilla](http://twitter.com/search?q=%23VamosMiSevilla) | N/A |
+| 26 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 27 | [Don Jaime](http://twitter.com/search?q=Don+Jaime) | N/A |
+| 28 | [Benito Villamarín](http://twitter.com/search?q=Benito+Villamar%c3%adn) | N/A |
+| 29 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 30 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
+| 31 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 32 | [Bertín Osborne](http://twitter.com/search?q=Bert%c3%adn+Osborne) | N/A |
+| 33 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 34 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
+| 35 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 36 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
+| 37 | [Terelu](http://twitter.com/search?q=Terelu) | N/A |
+| 38 | [Cuartos](http://twitter.com/search?q=Cuartos) | N/A |
+| 39 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
+| 40 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
+| 41 | [Efes](http://twitter.com/search?q=Efes) | N/A |
+| 42 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 43 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 44 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
+| 45 | [Dimitir](http://twitter.com/search?q=Dimitir) | N/A |
+| 46 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 47 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
+| 48 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 49 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 50 | [Alfonso Serrano](http://twitter.com/search?q=Alfonso+Serrano) | N/A |
 
 
 

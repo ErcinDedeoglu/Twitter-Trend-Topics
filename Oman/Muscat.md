@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-16 19:16:59 UTC`
+📆 Last Updated: `2023-03-16 20:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,31 +18,31 @@ This is top 50 for [Oman](</Oman>)
 | 1 | [#نتايج_الثانويه_العامه](http://twitter.com/search?q=%23%d9%86%d8%aa%d8%a7%d9%8a%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | #نتايج_الثانويه_العامه is a hashtag used on social media in Arabic to refer to the results of the General Secondary Education Examination. In English, it translates to "General Secondary Education Exam Results". |
 | 2 | [#نتايج_الدبلوم_العام](http://twitter.com/search?q=%23%d9%86%d8%aa%d8%a7%d9%8a%d8%ac_%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 3 | [ذاكر نايك](http://twitter.com/search?q=%d8%b0%d8%a7%d9%83%d8%b1+%d9%86%d8%a7%d9%8a%d9%83) | N/A |
-| 4 | [#الخميس_الونيس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3_%d8%a7%d9%84%d9%88%d9%86%d9%8a%d8%b3) | #الخميس_الونيس is a hashtag used on Twitter in the Arabic-speaking world. It translates to "Thursday of Unity" and is used to promote unity and solidarity among people of different backgrounds. |
-| 5 | [الفصل الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 6 | [#مسابقات_رصد_الرمضانيه](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d8%a7%d8%aa_%d8%b1%d8%b5%d8%af_%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 7 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 4 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 5 | [#الخميس_الونيس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3_%d8%a7%d9%84%d9%88%d9%86%d9%8a%d8%b3) | #الخميس_الونيس is a hashtag used on Twitter in the Arabic-speaking world. It translates to "Thursday of Unity" and is used to promote unity and solidarity among people of different backgrounds. |
+| 6 | [الفصل الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 7 | [#مسابقات_رصد_الرمضانيه](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d8%a7%d8%aa_%d8%b1%d8%b5%d8%af_%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 8 | [رقم الجلوس](http://twitter.com/search?q=%d8%b1%d9%82%d9%85+%d8%a7%d9%84%d8%ac%d9%84%d9%88%d8%b3) | N/A |
 | 9 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
 | 10 | [الدبلوم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 11 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 12 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 13 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 14 | [الواقع العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 15 | [جوز الهند](http://twitter.com/search?q=%d8%ac%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
-| 16 | [الحسن بن طلال](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b3%d9%86+%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
-| 17 | [التعليم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 18 | [النسبه الحلوه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%a8%d9%87+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
-| 19 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
-| 20 | [الطلبه المجيدين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af%d9%8a%d9%86) | N/A |
-| 21 | [الاختبارات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 22 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 11 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 12 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 13 | [الحسن بن طلال](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b3%d9%86+%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
+| 14 | [جوز الهند](http://twitter.com/search?q=%d8%ac%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
+| 15 | [التعليم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 16 | [النسبه الحلوه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%a8%d9%87+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
+| 17 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
+| 18 | [الطلبه المجيدين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af%d9%8a%d9%86) | N/A |
+| 19 | [الاختبارات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 20 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 21 | [الهجانه السلطانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%ac%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 22 | [الواقع العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 23 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 24 | [الهجانه السلطانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%ac%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 24 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
 | 25 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 26 | [الطاقه الشمسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%b3%d9%8a%d9%87) | N/A |
-| 27 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 28 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 26 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 27 | [الطاقه الشمسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%b3%d9%8a%d9%87) | N/A |
+| 28 | [ابو عزان](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d8%b2%d8%a7%d9%86) | N/A |
 | 29 | [الهيدروجين الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d8%af%d8%b1%d9%88%d8%ac%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
 | 30 | [الكليات المهنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%84%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a%d9%87) | N/A |
 | 31 | [المعسكر الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%b3%d9%83%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for [Oman](</Oman>)
 | 33 | [المركز الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 | 34 | [القايد الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
 | 35 | [بايرن ميونخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
-| 36 | [ماليزيا](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7) | N/A |
-| 37 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 38 | [طلبه المدرسه](http://twitter.com/search?q=%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 39 | [التعليم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
-| 40 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 41 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 42 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
-| 43 | [التقاعد المبكر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b9%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1) | N/A |
-| 44 | [المملكه المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 45 | [التدريب المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
-| 46 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
-| 47 | [التراث الثقافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%8a) | N/A |
-| 48 | [سالم العريمي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d9%8a%d9%85%d9%8a) | N/A |
-| 49 | [الثانويه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 50 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 36 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 37 | [ماليزيا](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d9%8a%d8%b2%d9%8a%d8%a7) | N/A |
+| 38 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 39 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
+| 40 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 41 | [طلبه المدرسه](http://twitter.com/search?q=%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 42 | [المملكه المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 43 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 44 | [التقاعد المبكر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b9%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1) | N/A |
+| 45 | [التعليم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
+| 46 | [التدريب المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 47 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 48 | [التراث الثقافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%8a) | N/A |
+| 49 | [سالم العريمي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d9%8a%d9%85%d9%8a) | N/A |
+| 50 | [الثانويه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 
 
 
