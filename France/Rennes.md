@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-16 16:16:53 UTC`
+📆 Last Updated: `2023-03-16 17:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 2 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 2 | [#MotionDeCensure](http://twitter.com/search?q=%23MotionDeCensure) | N/A |
 | 3 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
-| 4 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 5 | [#MotionDeCensure](http://twitter.com/search?q=%23MotionDeCensure) | N/A |
-| 6 | [#ReformeRetraites](http://twitter.com/search?q=%23ReformeRetraites) | N/A |
-| 7 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
-| 8 | [Concorde](http://twitter.com/search?q=Concorde) | N/A |
-| 9 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 10 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 11 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
-| 12 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 4 | [Concorde](http://twitter.com/search?q=Concorde) | N/A |
+| 5 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 6 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
+| 7 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 8 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
+| 9 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 10 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 11 | [Louis XVI](http://twitter.com/search?q=Louis+XVI) | N/A |
+| 12 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 13 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 14 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 15 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 16 | [Ve République](http://twitter.com/search?q=Ve+R%c3%a9publique) | N/A |
-| 17 | [Votez](http://twitter.com/search?q=Votez) | N/A |
-| 18 | [Louis XVI](http://twitter.com/search?q=Louis+XVI) | N/A |
-| 19 | [Brice Samba](http://twitter.com/search?q=Brice+Samba) | N/A |
-| 20 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 21 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 22 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 23 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
-| 24 | [Éric Ciotti](http://twitter.com/search?q=%c3%89ric+Ciotti) | N/A |
-| 25 | [Kalulu](http://twitter.com/search?q=Kalulu) | N/A |
+| 14 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 15 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
+| 16 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
+| 17 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 18 | [Votez](http://twitter.com/search?q=Votez) | N/A |
+| 19 | [Ve République](http://twitter.com/search?q=Ve+R%c3%a9publique) | N/A |
+| 20 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 21 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 22 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 23 | [Samba](http://twitter.com/search?q=Samba) | N/A |
+| 24 | [Ma France](http://twitter.com/search?q=Ma+France) | N/A |
+| 25 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
 | 26 | [L'utilisation du 49.3](http://twitter.com/search?q=L%27utilisation+du+49.3) | N/A |
-| 27 | [Démocratie](http://twitter.com/search?q=D%c3%a9mocratie) | N/A |
-| 28 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
-| 29 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 30 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 31 | [Un 49.3](http://twitter.com/search?q=Un+49.3) | N/A |
-| 32 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 33 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
-| 34 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 27 | [Aurélien Pradié](http://twitter.com/search?q=Aur%c3%a9lien+Pradi%c3%a9) | N/A |
+| 28 | [Démocratie](http://twitter.com/search?q=D%c3%a9mocratie) | N/A |
+| 29 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
+| 30 | [Républicains](http://twitter.com/search?q=R%c3%a9publicains) | N/A |
+| 31 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
+| 32 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
+| 33 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 34 | [Un 49.3](http://twitter.com/search?q=Un+49.3) | N/A |
 | 35 | [Espoirs](http://twitter.com/search?q=Espoirs) | N/A |
-| 36 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
-| 37 | [Équipe de France](http://twitter.com/search?q=%c3%89quipe+de+France) | N/A |
-| 38 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 39 | [La Première](http://twitter.com/search?q=La+Premi%c3%a8re) | N/A |
-| 40 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
-| 41 | [Ma France](http://twitter.com/search?q=Ma+France) | N/A |
-| 42 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 43 | [Mai 68](http://twitter.com/search?q=Mai+68) | N/A |
-| 44 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
-| 45 | [Matignon](http://twitter.com/search?q=Matignon) | N/A |
-| 46 | [Kephren](http://twitter.com/search?q=Kephren) | N/A |
-| 47 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 48 | [Républicains](http://twitter.com/search?q=R%c3%a9publicains) | N/A |
+| 36 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 37 | [Mai 68](http://twitter.com/search?q=Mai+68) | N/A |
+| 38 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 39 | [Kalulu](http://twitter.com/search?q=Kalulu) | N/A |
+| 40 | [Traître](http://twitter.com/search?q=Tra%c3%aetre) | N/A |
+| 41 | [Kephren](http://twitter.com/search?q=Kephren) | N/A |
+| 42 | [La Première](http://twitter.com/search?q=La+Premi%c3%a8re) | N/A |
+| 43 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 44 | [LREM](http://twitter.com/search?q=LREM) | N/A |
+| 45 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 46 | [Dictature](http://twitter.com/search?q=Dictature) | N/A |
+| 47 | [Préfecture](http://twitter.com/search?q=Pr%c3%a9fecture) | N/A |
+| 48 | [Matignon](http://twitter.com/search?q=Matignon) | N/A |
 
 
 

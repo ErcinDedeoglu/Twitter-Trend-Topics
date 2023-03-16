@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-16 16:17:33 UTC`
+📆 Last Updated: `2023-03-16 17:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,41 +17,41 @@ This is top 50 for New Zealand
 | ------- | ------------ | ------------ |
 | 1 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 2 | [#nbl23](http://twitter.com/search?q=%23nbl23) | N/A |
-| 3 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 4 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
-| 5 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 6 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
-| 7 | [kuriger](http://twitter.com/search?q=kuriger) | N/A |
-| 8 | [#NRLManlyEels](http://twitter.com/search?q=%23NRLManlyEels) | N/A |
-| 9 | [wayne brown](http://twitter.com/search?q=wayne+brown) | N/A |
-| 10 | [Britomart](http://twitter.com/search?q=Britomart) | N/A |
+| 3 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 4 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 5 | [Fonterra](http://twitter.com/search?q=Fonterra) | N/A |
+| 6 | [#NRLManlyEels](http://twitter.com/search?q=%23NRLManlyEels) | N/A |
+| 7 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 8 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 9 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
+| 10 | [Wayne Brown](http://twitter.com/search?q=Wayne+Brown) | Wayne Brown is a phrase used to describe someone who is a bit of a troublemaker or someone who likes to stir up trouble. It can also be used to describe someone who is a bit of a wild card or unpredictable. |
 | 11 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 12 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 13 | [breakers](http://twitter.com/search?q=breakers) | N/A |
-| 14 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 16 | [Niwa](http://twitter.com/search?q=Niwa) | N/A |
+| 12 | [Britomart](http://twitter.com/search?q=Britomart) | N/A |
+| 13 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 14 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 15 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 17 | [#nblfinals](http://twitter.com/search?q=%23nblfinals) | N/A |
 | 18 | [Woke](http://twitter.com/search?q=Woke) | N/A |
 | 19 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
 | 20 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
 | 21 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 22 | [coster](http://twitter.com/search?q=coster) | N/A |
-| 23 | [rbnz](http://twitter.com/search?q=rbnz) | N/A |
-| 24 | [#unbreakable](http://twitter.com/search?q=%23unbreakable) | N/A |
-| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 26 | [Council](http://twitter.com/search?q=Council) | N/A |
-| 27 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 28 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 29 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 30 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 22 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
+| 23 | [coster](http://twitter.com/search?q=coster) | N/A |
+| 24 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 25 | [Council](http://twitter.com/search?q=Council) | N/A |
+| 26 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 27 | [simeon](http://twitter.com/search?q=simeon) | N/A |
+| 28 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 29 | [keating](http://twitter.com/search?q=keating) | N/A |
+| 30 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
 | 31 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
-| 32 | [grant robertson](http://twitter.com/search?q=grant+robertson) | N/A |
-| 33 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
-| 34 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 35 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 36 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 37 | [Aucklanders](http://twitter.com/search?q=Aucklanders) | N/A |
+| 32 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
+| 33 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 34 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 35 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 36 | [aucklanders](http://twitter.com/search?q=aucklanders) | N/A |
+| 37 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 38 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 39 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
 | 40 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
@@ -63,8 +63,8 @@ This is top 50 for New Zealand
 | 46 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
 | 47 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
 | 48 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 49 | [Willis](http://twitter.com/search?q=Willis) | N/A |
-| 50 | [Parker](http://twitter.com/search?q=Parker) | N/A |
+| 49 | [Parker](http://twitter.com/search?q=Parker) | N/A |
+| 50 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 
 
 

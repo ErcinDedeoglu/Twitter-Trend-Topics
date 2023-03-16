@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-16 16:17:27 UTC`
+📆 Last Updated: `2023-03-16 17:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 2 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 3 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 4 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 5 | [Myles Jack](http://twitter.com/search?q=Myles+Jack) | N/A |
-| 6 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 7 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 8 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 9 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 10 | [#GildedSweepstakes](http://twitter.com/search?q=%23GildedSweepstakes) | N/A |
-| 11 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 12 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
-| 13 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 14 | [SNOOPYTOOZ](http://twitter.com/search?q=SNOOPYTOOZ) | N/A |
-| 15 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
-| 16 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 17 | [Elandon Roberts](http://twitter.com/search?q=Elandon+Roberts) | N/A |
-| 18 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
-| 19 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 20 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 21 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 22 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 23 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 24 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 25 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 26 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 27 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 28 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 29 | [doha](http://twitter.com/search?q=doha) | N/A |
-| 30 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
-| 31 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 32 | [Mike Lindell](http://twitter.com/search?q=Mike+Lindell) | Mike Lindell is the founder and CEO of MyPillow, a company that manufactures and sells pillows. He is also a conservative political activist and has been an outspoken supporter of former President Donald Trump. |
-| 33 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 34 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
-| 35 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 36 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 37 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 38 | [Copilot](http://twitter.com/search?q=Copilot) | N/A |
-| 39 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
-| 40 | [Maryland ML](http://twitter.com/search?q=Maryland+ML) | N/A |
-| 41 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
-| 42 | [Kraven](http://twitter.com/search?q=Kraven) | N/A |
-| 43 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 44 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 45 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 46 | [OH HELL YEAH](http://twitter.com/search?q=OH+HELL+YEAH) | N/A |
-| 47 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 48 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 49 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 2 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
+| 3 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 4 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 5 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 6 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 7 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
+| 8 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 9 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 10 | [Bob Huggins](http://twitter.com/search?q=Bob+Huggins) | N/A |
+| 11 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 12 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
+| 13 | [Myles Jack](http://twitter.com/search?q=Myles+Jack) | N/A |
+| 14 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 15 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
+| 16 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 17 | [SNOOPYTOOZ](http://twitter.com/search?q=SNOOPYTOOZ) | N/A |
+| 18 | [Jalen Slawson](http://twitter.com/search?q=Jalen+Slawson) | N/A |
+| 19 | [Mountaineers](http://twitter.com/search?q=Mountaineers) | N/A |
+| 20 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 21 | [#GildedSweepstakes](http://twitter.com/search?q=%23GildedSweepstakes) | N/A |
+| 22 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 23 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 24 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 25 | [Don King](http://twitter.com/search?q=Don+King) | N/A |
+| 26 | [Larsa](http://twitter.com/search?q=Larsa) | N/A |
+| 27 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 28 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 29 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 30 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 31 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
+| 32 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 33 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 34 | [Parris Campbell](http://twitter.com/search?q=Parris+Campbell) | N/A |
+| 35 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 36 | [Mike Lindell](http://twitter.com/search?q=Mike+Lindell) | Mike Lindell is the founder and CEO of MyPillow, a company that manufactures and sells pillows. He is also a conservative political activist and has been an outspoken supporter of former President Donald Trump. |
+| 37 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 38 | [Slayton](http://twitter.com/search?q=Slayton) | Slayton is a surname of English origin. It is derived from the Old English words 'slae' meaning 'willow' and 'tun' meaning 'enclosure'. The name is thought to have originally referred to someone who lived near a willow enclosure. |
+| 39 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
+| 40 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 41 | [Elandon Roberts](http://twitter.com/search?q=Elandon+Roberts) | N/A |
+| 42 | [Dave Brubeck](http://twitter.com/search?q=Dave+Brubeck) | N/A |
+| 43 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 44 | [Bill Raftery](http://twitter.com/search?q=Bill+Raftery) | N/A |
+| 45 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 46 | [Copilot](http://twitter.com/search?q=Copilot) | N/A |
+| 47 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
+| 48 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 49 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 50 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
 
 
 

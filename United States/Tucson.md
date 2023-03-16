@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-03-16 16:17:27 UTC`
+📆 Last Updated: `2023-03-16 17:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
 | 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 3 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 4 | [Myles Jack](http://twitter.com/search?q=Myles+Jack) | N/A |
-| 5 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 6 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 7 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 8 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 9 | [#GildedSweepstakes](http://twitter.com/search?q=%23GildedSweepstakes) | N/A |
-| 10 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 11 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
-| 12 | [SNOOPYTOOZ](http://twitter.com/search?q=SNOOPYTOOZ) | N/A |
-| 13 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
-| 14 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 15 | [Elandon Roberts](http://twitter.com/search?q=Elandon+Roberts) | N/A |
-| 16 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
-| 17 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 18 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 19 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 20 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 21 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 22 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 23 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 24 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 25 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 26 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 27 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 28 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
-| 29 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 30 | [Mike Lindell](http://twitter.com/search?q=Mike+Lindell) | Mike Lindell is the founder and CEO of MyPillow, a company that manufactures and sells pillows. He is also a conservative political activist and has been an outspoken supporter of former President Donald Trump. |
-| 31 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 32 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
-| 33 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 34 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 35 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 36 | [Copilot](http://twitter.com/search?q=Copilot) | N/A |
-| 37 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
-| 38 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
-| 39 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 40 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 41 | [Maryland ML](http://twitter.com/search?q=Maryland+ML) | N/A |
-| 42 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 43 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 44 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 45 | [OH HELL YEAH](http://twitter.com/search?q=OH+HELL+YEAH) | N/A |
-| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 47 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 48 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
-| 49 | [Kraven](http://twitter.com/search?q=Kraven) | N/A |
+| 3 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 4 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
+| 5 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 6 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 7 | [Bob Huggins](http://twitter.com/search?q=Bob+Huggins) | N/A |
+| 8 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 9 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
+| 10 | [Myles Jack](http://twitter.com/search?q=Myles+Jack) | N/A |
+| 11 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
+| 12 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 14 | [SNOOPYTOOZ](http://twitter.com/search?q=SNOOPYTOOZ) | N/A |
+| 15 | [Jalen Slawson](http://twitter.com/search?q=Jalen+Slawson) | N/A |
+| 16 | [Mountaineers](http://twitter.com/search?q=Mountaineers) | N/A |
+| 17 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 18 | [#GildedSweepstakes](http://twitter.com/search?q=%23GildedSweepstakes) | N/A |
+| 19 | [#NCAAWrestling](http://twitter.com/search?q=%23NCAAWrestling) | N/A |
+| 20 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 21 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 22 | [Larsa](http://twitter.com/search?q=Larsa) | N/A |
+| 23 | [Don King](http://twitter.com/search?q=Don+King) | N/A |
+| 24 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 25 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
+| 26 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 27 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 28 | [Parris Campbell](http://twitter.com/search?q=Parris+Campbell) | N/A |
+| 29 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 30 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 31 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
+| 32 | [Jim Nantz](http://twitter.com/search?q=Jim+Nantz) | N/A |
+| 33 | [Slayton](http://twitter.com/search?q=Slayton) | Slayton is a surname of English origin. It is derived from the Old English words 'slae' meaning 'willow' and 'tun' meaning 'enclosure'. The name is thought to have originally referred to someone who lived near a willow enclosure. |
+| 34 | [Mike Lindell](http://twitter.com/search?q=Mike+Lindell) | Mike Lindell is the founder and CEO of MyPillow, a company that manufactures and sells pillows. He is also a conservative political activist and has been an outspoken supporter of former President Donald Trump. |
+| 35 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 36 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 37 | [Dave Brubeck](http://twitter.com/search?q=Dave+Brubeck) | N/A |
+| 38 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 39 | [Elandon Roberts](http://twitter.com/search?q=Elandon+Roberts) | N/A |
+| 40 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 41 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 42 | [Bill Raftery](http://twitter.com/search?q=Bill+Raftery) | N/A |
+| 43 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
+| 44 | [Copilot](http://twitter.com/search?q=Copilot) | N/A |
+| 45 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 46 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 47 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 48 | [Fort Hood](http://twitter.com/search?q=Fort+Hood) | N/A |
+| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 
 
 

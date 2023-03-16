@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-16 16:17:35 UTC`
+📆 Last Updated: `2023-03-16 17:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,16 +18,16 @@ This is top 50 for Sweden
 | 1 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
 | 2 | [Ingerö](http://twitter.com/search?q=Inger%c3%b6) | N/A |
 | 3 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 4 | [Willys](http://twitter.com/search?q=Willys) | N/A |
-| 5 | [Hässelby](http://twitter.com/search?q=H%c3%a4sselby) | N/A |
+| 4 | [Hässelby](http://twitter.com/search?q=H%c3%a4sselby) | N/A |
+| 5 | [Willys](http://twitter.com/search?q=Willys) | N/A |
 | 6 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 8 | [ICA-handlare](http://twitter.com/search?q=ICA-handlare) | N/A |
-| 9 | [Wagnergruppen](http://twitter.com/search?q=Wagnergruppen) | N/A |
-| 10 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 11 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 12 | [Hybrit](http://twitter.com/search?q=Hybrit) | N/A |
-| 13 | [Åh Hammarby](http://twitter.com/search?q=%c3%85h+Hammarby) | N/A |
+| 7 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 8 | [Wagnergruppen](http://twitter.com/search?q=Wagnergruppen) | N/A |
+| 9 | [ICA-handlare](http://twitter.com/search?q=ICA-handlare) | N/A |
+| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 11 | [Hybrit](http://twitter.com/search?q=Hybrit) | N/A |
+| 12 | [Åh Hammarby](http://twitter.com/search?q=%c3%85h+Hammarby) | N/A |
+| 13 | [Archer](http://twitter.com/search?q=Archer) | N/A |
 | 14 | [cajuste](http://twitter.com/search?q=cajuste) | N/A |
 | 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 16 | [Italien](http://twitter.com/search?q=Italien) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for Sweden
 | 20 | [hemköp](http://twitter.com/search?q=hemk%c3%b6p) | N/A |
 | 21 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
 | 22 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 23 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 24 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 25 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
+| 23 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 24 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
+| 25 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
 | 26 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
-| 27 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 28 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 29 | [Islamofobi](http://twitter.com/search?q=Islamofobi) | N/A |
+| 27 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 28 | [Islamofobi](http://twitter.com/search?q=Islamofobi) | N/A |
+| 29 | [Busch](http://twitter.com/search?q=Busch) | N/A |
 | 30 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 31 | [Busch](http://twitter.com/search?q=Busch) | N/A |
-| 32 | [Halabja](http://twitter.com/search?q=Halabja) | N/A |
-| 33 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 34 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
-| 35 | [Janne](http://twitter.com/search?q=Janne) | N/A |
-| 36 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 37 | [karlström](http://twitter.com/search?q=karlstr%c3%b6m) | N/A |
-| 38 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 39 | [Axfood](http://twitter.com/search?q=Axfood) | N/A |
-| 40 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
-| 41 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 42 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
+| 31 | [Halabja](http://twitter.com/search?q=Halabja) | N/A |
+| 32 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 33 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 34 | [Janne](http://twitter.com/search?q=Janne) | N/A |
+| 35 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 36 | [karlström](http://twitter.com/search?q=karlstr%c3%b6m) | N/A |
+| 37 | [Axfood](http://twitter.com/search?q=Axfood) | N/A |
+| 38 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 39 | [London](http://twitter.com/search?q=London) | N/A |
+| 40 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
+| 41 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
+| 42 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
 | 43 | [Jepp](http://twitter.com/search?q=Jepp) | N/A |
-| 44 | [Eneroth](http://twitter.com/search?q=Eneroth) | N/A |
-| 45 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 46 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 47 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 48 | [Troja](http://twitter.com/search?q=Troja) | N/A |
-| 49 | [Partner](http://twitter.com/search?q=Partner) | N/A |
-| 50 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 44 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
+| 45 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
+| 46 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 47 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 48 | [Borg](http://twitter.com/search?q=Borg) | N/A |
+| 49 | [champions league](http://twitter.com/search?q=champions+league) | N/A |
+| 50 | [Bing](http://twitter.com/search?q=Bing) | N/A |
 
 
 

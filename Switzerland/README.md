@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-16 16:17:35 UTC`
+📆 Last Updated: `2023-03-16 17:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 3 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 4 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 5 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 8 | [#Macron](http://twitter.com/search?q=%23Macron) | N/A |
-| 9 | [#VDZ23](http://twitter.com/search?q=%23VDZ23) | N/A |
-| 10 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 2 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 3 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 4 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 5 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 6 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 7 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 8 | [#VDZ23](http://twitter.com/search?q=%23VDZ23) | N/A |
+| 9 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 10 | [#Macron](http://twitter.com/search?q=%23Macron) | N/A |
 | 11 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
 | 12 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
 | 13 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 14 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
-| 15 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 16 | [La BNS](http://twitter.com/search?q=La+BNS) | N/A |
-| 17 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 18 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 19 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 20 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 21 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 22 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 25 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 14 | [la bns](http://twitter.com/search?q=la+bns) | N/A |
+| 15 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 16 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 19 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 20 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
+| 21 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 23 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 24 | [vertrauen](http://twitter.com/search?q=vertrauen) | N/A |
+| 25 | [Natur](http://twitter.com/search?q=Natur) | N/A |
 | 26 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 27 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 28 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 29 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
-| 30 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 31 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 27 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 28 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 29 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 30 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 31 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
 | 32 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
-| 33 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 34 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 35 | [Lara Gut-Behrami](http://twitter.com/search?q=Lara+Gut-Behrami) | N/A |
-| 36 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 33 | [Lara Gut-Behrami](http://twitter.com/search?q=Lara+Gut-Behrami) | N/A |
+| 34 | [London](http://twitter.com/search?q=London) | N/A |
+| 35 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 36 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 37 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
 | 38 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 39 | [Satz](http://twitter.com/search?q=Satz) | N/A |
-| 40 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 41 | [London](http://twitter.com/search?q=London) | N/A |
-| 42 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 43 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 44 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 45 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 46 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 47 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 48 | [President](http://twitter.com/search?q=President) | N/A |
-| 49 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 50 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 39 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 40 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 41 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 42 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 43 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 44 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 45 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 46 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 47 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 48 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 49 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 50 | [President](http://twitter.com/search?q=President) | N/A |
 
 
 

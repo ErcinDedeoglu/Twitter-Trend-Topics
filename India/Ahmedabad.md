@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-03-16 16:17:16 UTC`
+📆 Last Updated: `2023-03-16 17:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HBDayCRPaatil](http://twitter.com/search?q=%23HBDayCRPaatil) | N/A |
-| 2 | [#HNETakingCharge](http://twitter.com/search?q=%23HNETakingCharge) | N/A |
-| 3 | [#JayPandaLies](http://twitter.com/search?q=%23JayPandaLies) | N/A |
-| 4 | [#PrideOfIndiaRamCharan](http://twitter.com/search?q=%23PrideOfIndiaRamCharan) | N/A |
-| 5 | [#SayNoToPensionStrike](http://twitter.com/search?q=%23SayNoToPensionStrike) | N/A |
-| 6 | [India Against Modani](http://twitter.com/search?q=India+Against+Modani) | N/A |
-| 7 | [Rajesh Gopinathan](http://twitter.com/search?q=Rajesh+Gopinathan) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [K Krithivasan](http://twitter.com/search?q=K+Krithivasan) | N/A |
-| 10 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
+| 2 | [India Against Modani](http://twitter.com/search?q=India+Against+Modani) | N/A |
+| 3 | [#HNETakingCharge](http://twitter.com/search?q=%23HNETakingCharge) | N/A |
+| 4 | [#JayPandaLies](http://twitter.com/search?q=%23JayPandaLies) | N/A |
+| 5 | [#DCvGG](http://twitter.com/search?q=%23DCvGG) | N/A |
+| 6 | [#saynotopensionstrike](http://twitter.com/search?q=%23saynotopensionstrike) | N/A |
+| 7 | [Dinner with SRK](http://twitter.com/search?q=Dinner+with+SRK) | N/A |
+| 8 | [Rajesh Gopinathan](http://twitter.com/search?q=Rajesh+Gopinathan) | N/A |
+| 9 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
+| 10 | [K Krithivasan](http://twitter.com/search?q=K+Krithivasan) | N/A |
 | 11 | [Sushant Nuggets Of Wisdom](http://twitter.com/search?q=Sushant+Nuggets+Of+Wisdom) | N/A |
-| 12 | [MUNAWAR X JASSIE MV OUT TMRW](http://twitter.com/search?q=MUNAWAR+X+JASSIE+MV+OUT+TMRW) | N/A |
+| 12 | [जयराम रमेश](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6) | N/A |
 | 13 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 14 | [Dinner](http://twitter.com/search?q=Dinner) | N/A |
-| 15 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 16 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 17 | [जयराम रमेश](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6) | N/A |
-| 18 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
-| 19 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 20 | [Small Role](http://twitter.com/search?q=Small+Role) | N/A |
-| 21 | [EVIL EYES OFF SUMAAN](http://twitter.com/search?q=EVIL+EYES+OFF+SUMAAN) | N/A |
-| 22 | [रविशंकर प्रसाद](http://twitter.com/search?q=%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
-| 23 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 24 | [Patrick French](http://twitter.com/search?q=Patrick+French) | N/A |
-| 25 | [Pyaar](http://twitter.com/search?q=Pyaar) | N/A |
-| 26 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 27 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 28 | [Mandala](http://twitter.com/search?q=Mandala) | N/A |
-| 29 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 30 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 31 | [प्रेस कांफ्रेंस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8) | N/A |
-| 32 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 33 | [भारतीय सेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
-| 34 | [Asle Toje](http://twitter.com/search?q=Asle+Toje) | N/A |
-| 35 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 36 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 37 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
-| 38 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 39 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
-| 40 | [#LGSaxenaGundaNumber1](http://twitter.com/search?q=%23LGSaxenaGundaNumber1) | N/A |
-| 41 | [#1daytogoformrschatterjee](http://twitter.com/search?q=%231daytogoformrschatterjee) | N/A |
-| 42 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
-| 43 | [#ICICIBandhan](http://twitter.com/search?q=%23ICICIBandhan) | N/A |
-| 44 | [#CustodyTeaser](http://twitter.com/search?q=%23CustodyTeaser) | N/A |
-| 45 | [#MaharashtraForOrphans](http://twitter.com/search?q=%23MaharashtraForOrphans) | N/A |
-| 46 | [#HappyBirthdayDrPRK](http://twitter.com/search?q=%23HappyBirthdayDrPRK) | N/A |
-| 47 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [MUNAWAR X JASSIE MV OUT TMRW](http://twitter.com/search?q=MUNAWAR+X+JASSIE+MV+OUT+TMRW) | N/A |
+| 16 | [बिजली आपूर्ति](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 17 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
+| 18 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 19 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 20 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 21 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
+| 22 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 23 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 24 | [Cheetah](http://twitter.com/search?q=Cheetah) | N/A |
+| 25 | [Small Role](http://twitter.com/search?q=Small+Role) | N/A |
+| 26 | [EVIL EYES OFF SUMAAN](http://twitter.com/search?q=EVIL+EYES+OFF+SUMAAN) | N/A |
+| 27 | [Patrick French](http://twitter.com/search?q=Patrick+French) | N/A |
+| 28 | [Sher](http://twitter.com/search?q=Sher) | N/A |
+| 29 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 30 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 31 | [Pyaar](http://twitter.com/search?q=Pyaar) | N/A |
+| 32 | [प्रेस कांफ्रेंस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8) | N/A |
+| 33 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
+| 34 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 35 | [Mandala](http://twitter.com/search?q=Mandala) | N/A |
+| 36 | [भारतीय सेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
+| 37 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 38 | [Member of Parliament](http://twitter.com/search?q=Member+of+Parliament) | N/A |
+| 39 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 40 | [Asle Toje](http://twitter.com/search?q=Asle+Toje) | N/A |
+| 41 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 42 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
+| 43 | [#PrideOfIndiaRamCharan](http://twitter.com/search?q=%23PrideOfIndiaRamCharan) | N/A |
+| 44 | [#HappyBirthdayDrPRK](http://twitter.com/search?q=%23HappyBirthdayDrPRK) | N/A |
+| 45 | [#PowerStarBdayCDP](http://twitter.com/search?q=%23PowerStarBdayCDP) | N/A |
+| 46 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 47 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
 | 48 | [#ImpeccableInspirationAppu](http://twitter.com/search?q=%23ImpeccableInspirationAppu) | N/A |
-| 49 | [#PowerStarBdayCDP](http://twitter.com/search?q=%23PowerStarBdayCDP) | N/A |
-| 50 | [#DCvGG](http://twitter.com/search?q=%23DCvGG) | N/A |
+| 49 | [#LGSaxenaGundaNumber1](http://twitter.com/search?q=%23LGSaxenaGundaNumber1) | N/A |
+| 50 | [#CustodyTeaser](http://twitter.com/search?q=%23CustodyTeaser) | N/A |
 
 
 
