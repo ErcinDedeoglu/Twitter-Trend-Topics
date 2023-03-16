@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-15 23:16:41 UTC`
+📆 Last Updated: `2023-03-16 00:29:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 2 | [#Maischberger](http://twitter.com/search?q=%23Maischberger) | N/A |
-| 3 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 2 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 3 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
 | 4 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 5 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 5 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
 | 6 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 7 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
 | 8 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 11 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 12 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 13 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 14 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 15 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 9 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 11 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 12 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 13 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 14 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 15 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
 | 16 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 17 | [Erdnussflips](http://twitter.com/search?q=Erdnussflips) | N/A |
-| 18 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 19 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 20 | [Lenz](http://twitter.com/search?q=Lenz) | N/A |
-| 21 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 23 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 25 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
-| 26 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 17 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 18 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 19 | [Mord](http://twitter.com/search?q=Mord) | N/A |
+| 20 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
+| 21 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 22 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 24 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
+| 25 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 26 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
 | 27 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 28 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 29 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 30 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 31 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [Vollidioten](http://twitter.com/search?q=Vollidioten) | N/A |
-| 34 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 35 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 36 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 37 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
-| 38 | [Verwaltung](http://twitter.com/search?q=Verwaltung) | N/A |
-| 39 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 40 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 43 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 44 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 45 | [Rheinmetall](http://twitter.com/search?q=Rheinmetall) | N/A |
-| 46 | [Rache](http://twitter.com/search?q=Rache) | N/A |
-| 47 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
-| 48 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
+| 28 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 29 | [Vollidioten](http://twitter.com/search?q=Vollidioten) | N/A |
+| 30 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 31 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 32 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 33 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
+| 34 | [Verwaltung](http://twitter.com/search?q=Verwaltung) | N/A |
+| 35 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 36 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 37 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
+| 38 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 39 | [Rache](http://twitter.com/search?q=Rache) | N/A |
+| 40 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
+| 41 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 42 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 43 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 44 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 45 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 46 | [Elternhaus](http://twitter.com/search?q=Elternhaus) | N/A |
+| 47 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 48 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
 
 
 

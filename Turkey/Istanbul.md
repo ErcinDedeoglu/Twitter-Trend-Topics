@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-15 23:17:04 UTC`
+📆 Last Updated: `2023-03-16 00:30:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TaksimilkyardımsızOlmaz](http://twitter.com/search?q=%23Taksimilkyard%c4%b1ms%c4%b1zOlmaz) | N/A |
-| 2 | [#BuPawsaDokunma](http://twitter.com/search?q=%23BuPawsaDokunma) | N/A |
-| 3 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 4 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
-| 5 | [#balikligol](http://twitter.com/search?q=%23balikligol) | N/A |
-| 6 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
+| 1 | [#BuPawsaDokunma](http://twitter.com/search?q=%23BuPawsaDokunma) | N/A |
+| 2 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 3 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
+| 4 | [#TaksimİlkyardımsızOlmaz](http://twitter.com/search?q=%23Taksim%c4%b0lkyard%c4%b1ms%c4%b1zOlmaz) | N/A |
+| 5 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
+| 6 | [#balikligol](http://twitter.com/search?q=%23balikligol) | N/A |
 | 7 | [#StajyerinPatronuDevlet](http://twitter.com/search?q=%23StajyerinPatronuDevlet) | N/A |
 | 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 9 | [Topunuza Karşı Erdoğan](http://twitter.com/search?q=Topunuza+Kar%c5%9f%c4%b1+Erdo%c4%9fan) | N/A |
-| 10 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 11 | [Halkbank](http://twitter.com/search?q=Halkbank) | N/A |
-| 12 | [Mustafa Şen](http://twitter.com/search?q=Mustafa+%c5%9een) | N/A |
+| 10 | [Halkbank](http://twitter.com/search?q=Halkbank) | N/A |
+| 11 | [Mustafa Şen](http://twitter.com/search?q=Mustafa+%c5%9een) | N/A |
+| 12 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 13 | [Zekeriya Yapıcıoğlu](http://twitter.com/search?q=Zekeriya+Yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 14 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 15 | [VerinArtık Denkliğimizi](http://twitter.com/search?q=VerinArt%c4%b1k+Denkli%c4%9fimizi) | N/A |
-| 16 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 14 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 15 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 16 | [VerinArtık Denkliğimizi](http://twitter.com/search?q=VerinArt%c4%b1k+Denkli%c4%9fimizi) | N/A |
 | 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [RTEAffı GönülleriKazanır](http://twitter.com/search?q=RTEAff%c4%b1+G%c3%b6n%c3%bclleriKazan%c4%b1r) | N/A |
-| 19 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 20 | [Şampiyonlar Ligi'nde](http://twitter.com/search?q=%c5%9eampiyonlar+Ligi%27nde) | N/A |
-| 21 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
-| 22 | [Asrın](http://twitter.com/search?q=Asr%c4%b1n) | N/A |
-| 23 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
-| 24 | [Urfalı](http://twitter.com/search?q=Urfal%c4%b1) | N/A |
-| 25 | [Dikili Foca](http://twitter.com/search?q=Dikili+Foca) | N/A |
+| 18 | [Kuecuekpark](http://twitter.com/search?q=Kuecuekpark) | N/A |
+| 19 | [Dikili Foca](http://twitter.com/search?q=Dikili+Foca) | N/A |
+| 20 | [İzmiri](http://twitter.com/search?q=%c4%b0zmiri) | N/A |
+| 21 | [Şampiyonlar Ligi'nde](http://twitter.com/search?q=%c5%9eampiyonlar+Ligi%27nde) | N/A |
+| 22 | [Gent](http://twitter.com/search?q=Gent) | N/A |
+| 23 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
+| 24 | [RTEAffı GönülleriKazanır](http://twitter.com/search?q=RTEAff%c4%b1+G%c3%b6n%c3%bclleriKazan%c4%b1r) | N/A |
+| 25 | [Urfalı](http://twitter.com/search?q=Urfal%c4%b1) | N/A |
 | 26 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
-| 27 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 27 | [#TürkleriKarşınızaAlmayın](http://twitter.com/search?q=%23T%c3%bcrkleriKar%c5%9f%c4%b1n%c4%b1zaAlmay%c4%b1n) | N/A |
 | 28 | [#TarafsızBölge](http://twitter.com/search?q=%23Tarafs%c4%b1zB%c3%b6lge) | N/A |
-| 29 | [#TürkleriKarşınızaAlmayın](http://twitter.com/search?q=%23T%c3%bcrkleriKar%c5%9f%c4%b1n%c4%b1zaAlmay%c4%b1n) | N/A |
+| 29 | [#Cbsonkararyuzyuze](http://twitter.com/search?q=%23Cbsonkararyuzyuze) | N/A |
 | 30 | [#SGKPersoneli](http://twitter.com/search?q=%23SGKPersoneli) | N/A |
-| 31 | [#Cbsonkararyuzyuze](http://twitter.com/search?q=%23Cbsonkararyuzyuze) | N/A |
-| 32 | [#basaksehir](http://twitter.com/search?q=%23basaksehir) | N/A |
-| 33 | [#LeylaFM](http://twitter.com/search?q=%23LeylaFM) | N/A |
+| 31 | [#basaksehir](http://twitter.com/search?q=%23basaksehir) | N/A |
+| 32 | [#EnkazBıraktınAKP](http://twitter.com/search?q=%23EnkazB%c4%b1rakt%c4%b1nAKP) | N/A |
+| 33 | [#UzmanÇavuş](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9f) | N/A |
 | 34 | [#borsatemizeller](http://twitter.com/search?q=%23borsatemizeller) | N/A |
-| 35 | [#UzmanÇavuş](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9f) | N/A |
-| 36 | [#EnkazBıraktınAKP](http://twitter.com/search?q=%23EnkazB%c4%b1rakt%c4%b1nAKP) | N/A |
-| 37 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 38 | [#BalıkesireTazeKan](http://twitter.com/search?q=%23Bal%c4%b1kesireTazeKan) | N/A |
-| 39 | [#yılan](http://twitter.com/search?q=%23y%c4%b1lan) | N/A |
-| 40 | [#ÇöpAdam](http://twitter.com/search?q=%23%c3%87%c3%b6pAdam) | N/A |
+| 35 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
+| 36 | [#ÇöpAdam](http://twitter.com/search?q=%23%c3%87%c3%b6pAdam) | N/A |
+| 37 | [#ABOHakkımızdır](http://twitter.com/search?q=%23ABOHakk%c4%b1m%c4%b1zd%c4%b1r) | N/A |
+| 38 | [#yılan](http://twitter.com/search?q=%23y%c4%b1lan) | N/A |
+| 39 | [#DayanışmaEngellenemez](http://twitter.com/search?q=%23Dayan%c4%b1%c5%9fmaEngellenemez) | N/A |
+| 40 | [#NehirinAdayıErkanTrükten](http://twitter.com/search?q=%23NehirinAday%c4%b1ErkanTr%c3%bckten) | N/A |
 | 41 | [#BayKemal100BinleCbKemal](http://twitter.com/search?q=%23BayKemal100BinleCbKemal) | N/A |
-| 42 | [#AstsubaylarıDuyun](http://twitter.com/search?q=%23Astsubaylar%c4%b1Duyun) | N/A |
-| 43 | [#ABOHakkımızdır](http://twitter.com/search?q=%23ABOHakk%c4%b1m%c4%b1zd%c4%b1r) | N/A |
-| 44 | [#DayanışmaEngellenemez](http://twitter.com/search?q=%23Dayan%c4%b1%c5%9fmaEngellenemez) | N/A |
-| 45 | [#NehirinAdayıErkanTrükten](http://twitter.com/search?q=%23NehirinAday%c4%b1ErkanTr%c3%bckten) | N/A |
-| 46 | [#BizimVatanımız](http://twitter.com/search?q=%23BizimVatan%c4%b1m%c4%b1z) | N/A |
-| 47 | [#HatayValisi](http://twitter.com/search?q=%23HatayValisi) | N/A |
-| 48 | [#Diyarbakir](http://twitter.com/search?q=%23Diyarbakir) | #Diyarbakir is the largest city in southeastern Turkey and the administrative capital of the Diyarbakir Province. It is located on the banks of the Tigris River and is known for its ancient walls, mosques, and churches. In English, Diyarbakir means "land of copper". |
-| 49 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
-| 50 | [#tabakademisi](http://twitter.com/search?q=%23tabakademisi) | N/A |
+| 42 | [#Diyarbakir](http://twitter.com/search?q=%23Diyarbakir) | #Diyarbakir is the largest city in southeastern Turkey and the administrative capital of the Diyarbakir Province. It is located on the banks of the Tigris River and is known for its ancient walls, mosques, and churches. In English, Diyarbakir means "land of copper". |
+| 43 | [#HatayValisi](http://twitter.com/search?q=%23HatayValisi) | N/A |
+| 44 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 45 | [#tabakademisi](http://twitter.com/search?q=%23tabakademisi) | N/A |
+| 46 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
+| 47 | [#ErdoğanYenidenKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYenidenKazanacak) | N/A |
+| 48 | [#isiaskastencinayet](http://twitter.com/search?q=%23isiaskastencinayet) | N/A |
+| 49 | [#pinkpccollab](http://twitter.com/search?q=%23pinkpccollab) | N/A |
+| 50 | [#5BinveKısmiTorbaya](http://twitter.com/search?q=%235BinveK%c4%b1smiTorbaya) | N/A |
 
 
 

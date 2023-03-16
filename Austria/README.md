@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-15 23:17:13 UTC`
+📆 Last Updated: `2023-03-16 00:30:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#rundertisch](http://twitter.com/search?q=%23rundertisch) | N/A |
-| 2 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 1 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 2 | [#rundertisch](http://twitter.com/search?q=%23rundertisch) | N/A |
 | 3 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
 | 4 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
 | 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 6 | [seilbahn](http://twitter.com/search?q=seilbahn) | N/A |
-| 7 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 8 | [#W1503](http://twitter.com/search?q=%23W1503) | N/A |
-| 9 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
-| 10 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 11 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 12 | [kocher](http://twitter.com/search?q=kocher) | N/A |
-| 13 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 14 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 15 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
-| 16 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
-| 17 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
-| 18 | [#RendiWagner](http://twitter.com/search?q=%23RendiWagner) | N/A |
-| 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 20 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 21 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
-| 22 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 23 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 24 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 25 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 26 | [Konsequenzen](http://twitter.com/search?q=Konsequenzen) | N/A |
-| 27 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 28 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
-| 29 | [Druck](http://twitter.com/search?q=Druck) | N/A |
-| 30 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 7 | [#w1503](http://twitter.com/search?q=%23w1503) | N/A |
+| 8 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
+| 9 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 10 | [kocher](http://twitter.com/search?q=kocher) | N/A |
+| 11 | [#LongCovid](http://twitter.com/search?q=%23LongCovid) | N/A |
+| 12 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 13 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 14 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
+| 15 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
+| 16 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
+| 17 | [#RendiWagner](http://twitter.com/search?q=%23RendiWagner) | N/A |
+| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 19 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 20 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 21 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 22 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 23 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 24 | [Konsequenzen](http://twitter.com/search?q=Konsequenzen) | N/A |
+| 25 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 26 | [Druck](http://twitter.com/search?q=Druck) | N/A |
+| 27 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 28 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
+| 29 | [Programm](http://twitter.com/search?q=Programm) | N/A |
+| 30 | [Fällen](http://twitter.com/search?q=F%c3%a4llen) | N/A |
 | 31 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
-| 32 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 33 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 34 | [Fällen](http://twitter.com/search?q=F%c3%a4llen) | N/A |
-| 35 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 36 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 37 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 38 | [Mund](http://twitter.com/search?q=Mund) | N/A |
-| 39 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 40 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
-| 41 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
-| 42 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
-| 43 | [Wendler](http://twitter.com/search?q=Wendler) | N/A |
-| 44 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 32 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
+| 33 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 34 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 35 | [Mund](http://twitter.com/search?q=Mund) | N/A |
+| 36 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 37 | [Basis](http://twitter.com/search?q=Basis) | N/A |
+| 38 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
+| 39 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
+| 40 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
+| 41 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
+| 42 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 43 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 44 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
 | 45 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 46 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 47 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 48 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 49 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
-| 50 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
+| 46 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 47 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
+| 48 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
+| 49 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
+| 50 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
 
 
 

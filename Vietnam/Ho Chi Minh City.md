@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-15 23:16:54 UTC`
+📆 Last Updated: `2023-03-16 00:30:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 10 | [#MaskSinger12](http://twitter.com/search?q=%23MaskSinger12) | N/A |
 | 11 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 12 | [fuyuko charms osaka](http://twitter.com/search?q=fuyuko+charms+osaka) | N/A |
-| 13 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 14 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 14 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
 | 15 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 16 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
 | 17 | [Thai](http://twitter.com/search?q=Thai) | N/A |
-| 18 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
+| 18 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
 | 19 | [xin 1](http://twitter.com/search?q=xin+1) | N/A |
-| 20 | [thằng](http://twitter.com/search?q=th%e1%ba%b1ng) | N/A |
-| 21 | [Hook](http://twitter.com/search?q=Hook) | N/A |
-| 22 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 23 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 24 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 25 | [KOLs](http://twitter.com/search?q=KOLs) | N/A |
-| 26 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 27 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 28 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
+| 20 | [Hook](http://twitter.com/search?q=Hook) | N/A |
+| 21 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 22 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 23 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
+| 24 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 25 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 26 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 27 | [altcoin](http://twitter.com/search?q=altcoin) | N/A |
+| 28 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
 | 29 | [vietravel - vietravel](http://twitter.com/search?q=vietravel+-+vietravel) | N/A |
 | 30 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 31 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 | 32 | [Pump](http://twitter.com/search?q=Pump) | N/A |
 | 33 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
 | 34 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
-| 35 | [chơi](http://twitter.com/search?q=ch%c6%a1i) | N/A |
-| 36 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
-| 37 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 38 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 39 | [nhân](http://twitter.com/search?q=nh%c3%a2n) | N/A |
-| 40 | [xinh](http://twitter.com/search?q=xinh) | N/A |
-| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 42 | [Proof](http://twitter.com/search?q=Proof) | N/A |
-| 43 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 44 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
-| 45 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
-| 46 | [hóng](http://twitter.com/search?q=h%c3%b3ng) | N/A |
-| 47 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
-| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 49 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
-| 50 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
+| 35 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
+| 36 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
+| 37 | [chơi](http://twitter.com/search?q=ch%c6%a1i) | N/A |
+| 38 | [$BIT](http://twitter.com/search?q=%24BIT) | N/A |
+| 39 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 40 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 41 | [nhân](http://twitter.com/search?q=nh%c3%a2n) | N/A |
+| 42 | [xinh](http://twitter.com/search?q=xinh) | N/A |
+| 43 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
+| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 45 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 46 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
+| 47 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
+| 48 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
+| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 50 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
 
 
 
