@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-16 21:17:03 UTC`
+📆 Last Updated: `2023-03-16 22:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 2 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 5 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 8 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 9 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 10 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 11 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 12 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 13 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 14 | [la bns](http://twitter.com/search?q=la+bns) | N/A |
-| 15 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 16 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 17 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 18 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 19 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
-| 20 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 21 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
-| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 23 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
-| 24 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 25 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 26 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 27 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 28 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 29 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 30 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 31 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 32 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
-| 33 | [London](http://twitter.com/search?q=London) | N/A |
-| 34 | [Lara Gut-Behrami](http://twitter.com/search?q=Lara+Gut-Behrami) | N/A |
-| 35 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 4 | [#SCBEHCB](http://twitter.com/search?q=%23SCBEHCB) | N/A |
+| 5 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 6 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 7 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
+| 8 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 9 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 13 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 14 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
+| 15 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
+| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 17 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 18 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
+| 19 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 20 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 21 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
+| 22 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 23 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 24 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 26 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 27 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 28 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 29 | [Zahl](http://twitter.com/search?q=Zahl) | N/A |
+| 30 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 31 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 32 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 33 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
+| 34 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 35 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
 | 36 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 37 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 38 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 39 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 41 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 42 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 43 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 44 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 45 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 46 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 47 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 48 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
-| 49 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 37 | [valais](http://twitter.com/search?q=valais) | N/A |
+| 38 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 39 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
+| 40 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 41 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 42 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 43 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 44 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 45 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 46 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 47 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
+| 48 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 49 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
+| 50 | [Buona](http://twitter.com/search?q=Buona) | N/A |
 
 
 

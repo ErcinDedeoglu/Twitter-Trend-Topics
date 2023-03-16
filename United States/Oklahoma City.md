@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-03-16 21:17:28 UTC`
+📆 Last Updated: `2023-03-16 22:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 2 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 3 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 4 | [#reelzapp](http://twitter.com/search?q=%23reelzapp) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [#AspireTour2023](http://twitter.com/search?q=%23AspireTour2023) | N/A |
-| 7 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
-| 8 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
-| 9 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 10 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 11 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 12 | [Tony Bennett](http://twitter.com/search?q=Tony+Bennett) | N/A |
-| 13 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 14 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 15 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 16 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 17 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
-| 18 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
-| 19 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 21 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 22 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 23 | [Dennis Gates](http://twitter.com/search?q=Dennis+Gates) | N/A |
-| 24 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 25 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
-| 26 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 27 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 28 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 29 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 30 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
-| 31 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 32 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
-| 33 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
-| 34 | [Jalen Slawson](http://twitter.com/search?q=Jalen+Slawson) | N/A |
-| 35 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 36 | [Bookmarks](http://twitter.com/search?q=Bookmarks) | N/A |
-| 37 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
-| 38 | [Bob Huggins](http://twitter.com/search?q=Bob+Huggins) | N/A |
-| 39 | [First Republic](http://twitter.com/search?q=First+Republic) | N/A |
-| 40 | [Kedrian Johnson](http://twitter.com/search?q=Kedrian+Johnson) | N/A |
-| 41 | [Mark Sears](http://twitter.com/search?q=Mark+Sears) | N/A |
-| 42 | [Julian Reese](http://twitter.com/search?q=Julian+Reese) | N/A |
-| 43 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 44 | [Bogi](http://twitter.com/search?q=Bogi) | N/A |
-| 45 | [Go Dins](http://twitter.com/search?q=Go+Dins) | N/A |
-| 46 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 47 | [Stevenson](http://twitter.com/search?q=Stevenson) | Stevenson is a surname of Scottish origin. It is derived from the Old English words 'stið' meaning 'strong' and 'ham' meaning 'home'. The name can be translated to mean 'strong home'. |
-| 48 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
-| 49 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
+| 1 | [#okwx](http://twitter.com/search?q=%23okwx) | N/A |
+| 2 | [#NCAAWrestling](http://twitter.com/search?q=%23NCAAWrestling) | N/A |
+| 3 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 4 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 5 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 6 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 7 | [#reelzapp](http://twitter.com/search?q=%23reelzapp) | N/A |
+| 8 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 11 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 12 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 14 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 15 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 16 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 17 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
+| 18 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 19 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 20 | [Tony Bennett](http://twitter.com/search?q=Tony+Bennett) | N/A |
+| 21 | [Fort Worth](http://twitter.com/search?q=Fort+Worth) | N/A |
+| 22 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 23 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 24 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
+| 25 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
+| 26 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
+| 27 | [CofC](http://twitter.com/search?q=CofC) | N/A |
+| 28 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
+| 29 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
+| 30 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 31 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 32 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 33 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
+| 34 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 35 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 36 | [Minshew](http://twitter.com/search?q=Minshew) | Minshew is a surname of English origin. It is derived from the Old English words "myne" (mine) and "sceaga" (wood). The name was originally given to someone who lived near a wood or forest. |
+| 37 | [Brad Underwood](http://twitter.com/search?q=Brad+Underwood) | N/A |
+| 38 | [Slayton](http://twitter.com/search?q=Slayton) | Slayton is a surname of English origin. It is derived from the Old English words 'slae' meaning 'willow' and 'tun' meaning 'enclosure'. The name is thought to have originally referred to someone who lived near a willow enclosure. |
+| 39 | [Tornado Warning](http://twitter.com/search?q=Tornado+Warning) | N/A |
+| 40 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 41 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 42 | [First Republic](http://twitter.com/search?q=First+Republic) | N/A |
+| 43 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 44 | [Kamani](http://twitter.com/search?q=Kamani) | N/A |
+| 45 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 46 | [Coleman Hawkins](http://twitter.com/search?q=Coleman+Hawkins) | N/A |
+| 47 | [Nick Pringle](http://twitter.com/search?q=Nick+Pringle) | N/A |
+| 48 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
+| 49 | [Bookmarks](http://twitter.com/search?q=Bookmarks) | N/A |
 
 
 

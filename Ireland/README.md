@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-16 21:17:34 UTC`
+📆 Last Updated: `2023-03-16 22:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ireland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 2 | [Ryan Tubridy](http://twitter.com/search?q=Ryan+Tubridy) | N/A |
-| 3 | [Late Late Show](http://twitter.com/search?q=Late+Late+Show) | N/A |
-| 4 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 5 | [#BETMUN](http://twitter.com/search?q=%23BETMUN) | N/A |
-| 6 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 7 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 8 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 9 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 10 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 11 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 12 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 13 | [Tommy Tiernan](http://twitter.com/search?q=Tommy+Tiernan) | N/A |
-| 14 | [Tubs](http://twitter.com/search?q=Tubs) | N/A |
-| 15 | [Toy Show](http://twitter.com/search?q=Toy+Show) | N/A |
-| 16 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
-| 19 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 20 | [Fergal](http://twitter.com/search?q=Fergal) | N/A |
-| 21 | [St John Ambulance](http://twitter.com/search?q=St+John+Ambulance) | N/A |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
-| 24 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 25 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
-| 26 | [Claire Byrne](http://twitter.com/search?q=Claire+Byrne) | N/A |
-| 27 | [#CheltenhamFestival](http://twitter.com/search?q=%23CheltenhamFestival) | N/A |
-| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 29 | [delta work](http://twitter.com/search?q=delta+work) | N/A |
-| 30 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
-| 31 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 32 | [impaire et passe](http://twitter.com/search?q=impaire+et+passe) | N/A |
-| 33 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 34 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 35 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 37 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
-| 38 | [Davy Russell](http://twitter.com/search?q=Davy+Russell) | N/A |
-| 39 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 40 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 41 | [Jeff Hendrick](http://twitter.com/search?q=Jeff+Hendrick) | N/A |
-| 42 | [McClean](http://twitter.com/search?q=McClean) | N/A |
-| 43 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
-| 44 | [Good Time Jonny](http://twitter.com/search?q=Good+Time+Jonny) | N/A |
-| 45 | [Sire Du Berlais](http://twitter.com/search?q=Sire+Du+Berlais) | N/A |
-| 46 | [Ray D'Arcy](http://twitter.com/search?q=Ray+D%27Arcy) | N/A |
-| 47 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 48 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 49 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 50 | [Gay Byrne](http://twitter.com/search?q=Gay+Byrne) | N/A |
+| 1 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
+| 2 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 3 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 4 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 5 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 6 | [Ryan Tubridy](http://twitter.com/search?q=Ryan+Tubridy) | N/A |
+| 7 | [#FirstDatesIRL](http://twitter.com/search?q=%23FirstDatesIRL) | N/A |
+| 8 | [Late Late Show](http://twitter.com/search?q=Late+Late+Show) | N/A |
+| 9 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 10 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 11 | [#ARSSPO](http://twitter.com/search?q=%23ARSSPO) | N/A |
+| 12 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 13 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 14 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 15 | [Tommy Tiernan](http://twitter.com/search?q=Tommy+Tiernan) | N/A |
+| 16 | [Tubs](http://twitter.com/search?q=Tubs) | N/A |
+| 17 | [Toy Show](http://twitter.com/search?q=Toy+Show) | N/A |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 20 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 21 | [Fergal](http://twitter.com/search?q=Fergal) | N/A |
+| 22 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
+| 23 | [St John Ambulance](http://twitter.com/search?q=St+John+Ambulance) | N/A |
+| 24 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
+| 25 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 26 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 27 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 28 | [Claire Byrne](http://twitter.com/search?q=Claire+Byrne) | N/A |
+| 29 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
+| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 31 | [delta work](http://twitter.com/search?q=delta+work) | N/A |
+| 32 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 33 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 34 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
+| 35 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 36 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 37 | [Anton Savage](http://twitter.com/search?q=Anton+Savage) | N/A |
+| 38 | [Jeff Hendrick](http://twitter.com/search?q=Jeff+Hendrick) | N/A |
+| 39 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
+| 40 | [Good Time Jonny](http://twitter.com/search?q=Good+Time+Jonny) | N/A |
+| 41 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 42 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 43 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 44 | [Sire Du Berlais](http://twitter.com/search?q=Sire+Du+Berlais) | N/A |
+| 45 | [Liam McKenna](http://twitter.com/search?q=Liam+McKenna) | N/A |
+| 46 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 47 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 48 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 49 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 50 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
 
 
 

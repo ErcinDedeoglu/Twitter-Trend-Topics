@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-16 21:17:03 UTC`
+📆 Last Updated: `2023-03-16 22:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Fallas2023](http://twitter.com/search?q=%23Fallas2023) | N/A |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [#EspecialPasapalabra](http://twitter.com/search?q=%23EspecialPasapalabra) | N/A |
-| 4 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 5 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 6 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 7 | [Telles](http://twitter.com/search?q=Telles) | N/A |
-| 8 | [Dmitrovic](http://twitter.com/search?q=Dmitrovic) | N/A |
-| 9 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
-| 10 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 11 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
-| 12 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 13 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
-| 14 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 15 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 16 | [#SevillaFC](http://twitter.com/search?q=%23SevillaFC) | N/A |
-| 17 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 18 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 19 | [#PremiosDial](http://twitter.com/search?q=%23PremiosDial) | N/A |
-| 20 | [El Betis](http://twitter.com/search?q=El+Betis) | El Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name El Betis is derived from the Latin phrase "bene et recte," which translates to "well and rightly." |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 23 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
-| 24 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 25 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 26 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 27 | [Partizan](http://twitter.com/search?q=Partizan) | N/A |
-| 28 | [#VamosMiSevilla](http://twitter.com/search?q=%23VamosMiSevilla) | N/A |
-| 29 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
-| 30 | [lottie](http://twitter.com/search?q=lottie) | N/A |
-| 31 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
-| 32 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 33 | [Don Jaime](http://twitter.com/search?q=Don+Jaime) | N/A |
-| 34 | [Benito Villamarín](http://twitter.com/search?q=Benito+Villamar%c3%adn) | N/A |
-| 35 | [Joaquín](http://twitter.com/search?q=Joaqu%c3%adn) | Joaquín is a Spanish name derived from the Hebrew name Yehoyakim, which means "God will establish". In English, it is usually translated as Joaquin. |
-| 36 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 37 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 38 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 39 | [Cuartos](http://twitter.com/search?q=Cuartos) | N/A |
-| 40 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 41 | [Bertín Osborne](http://twitter.com/search?q=Bert%c3%adn+Osborne) | N/A |
-| 42 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 43 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 44 | [Estambul](http://twitter.com/search?q=Estambul) | N/A |
-| 45 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 46 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 47 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 48 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
-| 49 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 50 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
+| 2 | [#Falles23](http://twitter.com/search?q=%23Falles23) | N/A |
+| 3 | [#SVGala3](http://twitter.com/search?q=%23SVGala3) | N/A |
+| 4 | [#EspecialPasapalabra](http://twitter.com/search?q=%23EspecialPasapalabra) | N/A |
+| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 6 | [#ElDesafioEH](http://twitter.com/search?q=%23ElDesafioEH) | N/A |
+| 7 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 8 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 9 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 10 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 11 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 12 | [Carlos Fernández](http://twitter.com/search?q=Carlos+Fern%c3%a1ndez) | N/A |
+| 13 | [Setien](http://twitter.com/search?q=Setien) | Setien is a Spanish surname derived from the Latin word "Sextius", meaning "sixth". It is most commonly found in the Basque region of Spain. |
+| 14 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 15 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 16 | [El Hormiguero](http://twitter.com/search?q=El+Hormiguero) | N/A |
+| 17 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 18 | [Diego Rico](http://twitter.com/search?q=Diego+Rico) | N/A |
+| 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 20 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 21 | [Tamara Falcó](http://twitter.com/search?q=Tamara+Falc%c3%b3) | N/A |
+| 22 | [Sorloth](http://twitter.com/search?q=Sorloth) | Sorloth is a Scandinavian name derived from Old Norse. It is believed to mean "sword of the people" or "sword of Thor". |
+| 23 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
+| 24 | [Smalling](http://twitter.com/search?q=Smalling) | N/A |
+| 25 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 26 | [Gorosabel](http://twitter.com/search?q=Gorosabel) | N/A |
+| 27 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 28 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
+| 29 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
+| 30 | [Dmitrovic](http://twitter.com/search?q=Dmitrovic) | N/A |
+| 31 | [El Betis](http://twitter.com/search?q=El+Betis) | El Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name El Betis is derived from the Latin phrase "bene et recte," which translates to "well and rightly." |
+| 32 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 33 | [Carlos Sánchez](http://twitter.com/search?q=Carlos+S%c3%a1nchez) | N/A |
+| 34 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
+| 35 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 37 | [Telles](http://twitter.com/search?q=Telles) | N/A |
+| 38 | [Mariló](http://twitter.com/search?q=Maril%c3%b3) | N/A |
+| 39 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 40 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 41 | [Pollito](http://twitter.com/search?q=Pollito) | N/A |
+| 42 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 43 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 44 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
+| 45 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 46 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
+| 47 | [Talavante](http://twitter.com/search?q=Talavante) | N/A |
+| 48 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 49 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 50 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
 
 
 

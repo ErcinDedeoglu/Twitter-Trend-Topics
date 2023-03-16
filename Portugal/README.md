@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-16 21:17:37 UTC`
+📆 Last Updated: `2023-03-16 22:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Portugal
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
-| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 4 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 5 | [Adan](http://twitter.com/search?q=Adan) | N/A |
-| 6 | [Fábio Vieira](http://twitter.com/search?q=F%c3%a1bio+Vieira) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 2 | [Pote](http://twitter.com/search?q=Pote) | N/A |
+| 3 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [Pedro Gonçalves](http://twitter.com/search?q=Pedro+Gon%c3%a7alves) | N/A |
+| 6 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
+| 7 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
 | 8 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 10 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
-| 11 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 12 | [lottie](http://twitter.com/search?q=lottie) | N/A |
-| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 14 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 15 | [Transtejo](http://twitter.com/search?q=Transtejo) | N/A |
-| 16 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 17 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 18 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 19 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
-| 20 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 23 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 24 | [#otriângulotvi](http://twitter.com/search?q=%23otri%c3%a2ngulotvi) | N/A |
-| 25 | [Matheus Reis](http://twitter.com/search?q=Matheus+Reis) | N/A |
-| 26 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 27 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 28 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 30 | [Dala](http://twitter.com/search?q=Dala) | N/A |
-| 31 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 32 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 33 | [Sonae](http://twitter.com/search?q=Sonae) | N/A |
-| 34 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 35 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 36 | [St Juste](http://twitter.com/search?q=St+Juste) | N/A |
-| 37 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 39 | [Tribunal de Contas](http://twitter.com/search?q=Tribunal+de+Contas) | N/A |
-| 40 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
-| 41 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 42 | [Inácio](http://twitter.com/search?q=In%c3%a1cio) | N/A |
-| 43 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 44 | [Sevilha](http://twitter.com/search?q=Sevilha) | N/A |
-| 45 | [Natália Correia](http://twitter.com/search?q=Nat%c3%a1lia+Correia) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [Marinha](http://twitter.com/search?q=Marinha) | N/A |
-| 48 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 49 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 50 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 9 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 10 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 11 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
+| 12 | [St. Juste](http://twitter.com/search?q=St.+Juste) | N/A |
+| 13 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 14 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
+| 15 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
+| 16 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 17 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 18 | [O QUE É ISTO](http://twitter.com/search?q=O+QUE+%c3%89+ISTO) | N/A |
+| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 20 | [Essugo](http://twitter.com/search?q=Essugo) | N/A |
+| 21 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
+| 22 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 23 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 24 | [Fábio Vieira](http://twitter.com/search?q=F%c3%a1bio+Vieira) | N/A |
+| 25 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 26 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
+| 27 | [Transtejo](http://twitter.com/search?q=Transtejo) | N/A |
+| 28 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 29 | [Pedro Mitalves](http://twitter.com/search?q=Pedro+Mitalves) | N/A |
+| 30 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 31 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 32 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 33 | [Matheus Reis](http://twitter.com/search?q=Matheus+Reis) | N/A |
+| 34 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 35 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 36 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 38 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 39 | [Fatawu](http://twitter.com/search?q=Fatawu) | N/A |
+| 40 | [VAMOS CARALHO](http://twitter.com/search?q=VAMOS+CARALHO) | N/A |
+| 41 | [Golo](http://twitter.com/search?q=Golo) | N/A |
+| 42 | [Alvalade](http://twitter.com/search?q=Alvalade) | N/A |
+| 43 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 44 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 45 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 46 | [Dala](http://twitter.com/search?q=Dala) | N/A |
+| 47 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 48 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 49 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 50 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
 
 
 

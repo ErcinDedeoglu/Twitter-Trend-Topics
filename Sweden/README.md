@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-16 21:17:38 UTC`
+📆 Last Updated: `2023-03-16 22:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Sweden
 | ------- | ------------ | ------------ |
 | 1 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
 | 2 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 3 | [Danielsson](http://twitter.com/search?q=Danielsson) | N/A |
-| 4 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
-| 5 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
-| 6 | [Willys](http://twitter.com/search?q=Willys) | N/A |
-| 7 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
-| 8 | [Hässelby](http://twitter.com/search?q=H%c3%a4sselby) | N/A |
-| 9 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 3 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
+| 4 | [Hässelby](http://twitter.com/search?q=H%c3%a4sselby) | N/A |
+| 5 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 6 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 7 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
+| 8 | [Manner](http://twitter.com/search?q=Manner) | N/A |
+| 9 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
 | 10 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
 | 11 | [Ingerö](http://twitter.com/search?q=Inger%c3%b6) | N/A |
-| 12 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 13 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
-| 14 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 15 | [Wagnergruppen](http://twitter.com/search?q=Wagnergruppen) | N/A |
-| 16 | [Djurgården](http://twitter.com/search?q=Djurg%c3%a5rden) | N/A |
-| 17 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 19 | [ICA-handlare](http://twitter.com/search?q=ICA-handlare) | N/A |
-| 20 | [Komarek](http://twitter.com/search?q=Komarek) | N/A |
-| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 22 | [Wikegård](http://twitter.com/search?q=Wikeg%c3%a5rd) | N/A |
-| 23 | [cajuste](http://twitter.com/search?q=cajuste) | N/A |
-| 24 | [Hybrit](http://twitter.com/search?q=Hybrit) | N/A |
-| 25 | [ABF-anställda](http://twitter.com/search?q=ABF-anst%c3%a4llda) | N/A |
-| 26 | [Östermalm](http://twitter.com/search?q=%c3%96stermalm) | N/A |
-| 27 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
-| 28 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 29 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 31 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 32 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 33 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
-| 34 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 36 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
-| 37 | [London](http://twitter.com/search?q=London) | N/A |
-| 38 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
-| 39 | [Hemköp](http://twitter.com/search?q=Hemk%c3%b6p) | N/A |
-| 40 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 41 | [Odengatan](http://twitter.com/search?q=Odengatan) | N/A |
-| 42 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 44 | [Perfekt](http://twitter.com/search?q=Perfekt) | N/A |
-| 45 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
-| 46 | [Trist](http://twitter.com/search?q=Trist) | N/A |
-| 47 | [Busch](http://twitter.com/search?q=Busch) | N/A |
-| 48 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 49 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 50 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 12 | [Ingerö](http://twitter.com/search?q=Inger%c3%b6) | N/A |
+| 13 | [Karlis](http://twitter.com/search?q=Karlis) | N/A |
+| 14 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 15 | [Danielsson](http://twitter.com/search?q=Danielsson) | N/A |
+| 16 | [Willys](http://twitter.com/search?q=Willys) | N/A |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 19 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 20 | [Wagnergruppen](http://twitter.com/search?q=Wagnergruppen) | N/A |
+| 21 | [Komarek](http://twitter.com/search?q=Komarek) | N/A |
+| 22 | [Växjös](http://twitter.com/search?q=V%c3%a4xj%c3%b6s) | N/A |
+| 23 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 24 | [ICA-handlare](http://twitter.com/search?q=ICA-handlare) | N/A |
+| 25 | [Wikegård](http://twitter.com/search?q=Wikeg%c3%a5rd) | N/A |
+| 26 | [cajuste](http://twitter.com/search?q=cajuste) | N/A |
+| 27 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 28 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
+| 29 | [Rödin](http://twitter.com/search?q=R%c3%b6din) | N/A |
+| 30 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 31 | [Bulan](http://twitter.com/search?q=Bulan) | N/A |
+| 32 | [#sverigemöts](http://twitter.com/search?q=%23sverigem%c3%b6ts) | N/A |
+| 33 | [Hybrit](http://twitter.com/search?q=Hybrit) | N/A |
+| 34 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
+| 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 36 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 37 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
+| 38 | [Lindbäck](http://twitter.com/search?q=Lindb%c3%a4ck) | N/A |
+| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 41 | [Shekarabi](http://twitter.com/search?q=Shekarabi) | N/A |
+| 42 | [London](http://twitter.com/search?q=London) | N/A |
+| 43 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 44 | [ABF-anställda](http://twitter.com/search?q=ABF-anst%c3%a4llda) | N/A |
+| 45 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 46 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
+| 47 | [Odenplan](http://twitter.com/search?q=Odenplan) | N/A |
+| 48 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 49 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 50 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
 
 
 
