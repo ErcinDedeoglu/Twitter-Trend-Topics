@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-16 00:29:56 UTC`
+📆 Last Updated: `2023-03-16 01:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 2 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 1 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 2 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 3 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 4 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 5 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 6 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 10 | [#ChiringuitoMadrid](http://twitter.com/search?q=%23ChiringuitoMadrid) | N/A |
-| 11 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
-| 12 | [#elconquis9ETB](http://twitter.com/search?q=%23elconquis9ETB) | N/A |
-| 13 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 15 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 17 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
-| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 19 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
-| 20 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 21 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 22 | [#DiasDeTele](http://twitter.com/search?q=%23DiasDeTele) | N/A |
-| 23 | [#PlanetaCalleja](http://twitter.com/search?q=%23PlanetaCalleja) | N/A |
-| 24 | [Culos](http://twitter.com/search?q=Culos) | N/A |
-| 25 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
-| 26 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 27 | [#firstdates15m](http://twitter.com/search?q=%23firstdates15m) | N/A |
-| 28 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 29 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 30 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 31 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 32 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
-| 33 | [Killer](http://twitter.com/search?q=Killer) | N/A |
-| 34 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
-| 35 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 36 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 37 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
-| 38 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 39 | [Buscando a Nemo](http://twitter.com/search?q=Buscando+a+Nemo) | N/A |
-| 40 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
-| 41 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 42 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 43 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 44 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
-| 45 | [Dalí](http://twitter.com/search?q=Dal%c3%ad) | N/A |
-| 46 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 47 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 48 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 49 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 50 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 7 | [#elconquis9ETB](http://twitter.com/search?q=%23elconquis9ETB) | N/A |
+| 8 | [#ChiringuitoMadrid](http://twitter.com/search?q=%23ChiringuitoMadrid) | N/A |
+| 9 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
+| 10 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 11 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 12 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 14 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 16 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 17 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 18 | [Culos](http://twitter.com/search?q=Culos) | N/A |
+| 19 | [#DiasDeTele](http://twitter.com/search?q=%23DiasDeTele) | N/A |
+| 20 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 21 | [#PlanetaCalleja](http://twitter.com/search?q=%23PlanetaCalleja) | N/A |
+| 22 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
+| 23 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 24 | [#firstdates15m](http://twitter.com/search?q=%23firstdates15m) | N/A |
+| 25 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 26 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 27 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
+| 28 | [Killer](http://twitter.com/search?q=Killer) | N/A |
+| 29 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
+| 30 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
+| 31 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 32 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
+| 33 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 34 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 35 | [Nemo](http://twitter.com/search?q=Nemo) | N/A |
+| 36 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 37 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 38 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
+| 39 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 40 | [The Mandalorian](http://twitter.com/search?q=The+Mandalorian) | N/A |
+| 41 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
+| 42 | [Dalí](http://twitter.com/search?q=Dal%c3%ad) | N/A |
+| 43 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 44 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 45 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 46 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 47 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 48 | [#LaNoche24h](http://twitter.com/search?q=%23LaNoche24h) | N/A |
+| 49 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 50 | [#Pasapalabra725](http://twitter.com/search?q=%23Pasapalabra725) | N/A |
 
 
 

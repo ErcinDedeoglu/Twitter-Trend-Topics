@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-03-16 00:30:00 UTC`
+📆 Last Updated: `2023-03-16 01:43:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [Keating](http://twitter.com/search?q=Keating) | N/A |
 | 2 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
 | 3 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 4 | [#bcm325](http://twitter.com/search?q=%23bcm325) | N/A |
-| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 6 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 7 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 9 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
-| 10 | [#CloseTheGap](http://twitter.com/search?q=%23CloseTheGap) | N/A |
-| 11 | [Blade Runner](http://twitter.com/search?q=Blade+Runner) | N/A |
-| 12 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
-| 13 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
-| 14 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 15 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 16 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
-| 17 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 5 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 8 | [#CloseTheGap](http://twitter.com/search?q=%23CloseTheGap) | N/A |
+| 9 | [#BCM325](http://twitter.com/search?q=%23BCM325) | N/A |
+| 10 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
+| 11 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
+| 12 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
+| 13 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
+| 14 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
+| 15 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 16 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 17 | [Peking Paul](http://twitter.com/search?q=Peking+Paul) | N/A |
 | 18 | [Layton](http://twitter.com/search?q=Layton) | N/A |
 | 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 21 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 20 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 21 | [Ralphie](http://twitter.com/search?q=Ralphie) | N/A |
 | 22 | [Marles](http://twitter.com/search?q=Marles) | N/A |
 | 23 | [Uyghurs](http://twitter.com/search?q=Uyghurs) | N/A |
-| 24 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 25 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 24 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 25 | [Tracey](http://twitter.com/search?q=Tracey) | N/A |
 | 26 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 27 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 28 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
-| 29 | [Angus Glover](http://twitter.com/search?q=Angus+Glover) | N/A |
-| 30 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
-| 31 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 33 | [Matthew Knott](http://twitter.com/search?q=Matthew+Knott) | N/A |
-| 34 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 35 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 36 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 37 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 38 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
-| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 27 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 28 | [Blade Runner](http://twitter.com/search?q=Blade+Runner) | N/A |
+| 29 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
+| 30 | [Angus Glover](http://twitter.com/search?q=Angus+Glover) | N/A |
+| 31 | [Sage](http://twitter.com/search?q=Sage) | N/A |
+| 32 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 33 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 34 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 35 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
+| 36 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 37 | [Kitty](http://twitter.com/search?q=Kitty) | N/A |
+| 38 | [Matthew Knott](http://twitter.com/search?q=Matthew+Knott) | N/A |
+| 39 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
 | 40 | [Ben Morton](http://twitter.com/search?q=Ben+Morton) | N/A |
-| 41 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 42 | [Hartcher](http://twitter.com/search?q=Hartcher) | N/A |
-| 43 | [Bogut](http://twitter.com/search?q=Bogut) | N/A |
-| 44 | [SYDNEY KINGS](http://twitter.com/search?q=SYDNEY+KINGS) | N/A |
-| 45 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
-| 46 | [Beware the Ides of March](http://twitter.com/search?q=Beware+the+Ides+of+March) | N/A |
-| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 48 | [Ralphie](http://twitter.com/search?q=Ralphie) | N/A |
-| 49 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 41 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 42 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 43 | [US and UK](http://twitter.com/search?q=US+and+UK) | N/A |
+| 44 | [Hartcher](http://twitter.com/search?q=Hartcher) | N/A |
+| 45 | [Sydney Kings](http://twitter.com/search?q=Sydney+Kings) | N/A |
+| 46 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 47 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 48 | [UK and US](http://twitter.com/search?q=UK+and+US) | N/A |
+| 49 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
 
 
 

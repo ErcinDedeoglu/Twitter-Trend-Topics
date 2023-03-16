@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-16 00:30:35 UTC`
+📆 Last Updated: `2023-03-16 01:44:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,20 +25,20 @@ This is top 50 for Switzerland
 | 8 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
 | 9 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 10 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 11 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 12 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
-| 13 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 14 | [Berne](http://twitter.com/search?q=Berne) | N/A |
-| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 16 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 11 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 12 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 13 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
+| 14 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 15 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 16 | [Berne](http://twitter.com/search?q=Berne) | N/A |
+| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 19 | [#grosserratbs](http://twitter.com/search?q=%23grosserratbs) | N/A |
 | 20 | [Corona](http://twitter.com/search?q=Corona) | N/A |
 | 21 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
 | 22 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 23 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
-| 24 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 23 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 24 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
 | 25 | [Wald](http://twitter.com/search?q=Wald) | N/A |
 | 26 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 27 | [Raum](http://twitter.com/search?q=Raum) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Switzerland
 | 39 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
 | 40 | [Themen](http://twitter.com/search?q=Themen) | N/A |
 | 41 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 42 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 44 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 45 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 46 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 47 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 48 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 49 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 50 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 43 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 44 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 45 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 46 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 47 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 48 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 49 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 50 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
 
 
 

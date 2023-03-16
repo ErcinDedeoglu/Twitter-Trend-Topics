@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-16 00:29:50 UTC`
+📆 Last Updated: `2023-03-16 01:43:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,22 +20,22 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
 | 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 5 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 8 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
-| 9 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 10 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 11 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
-| 12 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
-| 15 | [blachnickiego](http://twitter.com/search?q=blachnickiego) | N/A |
-| 16 | [Biedronki](http://twitter.com/search?q=Biedronki) | N/A |
-| 17 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 18 | [Neapolu](http://twitter.com/search?q=Neapolu) | N/A |
+| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 7 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
+| 8 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
+| 9 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 10 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 11 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
+| 14 | [blachnickiego](http://twitter.com/search?q=blachnickiego) | N/A |
+| 15 | [Biedronki](http://twitter.com/search?q=Biedronki) | N/A |
+| 16 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
+| 17 | [Neapolu](http://twitter.com/search?q=Neapolu) | N/A |
+| 18 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
 | 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 20 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
-| 21 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 21 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
 | 22 | [trela](http://twitter.com/search?q=trela) | N/A |
 | 23 | [Lange](http://twitter.com/search?q=Lange) | N/A |
 | 24 | [Ceny](http://twitter.com/search?q=Ceny) | N/A |
@@ -44,23 +44,24 @@ This is top 50 for [Poland](</Poland>)
 | 27 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
 | 28 | [III RP](http://twitter.com/search?q=III+RP) | N/A |
 | 29 | [morzem czarnym](http://twitter.com/search?q=morzem+czarnym) | N/A |
-| 30 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 31 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
-| 32 | [błaszczaka](http://twitter.com/search?q=b%c5%82aszczaka) | N/A |
-| 33 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
-| 34 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 35 | [Lidlu](http://twitter.com/search?q=Lidlu) | N/A |
-| 36 | [Szwajcarii](http://twitter.com/search?q=Szwajcarii) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 39 | [Zmień](http://twitter.com/search?q=Zmie%c5%84) | N/A |
-| 40 | [Morawieckim](http://twitter.com/search?q=Morawieckim) | N/A |
-| 41 | [w 2015](http://twitter.com/search?q=w+2015) | N/A |
-| 42 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
-| 43 | [Środa](http://twitter.com/search?q=%c5%9aroda) | N/A |
-| 44 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 45 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
-| 46 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 30 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
+| 31 | [Lidlu](http://twitter.com/search?q=Lidlu) | N/A |
+| 32 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 33 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 34 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 35 | [zmień](http://twitter.com/search?q=zmie%c5%84) | N/A |
+| 36 | [Morawieckim](http://twitter.com/search?q=Morawieckim) | N/A |
+| 37 | [w 2015](http://twitter.com/search?q=w+2015) | N/A |
+| 38 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
+| 39 | [Środa](http://twitter.com/search?q=%c5%9aroda) | N/A |
+| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 41 | [Szwajcarii](http://twitter.com/search?q=Szwajcarii) | N/A |
+| 42 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
+| 43 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 44 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 45 | [Halo](http://twitter.com/search?q=Halo) | N/A |
+| 46 | [Ozdoba](http://twitter.com/search?q=Ozdoba) | N/A |
+| 47 | [Kuba](http://twitter.com/search?q=Kuba) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thane
 
-📆 Last Updated: `2023-03-16 00:30:16 UTC`
+📆 Last Updated: `2023-03-16 01:44:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
-| 2 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
-| 3 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 4 | [#WorldConsumerRightsDay](http://twitter.com/search?q=%23WorldConsumerRightsDay) | N/A |
-| 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 6 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 7 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 8 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
-| 9 | [श्री हरि विष्णु](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | N/A |
+| 1 | [#PowerOfPositivity](http://twitter.com/search?q=%23PowerOfPositivity) | N/A |
+| 2 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
+| 3 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
+| 4 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 5 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 6 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
+| 7 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
+| 8 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 10 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 11 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 12 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 15 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 16 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 11 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 12 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
+| 13 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 14 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 15 | [nationalexec of minoritydept](http://twitter.com/search?q=nationalexec+of+minoritydept) | N/A |
+| 16 | [birth campaign](http://twitter.com/search?q=birth+campaign) | N/A |
 | 17 | [SA True Story](http://twitter.com/search?q=SA+True+Story) | N/A |
-| 18 | [nationalexec of minoritydept](http://twitter.com/search?q=nationalexec+of+minoritydept) | N/A |
-| 19 | [birth campaign](http://twitter.com/search?q=birth+campaign) | N/A |
-| 20 | [kanwar turns thirty](http://twitter.com/search?q=kanwar+turns+thirty) | N/A |
-| 21 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 19 | [Sonali Kulkarni](http://twitter.com/search?q=Sonali+Kulkarni) | N/A |
+| 20 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 21 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
 | 22 | [grace harris](http://twitter.com/search?q=grace+harris) | N/A |
 | 23 | [loopholes inssr staff story](http://twitter.com/search?q=loopholes+inssr+staff+story) | N/A |
 | 24 | [false rape cases](http://twitter.com/search?q=false+rape+cases) | N/A |
-| 25 | [we luv u abhimanyu birla](http://twitter.com/search?q=we+luv+u+abhimanyu+birla) | N/A |
-| 26 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 27 | [Kanika Ahuja](http://twitter.com/search?q=Kanika+Ahuja) | N/A |
-| 28 | [dr mahendra singh](http://twitter.com/search?q=dr+mahendra+singh) | N/A |
-| 29 | [classic example](http://twitter.com/search?q=classic+example) | N/A |
-| 30 | [Sushant Worth Emulating](http://twitter.com/search?q=Sushant+Worth+Emulating) | N/A |
-| 31 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 32 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 34 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 35 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 36 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 25 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 26 | [kanika ahuja](http://twitter.com/search?q=kanika+ahuja) | N/A |
+| 27 | [dr mahendra singh](http://twitter.com/search?q=dr+mahendra+singh) | N/A |
+| 28 | [classic example](http://twitter.com/search?q=classic+example) | N/A |
+| 29 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 30 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
+| 31 | [Sushant Worth Emulating](http://twitter.com/search?q=Sushant+Worth+Emulating) | N/A |
+| 32 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 33 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 34 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 35 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 36 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 37 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 38 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
-| 39 | [b. 1750](http://twitter.com/search?q=b.+1750) | N/A |
-| 40 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 41 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 38 | [a. 4](http://twitter.com/search?q=a.+4) | N/A |
+| 39 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 41 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
 | 42 | [बहुजन समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 44 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 45 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 46 | [a. dynamic amoled 2x](http://twitter.com/search?q=a.+dynamic+amoled+2x) | N/A |
+| 43 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
+| 44 | [लाल यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 45 | [a. dynamic amoled 2x](http://twitter.com/search?q=a.+dynamic+amoled+2x) | N/A |
+| 46 | [B. 1750](http://twitter.com/search?q=B.+1750) | N/A |
 | 47 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 48 | [लॉरेंस बिश्नोई](http://twitter.com/search?q=%e0%a4%b2%e0%a5%89%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8+%e0%a4%ac%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%a8%e0%a5%8b%e0%a4%88) | N/A |
-| 49 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 50 | [Nobel Peace Prize](http://twitter.com/search?q=Nobel+Peace+Prize) | N/A |
+| 48 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 49 | [लॉरेंस बिश्नोई](http://twitter.com/search?q=%e0%a4%b2%e0%a5%89%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8+%e0%a4%ac%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%a8%e0%a5%8b%e0%a4%88) | N/A |
+| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

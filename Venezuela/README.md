@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-16 00:30:35 UTC`
+📆 Last Updated: `2023-03-16 01:44:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Venezuela
 | 1 | [#15Mar](http://twitter.com/search?q=%2315Mar) | N/A |
 | 2 | [#ChávezHechoMillones](http://twitter.com/search?q=%23Ch%c3%a1vezHechoMillones) | N/A |
 | 3 | [Saime](http://twitter.com/search?q=Saime) | N/A |
-| 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 5 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 4 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
+| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 7 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 8 | [#ChávezAntiimperialista](http://twitter.com/search?q=%23Ch%c3%a1vezAntiimperialista) | N/A |
-| 9 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
+| 7 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 9 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
 | 10 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 11 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 12 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 17 | [Eugenio Suárez](http://twitter.com/search?q=Eugenio+Su%c3%a1rez) | N/A |
-| 18 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
-| 19 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 22 | [Guama](http://twitter.com/search?q=Guama) | N/A |
-| 23 | [carlos hernández](http://twitter.com/search?q=carlos+hern%c3%a1ndez) | N/A |
-| 24 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 25 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 26 | [Renny Ottolina](http://twitter.com/search?q=Renny+Ottolina) | N/A |
-| 27 | [alma llanera](http://twitter.com/search?q=alma+llanera) | N/A |
-| 28 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 29 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 30 | [La Dimensión Latina](http://twitter.com/search?q=La+Dimensi%c3%b3n+Latina) | N/A |
+| 11 | [#ChávezAntiimperialista](http://twitter.com/search?q=%23Ch%c3%a1vezAntiimperialista) | N/A |
+| 12 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 13 | [Eugenio Suárez](http://twitter.com/search?q=Eugenio+Su%c3%a1rez) | N/A |
+| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 15 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 16 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
+| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 18 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 19 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 20 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 22 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 23 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
+| 24 | [Carlos Hernández](http://twitter.com/search?q=Carlos+Hern%c3%a1ndez) | N/A |
+| 25 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 26 | [Guama](http://twitter.com/search?q=Guama) | N/A |
+| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 28 | [Locatel](http://twitter.com/search?q=Locatel) | N/A |
+| 29 | [alma llanera](http://twitter.com/search?q=alma+llanera) | N/A |
+| 30 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 31 | [Luis Beltrán Prieto Figueroa](http://twitter.com/search?q=Luis+Beltr%c3%a1n+Prieto+Figueroa) | N/A |
-| 32 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 33 | [Sofía Imber](http://twitter.com/search?q=Sof%c3%ada+Imber) | N/A |
-| 34 | [Locatel](http://twitter.com/search?q=Locatel) | N/A |
-| 35 | [Eduardo Escobar](http://twitter.com/search?q=Eduardo+Escobar) | N/A |
-| 36 | [Personas con Discapacidad](http://twitter.com/search?q=Personas+con+Discapacidad) | N/A |
-| 37 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 38 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 39 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 40 | [Victor Cuica](http://twitter.com/search?q=Victor+Cuica) | N/A |
-| 41 | [Chicha](http://twitter.com/search?q=Chicha) | N/A |
-| 42 | [Pedro Elías Gutiérrez](http://twitter.com/search?q=Pedro+El%c3%adas+Guti%c3%a9rrez) | N/A |
-| 43 | [Parchita](http://twitter.com/search?q=Parchita) | N/A |
+| 32 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 33 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 34 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 35 | [La Dimensión Latina](http://twitter.com/search?q=La+Dimensi%c3%b3n+Latina) | N/A |
+| 36 | [Eduardo Escobar](http://twitter.com/search?q=Eduardo+Escobar) | N/A |
+| 37 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 38 | [Chicha](http://twitter.com/search?q=Chicha) | N/A |
+| 39 | [Victor Cuica](http://twitter.com/search?q=Victor+Cuica) | N/A |
+| 40 | [Pedro Elías Gutiérrez](http://twitter.com/search?q=Pedro+El%c3%adas+Guti%c3%a9rrez) | N/A |
+| 41 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
+| 42 | [Parchita](http://twitter.com/search?q=Parchita) | N/A |
+| 43 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
 | 44 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
 | 45 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 46 | [Juan Bautista Arismendi](http://twitter.com/search?q=Juan+Bautista+Arismendi) | N/A |
-| 47 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 48 | [Aran](http://twitter.com/search?q=Aran) | N/A |
-| 49 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 50 | [gabriel arias](http://twitter.com/search?q=gabriel+arias) | N/A |
+| 47 | [Personas con Discapacidad](http://twitter.com/search?q=Personas+con+Discapacidad) | N/A |
+| 48 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 49 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 50 | [Aran](http://twitter.com/search?q=Aran) | N/A |
 
 
 

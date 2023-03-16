@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-16 00:30:26 UTC`
+📆 Last Updated: `2023-03-16 01:44:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 2 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 3 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 4 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 5 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 6 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 8 | [#GoPackGo](http://twitter.com/search?q=%23GoPackGo) | #GoPackGo is a hashtag used by fans of the Green Bay Packers, an American football team based in Wisconsin. It is used to show support for the team and to encourage them to victory. The phrase "Go Pack Go" is a rallying cry for the team and its fans. |
-| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 10 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 11 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 12 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 13 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 14 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 15 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 16 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
-| 17 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
-| 18 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
-| 19 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 20 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 21 | [Sammy Guevara](http://twitter.com/search?q=Sammy+Guevara) | N/A |
-| 22 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 23 | [Christian Vazquez](http://twitter.com/search?q=Christian+Vazquez) | N/A |
-| 24 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 25 | [Miles Sanders](http://twitter.com/search?q=Miles+Sanders) | N/A |
-| 26 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 27 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 28 | [Foreman](http://twitter.com/search?q=Foreman) | N/A |
+| 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 2 | [Darvin](http://twitter.com/search?q=Darvin) | N/A |
+| 3 | [Andre](http://twitter.com/search?q=Andre) | N/A |
+| 4 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 5 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 7 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 8 | [#Willow](http://twitter.com/search?q=%23Willow) | N/A |
+| 9 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 10 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 11 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 12 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 13 | [The Lakers](http://twitter.com/search?q=The+Lakers) | N/A |
+| 14 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 15 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 17 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
+| 18 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 19 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
+| 20 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 21 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 22 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 23 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 24 | [Taya](http://twitter.com/search?q=Taya) | N/A |
+| 25 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 26 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 27 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 28 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
 | 29 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 30 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 31 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 32 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 33 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 34 | [Double or Nothing](http://twitter.com/search?q=Double+or+Nothing) | N/A |
-| 35 | [Jack Perry](http://twitter.com/search?q=Jack+Perry) | N/A |
-| 36 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 37 | [HEADFIRST SLIDE](http://twitter.com/search?q=HEADFIRST+SLIDE) | N/A |
-| 38 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 39 | [Fletch](http://twitter.com/search?q=Fletch) | N/A |
-| 40 | [4 Pillars](http://twitter.com/search?q=4+Pillars) | N/A |
-| 41 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 42 | [Taysom](http://twitter.com/search?q=Taysom) | Taysom is a given name of Hawaiian origin. It is derived from the Hawaiian word "tayso," which means "happy." The name is usually given to boys and can also be spelled as Taisom or Tayzom. |
-| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 44 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
-| 45 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 46 | [IW Formal](http://twitter.com/search?q=IW+Formal) | N/A |
-| 47 | [DEATH IS COMING](http://twitter.com/search?q=DEATH+IS+COMING) | N/A |
-| 48 | [Fernando Cruz](http://twitter.com/search?q=Fernando+Cruz) | N/A |
-| 49 | [Thornhill](http://twitter.com/search?q=Thornhill) | N/A |
-| 50 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 30 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 31 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 32 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
+| 33 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 34 | [Julio Rodriguez](http://twitter.com/search?q=Julio+Rodriguez) | N/A |
+| 35 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 36 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
+| 37 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 38 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 39 | [Stu Grayson](http://twitter.com/search?q=Stu+Grayson) | N/A |
+| 40 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 41 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 42 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 43 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 44 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
+| 45 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 46 | [Morehead State](http://twitter.com/search?q=Morehead+State) | N/A |
+| 47 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 48 | [James Robinson](http://twitter.com/search?q=James+Robinson) | N/A |
+| 49 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 50 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
 
 
 

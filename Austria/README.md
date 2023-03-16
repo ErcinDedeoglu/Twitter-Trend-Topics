@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-16 00:30:28 UTC`
+📆 Last Updated: `2023-03-16 01:44:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,11 +24,11 @@ This is top 50 for Austria
 | 7 | [#w1503](http://twitter.com/search?q=%23w1503) | N/A |
 | 8 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
 | 9 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 10 | [kocher](http://twitter.com/search?q=kocher) | N/A |
+| 10 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
 | 11 | [#LongCovid](http://twitter.com/search?q=%23LongCovid) | N/A |
 | 12 | [Kern](http://twitter.com/search?q=Kern) | N/A |
 | 13 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 14 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
+| 14 | [burgenland](http://twitter.com/search?q=burgenland) | N/A |
 | 15 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
 | 16 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
 | 17 | [#RendiWagner](http://twitter.com/search?q=%23RendiWagner) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Austria
 | 46 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
 | 47 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
 | 48 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
-| 49 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 50 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 49 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 50 | [Boden](http://twitter.com/search?q=Boden) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-16 00:30:35 UTC`
+📆 Last Updated: `2023-03-16 01:44:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Ukraine
 | 1 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
 | 2 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
 | 3 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 4 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 4 | [крыма](http://twitter.com/search?q=%d0%ba%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
 | 5 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 6 | [F-16](http://twitter.com/search?q=F-16) | N/A |
 | 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Ukraine
 | 34 | [Earth](http://twitter.com/search?q=Earth) | N/A |
 | 35 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
 | 36 | [киля](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bb%d1%8f) | N/A |
-| 37 | [Русня](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%bd%d1%8f) | N/A |
-| 38 | [West](http://twitter.com/search?q=West) | N/A |
-| 39 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
-| 40 | [Буде](http://twitter.com/search?q=%d0%91%d1%83%d0%b4%d0%b5) | N/A |
-| 41 | [гитлера](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
-| 42 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
-| 43 | [БПЛА](http://twitter.com/search?q=%d0%91%d0%9f%d0%9b%d0%90) | N/A |
-| 44 | [The Russians](http://twitter.com/search?q=The+Russians) | N/A |
-| 45 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
-| 46 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 47 | [черным](http://twitter.com/search?q=%d1%87%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
-| 48 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 49 | [Оскар](http://twitter.com/search?q=%d0%9e%d1%81%d0%ba%d0%b0%d1%80) | N/A |
-| 50 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 37 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
+| 38 | [Буде](http://twitter.com/search?q=%d0%91%d1%83%d0%b4%d0%b5) | N/A |
+| 39 | [гитлера](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
+| 40 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
+| 41 | [БПЛА](http://twitter.com/search?q=%d0%91%d0%9f%d0%9b%d0%90) | N/A |
+| 42 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
+| 43 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 44 | [черным](http://twitter.com/search?q=%d1%87%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
+| 45 | [West](http://twitter.com/search?q=West) | N/A |
+| 46 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 47 | [Оскар](http://twitter.com/search?q=%d0%9e%d1%81%d0%ba%d0%b0%d1%80) | N/A |
+| 48 | [Русня](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%bd%d1%8f) | N/A |
+| 49 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 50 | [Сумно](http://twitter.com/search?q=%d0%a1%d1%83%d0%bc%d0%bd%d0%be) | N/A |
 
 
 

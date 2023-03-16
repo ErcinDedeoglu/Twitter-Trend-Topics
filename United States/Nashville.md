@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-03-16 00:30:23 UTC`
+📆 Last Updated: `2023-03-16 01:44:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 3 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 4 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 5 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 6 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 7 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 8 | [#my600lblife](http://twitter.com/search?q=%23my600lblife) | N/A |
-| 9 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
-| 10 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
-| 11 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 12 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 13 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 14 | [Sammy Guevara](http://twitter.com/search?q=Sammy+Guevara) | N/A |
-| 15 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 16 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 17 | [Christian Vazquez](http://twitter.com/search?q=Christian+Vazquez) | N/A |
-| 18 | [Miles Sanders](http://twitter.com/search?q=Miles+Sanders) | N/A |
-| 19 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 20 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 21 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 22 | [Foreman](http://twitter.com/search?q=Foreman) | N/A |
-| 23 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 24 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 25 | [Jack Perry](http://twitter.com/search?q=Jack+Perry) | N/A |
-| 26 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 27 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 28 | [Double or Nothing](http://twitter.com/search?q=Double+or+Nothing) | N/A |
-| 29 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 30 | [HEADFIRST SLIDE](http://twitter.com/search?q=HEADFIRST+SLIDE) | N/A |
-| 31 | [Fletch](http://twitter.com/search?q=Fletch) | N/A |
-| 32 | [4 Pillars](http://twitter.com/search?q=4+Pillars) | N/A |
-| 33 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 34 | [Taysom](http://twitter.com/search?q=Taysom) | Taysom is a given name of Hawaiian origin. It is derived from the Hawaiian word "tayso," which means "happy." The name is usually given to boys and can also be spelled as Taisom or Tayzom. |
-| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 36 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 37 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 38 | [IW Formal](http://twitter.com/search?q=IW+Formal) | N/A |
-| 39 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
-| 40 | [DEATH IS COMING](http://twitter.com/search?q=DEATH+IS+COMING) | N/A |
-| 41 | [Fernando Cruz](http://twitter.com/search?q=Fernando+Cruz) | N/A |
-| 42 | [Thornhill](http://twitter.com/search?q=Thornhill) | N/A |
-| 43 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 44 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 45 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
-| 46 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 47 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 48 | [PR vs DR](http://twitter.com/search?q=PR+vs+DR) | N/A |
-| 49 | [Isaiah Oliver](http://twitter.com/search?q=Isaiah+Oliver) | N/A |
-| 50 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 1 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 4 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
+| 5 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 6 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 7 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 8 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 9 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 10 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 11 | [Taya](http://twitter.com/search?q=Taya) | N/A |
+| 12 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 13 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 14 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 15 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 16 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 17 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 18 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 19 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
+| 20 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 21 | [Julio Rodriguez](http://twitter.com/search?q=Julio+Rodriguez) | N/A |
+| 22 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 23 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
+| 24 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 25 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 26 | [Stu Grayson](http://twitter.com/search?q=Stu+Grayson) | N/A |
+| 27 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 28 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 29 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 30 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 31 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
+| 32 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 33 | [Morehead State](http://twitter.com/search?q=Morehead+State) | N/A |
+| 34 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 35 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 36 | [James Robinson](http://twitter.com/search?q=James+Robinson) | N/A |
+| 37 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 38 | [Lee Daniels](http://twitter.com/search?q=Lee+Daniels) | N/A |
+| 39 | [Jade Cargill](http://twitter.com/search?q=Jade+Cargill) | N/A |
+| 40 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 41 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 42 | [Mattison](http://twitter.com/search?q=Mattison) | N/A |
+| 43 | [Brownell](http://twitter.com/search?q=Brownell) | N/A |
+| 44 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 45 | [Double J](http://twitter.com/search?q=Double+J) | N/A |
+| 46 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
+| 47 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 48 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 49 | [Dark Order](http://twitter.com/search?q=Dark+Order) | N/A |
+| 50 | [JRod](http://twitter.com/search?q=JRod) | N/A |
 
 
 

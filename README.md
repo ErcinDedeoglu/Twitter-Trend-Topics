@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-16 00:29:37 UTC`
+📆 Last Updated: `2023-03-16 01:43:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 3 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
-| 4 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 5 | [ロードオブメジャー](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%89%e3%82%aa%e3%83%96%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 6 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 7 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 8 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 9 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
-| 10 | [#JovenesEnMovimiento](http://twitter.com/search?q=%23JovenesEnMovimiento) | N/A |
-| 11 | [川口春奈](http://twitter.com/search?q=%e5%b7%9d%e5%8f%a3%e6%98%a5%e5%a5%88) | N/A |
-| 12 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 13 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 14 | [#Gメン](http://twitter.com/search?q=%23G%e3%83%a1%e3%83%b3) | N/A |
-| 15 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 16 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 18 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 19 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 20 | [若葉ちゃん](http://twitter.com/search?q=%e8%8b%a5%e8%91%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 21 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 22 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 23 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 24 | [コールドストーン](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3) | N/A |
-| 25 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 26 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 27 | [DEATH IS COMING](http://twitter.com/search?q=DEATH+IS+COMING) | N/A |
-| 28 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 29 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 30 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 31 | [五島出身](http://twitter.com/search?q=%e4%ba%94%e5%b3%b6%e5%87%ba%e8%ba%ab) | N/A |
-| 32 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 33 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 34 | [MELANIE MARTINEZ IS COMING](http://twitter.com/search?q=MELANIE+MARTINEZ+IS+COMING) | N/A |
-| 35 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
-| 36 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 38 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 39 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 40 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 41 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 42 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 43 | [朝ドラ受け](http://twitter.com/search?q=%e6%9c%9d%e3%83%89%e3%83%a9%e5%8f%97%e3%81%91) | N/A |
-| 44 | [慎ちゃん](http://twitter.com/search?q=%e6%85%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 45 | [David Johnston](http://twitter.com/search?q=David+Johnston) | N/A |
-| 46 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 47 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 48 | [マンネラ](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%8d%e3%83%a9) | N/A |
-| 49 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 50 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 2 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 3 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
+| 4 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
+| 5 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 6 | [#JovenesEnMovimiento](http://twitter.com/search?q=%23JovenesEnMovimiento) | N/A |
+| 7 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
+| 8 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 9 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 10 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 11 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 12 | [ロードオブメジャー](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%89%e3%82%aa%e3%83%96%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 13 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 15 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 16 | [PRE SAVE DR3](http://twitter.com/search?q=PRE+SAVE+DR3) | N/A |
+| 17 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 18 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 19 | [川口春奈](http://twitter.com/search?q=%e5%b7%9d%e5%8f%a3%e6%98%a5%e5%a5%88) | N/A |
+| 20 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
+| 21 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 22 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 23 | [Taya](http://twitter.com/search?q=Taya) | N/A |
+| 24 | [Brasiliense](http://twitter.com/search?q=Brasiliense) | N/A |
+| 25 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 26 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 27 | [Julio Rodríguez](http://twitter.com/search?q=Julio+Rodr%c3%adguez) | N/A |
+| 28 | [子安さん](http://twitter.com/search?q=%e5%ad%90%e5%ae%89%e3%81%95%e3%82%93) | N/A |
+| 29 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 30 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
+| 31 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 32 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 33 | [Águia de Marabá](http://twitter.com/search?q=%c3%81guia+de+Marab%c3%a1) | Águia de Marabá is a Brazilian football team based in the city of Marabá, Pará. The team was founded in 1945 and currently plays in the Campeonato Paraense, the top tier of football in the state of Pará. The team's name translates to "Marabá Eagle" in English. |
+| 34 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 35 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 36 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 37 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 38 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 39 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 40 | [ドミニカ](http://twitter.com/search?q=%e3%83%89%e3%83%9f%e3%83%8b%e3%82%ab) | N/A |
+| 41 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 42 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 43 | [コールドストーン](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3) | N/A |
+| 44 | [TIQUINHO SOARES](http://twitter.com/search?q=TIQUINHO+SOARES) | Tiquinho Soares is a Portuguese football player who currently plays for FC Porto. His name translates to "Little Soares" in English. |
+| 45 | [カービィ2](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a32) | N/A |
+| 46 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 47 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 48 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
+| 49 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
+| 50 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
 
 
 

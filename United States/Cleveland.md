@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-16 00:30:20 UTC`
+📆 Last Updated: `2023-03-16 01:44:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
-| 2 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 1 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 2 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 3 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 4 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
+| 4 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 5 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 6 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 7 | [Marion](http://twitter.com/search?q=Marion) | N/A |
-| 8 | [#Bengals](http://twitter.com/search?q=%23Bengals) | N/A |
-| 9 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
-| 10 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
-| 11 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 13 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 14 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 15 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 16 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 17 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 18 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 19 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
-| 20 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
-| 21 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 22 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 23 | [Sammy Guevara](http://twitter.com/search?q=Sammy+Guevara) | N/A |
-| 24 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
-| 25 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 26 | [Christian Vazquez](http://twitter.com/search?q=Christian+Vazquez) | N/A |
-| 27 | [Miles Sanders](http://twitter.com/search?q=Miles+Sanders) | N/A |
-| 28 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 29 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 30 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 31 | [Foreman](http://twitter.com/search?q=Foreman) | N/A |
-| 32 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 33 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
-| 34 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 35 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 36 | [Jack Perry](http://twitter.com/search?q=Jack+Perry) | N/A |
-| 37 | [Double or Nothing](http://twitter.com/search?q=Double+or+Nothing) | N/A |
-| 38 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 39 | [HEADFIRST SLIDE](http://twitter.com/search?q=HEADFIRST+SLIDE) | N/A |
-| 40 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 41 | [Fletch](http://twitter.com/search?q=Fletch) | N/A |
-| 42 | [4 Pillars](http://twitter.com/search?q=4+Pillars) | N/A |
-| 43 | [Taysom](http://twitter.com/search?q=Taysom) | Taysom is a given name of Hawaiian origin. It is derived from the Hawaiian word "tayso," which means "happy." The name is usually given to boys and can also be spelled as Taisom or Tayzom. |
-| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 45 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 46 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 47 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
-| 48 | [IW Formal](http://twitter.com/search?q=IW+Formal) | N/A |
-| 49 | [DEATH IS COMING](http://twitter.com/search?q=DEATH+IS+COMING) | N/A |
-| 50 | [Fernando Cruz](http://twitter.com/search?q=Fernando+Cruz) | N/A |
+| 6 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 7 | [#mmselfie](http://twitter.com/search?q=%23mmselfie) | N/A |
+| 8 | [Juan Thornhill](http://twitter.com/search?q=Juan+Thornhill) | N/A |
+| 9 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 10 | [#Browns](http://twitter.com/search?q=%23Browns) | #Browns is a hashtag used to refer to the Cleveland Browns, an American professional football team based in Cleveland, Ohio. The hashtag is often used on social media platforms such as Twitter and Instagram to discuss the team and its players. |
+| 11 | [Marion](http://twitter.com/search?q=Marion) | N/A |
+| 12 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
+| 13 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 14 | [#Bengals](http://twitter.com/search?q=%23Bengals) | N/A |
+| 15 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 16 | [#abbottelementary](http://twitter.com/search?q=%23abbottelementary) | N/A |
+| 17 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 18 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 19 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 20 | [Taya](http://twitter.com/search?q=Taya) | N/A |
+| 21 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 22 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 23 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 24 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 25 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 26 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 27 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 28 | [Julio Rodriguez](http://twitter.com/search?q=Julio+Rodriguez) | N/A |
+| 29 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
+| 30 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 31 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 32 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
+| 33 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 34 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 35 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 36 | [Stu Grayson](http://twitter.com/search?q=Stu+Grayson) | N/A |
+| 37 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 38 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 39 | [Jalen Rose](http://twitter.com/search?q=Jalen+Rose) | N/A |
+| 40 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
+| 41 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 42 | [Morehead State](http://twitter.com/search?q=Morehead+State) | N/A |
+| 43 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 44 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 45 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 46 | [Lee Daniels](http://twitter.com/search?q=Lee+Daniels) | N/A |
+| 47 | [James Robinson](http://twitter.com/search?q=James+Robinson) | N/A |
+| 48 | [Jade Cargill](http://twitter.com/search?q=Jade+Cargill) | N/A |
+| 49 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 50 | [Brownell](http://twitter.com/search?q=Brownell) | N/A |
 
 
 

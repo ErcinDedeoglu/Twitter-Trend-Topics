@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-16 00:30:30 UTC`
+📆 Last Updated: `2023-03-16 01:44:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#topchef](http://twitter.com/search?q=%23topchef) | N/A |
-| 2 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 3 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 6 | [Alexander Arnold](http://twitter.com/search?q=Alexander+Arnold) | N/A |
-| 7 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 8 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 9 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 11 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 14 | [#dissolution](http://twitter.com/search?q=%23dissolution) | N/A |
-| 15 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 16 | [Chiche](http://twitter.com/search?q=Chiche) | N/A |
-| 17 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 18 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 19 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
-| 20 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 21 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
-| 22 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 23 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 24 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 25 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
-| 26 | [Leto](http://twitter.com/search?q=Leto) | N/A |
-| 27 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 28 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 29 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 30 | [Francfort](http://twitter.com/search?q=Francfort) | N/A |
-| 31 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 32 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 33 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 34 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 35 | [Split](http://twitter.com/search?q=Split) | N/A |
-| 36 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 37 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 38 | [#ViolencesPolicieres](http://twitter.com/search?q=%23ViolencesPolicieres) | N/A |
-| 39 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
-| 40 | [#JeNAiPasDitMonDernierMot](http://twitter.com/search?q=%23JeNAiPasDitMonDernierMot) | N/A |
-| 41 | [#FaceALinfo](http://twitter.com/search?q=%23FaceALinfo) | N/A |
-| 42 | [#Zemmour](http://twitter.com/search?q=%23Zemmour) | N/A |
-| 43 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 44 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 1 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 2 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 4 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 5 | [#topchef](http://twitter.com/search?q=%23topchef) | N/A |
+| 6 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 7 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 8 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
+| 9 | [Alexander Arnold](http://twitter.com/search?q=Alexander+Arnold) | N/A |
+| 10 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
+| 11 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 14 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 15 | [Francfort](http://twitter.com/search?q=Francfort) | N/A |
+| 16 | [Leto](http://twitter.com/search?q=Leto) | N/A |
+| 17 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 18 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 19 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 20 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 23 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 24 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
+| 25 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 26 | [sophia aram](http://twitter.com/search?q=sophia+aram) | N/A |
+| 27 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 28 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 29 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
+| 30 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 31 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [Seine](http://twitter.com/search?q=Seine) | N/A |
+| 34 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
+| 35 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 36 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
+| 37 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 38 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 39 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 40 | [Chiche](http://twitter.com/search?q=Chiche) | N/A |
+| 41 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 42 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 45 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
+| 46 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 47 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 48 | [La CMP](http://twitter.com/search?q=La+CMP) | N/A |
+| 49 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 50 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
 
 
 

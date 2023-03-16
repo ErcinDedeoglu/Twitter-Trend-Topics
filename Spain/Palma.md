@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-16 00:29:56 UTC`
+📆 Last Updated: `2023-03-16 01:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,43 @@ This is top 50 for [Spain](</Spain>)
 | 6 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 7 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
 | 8 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 9 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 9 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
 | 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 11 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 11 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
 | 12 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 13 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 13 | [Culos](http://twitter.com/search?q=Culos) | N/A |
 | 14 | [#DiasDeTele](http://twitter.com/search?q=%23DiasDeTele) | N/A |
-| 15 | [#PlanetaCalleja](http://twitter.com/search?q=%23PlanetaCalleja) | N/A |
-| 16 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
-| 17 | [Culos](http://twitter.com/search?q=Culos) | N/A |
-| 18 | [#firstdates15m](http://twitter.com/search?q=%23firstdates15m) | N/A |
-| 19 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 20 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 15 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 16 | [#PlanetaCalleja](http://twitter.com/search?q=%23PlanetaCalleja) | N/A |
+| 17 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 18 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
+| 19 | [#firstdates15m](http://twitter.com/search?q=%23firstdates15m) | N/A |
+| 20 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
 | 21 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 22 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 23 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
-| 24 | [Killer](http://twitter.com/search?q=Killer) | N/A |
-| 25 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 22 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
+| 23 | [Killer](http://twitter.com/search?q=Killer) | N/A |
+| 24 | [Santiago Bernabéu](http://twitter.com/search?q=Santiago+Bernab%c3%a9u) | N/A |
+| 25 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
 | 26 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 27 | [Inside Out](http://twitter.com/search?q=Inside+Out) | N/A |
+| 27 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
 | 28 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 29 | [Buscando a Nemo](http://twitter.com/search?q=Buscando+a+Nemo) | N/A |
-| 30 | [Monstruos SA](http://twitter.com/search?q=Monstruos+SA) | N/A |
-| 31 | [Santiago Bernabéu](http://twitter.com/search?q=Santiago+Bernab%c3%a9u) | N/A |
+| 29 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 30 | [Nemo](http://twitter.com/search?q=Nemo) | N/A |
+| 31 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
 | 32 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 33 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 34 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 35 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
-| 36 | [Dalí](http://twitter.com/search?q=Dal%c3%ad) | N/A |
-| 37 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
+| 33 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
+| 34 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 35 | [The Mandalorian](http://twitter.com/search?q=The+Mandalorian) | N/A |
+| 36 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
+| 37 | [Dalí](http://twitter.com/search?q=Dal%c3%ad) | N/A |
 | 38 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
 | 39 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 40 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
 | 41 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 42 | [Alfonso Guerra](http://twitter.com/search?q=Alfonso+Guerra) | N/A |
-| 43 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 42 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 43 | [#LaNoche24h](http://twitter.com/search?q=%23LaNoche24h) | N/A |
 | 44 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 45 | [#LaNoche24h](http://twitter.com/search?q=%23LaNoche24h) | N/A |
-| 46 | [#Pasapalabra725](http://twitter.com/search?q=%23Pasapalabra725) | N/A |
-| 47 | [#MociónyEleccionesYA](http://twitter.com/search?q=%23Moci%c3%b3nyEleccionesYA) | N/A |
+| 45 | [#Pasapalabra725](http://twitter.com/search?q=%23Pasapalabra725) | N/A |
 
 
 

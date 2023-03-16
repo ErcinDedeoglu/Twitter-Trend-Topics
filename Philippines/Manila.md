@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-16 00:30:06 UTC`
+📆 Last Updated: `2023-03-16 01:44:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
 | 3 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
 | 4 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
 | 6 | [#BORNPINKINMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKINMANILA_BULACAN) | N/A |
-| 7 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
-| 8 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 9 | [donny for belo beauty](http://twitter.com/search?q=donny+for+belo+beauty) | N/A |
-| 10 | [bogum](http://twitter.com/search?q=bogum) | N/A |
-| 11 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 12 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 13 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 14 | [jay came home](http://twitter.com/search?q=jay+came+home) | N/A |
-| 15 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
-| 16 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 17 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
-| 18 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 19 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 20 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
-| 21 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
-| 22 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 23 | [book your tickets now](http://twitter.com/search?q=book+your+tickets+now) | N/A |
-| 24 | [excited for you kinji](http://twitter.com/search?q=excited+for+you+kinji) | N/A |
-| 25 | [felip on aquatic planet](http://twitter.com/search?q=felip+on+aquatic+planet) | N/A |
-| 26 | [VXON IkawNaNaNa MV OUTNOW](http://twitter.com/search?q=VXON+IkawNaNaNa+MV+OUTNOW) | N/A |
-| 27 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 28 | [rmt na ako](http://twitter.com/search?q=rmt+na+ako) | N/A |
-| 29 | [JAY IS BACK](http://twitter.com/search?q=JAY+IS+BACK) | N/A |
-| 30 | [seventeen mafia game](http://twitter.com/search?q=seventeen+mafia+game) | N/A |
-| 31 | [jay finally came home](http://twitter.com/search?q=jay+finally+came+home) | N/A |
-| 32 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
-| 33 | [GOOD MORNING TO ME](http://twitter.com/search?q=GOOD+MORNING+TO+ME) | N/A |
-| 34 | [CHERRY BLOSSOMS MV TEASER](http://twitter.com/search?q=CHERRY+BLOSSOMS+MV+TEASER) | N/A |
-| 35 | [jay ur back](http://twitter.com/search?q=jay+ur+back) | N/A |
-| 36 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 37 | [UMUWI NA JAYKI](http://twitter.com/search?q=UMUWI+NA+JAYKI) | N/A |
-| 38 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 39 | [my yunki](http://twitter.com/search?q=my+yunki) | N/A |
-| 40 | [GIVE US IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=GIVE+US+IRENE%27S+BIRTHDAY+PARTY) | N/A |
-| 41 | [MTLE](http://twitter.com/search?q=MTLE) | N/A |
-| 42 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 43 | [SHARLENExNYLON MARCH COVER](http://twitter.com/search?q=SHARLENExNYLON+MARCH+COVER) | N/A |
-| 44 | [appointments](http://twitter.com/search?q=appointments) | N/A |
-| 45 | [Tanggol](http://twitter.com/search?q=Tanggol) | N/A |
-| 46 | [Vanie](http://twitter.com/search?q=Vanie) | N/A |
-| 47 | [felip on aquatic beats](http://twitter.com/search?q=felip+on+aquatic+beats) | N/A |
-| 48 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
-| 49 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [Camarines Sur](http://twitter.com/search?q=Camarines+Sur) | N/A |
+| 9 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
+| 10 | [donny for belo beauty](http://twitter.com/search?q=donny+for+belo+beauty) | N/A |
+| 11 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 12 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 13 | [Kadiwa](http://twitter.com/search?q=Kadiwa) | N/A |
+| 14 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
+| 15 | [bogum](http://twitter.com/search?q=bogum) | N/A |
+| 16 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
+| 17 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 18 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 19 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 20 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
+| 21 | [JAY CAME HOME](http://twitter.com/search?q=JAY+CAME+HOME) | N/A |
+| 22 | [TWOriffic YEARS WITH SRO](http://twitter.com/search?q=TWOriffic+YEARS+WITH+SRO) | N/A |
+| 23 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 24 | [Pangulo](http://twitter.com/search?q=Pangulo) | N/A |
+| 25 | [Pili](http://twitter.com/search?q=Pili) | N/A |
+| 26 | [book your tickets now](http://twitter.com/search?q=book+your+tickets+now) | N/A |
+| 27 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
+| 28 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 29 | [excited for you kinji](http://twitter.com/search?q=excited+for+you+kinji) | N/A |
+| 30 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
+| 31 | [JISOO ME VISUAL TEASER](http://twitter.com/search?q=JISOO+ME+VISUAL+TEASER) | N/A |
+| 32 | [felip on aquatic planet](http://twitter.com/search?q=felip+on+aquatic+planet) | N/A |
+| 33 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 34 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 35 | [VXON IkawNaNaNa MV OUTNOW](http://twitter.com/search?q=VXON+IkawNaNaNa+MV+OUTNOW) | N/A |
+| 36 | [Riki](http://twitter.com/search?q=Riki) | N/A |
+| 37 | [rmt na ako](http://twitter.com/search?q=rmt+na+ako) | N/A |
+| 38 | [seventeen mafia game](http://twitter.com/search?q=seventeen+mafia+game) | N/A |
+| 39 | [DROWNING IN BOBBY](http://twitter.com/search?q=DROWNING+IN+BOBBY) | N/A |
+| 40 | [jay finally came home](http://twitter.com/search?q=jay+finally+came+home) | N/A |
+| 41 | [JAY IS BACK](http://twitter.com/search?q=JAY+IS+BACK) | N/A |
+| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 43 | [GOOD MORNING TO ME](http://twitter.com/search?q=GOOD+MORNING+TO+ME) | N/A |
+| 44 | [CHERRY BLOSSOMS MV TEASER](http://twitter.com/search?q=CHERRY+BLOSSOMS+MV+TEASER) | N/A |
+| 45 | [UMUWI NA JAYKI](http://twitter.com/search?q=UMUWI+NA+JAYKI) | N/A |
+| 46 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 47 | [my yunki](http://twitter.com/search?q=my+yunki) | N/A |
+| 48 | [GIVE US IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=GIVE+US+IRENE%27S+BIRTHDAY+PARTY) | N/A |
+| 49 | [SHARLENExNYLON MARCH COVER](http://twitter.com/search?q=SHARLENExNYLON+MARCH+COVER) | N/A |
 
 
 

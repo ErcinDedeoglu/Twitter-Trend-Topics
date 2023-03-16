@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-16 00:29:57 UTC`
+📆 Last Updated: `2023-03-16 01:43:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,16 +28,16 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 11 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
 | 12 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
 | 13 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 14 | [Berne](http://twitter.com/search?q=Berne) | N/A |
-| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 16 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 14 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 16 | [Berne](http://twitter.com/search?q=Berne) | N/A |
+| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 19 | [Corona](http://twitter.com/search?q=Corona) | N/A |
 | 20 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
 | 21 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 22 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
-| 23 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 22 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 23 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
 | 24 | [Wald](http://twitter.com/search?q=Wald) | N/A |
 | 25 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 26 | [Raum](http://twitter.com/search?q=Raum) | N/A |
@@ -55,15 +55,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 38 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
 | 39 | [Themen](http://twitter.com/search?q=Themen) | N/A |
 | 40 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 41 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 43 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 44 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 45 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 46 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 47 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 48 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 49 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 42 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 43 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 44 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 45 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 46 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 47 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 48 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 49 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
 
 
 

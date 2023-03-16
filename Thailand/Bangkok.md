@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-16 00:30:07 UTC`
+📆 Last Updated: `2023-03-16 01:44:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Thailand](</Thailand>)
 | ------- | ------------ | ------------ |
 | 1 | [#หน้ากากกิเลน](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b4%e0%b9%80%e0%b8%a5%e0%b8%99) | N/A |
 | 2 | [#MaskSinger12](http://twitter.com/search?q=%23MaskSinger12) | N/A |
-| 3 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
-| 4 | [#6YearsOfหน้ากากจิงโจ้](http://twitter.com/search?q=%236YearsOf%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%88%e0%b8%b4%e0%b8%87%e0%b9%82%e0%b8%88%e0%b9%89) | N/A |
-| 5 | [BAMBAM GM 16MARCH](http://twitter.com/search?q=BAMBAM+GM+16MARCH) | N/A |
-| 6 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 7 | [KANGAROO MASK🦘](http://twitter.com/search?q=KANGAROO+MASK%f0%9f%a6%98) | N/A |
-| 8 | [Nene Shining In Singapore](http://twitter.com/search?q=Nene+Shining+In+Singapore) | N/A |
-| 9 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
-| 10 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 3 | [#6YearsOfหน้ากากจิงโจ้](http://twitter.com/search?q=%236YearsOf%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%88%e0%b8%b4%e0%b8%87%e0%b9%82%e0%b8%88%e0%b9%89) | N/A |
+| 4 | [KANGAROO MASK🦘](http://twitter.com/search?q=KANGAROO+MASK%f0%9f%a6%98) | N/A |
+| 5 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
+| 6 | [BAMBAM GM 16MARCH](http://twitter.com/search?q=BAMBAM+GM+16MARCH) | N/A |
+| 7 | [#MyWuvMG](http://twitter.com/search?q=%23MyWuvMG) | N/A |
+| 8 | [MARCH16 HAS CHARLOTTE](http://twitter.com/search?q=MARCH16+HAS+CHARLOTTE) | N/A |
+| 9 | [JOYFUL DAY16 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY16+TO+ENGFA) | N/A |
+| 10 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
 | 11 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
-| 12 | [NOBODY KNOWS](http://twitter.com/search?q=NOBODY+KNOWS) | N/A |
-| 13 | [nene heading to sky](http://twitter.com/search?q=nene+heading+to+sky) | N/A |
-| 14 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 15 | [HBD to LYZ](http://twitter.com/search?q=HBD+to+LYZ) | N/A |
-| 16 | [patrick paris metro](http://twitter.com/search?q=patrick+paris+metro) | N/A |
-| 17 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
-| 18 | [JAM X NESCAFE](http://twitter.com/search?q=JAM+X+NESCAFE) | N/A |
-| 19 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
-| 20 | [Kem Morning](http://twitter.com/search?q=Kem+Morning) | N/A |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [all about that day](http://twitter.com/search?q=all+about+that+day) | N/A |
-| 23 | [mookda love](http://twitter.com/search?q=mookda+love) | N/A |
-| 24 | [march15 has charlotte](http://twitter.com/search?q=march15+has+charlotte) | N/A |
-| 25 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
+| 12 | [16 Morning Dunk](http://twitter.com/search?q=16+Morning+Dunk) | N/A |
+| 13 | [Nene Shining In Singapore](http://twitter.com/search?q=Nene+Shining+In+Singapore) | N/A |
+| 14 | [16MAR JOONG MORNING](http://twitter.com/search?q=16MAR+JOONG+MORNING) | N/A |
+| 15 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
+| 16 | [MORNING​ NOOKPAI](http://twitter.com/search?q=MORNING%e2%80%8b+NOOKPAI) | N/A |
+| 17 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 18 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
+| 19 | [NOBODY KNOWS](http://twitter.com/search?q=NOBODY+KNOWS) | N/A |
+| 20 | [nene heading to sky](http://twitter.com/search?q=nene+heading+to+sky) | N/A |
+| 21 | [HBD to LYZ](http://twitter.com/search?q=HBD+to+LYZ) | N/A |
+| 22 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
+| 23 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 24 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
+| 25 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
 | 26 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
-| 27 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 28 | [Bright Vachirawit](http://twitter.com/search?q=Bright+Vachirawit) | Bright Vachirawit is a Thai actor and model. His name is a combination of the words "bright" and "Vachirawit," which mean "light" and "victory" respectively. In English, Bright Vachirawit means "light of victory." |
-| 29 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
-| 30 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 33 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
-| 34 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 35 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 36 | [#เนเน่เธอมันปัง](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%88%e0%b9%80%e0%b8%98%e0%b8%ad%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%9b%e0%b8%b1%e0%b8%87) | N/A |
-| 37 | [#NuNew](http://twitter.com/search?q=%23NuNew) | N/A |
-| 38 | [#หน้ากากอนามัย](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%ad%e0%b8%99%e0%b8%b2%e0%b8%a1%e0%b8%b1%e0%b8%a2) | N/A |
-| 39 | [#ตํารวจคลั่ง](http://twitter.com/search?q=%23%e0%b8%95%e0%b9%8d%e0%b8%b2%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%84%e0%b8%a5%e0%b8%b1%e0%b9%88%e0%b8%87) | N/A |
-| 40 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 41 | [#BossCKMwithIG](http://twitter.com/search?q=%23BossCKMwithIG) | N/A |
-| 42 | [#สารวัตรคลั่ง](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%a7%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%a5%e0%b8%b1%e0%b9%88%e0%b8%87) | N/A |
-| 43 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
-| 44 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
-| 45 | [#HAECHANxLOUISVUITTON](http://twitter.com/search?q=%23HAECHANxLOUISVUITTON) | N/A |
-| 46 | [#CutiePieJapanD2](http://twitter.com/search?q=%23CutiePieJapanD2) | N/A |
-| 47 | [#มิวเลียนส์5ปีแล้วจ้า](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a5%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%aa%e0%b9%8c5%e0%b8%9b%e0%b8%b5%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%88%e0%b9%89%e0%b8%b2) | N/A |
-| 48 | [#สะใภ้วาบิ](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%a7%e0%b8%b2%e0%b8%9a%e0%b8%b4) | N/A |
-| 49 | [#OngleeOscar19thBDay](http://twitter.com/search?q=%23OngleeOscar19thBDay) | N/A |
-| 50 | [#Waterbombbangkok2023](http://twitter.com/search?q=%23Waterbombbangkok2023) | N/A |
+| 27 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 28 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
+| 29 | [Kem Morning](http://twitter.com/search?q=Kem+Morning) | N/A |
+| 30 | [JAM X NESCAFE](http://twitter.com/search?q=JAM+X+NESCAFE) | N/A |
+| 31 | [Bright Vachirawit](http://twitter.com/search?q=Bright+Vachirawit) | Bright Vachirawit is a Thai actor and model. His name is a combination of the words "bright" and "Vachirawit," which mean "light" and "victory" respectively. In English, Bright Vachirawit means "light of victory." |
+| 32 | [mookda love](http://twitter.com/search?q=mookda+love) | N/A |
+| 33 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
+| 34 | [INFINITE LUVE FOR BUILD](http://twitter.com/search?q=INFINITE+LUVE+FOR+BUILD) | N/A |
+| 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 36 | [All About That Day](http://twitter.com/search?q=All+About+That+Day) | N/A |
+| 37 | [America](http://twitter.com/search?q=America) | N/A |
+| 38 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
+| 39 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
+| 40 | [#NuNew](http://twitter.com/search?q=%23NuNew) | N/A |
+| 41 | [#หน้ากากอนามัย](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%ad%e0%b8%99%e0%b8%b2%e0%b8%a1%e0%b8%b1%e0%b8%a2) | N/A |
+| 42 | [#ตํารวจคลั่ง](http://twitter.com/search?q=%23%e0%b8%95%e0%b9%8d%e0%b8%b2%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%84%e0%b8%a5%e0%b8%b1%e0%b9%88%e0%b8%87) | N/A |
+| 43 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 44 | [#PeckPaLitChoke](http://twitter.com/search?q=%23PeckPaLitChoke) | N/A |
+| 45 | [#นิกกี้ก้อย](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b8%81%e0%b8%81%e0%b8%b5%e0%b9%89%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%a2) | N/A |
+| 46 | [#สารวัตรคลั่ง](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%a7%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%84%e0%b8%a5%e0%b8%b1%e0%b9%88%e0%b8%87) | N/A |
+| 47 | [#เป๊กผลิตโชค](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%8a%e0%b8%81%e0%b8%9c%e0%b8%a5%e0%b8%b4%e0%b8%95%e0%b9%82%e0%b8%8a%e0%b8%84) | N/A |
+| 48 | [#CutiePieJapanD2](http://twitter.com/search?q=%23CutiePieJapanD2) | N/A |
+| 49 | [#BossCKMwithIG](http://twitter.com/search?q=%23BossCKMwithIG) | N/A |
+| 50 | [#มิวเลียนส์5ปีแล้วจ้า](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a5%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%aa%e0%b9%8c5%e0%b8%9b%e0%b8%b5%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%88%e0%b9%89%e0%b8%b2) | N/A |
 
 
 
