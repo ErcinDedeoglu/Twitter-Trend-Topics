@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-16 07:17:39 UTC`
+📆 Last Updated: `2023-03-16 08:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,9 +33,9 @@ This is top 50 for Guatemala
 | 16 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 | 17 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 18 | [#LaLinterna](http://twitter.com/search?q=%23LaLinterna) | N/A |
-| 19 | [quimi](http://twitter.com/search?q=quimi) | N/A |
+| 19 | [Quimi](http://twitter.com/search?q=Quimi) | N/A |
 | 20 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 21 | [Gerardo Hernández](http://twitter.com/search?q=Gerardo+Hern%c3%a1ndez) | N/A |
+| 21 | [gerardo hernández](http://twitter.com/search?q=gerardo+hern%c3%a1ndez) | N/A |
 | 22 | [Chimaltenango](http://twitter.com/search?q=Chimaltenango) | N/A |
 | 23 | [#15MdeRodolfitos](http://twitter.com/search?q=%2315MdeRodolfitos) | N/A |
 | 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
@@ -44,14 +44,14 @@ This is top 50 for Guatemala
 | 27 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
 | 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 29 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
-| 30 | [Feci](http://twitter.com/search?q=Feci) | N/A |
+| 30 | [FECI](http://twitter.com/search?q=FECI) | N/A |
 | 31 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
 | 32 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 33 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 | 34 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
 | 35 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
-| 36 | [Baldizón](http://twitter.com/search?q=Baldiz%c3%b3n) | N/A |
-| 37 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 36 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 37 | [Baldizón](http://twitter.com/search?q=Baldiz%c3%b3n) | N/A |
 | 38 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
 | 39 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
 | 40 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
@@ -61,7 +61,7 @@ This is top 50 for Guatemala
 | 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 45 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 46 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 47 | [Panzós](http://twitter.com/search?q=Panz%c3%b3s) | N/A |
+| 47 | [panzós](http://twitter.com/search?q=panz%c3%b3s) | N/A |
 | 48 | [Puras](http://twitter.com/search?q=Puras) | N/A |
 | 49 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
 | 50 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |

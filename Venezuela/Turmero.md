@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-03-16 07:16:58 UTC`
+📆 Last Updated: `2023-03-16 08:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#15Mar](http://twitter.com/search?q=%2315Mar) | N/A |
 | 2 | [#ChávezHechoMillones](http://twitter.com/search?q=%23Ch%c3%a1vezHechoMillones) | N/A |
-| 3 | [Edwin Díaz](http://twitter.com/search?q=Edwin+D%c3%adaz) | N/A |
-| 4 | [Saime](http://twitter.com/search?q=Saime) | N/A |
+| 3 | [Saime](http://twitter.com/search?q=Saime) | N/A |
+| 4 | [Edwin Díaz](http://twitter.com/search?q=Edwin+D%c3%adaz) | N/A |
 | 5 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
 | 6 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
 | 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
@@ -29,14 +29,14 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 12 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
 | 13 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 16 | [Guama](http://twitter.com/search?q=Guama) | N/A |
-| 17 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [Locatel](http://twitter.com/search?q=Locatel) | N/A |
+| 15 | [Guama](http://twitter.com/search?q=Guama) | N/A |
+| 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 17 | [Locatel](http://twitter.com/search?q=Locatel) | N/A |
+| 18 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 19 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 20 | [JR Petare](http://twitter.com/search?q=JR+Petare) | N/A |
-| 21 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 22 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 21 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 22 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 23 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
 | 24 | [la dimensión latina](http://twitter.com/search?q=la+dimensi%c3%b3n+latina) | N/A |
 | 25 | [victor cuica](http://twitter.com/search?q=victor+cuica) | N/A |
@@ -44,25 +44,25 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 27 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
 | 28 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 29 | [Renny Ottolina](http://twitter.com/search?q=Renny+Ottolina) | N/A |
-| 30 | [Personas con Discapacidad](http://twitter.com/search?q=Personas+con+Discapacidad) | N/A |
-| 31 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
-| 32 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 30 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 31 | [personas con discapacidad](http://twitter.com/search?q=personas+con+discapacidad) | N/A |
+| 32 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
 | 33 | [Tony Peña](http://twitter.com/search?q=Tony+Pe%c3%b1a) | N/A |
 | 34 | [juan bautista arismendi](http://twitter.com/search?q=juan+bautista+arismendi) | N/A |
 | 35 | [Sofía Imber](http://twitter.com/search?q=Sof%c3%ada+Imber) | N/A |
 | 36 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 37 | [Parchita](http://twitter.com/search?q=Parchita) | N/A |
-| 38 | [día nacional](http://twitter.com/search?q=d%c3%ada+nacional) | N/A |
-| 39 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 40 | [Chicha](http://twitter.com/search?q=Chicha) | N/A |
-| 41 | [Pele](http://twitter.com/search?q=Pele) | N/A |
-| 42 | [SAREN](http://twitter.com/search?q=SAREN) | N/A |
+| 38 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 39 | [Día Nacional](http://twitter.com/search?q=D%c3%ada+Nacional) | N/A |
+| 40 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 41 | [SAREN](http://twitter.com/search?q=SAREN) | N/A |
+| 42 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
 | 43 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 44 | [jesús luzardo](http://twitter.com/search?q=jes%c3%bas+luzardo) | N/A |
 | 45 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 46 | [bien de interés cultural](http://twitter.com/search?q=bien+de+inter%c3%a9s+cultural) | N/A |
 | 47 | [Aran](http://twitter.com/search?q=Aran) | N/A |
-| 48 | [Amistad](http://twitter.com/search?q=Amistad) | N/A |
+| 48 | [Cuartos de Final](http://twitter.com/search?q=Cuartos+de+Final) | N/A |
 | 49 | [Eduardo Escobar](http://twitter.com/search?q=Eduardo+Escobar) | N/A |
 
 

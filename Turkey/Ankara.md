@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-16 07:17:27 UTC`
+📆 Last Updated: `2023-03-16 08:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,48 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#selfelaketi](http://twitter.com/search?q=%23selfelaketi) | N/A |
-| 2 | [#sanliurfa](http://twitter.com/search?q=%23sanliurfa) | #Sanliurfa is a hashtag used to refer to the city of Sanliurfa in southeastern Turkey. In English, it translates to "Lion's Fortress". Sanliurfa is known for its ancient ruins and archaeological sites, as well as its rich cultural heritage. |
-| 3 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
-| 4 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 5 | [Allah'tan](http://twitter.com/search?q=Allah%27tan) | Allah'tan is a Turkish phrase that translates to "from Allah" in English. It is used to express gratitude or appreciation for something that has been given or received. |
-| 6 | [buca bayrakli bornova gaziemir](http://twitter.com/search?q=buca+bayrakli+bornova+gaziemir) | N/A |
-| 7 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
-| 8 | [alsancak konak çiğli karşıyaka](http://twitter.com/search?q=alsancak+konak+%c3%a7i%c4%9fli+kar%c5%9f%c4%b1yaka) | N/A |
-| 9 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 10 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 11 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
-| 12 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 13 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 14 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
-| 15 | [büyük türkiye hareketi](http://twitter.com/search?q=b%c3%bcy%c3%bck+t%c3%bcrkiye+hareketi) | N/A |
-| 16 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 17 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 18 | [abdurrahmandelen](http://twitter.com/search?q=abdurrahmandelen) | N/A |
-| 19 | [Tarım Bakanı](http://twitter.com/search?q=Tar%c4%b1m+Bakan%c4%b1) | N/A |
-| 20 | [Daye](http://twitter.com/search?q=Daye) | N/A |
-| 21 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
-| 22 | [servet kuş](http://twitter.com/search?q=servet+ku%c5%9f) | N/A |
-| 23 | [Fahriye Yıldırım](http://twitter.com/search?q=Fahriye+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 24 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 25 | [RTEAffı GönülleriKazanır](http://twitter.com/search?q=RTEAff%c4%b1+G%c3%b6n%c3%bclleriKazan%c4%b1r) | N/A |
-| 26 | [Topunuza Karşı Erdoğan](http://twitter.com/search?q=Topunuza+Kar%c5%9f%c4%b1+Erdo%c4%9fan) | N/A |
-| 27 | [VerinArtık Denkliğimizi](http://twitter.com/search?q=VerinArt%c4%b1k+Denkli%c4%9fimizi) | N/A |
-| 28 | [Dere](http://twitter.com/search?q=Dere) | N/A |
-| 29 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
-| 30 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 31 | [Godoş](http://twitter.com/search?q=Godo%c5%9f) | N/A |
-| 32 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
-| 33 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 34 | [alparslanhocaya telefonyasağı](http://twitter.com/search?q=alparslanhocaya+telefonyasa%c4%9f%c4%b1) | N/A |
-| 35 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 36 | [dikili foca](http://twitter.com/search?q=dikili+foca) | N/A |
-| 37 | [AdaletİçinŞimdi](http://twitter.com/search?q=Adalet%c4%b0%c3%a7in%c5%9eimdi) | N/A |
-| 38 | [Selden](http://twitter.com/search?q=Selden) | N/A |
-| 39 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 40 | [kuecuekpark](http://twitter.com/search?q=kuecuekpark) | N/A |
-| 41 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
-| 42 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
-| 43 | [Mustafa Şen](http://twitter.com/search?q=Mustafa+%c5%9een) | N/A |
-| 44 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 45 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
-| 46 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 47 | [Cem Bey](http://twitter.com/search?q=Cem+Bey) | N/A |
-| 48 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 49 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 1 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
+| 2 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
+| 3 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 4 | [#EnkazBıraktınAKP](http://twitter.com/search?q=%23EnkazB%c4%b1rakt%c4%b1nAKP) | N/A |
+| 5 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
+| 6 | [Daye](http://twitter.com/search?q=Daye) | N/A |
+| 7 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
+| 8 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 9 | [Godoş](http://twitter.com/search?q=Godo%c5%9f) | N/A |
+| 10 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
+| 11 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
+| 12 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
+| 13 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 14 | [Mülteci](http://twitter.com/search?q=M%c3%bclteci) | N/A |
+| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 16 | [Derya Yanık](http://twitter.com/search?q=Derya+Yan%c4%b1k) | N/A |
+| 17 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
+| 18 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
+| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 20 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 21 | [#KöpeklerToplanacak](http://twitter.com/search?q=%23K%c3%b6peklerToplanacak) | N/A |
+| 22 | [#StajyerinPatronuDevlet](http://twitter.com/search?q=%23StajyerinPatronuDevlet) | N/A |
+| 23 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
+| 24 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
+| 25 | [#200Lirayla](http://twitter.com/search?q=%23200Lirayla) | N/A |
+| 26 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
+| 27 | [#DiyecekSözBulamıyoruz](http://twitter.com/search?q=%23DiyecekS%c3%b6zBulam%c4%b1yoruz) | N/A |
+| 28 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
+| 29 | [#AllahaEmanet](http://twitter.com/search?q=%23AllahaEmanet) | N/A |
+| 30 | [#HalabjaGenocide](http://twitter.com/search?q=%23HalabjaGenocide) | N/A |
+| 31 | [#16Mart](http://twitter.com/search?q=%2316Mart) | N/A |
+| 32 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
+| 33 | [#ABOHakkımızdır](http://twitter.com/search?q=%23ABOHakk%c4%b1m%c4%b1zd%c4%b1r) | N/A |
+| 34 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
+| 35 | [#HatayValisi](http://twitter.com/search?q=%23HatayValisi) | N/A |
+| 36 | [#YesilSolParti](http://twitter.com/search?q=%23YesilSolParti) | N/A |
+| 37 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
+| 38 | [#SGKPersoneli](http://twitter.com/search?q=%23SGKPersoneli) | N/A |
+| 39 | [#5BinveKısmiTorbaya](http://twitter.com/search?q=%235BinveK%c4%b1smiTorbaya) | N/A |
+| 40 | [#Secimi2000lerBelirler](http://twitter.com/search?q=%23Secimi2000lerBelirler) | N/A |
+| 41 | [#biletdevret](http://twitter.com/search?q=%23biletdevret) | N/A |
+| 42 | [#MahirÇayan](http://twitter.com/search?q=%23Mahir%c3%87ayan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-16 07:16:53 UTC`
+📆 Last Updated: `2023-03-16 08:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -53,18 +53,18 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 36 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 37 | [Licey](http://twitter.com/search?q=Licey) | N/A |
 | 38 | [RD y PR](http://twitter.com/search?q=RD+y+PR) | N/A |
-| 39 | [DR-Cafta](http://twitter.com/search?q=DR-Cafta) | N/A |
+| 39 | [dr-cafta](http://twitter.com/search?q=dr-cafta) | N/A |
 | 40 | [PR vs RD](http://twitter.com/search?q=PR+vs+RD) | N/A |
 | 41 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 42 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 43 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 44 | [roberto alomar](http://twitter.com/search?q=roberto+alomar) | N/A |
-| 45 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
-| 46 | [Calixte](http://twitter.com/search?q=Calixte) | N/A |
-| 47 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
-| 48 | [Jeremy Peña](http://twitter.com/search?q=Jeremy+Pe%c3%b1a) | N/A |
-| 49 | [esmil rogers](http://twitter.com/search?q=esmil+rogers) | N/A |
-| 50 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
+| 42 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 43 | [roberto alomar](http://twitter.com/search?q=roberto+alomar) | N/A |
+| 44 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
+| 45 | [Calixte](http://twitter.com/search?q=Calixte) | N/A |
+| 46 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
+| 47 | [Jeremy Peña](http://twitter.com/search?q=Jeremy+Pe%c3%b1a) | N/A |
+| 48 | [esmil rogers](http://twitter.com/search?q=esmil+rogers) | N/A |
+| 49 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
+| 50 | [Fedobe](http://twitter.com/search?q=Fedobe) | N/A |
 
 
 

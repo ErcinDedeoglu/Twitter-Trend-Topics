@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For India
 
-📆 Last Updated: `2023-03-16 07:17:39 UTC`
+📆 Last Updated: `2023-03-16 08:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for India
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NationalVaccinationDay](http://twitter.com/search?q=%23NationalVaccinationDay) | N/A |
-| 2 | [#33wChampionCharging](http://twitter.com/search?q=%2333wChampionCharging) | N/A |
-| 3 | [#vivoV27](http://twitter.com/search?q=%23vivoV27) | N/A |
-| 4 | [Designed For Indian Weddings](http://twitter.com/search?q=Designed+For+Indian+Weddings) | N/A |
-| 5 | [#RetailSamvad](http://twitter.com/search?q=%23RetailSamvad) | N/A |
-| 6 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
-| 7 | [#BipinRawat](http://twitter.com/search?q=%23BipinRawat) | N/A |
-| 8 | [Justice4SSR Longest Satyagraha](http://twitter.com/search?q=Justice4SSR+Longest+Satyagraha) | N/A |
-| 9 | [प्रथम रक्षा प्रमुख](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 10 | [Asharamji Bapu Case](http://twitter.com/search?q=Asharamji+Bapu+Case) | N/A |
-| 11 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 12 | [Request To GOI](http://twitter.com/search?q=Request+To+GOI) | N/A |
-| 13 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 14 | [Release Innocent Saint](http://twitter.com/search?q=Release+Innocent+Saint) | N/A |
-| 15 | [India TV](http://twitter.com/search?q=India+TV) | N/A |
+| 2 | [#MissionAceTheIndex](http://twitter.com/search?q=%23MissionAceTheIndex) | N/A |
+| 3 | [#33wChampionCharging](http://twitter.com/search?q=%2333wChampionCharging) | N/A |
+| 4 | [#vivoV27](http://twitter.com/search?q=%23vivoV27) | N/A |
+| 5 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
+| 6 | [#BipinRawat](http://twitter.com/search?q=%23BipinRawat) | N/A |
+| 7 | [Designed For Indian Weddings](http://twitter.com/search?q=Designed+For+Indian+Weddings) | N/A |
+| 8 | [PRA TEJA REUNION](http://twitter.com/search?q=PRA+TEJA+REUNION) | N/A |
+| 9 | [Justice4SSR Longest Satyagraha](http://twitter.com/search?q=Justice4SSR+Longest+Satyagraha) | N/A |
+| 10 | [Sher](http://twitter.com/search?q=Sher) | N/A |
+| 11 | [प्रथम रक्षा प्रमुख](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
+| 12 | [India TV](http://twitter.com/search?q=India+TV) | N/A |
+| 13 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 14 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 15 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
 | 16 | [Saint Rampal Ji](http://twitter.com/search?q=Saint+Rampal+Ji) | N/A |
-| 17 | [होल्कर वंश](http://twitter.com/search?q=%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%82%e0%a4%b6) | N/A |
-| 18 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 19 | [महान प्रेरणा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 20 | [इंडिया टीवी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%9f%e0%a5%80%e0%a4%b5%e0%a5%80) | N/A |
-| 21 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 22 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 23 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 24 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 25 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 26 | [राम मंदिर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 27 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 28 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 29 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
-| 30 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 31 | [#HBDayCRPaatil](http://twitter.com/search?q=%23HBDayCRPaatil) | N/A |
-| 32 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 33 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 34 | [#MehboobaMufti](http://twitter.com/search?q=%23MehboobaMufti) | N/A |
-| 35 | [#PowerOfPositivity](http://twitter.com/search?q=%23PowerOfPositivity) | N/A |
-| 36 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
-| 37 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 38 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 39 | [#DavidWarner](http://twitter.com/search?q=%23DavidWarner) | N/A |
-| 40 | [#PublicSabJantiHai](http://twitter.com/search?q=%23PublicSabJantiHai) | N/A |
-| 41 | [#OMG2](http://twitter.com/search?q=%23OMG2) | N/A |
-| 42 | [#Tsunami](http://twitter.com/search?q=%23Tsunami) | N/A |
-| 43 | [#NewZealand](http://twitter.com/search?q=%23NewZealand) | N/A |
-| 44 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 45 | [#NobelPeacePrize](http://twitter.com/search?q=%23NobelPeacePrize) | N/A |
-| 46 | [#राष्ट्रीय_टीकाकरण_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%9f%e0%a5%80%e0%a4%95%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%a3_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 47 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 48 | [#APBudget2023](http://twitter.com/search?q=%23APBudget2023) | N/A |
-| 49 | [#RamMandir](http://twitter.com/search?q=%23RamMandir) | N/A |
-| 50 | [#Ayodhya](http://twitter.com/search?q=%23Ayodhya) | N/A |
+| 17 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 18 | [होल्कर वंश](http://twitter.com/search?q=%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%82%e0%a4%b6) | N/A |
+| 19 | [Asharamji Bapu Case](http://twitter.com/search?q=Asharamji+Bapu+Case) | N/A |
+| 20 | [महान प्रेरणा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 21 | [Request To GOI](http://twitter.com/search?q=Request+To+GOI) | N/A |
+| 22 | [इंडिया टीवी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%9f%e0%a5%80%e0%a4%b5%e0%a5%80) | N/A |
+| 23 | [Release Innocent Saint](http://twitter.com/search?q=Release+Innocent+Saint) | N/A |
+| 24 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 25 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 26 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 27 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 28 | [राम मंदिर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
+| 29 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 30 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
+| 31 | [Anuj](http://twitter.com/search?q=Anuj) | N/A |
+| 32 | [#HBDayCRPaatil](http://twitter.com/search?q=%23HBDayCRPaatil) | N/A |
+| 33 | [#RetailSamvad](http://twitter.com/search?q=%23RetailSamvad) | N/A |
+| 34 | [#DMGheravBharatpur](http://twitter.com/search?q=%23DMGheravBharatpur) | N/A |
+| 35 | [#MehboobaMufti](http://twitter.com/search?q=%23MehboobaMufti) | N/A |
+| 36 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 37 | [#OMG2](http://twitter.com/search?q=%23OMG2) | N/A |
+| 38 | [#NobelPeacePrize](http://twitter.com/search?q=%23NobelPeacePrize) | N/A |
+| 39 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
+| 40 | [#DavidWarner](http://twitter.com/search?q=%23DavidWarner) | N/A |
+| 41 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 42 | [#राष्ट्रीय_टीकाकरण_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%9f%e0%a5%80%e0%a4%95%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%a3_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 43 | [#Tsunami](http://twitter.com/search?q=%23Tsunami) | N/A |
+| 44 | [#SachinTendulkar](http://twitter.com/search?q=%23SachinTendulkar) | N/A |
+| 45 | [#RamMandir](http://twitter.com/search?q=%23RamMandir) | N/A |
+| 46 | [#NewZealand](http://twitter.com/search?q=%23NewZealand) | N/A |
+| 47 | [#3yearsofmakasam](http://twitter.com/search?q=%233yearsofmakasam) | N/A |
+| 48 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 49 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 50 | [#Dharmapuri](http://twitter.com/search?q=%23Dharmapuri) | N/A |
 
 
 

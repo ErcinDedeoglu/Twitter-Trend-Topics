@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-16 07:17:09 UTC`
+📆 Last Updated: `2023-03-16 08:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#1MindIDHopes](http://twitter.com/search?q=%231MindIDHopes) | N/A |
-| 2 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
-| 3 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 4 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
-| 5 | [KIM JUNKYU](http://twitter.com/search?q=KIM+JUNKYU) | N/A |
-| 6 | [Prabowo Hatinya Tulus](http://twitter.com/search?q=Prabowo+Hatinya+Tulus) | N/A |
-| 7 | [Rakyat NyamanPilih Prabowo](http://twitter.com/search?q=Rakyat+NyamanPilih+Prabowo) | N/A |
-| 8 | [Politik Baik Gerindra](http://twitter.com/search?q=Politik+Baik+Gerindra) | N/A |
-| 9 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 10 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 11 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 12 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
-| 13 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
-| 14 | [Turut](http://twitter.com/search?q=Turut) | N/A |
-| 15 | [#DrRomantic3](http://twitter.com/search?q=%23DrRomantic3) | N/A |
-| 16 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 17 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 18 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 19 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 20 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 21 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 22 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 26 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
-| 27 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 28 | [Sunda](http://twitter.com/search?q=Sunda) | N/A |
-| 29 | [Bahlul](http://twitter.com/search?q=Bahlul) | N/A |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [Gubernur](http://twitter.com/search?q=Gubernur) | N/A |
-| 32 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 33 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
-| 34 | [Jabar](http://twitter.com/search?q=Jabar) | N/A |
-| 35 | [Tinggalin](http://twitter.com/search?q=Tinggalin) | N/A |
-| 36 | [SPT Tahunan](http://twitter.com/search?q=SPT+Tahunan) | N/A |
-| 37 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 38 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
-| 39 | [Sepatu](http://twitter.com/search?q=Sepatu) | N/A |
-| 40 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
-| 41 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 42 | [#IndonesiaMaju](http://twitter.com/search?q=%23IndonesiaMaju) | N/A |
-| 43 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 44 | [#DecayRegime](http://twitter.com/search?q=%23DecayRegime) | N/A |
-| 45 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
-| 46 | [#sugantehpinter](http://twitter.com/search?q=%23sugantehpinter) | N/A |
-| 47 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 48 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
+| 1 | [#MuDAberaNNY](http://twitter.com/search?q=%23MuDAberaNNY) | N/A |
+| 2 | [Danny Praditya](http://twitter.com/search?q=Danny+Praditya) | N/A |
+| 3 | [Prabowo Hatinya Tulus](http://twitter.com/search?q=Prabowo+Hatinya+Tulus) | N/A |
+| 4 | [#1MindIDHopes](http://twitter.com/search?q=%231MindIDHopes) | N/A |
+| 5 | [Rakyat NyamanPilih Prabowo](http://twitter.com/search?q=Rakyat+NyamanPilih+Prabowo) | N/A |
+| 6 | [Politik Baik Gerindra](http://twitter.com/search?q=Politik+Baik+Gerindra) | N/A |
+| 7 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 8 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
+| 9 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
+| 10 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 11 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 12 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
+| 13 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 14 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 15 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
+| 16 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 17 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
+| 18 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 19 | [Sireng](http://twitter.com/search?q=Sireng) | N/A |
+| 20 | [KIM JUNKYU](http://twitter.com/search?q=KIM+JUNKYU) | N/A |
+| 21 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 22 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 23 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 24 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 25 | [Sisca](http://twitter.com/search?q=Sisca) | N/A |
+| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 27 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
+| 28 | [Tinkerbell](http://twitter.com/search?q=Tinkerbell) | N/A |
+| 29 | [Sunda](http://twitter.com/search?q=Sunda) | N/A |
+| 30 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 31 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 32 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 33 | [PKB KAHIJI](http://twitter.com/search?q=PKB+KAHIJI) | N/A |
+| 34 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
+| 35 | [JABAR NGAHIJI](http://twitter.com/search?q=JABAR+NGAHIJI) | N/A |
+| 36 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 37 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
+| 38 | [Kismis](http://twitter.com/search?q=Kismis) | N/A |
+| 39 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 41 | [2024 prabowo menang](http://twitter.com/search?q=2024+prabowo+menang) | N/A |
+| 42 | [Glepung](http://twitter.com/search?q=Glepung) | N/A |
+| 43 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
+| 44 | [Sugik](http://twitter.com/search?q=Sugik) | N/A |
+| 45 | [Hambalang](http://twitter.com/search?q=Hambalang) | N/A |
+| 46 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
+| 47 | [Guru](http://twitter.com/search?q=Guru) | N/A |
+| 48 | [khilafah ajaran islam](http://twitter.com/search?q=khilafah+ajaran+islam) | N/A |
+| 49 | [Spesialis](http://twitter.com/search?q=Spesialis) | N/A |
+| 50 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-16 07:17:41 UTC`
+📆 Last Updated: `2023-03-16 08:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for New Zealand
 | 2 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
 | 3 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
 | 4 | [Fonterra](http://twitter.com/search?q=Fonterra) | N/A |
-| 5 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
-| 6 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
+| 5 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
+| 6 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
 | 7 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
 | 8 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
 | 9 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 10 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 11 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 12 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 11 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 12 | [Brown](http://twitter.com/search?q=Brown) | N/A |
 | 13 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
-| 14 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 15 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 16 | [Peter Dunne](http://twitter.com/search?q=Peter+Dunne) | N/A |
+| 14 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 15 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 16 | [peter dunne](http://twitter.com/search?q=peter+dunne) | N/A |
 | 17 | [#TooManyCows](http://twitter.com/search?q=%23TooManyCows) | N/A |
 | 18 | [Coster](http://twitter.com/search?q=Coster) | N/A |
-| 19 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 20 | [tayla](http://twitter.com/search?q=tayla) | N/A |
-| 21 | [#ShortlandStreet](http://twitter.com/search?q=%23ShortlandStreet) | N/A |
-| 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 23 | [#NBLFinals](http://twitter.com/search?q=%23NBLFinals) | N/A |
-| 24 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 19 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 20 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 22 | [#nblfinals](http://twitter.com/search?q=%23nblfinals) | N/A |
+| 23 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 25 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
 | 26 | [Bikini Kill](http://twitter.com/search?q=Bikini+Kill) | N/A |
-| 27 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 27 | [#ShortlandStreet](http://twitter.com/search?q=%23ShortlandStreet) | N/A |
 | 28 | [topham guerin](http://twitter.com/search?q=topham+guerin) | N/A |
-| 29 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
-| 30 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 31 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
+| 29 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 30 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
+| 31 | [Prime](http://twitter.com/search?q=Prime) | N/A |
 | 32 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
 | 33 | [Marx](http://twitter.com/search?q=Marx) | N/A |
 | 34 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
-| 35 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 36 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 35 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 36 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
 | 37 | [Grant Robertson](http://twitter.com/search?q=Grant+Robertson) | N/A |
-| 38 | [Reserve Bank](http://twitter.com/search?q=Reserve+Bank) | N/A |
-| 39 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
-| 40 | [Sean](http://twitter.com/search?q=Sean) | N/A |
-| 41 | [Leah](http://twitter.com/search?q=Leah) | N/A |
-| 42 | [Kerre Woodham](http://twitter.com/search?q=Kerre+Woodham) | N/A |
-| 43 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 44 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 45 | [Phew](http://twitter.com/search?q=Phew) | N/A |
-| 46 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 47 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 48 | [Muldoon](http://twitter.com/search?q=Muldoon) | N/A |
-| 49 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 50 | [bronwyn elsmore](http://twitter.com/search?q=bronwyn+elsmore) | N/A |
+| 38 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 39 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 40 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
+| 41 | [Reserve Bank](http://twitter.com/search?q=Reserve+Bank) | N/A |
+| 42 | [Sean](http://twitter.com/search?q=Sean) | N/A |
+| 43 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 44 | [Leah](http://twitter.com/search?q=Leah) | N/A |
+| 45 | [Kerre Woodham](http://twitter.com/search?q=Kerre+Woodham) | N/A |
+| 46 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 47 | [Phew](http://twitter.com/search?q=Phew) | N/A |
+| 48 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 49 | [Muldoon](http://twitter.com/search?q=Muldoon) | N/A |
+| 50 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
 
 
 

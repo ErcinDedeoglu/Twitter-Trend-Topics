@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Aguascalientes
 
-📆 Last Updated: `2023-03-16 07:16:53 UTC`
+📆 Last Updated: `2023-03-16 08:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 5 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 8 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 7 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 9 | [Loret](http://twitter.com/search?q=Loret) | N/A |
 | 10 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 11 | [Marx](http://twitter.com/search?q=Marx) | N/A |
 | 12 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 16 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 17 | [Gallese](http://twitter.com/search?q=Gallese) | N/A |
-| 18 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 19 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 20 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 22 | [Tomás Yarrington](http://twitter.com/search?q=Tom%c3%a1s+Yarrington) | N/A |
-| 23 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 24 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 25 | [Corcholatas](http://twitter.com/search?q=Corcholatas) | N/A |
-| 26 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 27 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 28 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 14 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 16 | [Gallese](http://twitter.com/search?q=Gallese) | N/A |
+| 17 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 18 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 20 | [Tomás Yarrington](http://twitter.com/search?q=Tom%c3%a1s+Yarrington) | N/A |
+| 21 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 22 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 23 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 24 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
+| 25 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 26 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 27 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 28 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
 | 29 | [Damián Alcázar](http://twitter.com/search?q=Dami%c3%a1n+Alc%c3%a1zar) | N/A |
-| 30 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 31 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 32 | [Machaca](http://twitter.com/search?q=Machaca) | N/A |
-| 33 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 34 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 35 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 36 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 37 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 38 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 39 | [Cuartos de Final](http://twitter.com/search?q=Cuartos+de+Final) | N/A |
-| 40 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 41 | [Alejandro Encinas](http://twitter.com/search?q=Alejandro+Encinas) | N/A |
-| 42 | [GAME OVER](http://twitter.com/search?q=GAME+OVER) | N/A |
-| 43 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 44 | [alexis wilson](http://twitter.com/search?q=alexis+wilson) | N/A |
+| 30 | [Machaca](http://twitter.com/search?q=Machaca) | N/A |
+| 31 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 32 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 33 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 34 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 35 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 36 | [Corcholatas](http://twitter.com/search?q=Corcholatas) | N/A |
+| 37 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 38 | [Cuartos de Final](http://twitter.com/search?q=Cuartos+de+Final) | N/A |
+| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 40 | [Alejandro Encinas](http://twitter.com/search?q=Alejandro+Encinas) | N/A |
+| 41 | [Game Over](http://twitter.com/search?q=Game+Over) | N/A |
+| 42 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 43 | [alexis wilson](http://twitter.com/search?q=alexis+wilson) | N/A |
+| 44 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
 | 45 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
 | 46 | [Nelly Furtado](http://twitter.com/search?q=Nelly+Furtado) | N/A |
-| 47 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 48 | [San Marcos](http://twitter.com/search?q=San+Marcos) | San Marcos is a city in the Central Texas region of the United States. It is the county seat of Hays County and is located on the San Marcos River. The name San Marcos is Spanish for "Saint Mark," referring to the patron saint of Venice, Italy. |
-| 49 | [Devour](http://twitter.com/search?q=Devour) | N/A |
+| 47 | [San Marcos](http://twitter.com/search?q=San+Marcos) | San Marcos is a city in the Central Texas region of the United States. It is the county seat of Hays County and is located on the San Marcos River. The name San Marcos is Spanish for "Saint Mark," referring to the patron saint of Venice, Italy. |
+| 48 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 49 | [WE LOVE YOU QUACKITY](http://twitter.com/search?q=WE+LOVE+YOU+QUACKITY) | N/A |
 
 
 

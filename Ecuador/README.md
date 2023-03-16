@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-16 07:17:38 UTC`
+📆 Last Updated: `2023-03-16 08:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Ecuador
 | 6 | [Goltv](http://twitter.com/search?q=Goltv) | N/A |
 | 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 9 | [Diego Ordóñez](http://twitter.com/search?q=Diego+Ord%c3%b3%c3%b1ez) | N/A |
+| 9 | [diego ordóñez](http://twitter.com/search?q=diego+ord%c3%b3%c3%b1ez) | N/A |
 | 10 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
 | 11 | [#EcuadorDecidió](http://twitter.com/search?q=%23EcuadorDecidi%c3%b3) | N/A |
 | 12 | [Torino](http://twitter.com/search?q=Torino) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for Ecuador
 | 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 26 | [Embajador](http://twitter.com/search?q=Embajador) | N/A |
 | 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Sornoza](http://twitter.com/search?q=Sornoza) | N/A |
+| 28 | [sornoza](http://twitter.com/search?q=sornoza) | N/A |
 | 29 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 30 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
 | 31 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
@@ -51,20 +51,20 @@ This is top 50 for Ecuador
 | 34 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
 | 35 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 36 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 37 | [Superintendencia de Compañías](http://twitter.com/search?q=Superintendencia+de+Compa%c3%b1%c3%adas) | N/A |
-| 38 | [Loor](http://twitter.com/search?q=Loor) | N/A |
-| 39 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 40 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 41 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 42 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
-| 43 | [Gabriel Fuks](http://twitter.com/search?q=Gabriel+Fuks) | N/A |
-| 44 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 45 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 46 | [Eliminatorias Sudamericanas](http://twitter.com/search?q=Eliminatorias+Sudamericanas) | N/A |
-| 47 | [Puerto Azul](http://twitter.com/search?q=Puerto+Azul) | N/A |
-| 48 | [LigaPro](http://twitter.com/search?q=LigaPro) | N/A |
-| 49 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 50 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 37 | [superintendencia de compañías](http://twitter.com/search?q=superintendencia+de+compa%c3%b1%c3%adas) | N/A |
+| 38 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 39 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 40 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 41 | [Pepita](http://twitter.com/search?q=Pepita) | N/A |
+| 42 | [Gabriel Fuks](http://twitter.com/search?q=Gabriel+Fuks) | N/A |
+| 43 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 44 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 45 | [Eliminatorias Sudamericanas](http://twitter.com/search?q=Eliminatorias+Sudamericanas) | N/A |
+| 46 | [puerto azul](http://twitter.com/search?q=puerto+azul) | N/A |
+| 47 | [LigaPro](http://twitter.com/search?q=LigaPro) | N/A |
+| 48 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 49 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 50 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
 
 
 

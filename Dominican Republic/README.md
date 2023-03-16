@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-16 07:17:38 UTC`
+📆 Last Updated: `2023-03-16 08:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,7 +35,7 @@ This is top 50 for Dominican Republic
 | 18 | [rd vs pr](http://twitter.com/search?q=rd+vs+pr) | N/A |
 | 19 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
 | 20 | [Edwin Díaz](http://twitter.com/search?q=Edwin+D%c3%adaz) | N/A |
-| 21 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
+| 21 | [jean segura](http://twitter.com/search?q=jean+segura) | N/A |
 | 22 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
 | 23 | [Candelario](http://twitter.com/search?q=Candelario) | N/A |
 | 24 | [Adames](http://twitter.com/search?q=Adames) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Dominican Republic
 | 36 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 37 | [Licey](http://twitter.com/search?q=Licey) | N/A |
 | 38 | [RD y PR](http://twitter.com/search?q=RD+y+PR) | N/A |
-| 39 | [DR-Cafta](http://twitter.com/search?q=DR-Cafta) | N/A |
+| 39 | [dr-cafta](http://twitter.com/search?q=dr-cafta) | N/A |
 | 40 | [PR vs RD](http://twitter.com/search?q=PR+vs+RD) | N/A |
 | 41 | [Marte](http://twitter.com/search?q=Marte) | N/A |
 | 42 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
