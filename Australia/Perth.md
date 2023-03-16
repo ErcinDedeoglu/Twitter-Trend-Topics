@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-16 14:18:01 UTC`
+📆 Last Updated: `2023-03-16 15:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Australia](</Australia>)
 | 7 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
 | 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 9 | [#mcrmelbourne](http://twitter.com/search?q=%23mcrmelbourne) | N/A |
-| 10 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 11 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 13 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 14 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 15 | [#Baggers](http://twitter.com/search?q=%23Baggers) | N/A |
-| 16 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 17 | [#closethegap](http://twitter.com/search?q=%23closethegap) | N/A |
-| 18 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 19 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 20 | [Acres](http://twitter.com/search?q=Acres) | N/A |
-| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 22 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 23 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 24 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
-| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 26 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 27 | [McGovern](http://twitter.com/search?q=McGovern) | N/A |
-| 28 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 29 | [bruce lehrmann](http://twitter.com/search?q=bruce+lehrmann) | N/A |
-| 30 | [McKay](http://twitter.com/search?q=McKay) | N/A |
-| 31 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
-| 32 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 33 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
-| 34 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
-| 35 | [Schuster](http://twitter.com/search?q=Schuster) | N/A |
-| 36 | [Balta](http://twitter.com/search?q=Balta) | N/A |
-| 37 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 38 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 39 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
-| 40 | [Rioli](http://twitter.com/search?q=Rioli) | N/A |
-| 41 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 42 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 43 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
-| 44 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
-| 45 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
-| 46 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
-| 47 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 48 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
-| 49 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
-| 50 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
+| 12 | [#Baggers](http://twitter.com/search?q=%23Baggers) | N/A |
+| 13 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 14 | [#closethegap](http://twitter.com/search?q=%23closethegap) | N/A |
+| 15 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 16 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 17 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 19 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 20 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 21 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 22 | [bruce lehrmann](http://twitter.com/search?q=bruce+lehrmann) | N/A |
+| 23 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 24 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 25 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 26 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
+| 27 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 28 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
+| 29 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
+| 30 | [hodgson](http://twitter.com/search?q=hodgson) | N/A |
+| 31 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 32 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 33 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 34 | [Schuster](http://twitter.com/search?q=Schuster) | N/A |
+| 35 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 36 | [McGovern](http://twitter.com/search?q=McGovern) | N/A |
+| 37 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 38 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
+| 39 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
+| 40 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 41 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
+| 42 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
+| 43 | [Acres](http://twitter.com/search?q=Acres) | N/A |
+| 44 | [Ben Fordham](http://twitter.com/search?q=Ben+Fordham) | N/A |
+| 45 | [torres strait](http://twitter.com/search?q=torres+strait) | N/A |
+| 46 | [Marles](http://twitter.com/search?q=Marles) | N/A |
+| 47 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
+| 48 | [Blade Runner](http://twitter.com/search?q=Blade+Runner) | N/A |
+| 49 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 50 | [Lewis Young](http://twitter.com/search?q=Lewis+Young) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-16 14:17:51 UTC`
+📆 Last Updated: `2023-03-16 15:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 2 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 3 | [ANY G PUMA](http://twitter.com/search?q=ANY+G+PUMA) | N/A |
-| 4 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 5 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 6 | [AMANDA CAMPEÃ](http://twitter.com/search?q=AMANDA+CAMPE%c3%83) | N/A |
-| 7 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
-| 8 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
-| 9 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
-| 10 | [#TaokaenoiXFreenBeckyLive](http://twitter.com/search?q=%23TaokaenoiXFreenBeckyLive) | N/A |
-| 11 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
-| 12 | [shadow and bone](http://twitter.com/search?q=shadow+and+bone) | N/A |
-| 13 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
-| 14 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
-| 15 | [Flerte](http://twitter.com/search?q=Flerte) | N/A |
-| 16 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
-| 17 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 18 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 19 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 20 | [Marcos Paulo](http://twitter.com/search?q=Marcos+Paulo) | N/A |
-| 21 | [Expulsão](http://twitter.com/search?q=Expuls%c3%a3o) | N/A |
-| 22 | [Assediador](http://twitter.com/search?q=Assediador) | N/A |
-| 23 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 24 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 25 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 26 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 27 | [Amigão](http://twitter.com/search?q=Amig%c3%a3o) | N/A |
-| 28 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 29 | [CASADO](http://twitter.com/search?q=CASADO) | N/A |
-| 30 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 31 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 32 | [Bebida](http://twitter.com/search?q=Bebida) | N/A |
-| 33 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
-| 34 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 35 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
-| 36 | [Sombra e Ossos](http://twitter.com/search?q=Sombra+e+Ossos) | N/A |
-| 37 | [Wylan](http://twitter.com/search?q=Wylan) | N/A |
-| 38 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 39 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 40 | [#TeamAmanda](http://twitter.com/search?q=%23TeamAmanda) | N/A |
-| 41 | [matthias](http://twitter.com/search?q=matthias) | N/A |
-| 42 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 43 | [Merecem](http://twitter.com/search?q=Merecem) | N/A |
-| 44 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 45 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
-| 46 | [Glauber Braga](http://twitter.com/search?q=Glauber+Braga) | N/A |
-| 47 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 48 | [Governo Bolsonaro](http://twitter.com/search?q=Governo+Bolsonaro) | N/A |
-| 49 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
-| 50 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 1 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 2 | [Fique](http://twitter.com/search?q=Fique) | N/A |
+| 3 | [Nojento](http://twitter.com/search?q=Nojento) | N/A |
+| 4 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
+| 5 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 6 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 7 | [Marcos Paulo](http://twitter.com/search?q=Marcos+Paulo) | N/A |
+| 8 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 9 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
+| 10 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 11 | [ANY G PUMA](http://twitter.com/search?q=ANY+G+PUMA) | N/A |
+| 12 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
+| 13 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 14 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 15 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 16 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 17 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 18 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
+| 19 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
+| 20 | [Flerte](http://twitter.com/search?q=Flerte) | N/A |
+| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 22 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 23 | [Assediador](http://twitter.com/search?q=Assediador) | N/A |
+| 24 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
+| 25 | [shadow and bone](http://twitter.com/search?q=shadow+and+bone) | N/A |
+| 26 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
+| 27 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
+| 28 | [Amanda Campeã](http://twitter.com/search?q=Amanda+Campe%c3%a3) | N/A |
+| 29 | [my tears ricochet](http://twitter.com/search?q=my+tears+ricochet) | N/A |
+| 30 | [Emma Myers](http://twitter.com/search?q=Emma+Myers) | N/A |
+| 31 | [Muricy](http://twitter.com/search?q=Muricy) | N/A |
+| 32 | [Belmonte](http://twitter.com/search?q=Belmonte) | N/A |
+| 33 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 34 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 35 | [wylan](http://twitter.com/search?q=wylan) | N/A |
+| 36 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 37 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
+| 38 | [Alina](http://twitter.com/search?q=Alina) | N/A |
+| 39 | [Shuaibo](http://twitter.com/search?q=Shuaibo) | N/A |
+| 40 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
+| 41 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 42 | [Feel Special](http://twitter.com/search?q=Feel+Special) | N/A |
+| 43 | [jesper](http://twitter.com/search?q=jesper) | N/A |
+| 44 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
+| 45 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
+| 46 | [Mudanças Climáticas](http://twitter.com/search?q=Mudan%c3%a7as+Clim%c3%a1ticas) | N/A |
+| 47 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 48 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 49 | [Casado](http://twitter.com/search?q=Casado) | N/A |
+| 50 | [Itaipu](http://twitter.com/search?q=Itaipu) | N/A |
 
 
 

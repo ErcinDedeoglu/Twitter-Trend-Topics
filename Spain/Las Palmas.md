@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-16 14:17:58 UTC`
+📆 Last Updated: `2023-03-16 15:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
-| 2 | [#RE4MM](http://twitter.com/search?q=%23RE4MM) | N/A |
-| 3 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
-| 4 | [Ossorio](http://twitter.com/search?q=Ossorio) | N/A |
-| 5 | [#AnaPastón](http://twitter.com/search?q=%23AnaPast%c3%b3n) | N/A |
-| 6 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 7 | [La RFEF](http://twitter.com/search?q=La+RFEF) | N/A |
-| 8 | [De Burgos Bengoetxea](http://twitter.com/search?q=De+Burgos+Bengoetxea) | N/A |
-| 9 | [#YoMeRebelo16M](http://twitter.com/search?q=%23YoMeRebelo16M) | N/A |
-| 10 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
-| 11 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
-| 12 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
-| 13 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
-| 14 | [Soto Grado](http://twitter.com/search?q=Soto+Grado) | Soto Grado is a Spanish phrase that translates to "outside grade" or "out of grade." It is used to describe something that is not up to the expected standard or quality. |
-| 15 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
-| 16 | [Dimitir](http://twitter.com/search?q=Dimitir) | N/A |
-| 17 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
-| 18 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 19 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
-| 20 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 21 | [Opus](http://twitter.com/search?q=Opus) | N/A |
-| 22 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
-| 23 | [Tinder](http://twitter.com/search?q=Tinder) | N/A |
-| 24 | [Jaguar](http://twitter.com/search?q=Jaguar) | N/A |
-| 25 | [Pasapalabra](http://twitter.com/search?q=Pasapalabra) | N/A |
-| 26 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 27 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 28 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 29 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
-| 30 | [Asamblea de Madrid](http://twitter.com/search?q=Asamblea+de+Madrid) | N/A |
-| 31 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
-| 32 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 33 | [Nemo](http://twitter.com/search?q=Nemo) | N/A |
-| 34 | [PP de Madrid](http://twitter.com/search?q=PP+de+Madrid) | N/A |
-| 35 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
-| 36 | [#SeagateMarvelMM](http://twitter.com/search?q=%23SeagateMarvelMM) | N/A |
-| 37 | [#ShadowAndBone2](http://twitter.com/search?q=%23ShadowAndBone2) | N/A |
-| 38 | [#ADMALTRATADOR](http://twitter.com/search?q=%23ADMALTRATADOR) | N/A |
-| 39 | [#APOYOROCIO16M](http://twitter.com/search?q=%23APOYOROCIO16M) | N/A |
-| 40 | [#PREMIOSDIAL](http://twitter.com/search?q=%23PREMIOSDIAL) | N/A |
-| 41 | [#DíaDelPadre](http://twitter.com/search?q=%23D%c3%adaDelPadre) | N/A |
-| 42 | [#formación](http://twitter.com/search?q=%23formaci%c3%b3n) | N/A |
-| 43 | [#Fallas](http://twitter.com/search?q=%23Fallas) | N/A |
-| 44 | [#MedioAmbiente](http://twitter.com/search?q=%23MedioAmbiente) | N/A |
-| 45 | [#AEEH2023](http://twitter.com/search?q=%23AEEH2023) | N/A |
+| 1 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
+| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 3 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
+| 4 | [Alvise](http://twitter.com/search?q=Alvise) | N/A |
+| 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 6 | [#GPDenain](http://twitter.com/search?q=%23GPDenain) | N/A |
+| 7 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 8 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 11 | [#RE4MM](http://twitter.com/search?q=%23RE4MM) | N/A |
+| 12 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
+| 13 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 14 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
+| 15 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
+| 16 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
+| 17 | [Bertín Osborne](http://twitter.com/search?q=Bert%c3%adn+Osborne) | N/A |
+| 18 | [Dimitir](http://twitter.com/search?q=Dimitir) | N/A |
+| 19 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 20 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
+| 21 | [Manuela Carmena](http://twitter.com/search?q=Manuela+Carmena) | Manuela Carmena is a Spanish politician who served as the Mayor of Madrid from 2015 to 2019. She is a member of the left-wing political party, Ahora Madrid. Her name translates to "Manuela the Warrior" in English. |
+| 22 | [De Burgos](http://twitter.com/search?q=De+Burgos) | N/A |
+| 23 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
+| 24 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 25 | [DIMISIÓN](http://twitter.com/search?q=DIMISI%c3%93N) | N/A |
+| 26 | [La RFEF](http://twitter.com/search?q=La+RFEF) | N/A |
+| 27 | [Soto Grado](http://twitter.com/search?q=Soto+Grado) | Soto Grado is a Spanish phrase that translates to "outside grade" or "out of grade." It is used to describe something that is not up to the expected standard or quality. |
+| 28 | [Opus](http://twitter.com/search?q=Opus) | N/A |
+| 29 | [luis de la fuente](http://twitter.com/search?q=luis+de+la+fuente) | N/A |
+| 30 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
+| 31 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
+| 32 | [Día del Padre](http://twitter.com/search?q=D%c3%ada+del+Padre) | N/A |
+| 33 | [Monstruos S.A.](http://twitter.com/search?q=Monstruos+S.A.) | N/A |
+| 34 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 35 | [Jaguar](http://twitter.com/search?q=Jaguar) | N/A |
+| 36 | [Pasapalabra](http://twitter.com/search?q=Pasapalabra) | N/A |
+| 37 | [one piece](http://twitter.com/search?q=one+piece) | N/A |
+| 38 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
+| 39 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 40 | [Más País](http://twitter.com/search?q=M%c3%a1s+Pa%c3%ads) | N/A |
+| 41 | [Los Increíbles](http://twitter.com/search?q=Los+Incre%c3%adbles) | N/A |
+| 42 | [Cars](http://twitter.com/search?q=Cars) | N/A |
+| 43 | [Tinder](http://twitter.com/search?q=Tinder) | N/A |
+| 44 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 45 | [Asamblea de Madrid](http://twitter.com/search?q=Asamblea+de+Madrid) | N/A |
 
 
 

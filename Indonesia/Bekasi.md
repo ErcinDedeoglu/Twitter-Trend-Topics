@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-03-16 14:18:00 UTC`
+📆 Last Updated: `2023-03-16 15:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [#WelcomeTREASUREtoINDONESIA](http://twitter.com/search?q=%23WelcomeTREASUREtoINDONESIA) | N/A |
 | 4 | [#KirimTakGentar](http://twitter.com/search?q=%23KirimTakGentar) | N/A |
 | 5 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
-| 8 | [BaKri](http://twitter.com/search?q=BaKri) | N/A |
-| 9 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 10 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 11 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 12 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 13 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 14 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 15 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
-| 16 | [Bab 1](http://twitter.com/search?q=Bab+1) | N/A |
-| 17 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
-| 18 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 19 | [Spesialis](http://twitter.com/search?q=Spesialis) | N/A |
-| 20 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
-| 21 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 22 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 23 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
-| 24 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 25 | [Polri](http://twitter.com/search?q=Polri) | N/A |
-| 26 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 27 | [Bawah](http://twitter.com/search?q=Bawah) | N/A |
-| 28 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 29 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 30 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 31 | [#BanzaiJKT48](http://twitter.com/search?q=%23BanzaiJKT48) | N/A |
-| 32 | [#MudikGratisGanjar](http://twitter.com/search?q=%23MudikGratisGanjar) | N/A |
-| 33 | [#FightingClimateChange](http://twitter.com/search?q=%23FightingClimateChange) | N/A |
-| 34 | [#SEVENTEEN](http://twitter.com/search?q=%23SEVENTEEN) | N/A |
-| 35 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
-| 36 | [#WANGZIHAO_LAW](http://twitter.com/search?q=%23WANGZIHAO_LAW) | N/A |
-| 37 | [#TangkapAgus](http://twitter.com/search?q=%23TangkapAgus) | N/A |
-| 38 | [#SUNGHANBINxTOMBOY](http://twitter.com/search?q=%23SUNGHANBINxTOMBOY) | N/A |
-| 39 | [#IndonesiaKayaBBN](http://twitter.com/search?q=%23IndonesiaKayaBBN) | N/A |
-| 40 | [#BanggaKayaBBN](http://twitter.com/search?q=%23BanggaKayaBBN) | N/A |
-| 41 | [#왕즈하오](http://twitter.com/search?q=%23%ec%99%95%ec%a6%88%ed%95%98%ec%98%a4) | N/A |
-| 42 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 43 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
-| 44 | [#GalaxyA545GxShopee](http://twitter.com/search?q=%23GalaxyA545GxShopee) | N/A |
-| 45 | [#AwesomeGeneration](http://twitter.com/search?q=%23AwesomeGeneration) | N/A |
-| 46 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 47 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
-| 48 | [#MelurUntukFirdausSeason2](http://twitter.com/search?q=%23MelurUntukFirdausSeason2) | N/A |
-| 49 | [#IbukotaBaruMendunia](http://twitter.com/search?q=%23IbukotaBaruMendunia) | N/A |
+| 6 | [#SEVENTEEN](http://twitter.com/search?q=%23SEVENTEEN) | N/A |
+| 7 | [WE MISS ILICHIL](http://twitter.com/search?q=WE+MISS+ILICHIL) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 10 | [IHAVE IVE FULL ALBUM](http://twitter.com/search?q=IHAVE+IVE+FULL+ALBUM) | N/A |
+| 11 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 12 | [jorji](http://twitter.com/search?q=jorji) | N/A |
+| 13 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 14 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
+| 15 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 16 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
+| 17 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 18 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 19 | [Love Killa](http://twitter.com/search?q=Love+Killa) | N/A |
+| 20 | [TOMBOY](http://twitter.com/search?q=TOMBOY) | N/A |
+| 21 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 22 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 23 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 24 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 25 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 26 | [Bahan Bakar Nabati](http://twitter.com/search?q=Bahan+Bakar+Nabati) | N/A |
+| 27 | [KIM TAERAE](http://twitter.com/search?q=KIM+TAERAE) | N/A |
+| 28 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
+| 29 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
+| 30 | [Bab 1](http://twitter.com/search?q=Bab+1) | N/A |
+| 31 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 32 | [Spesialis](http://twitter.com/search?q=Spesialis) | N/A |
+| 33 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 34 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
+| 35 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 36 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
+| 37 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
+| 38 | [giselle](http://twitter.com/search?q=giselle) | N/A |
+| 39 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 40 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 41 | [Junkyu](http://twitter.com/search?q=Junkyu) | N/A |
+| 42 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
+| 43 | [#BWDNtoJapan](http://twitter.com/search?q=%23BWDNtoJapan) | N/A |
+| 44 | [#banzaijkt48](http://twitter.com/search?q=%23banzaijkt48) | N/A |
+| 45 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 46 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 47 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
+| 48 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 49 | [#IVE1stFullAlbum](http://twitter.com/search?q=%23IVE1stFullAlbum) | N/A |
 
 
 

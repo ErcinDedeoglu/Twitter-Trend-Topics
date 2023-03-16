@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-16 14:17:41 UTC`
+📆 Last Updated: `2023-03-16 15:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 3 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
-| 4 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 5 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
-| 6 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 7 | [Tyrone Mings](http://twitter.com/search?q=Tyrone+Mings) | N/A |
-| 8 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 9 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 10 | [Stefan Bajcetic](http://twitter.com/search?q=Stefan+Bajcetic) | N/A |
-| 11 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 12 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 13 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
-| 14 | [Inverness](http://twitter.com/search?q=Inverness) | N/A |
-| 15 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 16 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 17 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
-| 18 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
-| 19 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 20 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 21 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 22 | [Home By The Lee](http://twitter.com/search?q=Home+By+The+Lee) | N/A |
-| 23 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
-| 24 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
-| 25 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 26 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
-| 27 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 28 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
-| 29 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
-| 30 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 31 | [St Patrick's Day](http://twitter.com/search?q=St+Patrick%27s+Day) | N/A |
-| 32 | [Trumpian](http://twitter.com/search?q=Trumpian) | N/A |
-| 33 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 34 | [Strikes](http://twitter.com/search?q=Strikes) | N/A |
-| 35 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 36 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 37 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 38 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 39 | [SNP HQ](http://twitter.com/search?q=SNP+HQ) | N/A |
-| 40 | [Red Nose Day](http://twitter.com/search?q=Red+Nose+Day) | N/A |
-| 41 | [Tracey](http://twitter.com/search?q=Tracey) | N/A |
-| 42 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 43 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 44 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 45 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 46 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 47 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 48 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 1 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 4 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 5 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 6 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
+| 7 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 8 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 9 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 10 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
+| 11 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 12 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 13 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
+| 14 | [Guehi](http://twitter.com/search?q=Guehi) | N/A |
+| 15 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 16 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 17 | [#ENGLAND](http://twitter.com/search?q=%23ENGLAND) | N/A |
+| 18 | [Good Time Jonny](http://twitter.com/search?q=Good+Time+Jonny) | N/A |
+| 19 | [#ThreeLions](http://twitter.com/search?q=%23ThreeLions) | N/A |
+| 20 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 21 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
+| 22 | [#Batwheels](http://twitter.com/search?q=%23Batwheels) | N/A |
+| 23 | [Italy and Ukraine](http://twitter.com/search?q=Italy+and+Ukraine) | N/A |
+| 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 25 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 26 | [Rachel Blackmore](http://twitter.com/search?q=Rachel+Blackmore) | N/A |
+| 27 | [Mill Green](http://twitter.com/search?q=Mill+Green) | N/A |
+| 28 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 29 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 30 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 31 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
+| 32 | [Ryanair Chase](http://twitter.com/search?q=Ryanair+Chase) | N/A |
+| 33 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 34 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 35 | [Brice](http://twitter.com/search?q=Brice) | N/A |
+| 36 | [Harry Cobden](http://twitter.com/search?q=Harry+Cobden) | N/A |
+| 37 | [Davy Russell](http://twitter.com/search?q=Davy+Russell) | N/A |
+| 38 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 39 | [RIP Don](http://twitter.com/search?q=RIP+Don) | N/A |
+| 40 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 41 | [Don Megson](http://twitter.com/search?q=Don+Megson) | N/A |
+| 42 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 43 | [Appreciate It](http://twitter.com/search?q=Appreciate+It) | N/A |
+| 44 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 45 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 46 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 47 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 48 | [Colwill](http://twitter.com/search?q=Colwill) | N/A |
 
 
 

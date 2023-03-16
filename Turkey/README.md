@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-16 14:18:36 UTC`
+📆 Last Updated: `2023-03-16 15:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bolu](http://twitter.com/search?q=%23bolu) | N/A |
-| 2 | [Palancioglu İstifa](http://twitter.com/search?q=Palancioglu+%c4%b0stifa) | N/A |
-| 3 | [#YüzBinÖğretmeniOYalamayın](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9fretmeniOYalamay%c4%b1n) | N/A |
-| 4 | [#düzce](http://twitter.com/search?q=%23d%c3%bczce) | N/A |
-| 5 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
-| 6 | [#20marttayuzyuzekarari](http://twitter.com/search?q=%2320marttayuzyuzekarari) | N/A |
+| 1 | [#YüzBinÖğretmeniOYalamayın](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9fretmeniOYalamay%c4%b1n) | N/A |
+| 2 | [#bolu](http://twitter.com/search?q=%23bolu) | N/A |
+| 3 | [Palancioglu İstifa](http://twitter.com/search?q=Palancioglu+%c4%b0stifa) | N/A |
+| 4 | [#20marttayuzyuzekarari](http://twitter.com/search?q=%2320marttayuzyuzekarari) | N/A |
+| 5 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 6 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
 | 7 | [Avrupa Merkez Bankası](http://twitter.com/search?q=Avrupa+Merkez+Bankas%c4%b1) | N/A |
-| 8 | [Süleymancılar](http://twitter.com/search?q=S%c3%bcleymanc%c4%b1lar) | N/A |
-| 9 | [Türk Devletleri Teşkilatı](http://twitter.com/search?q=T%c3%bcrk+Devletleri+Te%c5%9fkilat%c4%b1) | N/A |
-| 10 | [Yüzük](http://twitter.com/search?q=Y%c3%bcz%c3%bck) | N/A |
-| 11 | [Yusuf Demir](http://twitter.com/search?q=Yusuf+Demir) | Yusuf Demir is a Turkish name. It is composed of two parts: Yusuf, which means "God increases" in Arabic, and Demir, which means "iron" in Turkish. In English, the name would be translated as "God Increases Iron". |
-| 12 | [Tanzanya](http://twitter.com/search?q=Tanzanya) | N/A |
-| 13 | [Menzil](http://twitter.com/search?q=Menzil) | N/A |
-| 14 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
-| 15 | [Dolar 19](http://twitter.com/search?q=Dolar+19) | N/A |
-| 16 | [fatihin torunlari geliyor](http://twitter.com/search?q=fatihin+torunlari+geliyor) | N/A |
-| 17 | [Deprem Ağı](http://twitter.com/search?q=Deprem+A%c4%9f%c4%b1) | N/A |
-| 18 | [SandıktanÖnce KadroGelsin](http://twitter.com/search?q=Sand%c4%b1ktan%c3%96nce+KadroGelsin) | N/A |
-| 19 | [Günü](http://twitter.com/search?q=G%c3%bcn%c3%bc) | N/A |
-| 20 | [Milli Eğitim Bakanlığı](http://twitter.com/search?q=Milli+E%c4%9fitim+Bakanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 21 | [Siyasetten](http://twitter.com/search?q=Siyasetten) | N/A |
-| 22 | [Daye](http://twitter.com/search?q=Daye) | N/A |
-| 23 | [Özgürlük İttifakı](http://twitter.com/search?q=%c3%96zg%c3%bcrl%c3%bck+%c4%b0ttifak%c4%b1) | N/A |
-| 24 | [Şuursuz](http://twitter.com/search?q=%c5%9euursuz) | N/A |
-| 25 | [Elma](http://twitter.com/search?q=Elma) | N/A |
-| 26 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 27 | [Esad](http://twitter.com/search?q=Esad) | N/A |
-| 28 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
-| 29 | [Sera Kadıgil](http://twitter.com/search?q=Sera+Kad%c4%b1gil) | N/A |
-| 30 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
-| 31 | [HER ŞEYDEN ÖNCE TÜRKİYE](http://twitter.com/search?q=HER+%c5%9eEYDEN+%c3%96NCE+T%c3%9cRK%c4%b0YE) | N/A |
-| 32 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
-| 33 | [milletiyle](http://twitter.com/search?q=milletiyle) | N/A |
-| 34 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 35 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
-| 36 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
-| 37 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
-| 38 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
-| 39 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
-| 40 | [#5binAboVeKısmiNerede](http://twitter.com/search?q=%235binAboVeK%c4%b1smiNerede) | N/A |
-| 41 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
-| 42 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
-| 43 | [#OsmanlıTOGGatıYükleniyor](http://twitter.com/search?q=%23Osmanl%c4%b1TOGGat%c4%b1Y%c3%bckleniyor) | N/A |
-| 44 | [#Sakarya](http://twitter.com/search?q=%23Sakarya) | N/A |
-| 45 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
-| 46 | [#Emekli14MayısıBekliyor](http://twitter.com/search?q=%23Emekli14May%c4%b1s%c4%b1Bekliyor) | N/A |
-| 47 | [#MebSosyaleSesVer](http://twitter.com/search?q=%23MebSosyaleSesVer) | N/A |
-| 48 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
-| 49 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 50 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
+| 8 | [Özgürlük İttifakı](http://twitter.com/search?q=%c3%96zg%c3%bcrl%c3%bck+%c4%b0ttifak%c4%b1) | N/A |
+| 9 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 10 | [Yusuf Demir](http://twitter.com/search?q=Yusuf+Demir) | Yusuf Demir is a Turkish name. It is composed of two parts: Yusuf, which means "God increases" in Arabic, and Demir, which means "iron" in Turkish. In English, the name would be translated as "God Increases Iron". |
+| 11 | [Süleymancılar](http://twitter.com/search?q=S%c3%bcleymanc%c4%b1lar) | N/A |
+| 12 | [Yüzük](http://twitter.com/search?q=Y%c3%bcz%c3%bck) | N/A |
+| 13 | [Tanzanya](http://twitter.com/search?q=Tanzanya) | N/A |
+| 14 | [Menzil](http://twitter.com/search?q=Menzil) | N/A |
+| 15 | [FATİHİN TORUNLARI GELİYOR](http://twitter.com/search?q=FAT%c4%b0H%c4%b0N+TORUNLARI+GEL%c4%b0YOR) | N/A |
+| 16 | [Emek](http://twitter.com/search?q=Emek) | N/A |
+| 17 | [Türk Devletleri Teşkilatı](http://twitter.com/search?q=T%c3%bcrk+Devletleri+Te%c5%9fkilat%c4%b1) | N/A |
+| 18 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 19 | [Dolar 19](http://twitter.com/search?q=Dolar+19) | N/A |
+| 20 | [Deprem Ağı](http://twitter.com/search?q=Deprem+A%c4%9f%c4%b1) | N/A |
+| 21 | [Özgür Demirtaş](http://twitter.com/search?q=%c3%96zg%c3%bcr+Demirta%c5%9f) | N/A |
+| 22 | [Siyasetten](http://twitter.com/search?q=Siyasetten) | N/A |
+| 23 | [Milli Eğitim Bakanlığı](http://twitter.com/search?q=Milli+E%c4%9fitim+Bakanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 24 | [Daye](http://twitter.com/search?q=Daye) | N/A |
+| 25 | [Manisa](http://twitter.com/search?q=Manisa) | N/A |
+| 26 | [Fenerbahçem](http://twitter.com/search?q=Fenerbah%c3%a7em) | N/A |
+| 27 | [Aday Adaylığı](http://twitter.com/search?q=Aday+Adayl%c4%b1%c4%9f%c4%b1) | N/A |
+| 28 | [SandıktanÖnce KadroGelsin](http://twitter.com/search?q=Sand%c4%b1ktan%c3%96nce+KadroGelsin) | N/A |
+| 29 | [Günü](http://twitter.com/search?q=G%c3%bcn%c3%bc) | N/A |
+| 30 | [Zorbay Küçük](http://twitter.com/search?q=Zorbay+K%c3%bc%c3%a7%c3%bck) | Zorbay Küçük is a Turkish phrase that translates to "tough little one." It is often used as an affectionate term for someone who is small but strong and resilient. |
+| 31 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 32 | [Şuursuz](http://twitter.com/search?q=%c5%9euursuz) | N/A |
+| 33 | [esad](http://twitter.com/search?q=esad) | N/A |
+| 34 | [Elma](http://twitter.com/search?q=Elma) | N/A |
+| 35 | [Akşama](http://twitter.com/search?q=Ak%c5%9fama) | N/A |
+| 36 | [Afganistan](http://twitter.com/search?q=Afganistan) | N/A |
+| 37 | [Sera Kadıgil](http://twitter.com/search?q=Sera+Kad%c4%b1gil) | N/A |
+| 38 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 39 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
+| 40 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 41 | [#düzce](http://twitter.com/search?q=%23d%c3%bczce) | N/A |
+| 42 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
+| 43 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
+| 44 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
+| 45 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
+| 46 | [#OsmanlıTOGGatıYükleniyor](http://twitter.com/search?q=%23Osmanl%c4%b1TOGGat%c4%b1Y%c3%bckleniyor) | N/A |
+| 47 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
+| 48 | [#5binAboVeKısmiNerede](http://twitter.com/search?q=%235binAboVeK%c4%b1smiNerede) | N/A |
+| 49 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
+| 50 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
 
 
 

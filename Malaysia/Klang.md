@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-16 14:18:06 UTC`
+📆 Last Updated: `2023-03-16 15:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
-| 3 | [#TrailerLoveMeAgain](http://twitter.com/search?q=%23TrailerLoveMeAgain) | N/A |
-| 4 | [doha](http://twitter.com/search?q=doha) | N/A |
-| 5 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 6 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
-| 7 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 8 | [#pH1inKL](http://twitter.com/search?q=%23pH1inKL) | N/A |
-| 9 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 10 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 11 | [OngTeo](http://twitter.com/search?q=OngTeo) | N/A |
-| 12 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 2 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
+| 3 | [Ng Tze Yong](http://twitter.com/search?q=Ng+Tze+Yong) | N/A |
+| 4 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 5 | [#TrailerLoveMeAgain](http://twitter.com/search?q=%23TrailerLoveMeAgain) | N/A |
+| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 7 | [#pH1inKL](http://twitter.com/search?q=%23pH1inKL) | N/A |
+| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 9 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 10 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 11 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 12 | [Axelsen](http://twitter.com/search?q=Axelsen) | Axelsen is a Danish surname derived from the given name Axel, which is a form of Absalom. The meaning of the name Axel is "father of peace". |
 | 13 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
 | 14 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
-| 15 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 16 | [KIM TAERAE](http://twitter.com/search?q=KIM+TAERAE) | N/A |
-| 17 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 18 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 15 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 16 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 17 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 18 | [ongteo](http://twitter.com/search?q=ongteo) | N/A |
 | 19 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 21 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 22 | [dongyeol](http://twitter.com/search?q=dongyeol) | N/A |
-| 23 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 24 | [Skye](http://twitter.com/search?q=Skye) | N/A |
+| 20 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 22 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 23 | [Skye](http://twitter.com/search?q=Skye) | N/A |
+| 24 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
 | 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 26 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
-| 27 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 28 | [ChiaSoh](http://twitter.com/search?q=ChiaSoh) | N/A |
-| 29 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
-| 30 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 31 | [MRT Putrajaya Line](http://twitter.com/search?q=MRT+Putrajaya+Line) | N/A |
-| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 33 | [giselle](http://twitter.com/search?q=giselle) | N/A |
-| 34 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 35 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 36 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 37 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 38 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 39 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
-| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 41 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 42 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
+| 26 | [dongyeol](http://twitter.com/search?q=dongyeol) | N/A |
+| 27 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 28 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 29 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 30 | [MRT Putrajaya Line](http://twitter.com/search?q=MRT+Putrajaya+Line) | N/A |
+| 31 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 32 | [giselle](http://twitter.com/search?q=giselle) | N/A |
+| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 34 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 35 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 36 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 37 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 38 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 39 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 40 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
 | 43 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 44 | [Gose](http://twitter.com/search?q=Gose) | N/A |
-| 45 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 45 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 46 | [Uqasha](http://twitter.com/search?q=Uqasha) | N/A |
 | 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 48 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 49 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 48 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 49 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-16 14:18:31 UTC`
+📆 Last Updated: `2023-03-16 15:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 2 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 3 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 4 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 5 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 6 | [#dissolution](http://twitter.com/search?q=%23dissolution) | N/A |
-| 7 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
-| 8 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 9 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 10 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 11 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 12 | [Brice Samba](http://twitter.com/search?q=Brice+Samba) | N/A |
-| 13 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 14 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
-| 15 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 16 | [Kalulu](http://twitter.com/search?q=Kalulu) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 20 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 23 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
-| 24 | [Leto](http://twitter.com/search?q=Leto) | N/A |
-| 25 | [Wesley Fofana](http://twitter.com/search?q=Wesley+Fofana) | N/A |
-| 26 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
-| 27 | [Francfort](http://twitter.com/search?q=Francfort) | N/A |
-| 28 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 29 | [Alexander Arnold](http://twitter.com/search?q=Alexander+Arnold) | N/A |
-| 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 31 | [Manifester](http://twitter.com/search?q=Manifester) | N/A |
-| 32 | [Chiche](http://twitter.com/search?q=Chiche) | N/A |
-| 33 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
-| 34 | [Équipe de France](http://twitter.com/search?q=%c3%89quipe+de+France) | N/A |
-| 35 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 36 | [Rachel Kéké](http://twitter.com/search?q=Rachel+K%c3%a9k%c3%a9) | N/A |
-| 37 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 38 | [Bégaudeau](http://twitter.com/search?q=B%c3%a9gaudeau) | N/A |
-| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 40 | [Maroc Brésil](http://twitter.com/search?q=Maroc+Br%c3%a9sil) | N/A |
-| 41 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 42 | [Libye](http://twitter.com/search?q=Libye) | N/A |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 44 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
-| 45 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 46 | [Toute la France](http://twitter.com/search?q=Toute+la+France) | N/A |
-| 47 | [Le Sénat](http://twitter.com/search?q=Le+S%c3%a9nat) | N/A |
-| 48 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 49 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
-| 50 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
+| 1 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 2 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 3 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
+| 4 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
+| 5 | [#ReformeRetraites](http://twitter.com/search?q=%23ReformeRetraites) | N/A |
+| 6 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 7 | [#MotionDeCensure](http://twitter.com/search?q=%23MotionDeCensure) | N/A |
+| 8 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
+| 9 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 10 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
+| 11 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 12 | [Areola](http://twitter.com/search?q=Areola) | N/A |
+| 13 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 14 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 15 | [#dissolution](http://twitter.com/search?q=%23dissolution) | N/A |
+| 16 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 17 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 18 | [Brice Samba](http://twitter.com/search?q=Brice+Samba) | N/A |
+| 19 | [Concorde](http://twitter.com/search?q=Concorde) | N/A |
+| 20 | [Ve République](http://twitter.com/search?q=Ve+R%c3%a9publique) | N/A |
+| 21 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 22 | [Kalulu](http://twitter.com/search?q=Kalulu) | N/A |
+| 23 | [Votez](http://twitter.com/search?q=Votez) | N/A |
+| 24 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 25 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 26 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 27 | [49.3 de la Constitution](http://twitter.com/search?q=49.3+de+la+Constitution) | N/A |
+| 28 | [Un 49.3](http://twitter.com/search?q=Un+49.3) | N/A |
+| 29 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
+| 30 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
+| 31 | [Équipe de France](http://twitter.com/search?q=%c3%89quipe+de+France) | N/A |
+| 32 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
+| 33 | [Espoirs](http://twitter.com/search?q=Espoirs) | N/A |
+| 34 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 35 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 36 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 37 | [La Première](http://twitter.com/search?q=La+Premi%c3%a8re) | N/A |
+| 38 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 39 | [Simakan](http://twitter.com/search?q=Simakan) | N/A |
+| 40 | [Révolution](http://twitter.com/search?q=R%c3%a9volution) | N/A |
+| 41 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 42 | [Matignon](http://twitter.com/search?q=Matignon) | N/A |
+| 43 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
+| 44 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 45 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 46 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 47 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 48 | [LREM](http://twitter.com/search?q=LREM) | N/A |
+| 49 | [S'abstenir](http://twitter.com/search?q=S%27abstenir) | N/A |
+| 50 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
 
 
 

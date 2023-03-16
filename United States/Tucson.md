@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-03-16 14:18:28 UTC`
+📆 Last Updated: `2023-03-16 15:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 2 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 3 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 4 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 5 | [#ForksUp](http://twitter.com/search?q=%23ForksUp) | N/A |
-| 6 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 7 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 8 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 9 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 10 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 11 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 12 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 13 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 14 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 15 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 16 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 17 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 18 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 19 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 20 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 21 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 22 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 23 | [Privatizing Social Security](http://twitter.com/search?q=Privatizing+Social+Security) | N/A |
-| 24 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 25 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 26 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
-| 27 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 28 | [Steve Austin](http://twitter.com/search?q=Steve+Austin) | N/A |
-| 29 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
-| 30 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 31 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 32 | [Natasha Owens](http://twitter.com/search?q=Natasha+Owens) | N/A |
-| 33 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 34 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
-| 35 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 36 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 37 | [The Pentagon](http://twitter.com/search?q=The+Pentagon) | N/A |
-| 38 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 39 | [Bruce Campbell](http://twitter.com/search?q=Bruce+Campbell) | N/A |
-| 40 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 41 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 42 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 43 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
-| 44 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 45 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 46 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 47 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 48 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 49 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 2 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 3 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 4 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 6 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 7 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 8 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 9 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 10 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 11 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 12 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 13 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
+| 14 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 15 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 16 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 17 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 18 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 19 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 20 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 21 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 22 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 23 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 24 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 25 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 26 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
+| 27 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 28 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 29 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 30 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 31 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 32 | [ichan](http://twitter.com/search?q=ichan) | N/A |
+| 33 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
+| 34 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 35 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 36 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 37 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 38 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 39 | [Kraven](http://twitter.com/search?q=Kraven) | N/A |
+| 40 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 41 | [Bigfoot](http://twitter.com/search?q=Bigfoot) | N/A |
+| 42 | [OH HELL YEAH](http://twitter.com/search?q=OH+HELL+YEAH) | N/A |
+| 43 | [James Madison](http://twitter.com/search?q=James+Madison) | N/A |
+| 44 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 45 | [Bruce Campbell](http://twitter.com/search?q=Bruce+Campbell) | N/A |
+| 46 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
+| 47 | [The ECB](http://twitter.com/search?q=The+ECB) | N/A |
+| 48 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
+| 49 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 
 
 

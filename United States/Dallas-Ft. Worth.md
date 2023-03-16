@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-16 14:18:22 UTC`
+📆 Last Updated: `2023-03-16 15:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [United States](</United States>)
 | 8 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 9 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
 | 10 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 11 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 12 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 14 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 15 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 16 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 11 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 12 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 13 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 14 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 15 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 16 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
 | 17 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 18 | [doha](http://twitter.com/search?q=doha) | N/A |
-| 19 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
-| 20 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
-| 21 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 22 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 23 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 24 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
-| 25 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 26 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 27 | [dongyeol](http://twitter.com/search?q=dongyeol) | N/A |
-| 28 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 29 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
-| 30 | [ichan](http://twitter.com/search?q=ichan) | N/A |
-| 31 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 32 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 33 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
-| 34 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 35 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 36 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 37 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 38 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 39 | [The ECB](http://twitter.com/search?q=The+ECB) | N/A |
-| 40 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 41 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
-| 42 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 43 | [Cade Cavalli](http://twitter.com/search?q=Cade+Cavalli) | N/A |
-| 44 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 45 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
-| 46 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 47 | [Oathbreaker](http://twitter.com/search?q=Oathbreaker) | N/A |
-| 48 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 49 | [merry christmas](http://twitter.com/search?q=merry+christmas) | N/A |
+| 18 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 19 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 20 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 21 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 22 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 23 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 24 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 25 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 26 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 27 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 28 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 29 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 30 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 31 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
+| 32 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 33 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
+| 34 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 35 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 36 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 37 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 38 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 39 | [ichan](http://twitter.com/search?q=ichan) | N/A |
+| 40 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 41 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 42 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 43 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 44 | [Kraven](http://twitter.com/search?q=Kraven) | N/A |
+| 45 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 46 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [Bigfoot](http://twitter.com/search?q=Bigfoot) | N/A |
+| 49 | [Merry Christmas](http://twitter.com/search?q=Merry+Christmas) | Merry Christmas is a phrase used to wish someone a happy and joyous holiday season. It is typically said during the Christmas season, which is celebrated on December 25th. The phrase is derived from the Old English phrase "Merry Cristes mæsse," which means "joyful Christ's Mass." |
 
 
 

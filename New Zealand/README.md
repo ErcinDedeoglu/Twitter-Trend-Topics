@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-16 14:18:34 UTC`
+📆 Last Updated: `2023-03-16 15:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for New Zealand
 | 2 | [#nbl23](http://twitter.com/search?q=%23nbl23) | N/A |
 | 3 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
 | 4 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
-| 5 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 6 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
-| 7 | [kuriger](http://twitter.com/search?q=kuriger) | N/A |
-| 8 | [#NRLManlyEels](http://twitter.com/search?q=%23NRLManlyEels) | N/A |
-| 9 | [Wayne Brown](http://twitter.com/search?q=Wayne+Brown) | Wayne Brown is a phrase used to describe someone who is a bit of a troublemaker or someone who likes to stir up trouble. It can also be used to describe someone who is a bit of a wild card or unpredictable. |
-| 10 | [Britomart](http://twitter.com/search?q=Britomart) | N/A |
-| 11 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 12 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 13 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 14 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 16 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
-| 17 | [peter dunne](http://twitter.com/search?q=peter+dunne) | N/A |
-| 18 | [#nblfinals](http://twitter.com/search?q=%23nblfinals) | N/A |
-| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 20 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 21 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 22 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 23 | [Coster](http://twitter.com/search?q=Coster) | N/A |
-| 24 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 25 | [rbnz](http://twitter.com/search?q=rbnz) | N/A |
-| 26 | [#unbreakable](http://twitter.com/search?q=%23unbreakable) | N/A |
-| 27 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 28 | [Council](http://twitter.com/search?q=Council) | N/A |
-| 29 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 30 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 31 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 32 | [Keating](http://twitter.com/search?q=Keating) | N/A |
-| 33 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
-| 34 | [grant robertson](http://twitter.com/search?q=grant+robertson) | N/A |
-| 35 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
-| 36 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 37 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 38 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 39 | [Aucklanders](http://twitter.com/search?q=Aucklanders) | N/A |
-| 40 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 41 | [Sean](http://twitter.com/search?q=Sean) | N/A |
-| 42 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 43 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 44 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 45 | [Classic](http://twitter.com/search?q=Classic) | N/A |
-| 46 | [New Zealander](http://twitter.com/search?q=New+Zealander) | N/A |
-| 47 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 48 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
-| 49 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 50 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 5 | [uffindell](http://twitter.com/search?q=uffindell) | N/A |
+| 6 | [kuriger](http://twitter.com/search?q=kuriger) | N/A |
+| 7 | [#nrlmanlyeels](http://twitter.com/search?q=%23nrlmanlyeels) | N/A |
+| 8 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 9 | [Britomart](http://twitter.com/search?q=Britomart) | N/A |
+| 10 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 11 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 12 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 13 | [wayne brown](http://twitter.com/search?q=wayne+brown) | N/A |
+| 14 | [Niwa](http://twitter.com/search?q=Niwa) | N/A |
+| 15 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 16 | [#nblfinals](http://twitter.com/search?q=%23nblfinals) | N/A |
+| 17 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 18 | [#TooManyCows](http://twitter.com/search?q=%23TooManyCows) | N/A |
+| 19 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 20 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 21 | [Pugh](http://twitter.com/search?q=Pugh) | N/A |
+| 22 | [coster](http://twitter.com/search?q=coster) | N/A |
+| 23 | [Bikini Kill](http://twitter.com/search?q=Bikini+Kill) | N/A |
+| 24 | [rbnz](http://twitter.com/search?q=rbnz) | N/A |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 26 | [police commissioner](http://twitter.com/search?q=police+commissioner) | N/A |
+| 27 | [Prime](http://twitter.com/search?q=Prime) | N/A |
+| 28 | [auckland council](http://twitter.com/search?q=auckland+council) | N/A |
+| 29 | [Peter Dunne](http://twitter.com/search?q=Peter+Dunne) | N/A |
+| 30 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 31 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 33 | [grant robertson](http://twitter.com/search?q=grant+robertson) | N/A |
+| 34 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 35 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
+| 36 | [Reserve Bank](http://twitter.com/search?q=Reserve+Bank) | N/A |
+| 37 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 38 | [kerre woodham](http://twitter.com/search?q=kerre+woodham) | N/A |
+| 39 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 40 | [Phew](http://twitter.com/search?q=Phew) | N/A |
+| 41 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 42 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 43 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 44 | [Leah](http://twitter.com/search?q=Leah) | N/A |
+| 45 | [megan woods](http://twitter.com/search?q=megan+woods) | N/A |
+| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 47 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 48 | [bronwyn elsmore](http://twitter.com/search?q=bronwyn+elsmore) | N/A |
+| 49 | [te pūkenga](http://twitter.com/search?q=te+p%c5%abkenga) | N/A |
+| 50 | [Samoa](http://twitter.com/search?q=Samoa) | N/A |
 
 
 

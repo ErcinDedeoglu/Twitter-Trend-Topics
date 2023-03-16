@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-03-16 14:18:28 UTC`
+📆 Last Updated: `2023-03-16 15:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 2 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 3 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 4 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 6 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 7 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 8 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 9 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 11 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 12 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 13 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 14 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 15 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 16 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 17 | [Privatizing Social Security](http://twitter.com/search?q=Privatizing+Social+Security) | N/A |
-| 18 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 19 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 20 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
-| 21 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 22 | [Steve Austin](http://twitter.com/search?q=Steve+Austin) | N/A |
-| 23 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
+| 2 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 3 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 4 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 6 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 8 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 9 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 10 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 11 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 12 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 13 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 15 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 16 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 17 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 18 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 19 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 20 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 21 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 22 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 23 | [doha](http://twitter.com/search?q=doha) | N/A |
 | 24 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 25 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 26 | [Natasha Owens](http://twitter.com/search?q=Natasha+Owens) | N/A |
-| 27 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 28 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
-| 29 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 30 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 31 | [The Pentagon](http://twitter.com/search?q=The+Pentagon) | N/A |
-| 32 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 33 | [Bruce Campbell](http://twitter.com/search?q=Bruce+Campbell) | N/A |
-| 34 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 35 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 36 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 37 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
-| 38 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 39 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 40 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 41 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 42 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 43 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 44 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 45 | [Libya](http://twitter.com/search?q=Libya) | N/A |
-| 46 | [Reparations](http://twitter.com/search?q=Reparations) | N/A |
-| 47 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 48 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
-| 49 | [Puerto Ricans](http://twitter.com/search?q=Puerto+Ricans) | N/A |
-| 50 | [Swiss National Bank](http://twitter.com/search?q=Swiss+National+Bank) | N/A |
+| 25 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 26 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 27 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
+| 28 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 29 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 30 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 31 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 32 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
+| 33 | [ichan](http://twitter.com/search?q=ichan) | N/A |
+| 34 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 35 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 36 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 37 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 38 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 39 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 40 | [Kraven](http://twitter.com/search?q=Kraven) | N/A |
+| 41 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 42 | [Bigfoot](http://twitter.com/search?q=Bigfoot) | N/A |
+| 43 | [OH HELL YEAH](http://twitter.com/search?q=OH+HELL+YEAH) | N/A |
+| 44 | [James Madison](http://twitter.com/search?q=James+Madison) | N/A |
+| 45 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 46 | [Bruce Campbell](http://twitter.com/search?q=Bruce+Campbell) | N/A |
+| 47 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
+| 48 | [The ECB](http://twitter.com/search?q=The+ECB) | N/A |
+| 49 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
+| 50 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 
 
 

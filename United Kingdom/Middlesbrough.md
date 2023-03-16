@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-03-16 14:17:42 UTC`
+📆 Last Updated: `2023-03-16 15:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 2 | [Stefan Bajcetic](http://twitter.com/search?q=Stefan+Bajcetic) | N/A |
-| 3 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 4 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 1 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 2 | [Colwill](http://twitter.com/search?q=Colwill) | N/A |
+| 3 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 4 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
 | 5 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 6 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |
-| 7 | [#innovation](http://twitter.com/search?q=%23innovation) | N/A |
-| 8 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
-| 9 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 10 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
-| 11 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 12 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 13 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 14 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 15 | [Harry Cobden](http://twitter.com/search?q=Harry+Cobden) | N/A |
-| 16 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 17 | [Tyrone Mings](http://twitter.com/search?q=Tyrone+Mings) | N/A |
-| 18 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 19 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
-| 20 | [Forde](http://twitter.com/search?q=Forde) | N/A |
-| 21 | [Appreciate It](http://twitter.com/search?q=Appreciate+It) | N/A |
-| 22 | [RIP Don](http://twitter.com/search?q=RIP+Don) | N/A |
-| 23 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 24 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 25 | [Falkirk](http://twitter.com/search?q=Falkirk) | N/A |
-| 26 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 27 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 28 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
-| 29 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 30 | [Davy](http://twitter.com/search?q=Davy) | N/A |
-| 31 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 32 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 33 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
-| 34 | [Jasmin](http://twitter.com/search?q=Jasmin) | N/A |
-| 35 | [Guehi](http://twitter.com/search?q=Guehi) | N/A |
-| 36 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 37 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
-| 38 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 39 | [Inverness](http://twitter.com/search?q=Inverness) | N/A |
-| 40 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 41 | [Paisley Park](http://twitter.com/search?q=Paisley+Park) | N/A |
-| 42 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 43 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 44 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
-| 45 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 46 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
-| 47 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
-| 48 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 6 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 7 | [john lewis](http://twitter.com/search?q=john+lewis) | N/A |
+| 8 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 9 | [#ScienceWeek](http://twitter.com/search?q=%23ScienceWeek) | N/A |
+| 10 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
+| 11 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 12 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 13 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 16 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 17 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
+| 18 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 19 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 20 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 21 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
+| 22 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 23 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 24 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
+| 25 | [Guehi](http://twitter.com/search?q=Guehi) | N/A |
+| 26 | [Good Time Jonny](http://twitter.com/search?q=Good+Time+Jonny) | N/A |
+| 27 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 28 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 29 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 30 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
+| 31 | [Italy and Ukraine](http://twitter.com/search?q=Italy+and+Ukraine) | N/A |
+| 32 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 33 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 34 | [Mill Green](http://twitter.com/search?q=Mill+Green) | N/A |
+| 35 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
+| 36 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 37 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 38 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 39 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
+| 40 | [Ryanair Chase](http://twitter.com/search?q=Ryanair+Chase) | N/A |
+| 41 | [Brice](http://twitter.com/search?q=Brice) | N/A |
+| 42 | [Harry Cobden](http://twitter.com/search?q=Harry+Cobden) | N/A |
+| 43 | [Davy Russell](http://twitter.com/search?q=Davy+Russell) | N/A |
+| 44 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 45 | [RIP Don](http://twitter.com/search?q=RIP+Don) | N/A |
+| 46 | [dazn](http://twitter.com/search?q=dazn) | N/A |
+| 47 | [Don Megson](http://twitter.com/search?q=Don+Megson) | N/A |
+| 48 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
 
 
 

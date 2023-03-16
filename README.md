@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-16 14:17:39 UTC`
+📆 Last Updated: `2023-03-16 15:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 2 | [#WBC](http://twitter.com/search?q=%23WBC) | #WBC stands for World Boxing Council, which is an international governing body for professional boxing. It was founded in 1963 and is based in Mexico City. The WBC sanctions world championship boxing matches, and awards the iconic green and gold WBC championship belt to the winner of each division. |
-| 3 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
-| 4 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
-| 5 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
-| 6 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 7 | [村上くん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%8f%e3%82%93) | 村上くん is a Japanese nickname for Murakami, a popular Japanese author. It literally translates to "Mr. Murakami". |
-| 8 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
+| 1 | [#キンプリMV1億回おめでとう](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aaMV1%e5%84%84%e5%9b%9e%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
+| 2 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 3 | [マイアミ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%82%a2%e3%83%9f) | N/A |
+| 4 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
+| 5 | [準決勝進出](http://twitter.com/search?q=%e6%ba%96%e6%b1%ba%e5%8b%9d%e9%80%b2%e5%87%ba) | N/A |
+| 6 | [#KingandPrince](http://twitter.com/search?q=%23KingandPrince) | #KingandPrince is a hashtag used to promote the Japanese boy band King & Prince. The hashtag is used to share news, updates, and fan content related to the group. In English, it translates to "King and Prince". |
+| 7 | [#ツキヨミ](http://twitter.com/search?q=%23%e3%83%84%e3%82%ad%e3%83%a8%e3%83%9f) | N/A |
+| 8 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
 | 9 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 10 | [伊藤大海](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e5%a4%a7%e6%b5%b7) | N/A |
-| 11 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
-| 12 | [吉田正尚](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e6%ad%a3%e5%b0%9a) | N/A |
-| 13 | [ネッシー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc) | N/A |
-| 14 | [タイムリー](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%aa%e3%83%bc) | N/A |
-| 15 | [大谷のバント](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%ae%e3%83%90%e3%83%b3%e3%83%88) | N/A |
-| 16 | [マイアミ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%82%a2%e3%83%9f) | N/A |
-| 17 | [村上さん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%95%e3%82%93) | 村上さん is a Japanese honorific title used to refer to someone with the surname Murakami. It is similar to the English title of "Mr. Murakami". |
-| 18 | [村上選手](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e9%81%b8%e6%89%8b) | N/A |
-| 19 | [#素のまんま](http://twitter.com/search?q=%23%e7%b4%a0%e3%81%ae%e3%81%be%e3%82%93%e3%81%be) | #素のまんま is a Japanese phrase that literally translates to "as is" or "just as it is". It is used to express that something should remain unchanged or unaltered. |
-| 20 | [ダルさん](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%81%95%e3%82%93) | N/A |
-| 21 | [岡本さん](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
-| 22 | [準決勝進出](http://twitter.com/search?q=%e6%ba%96%e6%b1%ba%e5%8b%9d%e9%80%b2%e5%87%ba) | N/A |
-| 23 | [#bolu](http://twitter.com/search?q=%23bolu) | N/A |
-| 24 | [岡本和真](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e5%92%8c%e7%9c%9f) | N/A |
-| 25 | [岡本選手](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e9%81%b8%e6%89%8b) | N/A |
-| 26 | [#TaokaenoiXFreenBeckyLive](http://twitter.com/search?q=%23TaokaenoiXFreenBeckyLive) | N/A |
-| 27 | [イーウィヤ](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%a6%e3%82%a3%e3%83%a4) | N/A |
-| 28 | [セーフティ](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%95%e3%83%86%e3%82%a3) | N/A |
-| 29 | [サインミス](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%b3%e3%83%9f%e3%82%b9) | N/A |
-| 30 | [ストライク](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%af) | N/A |
-| 31 | [ブルペン](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%9a%e3%83%b3) | N/A |
-| 32 | [ナイスピッチング](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%94%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0) | N/A |
-| 33 | [スライダー](http://twitter.com/search?q=%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 34 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
-| 35 | [ファールボール](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ab%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 36 | [岡本くん](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e3%81%8f%e3%82%93) | N/A |
-| 37 | [ナイスバッティング](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%90%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 38 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
-| 39 | [スリーラン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
-| 40 | [リリーフ](http://twitter.com/search?q=%e3%83%aa%e3%83%aa%e3%83%bc%e3%83%95) | N/A |
-| 41 | [源田さん](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 42 | [村神さま](http://twitter.com/search?q=%e6%9d%91%e7%a5%9e%e3%81%95%e3%81%be) | N/A |
-| 43 | [巨人の4番](http://twitter.com/search?q=%e5%b7%a8%e4%ba%ba%e3%81%ae4%e7%95%aa) | N/A |
-| 44 | [吉田選手](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e9%81%b8%e6%89%8b) | N/A |
-| 45 | [オオタニさん](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%81%95%e3%82%93) | N/A |
-| 46 | [今永さん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%95%e3%82%93) | N/A |
-| 47 | [今永先生](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e5%85%88%e7%94%9f) | N/A |
-| 48 | [日本先制](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%85%88%e5%88%b6) | N/A |
-| 49 | [栗山監督](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e7%9b%a3%e7%9d%a3) | 栗山監督 is a Japanese term that refers to a director or supervisor. It literally translates to "Chestnut Mountain Director". |
-| 50 | [バッター](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%82%bf%e3%83%bc) | N/A |
+| 10 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
+| 11 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 12 | [ティアラ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%a9) | N/A |
+| 13 | [ベスト4](http://twitter.com/search?q=%e3%83%99%e3%82%b9%e3%83%884) | ベスト4 is a term used in Japan to refer to the top four teams in a competition or tournament. It literally translates to "best four" in English. |
+| 14 | [ナイスゲーム](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%82%b2%e3%83%bc%e3%83%a0) | ナイスゲーム (naisu geemu) is a Japanese phrase that translates to "nice game" in English. It is typically used as a congratulatory phrase after a game or match has been completed. |
+| 15 | [慶ちゃん](http://twitter.com/search?q=%e6%85%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 16 | [#トークィーンズ](http://twitter.com/search?q=%23%e3%83%88%e3%83%bc%e3%82%af%e3%82%a3%e3%83%bc%e3%83%b3%e3%82%ba) | N/A |
+| 17 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 19 | [岡本選手](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e9%81%b8%e6%89%8b) | N/A |
+| 20 | [侍JAPAN](http://twitter.com/search?q=%e4%be%8dJAPAN) | N/A |
+| 21 | [村上くん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%8f%e3%82%93) | 村上くん is a Japanese nickname for Murakami, a popular Japanese author. It literally translates to "Mr. Murakami". |
+| 22 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
+| 23 | [吉田正尚](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e6%ad%a3%e5%b0%9a) | N/A |
+| 24 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 25 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 26 | [Kandidat Menteri](http://twitter.com/search?q=Kandidat+Menteri) | N/A |
+| 27 | [栗山監督](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e7%9b%a3%e7%9d%a3) | 栗山監督 is a Japanese term that refers to a director or supervisor. It literally translates to "Chestnut Mountain Director". |
+| 28 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 29 | [Twitter開設](http://twitter.com/search?q=Twitter%e9%96%8b%e8%a8%ad) | Twitter開設 is a Japanese phrase that translates to "setting up a Twitter account". It refers to the process of creating an account on the social media platform Twitter. |
+| 30 | [日本勝利](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%8b%9d%e5%88%a9) | N/A |
+| 31 | [タイムリー](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%aa%e3%83%bc) | N/A |
+| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 33 | [ヒーローインタビュー](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
+| 34 | [小山さん](http://twitter.com/search?q=%e5%b0%8f%e5%b1%b1%e3%81%95%e3%82%93) | N/A |
+| 35 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
+| 36 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 37 | [伊藤大海](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e5%a4%a7%e6%b5%b7) | N/A |
+| 38 | [ジャンハオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8f%e3%82%aa) | N/A |
+| 39 | [TOMBOY](http://twitter.com/search?q=TOMBOY) | N/A |
+| 40 | [村上選手](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e9%81%b8%e6%89%8b) | N/A |
+| 41 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 42 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 43 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
+| 44 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
+| 45 | [ネッシー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc) | N/A |
+| 46 | [フロリダ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%aa%e3%83%80) | N/A |
+| 47 | [岡本さん](http://twitter.com/search?q=%e5%b2%a1%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
+| 48 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 49 | [トレンド1位](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%b3%e3%83%891%e4%bd%8d) | トレンド1位 is a Japanese phrase that translates to "trending number one". It is used to refer to something that is currently the most popular or talked about topic on social media. |
+| 50 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
 
 
 

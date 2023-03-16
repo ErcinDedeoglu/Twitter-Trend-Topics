@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-16 14:18:22 UTC`
+📆 Last Updated: `2023-03-16 15:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,50 @@ This is top 50 for [United States](</United States>)
 | 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 2 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
 | 3 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 4 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 5 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 6 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 7 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 5 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 6 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 7 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
 | 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 10 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 12 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 13 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 14 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 15 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 16 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 17 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 18 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 19 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 20 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 21 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 22 | [Privatizing Social Security](http://twitter.com/search?q=Privatizing+Social+Security) | N/A |
+| 9 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 11 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 12 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 13 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 14 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 15 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 16 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 17 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 18 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 19 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 20 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 21 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 22 | [mnet](http://twitter.com/search?q=mnet) | N/A |
 | 23 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 24 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 25 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
-| 26 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 27 | [Steve Austin](http://twitter.com/search?q=Steve+Austin) | N/A |
-| 28 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
+| 24 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 25 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 26 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 27 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 28 | [Furman](http://twitter.com/search?q=Furman) | N/A |
 | 29 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 30 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 31 | [Natasha Owens](http://twitter.com/search?q=Natasha+Owens) | N/A |
-| 32 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 33 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
-| 34 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 35 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 36 | [The Pentagon](http://twitter.com/search?q=The+Pentagon) | N/A |
-| 37 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 38 | [Bruce Campbell](http://twitter.com/search?q=Bruce+Campbell) | N/A |
-| 39 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 40 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 41 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 42 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
-| 43 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 44 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 45 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 46 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 47 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 48 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 49 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 30 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 31 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
+| 32 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
+| 33 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 34 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 35 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 36 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 37 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 38 | [ichan](http://twitter.com/search?q=ichan) | N/A |
+| 39 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 40 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 41 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 42 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 43 | [Kraven](http://twitter.com/search?q=Kraven) | N/A |
+| 44 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 45 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 47 | [Bigfoot](http://twitter.com/search?q=Bigfoot) | N/A |
 
 
 

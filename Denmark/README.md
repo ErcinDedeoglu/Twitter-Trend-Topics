@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-16 14:18:30 UTC`
+📆 Last Updated: `2023-03-16 15:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Denmark
 | 1 | [#kltop23](http://twitter.com/search?q=%23kltop23) | N/A |
 | 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 3 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
-| 4 | [capellas](http://twitter.com/search?q=capellas) | N/A |
-| 5 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
-| 6 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
-| 7 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 8 | [Berlingske](http://twitter.com/search?q=Berlingske) | N/A |
-| 9 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 10 | [Tænker](http://twitter.com/search?q=T%c3%a6nker) | N/A |
-| 11 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 12 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
-| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 14 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
-| 15 | [#kompoldk](http://twitter.com/search?q=%23kompoldk) | N/A |
-| 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 18 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
-| 19 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 20 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 21 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
-| 22 | [hermansen](http://twitter.com/search?q=hermansen) | N/A |
-| 23 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 25 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 26 | [Alex Vanopslagh](http://twitter.com/search?q=Alex+Vanopslagh) | N/A |
-| 27 | [jelert](http://twitter.com/search?q=jelert) | N/A |
-| 28 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 29 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 30 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
-| 31 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 32 | [flot](http://twitter.com/search?q=flot) | N/A |
-| 33 | [Folketingets](http://twitter.com/search?q=Folketingets) | N/A |
-| 34 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 35 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 36 | [Husk](http://twitter.com/search?q=Husk) | N/A |
-| 37 | [Claus](http://twitter.com/search?q=Claus) | N/A |
-| 38 | [Norge](http://twitter.com/search?q=Norge) | N/A |
-| 39 | [Enhedslisten](http://twitter.com/search?q=Enhedslisten) | N/A |
-| 40 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 42 | [Vesten](http://twitter.com/search?q=Vesten) | N/A |
-| 43 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
-| 44 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 45 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
-| 46 | [siger](http://twitter.com/search?q=siger) | N/A |
-| 47 | [esbjerg](http://twitter.com/search?q=esbjerg) | N/A |
-| 48 | [Russerne](http://twitter.com/search?q=Russerne) | N/A |
-| 49 | [Odense](http://twitter.com/search?q=Odense) | N/A |
-| 50 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 4 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 5 | [Berlingske](http://twitter.com/search?q=Berlingske) | N/A |
+| 6 | [Løkke](http://twitter.com/search?q=L%c3%b8kke) | N/A |
+| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 8 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 9 | [#kompoldk](http://twitter.com/search?q=%23kompoldk) | N/A |
+| 10 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 11 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 12 | [hjulmand](http://twitter.com/search?q=hjulmand) | N/A |
+| 13 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 14 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
+| 15 | [jelert](http://twitter.com/search?q=jelert) | N/A |
+| 16 | [Vanopslagh](http://twitter.com/search?q=Vanopslagh) | N/A |
+| 17 | [Mette F](http://twitter.com/search?q=Mette+F) | N/A |
+| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 19 | [#dktrp](http://twitter.com/search?q=%23dktrp) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 22 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 23 | [Folketingets](http://twitter.com/search?q=Folketingets) | N/A |
+| 24 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
+| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 26 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 27 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 28 | [Claus](http://twitter.com/search?q=Claus) | N/A |
+| 29 | [Russerne](http://twitter.com/search?q=Russerne) | N/A |
+| 30 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 31 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 32 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 33 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
+| 34 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 35 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
+| 36 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 37 | [Socialdemokratiet](http://twitter.com/search?q=Socialdemokratiet) | N/A |
+| 38 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 39 | [faktisk](http://twitter.com/search?q=faktisk) | N/A |
+| 40 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 41 | [Enhedslisten](http://twitter.com/search?q=Enhedslisten) | N/A |
+| 42 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 43 | [Sovjet](http://twitter.com/search?q=Sovjet) | N/A |
+| 44 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 46 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
+| 47 | [vestjylland](http://twitter.com/search?q=vestjylland) | N/A |
+| 48 | [Danske Bank](http://twitter.com/search?q=Danske+Bank) | N/A |
+| 49 | [vallys](http://twitter.com/search?q=vallys) | N/A |
+| 50 | [Krim](http://twitter.com/search?q=Krim) | N/A |
 
 
 

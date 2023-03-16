@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-16 14:18:21 UTC`
+📆 Last Updated: `2023-03-16 15:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 3 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 4 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 5 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 6 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 7 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 8 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 9 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 10 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 11 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 13 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 14 | [doha](http://twitter.com/search?q=doha) | N/A |
-| 15 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
-| 16 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
-| 17 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 18 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 2 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 3 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 4 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 6 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 8 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 9 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 10 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 11 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 12 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 13 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 14 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 15 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 16 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 17 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 18 | [mnet](http://twitter.com/search?q=mnet) | N/A |
 | 19 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 20 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
-| 21 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
-| 22 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 23 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 24 | [dongyeol](http://twitter.com/search?q=dongyeol) | N/A |
-| 25 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 26 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
-| 27 | [ichan](http://twitter.com/search?q=ichan) | N/A |
-| 28 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 29 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 30 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 31 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 32 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 33 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 34 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 35 | [The ECB](http://twitter.com/search?q=The+ECB) | N/A |
-| 36 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 37 | [Privatizing Social Security](http://twitter.com/search?q=Privatizing+Social+Security) | N/A |
-| 38 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
-| 39 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 40 | [Cade Cavalli](http://twitter.com/search?q=Cade+Cavalli) | N/A |
-| 41 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 42 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
-| 43 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 44 | [oathbreaker](http://twitter.com/search?q=oathbreaker) | N/A |
-| 45 | [merry christmas](http://twitter.com/search?q=merry+christmas) | N/A |
-| 46 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 47 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 48 | [Natasha Owens](http://twitter.com/search?q=Natasha+Owens) | N/A |
-| 49 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 50 | [James Madison](http://twitter.com/search?q=James+Madison) | N/A |
+| 20 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 21 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 22 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 23 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 24 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 25 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 26 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 27 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
+| 28 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
+| 29 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 30 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 31 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 32 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 33 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 34 | [ichan](http://twitter.com/search?q=ichan) | N/A |
+| 35 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
+| 36 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 37 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 38 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 39 | [Kraven](http://twitter.com/search?q=Kraven) | N/A |
+| 40 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 41 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 43 | [Bigfoot](http://twitter.com/search?q=Bigfoot) | N/A |
+| 44 | [OH HELL YEAH](http://twitter.com/search?q=OH+HELL+YEAH) | N/A |
+| 45 | [James Madison](http://twitter.com/search?q=James+Madison) | N/A |
+| 46 | [Bruce Campbell](http://twitter.com/search?q=Bruce+Campbell) | N/A |
+| 47 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
+| 48 | [The ECB](http://twitter.com/search?q=The+ECB) | N/A |
+| 49 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
 
 
 
