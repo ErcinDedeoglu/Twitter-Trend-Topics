@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-16 09:17:33 UTC`
+📆 Last Updated: `2023-03-16 10:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,12 +36,12 @@ This is top 50 for Guatemala
 | 19 | [Quimi](http://twitter.com/search?q=Quimi) | N/A |
 | 20 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 21 | [gerardo hernández](http://twitter.com/search?q=gerardo+hern%c3%a1ndez) | N/A |
-| 22 | [Chimaltenango](http://twitter.com/search?q=Chimaltenango) | N/A |
+| 22 | [chimaltenango](http://twitter.com/search?q=chimaltenango) | N/A |
 | 23 | [#15MdeRodolfitos](http://twitter.com/search?q=%2315MdeRodolfitos) | N/A |
 | 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 26 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 27 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 27 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 29 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
 | 30 | [FECI](http://twitter.com/search?q=FECI) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for Guatemala
 | 38 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
 | 39 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
 | 40 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 41 | [Arzú](http://twitter.com/search?q=Arz%c3%ba) | N/A |
+| 41 | [arzú](http://twitter.com/search?q=arz%c3%ba) | N/A |
 | 42 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
 | 43 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 46 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 47 | [panzós](http://twitter.com/search?q=panz%c3%b3s) | N/A |
-| 48 | [Puras](http://twitter.com/search?q=Puras) | N/A |
-| 49 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 50 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 45 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 46 | [panzós](http://twitter.com/search?q=panz%c3%b3s) | N/A |
+| 47 | [Puras](http://twitter.com/search?q=Puras) | N/A |
+| 48 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 49 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 50 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
 
 
 

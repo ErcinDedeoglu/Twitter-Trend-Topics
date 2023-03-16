@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-16 09:16:44 UTC`
+📆 Last Updated: `2023-03-16 10:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Canada](</Canada>)
 | 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 8 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
+| 7 | [#ISA2023](http://twitter.com/search?q=%23ISA2023) | N/A |
+| 8 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
 | 9 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 10 | [Harper](http://twitter.com/search?q=Harper) | N/A |
-| 11 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 12 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 13 | [Governor General](http://twitter.com/search?q=Governor+General) | N/A |
-| 14 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 10 | [#nlwx](http://twitter.com/search?q=%23nlwx) | N/A |
+| 11 | [Harper](http://twitter.com/search?q=Harper) | N/A |
+| 12 | [Governor General](http://twitter.com/search?q=Governor+General) | N/A |
+| 13 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 14 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
 | 15 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
 | 16 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 17 | [#dominospiday](http://twitter.com/search?q=%23dominospiday) | N/A |
-| 18 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 19 | [paul arcand](http://twitter.com/search?q=paul+arcand) | N/A |
-| 20 | [louisette dussault](http://twitter.com/search?q=louisette+dussault) | N/A |
-| 21 | [otto lopez](http://twitter.com/search?q=otto+lopez) | N/A |
-| 22 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 23 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 24 | [Carson Briere](http://twitter.com/search?q=Carson+Briere) | N/A |
-| 25 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 26 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
-| 27 | [MORGAN RIELLY](http://twitter.com/search?q=MORGAN+RIELLY) | N/A |
-| 28 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 29 | [patrick lagacé](http://twitter.com/search?q=patrick+lagac%c3%a9) | N/A |
-| 30 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 32 | [Lisa LaFlamme](http://twitter.com/search?q=Lisa+LaFlamme) | N/A |
-| 33 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 34 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
-| 35 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
-| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 37 | [Happy PI](http://twitter.com/search?q=Happy+PI) | N/A |
-| 38 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 39 | [Gardiner](http://twitter.com/search?q=Gardiner) | N/A |
-| 40 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 41 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 42 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 43 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 44 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 17 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 18 | [paul arcand](http://twitter.com/search?q=paul+arcand) | N/A |
+| 19 | [otto lopez](http://twitter.com/search?q=otto+lopez) | N/A |
+| 20 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
+| 21 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 22 | [Carson Briere](http://twitter.com/search?q=Carson+Briere) | N/A |
+| 23 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 24 | [MORGAN RIELLY](http://twitter.com/search?q=MORGAN+RIELLY) | N/A |
+| 25 | [patrick lagacé](http://twitter.com/search?q=patrick+lagac%c3%a9) | N/A |
+| 26 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 27 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
+| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 29 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
+| 30 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 31 | [Nicole Matthews](http://twitter.com/search?q=Nicole+Matthews) | N/A |
+| 32 | [Happy PI](http://twitter.com/search?q=Happy+PI) | N/A |
+| 33 | [Lisa LaFlamme](http://twitter.com/search?q=Lisa+LaFlamme) | N/A |
+| 34 | [Gardiner](http://twitter.com/search?q=Gardiner) | N/A |
+| 35 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 36 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 37 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 38 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 39 | [Julius Caesar](http://twitter.com/search?q=Julius+Caesar) | N/A |
+| 40 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 41 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 42 | [Bettman](http://twitter.com/search?q=Bettman) | N/A |
+| 43 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 45 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 46 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 47 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 48 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 49 | [Bettman](http://twitter.com/search?q=Bettman) | N/A |
+| 46 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 47 | [fonderie horne](http://twitter.com/search?q=fonderie+horne) | N/A |
+| 48 | [Coyne](http://twitter.com/search?q=Coyne) | N/A |
+| 49 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
 
 
 

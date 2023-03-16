@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-16 09:17:19 UTC`
+📆 Last Updated: `2023-03-16 10:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LineLagJayegi](http://twitter.com/search?q=%23LineLagJayegi) | N/A |
-| 2 | [#33wChampionCharging](http://twitter.com/search?q=%2333wChampionCharging) | N/A |
-| 3 | [#vivoV27](http://twitter.com/search?q=%23vivoV27) | N/A |
-| 4 | [#HBDayDrAjayBassi](http://twitter.com/search?q=%23HBDayDrAjayBassi) | N/A |
-| 5 | [Designed For Indian Weddings](http://twitter.com/search?q=Designed+For+Indian+Weddings) | N/A |
-| 6 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
-| 7 | [Mandala](http://twitter.com/search?q=Mandala) | N/A |
-| 8 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 9 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 10 | [PRA TEJA REUNION](http://twitter.com/search?q=PRA+TEJA+REUNION) | N/A |
-| 11 | [Feedback Unit](http://twitter.com/search?q=Feedback+Unit) | N/A |
-| 12 | [Justice4SSR Longest Satyagraha](http://twitter.com/search?q=Justice4SSR+Longest+Satyagraha) | N/A |
-| 13 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 14 | [India TV](http://twitter.com/search?q=India+TV) | N/A |
-| 15 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 16 | [प्रथम रक्षा प्रमुख](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 17 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
-| 18 | [Saint Rampal Ji](http://twitter.com/search?q=Saint+Rampal+Ji) | N/A |
-| 19 | [होल्कर वंश](http://twitter.com/search?q=%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%82%e0%a4%b6) | N/A |
-| 20 | [इंडिया टीवी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%9f%e0%a5%80%e0%a4%b5%e0%a5%80) | N/A |
-| 21 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 22 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 23 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 24 | [Asharamji Bapu Case](http://twitter.com/search?q=Asharamji+Bapu+Case) | N/A |
-| 25 | [Request To GOI](http://twitter.com/search?q=Request+To+GOI) | N/A |
-| 26 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 27 | [Release Innocent Saint](http://twitter.com/search?q=Release+Innocent+Saint) | N/A |
-| 28 | [राम मंदिर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 29 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
-| 30 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 32 | [Anuj](http://twitter.com/search?q=Anuj) | N/A |
-| 33 | [#MissionAceTheIndex](http://twitter.com/search?q=%23MissionAceTheIndex) | N/A |
-| 34 | [#NationalVaccinationDay](http://twitter.com/search?q=%23NationalVaccinationDay) | N/A |
-| 35 | [#AlmiraWallet](http://twitter.com/search?q=%23AlmiraWallet) | N/A |
-| 36 | [#ArunachalPradesh](http://twitter.com/search?q=%23ArunachalPradesh) | N/A |
-| 37 | [#HyderabadRains](http://twitter.com/search?q=%23HyderabadRains) | N/A |
-| 38 | [#BipinRawat](http://twitter.com/search?q=%23BipinRawat) | N/A |
-| 39 | [#HelicopterCrash](http://twitter.com/search?q=%23HelicopterCrash) | N/A |
-| 40 | [#RetailSamvad](http://twitter.com/search?q=%23RetailSamvad) | N/A |
-| 41 | [#DMGheravBharatpur](http://twitter.com/search?q=%23DMGheravBharatpur) | N/A |
-| 42 | [#CheetahHelicopter](http://twitter.com/search?q=%23CheetahHelicopter) | N/A |
-| 43 | [#MehboobaMufti](http://twitter.com/search?q=%23MehboobaMufti) | N/A |
-| 44 | [#HBDayCRPaatil](http://twitter.com/search?q=%23HBDayCRPaatil) | N/A |
-| 45 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 46 | [#NobelPeacePrize](http://twitter.com/search?q=%23NobelPeacePrize) | N/A |
-| 47 | [#OMG2](http://twitter.com/search?q=%23OMG2) | N/A |
-| 48 | [#IndianArmy](http://twitter.com/search?q=%23IndianArmy) | N/A |
-| 49 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
+| 1 | [#ShankhaMoGarba](http://twitter.com/search?q=%23ShankhaMoGarba) | N/A |
+| 2 | [#AlmiraWallet](http://twitter.com/search?q=%23AlmiraWallet) | N/A |
+| 3 | [#SaveTheWeavers](http://twitter.com/search?q=%23SaveTheWeavers) | N/A |
+| 4 | [#vivoV27](http://twitter.com/search?q=%23vivoV27) | N/A |
+| 5 | [Mandala](http://twitter.com/search?q=Mandala) | N/A |
+| 6 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 7 | [Sher](http://twitter.com/search?q=Sher) | N/A |
+| 8 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
+| 9 | [Bomdila](http://twitter.com/search?q=Bomdila) | N/A |
+| 10 | [Designed For Indian Weddings](http://twitter.com/search?q=Designed+For+Indian+Weddings) | N/A |
+| 11 | [कोल्ड स्टोर](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%b2%e0%a5%8d%e0%a4%a1+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0) | N/A |
+| 12 | [Feedback Unit](http://twitter.com/search?q=Feedback+Unit) | N/A |
+| 13 | [Justice4SSR Longest Satyagraha](http://twitter.com/search?q=Justice4SSR+Longest+Satyagraha) | N/A |
+| 14 | [PRA TEJA REUNION](http://twitter.com/search?q=PRA+TEJA+REUNION) | N/A |
+| 15 | [Asle Toje](http://twitter.com/search?q=Asle+Toje) | N/A |
+| 16 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
+| 17 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 18 | [India TV](http://twitter.com/search?q=India+TV) | N/A |
+| 19 | [Saint Rampal Ji](http://twitter.com/search?q=Saint+Rampal+Ji) | N/A |
+| 20 | [रक्षा प्रमुख](http://twitter.com/search?q=%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
+| 21 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
+| 22 | [होल्कर वंश](http://twitter.com/search?q=%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%82%e0%a4%b6) | N/A |
+| 23 | [इंडिया टीवी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%9f%e0%a5%80%e0%a4%b5%e0%a5%80) | N/A |
+| 24 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 25 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 26 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 27 | [शिवराज सरकार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 29 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
+| 30 | [Asharamji Bapu Case](http://twitter.com/search?q=Asharamji+Bapu+Case) | N/A |
+| 31 | [Request To GOI](http://twitter.com/search?q=Request+To+GOI) | N/A |
+| 32 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 33 | [Release Innocent Saint](http://twitter.com/search?q=Release+Innocent+Saint) | N/A |
+| 34 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 35 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
+| 36 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 37 | [#MissionAceTheIndex](http://twitter.com/search?q=%23MissionAceTheIndex) | N/A |
+| 38 | [#33wChampionCharging](http://twitter.com/search?q=%2333wChampionCharging) | N/A |
+| 39 | [#LineLagJayegi](http://twitter.com/search?q=%23LineLagJayegi) | N/A |
+| 40 | [#HBDayDrAjayBassi](http://twitter.com/search?q=%23HBDayDrAjayBassi) | N/A |
+| 41 | [#NationalVaccinationDay](http://twitter.com/search?q=%23NationalVaccinationDay) | N/A |
+| 42 | [#ArunachalPradesh](http://twitter.com/search?q=%23ArunachalPradesh) | N/A |
+| 43 | [#HelicopterCrash](http://twitter.com/search?q=%23HelicopterCrash) | N/A |
+| 44 | [#CheetahHelicopter](http://twitter.com/search?q=%23CheetahHelicopter) | N/A |
+| 45 | [#HyderabadRains](http://twitter.com/search?q=%23HyderabadRains) | N/A |
+| 46 | [#DMGheravBharatpur](http://twitter.com/search?q=%23DMGheravBharatpur) | N/A |
+| 47 | [#MehboobaMufti](http://twitter.com/search?q=%23MehboobaMufti) | N/A |
+| 48 | [#Help_dinesh](http://twitter.com/search?q=%23Help_dinesh) | N/A |
+| 49 | [#IndianArmy](http://twitter.com/search?q=%23IndianArmy) | N/A |
 
 
 

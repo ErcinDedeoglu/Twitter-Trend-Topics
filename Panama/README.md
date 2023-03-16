@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-16 09:17:36 UTC`
+📆 Last Updated: `2023-03-16 10:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
-| 2 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 1 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 2 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
 | 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 4 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 | 5 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
@@ -33,8 +33,8 @@ This is top 50 for Panama
 | 16 | [Arraiján](http://twitter.com/search?q=Arraij%c3%a1n) | N/A |
 | 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 18 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 19 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 20 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 19 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 20 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 22 | [burunga](http://twitter.com/search?q=burunga) | N/A |
 | 23 | [itse](http://twitter.com/search?q=itse) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for Panama
 | 28 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 | 29 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 30 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 31 | [Oeste](http://twitter.com/search?q=Oeste) | N/A |
-| 32 | [albrook](http://twitter.com/search?q=albrook) | N/A |
-| 33 | [ampyme](http://twitter.com/search?q=ampyme) | N/A |
-| 34 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 35 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 37 | [chilibre](http://twitter.com/search?q=chilibre) | N/A |
-| 38 | [Guayacanes](http://twitter.com/search?q=Guayacanes) | N/A |
-| 39 | [corregimiento](http://twitter.com/search?q=corregimiento) | N/A |
-| 40 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 41 | [Juez](http://twitter.com/search?q=Juez) | N/A |
-| 42 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
-| 43 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 44 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 45 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 46 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 47 | [idaan](http://twitter.com/search?q=idaan) | N/A |
-| 48 | [juan carlos tapia](http://twitter.com/search?q=juan+carlos+tapia) | N/A |
-| 49 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 50 | [blandón](http://twitter.com/search?q=bland%c3%b3n) | N/A |
+| 31 | [albrook](http://twitter.com/search?q=albrook) | N/A |
+| 32 | [ampyme](http://twitter.com/search?q=ampyme) | N/A |
+| 33 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 34 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 36 | [chilibre](http://twitter.com/search?q=chilibre) | N/A |
+| 37 | [guayacanes](http://twitter.com/search?q=guayacanes) | N/A |
+| 38 | [corregimiento](http://twitter.com/search?q=corregimiento) | N/A |
+| 39 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 40 | [Juez](http://twitter.com/search?q=Juez) | N/A |
+| 41 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
+| 42 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 43 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 44 | [Idaan](http://twitter.com/search?q=Idaan) | N/A |
+| 45 | [juan carlos tapia](http://twitter.com/search?q=juan+carlos+tapia) | N/A |
+| 46 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 47 | [blandón](http://twitter.com/search?q=bland%c3%b3n) | N/A |
+| 48 | [#noticiassertv](http://twitter.com/search?q=%23noticiassertv) | N/A |
+| 49 | [veraguas](http://twitter.com/search?q=veraguas) | N/A |
+| 50 | [christiansen](http://twitter.com/search?q=christiansen) | N/A |
 
 
 

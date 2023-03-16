@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-03-16 09:17:26 UTC`
+📆 Last Updated: `2023-03-16 10:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [United States](</United States>)
 | 6 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
 | 7 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
 | 8 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 9 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 10 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 11 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 12 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 13 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 14 | [#ShadowAndBone2](http://twitter.com/search?q=%23ShadowAndBone2) | N/A |
-| 15 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 16 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
-| 17 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 9 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 10 | [#ShadowAndBone2](http://twitter.com/search?q=%23ShadowAndBone2) | N/A |
+| 11 | [#MCRMELBOURNE](http://twitter.com/search?q=%23MCRMELBOURNE) | N/A |
+| 12 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 13 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 14 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 15 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
+| 16 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 17 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
 | 18 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 19 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 20 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 21 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 22 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 23 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 24 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 25 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 26 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 27 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 19 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 20 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 21 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 22 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 23 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 24 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 25 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 26 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 27 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
 | 28 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
 | 29 | [Morris](http://twitter.com/search?q=Morris) | N/A |
 | 30 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 31 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 32 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 33 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 34 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 31 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 32 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 33 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 34 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
 | 35 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 36 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 37 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
-| 38 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 39 | [Gavin Lux](http://twitter.com/search?q=Gavin+Lux) | N/A |
-| 40 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 41 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 36 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 37 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 38 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 39 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 40 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 41 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
 | 42 | [Mamamoo](http://twitter.com/search?q=Mamamoo) | N/A |
-| 43 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 44 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 45 | [Charli](http://twitter.com/search?q=Charli) | N/A |
-| 46 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 47 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 48 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 49 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
+| 43 | [Charli](http://twitter.com/search?q=Charli) | N/A |
+| 44 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 45 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 46 | [Swiss National Bank](http://twitter.com/search?q=Swiss+National+Bank) | N/A |
+| 47 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
+| 48 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
+| 49 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 
 
 

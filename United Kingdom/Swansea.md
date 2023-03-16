@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-16 09:16:48 UTC`
+📆 Last Updated: `2023-03-16 10:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 2 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 3 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 4 | [#ThePiano](http://twitter.com/search?q=%23ThePiano) | N/A |
-| 5 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 6 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 7 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 8 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 11 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 12 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 13 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 14 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 15 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
-| 16 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 19 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 20 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 21 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 22 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 23 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 24 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 25 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 26 | [YNWA](http://twitter.com/search?q=YNWA) | N/A |
-| 27 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 28 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 29 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 31 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 32 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 33 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 34 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 35 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 36 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 37 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 38 | [Langer Dan](http://twitter.com/search?q=Langer+Dan) | N/A |
-| 39 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 40 | [Ides of March](http://twitter.com/search?q=Ides+of+March) | N/A |
-| 41 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
-| 42 | [impaire et passe](http://twitter.com/search?q=impaire+et+passe) | N/A |
-| 43 | [Steve McManaman](http://twitter.com/search?q=Steve+McManaman) | N/A |
-| 44 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 45 | [Edwardstone](http://twitter.com/search?q=Edwardstone) | N/A |
-| 46 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 47 | [The Real Whacker](http://twitter.com/search?q=The+Real+Whacker) | N/A |
-| 48 | [Don Goodman](http://twitter.com/search?q=Don+Goodman) | N/A |
-| 49 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 1 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 2 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 3 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 5 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 6 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 7 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 8 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 9 | [#ASongOrMovieForLips](http://twitter.com/search?q=%23ASongOrMovieForLips) | N/A |
+| 10 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 11 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
+| 12 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
+| 13 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 14 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 15 | [Home By The Lee](http://twitter.com/search?q=Home+By+The+Lee) | N/A |
+| 16 | [Adrian Chiles](http://twitter.com/search?q=Adrian+Chiles) | N/A |
+| 17 | [Blazing Khal](http://twitter.com/search?q=Blazing+Khal) | N/A |
+| 18 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
+| 19 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 20 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
+| 21 | [Capri](http://twitter.com/search?q=Capri) | N/A |
+| 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 23 | [Trumpian](http://twitter.com/search?q=Trumpian) | N/A |
+| 24 | [Carra](http://twitter.com/search?q=Carra) | N/A |
+| 25 | [Strikes](http://twitter.com/search?q=Strikes) | N/A |
+| 26 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
+| 27 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 28 | [Jayne](http://twitter.com/search?q=Jayne) | N/A |
+| 29 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 30 | [Victoria Derbyshire](http://twitter.com/search?q=Victoria+Derbyshire) | N/A |
+| 31 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
+| 32 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 33 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 34 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 35 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 36 | [Comic Relief](http://twitter.com/search?q=Comic+Relief) | N/A |
+| 37 | [St Patrick's Day](http://twitter.com/search?q=St+Patrick%27s+Day) | N/A |
+| 38 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 39 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 40 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 41 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
+| 42 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 43 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 44 | [#ToriesOut252](http://twitter.com/search?q=%23ToriesOut252) | N/A |
+| 45 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 46 | [#Nsppd](http://twitter.com/search?q=%23Nsppd) | N/A |
+| 47 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 48 | [#ToryCostOfGreedCrisis](http://twitter.com/search?q=%23ToryCostOfGreedCrisis) | N/A |
+| 49 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
 
 
 

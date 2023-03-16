@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-16 09:17:36 UTC`
+📆 Last Updated: `2023-03-16 10:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Pakistan
 | 8 | [ramzan relief package](http://twitter.com/search?q=ramzan+relief+package) | N/A |
 | 9 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 10 | [Trained](http://twitter.com/search?q=Trained) | N/A |
-| 11 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 12 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
-| 13 | [Sultans](http://twitter.com/search?q=Sultans) | N/A |
-| 14 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 15 | [Cottrell](http://twitter.com/search?q=Cottrell) | N/A |
-| 16 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 17 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 18 | [sam billings](http://twitter.com/search?q=sam+billings) | N/A |
-| 19 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 20 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 11 | [Government of Pakistan](http://twitter.com/search?q=Government+of+Pakistan) | N/A |
+| 12 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 13 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
+| 14 | [Sultans](http://twitter.com/search?q=Sultans) | N/A |
+| 15 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 16 | [Cottrell](http://twitter.com/search?q=Cottrell) | N/A |
+| 17 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 18 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 19 | [sam billings](http://twitter.com/search?q=sam+billings) | N/A |
+| 20 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
 | 21 | [Rs 5](http://twitter.com/search?q=Rs+5) | Rs 5 is the abbreviation for Indian Rupee 5, which is equivalent to approximately 0.068 US Dollars. |
-| 22 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
+| 22 | [senate of pakistan](http://twitter.com/search?q=senate+of+pakistan) | N/A |
 | 23 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
-| 24 | [London](http://twitter.com/search?q=London) | N/A |
-| 25 | [Lahoris](http://twitter.com/search?q=Lahoris) | N/A |
-| 26 | [Hina](http://twitter.com/search?q=Hina) | N/A |
-| 27 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 28 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 29 | [GB Police](http://twitter.com/search?q=GB+Police) | N/A |
+| 24 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
+| 25 | [Muhammad Rizwan](http://twitter.com/search?q=Muhammad+Rizwan) | N/A |
+| 26 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 27 | [IG GB](http://twitter.com/search?q=IG+GB) | N/A |
+| 28 | [Lahoris](http://twitter.com/search?q=Lahoris) | N/A |
+| 29 | [Quran](http://twitter.com/search?q=Quran) | N/A |
 | 30 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
 | 31 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 32 | [LEAs](http://twitter.com/search?q=LEAs) | N/A |
-| 33 | [Qualifier](http://twitter.com/search?q=Qualifier) | N/A |
-| 34 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 35 | [Muhammad Rizwan](http://twitter.com/search?q=Muhammad+Rizwan) | N/A |
-| 36 | [Zangara](http://twitter.com/search?q=Zangara) | N/A |
-| 37 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 38 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 39 | [Peshawar Zalmi](http://twitter.com/search?q=Peshawar+Zalmi) | N/A |
-| 40 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 41 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
-| 42 | [South Asia](http://twitter.com/search?q=South+Asia) | N/A |
-| 43 | [Direct](http://twitter.com/search?q=Direct) | N/A |
+| 32 | [London](http://twitter.com/search?q=London) | N/A |
+| 33 | [LEAs](http://twitter.com/search?q=LEAs) | N/A |
+| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 35 | [Qualifier](http://twitter.com/search?q=Qualifier) | N/A |
+| 36 | [GB Police](http://twitter.com/search?q=GB+Police) | N/A |
+| 37 | [Burger](http://twitter.com/search?q=Burger) | N/A |
+| 38 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
+| 39 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 40 | [Azadi](http://twitter.com/search?q=Azadi) | N/A |
+| 41 | [Peshawar Zalmi](http://twitter.com/search?q=Peshawar+Zalmi) | N/A |
+| 42 | [Ahmed](http://twitter.com/search?q=Ahmed) | N/A |
+| 43 | [Youth](http://twitter.com/search?q=Youth) | N/A |
 | 44 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
-| 45 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 46 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 47 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 48 | [Agar](http://twitter.com/search?q=Agar) | N/A |
+| 45 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 46 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 47 | [Kudos](http://twitter.com/search?q=Kudos) | N/A |
+| 48 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
 | 49 | [Road](http://twitter.com/search?q=Road) | N/A |
-| 50 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
+| 50 | [PeeDM](http://twitter.com/search?q=PeeDM) | N/A |
 
 
 
