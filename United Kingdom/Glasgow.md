@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-16 15:17:59 UTC`
+📆 Last Updated: `2023-03-16 16:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 1 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
 | 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 4 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 5 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 6 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
-| 7 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 8 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 9 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 10 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
-| 11 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 12 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 13 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
-| 14 | [Guehi](http://twitter.com/search?q=Guehi) | N/A |
-| 15 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 16 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 4 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 5 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
+| 6 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 7 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 8 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 9 | [Sire Du Berlais](http://twitter.com/search?q=Sire+Du+Berlais) | N/A |
+| 10 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 11 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
+| 12 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
+| 13 | [Guehi](http://twitter.com/search?q=Guehi) | N/A |
+| 14 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 15 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 16 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 17 | [#ENGLAND](http://twitter.com/search?q=%23ENGLAND) | N/A |
-| 18 | [Good Time Jonny](http://twitter.com/search?q=Good+Time+Jonny) | N/A |
-| 19 | [#ThreeLions](http://twitter.com/search?q=%23ThreeLions) | N/A |
-| 20 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 21 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
-| 22 | [#Batwheels](http://twitter.com/search?q=%23Batwheels) | N/A |
-| 23 | [Italy and Ukraine](http://twitter.com/search?q=Italy+and+Ukraine) | N/A |
-| 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 25 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 26 | [Rachel Blackmore](http://twitter.com/search?q=Rachel+Blackmore) | N/A |
-| 27 | [Mill Green](http://twitter.com/search?q=Mill+Green) | N/A |
-| 28 | [Forde](http://twitter.com/search?q=Forde) | N/A |
-| 29 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
-| 30 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 31 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
-| 32 | [Ryanair Chase](http://twitter.com/search?q=Ryanair+Chase) | N/A |
-| 33 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 34 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 35 | [Brice](http://twitter.com/search?q=Brice) | N/A |
-| 36 | [Harry Cobden](http://twitter.com/search?q=Harry+Cobden) | N/A |
-| 37 | [Davy Russell](http://twitter.com/search?q=Davy+Russell) | N/A |
-| 38 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 39 | [RIP Don](http://twitter.com/search?q=RIP+Don) | N/A |
-| 40 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 41 | [Don Megson](http://twitter.com/search?q=Don+Megson) | N/A |
-| 42 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 43 | [Appreciate It](http://twitter.com/search?q=Appreciate+It) | N/A |
-| 44 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 45 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 46 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 18 | [Dashel Drasher](http://twitter.com/search?q=Dashel+Drasher) | N/A |
+| 19 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 20 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
+| 21 | [Good Time Jonny](http://twitter.com/search?q=Good+Time+Jonny) | N/A |
+| 22 | [#ThreeLions](http://twitter.com/search?q=%23ThreeLions) | N/A |
+| 23 | [Stayers](http://twitter.com/search?q=Stayers) | N/A |
+| 24 | [Davy Russell](http://twitter.com/search?q=Davy+Russell) | N/A |
+| 25 | [rachael blackmore](http://twitter.com/search?q=rachael+blackmore) | N/A |
+| 26 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 28 | [Italy and Ukraine](http://twitter.com/search?q=Italy+and+Ukraine) | N/A |
+| 29 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 30 | [Ryanair Chase](http://twitter.com/search?q=Ryanair+Chase) | N/A |
+| 31 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 32 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
+| 33 | [Mill Green](http://twitter.com/search?q=Mill+Green) | N/A |
+| 34 | [Ward-Prowse](http://twitter.com/search?q=Ward-Prowse) | N/A |
+| 35 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 36 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 38 | [Dele Alli](http://twitter.com/search?q=Dele+Alli) | Dele Alli is the nickname of English professional footballer Dele Alli, who plays for Tottenham Hotspur and the England national team. The name is a combination of his given name, Bamidele, and his surname, Alli. |
+| 39 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 40 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 41 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 42 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
+| 43 | [Don Megson](http://twitter.com/search?q=Don+Megson) | N/A |
+| 44 | [Harry Cobden](http://twitter.com/search?q=Harry+Cobden) | N/A |
+| 45 | [Brice](http://twitter.com/search?q=Brice) | N/A |
+| 46 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 47 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 48 | [Colwill](http://twitter.com/search?q=Colwill) | N/A |
+| 48 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 49 | [Paisley Park](http://twitter.com/search?q=Paisley+Park) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-03-16 15:18:28 UTC`
+📆 Last Updated: `2023-03-16 16:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#الخميس_الونيس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3_%d8%a7%d9%84%d9%88%d9%86%d9%8a%d8%b3) | #الخميس_الونيس is a hashtag used on Twitter in the Arabic-speaking world. It translates to "Thursday of Unity" and is used to promote unity and solidarity among people of different backgrounds. |
-| 2 | [#فضفضه](http://twitter.com/search?q=%23%d9%81%d8%b6%d9%81%d8%b6%d9%87) | N/A |
-| 3 | [#موتمر_القطاع_المالي](http://twitter.com/search?q=%23%d9%85%d9%88%d8%aa%d9%85%d8%b1_%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9_%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
-| 4 | [#امطار_الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 5 | [#سعودي_ايدول](http://twitter.com/search?q=%23%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d8%a7%d9%8a%d8%af%d9%88%d9%84) | #سعودي_ايدول is a hashtag used by Saudi Arabian citizens to express their pride in their country and its achievements. In English, it translates to "Saudi Arabia is Awesome". |
-| 6 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 7 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
-| 8 | [عبدالله بن مساعد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86+%d9%85%d8%b3%d8%a7%d8%b9%d8%af) | N/A |
-| 9 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 10 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
-| 11 | [حارس النصر](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | حارس النصر is an Arabic phrase meaning "Guardian of Victory". It is often used to refer to someone who is a protector or defender of a cause or victory. |
-| 12 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 13 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 2 | [#لجنه_الانضباط_والاخلاق](http://twitter.com/search?q=%23%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
+| 3 | [#_لسه](http://twitter.com/search?q=%23_%d9%84%d8%b3%d9%87) | N/A |
+| 4 | [#فضفضه](http://twitter.com/search?q=%23%d9%81%d8%b6%d9%81%d8%b6%d9%87) | N/A |
+| 5 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 6 | [عبدالله بن مساعد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86+%d9%85%d8%b3%d8%a7%d8%b9%d8%af) | N/A |
+| 7 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 8 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 9 | [حارس النصر](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | حارس النصر is an Arabic phrase meaning "Guardian of Victory". It is often used to refer to someone who is a protector or defender of a cause or victory. |
+| 10 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 11 | [نواف العقيدي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | نواف العقيدي is an Arabic phrase meaning "the commander of the faithful". It is a title given to the leader of a Muslim community, usually referring to the Caliph or Imam. |
+| 12 | [الايادي المرتعشه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%b9%d8%b4%d9%87) | N/A |
+| 13 | [الباطن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
 | 14 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 15 | [نواف العقيدي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | نواف العقيدي is an Arabic phrase meaning "the commander of the faithful". It is a title given to the leader of a Muslim community, usually referring to the Caliph or Imam. |
-| 16 | [الايادي المرتعشه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%b9%d8%b4%d9%87) | N/A |
-| 17 | [القبول النهايي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | N/A |
-| 18 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 19 | [الناقل الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%82%d9%84+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
+| 15 | [القبول النهايي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | N/A |
+| 16 | [الناقل الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%82%d9%84+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
+| 17 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
+| 18 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 19 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 20 | [غير رياضي](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 21 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 22 | [الباطن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
-| 23 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 24 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 25 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 26 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 27 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
-| 28 | [مصدر سعودي](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 29 | [فهد الجهني](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a) | N/A |
-| 30 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 21 | [فهد الجهني](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a) | N/A |
+| 22 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 23 | [حارس الفيحاء](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
+| 24 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 25 | [قول بنزيما](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | N/A |
+| 26 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 27 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 28 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 29 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 30 | [مصدر سعودي](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
 | 31 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 32 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 33 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 34 | [بحر دلهوم](http://twitter.com/search?q=%d8%a8%d8%ad%d8%b1+%d8%af%d9%84%d9%87%d9%88%d9%85) | N/A |
+| 32 | [عبدالعزيز الحربيه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 33 | [الجواب الكافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d8%a7%d9%81%d9%8a) | N/A |
+| 34 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
 | 35 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 36 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 37 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 38 | [عبدالعزيز الحربيه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 39 | [قوميز](http://twitter.com/search?q=%d9%82%d9%88%d9%85%d9%8a%d8%b2) | N/A |
-| 40 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
-| 41 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 42 | [القضايا الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 43 | [علي البييه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
-| 44 | [الجواب الكافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d8%a7%d9%81%d9%8a) | N/A |
-| 45 | [محمد بن فيصل](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 46 | [كريدي سويس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%af%d9%8a+%d8%b3%d9%88%d9%8a%d8%b3) | N/A |
-| 47 | [محارب الكوبرا](http://twitter.com/search?q=%d9%85%d8%ad%d8%a7%d8%b1%d8%a8+%d8%a7%d9%84%d9%83%d9%88%d8%a8%d8%b1%d8%a7) | N/A |
-| 48 | [حارس الفيحاء](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
-| 49 | [عايض القرني](http://twitter.com/search?q=%d8%b9%d8%a7%d9%8a%d8%b6+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
-| 50 | [حمد العبدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%86) | N/A |
+| 36 | [بيكهيون](http://twitter.com/search?q=%d8%a8%d9%8a%d9%83%d9%87%d9%8a%d9%88%d9%86) | N/A |
+| 37 | [القضايا الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 38 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 39 | [الرييس القايد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af) | N/A |
+| 40 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 41 | [الدرجه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 42 | [محمد بن فيصل](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 43 | [حمد العبدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%86) | N/A |
+| 44 | [اللوبي الاصفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d8%a8%d9%8a+%d8%a7%d9%84%d8%a7%d8%b5%d9%81%d8%b1) | N/A |
+| 45 | [قوميز](http://twitter.com/search?q=%d9%82%d9%88%d9%85%d9%8a%d8%b2) | N/A |
+| 46 | [علي البييه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
+| 47 | [كريدي سويس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%af%d9%8a+%d8%b3%d9%88%d9%8a%d8%b3) | N/A |
+| 48 | [المرافق العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%81%d9%82+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 49 | [بحر دلهوم](http://twitter.com/search?q=%d8%a8%d8%ad%d8%b1+%d8%af%d9%84%d9%87%d9%88%d9%85) | N/A |
+| 50 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-16 15:18:27 UTC`
+📆 Last Updated: `2023-03-16 16:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,50 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 2 | [SANTACO](http://twitter.com/search?q=SANTACO) | N/A |
 | 3 | [Mudau](http://twitter.com/search?q=Mudau) | N/A |
-| 4 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 5 | [Mobbie](http://twitter.com/search?q=Mobbie) | N/A |
-| 6 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 7 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 8 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 9 | [#sblove](http://twitter.com/search?q=%23sblove) | N/A |
-| 10 | [Lungile Phenyane](http://twitter.com/search?q=Lungile+Phenyane) | N/A |
-| 11 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 12 | [Doctor Khumalo](http://twitter.com/search?q=Doctor+Khumalo) | N/A |
-| 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 14 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
-| 15 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 16 | [slee](http://twitter.com/search?q=slee) | N/A |
-| 17 | [Dr Nandi](http://twitter.com/search?q=Dr+Nandi) | N/A |
-| 18 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 19 | [Handing](http://twitter.com/search?q=Handing) | N/A |
-| 20 | [Broos](http://twitter.com/search?q=Broos) | N/A |
-| 21 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [Pressed Lemon](http://twitter.com/search?q=Pressed+Lemon) | N/A |
-| 24 | [Mmusi](http://twitter.com/search?q=Mmusi) | N/A |
-| 25 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 26 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
-| 27 | [Kodisang](http://twitter.com/search?q=Kodisang) | N/A |
-| 28 | [protest](http://twitter.com/search?q=protest) | N/A |
-| 29 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 30 | [JUICY JAY ON GAGASI FM](http://twitter.com/search?q=JUICY+JAY+ON+GAGASI+FM) | N/A |
-| 31 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 32 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 33 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
-| 34 | [Savings](http://twitter.com/search?q=Savings) | N/A |
-| 35 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 36 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 37 | [Faith Nketsi](http://twitter.com/search?q=Faith+Nketsi) | N/A |
-| 38 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 39 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
-| 40 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 41 | [Winde](http://twitter.com/search?q=Winde) | N/A |
-| 42 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 43 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 44 | [Bafana](http://twitter.com/search?q=Bafana) | N/A |
-| 45 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 46 | [IPELENG SELEPE ON YOUTUBE](http://twitter.com/search?q=IPELENG+SELEPE+ON+YOUTUBE) | N/A |
-| 47 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 48 | [amanda black](http://twitter.com/search?q=amanda+black) | N/A |
+| 4 | [Mobbie](http://twitter.com/search?q=Mobbie) | N/A |
+| 5 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 6 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
+| 7 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 8 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 9 | [Dr Nandi](http://twitter.com/search?q=Dr+Nandi) | N/A |
+| 10 | [#MarchBonanza](http://twitter.com/search?q=%23MarchBonanza) | N/A |
+| 11 | [Lungile Phenyane](http://twitter.com/search?q=Lungile+Phenyane) | N/A |
+| 12 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 13 | [Doctor Khumalo](http://twitter.com/search?q=Doctor+Khumalo) | N/A |
+| 14 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 15 | [RULANATION](http://twitter.com/search?q=RULANATION) | N/A |
+| 16 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
+| 17 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 19 | [Broos](http://twitter.com/search?q=Broos) | N/A |
+| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 21 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 22 | [Mmusi](http://twitter.com/search?q=Mmusi) | N/A |
+| 23 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 24 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 25 | [Pressed Lemon](http://twitter.com/search?q=Pressed+Lemon) | N/A |
+| 26 | [JUICY JAY ON GAGASI FM](http://twitter.com/search?q=JUICY+JAY+ON+GAGASI+FM) | N/A |
+| 27 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
+| 28 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
+| 29 | [Kodisang](http://twitter.com/search?q=Kodisang) | N/A |
+| 30 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 31 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 32 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 33 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 34 | [Handing](http://twitter.com/search?q=Handing) | N/A |
+| 35 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 36 | [Savings](http://twitter.com/search?q=Savings) | N/A |
+| 37 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 38 | [faith nketsi](http://twitter.com/search?q=faith+nketsi) | N/A |
+| 39 | [qhawe](http://twitter.com/search?q=qhawe) | N/A |
+| 40 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 41 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 42 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 43 | [Winde](http://twitter.com/search?q=Winde) | N/A |
+| 44 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
+| 45 | [Grand Azania](http://twitter.com/search?q=Grand+Azania) | N/A |
+| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 47 | [amanda black](http://twitter.com/search?q=amanda+black) | N/A |
 
 
 

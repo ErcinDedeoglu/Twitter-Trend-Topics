@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-16 15:18:14 UTC`
+📆 Last Updated: `2023-03-16 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 2 | [#PS2023](http://twitter.com/search?q=%23PS2023) | N/A |
 | 3 | [#verkiezingen15maart](http://twitter.com/search?q=%23verkiezingen15maart) | N/A |
 | 4 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 5 | [#NederlandKiest](http://twitter.com/search?q=%23NederlandKiest) | N/A |
+| 5 | [#verkiezingsfraude](http://twitter.com/search?q=%23verkiezingsfraude) | N/A |
 | 6 | [#stemmen](http://twitter.com/search?q=%23stemmen) | N/A |
-| 7 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 8 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 7 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 8 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
 | 9 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
 | 10 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
-| 11 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
+| 11 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
 | 12 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
-| 13 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 14 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 15 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 13 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
+| 14 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
+| 15 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
 | 16 | [Volt](http://twitter.com/search?q=Volt) | N/A |
-| 17 | [de bbb](http://twitter.com/search?q=de+bbb) | N/A |
-| 18 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 20 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
-| 21 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 22 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
-| 23 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
-| 24 | [Noord-Holland](http://twitter.com/search?q=Noord-Holland) | N/A |
-| 25 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 26 | [Napels](http://twitter.com/search?q=Napels) | N/A |
-| 27 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
-| 28 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
-| 29 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 30 | [Randstad](http://twitter.com/search?q=Randstad) | N/A |
-| 31 | [Big Agro](http://twitter.com/search?q=Big+Agro) | N/A |
-| 32 | [maurice de hond](http://twitter.com/search?q=maurice+de+hond) | N/A |
-| 33 | [rob trip](http://twitter.com/search?q=rob+trip) | N/A |
-| 34 | [Sanderink](http://twitter.com/search?q=Sanderink) | N/A |
-| 35 | [Slechte](http://twitter.com/search?q=Slechte) | N/A |
-| 36 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 37 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
-| 38 | [En BBB](http://twitter.com/search?q=En+BBB) | N/A |
-| 39 | [De FvD](http://twitter.com/search?q=De+FvD) | N/A |
-| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 41 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 42 | [Schiermonnikoog](http://twitter.com/search?q=Schiermonnikoog) | N/A |
-| 43 | [marijnissen](http://twitter.com/search?q=marijnissen) | N/A |
-| 44 | [Democratie](http://twitter.com/search?q=Democratie) | N/A |
-| 45 | [Zuur](http://twitter.com/search?q=Zuur) | N/A |
-| 46 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 47 | [Als BBB](http://twitter.com/search?q=Als+BBB) | N/A |
-| 48 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 17 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 19 | [Forum](http://twitter.com/search?q=Forum) | N/A |
+| 20 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 21 | [Attje](http://twitter.com/search?q=Attje) | N/A |
+| 22 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
+| 23 | [Build Back Better](http://twitter.com/search?q=Build+Back+Better) | N/A |
+| 24 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
+| 25 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
+| 26 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
+| 27 | [napels](http://twitter.com/search?q=napels) | N/A |
+| 28 | [Randstad](http://twitter.com/search?q=Randstad) | N/A |
+| 29 | [D66-Kamerlid Tjeerd de Groot](http://twitter.com/search?q=D66-Kamerlid+Tjeerd+de+Groot) | N/A |
+| 30 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
+| 31 | [Sanderink](http://twitter.com/search?q=Sanderink) | N/A |
+| 32 | [Gefeliciteerd Bryan](http://twitter.com/search?q=Gefeliciteerd+Bryan) | N/A |
+| 33 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
+| 34 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 35 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 36 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 37 | [Als BBB](http://twitter.com/search?q=Als+BBB) | N/A |
+| 38 | [Big Agro](http://twitter.com/search?q=Big+Agro) | N/A |
+| 39 | [CDA'er Boswijk](http://twitter.com/search?q=CDA%27er+Boswijk) | N/A |
+| 40 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 41 | [Slechte](http://twitter.com/search?q=Slechte) | N/A |
+| 42 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
+| 43 | [Gestemd](http://twitter.com/search?q=Gestemd) | N/A |
+| 44 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 45 | [En BBB](http://twitter.com/search?q=En+BBB) | N/A |
+| 46 | [De FvD](http://twitter.com/search?q=De+FvD) | N/A |
+| 47 | [BBB-beleid](http://twitter.com/search?q=BBB-beleid) | N/A |
+| 48 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
 | 49 | [Europese](http://twitter.com/search?q=Europese) | N/A |
-| 50 | [Tjer](http://twitter.com/search?q=Tjer) | N/A |
+| 50 | [rob trip](http://twitter.com/search?q=rob+trip) | N/A |
 
 
 

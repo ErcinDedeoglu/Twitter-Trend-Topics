@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-16 15:18:11 UTC`
+📆 Last Updated: `2023-03-16 16:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [Cola](http://twitter.com/search?q=Cola) | N/A |
 | 2 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 3 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 4 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 3 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 4 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
 | 5 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
 | 6 | [Axel Springer](http://twitter.com/search?q=Axel+Springer) | N/A |
-| 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 8 | [Chefredaktion](http://twitter.com/search?q=Chefredaktion) | N/A |
-| 9 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 10 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 11 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 12 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 13 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
+| 7 | ["Häuptling"](http://twitter.com/search?q=%22H%c3%a4uptling%22) | N/A |
+| 8 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 9 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 10 | [Chefredaktion](http://twitter.com/search?q=Chefredaktion) | N/A |
+| 11 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 12 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
+| 13 | [Marion Horn](http://twitter.com/search?q=Marion+Horn) | N/A |
 | 14 | [Strunz](http://twitter.com/search?q=Strunz) | N/A |
-| 15 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
-| 16 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 17 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
+| 15 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
+| 16 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 17 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
 | 18 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 19 | [Marion Horn](http://twitter.com/search?q=Marion+Horn) | N/A |
-| 20 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 19 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
+| 20 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
 | 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 22 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 22 | [Rentenreform](http://twitter.com/search?q=Rentenreform) | N/A |
 | 23 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
-| 24 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 25 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
-| 26 | [doha](http://twitter.com/search?q=doha) | N/A |
-| 27 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 28 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 29 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 30 | [Johannes Boie](http://twitter.com/search?q=Johannes+Boie) | N/A |
-| 31 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 32 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 33 | ['Langeweile'](http://twitter.com/search?q=%27Langeweile%27) | N/A |
-| 34 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 35 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 36 | [Propeller](http://twitter.com/search?q=Propeller) | N/A |
-| 37 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 38 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
-| 39 | [Reichelt](http://twitter.com/search?q=Reichelt) | N/A |
-| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 41 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
-| 42 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 43 | [Alexandra Würzbach](http://twitter.com/search?q=Alexandra+W%c3%bcrzbach) | N/A |
-| 44 | [Flips](http://twitter.com/search?q=Flips) | N/A |
-| 45 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
+| 24 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 25 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 26 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
+| 27 | [Kurzschluss](http://twitter.com/search?q=Kurzschluss) | N/A |
+| 28 | [banken](http://twitter.com/search?q=banken) | N/A |
+| 29 | ['langeweile'](http://twitter.com/search?q=%27langeweile%27) | N/A |
+| 30 | [Absturz](http://twitter.com/search?q=Absturz) | N/A |
+| 31 | [Johannes Boie](http://twitter.com/search?q=Johannes+Boie) | N/A |
+| 32 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 33 | [Alexandra Würzbach](http://twitter.com/search?q=Alexandra+W%c3%bcrzbach) | N/A |
+| 34 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 35 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 36 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 37 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 38 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 39 | [Propeller](http://twitter.com/search?q=Propeller) | N/A |
+| 40 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 41 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
+| 42 | [Reichelt](http://twitter.com/search?q=Reichelt) | N/A |
+| 43 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 44 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
+| 45 | [Ausflug](http://twitter.com/search?q=Ausflug) | N/A |
 | 46 | [Sportstudio](http://twitter.com/search?q=Sportstudio) | N/A |
-| 47 | [Prozentpunkte](http://twitter.com/search?q=Prozentpunkte) | N/A |
-| 48 | [Taschengeld](http://twitter.com/search?q=Taschengeld) | N/A |
+| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 48 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
 
 
 

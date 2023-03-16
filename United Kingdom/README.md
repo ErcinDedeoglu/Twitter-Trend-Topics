@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-16 15:18:52 UTC`
+📆 Last Updated: `2023-03-16 16:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for United Kingdom
 | 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 4 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 5 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
-| 6 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 5 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 6 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
 | 7 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
 | 8 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 9 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
+| 9 | [Sire Du Berlais](http://twitter.com/search?q=Sire+Du+Berlais) | N/A |
 | 10 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
 | 11 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
-| 12 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 12 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
 | 13 | [Guehi](http://twitter.com/search?q=Guehi) | N/A |
-| 14 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 15 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 16 | [#ENGLAND](http://twitter.com/search?q=%23ENGLAND) | N/A |
-| 17 | [Good Time Jonny](http://twitter.com/search?q=Good+Time+Jonny) | N/A |
-| 18 | [#ThreeLions](http://twitter.com/search?q=%23ThreeLions) | N/A |
+| 14 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 15 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 16 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 17 | [Dashel Drasher](http://twitter.com/search?q=Dashel+Drasher) | N/A |
+| 18 | [#ENGLAND](http://twitter.com/search?q=%23ENGLAND) | N/A |
 | 19 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
 | 20 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
-| 21 | [#Batwheels](http://twitter.com/search?q=%23Batwheels) | N/A |
-| 22 | [Italy and Ukraine](http://twitter.com/search?q=Italy+and+Ukraine) | N/A |
-| 23 | [Rachel Blackmore](http://twitter.com/search?q=Rachel+Blackmore) | N/A |
-| 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 25 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 26 | [Mill Green](http://twitter.com/search?q=Mill+Green) | N/A |
-| 27 | [Forde](http://twitter.com/search?q=Forde) | N/A |
-| 28 | [Ryanair Chase](http://twitter.com/search?q=Ryanair+Chase) | N/A |
-| 29 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
-| 30 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 31 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
-| 32 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 33 | [dazn](http://twitter.com/search?q=dazn) | N/A |
-| 34 | [Brice](http://twitter.com/search?q=Brice) | N/A |
-| 35 | [Harry Cobden](http://twitter.com/search?q=Harry+Cobden) | N/A |
-| 36 | [Davy Russell](http://twitter.com/search?q=Davy+Russell) | N/A |
-| 37 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 38 | [RIP Don](http://twitter.com/search?q=RIP+Don) | N/A |
-| 39 | [#BM100](http://twitter.com/search?q=%23BM100) | N/A |
-| 40 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
-| 41 | [Don Megson](http://twitter.com/search?q=Don+Megson) | N/A |
-| 42 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 43 | [Appreciate It](http://twitter.com/search?q=Appreciate+It) | N/A |
-| 44 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 45 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 46 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 47 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 48 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 49 | [Colwill](http://twitter.com/search?q=Colwill) | N/A |
-| 50 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 21 | [Stayers](http://twitter.com/search?q=Stayers) | N/A |
+| 22 | [Good Time Jonny](http://twitter.com/search?q=Good+Time+Jonny) | N/A |
+| 23 | [#ThreeLions](http://twitter.com/search?q=%23ThreeLions) | N/A |
+| 24 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 26 | [Davy Russell](http://twitter.com/search?q=Davy+Russell) | N/A |
+| 27 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
+| 28 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 29 | [Italy and Ukraine](http://twitter.com/search?q=Italy+and+Ukraine) | N/A |
+| 30 | [Ryanair Chase](http://twitter.com/search?q=Ryanair+Chase) | N/A |
+| 31 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 32 | [Flooring Porter](http://twitter.com/search?q=Flooring+Porter) | N/A |
+| 33 | [Mill Green](http://twitter.com/search?q=Mill+Green) | N/A |
+| 34 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 35 | [Ward-Prowse](http://twitter.com/search?q=Ward-Prowse) | N/A |
+| 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 37 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 38 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 39 | [Dele Alli](http://twitter.com/search?q=Dele+Alli) | Dele Alli is the nickname of English professional footballer Dele Alli, who plays for Tottenham Hotspur and the England national team. The name is a combination of his given name, Bamidele, and his surname, Alli. |
+| 40 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 41 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 42 | [Teahupoo](http://twitter.com/search?q=Teahupoo) | N/A |
+| 43 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 44 | [Harry Cobden](http://twitter.com/search?q=Harry+Cobden) | N/A |
+| 45 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 46 | [Brice](http://twitter.com/search?q=Brice) | N/A |
+| 47 | [Don Megson](http://twitter.com/search?q=Don+Megson) | N/A |
+| 48 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
+| 49 | [Red Nose Day](http://twitter.com/search?q=Red+Nose+Day) | N/A |
+| 50 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
 
 
 

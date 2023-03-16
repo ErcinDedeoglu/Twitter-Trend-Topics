@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-16 15:18:36 UTC`
+📆 Last Updated: `2023-03-16 16:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Snowfallfx](http://twitter.com/search?q=%23Snowfallfx) | N/A |
+| 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
 | 2 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 3 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 4 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 5 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 6 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 8 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 9 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 10 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 11 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
-| 12 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 13 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 15 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 16 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 17 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 18 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 20 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 21 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
-| 22 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 23 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 24 | [doha](http://twitter.com/search?q=doha) | N/A |
-| 25 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 26 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 27 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 28 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
-| 29 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
-| 30 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 31 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 32 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 33 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 34 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 35 | [ichan](http://twitter.com/search?q=ichan) | N/A |
-| 36 | [Olivia Miles](http://twitter.com/search?q=Olivia+Miles) | N/A |
-| 37 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 38 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 39 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 40 | [Kraven](http://twitter.com/search?q=Kraven) | N/A |
-| 41 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 43 | [Bigfoot](http://twitter.com/search?q=Bigfoot) | N/A |
+| 3 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 4 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 5 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 6 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 7 | [Myles Jack](http://twitter.com/search?q=Myles+Jack) | N/A |
+| 8 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 10 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 11 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 12 | [#GildedSweepstakes](http://twitter.com/search?q=%23GildedSweepstakes) | N/A |
+| 13 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 14 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
+| 15 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 16 | [SNOOPYTOOZ](http://twitter.com/search?q=SNOOPYTOOZ) | N/A |
+| 17 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 18 | [Elandon Roberts](http://twitter.com/search?q=Elandon+Roberts) | N/A |
+| 19 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 20 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 21 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 22 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 23 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 24 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 25 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 26 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 27 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 28 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 29 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 30 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 31 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 32 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 33 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
+| 34 | [Mike Lindell](http://twitter.com/search?q=Mike+Lindell) | Mike Lindell is the founder and CEO of MyPillow, a company that manufactures and sells pillows. He is also a conservative political activist and has been an outspoken supporter of former President Donald Trump. |
+| 35 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 36 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 37 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
+| 38 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 39 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 40 | [Copilot](http://twitter.com/search?q=Copilot) | N/A |
+| 41 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
+| 42 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 43 | [daeul](http://twitter.com/search?q=daeul) | N/A |
 | 44 | [OH HELL YEAH](http://twitter.com/search?q=OH+HELL+YEAH) | N/A |
-| 45 | [James Madison](http://twitter.com/search?q=James+Madison) | N/A |
-| 46 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 47 | [Bruce Campbell](http://twitter.com/search?q=Bruce+Campbell) | N/A |
-| 48 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
-| 49 | [The ECB](http://twitter.com/search?q=The+ECB) | N/A |
-| 50 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
+| 45 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 46 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 49 | [Maryland ML](http://twitter.com/search?q=Maryland+ML) | N/A |
+| 50 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
 
 
 
