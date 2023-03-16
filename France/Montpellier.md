@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-03-16 12:18:28 UTC`
+📆 Last Updated: `2023-03-16 13:21:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 2 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
-| 3 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 4 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
-| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 2 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 3 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 4 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 5 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
+| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 8 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 9 | [Alexander Arnold](http://twitter.com/search?q=Alexander+Arnold) | N/A |
+| 9 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
 | 10 | [Le Sénat](http://twitter.com/search?q=Le+S%c3%a9nat) | N/A |
-| 11 | [Leto](http://twitter.com/search?q=Leto) | N/A |
-| 12 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
+| 11 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 12 | [Leto](http://twitter.com/search?q=Leto) | N/A |
 | 13 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 14 | [Francfort](http://twitter.com/search?q=Francfort) | N/A |
-| 15 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 16 | [Manifester](http://twitter.com/search?q=Manifester) | N/A |
-| 17 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 18 | [Maroc Brésil](http://twitter.com/search?q=Maroc+Br%c3%a9sil) | N/A |
-| 19 | [l'écharpe](http://twitter.com/search?q=l%27%c3%a9charpe) | N/A |
-| 20 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 21 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 22 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 23 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 24 | [Chiche](http://twitter.com/search?q=Chiche) | N/A |
-| 25 | [Rachel Kéké](http://twitter.com/search?q=Rachel+K%c3%a9k%c3%a9) | N/A |
-| 26 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
-| 27 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
-| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 30 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 31 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 32 | [Houssem Aouar](http://twitter.com/search?q=Houssem+Aouar) | N/A |
-| 33 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 35 | [Bégaudeau](http://twitter.com/search?q=B%c3%a9gaudeau) | N/A |
-| 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 37 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 38 | [Toute la France](http://twitter.com/search?q=Toute+la+France) | N/A |
-| 39 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
-| 40 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 41 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 42 | [grève du 15](http://twitter.com/search?q=gr%c3%a8ve+du+15) | N/A |
-| 43 | [Seine](http://twitter.com/search?q=Seine) | N/A |
-| 44 | [Isabelle Huppert](http://twitter.com/search?q=Isabelle+Huppert) | N/A |
-| 45 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 46 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 47 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 15 | [Houssem Aouar](http://twitter.com/search?q=Houssem+Aouar) | N/A |
+| 16 | [Alexander Arnold](http://twitter.com/search?q=Alexander+Arnold) | N/A |
+| 17 | [Manifester](http://twitter.com/search?q=Manifester) | N/A |
+| 18 | [Chiche](http://twitter.com/search?q=Chiche) | N/A |
+| 19 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
+| 20 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 23 | [Rachel Kéké](http://twitter.com/search?q=Rachel+K%c3%a9k%c3%a9) | N/A |
+| 24 | [Bégaudeau](http://twitter.com/search?q=B%c3%a9gaudeau) | N/A |
+| 25 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
+| 26 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 27 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 28 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 29 | [Maroc Brésil](http://twitter.com/search?q=Maroc+Br%c3%a9sil) | N/A |
+| 30 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 31 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
+| 32 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 33 | [grève du 15](http://twitter.com/search?q=gr%c3%a8ve+du+15) | N/A |
+| 34 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 35 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 36 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 38 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 39 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 40 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
+| 41 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 42 | [Retailleau](http://twitter.com/search?q=Retailleau) | N/A |
+| 43 | [Toute la France](http://twitter.com/search?q=Toute+la+France) | N/A |
+| 44 | [Seine](http://twitter.com/search?q=Seine) | N/A |
+| 45 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 46 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 47 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 48 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 
 
 

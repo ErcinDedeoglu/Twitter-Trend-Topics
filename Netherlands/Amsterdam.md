@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-03-16 12:18:31 UTC`
+📆 Last Updated: `2023-03-16 13:21:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 5 | [#stemmen](http://twitter.com/search?q=%23stemmen) | N/A |
 | 6 | [#NederlandKiest](http://twitter.com/search?q=%23NederlandKiest) | N/A |
 | 7 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 8 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
-| 9 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
+| 8 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
+| 9 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
 | 10 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
 | 11 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 12 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
+| 12 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
 | 13 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 14 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 14 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
 | 15 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
-| 16 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 17 | [Volt](http://twitter.com/search?q=Volt) | N/A |
-| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 19 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 20 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
-| 21 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 22 | [Noord-Holland](http://twitter.com/search?q=Noord-Holland) | N/A |
-| 23 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 17 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 18 | [Volt](http://twitter.com/search?q=Volt) | N/A |
+| 19 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
+| 20 | [Forum](http://twitter.com/search?q=Forum) | N/A |
+| 21 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 22 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
+| 23 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
 | 24 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
-| 25 | [Napels](http://twitter.com/search?q=Napels) | N/A |
-| 26 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
-| 27 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
+| 25 | [Build Back Better](http://twitter.com/search?q=Build+Back+Better) | N/A |
+| 26 | [Napels](http://twitter.com/search?q=Napels) | N/A |
+| 27 | [BVNL](http://twitter.com/search?q=BVNL) | N/A |
 | 28 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
-| 29 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 30 | [Schiermonnikoog](http://twitter.com/search?q=Schiermonnikoog) | N/A |
+| 29 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
+| 30 | [Slechte](http://twitter.com/search?q=Slechte) | N/A |
 | 31 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 32 | [Maurice de Hond](http://twitter.com/search?q=Maurice+de+Hond) | N/A |
-| 33 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
-| 34 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 35 | [Slechte](http://twitter.com/search?q=Slechte) | N/A |
-| 36 | [rob trip](http://twitter.com/search?q=rob+trip) | N/A |
-| 37 | [Democratie](http://twitter.com/search?q=Democratie) | N/A |
-| 38 | [Big Agro](http://twitter.com/search?q=Big+Agro) | N/A |
-| 39 | [Randstad](http://twitter.com/search?q=Randstad) | N/A |
-| 40 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 41 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 42 | [zojuist](http://twitter.com/search?q=zojuist) | N/A |
-| 43 | [Tjer](http://twitter.com/search?q=Tjer) | N/A |
-| 44 | [Zuur](http://twitter.com/search?q=Zuur) | N/A |
-| 45 | [Partij](http://twitter.com/search?q=Partij) | N/A |
-| 46 | [Europese](http://twitter.com/search?q=Europese) | N/A |
-| 47 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 48 | [Marijnissen](http://twitter.com/search?q=Marijnissen) | N/A |
-| 49 | [En BBB](http://twitter.com/search?q=En+BBB) | N/A |
-| 50 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 32 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
+| 33 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 34 | [Democratie](http://twitter.com/search?q=Democratie) | N/A |
+| 35 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 36 | [Big Agro](http://twitter.com/search?q=Big+Agro) | N/A |
+| 37 | [Maurice de Hond](http://twitter.com/search?q=Maurice+de+Hond) | N/A |
+| 38 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 39 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 40 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 41 | [Coalitie](http://twitter.com/search?q=Coalitie) | N/A |
+| 42 | [Europese](http://twitter.com/search?q=Europese) | N/A |
+| 43 | [Randstad](http://twitter.com/search?q=Randstad) | N/A |
+| 44 | [De FvD](http://twitter.com/search?q=De+FvD) | N/A |
+| 45 | [rob trip](http://twitter.com/search?q=rob+trip) | N/A |
+| 46 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
+| 47 | [Zuur](http://twitter.com/search?q=Zuur) | N/A |
+| 48 | [Rutte IV](http://twitter.com/search?q=Rutte+IV) | N/A |
+| 49 | [Zwitserse](http://twitter.com/search?q=Zwitserse) | N/A |
+| 50 | [Danny](http://twitter.com/search?q=Danny) | N/A |
 
 
 

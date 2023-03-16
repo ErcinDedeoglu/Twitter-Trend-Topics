@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-16 12:18:34 UTC`
+📆 Last Updated: `2023-03-16 13:21:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
-| 2 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 3 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 4 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 5 | [FABA](http://twitter.com/search?q=FABA) | N/A |
-| 6 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
-| 7 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
+| 1 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
+| 2 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
+| 3 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 4 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 5 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 6 | [FABA](http://twitter.com/search?q=FABA) | N/A |
+| 7 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
 | 8 | [Bab 1](http://twitter.com/search?q=Bab+1) | N/A |
-| 9 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 9 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
 | 10 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 11 | [Spesialis](http://twitter.com/search?q=Spesialis) | N/A |
-| 12 | [JABAR NGAHIJI](http://twitter.com/search?q=JABAR+NGAHIJI) | N/A |
-| 13 | [PKB KAHIJI](http://twitter.com/search?q=PKB+KAHIJI) | N/A |
-| 14 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 15 | [Smtown](http://twitter.com/search?q=Smtown) | N/A |
+| 11 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 12 | [Spesialis](http://twitter.com/search?q=Spesialis) | N/A |
+| 13 | [JABAR NGAHIJI](http://twitter.com/search?q=JABAR+NGAHIJI) | N/A |
+| 14 | [PKB KAHIJI](http://twitter.com/search?q=PKB+KAHIJI) | N/A |
+| 15 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
 | 16 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 17 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 18 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 19 | [Politik Baik Gerindra](http://twitter.com/search?q=Politik+Baik+Gerindra) | N/A |
-| 20 | [Prabowo Hatinya Tulus](http://twitter.com/search?q=Prabowo+Hatinya+Tulus) | N/A |
-| 21 | [Rakyat NyamanPilih Prabowo](http://twitter.com/search?q=Rakyat+NyamanPilih+Prabowo) | N/A |
-| 22 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 23 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 24 | [Bawah](http://twitter.com/search?q=Bawah) | N/A |
-| 25 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
+| 17 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 18 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 19 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
+| 20 | [Polri](http://twitter.com/search?q=Polri) | N/A |
+| 21 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
+| 22 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 23 | [Bawah](http://twitter.com/search?q=Bawah) | N/A |
+| 24 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 25 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
 | 26 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 27 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 28 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
-| 29 | [KIM JUNKYU](http://twitter.com/search?q=KIM+JUNKYU) | N/A |
-| 30 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
-| 31 | [#FightingClimateChange](http://twitter.com/search?q=%23FightingClimateChange) | N/A |
-| 32 | [#MudikGratisGanjar](http://twitter.com/search?q=%23MudikGratisGanjar) | N/A |
-| 33 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
-| 34 | [#TangkapAgus](http://twitter.com/search?q=%23TangkapAgus) | N/A |
-| 35 | [#SUNGHANBINxTOMBOY](http://twitter.com/search?q=%23SUNGHANBINxTOMBOY) | N/A |
-| 36 | [#IndonesiaKayaBBN](http://twitter.com/search?q=%23IndonesiaKayaBBN) | N/A |
-| 37 | [#BanggaKayaBBN](http://twitter.com/search?q=%23BanggaKayaBBN) | N/A |
-| 38 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 39 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 40 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
-| 41 | [#GalaxyA34](http://twitter.com/search?q=%23GalaxyA34) | N/A |
-| 42 | [#AwesomeGeneration](http://twitter.com/search?q=%23AwesomeGeneration) | N/A |
-| 43 | [#GetWellSoonGemini](http://twitter.com/search?q=%23GetWellSoonGemini) | N/A |
+| 27 | [#FightingClimateChange](http://twitter.com/search?q=%23FightingClimateChange) | N/A |
+| 28 | [#MudikGratisGanjar](http://twitter.com/search?q=%23MudikGratisGanjar) | N/A |
+| 29 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
+| 30 | [#TangkapAgus](http://twitter.com/search?q=%23TangkapAgus) | N/A |
+| 31 | [#SUNGHANBINxTOMBOY](http://twitter.com/search?q=%23SUNGHANBINxTOMBOY) | N/A |
+| 32 | [#장하오의_하늘은_맑을_거야](http://twitter.com/search?q=%23%ec%9e%a5%ed%95%98%ec%98%a4%ec%9d%98_%ed%95%98%eb%8a%98%ec%9d%80_%eb%a7%91%ec%9d%84_%ea%b1%b0%ec%95%bc) | N/A |
+| 33 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
+| 34 | [#IndonesiaKayaBBN](http://twitter.com/search?q=%23IndonesiaKayaBBN) | N/A |
+| 35 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 36 | [#BanggaKayaBBN](http://twitter.com/search?q=%23BanggaKayaBBN) | N/A |
+| 37 | [#AwesomeGeneration](http://twitter.com/search?q=%23AwesomeGeneration) | N/A |
+| 38 | [#GalaxyA545GxShopee](http://twitter.com/search?q=%23GalaxyA545GxShopee) | N/A |
+| 39 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
+| 40 | [#GetWellSoonGemini](http://twitter.com/search?q=%23GetWellSoonGemini) | N/A |
+| 41 | [#IbukotaBaruMendunia](http://twitter.com/search?q=%23IbukotaBaruMendunia) | N/A |
+| 42 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 43 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
+| 44 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
 
 
 

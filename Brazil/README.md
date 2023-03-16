@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-16 12:19:03 UTC`
+📆 Last Updated: `2023-03-16 13:22:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 2 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 3 | [ANY G PUMA](http://twitter.com/search?q=ANY+G+PUMA) | N/A |
-| 4 | [Guimê e Sapato](http://twitter.com/search?q=Guim%c3%aa+e+Sapato) | N/A |
+| 2 | [Guime](http://twitter.com/search?q=Guime) | N/A |
+| 3 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 4 | [ANY G PUMA](http://twitter.com/search?q=ANY+G+PUMA) | N/A |
 | 5 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
 | 6 | [AMANDA CAMPEÃ](http://twitter.com/search?q=AMANDA+CAMPE%c3%83) | N/A |
 | 7 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for Brazil
 | 9 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
 | 10 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
 | 11 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
-| 12 | [Shadow and Bone](http://twitter.com/search?q=Shadow+and+Bone) | N/A |
-| 13 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 14 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 12 | [shadow and bone](http://twitter.com/search?q=shadow+and+bone) | N/A |
+| 13 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 14 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
 | 15 | [Assediador](http://twitter.com/search?q=Assediador) | N/A |
-| 16 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
-| 17 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 18 | [Expulsão](http://twitter.com/search?q=Expuls%c3%a3o) | N/A |
-| 19 | [Amigão](http://twitter.com/search?q=Amig%c3%a3o) | N/A |
-| 20 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 21 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
-| 22 | [#VCnoJM](http://twitter.com/search?q=%23VCnoJM) | N/A |
-| 23 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 24 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
-| 25 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 26 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 27 | [CASADO](http://twitter.com/search?q=CASADO) | N/A |
-| 28 | [Sombra e Ossos](http://twitter.com/search?q=Sombra+e+Ossos) | N/A |
-| 29 | [Bebida](http://twitter.com/search?q=Bebida) | N/A |
-| 30 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 31 | [Merecem](http://twitter.com/search?q=Merecem) | N/A |
-| 32 | [Wylan](http://twitter.com/search?q=Wylan) | N/A |
+| 16 | [Expulsão](http://twitter.com/search?q=Expuls%c3%a3o) | N/A |
+| 17 | [Amigão](http://twitter.com/search?q=Amig%c3%a3o) | N/A |
+| 18 | [#VCnoJM](http://twitter.com/search?q=%23VCnoJM) | N/A |
+| 19 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
+| 20 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 21 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
+| 22 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 23 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
+| 24 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 25 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
+| 26 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 27 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
+| 28 | [CASADO](http://twitter.com/search?q=CASADO) | N/A |
+| 29 | [Alina](http://twitter.com/search?q=Alina) | N/A |
+| 30 | [Sombra e Ossos](http://twitter.com/search?q=Sombra+e+Ossos) | N/A |
+| 31 | [matthias](http://twitter.com/search?q=matthias) | N/A |
+| 32 | [Merecem](http://twitter.com/search?q=Merecem) | N/A |
 | 33 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 34 | [matthias](http://twitter.com/search?q=matthias) | N/A |
-| 35 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 36 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 37 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
-| 38 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
-| 39 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 40 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 41 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 42 | [Glauber](http://twitter.com/search?q=Glauber) | N/A |
-| 43 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 44 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
+| 34 | [#TeamAmanda](http://twitter.com/search?q=%23TeamAmanda) | N/A |
+| 35 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 36 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
+| 37 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 38 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 39 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 40 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 41 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 42 | [Força Nacional](http://twitter.com/search?q=For%c3%a7a+Nacional) | N/A |
+| 43 | [Glauber](http://twitter.com/search?q=Glauber) | N/A |
+| 44 | [Ministro da Justiça](http://twitter.com/search?q=Ministro+da+Justi%c3%a7a) | N/A |
 | 45 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 46 | [força nacional](http://twitter.com/search?q=for%c3%a7a+nacional) | N/A |
-| 47 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 48 | [Ministro da Justiça](http://twitter.com/search?q=Ministro+da+Justi%c3%a7a) | N/A |
-| 49 | [Bacen](http://twitter.com/search?q=Bacen) | N/A |
-| 50 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 46 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 47 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
+| 48 | [Paulinho e Hulk](http://twitter.com/search?q=Paulinho+e+Hulk) | N/A |
+| 49 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 50 | [#ONEPIECE1078](http://twitter.com/search?q=%23ONEPIECE1078) | N/A |
 
 
 

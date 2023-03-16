@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-03-16 12:18:53 UTC`
+📆 Last Updated: `2023-03-16 13:21:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,46 +22,46 @@ This is top 50 for [Turkey](</Turkey>)
 | 5 | [Menzil](http://twitter.com/search?q=Menzil) | N/A |
 | 6 | [Süleymancılar](http://twitter.com/search?q=S%c3%bcleymanc%c4%b1lar) | N/A |
 | 7 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
-| 8 | [Tanzanya](http://twitter.com/search?q=Tanzanya) | N/A |
-| 9 | [SandıktanÖnce KadroGelsin](http://twitter.com/search?q=Sand%c4%b1ktan%c3%96nce+KadroGelsin) | N/A |
-| 10 | [Dolar 19](http://twitter.com/search?q=Dolar+19) | N/A |
-| 11 | [Daye](http://twitter.com/search?q=Daye) | N/A |
+| 8 | [SandıktanÖnce KadroGelsin](http://twitter.com/search?q=Sand%c4%b1ktan%c3%96nce+KadroGelsin) | N/A |
+| 9 | [Tanzanya](http://twitter.com/search?q=Tanzanya) | N/A |
+| 10 | [Daye](http://twitter.com/search?q=Daye) | N/A |
+| 11 | [Dolar 19](http://twitter.com/search?q=Dolar+19) | N/A |
 | 12 | [Günü](http://twitter.com/search?q=G%c3%bcn%c3%bc) | N/A |
 | 13 | [Şuursuz](http://twitter.com/search?q=%c5%9euursuz) | N/A |
 | 14 | [Öğretmen](http://twitter.com/search?q=%c3%96%c4%9fretmen) | N/A |
 | 15 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
 | 16 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 17 | [esad](http://twitter.com/search?q=esad) | N/A |
+| 17 | [Esad](http://twitter.com/search?q=Esad) | N/A |
 | 18 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
-| 19 | [Elma](http://twitter.com/search?q=Elma) | N/A |
-| 20 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
-| 21 | [HER ŞEYDEN ÖNCE TÜRKİYE](http://twitter.com/search?q=HER+%c5%9eEYDEN+%c3%96NCE+T%c3%9cRK%c4%b0YE) | N/A |
-| 22 | [Milletiyle](http://twitter.com/search?q=Milletiyle) | N/A |
-| 23 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 24 | [Urfalılar](http://twitter.com/search?q=Urfal%c4%b1lar) | N/A |
-| 25 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
-| 26 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
-| 27 | [Sinir](http://twitter.com/search?q=Sinir) | N/A |
-| 28 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
-| 29 | [#düzce](http://twitter.com/search?q=%23d%c3%bczce) | N/A |
-| 30 | [#20marttayuzyuzekarari](http://twitter.com/search?q=%2320marttayuzyuzekarari) | N/A |
-| 31 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
-| 32 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 33 | [#5binAboVeKısmiNerede](http://twitter.com/search?q=%235binAboVeK%c4%b1smiNerede) | N/A |
-| 34 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
-| 35 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
-| 36 | [#Sakarya](http://twitter.com/search?q=%23Sakarya) | N/A |
-| 37 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
-| 38 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
-| 39 | [#MebSosyaleSesVer](http://twitter.com/search?q=%23MebSosyaleSesVer) | N/A |
-| 40 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 41 | [#HalabjaGenocide](http://twitter.com/search?q=%23HalabjaGenocide) | N/A |
-| 42 | [#KöpeklerToplanacak](http://twitter.com/search?q=%23K%c3%b6peklerToplanacak) | N/A |
-| 43 | [#EnkazBıraktınAKP](http://twitter.com/search?q=%23EnkazB%c4%b1rakt%c4%b1nAKP) | N/A |
-| 44 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
+| 19 | [HER ŞEYDEN ÖNCE TÜRKİYE](http://twitter.com/search?q=HER+%c5%9eEYDEN+%c3%96NCE+T%c3%9cRK%c4%b0YE) | N/A |
+| 20 | [Elma](http://twitter.com/search?q=Elma) | N/A |
+| 21 | [Milletiyle](http://twitter.com/search?q=Milletiyle) | N/A |
+| 22 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 23 | [Sinir](http://twitter.com/search?q=Sinir) | N/A |
+| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 25 | [#düzce](http://twitter.com/search?q=%23d%c3%bczce) | N/A |
+| 26 | [#HalepceKatliamı](http://twitter.com/search?q=%23HalepceKatliam%c4%b1) | N/A |
+| 27 | [#İyiPartideSkandal](http://twitter.com/search?q=%23%c4%b0yiPartideSkandal) | N/A |
+| 28 | [#20marttayuzyuzekarari](http://twitter.com/search?q=%2320marttayuzyuzekarari) | N/A |
+| 29 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 30 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
+| 31 | [#5binAboVeKısmiNerede](http://twitter.com/search?q=%235binAboVeK%c4%b1smiNerede) | N/A |
+| 32 | [#ŞoföreAdalet](http://twitter.com/search?q=%23%c5%9eof%c3%b6reAdalet) | N/A |
+| 33 | [#Sakarya](http://twitter.com/search?q=%23Sakarya) | N/A |
+| 34 | [#2000lerinSeçimi](http://twitter.com/search?q=%232000lerinSe%c3%a7imi) | N/A |
+| 35 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
+| 36 | [#MebSosyaleSesVer](http://twitter.com/search?q=%23MebSosyaleSesVer) | N/A |
+| 37 | [#Emekli14MayısıBekliyor](http://twitter.com/search?q=%23Emekli14May%c4%b1s%c4%b1Bekliyor) | N/A |
+| 38 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 39 | [#HalabjaGenocide](http://twitter.com/search?q=%23HalabjaGenocide) | N/A |
+| 40 | [#KöpeklerToplanacak](http://twitter.com/search?q=%23K%c3%b6peklerToplanacak) | N/A |
+| 41 | [#EnkazBıraktınAKP](http://twitter.com/search?q=%23EnkazB%c4%b1rakt%c4%b1nAKP) | N/A |
+| 42 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
+| 43 | [#BeyazıtKatliamı](http://twitter.com/search?q=%23Beyaz%c4%b1tKatliam%c4%b1) | N/A |
+| 44 | [#ABOHakkımızdır](http://twitter.com/search?q=%23ABOHakk%c4%b1m%c4%b1zd%c4%b1r) | N/A |
 | 45 | [#16Mart](http://twitter.com/search?q=%2316Mart) | N/A |
-| 46 | [#BeyazıtKatliamı](http://twitter.com/search?q=%23Beyaz%c4%b1tKatliam%c4%b1) | N/A |
-| 47 | [#RachelCorrie](http://twitter.com/search?q=%23RachelCorrie) | N/A |
+| 46 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
+| 47 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 
 
 

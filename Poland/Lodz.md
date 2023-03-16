@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-16 12:18:27 UTC`
+📆 Last Updated: `2023-03-16 13:21:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
 | 4 | [#ParagonyGrozy](http://twitter.com/search?q=%23ParagonyGrozy) | N/A |
 | 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 6 | [Groty](http://twitter.com/search?q=Groty) | N/A |
-| 7 | [Donem](http://twitter.com/search?q=Donem) | N/A |
-| 8 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
-| 9 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
-| 10 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 13 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 14 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 15 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
-| 16 | [sawicki](http://twitter.com/search?q=sawicki) | N/A |
-| 17 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 18 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 19 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
-| 20 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
-| 21 | [Pisowcem](http://twitter.com/search?q=Pisowcem) | N/A |
-| 22 | [Polakom](http://twitter.com/search?q=Polakom) | N/A |
-| 23 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
-| 24 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 25 | [Justynę Wydrzyńską](http://twitter.com/search?q=Justyn%c4%99+Wydrzy%c5%84sk%c4%85) | N/A |
-| 26 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
-| 27 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 28 | [sądu apelacyjnego](http://twitter.com/search?q=s%c4%85du+apelacyjnego) | N/A |
-| 29 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
-| 30 | [lange](http://twitter.com/search?q=lange) | N/A |
-| 31 | [adam sandauer](http://twitter.com/search?q=adam+sandauer) | N/A |
-| 32 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
-| 33 | [lipsk](http://twitter.com/search?q=lipsk) | N/A |
-| 34 | [panie donaldzie](http://twitter.com/search?q=panie+donaldzie) | N/A |
-| 35 | [ziobro](http://twitter.com/search?q=ziobro) | N/A |
-| 36 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
-| 37 | [oranżada](http://twitter.com/search?q=oran%c5%bcada) | N/A |
-| 38 | [piotr zieliński](http://twitter.com/search?q=piotr+zieli%c5%84ski) | N/A |
-| 39 | [Dulkiewicz](http://twitter.com/search?q=Dulkiewicz) | N/A |
-| 40 | [let's go nuns](http://twitter.com/search?q=let%27s+go+nuns) | N/A |
-| 41 | [zdrowiej](http://twitter.com/search?q=zdrowiej) | N/A |
-| 42 | [Zgłaszam](http://twitter.com/search?q=Zg%c5%82aszam) | N/A |
-| 43 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 44 | [halinko](http://twitter.com/search?q=halinko) | N/A |
-| 45 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 47 | [Mariusz Błaszczak](http://twitter.com/search?q=Mariusz+B%c5%82aszczak) | N/A |
+| 6 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
+| 7 | [Groty](http://twitter.com/search?q=Groty) | N/A |
+| 8 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 9 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 10 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 11 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
+| 12 | [Giertych](http://twitter.com/search?q=Giertych) | N/A |
+| 13 | [Donem](http://twitter.com/search?q=Donem) | N/A |
+| 14 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
+| 15 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 16 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 17 | [Biedronki](http://twitter.com/search?q=Biedronki) | N/A |
+| 18 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 19 | [Szwajcarii](http://twitter.com/search?q=Szwajcarii) | N/A |
+| 20 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 22 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 23 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 25 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
+| 26 | [Ceny](http://twitter.com/search?q=Ceny) | N/A |
+| 27 | [Morzem Czarnym](http://twitter.com/search?q=Morzem+Czarnym) | N/A |
+| 28 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
+| 29 | [sawicki](http://twitter.com/search?q=sawicki) | N/A |
+| 30 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 31 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
+| 32 | [Pomoc](http://twitter.com/search?q=Pomoc) | N/A |
+| 33 | [Neapolu](http://twitter.com/search?q=Neapolu) | N/A |
+| 34 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 35 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 36 | [Mariusz Błaszczak](http://twitter.com/search?q=Mariusz+B%c5%82aszczak) | N/A |
+| 37 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 38 | [Ozdoba](http://twitter.com/search?q=Ozdoba) | N/A |
+| 39 | [Pisowcem](http://twitter.com/search?q=Pisowcem) | N/A |
+| 40 | [Justynę Wydrzyńską](http://twitter.com/search?q=Justyn%c4%99+Wydrzy%c5%84sk%c4%85) | N/A |
+| 41 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 42 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
+| 43 | [Sądu Apelacyjnego](http://twitter.com/search?q=S%c4%85du+Apelacyjnego) | N/A |
+| 44 | [Lidlu](http://twitter.com/search?q=Lidlu) | N/A |
+| 45 | [Polakom](http://twitter.com/search?q=Polakom) | N/A |
+| 46 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 47 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
 
 
 

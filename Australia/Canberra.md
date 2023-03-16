@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-16 12:18:36 UTC`
+📆 Last Updated: `2023-03-16 13:21:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Australia](</Australia>)
 | 4 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
 | 5 | [Parra](http://twitter.com/search?q=Parra) | N/A |
 | 6 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 7 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 8 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 9 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
-| 10 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 7 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 8 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 9 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 10 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
 | 11 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 13 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 14 | [#NetballChaos](http://twitter.com/search?q=%23NetballChaos) | N/A |
-| 15 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
-| 16 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 17 | [#AFL23](http://twitter.com/search?q=%23AFL23) | N/A |
-| 18 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
-| 19 | [Acres](http://twitter.com/search?q=Acres) | N/A |
-| 20 | [McKay](http://twitter.com/search?q=McKay) | N/A |
-| 21 | [Schuster](http://twitter.com/search?q=Schuster) | N/A |
-| 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 23 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
+| 12 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
+| 13 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 14 | [#Baggers](http://twitter.com/search?q=%23Baggers) | N/A |
+| 15 | [#AFL23](http://twitter.com/search?q=%23AFL23) | N/A |
+| 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 17 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
+| 18 | [Acres](http://twitter.com/search?q=Acres) | N/A |
+| 19 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 20 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
+| 21 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 22 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
+| 23 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
 | 24 | [Rioli](http://twitter.com/search?q=Rioli) | N/A |
-| 25 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
-| 26 | [Docherty](http://twitter.com/search?q=Docherty) | N/A |
-| 27 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 28 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
-| 29 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
-| 30 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
-| 31 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 32 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 33 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
-| 34 | [Balta](http://twitter.com/search?q=Balta) | N/A |
-| 35 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
-| 36 | [Lewis Young](http://twitter.com/search?q=Lewis+Young) | N/A |
-| 37 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 38 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 39 | [Curnow](http://twitter.com/search?q=Curnow) | N/A |
+| 25 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 26 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
+| 27 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
+| 28 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
+| 29 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
+| 30 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
+| 31 | [Curnow](http://twitter.com/search?q=Curnow) | N/A |
+| 32 | [Schuster](http://twitter.com/search?q=Schuster) | N/A |
+| 33 | [Visit New South Wales](http://twitter.com/search?q=Visit+New+South+Wales) | N/A |
+| 34 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
+| 35 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
+| 36 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 37 | [Lewis Young](http://twitter.com/search?q=Lewis+Young) | N/A |
+| 38 | [Honest Government Ad](http://twitter.com/search?q=Honest+Government+Ad) | N/A |
+| 39 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
 | 40 | [Brian Taylor](http://twitter.com/search?q=Brian+Taylor) | N/A |
-| 41 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
-| 42 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 43 | [Riewoldt](http://twitter.com/search?q=Riewoldt) | N/A |
-| 44 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 45 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
-| 46 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 41 | [Brad Parker](http://twitter.com/search?q=Brad+Parker) | N/A |
+| 42 | [Balta](http://twitter.com/search?q=Balta) | N/A |
+| 43 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 44 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 45 | [Brad Arthur](http://twitter.com/search?q=Brad+Arthur) | N/A |
+| 46 | [Riewoldt](http://twitter.com/search?q=Riewoldt) | N/A |
 | 47 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
-| 48 | [Brad Parker](http://twitter.com/search?q=Brad+Parker) | N/A |
-| 49 | [Draw](http://twitter.com/search?q=Draw) | N/A |
+| 48 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 49 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
 
 
 

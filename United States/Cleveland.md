@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-16 12:18:55 UTC`
+📆 Last Updated: `2023-03-16 13:21:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [United States](</United States>)
 | 7 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
 | 8 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
 | 9 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 10 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 11 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 10 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
 | 12 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
 | 13 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
 | 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
 | 15 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 16 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 17 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 18 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 19 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 20 | [Privatizing Social Security](http://twitter.com/search?q=Privatizing+Social+Security) | N/A |
+| 16 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 17 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 18 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 19 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 20 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
 | 21 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 22 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 23 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 24 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 25 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 26 | [Wylan](http://twitter.com/search?q=Wylan) | N/A |
-| 27 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 28 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 22 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 23 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 24 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 25 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 26 | [The Pentagon](http://twitter.com/search?q=The+Pentagon) | N/A |
+| 27 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 28 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
 | 29 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 30 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 31 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 30 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 31 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
 | 32 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 33 | [The Pentagon](http://twitter.com/search?q=The+Pentagon) | N/A |
-| 34 | [MIKE TROUT](http://twitter.com/search?q=MIKE+TROUT) | N/A |
+| 33 | [MIKE TROUT](http://twitter.com/search?q=MIKE+TROUT) | N/A |
+| 34 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
 | 35 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 36 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 37 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 38 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
-| 39 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 36 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 37 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 38 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 39 | [Araki](http://twitter.com/search?q=Araki) | N/A |
 | 40 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
 | 41 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 42 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 43 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 44 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 45 | [Shapiro](http://twitter.com/search?q=Shapiro) | N/A |
+| 42 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 43 | [Swiss National Bank](http://twitter.com/search?q=Swiss+National+Bank) | N/A |
+| 44 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
+| 45 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
 | 46 | [Puerto Ricans](http://twitter.com/search?q=Puerto+Ricans) | N/A |
-| 47 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 48 | [Swiss National Bank](http://twitter.com/search?q=Swiss+National+Bank) | N/A |
-| 49 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
-| 50 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 47 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
+| 48 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 49 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 50 | [Shapiro](http://twitter.com/search?q=Shapiro) | N/A |
 
 
 
