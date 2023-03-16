@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norfolk
 
-📆 Last Updated: `2023-03-16 03:16:59 UTC`
+📆 Last Updated: `2023-03-16 04:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ALLCAPS](http://twitter.com/search?q=%23ALLCAPS) | N/A |
-| 2 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 2 | [#ALLCAPS](http://twitter.com/search?q=%23ALLCAPS) | N/A |
 | 3 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
 | 4 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 5 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 6 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 7 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 8 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 10 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 11 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 12 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 13 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 14 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 15 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 16 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 17 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 18 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 19 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 20 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 21 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 22 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 23 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 24 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 25 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 26 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 27 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 28 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 29 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 30 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 31 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
-| 32 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 33 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 34 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 35 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 36 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 37 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 38 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 39 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 40 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 41 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
-| 42 | [Steve Alford](http://twitter.com/search?q=Steve+Alford) | N/A |
-| 43 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
-| 44 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 45 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 46 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
-| 47 | [Taya](http://twitter.com/search?q=Taya) | N/A |
-| 48 | [Charli](http://twitter.com/search?q=Charli) | N/A |
-| 49 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 6 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 7 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 8 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 9 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 10 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 11 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 12 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 13 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 14 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 15 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 16 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
+| 17 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 18 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 19 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 20 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 21 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 22 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 23 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 24 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 25 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 26 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 27 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 28 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 29 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 30 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 31 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 32 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 33 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 34 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 35 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 36 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 37 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 38 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 39 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 40 | [Flagrant 2](http://twitter.com/search?q=Flagrant+2) | N/A |
+| 41 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 42 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 43 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 44 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 45 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
+| 46 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 47 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 48 | [Steve Alford](http://twitter.com/search?q=Steve+Alford) | N/A |
+| 49 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
 
 
 

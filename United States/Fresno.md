@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-16 03:16:56 UTC`
+📆 Last Updated: `2023-03-16 04:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 2 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 3 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 4 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 5 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 6 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 7 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
-| 8 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
-| 9 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 10 | [No Jumper](http://twitter.com/search?q=No+Jumper) | N/A |
-| 11 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 12 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 13 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 14 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 15 | [Andre](http://twitter.com/search?q=Andre) | N/A |
+| 2 | [De’Aaron](http://twitter.com/search?q=De%e2%80%99Aaron) | N/A |
+| 3 | [Mook](http://twitter.com/search?q=Mook) | N/A |
+| 4 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 5 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 6 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 7 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 8 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
+| 9 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 10 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 11 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 12 | [The Lakers](http://twitter.com/search?q=The+Lakers) | N/A |
+| 13 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 14 | [No Jumper](http://twitter.com/search?q=No+Jumper) | N/A |
+| 15 | [Manny](http://twitter.com/search?q=Manny) | N/A |
 | 16 | [Center](http://twitter.com/search?q=Center) | N/A |
-| 17 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 17 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 18 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
 | 19 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 20 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 21 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 22 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 23 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 24 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 25 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 26 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 20 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 21 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 22 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 23 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 24 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 25 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 26 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
 | 27 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 28 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 29 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 30 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 28 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 29 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 30 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
 | 31 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 32 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 33 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 34 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 35 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 36 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 37 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 38 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 39 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 40 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 41 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 42 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 43 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 44 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 45 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 46 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 47 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 48 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 49 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 32 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 33 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 34 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 35 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 36 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 37 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 38 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 39 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 40 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 41 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 42 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 43 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 44 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 45 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 46 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 47 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 48 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 49 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
 
 
 

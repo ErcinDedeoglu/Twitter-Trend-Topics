@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-16 03:16:26 UTC`
+📆 Last Updated: `2023-03-16 04:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
 | 2 | [#rundertisch](http://twitter.com/search?q=%23rundertisch) | N/A |
-| 3 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
-| 4 | [mitglieder](http://twitter.com/search?q=mitglieder) | N/A |
-| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 6 | [seilbahn](http://twitter.com/search?q=seilbahn) | N/A |
-| 7 | [#w1503](http://twitter.com/search?q=%23w1503) | N/A |
-| 8 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
-| 9 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 10 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
+| 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 4 | [mitgliederbefragung](http://twitter.com/search?q=mitgliederbefragung) | N/A |
+| 5 | [seilbahn](http://twitter.com/search?q=seilbahn) | N/A |
+| 6 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
+| 7 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
+| 8 | [#w1503](http://twitter.com/search?q=%23w1503) | N/A |
+| 9 | [parteitag](http://twitter.com/search?q=parteitag) | N/A |
+| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 11 | [#LongCovid](http://twitter.com/search?q=%23LongCovid) | N/A |
-| 12 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 13 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 14 | [burgenland](http://twitter.com/search?q=burgenland) | N/A |
-| 15 | [parteitag](http://twitter.com/search?q=parteitag) | N/A |
-| 16 | [#rendiwagner](http://twitter.com/search?q=%23rendiwagner) | N/A |
-| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 18 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
-| 19 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 20 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 21 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 22 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 23 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 24 | [sozialdemokratie](http://twitter.com/search?q=sozialdemokratie) | N/A |
-| 25 | [Druck](http://twitter.com/search?q=Druck) | N/A |
-| 26 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 27 | [Konsequenzen](http://twitter.com/search?q=Konsequenzen) | N/A |
-| 28 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 29 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 30 | [Fällen](http://twitter.com/search?q=F%c3%a4llen) | N/A |
-| 31 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
-| 32 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 33 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 34 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 35 | [Mund](http://twitter.com/search?q=Mund) | N/A |
-| 36 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 37 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
-| 38 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 39 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
-| 40 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
-| 41 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
-| 42 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 43 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 44 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 45 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 46 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 47 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
-| 48 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
-| 49 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 50 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 12 | [#rendiwagner](http://twitter.com/search?q=%23rendiwagner) | N/A |
+| 13 | [kandidaten](http://twitter.com/search?q=kandidaten) | N/A |
+| 14 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 15 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [Mund](http://twitter.com/search?q=Mund) | N/A |
+| 18 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 19 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 20 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 21 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
+| 22 | [Konsequenzen](http://twitter.com/search?q=Konsequenzen) | N/A |
+| 23 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 24 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
+| 25 | [Verhalten](http://twitter.com/search?q=Verhalten) | N/A |
+| 26 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 27 | [Widerstand](http://twitter.com/search?q=Widerstand) | N/A |
+| 28 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 29 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 30 | [Neid](http://twitter.com/search?q=Neid) | N/A |
+| 31 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 32 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 33 | [Stärke](http://twitter.com/search?q=St%c3%a4rke) | N/A |
+| 34 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 35 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
+| 36 | [Tipps](http://twitter.com/search?q=Tipps) | N/A |
+| 37 | [anschlag](http://twitter.com/search?q=anschlag) | N/A |
+| 38 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 39 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 40 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 41 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 42 | [Reihe](http://twitter.com/search?q=Reihe) | N/A |
+| 43 | [Drama](http://twitter.com/search?q=Drama) | N/A |
+| 44 | [Scherz](http://twitter.com/search?q=Scherz) | N/A |
+| 45 | [Wendler](http://twitter.com/search?q=Wendler) | N/A |
+| 46 | [Troll](http://twitter.com/search?q=Troll) | N/A |
+| 47 | [Ausrede](http://twitter.com/search?q=Ausrede) | N/A |
+| 48 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 49 | [Loch](http://twitter.com/search?q=Loch) | N/A |
+| 50 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
 
 
 

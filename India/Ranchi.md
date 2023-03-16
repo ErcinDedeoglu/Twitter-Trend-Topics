@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-03-16 03:16:50 UTC`
+📆 Last Updated: `2023-03-16 04:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,48 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#PowerOfPositivity](http://twitter.com/search?q=%23PowerOfPositivity) | N/A |
 | 2 | [#PublicSabJantiHai](http://twitter.com/search?q=%23PublicSabJantiHai) | N/A |
-| 3 | [Asharamji Bapu Case](http://twitter.com/search?q=Asharamji+Bapu+Case) | N/A |
-| 4 | [Request To GOI](http://twitter.com/search?q=Request+To+GOI) | N/A |
-| 5 | [Release Innocent Saint](http://twitter.com/search?q=Release+Innocent+Saint) | N/A |
-| 6 | [#NationalVaccinationDay](http://twitter.com/search?q=%23NationalVaccinationDay) | N/A |
-| 7 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
-| 8 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 9 | [#AskNani](http://twitter.com/search?q=%23AskNani) | N/A |
-| 10 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 11 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 12 | [Justice4SSR Longest Satyagraha](http://twitter.com/search?q=Justice4SSR+Longest+Satyagraha) | N/A |
-| 13 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 14 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 15 | [प्रथम रक्षा प्रमुख](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 16 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 18 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 19 | [बहुजन नायक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%9c%e0%a4%a8+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95) | N/A |
-| 20 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 21 | [Bapuji](http://twitter.com/search?q=Bapuji) | N/A |
-| 22 | [Swiss National Bank](http://twitter.com/search?q=Swiss+National+Bank) | N/A |
-| 23 | [Celine](http://twitter.com/search?q=Celine) | N/A |
-| 24 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 25 | [होल्कर वंश](http://twitter.com/search?q=%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%82%e0%a4%b6) | N/A |
-| 26 | [nationalexec of minoritydept](http://twitter.com/search?q=nationalexec+of+minoritydept) | N/A |
-| 27 | [नारायण हरि](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 28 | [Jai Shree Hari](http://twitter.com/search?q=Jai+Shree+Hari) | N/A |
-| 29 | [SA True Story](http://twitter.com/search?q=SA+True+Story) | N/A |
-| 30 | [श्री कांशीराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 31 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 32 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 33 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 34 | [grace harris](http://twitter.com/search?q=grace+harris) | N/A |
-| 35 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
-| 36 | [Meditation](http://twitter.com/search?q=Meditation) | N/A |
-| 37 | [US Senate](http://twitter.com/search?q=US+Senate) | N/A |
-| 38 | [false rape cases](http://twitter.com/search?q=false+rape+cases) | N/A |
-| 39 | [श्री राधे कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%87+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 40 | [BIRTH Campaign](http://twitter.com/search?q=BIRTH+Campaign) | N/A |
-| 41 | [classic example](http://twitter.com/search?q=classic+example) | N/A |
-| 42 | [Sonali Kulkarni](http://twitter.com/search?q=Sonali+Kulkarni) | N/A |
-| 43 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 44 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 45 | [KANWAR TURNS THIRTY](http://twitter.com/search?q=KANWAR+TURNS+THIRTY) | N/A |
-| 46 | [श्री लक्ष्मीनारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 47 | [Sushant Worth Emulating](http://twitter.com/search?q=Sushant+Worth+Emulating) | N/A |
-| 48 | [साई राम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%88+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 49 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 3 | [#NationalVaccinationDay](http://twitter.com/search?q=%23NationalVaccinationDay) | N/A |
+| 4 | [Asharamji Bapu Case](http://twitter.com/search?q=Asharamji+Bapu+Case) | N/A |
+| 5 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
+| 6 | [Request To GOI](http://twitter.com/search?q=Request+To+GOI) | N/A |
+| 7 | [Release Innocent Saint](http://twitter.com/search?q=Release+Innocent+Saint) | N/A |
+| 8 | [#BipinRawat](http://twitter.com/search?q=%23BipinRawat) | N/A |
+| 9 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 10 | [Justice4SSR Longest Satyagraha](http://twitter.com/search?q=Justice4SSR+Longest+Satyagraha) | N/A |
+| 11 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 12 | [प्रथम रक्षा प्रमुख](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
+| 13 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 14 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 15 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 16 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 17 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 18 | [Meditation](http://twitter.com/search?q=Meditation) | N/A |
+| 19 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 20 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 21 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 22 | [योगी आदित्यनाथ](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 23 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
+| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 25 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 26 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 27 | [#HBDayCRPaatil](http://twitter.com/search?q=%23HBDayCRPaatil) | N/A |
+| 28 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 29 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 30 | [#NewZealand](http://twitter.com/search?q=%23NewZealand) | N/A |
+| 31 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
+| 32 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
+| 33 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
+| 34 | [#pottisriramulu](http://twitter.com/search?q=%23pottisriramulu) | N/A |
+| 35 | [#राष्ट्रीय_टीकाकरण_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%9f%e0%a5%80%e0%a4%95%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%a3_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 36 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 37 | [#ॐ_नमो_भगवते_वासुदेवाय_नमः](http://twitter.com/search?q=%23%e0%a5%90_%e0%a4%a8%e0%a4%ae%e0%a5%8b_%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%a4%e0%a5%87_%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%af_%e0%a4%a8%e0%a4%ae%e0%a4%83) | N/A |
+| 38 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 39 | [#Ayodhya](http://twitter.com/search?q=%23Ayodhya) | N/A |
+| 40 | [#SGXNIFTY](http://twitter.com/search?q=%23SGXNIFTY) | N/A |
+| 41 | [#MadanRavichandran](http://twitter.com/search?q=%23MadanRavichandran) | N/A |
+| 42 | [#BankingCrisis](http://twitter.com/search?q=%23BankingCrisis) | N/A |
+| 43 | [#RMALIV](http://twitter.com/search?q=%23RMALIV) | N/A |
+| 44 | [#Thangalaan](http://twitter.com/search?q=%23Thangalaan) | N/A |
 
 
 

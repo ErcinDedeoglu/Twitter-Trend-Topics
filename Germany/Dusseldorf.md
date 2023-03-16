@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-16 03:16:28 UTC`
+📆 Last Updated: `2023-03-16 04:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 2 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
+| 2 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
 | 3 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 4 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
+| 4 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
 | 5 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 6 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 6 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
 | 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
 | 8 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 9 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 10 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
 | 11 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 12 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 13 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 14 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 15 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 16 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 17 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 18 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 12 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 13 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 14 | [warteraum](http://twitter.com/search?q=warteraum) | N/A |
+| 15 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 16 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 17 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 18 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
 | 19 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
-| 20 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 22 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 23 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
-| 24 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 25 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 26 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 27 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 28 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 29 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
-| 30 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 31 | [verwaltung](http://twitter.com/search?q=verwaltung) | N/A |
-| 32 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 33 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 34 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 35 | [Rache](http://twitter.com/search?q=Rache) | N/A |
-| 36 | [Vollidioten](http://twitter.com/search?q=Vollidioten) | N/A |
-| 37 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
-| 38 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 39 | [wahlkreis](http://twitter.com/search?q=wahlkreis) | N/A |
-| 40 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
-| 41 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 42 | [Skier](http://twitter.com/search?q=Skier) | N/A |
-| 43 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 44 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 45 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 46 | [Verkehrssektor](http://twitter.com/search?q=Verkehrssektor) | N/A |
-| 47 | [Studis](http://twitter.com/search?q=Studis) | N/A |
-| 48 | [Flips](http://twitter.com/search?q=Flips) | N/A |
-| 49 | [Zugangscode](http://twitter.com/search?q=Zugangscode) | N/A |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 21 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 22 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 23 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 24 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 25 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 26 | [farbe im gesicht](http://twitter.com/search?q=farbe+im+gesicht) | N/A |
+| 27 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
+| 28 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 29 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 30 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 31 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 32 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 33 | [zugangscode](http://twitter.com/search?q=zugangscode) | N/A |
+| 34 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 35 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 36 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 37 | [Verkehrssektor](http://twitter.com/search?q=Verkehrssektor) | N/A |
+| 38 | [Bürgerkrieg](http://twitter.com/search?q=B%c3%bcrgerkrieg) | N/A |
+| 39 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 40 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 41 | [einrad](http://twitter.com/search?q=einrad) | N/A |
+| 42 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 43 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 44 | [Ausschreitungen](http://twitter.com/search?q=Ausschreitungen) | N/A |
+| 45 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 46 | [Jugendstrafrecht](http://twitter.com/search?q=Jugendstrafrecht) | N/A |
+| 47 | [wahlkreis](http://twitter.com/search?q=wahlkreis) | N/A |
+| 48 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 49 | [Sanierung](http://twitter.com/search?q=Sanierung) | N/A |
 
 
 

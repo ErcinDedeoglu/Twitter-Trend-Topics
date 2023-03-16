@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-16 03:16:58 UTC`
+📆 Last Updated: `2023-03-16 04:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
-| 2 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 3 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 4 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
-| 5 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 6 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 7 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 8 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 9 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
-| 10 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 3 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 4 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 5 | [De’Aaron](http://twitter.com/search?q=De%e2%80%99Aaron) | N/A |
+| 6 | [Mook](http://twitter.com/search?q=Mook) | N/A |
+| 7 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 8 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 9 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 10 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
 | 11 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 12 | [No Jumper](http://twitter.com/search?q=No+Jumper) | N/A |
-| 13 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 14 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 15 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 16 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 17 | [Andre](http://twitter.com/search?q=Andre) | N/A |
-| 18 | [Center](http://twitter.com/search?q=Center) | N/A |
-| 19 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 21 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 22 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 23 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 24 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 25 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 26 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 27 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 28 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 29 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 30 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 31 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 32 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 33 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 34 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 35 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 36 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 37 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 38 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 39 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 40 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 41 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
-| 42 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 43 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 44 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 45 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 46 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
-| 47 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 48 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 49 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 50 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 12 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 13 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 14 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 15 | [The Lakers](http://twitter.com/search?q=The+Lakers) | N/A |
+| 16 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 17 | [No Jumper](http://twitter.com/search?q=No+Jumper) | N/A |
+| 18 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 19 | [Center](http://twitter.com/search?q=Center) | N/A |
+| 20 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 21 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 22 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 23 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 24 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 25 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 26 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 27 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 28 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 29 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 30 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 31 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 32 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 33 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 34 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 35 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 36 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 37 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 38 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 39 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 40 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 41 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 42 | [Binner](http://twitter.com/search?q=Binner) | N/A |
+| 43 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 44 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 45 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 46 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 47 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 48 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 49 | [Kendrys Morales](http://twitter.com/search?q=Kendrys+Morales) | N/A |
+| 50 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
 
 
 
