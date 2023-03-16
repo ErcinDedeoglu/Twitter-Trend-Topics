@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-16 13:22:08 UTC`
+📆 Last Updated: `2023-03-16 14:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,52 @@ This is top 50 for Philippines
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [#TaokaenoiXFreenBeckyLive](http://twitter.com/search?q=%23TaokaenoiXFreenBeckyLive) | N/A |
-| 3 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
-| 4 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
-| 5 | [#WildTonightInTheDarkEP2](http://twitter.com/search?q=%23WildTonightInTheDarkEP2) | N/A |
-| 6 | [JoshCullen WT Dance Rehearsal](http://twitter.com/search?q=JoshCullen+WT+Dance+Rehearsal) | N/A |
-| 7 | [DrVickiBeloVlog WithDONNY](http://twitter.com/search?q=DrVickiBeloVlog+WithDONNY) | N/A |
-| 8 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 3 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 4 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
+| 5 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 6 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
+| 7 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 8 | [#WildTonightInTheDarkEP2](http://twitter.com/search?q=%23WildTonightInTheDarkEP2) | N/A |
 | 9 | [#WalaNaBa_by_PHP](http://twitter.com/search?q=%23WalaNaBa_by_PHP) | N/A |
-| 10 | [SARAH GERONIMO CONCERT](http://twitter.com/search?q=SARAH+GERONIMO+CONCERT) | N/A |
-| 11 | [LOVINGisa WITH ROBXINE](http://twitter.com/search?q=LOVINGisa+WITH+ROBXINE) | N/A |
-| 12 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
-| 13 | [JAY SELCA](http://twitter.com/search?q=JAY+SELCA) | N/A |
-| 14 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 15 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
-| 16 | [ALJAY OnStarMagicLounge](http://twitter.com/search?q=ALJAY+OnStarMagicLounge) | N/A |
-| 17 | [JU-YONG's KISS SA ABRIL](http://twitter.com/search?q=JU-YONG%27s+KISS+SA+ABRIL) | N/A |
-| 18 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
-| 19 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 20 | [Camarines Sur](http://twitter.com/search?q=Camarines+Sur) | N/A |
-| 21 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 22 | [True Baptism](http://twitter.com/search?q=True+Baptism) | N/A |
-| 23 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 24 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
-| 25 | [HAPPY BIRTHDAY JACKSON WANG](http://twitter.com/search?q=HAPPY+BIRTHDAY+JACKSON+WANG) | N/A |
-| 26 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 27 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 28 | [jennifer garner](http://twitter.com/search?q=jennifer+garner) | N/A |
-| 29 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 30 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 31 | [excited for you kinji](http://twitter.com/search?q=excited+for+you+kinji) | N/A |
-| 32 | [jisoo me visual teaser](http://twitter.com/search?q=jisoo+me+visual+teaser) | N/A |
-| 33 | [Arado](http://twitter.com/search?q=Arado) | N/A |
-| 34 | [CCS vs F2](http://twitter.com/search?q=CCS+vs+F2) | N/A |
-| 35 | [kaomiah new project](http://twitter.com/search?q=kaomiah+new+project) | N/A |
-| 36 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
-| 37 | [seventeen mafia game](http://twitter.com/search?q=seventeen+mafia+game) | N/A |
-| 38 | [drowning in bobby](http://twitter.com/search?q=drowning+in+bobby) | N/A |
-| 39 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
-| 40 | [Villafuerte](http://twitter.com/search?q=Villafuerte) | N/A |
-| 41 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 42 | [CamSur](http://twitter.com/search?q=CamSur) | N/A |
-| 43 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 44 | [JAY CAME HOME](http://twitter.com/search?q=JAY+CAME+HOME) | N/A |
-| 45 | [book your tickets now](http://twitter.com/search?q=book+your+tickets+now) | N/A |
-| 46 | [HAPPY 1STMONTHSARY WARLIO](http://twitter.com/search?q=HAPPY+1STMONTHSARY+WARLIO) | N/A |
-| 47 | [GForest](http://twitter.com/search?q=GForest) | N/A |
-| 48 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 49 | [Coach Dante](http://twitter.com/search?q=Coach+Dante) | N/A |
-| 50 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 10 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
+| 11 | [PHP WALA NA BA D1](http://twitter.com/search?q=PHP+WALA+NA+BA+D1) | N/A |
+| 12 | [JoshCullen WT Dance Rehearsal](http://twitter.com/search?q=JoshCullen+WT+Dance+Rehearsal) | N/A |
+| 13 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
+| 14 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 15 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 16 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 17 | [LOVINGisa WITH ROBXINE](http://twitter.com/search?q=LOVINGisa+WITH+ROBXINE) | N/A |
+| 18 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 19 | [True Baptism](http://twitter.com/search?q=True+Baptism) | N/A |
+| 20 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 21 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 22 | [sarah geronimo concert](http://twitter.com/search?q=sarah+geronimo+concert) | N/A |
+| 23 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 24 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 25 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 26 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 27 | [FastTalk WithJULIEVER](http://twitter.com/search?q=FastTalk+WithJULIEVER) | N/A |
+| 28 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 29 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 30 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 31 | [Camarines Sur](http://twitter.com/search?q=Camarines+Sur) | N/A |
+| 32 | [#DLExplanation](http://twitter.com/search?q=%23DLExplanation) | N/A |
+| 33 | [#UrdujaRisingSun](http://twitter.com/search?q=%23UrdujaRisingSun) | N/A |
+| 34 | [#WILDTONIGHTSAPPOPCOM2023](http://twitter.com/search?q=%23WILDTONIGHTSAPPOPCOM2023) | N/A |
+| 35 | [#VickiBeloVlog](http://twitter.com/search?q=%23VickiBeloVlog) | N/A |
+| 36 | [#Press_Hit_Play](http://twitter.com/search?q=%23Press_Hit_Play) | N/A |
+| 37 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 38 | [#DavidLicauco](http://twitter.com/search?q=%23DavidLicauco) | N/A |
+| 39 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
+| 40 | [#PPOPCOMsaETON](http://twitter.com/search?q=%23PPOPCOMsaETON) | N/A |
+| 41 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
+| 42 | [#DonnyForADVALight](http://twitter.com/search?q=%23DonnyForADVALight) | N/A |
+| 43 | [#andTEAM](http://twitter.com/search?q=%23andTEAM) | N/A |
+| 44 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 45 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 46 | [#KimSeonHo](http://twitter.com/search?q=%23KimSeonHo) | N/A |
+| 47 | [#beloadvalight](http://twitter.com/search?q=%23beloadvalight) | N/A |
+| 48 | [#ftbajuliever](http://twitter.com/search?q=%23ftbajuliever) | N/A |
 
 
 

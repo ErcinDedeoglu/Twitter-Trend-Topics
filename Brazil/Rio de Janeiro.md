@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-16 13:21:24 UTC`
+📆 Last Updated: `2023-03-16 14:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bomdia](http://twitter.com/search?q=%23bomdia) | N/A |
+| 1 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
 | 2 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 3 | [Guime](http://twitter.com/search?q=Guime) | N/A |
-| 4 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 5 | [ANY G PUMA](http://twitter.com/search?q=ANY+G+PUMA) | N/A |
-| 6 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 7 | [AMANDA CAMPEÃ](http://twitter.com/search?q=AMANDA+CAMPE%c3%83) | N/A |
-| 8 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
-| 9 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
-| 10 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
-| 11 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
-| 12 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
-| 13 | [shadow and bone](http://twitter.com/search?q=shadow+and+bone) | N/A |
-| 14 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 15 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 16 | [Assediador](http://twitter.com/search?q=Assediador) | N/A |
-| 17 | [Expulsão](http://twitter.com/search?q=Expuls%c3%a3o) | N/A |
-| 18 | [Amigão](http://twitter.com/search?q=Amig%c3%a3o) | N/A |
-| 19 | [#VCnoJM](http://twitter.com/search?q=%23VCnoJM) | N/A |
-| 20 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 21 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
-| 22 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 23 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 24 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 25 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
-| 26 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
-| 27 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
-| 28 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 29 | [CASADO](http://twitter.com/search?q=CASADO) | N/A |
-| 30 | [Merecem](http://twitter.com/search?q=Merecem) | N/A |
-| 31 | [Sombra e Ossos](http://twitter.com/search?q=Sombra+e+Ossos) | N/A |
-| 32 | [matthias](http://twitter.com/search?q=matthias) | N/A |
-| 33 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 34 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 35 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
-| 36 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 37 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 38 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 39 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 40 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 41 | [Força Nacional](http://twitter.com/search?q=For%c3%a7a+Nacional) | N/A |
-| 42 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 43 | [Glauber](http://twitter.com/search?q=Glauber) | N/A |
-| 44 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 45 | [Ministro da Justiça](http://twitter.com/search?q=Ministro+da+Justi%c3%a7a) | N/A |
-| 46 | [PARABÉNS SAPATO](http://twitter.com/search?q=PARAB%c3%89NS+SAPATO) | N/A |
-| 47 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 48 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 49 | [Sapatito](http://twitter.com/search?q=Sapatito) | N/A |
-| 50 | [Paulinho e Hulk](http://twitter.com/search?q=Paulinho+e+Hulk) | N/A |
+| 3 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 4 | [ANY G PUMA](http://twitter.com/search?q=ANY+G+PUMA) | N/A |
+| 5 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 6 | [Marcos Paulo](http://twitter.com/search?q=Marcos+Paulo) | N/A |
+| 7 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 8 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
+| 9 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 10 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 11 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
+| 12 | [Flerte](http://twitter.com/search?q=Flerte) | N/A |
+| 13 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
+| 14 | [Amanda Campeã](http://twitter.com/search?q=Amanda+Campe%c3%a3) | N/A |
+| 15 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
+| 16 | [Shadow and Bone](http://twitter.com/search?q=Shadow+and+Bone) | N/A |
+| 17 | [Feel Special](http://twitter.com/search?q=Feel+Special) | N/A |
+| 18 | [Assediador](http://twitter.com/search?q=Assediador) | N/A |
+| 19 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
+| 20 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
+| 21 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 22 | [#TaokaenoiXFreenBeckyLive](http://twitter.com/search?q=%23TaokaenoiXFreenBeckyLive) | N/A |
+| 23 | [#expulsão](http://twitter.com/search?q=%23expuls%c3%a3o) | N/A |
+| 24 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
+| 25 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
+| 26 | [Shuaibo](http://twitter.com/search?q=Shuaibo) | N/A |
+| 27 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 28 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 29 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 30 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 31 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 32 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 33 | [Amigão](http://twitter.com/search?q=Amig%c3%a3o) | N/A |
+| 34 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 35 | [Alina](http://twitter.com/search?q=Alina) | N/A |
+| 36 | [Maré](http://twitter.com/search?q=Mar%c3%a9) | N/A |
+| 37 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 38 | [Casado](http://twitter.com/search?q=Casado) | N/A |
+| 39 | [wylan](http://twitter.com/search?q=wylan) | N/A |
+| 40 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 41 | [Bebida](http://twitter.com/search?q=Bebida) | N/A |
+| 42 | [jesper](http://twitter.com/search?q=jesper) | N/A |
+| 43 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
+| 44 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
+| 45 | [Glauber](http://twitter.com/search?q=Glauber) | N/A |
+| 46 | [Lealdade](http://twitter.com/search?q=Lealdade) | N/A |
+| 47 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 48 | [matthias](http://twitter.com/search?q=matthias) | N/A |
+| 49 | [Sombra e Ossos](http://twitter.com/search?q=Sombra+e+Ossos) | N/A |
+| 50 | [Araki](http://twitter.com/search?q=Araki) | N/A |
 
 
 

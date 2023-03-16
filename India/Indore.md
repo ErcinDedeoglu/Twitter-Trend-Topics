@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-16 13:21:51 UTC`
+📆 Last Updated: `2023-03-16 14:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ShankhaMoGarba](http://twitter.com/search?q=%23ShankhaMoGarba) | N/A |
+| 1 | [#HNETakingCharge](http://twitter.com/search?q=%23HNETakingCharge) | N/A |
 | 2 | [#CustodyTeaser](http://twitter.com/search?q=%23CustodyTeaser) | N/A |
-| 3 | [#LGSaxenaGundaNumber1](http://twitter.com/search?q=%23LGSaxenaGundaNumber1) | N/A |
-| 4 | [#KhayaalJoGharKoGharBanaye](http://twitter.com/search?q=%23KhayaalJoGharKoGharBanaye) | N/A |
-| 5 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 6 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 7 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
-| 8 | [कोल्ड स्टोर](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%b2%e0%a5%8d%e0%a4%a1+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0) | N/A |
-| 9 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 10 | [Designed For Indian Weddings](http://twitter.com/search?q=Designed+For+Indian+Weddings) | N/A |
-| 11 | [Asle Toje](http://twitter.com/search?q=Asle+Toje) | N/A |
-| 12 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 13 | [Mandala](http://twitter.com/search?q=Mandala) | N/A |
-| 14 | [Foxconn](http://twitter.com/search?q=Foxconn) | N/A |
-| 15 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
-| 16 | [Justice4SSR Longest Satyagraha](http://twitter.com/search?q=Justice4SSR+Longest+Satyagraha) | N/A |
-| 17 | [Feedback Unit](http://twitter.com/search?q=Feedback+Unit) | N/A |
-| 18 | [प्रेस कांफ्रेंस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8) | N/A |
-| 19 | [PRA TEJA REUNION](http://twitter.com/search?q=PRA+TEJA+REUNION) | N/A |
-| 20 | [भारतीय सेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
-| 21 | [रजत शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%9c%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 22 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
-| 23 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
-| 24 | [प्रथम रक्षा प्रमुख](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 25 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 26 | [AIIMS](http://twitter.com/search?q=AIIMS) | N/A |
-| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 28 | [#MissionAceTheIndex](http://twitter.com/search?q=%23MissionAceTheIndex) | N/A |
-| 29 | [#SaveTheWeavers](http://twitter.com/search?q=%23SaveTheWeavers) | N/A |
-| 30 | [#GlaucomaDanceChallenge](http://twitter.com/search?q=%23GlaucomaDanceChallenge) | N/A |
-| 31 | [#vivoV27](http://twitter.com/search?q=%23vivoV27) | N/A |
-| 32 | [#1DayToGoForMrsChatterjee](http://twitter.com/search?q=%231DayToGoForMrsChatterjee) | N/A |
-| 33 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 34 | [#KabzaaFromTomorrow](http://twitter.com/search?q=%23KabzaaFromTomorrow) | N/A |
-| 35 | [#AlmiraWallet](http://twitter.com/search?q=%23AlmiraWallet) | N/A |
-| 36 | [#ETAutoRetailForum](http://twitter.com/search?q=%23ETAutoRetailForum) | N/A |
-| 37 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
-| 38 | [#LineLagJayegi](http://twitter.com/search?q=%23LineLagJayegi) | N/A |
-| 39 | [#ଶଙ୍ଖ_ମୋ_ଗର୍ବ](http://twitter.com/search?q=%23%e0%ac%b6%e0%ac%99%e0%ad%8d%e0%ac%96_%e0%ac%ae%e0%ad%8b_%e0%ac%97%e0%ac%b0%e0%ad%8d%e0%ac%ac) | N/A |
-| 40 | [#punerains](http://twitter.com/search?q=%23punerains) | N/A |
-| 41 | [#HelicopterCrash](http://twitter.com/search?q=%23HelicopterCrash) | N/A |
-| 42 | [#NagaChaitanya](http://twitter.com/search?q=%23NagaChaitanya) | N/A |
-| 43 | [#ThankYouKCR](http://twitter.com/search?q=%23ThankYouKCR) | N/A |
-| 44 | [#ArunachalPradesh](http://twitter.com/search?q=%23ArunachalPradesh) | N/A |
-| 45 | [#NobelPeacePrize](http://twitter.com/search?q=%23NobelPeacePrize) | N/A |
-| 46 | [#GATE2023](http://twitter.com/search?q=%23GATE2023) | N/A |
-| 47 | [#IndianArmy](http://twitter.com/search?q=%23IndianArmy) | N/A |
-| 48 | [#Help_dinesh](http://twitter.com/search?q=%23Help_dinesh) | N/A |
-| 49 | [#CheetahHelicopter](http://twitter.com/search?q=%23CheetahHelicopter) | N/A |
+| 3 | [#MaharashtraForOrphans](http://twitter.com/search?q=%23MaharashtraForOrphans) | N/A |
+| 4 | [#1DayToGoForMrsChatterjee](http://twitter.com/search?q=%231DayToGoForMrsChatterjee) | N/A |
+| 5 | [MUNAWAR X JASSIE MV OUT TMRW](http://twitter.com/search?q=MUNAWAR+X+JASSIE+MV+OUT+TMRW) | N/A |
+| 6 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
+| 7 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 8 | [EVIL EYES OFF SUMAAN](http://twitter.com/search?q=EVIL+EYES+OFF+SUMAAN) | N/A |
+| 9 | [JAY PANDA](http://twitter.com/search?q=JAY+PANDA) | N/A |
+| 10 | [Patrick French](http://twitter.com/search?q=Patrick+French) | N/A |
+| 11 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
+| 12 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 13 | [Sher](http://twitter.com/search?q=Sher) | N/A |
+| 14 | [Rani Mukherjee](http://twitter.com/search?q=Rani+Mukherjee) | N/A |
+| 15 | [Mandala](http://twitter.com/search?q=Mandala) | N/A |
+| 16 | [प्रेस कांफ्रेंस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8) | N/A |
+| 17 | [Bomdila](http://twitter.com/search?q=Bomdila) | N/A |
+| 18 | [Pyaar](http://twitter.com/search?q=Pyaar) | N/A |
+| 19 | [Asle Toje](http://twitter.com/search?q=Asle+Toje) | N/A |
+| 20 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 21 | [Foxconn](http://twitter.com/search?q=Foxconn) | N/A |
+| 22 | [Bandar](http://twitter.com/search?q=Bandar) | N/A |
+| 23 | [कोल्ड स्टोर](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%b2%e0%a5%8d%e0%a4%a1+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0) | N/A |
+| 24 | [लखनऊ विकास प्राधिकरण](http://twitter.com/search?q=%e0%a4%b2%e0%a4%96%e0%a4%a8%e0%a4%8a+%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%b0%e0%a4%a3) | N/A |
+| 25 | [Angoor](http://twitter.com/search?q=Angoor) | N/A |
+| 26 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 27 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
+| 28 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
+| 29 | [Press](http://twitter.com/search?q=Press) | N/A |
+| 30 | [Justice4SSR Longest Satyagraha](http://twitter.com/search?q=Justice4SSR+Longest+Satyagraha) | N/A |
+| 31 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 32 | [भारतीय लोकतंत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 33 | [भारतीय सेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
+| 34 | [AIIMS](http://twitter.com/search?q=AIIMS) | N/A |
+| 35 | [#ETTravelTourism](http://twitter.com/search?q=%23ETTravelTourism) | N/A |
+| 36 | [#LGSaxenaGundaNumber1](http://twitter.com/search?q=%23LGSaxenaGundaNumber1) | N/A |
+| 37 | [#ICICIBandhan](http://twitter.com/search?q=%23ICICIBandhan) | N/A |
+| 38 | [#KhayaalJoGharKoGharBanaye](http://twitter.com/search?q=%23KhayaalJoGharKoGharBanaye) | N/A |
+| 39 | [#MissionAceTheIndex](http://twitter.com/search?q=%23MissionAceTheIndex) | N/A |
+| 40 | [#PowerStarBdayCDP](http://twitter.com/search?q=%23PowerStarBdayCDP) | N/A |
+| 41 | [#ImpeccableInspirationAppu](http://twitter.com/search?q=%23ImpeccableInspirationAppu) | N/A |
+| 42 | [#ShankhaMoGarba](http://twitter.com/search?q=%23ShankhaMoGarba) | N/A |
+| 43 | [#HappyBirthdayDrPRK](http://twitter.com/search?q=%23HappyBirthdayDrPRK) | N/A |
+| 44 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
+| 45 | [#Savetheweavers](http://twitter.com/search?q=%23Savetheweavers) | N/A |
+| 46 | [#AskGurudevHoysala](http://twitter.com/search?q=%23AskGurudevHoysala) | N/A |
+| 47 | [#HelicopterCrash](http://twitter.com/search?q=%23HelicopterCrash) | N/A |
+| 48 | [#ArunachalPradesh](http://twitter.com/search?q=%23ArunachalPradesh) | N/A |
+| 49 | [#NobelPeacePrize](http://twitter.com/search?q=%23NobelPeacePrize) | N/A |
 
 
 

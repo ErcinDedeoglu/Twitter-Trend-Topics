@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-16 13:22:04 UTC`
+📆 Last Updated: `2023-03-16 14:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 2 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 3 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 4 | [#dissolution](http://twitter.com/search?q=%23dissolution) | N/A |
-| 5 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 6 | [#ONEPIECE1078](http://twitter.com/search?q=%23ONEPIECE1078) | N/A |
-| 7 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
-| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 11 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
-| 12 | [Le Sénat](http://twitter.com/search?q=Le+S%c3%a9nat) | N/A |
-| 13 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 14 | [Leto](http://twitter.com/search?q=Leto) | N/A |
-| 15 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 16 | [Francfort](http://twitter.com/search?q=Francfort) | N/A |
-| 17 | [Alexander Arnold](http://twitter.com/search?q=Alexander+Arnold) | N/A |
-| 18 | [Manifester](http://twitter.com/search?q=Manifester) | N/A |
-| 19 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 20 | [Chiche](http://twitter.com/search?q=Chiche) | N/A |
-| 21 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Rachel Kéké](http://twitter.com/search?q=Rachel+K%c3%a9k%c3%a9) | N/A |
-| 24 | [Bégaudeau](http://twitter.com/search?q=B%c3%a9gaudeau) | N/A |
-| 25 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
-| 26 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 27 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 28 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 29 | [Maroc Brésil](http://twitter.com/search?q=Maroc+Br%c3%a9sil) | N/A |
-| 30 | [Houssem Aouar](http://twitter.com/search?q=Houssem+Aouar) | N/A |
-| 31 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 32 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 33 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
-| 34 | [grève du 15](http://twitter.com/search?q=gr%c3%a8ve+du+15) | N/A |
-| 35 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 36 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 39 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 40 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 41 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 42 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 43 | [Toute la France](http://twitter.com/search?q=Toute+la+France) | N/A |
-| 44 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
-| 45 | [Seine](http://twitter.com/search?q=Seine) | N/A |
-| 46 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 47 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 48 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 49 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 50 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
+| 2 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 3 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 4 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 5 | [Areola](http://twitter.com/search?q=Areola) | N/A |
+| 6 | [#dissolution](http://twitter.com/search?q=%23dissolution) | N/A |
+| 7 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
+| 8 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 9 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 10 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 11 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 12 | [Brice Samba](http://twitter.com/search?q=Brice+Samba) | N/A |
+| 13 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 14 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
+| 15 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 16 | [Kalulu](http://twitter.com/search?q=Kalulu) | N/A |
+| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 18 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 20 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 22 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 23 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
+| 24 | [Leto](http://twitter.com/search?q=Leto) | N/A |
+| 25 | [Wesley Fofana](http://twitter.com/search?q=Wesley+Fofana) | N/A |
+| 26 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 27 | [Francfort](http://twitter.com/search?q=Francfort) | N/A |
+| 28 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 29 | [Alexander Arnold](http://twitter.com/search?q=Alexander+Arnold) | N/A |
+| 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 31 | [Manifester](http://twitter.com/search?q=Manifester) | N/A |
+| 32 | [Chiche](http://twitter.com/search?q=Chiche) | N/A |
+| 33 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 34 | [Équipe de France](http://twitter.com/search?q=%c3%89quipe+de+France) | N/A |
+| 35 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 36 | [Rachel Kéké](http://twitter.com/search?q=Rachel+K%c3%a9k%c3%a9) | N/A |
+| 37 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 38 | [Bégaudeau](http://twitter.com/search?q=B%c3%a9gaudeau) | N/A |
+| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 40 | [Maroc Brésil](http://twitter.com/search?q=Maroc+Br%c3%a9sil) | N/A |
+| 41 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
+| 42 | [Libye](http://twitter.com/search?q=Libye) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
+| 45 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 46 | [Toute la France](http://twitter.com/search?q=Toute+la+France) | N/A |
+| 47 | [Le Sénat](http://twitter.com/search?q=Le+S%c3%a9nat) | N/A |
+| 48 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 49 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
+| 50 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
 
 
 

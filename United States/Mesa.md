@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-03-16 13:21:57 UTC`
+📆 Last Updated: `2023-03-16 14:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 2 | [#ForksUp](http://twitter.com/search?q=%23ForksUp) | N/A |
-| 3 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 4 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 5 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 6 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 8 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 9 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 10 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 11 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 13 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 14 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 15 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 16 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 17 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 18 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 19 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 20 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 21 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 22 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 23 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 24 | [The Pentagon](http://twitter.com/search?q=The+Pentagon) | N/A |
-| 25 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
-| 26 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 27 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 28 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 29 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 30 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 31 | [MIKE TROUT](http://twitter.com/search?q=MIKE+TROUT) | N/A |
-| 32 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 33 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 34 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 35 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 36 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 37 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 38 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 39 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 40 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 41 | [Swiss National Bank](http://twitter.com/search?q=Swiss+National+Bank) | N/A |
-| 42 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 43 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 44 | [Puerto Ricans](http://twitter.com/search?q=Puerto+Ricans) | N/A |
-| 45 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
-| 46 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 47 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 48 | [Shapiro](http://twitter.com/search?q=Shapiro) | N/A |
-| 49 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 1 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 2 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 3 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 4 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 5 | [#ForksUp](http://twitter.com/search?q=%23ForksUp) | N/A |
+| 6 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 7 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 8 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 9 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 10 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 11 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 12 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 13 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 14 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 15 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 16 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 17 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 18 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 19 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 20 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
+| 21 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 22 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 23 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 24 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 25 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
+| 26 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 27 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 28 | [dongyeol](http://twitter.com/search?q=dongyeol) | N/A |
+| 29 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 30 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
+| 31 | [ichan](http://twitter.com/search?q=ichan) | N/A |
+| 32 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 33 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 34 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 35 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 36 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 37 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 38 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 39 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 40 | [The ECB](http://twitter.com/search?q=The+ECB) | N/A |
+| 41 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
+| 42 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 43 | [Cade Cavalli](http://twitter.com/search?q=Cade+Cavalli) | N/A |
+| 44 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 45 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 46 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
+| 47 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 48 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 49 | [merry christmas](http://twitter.com/search?q=merry+christmas) | N/A |
 
 
 

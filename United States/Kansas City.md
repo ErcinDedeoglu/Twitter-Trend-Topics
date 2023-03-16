@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-16 13:21:57 UTC`
+📆 Last Updated: `2023-03-16 14:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 2 | [#stlblues](http://twitter.com/search?q=%23stlblues) | N/A |
-| 3 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 4 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 5 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 2 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 3 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 4 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
 | 6 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 8 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 9 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 7 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 8 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 9 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
 | 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 11 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 12 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 13 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 14 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 15 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 16 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 17 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 18 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 19 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 20 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 21 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 22 | [The Pentagon](http://twitter.com/search?q=The+Pentagon) | N/A |
+| 11 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 12 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 13 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 14 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 15 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 16 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 17 | [Privatizing Social Security](http://twitter.com/search?q=Privatizing+Social+Security) | N/A |
+| 18 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 19 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 20 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
+| 21 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 22 | [Steve Austin](http://twitter.com/search?q=Steve+Austin) | N/A |
 | 23 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
-| 24 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 25 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 26 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 27 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 28 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 29 | [MIKE TROUT](http://twitter.com/search?q=MIKE+TROUT) | N/A |
-| 30 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 31 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 32 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 33 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 34 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 35 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 36 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 37 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 38 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 39 | [Swiss National Bank](http://twitter.com/search?q=Swiss+National+Bank) | N/A |
-| 40 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 41 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 42 | [Puerto Ricans](http://twitter.com/search?q=Puerto+Ricans) | N/A |
-| 43 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
-| 44 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 45 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 46 | [Shapiro](http://twitter.com/search?q=Shapiro) | N/A |
-| 47 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 48 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 49 | [#mcrmelbourne](http://twitter.com/search?q=%23mcrmelbourne) | N/A |
-| 50 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
+| 24 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 25 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 26 | [Natasha Owens](http://twitter.com/search?q=Natasha+Owens) | N/A |
+| 27 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 28 | [Frye](http://twitter.com/search?q=Frye) | Frye is a Canadian brand of footwear and accessories. The company was founded in Toronto in 1963 by John and Alice Frye. The name Frye is derived from the family name of the founders, and it has become synonymous with quality leather goods. Frye products are known for their classic style, durability, and comfort. |
+| 29 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 30 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 31 | [The Pentagon](http://twitter.com/search?q=The+Pentagon) | N/A |
+| 32 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 33 | [Bruce Campbell](http://twitter.com/search?q=Bruce+Campbell) | N/A |
+| 34 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 35 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 36 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 37 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
+| 38 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 39 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 40 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
+| 41 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 42 | [Araki](http://twitter.com/search?q=Araki) | N/A |
+| 43 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 44 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 45 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 46 | [Reparations](http://twitter.com/search?q=Reparations) | N/A |
+| 47 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 48 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
+| 49 | [Puerto Ricans](http://twitter.com/search?q=Puerto+Ricans) | N/A |
 
 
 

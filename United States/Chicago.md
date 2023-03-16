@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-16 13:21:54 UTC`
+📆 Last Updated: `2023-03-16 14:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 2 | [De'Aaron Fox](http://twitter.com/search?q=De%27Aaron+Fox) | De'Aaron Fox is an American professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is a combination of his parents' names, Deanna and Aaron. The name means "strong and wise" in English. |
-| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 5 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 6 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 7 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 8 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 10 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 11 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 12 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 13 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 15 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 16 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 17 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 18 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 19 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 20 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 21 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 22 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 23 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 24 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 25 | [The Pentagon](http://twitter.com/search?q=The+Pentagon) | N/A |
-| 26 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
-| 27 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 28 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 29 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 30 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 31 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 32 | [MIKE TROUT](http://twitter.com/search?q=MIKE+TROUT) | N/A |
-| 33 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 34 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 35 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 36 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 37 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 38 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 39 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 40 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 41 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 42 | [Swiss National Bank](http://twitter.com/search?q=Swiss+National+Bank) | N/A |
-| 43 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 44 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 45 | [Puerto Ricans](http://twitter.com/search?q=Puerto+Ricans) | N/A |
-| 46 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
-| 47 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 48 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 2 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 3 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 4 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 6 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 7 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 8 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 9 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 10 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 11 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 12 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 13 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 14 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 15 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
+| 16 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 17 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 18 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 19 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
+| 20 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 21 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 22 | [dongyeol](http://twitter.com/search?q=dongyeol) | N/A |
+| 23 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 24 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
+| 25 | [ichan](http://twitter.com/search?q=ichan) | N/A |
+| 26 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 27 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 28 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 29 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 30 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 31 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 32 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 33 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 34 | [The ECB](http://twitter.com/search?q=The+ECB) | N/A |
+| 35 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
+| 36 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 37 | [Cade Cavalli](http://twitter.com/search?q=Cade+Cavalli) | N/A |
+| 38 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 39 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 40 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
+| 41 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 42 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 43 | [merry christmas](http://twitter.com/search?q=merry+christmas) | N/A |
+| 44 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 45 | [Bruce Campbell](http://twitter.com/search?q=Bruce+Campbell) | N/A |
+| 46 | [Oathbreaker](http://twitter.com/search?q=Oathbreaker) | N/A |
+| 47 | [Natasha Owens](http://twitter.com/search?q=Natasha+Owens) | N/A |
+| 48 | [James Madison](http://twitter.com/search?q=James+Madison) | N/A |
+| 49 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 50 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
 
 
 

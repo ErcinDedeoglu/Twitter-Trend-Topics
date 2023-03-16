@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-16 13:22:09 UTC`
+📆 Last Updated: `2023-03-16 14:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 2 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 3 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 5 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 6 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 7 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 8 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 9 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
-| 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 11 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 12 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 13 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 14 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
-| 15 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 16 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
-| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 18 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 19 | [La BNS](http://twitter.com/search?q=La+BNS) | N/A |
-| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 22 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
-| 23 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 24 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 25 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 26 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 27 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 28 | [#HumanRightsDefenders](http://twitter.com/search?q=%23HumanRightsDefenders) | N/A |
-| 29 | [London](http://twitter.com/search?q=London) | N/A |
-| 30 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 31 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 32 | [Raum](http://twitter.com/search?q=Raum) | N/A |
-| 33 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 34 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
-| 35 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 36 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 37 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 38 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 39 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 40 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 41 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 42 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 43 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 44 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 45 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 46 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
-| 47 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 48 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 49 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 50 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 3 | [#VDZ23](http://twitter.com/search?q=%23VDZ23) | N/A |
+| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 5 | [#Infantino](http://twitter.com/search?q=%23Infantino) | N/A |
+| 6 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 9 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
+| 10 | [la bns](http://twitter.com/search?q=la+bns) | N/A |
+| 11 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 12 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 13 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 14 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 16 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 17 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 18 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 19 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 20 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 21 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 22 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 23 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 24 | [Alpen](http://twitter.com/search?q=Alpen) | N/A |
+| 25 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 26 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 27 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 28 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 29 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 30 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 31 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
+| 32 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 33 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
+| 34 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 35 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 36 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
+| 37 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 38 | [Programm](http://twitter.com/search?q=Programm) | N/A |
+| 39 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 40 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 41 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 43 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 44 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 45 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 46 | [Patienten](http://twitter.com/search?q=Patienten) | N/A |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 49 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
+| 50 | [Confédération](http://twitter.com/search?q=Conf%c3%a9d%c3%a9ration) | N/A |
 
 
 

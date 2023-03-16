@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-03-16 13:21:34 UTC`
+📆 Last Updated: `2023-03-16 14:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
-| 2 | [#FightingClimateChange](http://twitter.com/search?q=%23FightingClimateChange) | N/A |
-| 3 | [#MudikGratisGanjar](http://twitter.com/search?q=%23MudikGratisGanjar) | N/A |
-| 4 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
-| 5 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
-| 6 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 7 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 8 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 9 | [FABA](http://twitter.com/search?q=FABA) | N/A |
-| 10 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
-| 11 | [Bab 1](http://twitter.com/search?q=Bab+1) | N/A |
-| 12 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
-| 13 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 14 | [Spesialis](http://twitter.com/search?q=Spesialis) | N/A |
-| 15 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 16 | [JABAR NGAHIJI](http://twitter.com/search?q=JABAR+NGAHIJI) | N/A |
-| 17 | [PKB KAHIJI](http://twitter.com/search?q=PKB+KAHIJI) | N/A |
-| 18 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 19 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 20 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
-| 21 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 22 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 1 | [#HPSMinisterID](http://twitter.com/search?q=%23HPSMinisterID) | N/A |
+| 2 | [Kandidat Menteri](http://twitter.com/search?q=Kandidat+Menteri) | N/A |
+| 3 | [#WelcomeTREASUREtoINDONESIA](http://twitter.com/search?q=%23WelcomeTREASUREtoINDONESIA) | N/A |
+| 4 | [#KirimTakGentar](http://twitter.com/search?q=%23KirimTakGentar) | N/A |
+| 5 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
+| 6 | [#SEVENTEEN](http://twitter.com/search?q=%23SEVENTEEN) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 9 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
+| 10 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
+| 11 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 12 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 13 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 14 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 15 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 16 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 17 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 18 | [SUNG HANBIN THE TOMBOY](http://twitter.com/search?q=SUNG+HANBIN+THE+TOMBOY) | N/A |
+| 19 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
+| 20 | [KIM TAERAE](http://twitter.com/search?q=KIM+TAERAE) | N/A |
+| 21 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 22 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
 | 23 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
-| 24 | [Polri](http://twitter.com/search?q=Polri) | N/A |
-| 25 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 26 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 27 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 28 | [Bawah](http://twitter.com/search?q=Bawah) | N/A |
-| 29 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 30 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 31 | [#TangkapAgus](http://twitter.com/search?q=%23TangkapAgus) | N/A |
-| 32 | [#SUNGHANBINxTOMBOY](http://twitter.com/search?q=%23SUNGHANBINxTOMBOY) | N/A |
-| 33 | [#장하오의_하늘은_맑을_거야](http://twitter.com/search?q=%23%ec%9e%a5%ed%95%98%ec%98%a4%ec%9d%98_%ed%95%98%eb%8a%98%ec%9d%80_%eb%a7%91%ec%9d%84_%ea%b1%b0%ec%95%bc) | N/A |
-| 34 | [#DumDumJeffSatur](http://twitter.com/search?q=%23DumDumJeffSatur) | N/A |
-| 35 | [#IndonesiaKayaBBN](http://twitter.com/search?q=%23IndonesiaKayaBBN) | N/A |
-| 36 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 37 | [#BanggaKayaBBN](http://twitter.com/search?q=%23BanggaKayaBBN) | N/A |
-| 38 | [#AwesomeGeneration](http://twitter.com/search?q=%23AwesomeGeneration) | N/A |
-| 39 | [#GalaxyA545GxShopee](http://twitter.com/search?q=%23GalaxyA545GxShopee) | N/A |
-| 40 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
-| 41 | [#왕즈하오](http://twitter.com/search?q=%23%ec%99%95%ec%a6%88%ed%95%98%ec%98%a4) | N/A |
-| 42 | [#GetWellSoonGemini](http://twitter.com/search?q=%23GetWellSoonGemini) | N/A |
-| 43 | [#IbukotaBaruMendunia](http://twitter.com/search?q=%23IbukotaBaruMendunia) | N/A |
-| 44 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
-| 45 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 46 | [#DrRomantic3](http://twitter.com/search?q=%23DrRomantic3) | N/A |
-| 47 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 48 | [#HELLO_TOUR_IN_JAKARTA](http://twitter.com/search?q=%23HELLO_TOUR_IN_JAKARTA) | N/A |
+| 24 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 25 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
+| 26 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 27 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
+| 28 | [Bab 1](http://twitter.com/search?q=Bab+1) | N/A |
+| 29 | [spesialis](http://twitter.com/search?q=spesialis) | N/A |
+| 30 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 31 | [Junkyu](http://twitter.com/search?q=Junkyu) | N/A |
+| 32 | [giselle](http://twitter.com/search?q=giselle) | N/A |
+| 33 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
+| 34 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 35 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
+| 36 | [Bawah](http://twitter.com/search?q=Bawah) | N/A |
+| 37 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 38 | [#BanzaiJKT48](http://twitter.com/search?q=%23BanzaiJKT48) | N/A |
+| 39 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
+| 40 | [#FightingClimateChange](http://twitter.com/search?q=%23FightingClimateChange) | N/A |
+| 41 | [#MudikGratisGanjar](http://twitter.com/search?q=%23MudikGratisGanjar) | N/A |
+| 42 | [#WANGZIHAO_LAW](http://twitter.com/search?q=%23WANGZIHAO_LAW) | N/A |
+| 43 | [#kafsakafsi](http://twitter.com/search?q=%23kafsakafsi) | N/A |
+| 44 | [#OnTheStreet2ndWin](http://twitter.com/search?q=%23OnTheStreet2ndWin) | N/A |
+| 45 | [#MINGYU](http://twitter.com/search?q=%23MINGYU) | N/A |
+| 46 | [#WONWOO](http://twitter.com/search?q=%23WONWOO) | N/A |
+| 47 | [#왕즈하오](http://twitter.com/search?q=%23%ec%99%95%ec%a6%88%ed%95%98%ec%98%a4) | N/A |
+| 48 | [#SCOUPS](http://twitter.com/search?q=%23SCOUPS) | N/A |
+| 49 | [#TangkapAgus](http://twitter.com/search?q=%23TangkapAgus) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-16 13:21:29 UTC`
+📆 Last Updated: `2023-03-16 14:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 3 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
+| 2 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
+| 3 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
 | 4 | [#PiggyPlinko](http://twitter.com/search?q=%23PiggyPlinko) | N/A |
 | 5 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
-| 6 | [#Eberl](http://twitter.com/search?q=%23Eberl) | N/A |
-| 7 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 8 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 9 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 6 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 7 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 8 | [Axel Springer](http://twitter.com/search?q=Axel+Springer) | N/A |
+| 9 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
 | 10 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
 | 11 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 12 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 13 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 14 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 15 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 16 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
-| 17 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
-| 18 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 19 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 20 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
-| 21 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 22 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
-| 23 | [Causa Gladbach](http://twitter.com/search?q=Causa+Gladbach) | N/A |
-| 24 | [Sportstudio](http://twitter.com/search?q=Sportstudio) | N/A |
-| 25 | ['Langeweile'](http://twitter.com/search?q=%27Langeweile%27) | N/A |
-| 26 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 27 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
-| 28 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 29 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 30 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 31 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 12 | [Chefredaktion](http://twitter.com/search?q=Chefredaktion) | N/A |
+| 13 | [Marion Horn](http://twitter.com/search?q=Marion+Horn) | N/A |
+| 14 | [Strunz](http://twitter.com/search?q=Strunz) | N/A |
+| 15 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 16 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
+| 17 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 18 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
+| 21 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 22 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 23 | [dosenöffner](http://twitter.com/search?q=dosen%c3%b6ffner) | N/A |
+| 24 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 25 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 26 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 27 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 28 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
+| 29 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
+| 30 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 31 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
 | 32 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 33 | [Per Applaus](http://twitter.com/search?q=Per+Applaus) | N/A |
-| 34 | [Seminarraum](http://twitter.com/search?q=Seminarraum) | N/A |
-| 35 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 36 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
-| 37 | [Absturz](http://twitter.com/search?q=Absturz) | N/A |
-| 38 | [Peinlich](http://twitter.com/search?q=Peinlich) | N/A |
-| 39 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
-| 40 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 41 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 42 | [Denkmalschutz](http://twitter.com/search?q=Denkmalschutz) | N/A |
-| 43 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 44 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
-| 45 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 46 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
-| 47 | [Besitzer](http://twitter.com/search?q=Besitzer) | N/A |
-| 48 | [Flips](http://twitter.com/search?q=Flips) | N/A |
-| 49 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 50 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 33 | [Propeller](http://twitter.com/search?q=Propeller) | N/A |
+| 34 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 35 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 36 | ['Langeweile'](http://twitter.com/search?q=%27Langeweile%27) | N/A |
+| 37 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 38 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
+| 39 | [Satire](http://twitter.com/search?q=Satire) | N/A |
+| 40 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
+| 41 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 42 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 43 | [sportstudio](http://twitter.com/search?q=sportstudio) | N/A |
+| 44 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
+| 45 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
+| 46 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 47 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 48 | [Prozentpunkte](http://twitter.com/search?q=Prozentpunkte) | N/A |
+| 49 | [Windrad](http://twitter.com/search?q=Windrad) | N/A |
+| 50 | [Würmer](http://twitter.com/search?q=W%c3%bcrmer) | N/A |
 
 
 

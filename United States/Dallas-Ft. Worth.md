@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-16 13:21:55 UTC`
+📆 Last Updated: `2023-03-16 14:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 2 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 4 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 6 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 8 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 9 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 10 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 11 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 13 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 14 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 15 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
-| 16 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 17 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 18 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 19 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 20 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 21 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 22 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 23 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 24 | [The Pentagon](http://twitter.com/search?q=The+Pentagon) | N/A |
-| 25 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
-| 26 | [Axios](http://twitter.com/search?q=Axios) | N/A |
-| 27 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 28 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 29 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 30 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 31 | [MIKE TROUT](http://twitter.com/search?q=MIKE+TROUT) | N/A |
-| 32 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 33 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 34 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 35 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 36 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 37 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 38 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 39 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 40 | [Binner](http://twitter.com/search?q=Binner) | N/A |
-| 41 | [Swiss National Bank](http://twitter.com/search?q=Swiss+National+Bank) | N/A |
-| 42 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 43 | [Lindsey Graham](http://twitter.com/search?q=Lindsey+Graham) | N/A |
-| 44 | [Puerto Ricans](http://twitter.com/search?q=Puerto+Ricans) | N/A |
-| 45 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
-| 46 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 47 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 48 | [Shapiro](http://twitter.com/search?q=Shapiro) | N/A |
-| 49 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 50 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 2 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 3 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 4 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 5 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 6 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 7 | [#LPSC2023](http://twitter.com/search?q=%23LPSC2023) | N/A |
+| 8 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 9 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 10 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 11 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 12 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 14 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 15 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 16 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 17 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 18 | [doha](http://twitter.com/search?q=doha) | N/A |
+| 19 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
+| 20 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
+| 21 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 22 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 23 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 24 | [Splatfest](http://twitter.com/search?q=Splatfest) | N/A |
+| 25 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 26 | [Daily Quordle 416](http://twitter.com/search?q=Daily+Quordle+416) | N/A |
+| 27 | [dongyeol](http://twitter.com/search?q=dongyeol) | N/A |
+| 28 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 29 | [Woonggi](http://twitter.com/search?q=Woonggi) | N/A |
+| 30 | [ichan](http://twitter.com/search?q=ichan) | N/A |
+| 31 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 32 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 33 | [Lagarde](http://twitter.com/search?q=Lagarde) | N/A |
+| 34 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 35 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 36 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 37 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 38 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 39 | [The ECB](http://twitter.com/search?q=The+ECB) | N/A |
+| 40 | [Axios](http://twitter.com/search?q=Axios) | N/A |
+| 41 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
+| 42 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 43 | [Cade Cavalli](http://twitter.com/search?q=Cade+Cavalli) | N/A |
+| 44 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 45 | [Russian Su-27](http://twitter.com/search?q=Russian+Su-27) | N/A |
+| 46 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 47 | [Oathbreaker](http://twitter.com/search?q=Oathbreaker) | N/A |
+| 48 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 49 | [merry christmas](http://twitter.com/search?q=merry+christmas) | N/A |
 
 
 
