@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Voronezh
 
-📆 Last Updated: `2023-03-16 02:35:44 UTC`
+📆 Last Updated: `2023-03-16 03:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,9 +22,9 @@ This is top 50 for [Russia](</Russia>)
 | 5 | [Itss OUTT](http://twitter.com/search?q=Itss+OUTT) | N/A |
 | 6 | [wildberries](http://twitter.com/search?q=wildberries) | N/A |
 | 7 | [крыма](http://twitter.com/search?q=%d0%ba%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
-| 8 | [Greatt One](http://twitter.com/search?q=Greatt+One) | N/A |
+| 8 | [greatt one](http://twitter.com/search?q=greatt+one) | N/A |
 | 9 | [Bullishh](http://twitter.com/search?q=Bullishh) | N/A |
-| 10 | [черным](http://twitter.com/search?q=%d1%87%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
+| 10 | [Черным](http://twitter.com/search?q=%d0%a7%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
 | 11 | [Greetingg Doomboo](http://twitter.com/search?q=Greetingg+Doomboo) | N/A |
 | 12 | [понял](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
 | 13 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
@@ -37,14 +37,14 @@ This is top 50 for [Russia](</Russia>)
 | 20 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
 | 21 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
 | 22 | [#МояГодовщинаВТвиттере](http://twitter.com/search?q=%23%d0%9c%d0%be%d1%8f%d0%93%d0%be%d0%b4%d0%be%d0%b2%d1%89%d0%b8%d0%bd%d0%b0%d0%92%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 23 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 24 | [выглядит](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
-| 25 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 23 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 24 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
+| 25 | [выглядит](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
 | 26 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 27 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
-| 28 | [Донбассе](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b5) | N/A |
+| 27 | [естественно](http://twitter.com/search?q=%d0%b5%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
+| 28 | [донбассе](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b5) | N/A |
 | 29 | [вчера](http://twitter.com/search?q=%d0%b2%d1%87%d0%b5%d1%80%d0%b0) | N/A |
-| 30 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 30 | [китай](http://twitter.com/search?q=%d0%ba%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
 | 31 | [украинцы](http://twitter.com/search?q=%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%86%d1%8b) | N/A |
 | 32 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 33 | [Питер](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for [Russia](</Russia>)
 | 39 | [Обнимаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
 | 40 | [#decordesign](http://twitter.com/search?q=%23decordesign) | N/A |
 | 41 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 42 | [проблема](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0) | N/A |
+| 42 | [Проблема](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0) | N/A |
 | 43 | [странно](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
 | 44 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 | 45 | [Украиной](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%be%d0%b9) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kobe
 
-📆 Last Updated: `2023-03-16 02:35:31 UTC`
+📆 Last Updated: `2023-03-16 03:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ドミニカ](http://twitter.com/search?q=%e3%83%89%e3%83%9f%e3%83%8b%e3%82%ab) | N/A |
-| 2 | [カービィ2](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a32) | N/A |
-| 3 | [ロードオブメジャー](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%89%e3%82%aa%e3%83%96%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 4 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
-| 5 | [プエルトリコ](http://twitter.com/search?q=%e3%83%97%e3%82%a8%e3%83%ab%e3%83%88%e3%83%aa%e3%82%b3) | N/A |
-| 6 | [#ガストのポテト食べるなら](http://twitter.com/search?q=%23%e3%82%ac%e3%82%b9%e3%83%88%e3%81%ae%e3%83%9d%e3%83%86%e3%83%88%e9%a3%9f%e3%81%b9%e3%82%8b%e3%81%aa%e3%82%89) | N/A |
-| 7 | [子安さん](http://twitter.com/search?q=%e5%ad%90%e5%ae%89%e3%81%95%e3%82%93) | N/A |
-| 8 | [ディアス](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%a2%e3%82%b9) | N/A |
-| 9 | [#Gメン](http://twitter.com/search?q=%23G%e3%83%a1%e3%83%b3) | N/A |
-| 10 | [シーブリーズ](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%96%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
-| 11 | [ウェネト](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%83%8d%e3%83%88) | N/A |
-| 12 | [川口春奈](http://twitter.com/search?q=%e5%b7%9d%e5%8f%a3%e6%98%a5%e5%a5%88) | N/A |
-| 13 | [最低賃金](http://twitter.com/search?q=%e6%9c%80%e4%bd%8e%e8%b3%83%e9%87%91) | N/A |
-| 14 | [産後パパ育休](http://twitter.com/search?q=%e7%94%a3%e5%be%8c%e3%83%91%e3%83%91%e8%82%b2%e4%bc%91) | N/A |
-| 15 | [イボンコ](http://twitter.com/search?q=%e3%82%a4%e3%83%9c%e3%83%b3%e3%82%b3) | N/A |
-| 16 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
-| 17 | [#大西流星](http://twitter.com/search?q=%23%e5%a4%a7%e8%a5%bf%e6%b5%81%e6%98%9f) | N/A |
-| 18 | [富士山盛りポテト](http://twitter.com/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1%e7%9b%9b%e3%82%8a%e3%83%9d%e3%83%86%e3%83%88) | N/A |
-| 19 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 20 | [コールドストーン](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3) | N/A |
-| 21 | [若葉ちゃん](http://twitter.com/search?q=%e8%8b%a5%e8%91%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 22 | [おとなのテーマパーク](http://twitter.com/search?q=%e3%81%8a%e3%81%a8%e3%81%aa%e3%81%ae%e3%83%86%e3%83%bc%e3%83%9e%e3%83%91%e3%83%bc%e3%82%af) | N/A |
+| 2 | [プエルトリコ](http://twitter.com/search?q=%e3%83%97%e3%82%a8%e3%83%ab%e3%83%88%e3%83%aa%e3%82%b3) | N/A |
+| 3 | [カービィ2](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a32) | N/A |
+| 4 | [シーブリーズ](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%96%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
+| 5 | [ディアス](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%a2%e3%82%b9) | N/A |
+| 6 | [ウェネト](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%83%8d%e3%83%88) | N/A |
+| 7 | [#ガストのポテト食べるなら](http://twitter.com/search?q=%23%e3%82%ac%e3%82%b9%e3%83%88%e3%81%ae%e3%83%9d%e3%83%86%e3%83%88%e9%a3%9f%e3%81%b9%e3%82%8b%e3%81%aa%e3%82%89) | N/A |
+| 8 | [子安さん](http://twitter.com/search?q=%e5%ad%90%e5%ae%89%e3%81%95%e3%82%93) | N/A |
+| 9 | [ロードオブメジャー](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%89%e3%82%aa%e3%83%96%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 10 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
+| 11 | [#LUNÉandTEAM](http://twitter.com/search?q=%23LUN%c3%89andTEAM) | N/A |
+| 12 | [おとなのテーマパーク](http://twitter.com/search?q=%e3%81%8a%e3%81%a8%e3%81%aa%e3%81%ae%e3%83%86%e3%83%bc%e3%83%9e%e3%83%91%e3%83%bc%e3%82%af) | N/A |
+| 13 | [産後パパ育休](http://twitter.com/search?q=%e7%94%a3%e5%be%8c%e3%83%91%e3%83%91%e8%82%b2%e4%bc%91) | N/A |
+| 14 | [#Gメン](http://twitter.com/search?q=%23G%e3%83%a1%e3%83%b3) | N/A |
+| 15 | [ソフト・オン・デマンド社長ら逮捕](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%88%e3%83%bb%e3%82%aa%e3%83%b3%e3%83%bb%e3%83%87%e3%83%9e%e3%83%b3%e3%83%89%e7%a4%be%e9%95%b7%e3%82%89%e9%80%ae%e6%8d%95) | N/A |
+| 16 | [イボンコ](http://twitter.com/search?q=%e3%82%a4%e3%83%9c%e3%83%b3%e3%82%b3) | N/A |
+| 17 | [フラッシュプリズム](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
+| 18 | [ゼビウス](http://twitter.com/search?q=%e3%82%bc%e3%83%93%e3%82%a6%e3%82%b9) | N/A |
+| 19 | [富士山盛りポテト](http://twitter.com/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1%e7%9b%9b%e3%82%8a%e3%83%9d%e3%83%86%e3%83%88) | N/A |
+| 20 | [最低賃金](http://twitter.com/search?q=%e6%9c%80%e4%bd%8e%e8%b3%83%e9%87%91) | N/A |
+| 21 | [#進撃の巨人UT](http://twitter.com/search?q=%23%e9%80%b2%e6%92%83%e3%81%ae%e5%b7%a8%e4%ba%baUT) | N/A |
+| 22 | [定額小為替](http://twitter.com/search?q=%e5%ae%9a%e9%a1%8d%e5%b0%8f%e7%82%ba%e6%9b%bf) | 定額小為替 is a type of Japanese currency exchange system. It allows customers to exchange a fixed amount of money for smaller denominations of coins. The literal translation of the phrase is "fixed-amount small change exchange". |
 | 23 | [コンボイ](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%9c%e3%82%a4) | N/A |
-| 24 | [りゅちぇのコスメ](http://twitter.com/search?q=%e3%82%8a%e3%82%85%e3%81%a1%e3%81%87%e3%81%ae%e3%82%b3%e3%82%b9%e3%83%a1) | N/A |
-| 25 | [給付引き上げ](http://twitter.com/search?q=%e7%b5%a6%e4%bb%98%e5%bc%95%e3%81%8d%e4%b8%8a%e3%81%92) | N/A |
-| 26 | [ソフト・オン・デマンド社長ら逮捕](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%88%e3%83%bb%e3%82%aa%e3%83%b3%e3%83%bb%e3%83%87%e3%83%9e%e3%83%b3%e3%83%89%e7%a4%be%e9%95%b7%e3%82%89%e9%80%ae%e6%8d%95) | N/A |
-| 27 | [ゼビウス](http://twitter.com/search?q=%e3%82%bc%e3%83%93%e3%82%a6%e3%82%b9) | N/A |
-| 28 | [LGBTQの人権](http://twitter.com/search?q=LGBTQ%e3%81%ae%e4%ba%ba%e6%a8%a9) | N/A |
-| 29 | [実質10割](http://twitter.com/search?q=%e5%ae%9f%e8%b3%aa10%e5%89%b2) | N/A |
-| 30 | [申請殺到](http://twitter.com/search?q=%e7%94%b3%e8%ab%8b%e6%ae%ba%e5%88%b0) | N/A |
-| 31 | [Blue Story](http://twitter.com/search?q=Blue+Story) | N/A |
-| 32 | [ストライキ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%ad) | N/A |
-| 33 | [首相宛て](http://twitter.com/search?q=%e9%a6%96%e7%9b%b8%e5%ae%9b%e3%81%a6) | N/A |
-| 34 | [クレディ・スイス](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%83%87%e3%82%a3%e3%83%bb%e3%82%b9%e3%82%a4%e3%82%b9) | N/A |
-| 35 | [五島出身](http://twitter.com/search?q=%e4%ba%94%e5%b3%b6%e5%87%ba%e8%ba%ab) | N/A |
-| 36 | [フラッシュプリズム](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
-| 37 | [マイナポイント申込期限](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e7%94%b3%e8%be%bc%e6%9c%9f%e9%99%90) | N/A |
-| 38 | [慎ちゃん](http://twitter.com/search?q=%e6%85%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 39 | [ツンデレウエディングソング](http://twitter.com/search?q=%e3%83%84%e3%83%b3%e3%83%87%e3%83%ac%e3%82%a6%e3%82%a8%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
-| 40 | [一粒万倍日](http://twitter.com/search?q=%e4%b8%80%e7%b2%92%e4%b8%87%e5%80%8d%e6%97%a5) | 一粒万倍日 (Ichi-ryuu Manbai-nichi) is a Japanese proverb that means “one grain of rice can become ten thousand grains”. It is used to express the idea that small efforts can lead to great rewards. |
-| 41 | [マツキヨ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%ad%e3%83%a8) | N/A |
-| 42 | [駐日大使連名](http://twitter.com/search?q=%e9%a7%90%e6%97%a5%e5%a4%a7%e4%bd%bf%e9%80%a3%e5%90%8d) | N/A |
-| 43 | [ウラオモテ](http://twitter.com/search?q=%e3%82%a6%e3%83%a9%e3%82%aa%e3%83%a2%e3%83%86) | N/A |
-| 44 | [サミット議長国](http://twitter.com/search?q=%e3%82%b5%e3%83%9f%e3%83%83%e3%83%88%e8%ad%b0%e9%95%b7%e5%9b%bd) | N/A |
-| 45 | [ジェルライナー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ab%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%bc) | N/A |
-| 46 | [ロッテリア](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%83%86%e3%83%aa%e3%82%a2) | N/A |
-| 47 | [スプラメンテ](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
-| 48 | [内政干渉](http://twitter.com/search?q=%e5%86%85%e6%94%bf%e5%b9%b2%e6%b8%89) | N/A |
-| 49 | [最大7兆円調達](http://twitter.com/search?q=%e6%9c%80%e5%a4%a77%e5%85%86%e5%86%86%e8%aa%bf%e9%81%94) | N/A |
-| 50 | [スイス中銀](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%82%b9%e4%b8%ad%e9%8a%80) | N/A |
+| 24 | [たっちょん](http://twitter.com/search?q=%e3%81%9f%e3%81%a3%e3%81%a1%e3%82%87%e3%82%93) | N/A |
+| 25 | [川口春奈](http://twitter.com/search?q=%e5%b7%9d%e5%8f%a3%e6%98%a5%e5%a5%88) | N/A |
+| 26 | [LGBTQの人権](http://twitter.com/search?q=LGBTQ%e3%81%ae%e4%ba%ba%e6%a8%a9) | N/A |
+| 27 | [アニメイト池袋](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%a4%e3%83%88%e6%b1%a0%e8%a2%8b) | N/A |
+| 28 | [Blue Story](http://twitter.com/search?q=Blue+Story) | N/A |
+| 29 | [給付引き上げ](http://twitter.com/search?q=%e7%b5%a6%e4%bb%98%e5%bc%95%e3%81%8d%e4%b8%8a%e3%81%92) | N/A |
+| 30 | [いちご大福パイ](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94%e5%a4%a7%e7%a6%8f%e3%83%91%e3%82%a4) | N/A |
+| 31 | [実質10割](http://twitter.com/search?q=%e5%ae%9f%e8%b3%aa10%e5%89%b2) | N/A |
+| 32 | [りゅちぇのコスメ](http://twitter.com/search?q=%e3%82%8a%e3%82%85%e3%81%a1%e3%81%87%e3%81%ae%e3%82%b3%e3%82%b9%e3%83%a1) | N/A |
+| 33 | [最大7兆円調達](http://twitter.com/search?q=%e6%9c%80%e5%a4%a77%e5%85%86%e5%86%86%e8%aa%bf%e9%81%94) | N/A |
+| 34 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
+| 35 | [SOD LAND](http://twitter.com/search?q=SOD+LAND) | N/A |
+| 36 | [ドリームカード](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%bc%e3%83%a0%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 37 | [ストライキ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%ad) | N/A |
+| 38 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
+| 39 | [内政干渉](http://twitter.com/search?q=%e5%86%85%e6%94%bf%e5%b9%b2%e6%b8%89) | N/A |
+| 40 | [クレディ・スイス](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%83%87%e3%82%a3%e3%83%bb%e3%82%b9%e3%82%a4%e3%82%b9) | N/A |
+| 41 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 42 | [コールドストーン](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3) | N/A |
+| 43 | [ロッテリア](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%83%86%e3%83%aa%e3%82%a2) | N/A |
+| 44 | [一粒万倍日](http://twitter.com/search?q=%e4%b8%80%e7%b2%92%e4%b8%87%e5%80%8d%e6%97%a5) | 一粒万倍日 (Ichi-ryuu Manbai-nichi) is a Japanese proverb that means “one grain of rice can become ten thousand grains”. It is used to express the idea that small efforts can lead to great rewards. |
+| 45 | [申請殺到](http://twitter.com/search?q=%e7%94%b3%e8%ab%8b%e6%ae%ba%e5%88%b0) | N/A |
+| 46 | [パワード](http://twitter.com/search?q=%e3%83%91%e3%83%af%e3%83%bc%e3%83%89) | N/A |
+| 47 | [マツキヨ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%ad%e3%83%a8) | N/A |
+| 48 | [ジェルライナー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ab%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%bc) | N/A |
+| 49 | [オースブレイカー](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%96%e3%83%ac%e3%82%a4%e3%82%ab%e3%83%bc) | N/A |
+| 50 | [首相宛て](http://twitter.com/search?q=%e9%a6%96%e7%9b%b8%e5%ae%9b%e3%81%a6) | N/A |
 
 
 

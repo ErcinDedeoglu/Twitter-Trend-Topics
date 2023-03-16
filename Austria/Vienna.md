@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-16 02:35:18 UTC`
+📆 Last Updated: `2023-03-16 03:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Austria](</Austria>)
 | 1 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
 | 2 | [#rundertisch](http://twitter.com/search?q=%23rundertisch) | N/A |
 | 3 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
-| 4 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 4 | [mitglieder](http://twitter.com/search?q=mitglieder) | N/A |
 | 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 6 | [seilbahn](http://twitter.com/search?q=seilbahn) | N/A |
 | 7 | [#w1503](http://twitter.com/search?q=%23w1503) | N/A |
@@ -29,12 +29,12 @@ This is top 50 for [Austria](</Austria>)
 | 12 | [Kern](http://twitter.com/search?q=Kern) | N/A |
 | 13 | [Lage](http://twitter.com/search?q=Lage) | N/A |
 | 14 | [burgenland](http://twitter.com/search?q=burgenland) | N/A |
-| 15 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
-| 16 | [#RendiWagner](http://twitter.com/search?q=%23RendiWagner) | N/A |
+| 15 | [parteitag](http://twitter.com/search?q=parteitag) | N/A |
+| 16 | [#rendiwagner](http://twitter.com/search?q=%23rendiwagner) | N/A |
 | 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 18 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 19 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
-| 20 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 18 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
+| 19 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 20 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
 | 21 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
 | 22 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
 | 23 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
@@ -50,9 +50,9 @@ This is top 50 for [Austria](</Austria>)
 | 33 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
 | 34 | [Bund](http://twitter.com/search?q=Bund) | N/A |
 | 35 | [Mund](http://twitter.com/search?q=Mund) | N/A |
-| 36 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 37 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 38 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
+| 36 | [Basis](http://twitter.com/search?q=Basis) | N/A |
+| 37 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
+| 38 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 39 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
 | 40 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
 | 41 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |

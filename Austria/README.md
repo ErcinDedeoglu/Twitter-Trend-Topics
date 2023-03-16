@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-16 02:36:04 UTC`
+📆 Last Updated: `2023-03-16 03:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Austria
 | 1 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
 | 2 | [#rundertisch](http://twitter.com/search?q=%23rundertisch) | N/A |
 | 3 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
-| 4 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 4 | [mitglieder](http://twitter.com/search?q=mitglieder) | N/A |
 | 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 6 | [seilbahn](http://twitter.com/search?q=seilbahn) | N/A |
 | 7 | [#w1503](http://twitter.com/search?q=%23w1503) | N/A |
@@ -29,8 +29,8 @@ This is top 50 for Austria
 | 12 | [Kern](http://twitter.com/search?q=Kern) | N/A |
 | 13 | [Lage](http://twitter.com/search?q=Lage) | N/A |
 | 14 | [burgenland](http://twitter.com/search?q=burgenland) | N/A |
-| 15 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
-| 16 | [#RendiWagner](http://twitter.com/search?q=%23RendiWagner) | N/A |
+| 15 | [parteitag](http://twitter.com/search?q=parteitag) | N/A |
+| 16 | [#rendiwagner](http://twitter.com/search?q=%23rendiwagner) | N/A |
 | 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 18 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
 | 19 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Austria
 | 33 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
 | 34 | [Bund](http://twitter.com/search?q=Bund) | N/A |
 | 35 | [Mund](http://twitter.com/search?q=Mund) | N/A |
-| 36 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 37 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 38 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
+| 36 | [Basis](http://twitter.com/search?q=Basis) | N/A |
+| 37 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
+| 38 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 39 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
 | 40 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
 | 41 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
 | 42 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 43 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 44 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 45 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 46 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 47 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
-| 48 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
-| 49 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 50 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 43 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 44 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 45 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 46 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
+| 47 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 48 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 49 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 50 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
 
 
 

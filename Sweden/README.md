@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-16 02:36:12 UTC`
+📆 Last Updated: `2023-03-16 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,7 +34,7 @@ This is top 50 for Sweden
 | 17 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
 | 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 19 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
-| 20 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
+| 20 | [svantesson](http://twitter.com/search?q=svantesson) | N/A |
 | 21 | [Metoo](http://twitter.com/search?q=Metoo) | N/A |
 | 22 | [Busch](http://twitter.com/search?q=Busch) | N/A |
 | 23 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
@@ -43,10 +43,10 @@ This is top 50 for Sweden
 | 26 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 | 27 | [kadhammar](http://twitter.com/search?q=kadhammar) | N/A |
 | 28 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 29 | [Stina Oscarsons](http://twitter.com/search?q=Stina+Oscarsons) | N/A |
+| 29 | [stina oscarsons](http://twitter.com/search?q=stina+oscarsons) | N/A |
 | 30 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
 | 31 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 32 | [poznan](http://twitter.com/search?q=poznan) | N/A |
+| 32 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
 | 33 | [First Aid Kit](http://twitter.com/search?q=First+Aid+Kit) | N/A |
 | 34 | [troligen](http://twitter.com/search?q=troligen) | N/A |
 | 35 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |

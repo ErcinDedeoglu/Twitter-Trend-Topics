@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-16 02:35:22 UTC`
+📆 Last Updated: `2023-03-16 03:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,38 +32,38 @@ This is top 50 for [Germany](</Germany>)
 | 15 | [Warteraum](http://twitter.com/search?q=Warteraum) | N/A |
 | 16 | [BundID](http://twitter.com/search?q=BundID) | N/A |
 | 17 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 18 | [Frankfurter](http://twitter.com/search?q=Frankfurter) | N/A |
-| 19 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 20 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 21 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 22 | [Erdnussflips](http://twitter.com/search?q=Erdnussflips) | N/A |
-| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 24 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 25 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
-| 26 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 27 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 28 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 29 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 30 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 31 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
-| 32 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 33 | [verwaltung](http://twitter.com/search?q=verwaltung) | N/A |
-| 34 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 35 | [Vollidioten](http://twitter.com/search?q=Vollidioten) | N/A |
-| 36 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 37 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 38 | [Rache](http://twitter.com/search?q=Rache) | N/A |
-| 39 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 40 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
-| 41 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 42 | [wahlkreis](http://twitter.com/search?q=wahlkreis) | N/A |
-| 43 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
-| 44 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 45 | [Skier](http://twitter.com/search?q=Skier) | N/A |
-| 46 | [Elternhaus](http://twitter.com/search?q=Elternhaus) | N/A |
-| 47 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 48 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 49 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 18 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 19 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
+| 20 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
+| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 22 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 23 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
+| 24 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 25 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 26 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 27 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 28 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 29 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
+| 30 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 31 | [verwaltung](http://twitter.com/search?q=verwaltung) | N/A |
+| 32 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 33 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 34 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 35 | [Rache](http://twitter.com/search?q=Rache) | N/A |
+| 36 | [Vollidioten](http://twitter.com/search?q=Vollidioten) | N/A |
+| 37 | [Farbe im Gesicht](http://twitter.com/search?q=Farbe+im+Gesicht) | N/A |
+| 38 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 39 | [wahlkreis](http://twitter.com/search?q=wahlkreis) | N/A |
+| 40 | [Verschwörungstheorie](http://twitter.com/search?q=Verschw%c3%b6rungstheorie) | N/A |
+| 41 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 42 | [Skier](http://twitter.com/search?q=Skier) | N/A |
+| 43 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 44 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 45 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 46 | [Verkehrssektor](http://twitter.com/search?q=Verkehrssektor) | N/A |
+| 47 | [Studis](http://twitter.com/search?q=Studis) | N/A |
+| 48 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 49 | [Zugangscode](http://twitter.com/search?q=Zugangscode) | N/A |
 
 
 

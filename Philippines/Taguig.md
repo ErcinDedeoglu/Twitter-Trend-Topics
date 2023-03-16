@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-16 02:35:36 UTC`
+📆 Last Updated: `2023-03-16 03:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
 | 2 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 3 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 4 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 3 | [#HORI7ONonTropangLOL](http://twitter.com/search?q=%23HORI7ONonTropangLOL) | N/A |
+| 4 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
 | 5 | [#BORNPINKINMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKINMANILA_BULACAN) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Camarines Sur](http://twitter.com/search?q=Camarines+Sur) | N/A |
-| 8 | [#SOLOagain](http://twitter.com/search?q=%23SOLOagain) | N/A |
-| 9 | [donny for belo beauty](http://twitter.com/search?q=donny+for+belo+beauty) | N/A |
-| 10 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 11 | [#BrightWinSBSTour2023](http://twitter.com/search?q=%23BrightWinSBSTour2023) | N/A |
-| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 13 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 14 | [Kadiwa](http://twitter.com/search?q=Kadiwa) | N/A |
-| 15 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 6 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 8 | [#SOLOAgain](http://twitter.com/search?q=%23SOLOAgain) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Camarines Sur](http://twitter.com/search?q=Camarines+Sur) | N/A |
+| 11 | [donny for belo beauty](http://twitter.com/search?q=donny+for+belo+beauty) | N/A |
+| 12 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 13 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 14 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 15 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
 | 16 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
 | 17 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
-| 18 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 19 | [bogum](http://twitter.com/search?q=bogum) | N/A |
-| 20 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 21 | [Pili](http://twitter.com/search?q=Pili) | N/A |
+| 18 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 19 | [Pili](http://twitter.com/search?q=Pili) | N/A |
+| 20 | [JAY CAME HOME](http://twitter.com/search?q=JAY+CAME+HOME) | N/A |
+| 21 | [Kadiwa](http://twitter.com/search?q=Kadiwa) | N/A |
 | 22 | [Pangulo](http://twitter.com/search?q=Pangulo) | N/A |
-| 23 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
-| 24 | [JAY CAME HOME](http://twitter.com/search?q=JAY+CAME+HOME) | N/A |
-| 25 | [Woody Harrelson](http://twitter.com/search?q=Woody+Harrelson) | N/A |
-| 26 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 27 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 28 | [book your tickets now](http://twitter.com/search?q=book+your+tickets+now) | N/A |
-| 29 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 30 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
-| 31 | [excited for you kinji](http://twitter.com/search?q=excited+for+you+kinji) | N/A |
-| 32 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 33 | [JISOO ME VISUAL TEASER](http://twitter.com/search?q=JISOO+ME+VISUAL+TEASER) | N/A |
-| 34 | [felip on aquatic planet](http://twitter.com/search?q=felip+on+aquatic+planet) | N/A |
-| 35 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 36 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 37 | [rmt na ako](http://twitter.com/search?q=rmt+na+ako) | N/A |
-| 38 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
-| 39 | [seventeen mafia game](http://twitter.com/search?q=seventeen+mafia+game) | N/A |
-| 40 | [DROWNING IN BOBBY](http://twitter.com/search?q=DROWNING+IN+BOBBY) | N/A |
-| 41 | [jay finally came home](http://twitter.com/search?q=jay+finally+came+home) | N/A |
-| 42 | [JAY IS BACK](http://twitter.com/search?q=JAY+IS+BACK) | N/A |
-| 43 | [Riki](http://twitter.com/search?q=Riki) | N/A |
-| 44 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 45 | [GOOD MORNING TO ME](http://twitter.com/search?q=GOOD+MORNING+TO+ME) | N/A |
-| 46 | [CHERRY BLOSSOMS MV TEASER](http://twitter.com/search?q=CHERRY+BLOSSOMS+MV+TEASER) | N/A |
-| 47 | [UMUWI NA JAYKI](http://twitter.com/search?q=UMUWI+NA+JAYKI) | N/A |
-| 48 | [jennie kim](http://twitter.com/search?q=jennie+kim) | N/A |
-| 49 | [my yunki](http://twitter.com/search?q=my+yunki) | N/A |
-| 50 | [SHARLENExNYLON MARCH COVER](http://twitter.com/search?q=SHARLENExNYLON+MARCH+COVER) | N/A |
+| 23 | [bogum](http://twitter.com/search?q=bogum) | N/A |
+| 24 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 25 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 26 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 27 | [seokmin](http://twitter.com/search?q=seokmin) | N/A |
+| 28 | [Lemme Hear You Say LaLaLa-Lah](http://twitter.com/search?q=Lemme+Hear+You+Say+LaLaLa-Lah) | N/A |
+| 29 | [book your tickets now](http://twitter.com/search?q=book+your+tickets+now) | N/A |
+| 30 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 31 | [President Marcos](http://twitter.com/search?q=President+Marcos) | N/A |
+| 32 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 33 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 34 | [excited for you kinji](http://twitter.com/search?q=excited+for+you+kinji) | N/A |
+| 35 | [Yohan](http://twitter.com/search?q=Yohan) | N/A |
+| 36 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
+| 37 | [JISOO ME VISUAL TEASER](http://twitter.com/search?q=JISOO+ME+VISUAL+TEASER) | N/A |
+| 38 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
+| 39 | [felip on aquatic planet](http://twitter.com/search?q=felip+on+aquatic+planet) | N/A |
+| 40 | [rmt na ako](http://twitter.com/search?q=rmt+na+ako) | N/A |
+| 41 | [seventeen mafia game](http://twitter.com/search?q=seventeen+mafia+game) | N/A |
+| 42 | [DROWNING IN BOBBY](http://twitter.com/search?q=DROWNING+IN+BOBBY) | N/A |
+| 43 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 44 | [JAY IS BACK](http://twitter.com/search?q=JAY+IS+BACK) | N/A |
+| 45 | [Woody Harrelson](http://twitter.com/search?q=Woody+Harrelson) | N/A |
+| 46 | [Riki](http://twitter.com/search?q=Riki) | N/A |
+| 47 | [CHERRY BLOSSOMS MV TEASER](http://twitter.com/search?q=CHERRY+BLOSSOMS+MV+TEASER) | N/A |
+| 48 | [UMUWI NA JAYKI](http://twitter.com/search?q=UMUWI+NA+JAYKI) | N/A |
+| 49 | [Jennie Kim](http://twitter.com/search?q=Jennie+Kim) | N/A |
+| 50 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-03-16 02:35:51 UTC`
+📆 Last Updated: `2023-03-16 03:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BağımsızBursasporVekili](http://twitter.com/search?q=%23Ba%c4%9f%c4%b1ms%c4%b1zBursasporVekili) | N/A |
+| 1 | [#bağımsızbursasporvekili](http://twitter.com/search?q=%23ba%c4%9f%c4%b1ms%c4%b1zbursasporvekili) | N/A |
 | 2 | [#selfelaketi](http://twitter.com/search?q=%23selfelaketi) | N/A |
 | 3 | [#sanliurfa](http://twitter.com/search?q=%23sanliurfa) | #Sanliurfa is a hashtag used to refer to the city of Sanliurfa in southeastern Turkey. In English, it translates to "Lion's Fortress". Sanliurfa is known for its ancient ruins and archaeological sites, as well as its rich cultural heritage. |
 | 4 | [#Adıyaman](http://twitter.com/search?q=%23Ad%c4%b1yaman) | N/A |
@@ -27,16 +27,16 @@ This is top 50 for [Turkey](</Turkey>)
 | 10 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 11 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
 | 12 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
-| 13 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
+| 13 | [büyük türkiye hareketi](http://twitter.com/search?q=b%c3%bcy%c3%bck+t%c3%bcrkiye+hareketi) | N/A |
 | 14 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
 | 15 | [servet kuş](http://twitter.com/search?q=servet+ku%c5%9f) | N/A |
 | 16 | [abdurrahmandelen](http://twitter.com/search?q=abdurrahmandelen) | N/A |
 | 17 | [Milletvekili](http://twitter.com/search?q=Milletvekili) | N/A |
 | 18 | [patnoscezaevi suçişliyor](http://twitter.com/search?q=patnoscezaevi+su%c3%a7i%c5%9fliyor) | N/A |
 | 19 | [Fahriye Yıldırım](http://twitter.com/search?q=Fahriye+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 20 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 21 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 22 | [VerinArtık Denkliğimizi](http://twitter.com/search?q=VerinArt%c4%b1k+Denkli%c4%9fimizi) | N/A |
+| 20 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 22 | [verinartık denkliğimizi](http://twitter.com/search?q=verinart%c4%b1k+denkli%c4%9fimizi) | N/A |
 | 23 | [adaletiçinşimdi](http://twitter.com/search?q=adaleti%c3%a7in%c5%9fimdi) | N/A |
 | 24 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
 | 25 | [RTEAffı GönülleriKazanır](http://twitter.com/search?q=RTEAff%c4%b1+G%c3%b6n%c3%bclleriKazan%c4%b1r) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for [Turkey](</Turkey>)
 | 29 | [Selden](http://twitter.com/search?q=Selden) | N/A |
 | 30 | [Gent](http://twitter.com/search?q=Gent) | N/A |
 | 31 | [alparslanhocaya telefonyasağı](http://twitter.com/search?q=alparslanhocaya+telefonyasa%c4%9f%c4%b1) | N/A |
-| 32 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 33 | [Dikili Foca](http://twitter.com/search?q=Dikili+Foca) | N/A |
-| 34 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
-| 35 | [Kuecuekpark](http://twitter.com/search?q=Kuecuekpark) | N/A |
-| 36 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 37 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
-| 38 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 32 | [Dikili Foca](http://twitter.com/search?q=Dikili+Foca) | N/A |
+| 33 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 34 | [Kuecuekpark](http://twitter.com/search?q=Kuecuekpark) | N/A |
+| 35 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
+| 36 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
+| 37 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 38 | [Dokunulmazlık](http://twitter.com/search?q=Dokunulmazl%c4%b1k) | N/A |
 | 39 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 40 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 41 | [Dokunulmazlık](http://twitter.com/search?q=Dokunulmazl%c4%b1k) | N/A |
-| 42 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 43 | [Mustafa Şen](http://twitter.com/search?q=Mustafa+%c5%9een) | N/A |
-| 44 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 46 | [DenetimliHakkı Uygulanmıyor](http://twitter.com/search?q=DenetimliHakk%c4%b1+Uygulanm%c4%b1yor) | N/A |
-| 47 | [Milletiyle](http://twitter.com/search?q=Milletiyle) | N/A |
-| 48 | [HER ŞEYDEN ÖNCE TÜRKİYE](http://twitter.com/search?q=HER+%c5%9eEYDEN+%c3%96NCE+T%c3%9cRK%c4%b0YE) | N/A |
-| 49 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
-| 50 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 40 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 41 | [Mustafa Şen](http://twitter.com/search?q=Mustafa+%c5%9een) | N/A |
+| 42 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 43 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 44 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 45 | [Milletiyle](http://twitter.com/search?q=Milletiyle) | N/A |
+| 46 | [HER ŞEYDEN ÖNCE TÜRKİYE](http://twitter.com/search?q=HER+%c5%9eEYDEN+%c3%96NCE+T%c3%9cRK%c4%b0YE) | N/A |
+| 47 | [DenetimliHakkı Uygulanmıyor](http://twitter.com/search?q=DenetimliHakk%c4%b1+Uygulanm%c4%b1yor) | N/A |
+| 48 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
+| 49 | [Hükümet İstifa](http://twitter.com/search?q=H%c3%bck%c3%bcmet+%c4%b0stifa) | N/A |
+| 50 | [Japonya'dan](http://twitter.com/search?q=Japonya%27dan) | N/A |
 
 
 

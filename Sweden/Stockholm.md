@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-16 02:35:27 UTC`
+📆 Last Updated: `2023-03-16 03:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,23 +43,23 @@ This is top 50 for [Sweden](</Sweden>)
 | 26 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 | 27 | [kadhammar](http://twitter.com/search?q=kadhammar) | N/A |
 | 28 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 29 | [eneroth](http://twitter.com/search?q=eneroth) | N/A |
-| 30 | [Stina Oscarsons](http://twitter.com/search?q=Stina+Oscarsons) | N/A |
-| 31 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 32 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 33 | [poznan](http://twitter.com/search?q=poznan) | N/A |
-| 34 | [First Aid Kit](http://twitter.com/search?q=First+Aid+Kit) | N/A |
-| 35 | [troligen](http://twitter.com/search?q=troligen) | N/A |
-| 36 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 37 | [nubben](http://twitter.com/search?q=nubben) | N/A |
-| 38 | [kristersson](http://twitter.com/search?q=kristersson) | N/A |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [Trist](http://twitter.com/search?q=Trist) | N/A |
-| 41 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 42 | [snygg](http://twitter.com/search?q=snygg) | N/A |
-| 43 | [östersjön](http://twitter.com/search?q=%c3%b6stersj%c3%b6n) | N/A |
-| 44 | [Wien](http://twitter.com/search?q=Wien) | N/A |
-| 45 | [Olsson](http://twitter.com/search?q=Olsson) | N/A |
+| 29 | [stina oscarsons](http://twitter.com/search?q=stina+oscarsons) | N/A |
+| 30 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 31 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 32 | [poznan](http://twitter.com/search?q=poznan) | N/A |
+| 33 | [First Aid Kit](http://twitter.com/search?q=First+Aid+Kit) | N/A |
+| 34 | [troligen](http://twitter.com/search?q=troligen) | N/A |
+| 35 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 36 | [nubben](http://twitter.com/search?q=nubben) | N/A |
+| 37 | [kristersson](http://twitter.com/search?q=kristersson) | N/A |
+| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 40 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 41 | [snygg](http://twitter.com/search?q=snygg) | N/A |
+| 42 | [östersjön](http://twitter.com/search?q=%c3%b6stersj%c3%b6n) | N/A |
+| 43 | [Wien](http://twitter.com/search?q=Wien) | N/A |
+| 44 | [Olsson](http://twitter.com/search?q=Olsson) | N/A |
+| 45 | [Eneroth](http://twitter.com/search?q=Eneroth) | N/A |
 | 46 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 47 | [belgien](http://twitter.com/search?q=belgien) | N/A |
 | 48 | [ekdal](http://twitter.com/search?q=ekdal) | N/A |

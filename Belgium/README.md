@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-16 02:36:04 UTC`
+📆 Last Updated: `2023-03-16 03:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,15 +26,15 @@ This is top 50 for Belgium
 | 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 10 | [Kijk](http://twitter.com/search?q=Kijk) | N/A |
 | 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [Bracke](http://twitter.com/search?q=Bracke) | N/A |
+| 12 | [bracke](http://twitter.com/search?q=bracke) | N/A |
 | 13 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
 | 14 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 15 | [Verloren](http://twitter.com/search?q=Verloren) | N/A |
 | 16 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
 | 17 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 20 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
+| 18 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 19 | [Jhin](http://twitter.com/search?q=Jhin) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 21 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
 | 22 | [Leuven](http://twitter.com/search?q=Leuven) | N/A |
 | 23 | [Engels](http://twitter.com/search?q=Engels) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Belgium
 | 47 | [Gand](http://twitter.com/search?q=Gand) | N/A |
 | 48 | [Voila](http://twitter.com/search?q=Voila) | N/A |
 | 49 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
-| 50 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 50 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
 
 
 

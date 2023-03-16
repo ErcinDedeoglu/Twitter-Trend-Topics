@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-16 02:35:46 UTC`
+📆 Last Updated: `2023-03-16 03:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 12 | [Waziristan](http://twitter.com/search?q=Waziristan) | N/A |
 | 13 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
 | 14 | [Cottrell](http://twitter.com/search?q=Cottrell) | N/A |
-| 15 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 15 | [ihsanullah](http://twitter.com/search?q=ihsanullah) | N/A |
 | 16 | [Rs 5](http://twitter.com/search?q=Rs+5) | Rs 5 is the abbreviation for Indian Rupee 5, which is equivalent to approximately 0.068 US Dollars. |
 | 17 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
 | 18 | [Qualifier](http://twitter.com/search?q=Qualifier) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 20 | [London](http://twitter.com/search?q=London) | N/A |
 | 21 | [Sam Billings](http://twitter.com/search?q=Sam+Billings) | N/A |
 | 22 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
-| 23 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 24 | [Rana Sanaullah](http://twitter.com/search?q=Rana+Sanaullah) | N/A |
-| 25 | [Rizzy](http://twitter.com/search?q=Rizzy) | N/A |
+| 23 | [Rana Sanaullah](http://twitter.com/search?q=Rana+Sanaullah) | N/A |
+| 24 | [Rizzy](http://twitter.com/search?q=Rizzy) | N/A |
+| 25 | [Goku](http://twitter.com/search?q=Goku) | N/A |
 | 26 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
 | 27 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 28 | [LEAs](http://twitter.com/search?q=LEAs) | N/A |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
-| 31 | [Noon](http://twitter.com/search?q=Noon) | N/A |
-| 32 | [HMU in DM](http://twitter.com/search?q=HMU+in+DM) | N/A |
-| 33 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 34 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
+| 28 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 29 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 30 | [LEAs](http://twitter.com/search?q=LEAs) | N/A |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
+| 33 | [Noon](http://twitter.com/search?q=Noon) | N/A |
+| 34 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
 | 35 | [Dollars](http://twitter.com/search?q=Dollars) | N/A |
-| 36 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 37 | [Jazakallah](http://twitter.com/search?q=Jazakallah) | N/A |
-| 38 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 39 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
-| 40 | [Professional](http://twitter.com/search?q=Professional) | N/A |
-| 41 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 42 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
-| 43 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 44 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
-| 45 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 46 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 47 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 48 | [America](http://twitter.com/search?q=America) | N/A |
-| 49 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 50 | [Thnx](http://twitter.com/search?q=Thnx) | N/A |
+| 36 | [Generals](http://twitter.com/search?q=Generals) | N/A |
+| 37 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 38 | [Jazakallah](http://twitter.com/search?q=Jazakallah) | N/A |
+| 39 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 40 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 42 | [Professional](http://twitter.com/search?q=Professional) | N/A |
+| 43 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 44 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 45 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
+| 46 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
+| 47 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 48 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 49 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 50 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
 
 
 
