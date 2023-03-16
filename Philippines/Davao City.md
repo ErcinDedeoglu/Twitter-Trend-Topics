@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-16 18:18:15 UTC`
+📆 Last Updated: `2023-03-16 19:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#5678byKAIA](http://twitter.com/search?q=%235678byKAIA) | N/A |
-| 2 | [#MYSD](http://twitter.com/search?q=%23MYSD) | N/A |
-| 3 | [Issa](http://twitter.com/search?q=Issa) | N/A |
-| 4 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
-| 5 | [#MySelcaDay](http://twitter.com/search?q=%23MySelcaDay) | N/A |
-| 6 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 7 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 8 | [Mentor Lisa](http://twitter.com/search?q=Mentor+Lisa) | N/A |
-| 9 | [BM LAST EVALUATION EP2](http://twitter.com/search?q=BM+LAST+EVALUATION+EP2) | N/A |
-| 10 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 11 | [sohee](http://twitter.com/search?q=sohee) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [CHICO MALO MV TEASER](http://twitter.com/search?q=CHICO+MALO+MV+TEASER) | N/A |
-| 14 | [Yuuri](http://twitter.com/search?q=Yuuri) | N/A |
-| 15 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 16 | [Hoon](http://twitter.com/search?q=Hoon) | N/A |
-| 17 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 18 | [NMIXX](http://twitter.com/search?q=NMIXX) | N/A |
-| 19 | [PHP WALA NA BA D1](http://twitter.com/search?q=PHP+WALA+NA+BA+D1) | N/A |
-| 20 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
-| 21 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 22 | [JoshCullen WT Dance Rehearsal](http://twitter.com/search?q=JoshCullen+WT+Dance+Rehearsal) | N/A |
-| 23 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 24 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 25 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
-| 26 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 27 | [Ni-ki](http://twitter.com/search?q=Ni-ki) | N/A |
-| 28 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
-| 29 | [#WINTER](http://twitter.com/search?q=%23WINTER) | N/A |
-| 30 | [#JonaxxGYWKab16](http://twitter.com/search?q=%23JonaxxGYWKab16) | N/A |
-| 31 | [#FurFurOFCTestimony](http://twitter.com/search?q=%23FurFurOFCTestimony) | N/A |
-| 32 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
-| 33 | [#FurFurOFCEp2](http://twitter.com/search?q=%23FurFurOFCEp2) | N/A |
-| 34 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 35 | [#셋미프리파트투_아미대기해](http://twitter.com/search?q=%23%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ed%8c%8c%ed%8a%b8%ed%88%ac_%ec%95%84%eb%af%b8%eb%8c%80%ea%b8%b0%ed%95%b4) | N/A |
-| 36 | [#D4toChicoMalo](http://twitter.com/search?q=%23D4toChicoMalo) | N/A |
-| 37 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
-| 38 | [#SetMeFree_Pt2_OutToday](http://twitter.com/search?q=%23SetMeFree_Pt2_OutToday) | N/A |
-| 39 | [#BWDNtoJapan](http://twitter.com/search?q=%23BWDNtoJapan) | N/A |
-| 40 | [#WalaNaBa_by_PHP](http://twitter.com/search?q=%23WalaNaBa_by_PHP) | N/A |
-| 41 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 42 | [#KARINA](http://twitter.com/search?q=%23KARINA) | N/A |
-| 43 | [#TaokaenoiXFreenBeckyLive](http://twitter.com/search?q=%23TaokaenoiXFreenBeckyLive) | N/A |
-| 44 | [#SOLAR](http://twitter.com/search?q=%23SOLAR) | N/A |
-| 45 | [#Press_Hit_Play](http://twitter.com/search?q=%23Press_Hit_Play) | N/A |
-| 46 | [#MOONBYUL](http://twitter.com/search?q=%23MOONBYUL) | N/A |
-| 47 | [#143YesMyLove](http://twitter.com/search?q=%23143YesMyLove) | N/A |
+| 1 | [TAYLOR](http://twitter.com/search?q=TAYLOR) | N/A |
+| 2 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
+| 3 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 4 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 5 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
+| 6 | [#5678byKAIA](http://twitter.com/search?q=%235678byKAIA) | N/A |
+| 7 | [Issa](http://twitter.com/search?q=Issa) | N/A |
+| 8 | [#TaokaenoiXFreenBeckyLive](http://twitter.com/search?q=%23TaokaenoiXFreenBeckyLive) | N/A |
+| 9 | [SARAH GERONIMO CONCERT](http://twitter.com/search?q=SARAH+GERONIMO+CONCERT) | N/A |
+| 10 | [#MYSD](http://twitter.com/search?q=%23MYSD) | N/A |
+| 11 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 12 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 13 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 14 | [DrVickiBeloVlog WithDONNY](http://twitter.com/search?q=DrVickiBeloVlog+WithDONNY) | N/A |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [JoshCullen WT Dance Rehearsal](http://twitter.com/search?q=JoshCullen+WT+Dance+Rehearsal) | N/A |
+| 17 | [ju-yong's kiss sa abril](http://twitter.com/search?q=ju-yong%27s+kiss+sa+abril) | N/A |
+| 18 | [JISOO ME VISUAL FILM](http://twitter.com/search?q=JISOO+ME+VISUAL+FILM) | N/A |
+| 19 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 20 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 21 | [Camarines Sur](http://twitter.com/search?q=Camarines+Sur) | N/A |
+| 22 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 23 | [fasttalk withjuliever](http://twitter.com/search?q=fasttalk+withjuliever) | N/A |
+| 24 | [jay selca](http://twitter.com/search?q=jay+selca) | N/A |
+| 25 | [LOVINGisa WITH ROBXINE](http://twitter.com/search?q=LOVINGisa+WITH+ROBXINE) | N/A |
+| 26 | [GForest](http://twitter.com/search?q=GForest) | N/A |
+| 27 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 28 | [jisoo me visual teaser](http://twitter.com/search?q=jisoo+me+visual+teaser) | N/A |
+| 29 | [BM LAST EVALUATION EP2](http://twitter.com/search?q=BM+LAST+EVALUATION+EP2) | N/A |
+| 30 | [donny for belo beauty](http://twitter.com/search?q=donny+for+belo+beauty) | N/A |
+| 31 | [Jennifer Garner](http://twitter.com/search?q=Jennifer+Garner) | N/A |
+| 32 | [kaomiah new project](http://twitter.com/search?q=kaomiah+new+project) | N/A |
+| 33 | [CHICO MALO MV TEASER](http://twitter.com/search?q=CHICO+MALO+MV+TEASER) | N/A |
+| 34 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 35 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
+| 36 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 37 | [NI-KI FINALLY CAME HOME](http://twitter.com/search?q=NI-KI+FINALLY+CAME+HOME) | N/A |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
+| 40 | [book your tickets now](http://twitter.com/search?q=book+your+tickets+now) | N/A |
+| 41 | [BNTP OUT NOW](http://twitter.com/search?q=BNTP+OUT+NOW) | N/A |
+| 42 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
+| 43 | [happy 1stmonthsary warlio](http://twitter.com/search?q=happy+1stmonthsary+warlio) | N/A |
+| 44 | [jay came home](http://twitter.com/search?q=jay+came+home) | N/A |
+| 45 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 46 | [yuuri](http://twitter.com/search?q=yuuri) | N/A |
+| 47 | [UGNAYAN IS OUT NOW](http://twitter.com/search?q=UGNAYAN+IS+OUT+NOW) | N/A |
 
 
 

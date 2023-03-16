@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-16 18:18:31 UTC`
+📆 Last Updated: `2023-03-16 19:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 3 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 4 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
-| 5 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 6 | [Kedrian Johnson](http://twitter.com/search?q=Kedrian+Johnson) | N/A |
-| 7 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 8 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
+| 1 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 2 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 3 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 4 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 5 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
+| 6 | [TAYLOR](http://twitter.com/search?q=TAYLOR) | N/A |
+| 7 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 8 | [Tony Bennett](http://twitter.com/search?q=Tony+Bennett) | N/A |
 | 9 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 10 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 11 | [Bob Huggins](http://twitter.com/search?q=Bob+Huggins) | N/A |
-| 12 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
-| 13 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
-| 14 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 15 | [Myles Jack](http://twitter.com/search?q=Myles+Jack) | N/A |
-| 16 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 17 | [SNOOPYTOOZ](http://twitter.com/search?q=SNOOPYTOOZ) | N/A |
-| 18 | [Parris Campbell](http://twitter.com/search?q=Parris+Campbell) | N/A |
-| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 20 | [Mountaineers](http://twitter.com/search?q=Mountaineers) | N/A |
-| 21 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 22 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 23 | [Don King](http://twitter.com/search?q=Don+King) | N/A |
-| 24 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 25 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 26 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
-| 27 | [Larsa](http://twitter.com/search?q=Larsa) | N/A |
-| 28 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 29 | [Julian Reese](http://twitter.com/search?q=Julian+Reese) | N/A |
-| 30 | [Slayton](http://twitter.com/search?q=Slayton) | Slayton is a surname of English origin. It is derived from the Old English words 'slae' meaning 'willow' and 'tun' meaning 'enclosure'. The name is thought to have originally referred to someone who lived near a willow enclosure. |
-| 31 | [Jimmy Bell](http://twitter.com/search?q=Jimmy+Bell) | N/A |
-| 32 | [Harrison Smith](http://twitter.com/search?q=Harrison+Smith) | N/A |
-| 33 | [#QueensCourt](http://twitter.com/search?q=%23QueensCourt) | N/A |
-| 34 | [Steam Spring Sale](http://twitter.com/search?q=Steam+Spring+Sale) | N/A |
-| 35 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
-| 36 | [#GildedSweepstakes](http://twitter.com/search?q=%23GildedSweepstakes) | N/A |
-| 37 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
-| 38 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
-| 39 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
-| 40 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
-| 41 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
-| 42 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 43 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 44 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 10 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 11 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 12 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 13 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
+| 14 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 15 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
+| 16 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
+| 17 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 18 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 19 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
+| 20 | [Bob Huggins](http://twitter.com/search?q=Bob+Huggins) | N/A |
+| 21 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
+| 22 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 23 | [Stevenson](http://twitter.com/search?q=Stevenson) | Stevenson is a surname of Scottish origin. It is derived from the Old English words 'stið' meaning 'strong' and 'ham' meaning 'home'. The name can be translated to mean 'strong home'. |
+| 24 | [Julian Reese](http://twitter.com/search?q=Julian+Reese) | N/A |
+| 25 | [Kedrian Johnson](http://twitter.com/search?q=Kedrian+Johnson) | N/A |
+| 26 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 27 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 28 | [Jalen Slawson](http://twitter.com/search?q=Jalen+Slawson) | N/A |
+| 29 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
+| 30 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
+| 31 | [#BracketBusted](http://twitter.com/search?q=%23BracketBusted) | N/A |
+| 32 | [JP Pegues](http://twitter.com/search?q=JP+Pegues) | N/A |
+| 33 | [Bookmarks](http://twitter.com/search?q=Bookmarks) | N/A |
+| 34 | [Mountaineers](http://twitter.com/search?q=Mountaineers) | N/A |
+| 35 | [Bob Richey](http://twitter.com/search?q=Bob+Richey) | N/A |
+| 36 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
+| 37 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 38 | [FU ALL THE TIME](http://twitter.com/search?q=FU+ALL+THE+TIME) | N/A |
+| 39 | [The Civil Wars](http://twitter.com/search?q=The+Civil+Wars) | N/A |
+| 40 | [#WVUvsMD](http://twitter.com/search?q=%23WVUvsMD) | N/A |
+| 41 | [Hoos](http://twitter.com/search?q=Hoos) | N/A |
+| 42 | [Haddy](http://twitter.com/search?q=Haddy) | N/A |
+| 43 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 44 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 45 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 46 | [SNOOPYTOOZ](http://twitter.com/search?q=SNOOPYTOOZ) | N/A |
+| 47 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
+| 48 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
+| 49 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
+| 50 | [Larsa](http://twitter.com/search?q=Larsa) | N/A |
 
 
 

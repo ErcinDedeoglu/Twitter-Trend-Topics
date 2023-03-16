@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-16 18:18:05 UTC`
+📆 Last Updated: `2023-03-16 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
 | 2 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
-| 3 | [Maju Terus Prabowo](http://twitter.com/search?q=Maju+Terus+Prabowo) | N/A |
-| 4 | [Bersama Prabowo 2024](http://twitter.com/search?q=Bersama+Prabowo+2024) | N/A |
-| 5 | [Kandidat Menteri](http://twitter.com/search?q=Kandidat+Menteri) | N/A |
-| 6 | [#KirimTakGentar](http://twitter.com/search?q=%23KirimTakGentar) | N/A |
+| 3 | [Kandidat Menteri](http://twitter.com/search?q=Kandidat+Menteri) | N/A |
+| 4 | [#HPSMinisterID](http://twitter.com/search?q=%23HPSMinisterID) | N/A |
+| 5 | [Maju Terus Prabowo](http://twitter.com/search?q=Maju+Terus+Prabowo) | N/A |
+| 6 | [Bersama Prabowo 2024](http://twitter.com/search?q=Bersama+Prabowo+2024) | N/A |
 | 7 | [#WelcomeTREASUREtoINDONESIA](http://twitter.com/search?q=%23WelcomeTREASUREtoINDONESIA) | N/A |
-| 8 | [#HPSMinisterID](http://twitter.com/search?q=%23HPSMinisterID) | N/A |
-| 9 | [Ng Tze Yong](http://twitter.com/search?q=Ng+Tze+Yong) | N/A |
-| 10 | [#maljum](http://twitter.com/search?q=%23maljum) | N/A |
-| 11 | [Axelsen](http://twitter.com/search?q=Axelsen) | Axelsen is a Danish surname derived from the given name Axel, which is a form of Absalom. The meaning of the name Axel is "father of peace". |
-| 12 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
-| 13 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
-| 14 | [WE MISS ILICHIL](http://twitter.com/search?q=WE+MISS+ILICHIL) | N/A |
-| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 16 | [Viggo](http://twitter.com/search?q=Viggo) | N/A |
-| 17 | [Rokok](http://twitter.com/search?q=Rokok) | N/A |
-| 18 | [BM LAST EVALUATION EP2](http://twitter.com/search?q=BM+LAST+EVALUATION+EP2) | N/A |
-| 19 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
-| 20 | [Viktor](http://twitter.com/search?q=Viktor) | N/A |
-| 21 | [IHAVE IVE FULL ALBUM](http://twitter.com/search?q=IHAVE+IVE+FULL+ALBUM) | N/A |
-| 22 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 23 | [papa gabor](http://twitter.com/search?q=papa+gabor) | N/A |
-| 24 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 26 | [Love Killa](http://twitter.com/search?q=Love+Killa) | N/A |
-| 27 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 28 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 29 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 30 | [TOMBOY](http://twitter.com/search?q=TOMBOY) | N/A |
-| 31 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
-| 32 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 33 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 34 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 35 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 36 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
-| 37 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 38 | [TNI AD](http://twitter.com/search?q=TNI+AD) | N/A |
-| 39 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 40 | [smtown](http://twitter.com/search?q=smtown) | N/A |
-| 41 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 42 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 43 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 44 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
-| 45 | [#BebasSeenaknya](http://twitter.com/search?q=%23BebasSeenaknya) | N/A |
-| 46 | [#ngeGrabFood](http://twitter.com/search?q=%23ngeGrabFood) | N/A |
-| 47 | [#SEVENTEEN](http://twitter.com/search?q=%23SEVENTEEN) | N/A |
-| 48 | [#BWDNtoJapan](http://twitter.com/search?q=%23BWDNtoJapan) | N/A |
-| 49 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 50 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 8 | [#KirimTakGentar](http://twitter.com/search?q=%23KirimTakGentar) | N/A |
+| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 10 | [prabowo hatinya tulus](http://twitter.com/search?q=prabowo+hatinya+tulus) | N/A |
+| 11 | [politik baik gerindra](http://twitter.com/search?q=politik+baik+gerindra) | N/A |
+| 12 | [rakyat nyamanpilih prabowo](http://twitter.com/search?q=rakyat+nyamanpilih+prabowo) | N/A |
+| 13 | [#fightingclimatechange](http://twitter.com/search?q=%23fightingclimatechange) | N/A |
+| 14 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 15 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 16 | [HendiPS](http://twitter.com/search?q=HendiPS) | N/A |
+| 17 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 19 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 20 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 21 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 22 | [Axelsen](http://twitter.com/search?q=Axelsen) | Axelsen is a Danish surname derived from the given name Axel, which is a form of Absalom. The meaning of the name Axel is "father of peace". |
+| 23 | [TAYLOR](http://twitter.com/search?q=TAYLOR) | N/A |
+| 24 | [Ng Tze Yong](http://twitter.com/search?q=Ng+Tze+Yong) | N/A |
+| 25 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
+| 26 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 27 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 28 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
+| 29 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
+| 30 | [WE MISS ILICHIL](http://twitter.com/search?q=WE+MISS+ILICHIL) | N/A |
+| 31 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 32 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 33 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
+| 34 | [BaKri](http://twitter.com/search?q=BaKri) | N/A |
+| 35 | [Diusir](http://twitter.com/search?q=Diusir) | N/A |
+| 36 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
+| 37 | [B. Tahu Isi](http://twitter.com/search?q=B.+Tahu+Isi) | N/A |
+| 38 | [FajRi](http://twitter.com/search?q=FajRi) | FajRi is an Arabic word that means dawn or sunrise. In English, it can be used to refer to the beginning of a new day or a new era. |
+| 39 | [Rokok](http://twitter.com/search?q=Rokok) | N/A |
+| 40 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 41 | [Viggo](http://twitter.com/search?q=Viggo) | N/A |
+| 42 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 43 | [Sireng](http://twitter.com/search?q=Sireng) | N/A |
+| 44 | [2024 prabowo menang](http://twitter.com/search?q=2024+prabowo+menang) | N/A |
+| 45 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 46 | [Kim Junkyu](http://twitter.com/search?q=Kim+Junkyu) | N/A |
+| 47 | [BM LAST EVALUATION EP2](http://twitter.com/search?q=BM+LAST+EVALUATION+EP2) | N/A |
+| 48 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 49 | [Sunda](http://twitter.com/search?q=Sunda) | N/A |
+| 50 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
 
 
 

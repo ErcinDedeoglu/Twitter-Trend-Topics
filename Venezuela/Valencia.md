@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-16 18:17:50 UTC`
+📆 Last Updated: `2023-03-16 19:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [#ChávezHechoMillones](http://twitter.com/search?q=%23Ch%c3%a1vezHechoMillones) | N/A |
 | 4 | [SAIME](http://twitter.com/search?q=SAIME) | N/A |
 | 5 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 6 | [Renny Ottolina](http://twitter.com/search?q=Renny+Ottolina) | N/A |
-| 7 | [Edwin Díaz](http://twitter.com/search?q=Edwin+D%c3%adaz) | N/A |
+| 6 | [Edwin Díaz](http://twitter.com/search?q=Edwin+D%c3%adaz) | N/A |
+| 7 | [Renny Ottolina](http://twitter.com/search?q=Renny+Ottolina) | N/A |
 | 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 9 | [Homero](http://twitter.com/search?q=Homero) | N/A |
-| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 12 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
-| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 9 | [TAYLOR](http://twitter.com/search?q=TAYLOR) | N/A |
+| 10 | [Homero](http://twitter.com/search?q=Homero) | N/A |
+| 11 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 13 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
 | 14 | [El Cid Campeador](http://twitter.com/search?q=El+Cid+Campeador) | N/A |
-| 15 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 16 | [Locatel](http://twitter.com/search?q=Locatel) | N/A |
+| 15 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 16 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 18 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 19 | [guama](http://twitter.com/search?q=guama) | N/A |
-| 20 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 21 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 22 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
+| 19 | [Locatel](http://twitter.com/search?q=Locatel) | N/A |
+| 20 | [guama](http://twitter.com/search?q=guama) | N/A |
+| 21 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 22 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 23 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 24 | [Eduardo Serrano](http://twitter.com/search?q=Eduardo+Serrano) | N/A |
-| 25 | [Jr Petare](http://twitter.com/search?q=Jr+Petare) | N/A |
-| 26 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 27 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 24 | [Jr Petare](http://twitter.com/search?q=Jr+Petare) | N/A |
+| 25 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 26 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 27 | [Bonaire](http://twitter.com/search?q=Bonaire) | N/A |
 | 28 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 29 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
-| 30 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
-| 31 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 32 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
-| 33 | [La Puerta](http://twitter.com/search?q=La+Puerta) | N/A |
-| 34 | [Pablo Morillo](http://twitter.com/search?q=Pablo+Morillo) | N/A |
-| 35 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 36 | [Bonaire](http://twitter.com/search?q=Bonaire) | N/A |
-| 37 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 29 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
+| 30 | [Roberto Clemente](http://twitter.com/search?q=Roberto+Clemente) | N/A |
+| 31 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
+| 32 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 33 | [Pablo Morillo](http://twitter.com/search?q=Pablo+Morillo) | N/A |
+| 34 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 35 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 36 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
+| 37 | [La Puerta](http://twitter.com/search?q=La+Puerta) | N/A |
 | 38 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 39 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 40 | [Pele](http://twitter.com/search?q=Pele) | N/A |
-| 41 | [Tobago](http://twitter.com/search?q=Tobago) | Tobago is an island in the Caribbean Sea, located off the coast of Venezuela. It is part of the twin-island nation of Trinidad and Tobago. The name Tobago is derived from the Arawakan word for tobacco, which was historically grown on the island. |
+| 39 | [Eduardo Serrano](http://twitter.com/search?q=Eduardo+Serrano) | N/A |
+| 40 | [Tobago](http://twitter.com/search?q=Tobago) | Tobago is an island in the Caribbean Sea, located off the coast of Venezuela. It is part of the twin-island nation of Trinidad and Tobago. The name Tobago is derived from the Arawakan word for tobacco, which was historically grown on the island. |
+| 41 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
 | 42 | [Bien de Interés Cultural](http://twitter.com/search?q=Bien+de+Inter%c3%a9s+Cultural) | N/A |
-| 43 | [Dimensión Latina](http://twitter.com/search?q=Dimensi%c3%b3n+Latina) | N/A |
-| 44 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 45 | [Padrino López](http://twitter.com/search?q=Padrino+L%c3%b3pez) | N/A |
+| 43 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 44 | [Padrino López](http://twitter.com/search?q=Padrino+L%c3%b3pez) | N/A |
+| 45 | [la dimensión latina](http://twitter.com/search?q=la+dimensi%c3%b3n+latina) | N/A |
 | 46 | [Tony Peña](http://twitter.com/search?q=Tony+Pe%c3%b1a) | N/A |
-| 47 | [ELIMINADOS](http://twitter.com/search?q=ELIMINADOS) | N/A |
-| 48 | [Ciudad Caribia](http://twitter.com/search?q=Ciudad+Caribia) | N/A |
-| 49 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
-| 50 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 47 | [Ciudad Caribia](http://twitter.com/search?q=Ciudad+Caribia) | N/A |
+| 48 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 49 | [El 16](http://twitter.com/search?q=El+16) | N/A |
+| 50 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 
 
 

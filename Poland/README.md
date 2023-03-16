@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-16 18:18:47 UTC`
+📆 Last Updated: `2023-03-16 19:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 2 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 3 | [#DIFLPO](http://twitter.com/search?q=%23DIFLPO) | N/A |
-| 4 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 5 | [#DJULCH](http://twitter.com/search?q=%23DJULCH) | N/A |
-| 6 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
-| 7 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 8 | [Krafta](http://twitter.com/search?q=Krafta) | N/A |
-| 9 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
-| 10 | [Stefan Wilmont](http://twitter.com/search?q=Stefan+Wilmont) | N/A |
-| 11 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 12 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
-| 13 | [Dagerstal](http://twitter.com/search?q=Dagerstal) | N/A |
-| 14 | [Groty](http://twitter.com/search?q=Groty) | N/A |
-| 15 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 16 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
-| 17 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
-| 18 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
-| 19 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 20 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 21 | [Falubazu](http://twitter.com/search?q=Falubazu) | N/A |
-| 22 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
-| 25 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 26 | [Borka](http://twitter.com/search?q=Borka) | N/A |
-| 27 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 1 | [#DIFLPO](http://twitter.com/search?q=%23DIFLPO) | N/A |
+| 2 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 3 | [#DJULCH](http://twitter.com/search?q=%23DJULCH) | N/A |
+| 4 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 5 | [TAYLOR](http://twitter.com/search?q=TAYLOR) | N/A |
+| 6 | [#DJULPO](http://twitter.com/search?q=%23DJULPO) | N/A |
+| 7 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 8 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 9 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 10 | [Krafta](http://twitter.com/search?q=Krafta) | N/A |
+| 11 | [Stefan Wilmont](http://twitter.com/search?q=Stefan+Wilmont) | N/A |
+| 12 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 13 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
+| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 15 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 16 | [Djurgarden](http://twitter.com/search?q=Djurgarden) | N/A |
+| 17 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 18 | [Szwedów](http://twitter.com/search?q=Szwed%c3%b3w) | N/A |
+| 19 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
+| 20 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
+| 21 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 22 | [Falubazu](http://twitter.com/search?q=Falubazu) | N/A |
+| 23 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
+| 24 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 25 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
+| 26 | [Szwedzi](http://twitter.com/search?q=Szwedzi) | N/A |
+| 27 | [Borka](http://twitter.com/search?q=Borka) | N/A |
 | 28 | [Kupić](http://twitter.com/search?q=Kupi%c4%87) | N/A |
-| 29 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 30 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
-| 31 | [Rostowie](http://twitter.com/search?q=Rostowie) | N/A |
-| 32 | [Polakom](http://twitter.com/search?q=Polakom) | N/A |
-| 33 | [Donem](http://twitter.com/search?q=Donem) | N/A |
-| 34 | [Szwedzi](http://twitter.com/search?q=Szwedzi) | N/A |
-| 35 | [Migi](http://twitter.com/search?q=Migi) | N/A |
+| 29 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 30 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 31 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 32 | [Rostowie](http://twitter.com/search?q=Rostowie) | N/A |
+| 33 | [Migi](http://twitter.com/search?q=Migi) | N/A |
+| 34 | [Dagerstal](http://twitter.com/search?q=Dagerstal) | N/A |
+| 35 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
 | 36 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 37 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
-| 38 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 39 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
-| 40 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 41 | [kaziu](http://twitter.com/search?q=kaziu) | N/A |
-| 42 | [Justynę Wydrzyńską](http://twitter.com/search?q=Justyn%c4%99+Wydrzy%c5%84sk%c4%85) | N/A |
-| 43 | [poręba](http://twitter.com/search?q=por%c4%99ba) | N/A |
-| 44 | [adam sandauer](http://twitter.com/search?q=adam+sandauer) | N/A |
-| 45 | [FA-50](http://twitter.com/search?q=FA-50) | N/A |
-| 46 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
-| 47 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
-| 48 | [oranżada](http://twitter.com/search?q=oran%c5%bcada) | N/A |
-| 49 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 50 | [Pisowcem](http://twitter.com/search?q=Pisowcem) | N/A |
+| 37 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 38 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 39 | [Polakom](http://twitter.com/search?q=Polakom) | N/A |
+| 40 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 41 | [Donem](http://twitter.com/search?q=Donem) | N/A |
+| 42 | [Salamon](http://twitter.com/search?q=Salamon) | N/A |
+| 43 | [Skóraś](http://twitter.com/search?q=Sk%c3%b3ra%c5%9b) | N/A |
+| 44 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
+| 45 | [Justynę Wydrzyńską](http://twitter.com/search?q=Justyn%c4%99+Wydrzy%c5%84sk%c4%85) | N/A |
+| 46 | [poręba](http://twitter.com/search?q=por%c4%99ba) | N/A |
+| 47 | [adam sandauer](http://twitter.com/search?q=adam+sandauer) | N/A |
+| 48 | [FA-50](http://twitter.com/search?q=FA-50) | N/A |
+| 49 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 50 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 
 
 

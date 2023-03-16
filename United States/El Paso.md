@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-16 18:18:32 UTC`
+📆 Last Updated: `2023-03-16 19:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
-| 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 3 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 4 | [West Virginia](http://twitter.com/search?q=West+Virginia) | N/A |
-| 5 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 6 | [Kedrian Johnson](http://twitter.com/search?q=Kedrian+Johnson) | N/A |
-| 7 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 8 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
-| 9 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 10 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 11 | [Bob Huggins](http://twitter.com/search?q=Bob+Huggins) | N/A |
-| 12 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
-| 13 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
-| 14 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 15 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 16 | [SNOOPYTOOZ](http://twitter.com/search?q=SNOOPYTOOZ) | N/A |
-| 17 | [Parris Campbell](http://twitter.com/search?q=Parris+Campbell) | N/A |
-| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 19 | [Mountaineers](http://twitter.com/search?q=Mountaineers) | N/A |
-| 20 | [Myles Jack](http://twitter.com/search?q=Myles+Jack) | N/A |
-| 21 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 22 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 23 | [Araki](http://twitter.com/search?q=Araki) | N/A |
-| 24 | [Don King](http://twitter.com/search?q=Don+King) | N/A |
-| 25 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 26 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
-| 27 | [Larsa](http://twitter.com/search?q=Larsa) | N/A |
-| 28 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 29 | [Julian Reese](http://twitter.com/search?q=Julian+Reese) | N/A |
-| 30 | [Slayton](http://twitter.com/search?q=Slayton) | Slayton is a surname of English origin. It is derived from the Old English words 'slae' meaning 'willow' and 'tun' meaning 'enclosure'. The name is thought to have originally referred to someone who lived near a willow enclosure. |
-| 31 | [Jimmy Bell](http://twitter.com/search?q=Jimmy+Bell) | N/A |
-| 32 | [Harrison Smith](http://twitter.com/search?q=Harrison+Smith) | N/A |
-| 33 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
-| 34 | [#QueensCourt](http://twitter.com/search?q=%23QueensCourt) | N/A |
-| 35 | [Steam Spring Sale](http://twitter.com/search?q=Steam+Spring+Sale) | N/A |
-| 36 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
-| 37 | [#GildedSweepstakes](http://twitter.com/search?q=%23GildedSweepstakes) | N/A |
-| 38 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
-| 39 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
-| 40 | [Let the Madness](http://twitter.com/search?q=Let+the+Madness) | N/A |
-| 41 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 42 | [Stop Making Sense](http://twitter.com/search?q=Stop+Making+Sense) | N/A |
-| 43 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 44 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 45 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 46 | [Keith Olbermann](http://twitter.com/search?q=Keith+Olbermann) | N/A |
-| 47 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 48 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
-| 49 | [Bookmarks](http://twitter.com/search?q=Bookmarks) | N/A |
+| 1 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
+| 2 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
+| 3 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 4 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
+| 5 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 6 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 7 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 8 | [Kihei Clark](http://twitter.com/search?q=Kihei+Clark) | N/A |
+| 9 | [TAYLOR](http://twitter.com/search?q=TAYLOR) | N/A |
+| 10 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 11 | [Tony Bennett](http://twitter.com/search?q=Tony+Bennett) | N/A |
+| 12 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 13 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 14 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 15 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 16 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
+| 17 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 18 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
+| 19 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
+| 20 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 21 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 22 | [Ukraine is in Europe](http://twitter.com/search?q=Ukraine+is+in+Europe) | N/A |
+| 23 | [Bob Huggins](http://twitter.com/search?q=Bob+Huggins) | N/A |
+| 24 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
+| 25 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 26 | [Stevenson](http://twitter.com/search?q=Stevenson) | Stevenson is a surname of Scottish origin. It is derived from the Old English words 'stið' meaning 'strong' and 'ham' meaning 'home'. The name can be translated to mean 'strong home'. |
+| 27 | [Julian Reese](http://twitter.com/search?q=Julian+Reese) | N/A |
+| 28 | [Kedrian Johnson](http://twitter.com/search?q=Kedrian+Johnson) | N/A |
+| 29 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 30 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 31 | [Jalen Slawson](http://twitter.com/search?q=Jalen+Slawson) | N/A |
+| 32 | [Hallie Biden](http://twitter.com/search?q=Hallie+Biden) | N/A |
+| 33 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
+| 34 | [JP Pegues](http://twitter.com/search?q=JP+Pegues) | N/A |
+| 35 | [Bookmarks](http://twitter.com/search?q=Bookmarks) | N/A |
+| 36 | [Mountaineers](http://twitter.com/search?q=Mountaineers) | N/A |
+| 37 | [Bob Richey](http://twitter.com/search?q=Bob+Richey) | N/A |
+| 38 | [Kevin Willard](http://twitter.com/search?q=Kevin+Willard) | N/A |
+| 39 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 40 | [FU ALL THE TIME](http://twitter.com/search?q=FU+ALL+THE+TIME) | N/A |
+| 41 | [The Civil Wars](http://twitter.com/search?q=The+Civil+Wars) | N/A |
+| 42 | [Hoos](http://twitter.com/search?q=Hoos) | N/A |
+| 43 | [Haddy](http://twitter.com/search?q=Haddy) | N/A |
+| 44 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 45 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 46 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 47 | [SNOOPYTOOZ](http://twitter.com/search?q=SNOOPYTOOZ) | N/A |
+| 48 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
+| 49 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
 
 
 
