@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-16 20:19:04 UTC`
+📆 Last Updated: `2023-03-16 21:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Israel
 | 2 | [ניר ברקת](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%a8%d7%a7%d7%aa) | N/A |
 | 3 | [רק בריאות](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%91%d7%a8%d7%99%d7%90%d7%95%d7%aa) | N/A |
 | 4 | [הילה קורח](http://twitter.com/search?q=%d7%94%d7%99%d7%9c%d7%94+%d7%a7%d7%95%d7%a8%d7%97) | N/A |
-| 5 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
-| 6 | [גז פלפל](http://twitter.com/search?q=%d7%92%d7%96+%d7%a4%d7%9c%d7%a4%d7%9c) | N/A |
+| 5 | [זכות השתיקה](http://twitter.com/search?q=%d7%96%d7%9b%d7%95%d7%aa+%d7%94%d7%a9%d7%aa%d7%99%d7%a7%d7%94) | N/A |
+| 6 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
 | 7 | [שפי פז](http://twitter.com/search?q=%d7%a9%d7%a4%d7%99+%d7%a4%d7%96) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 10 | [#جنين](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%8a%d9%86) | N/A |
-| 11 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
-| 12 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
-| 13 | [קנצלר גרמניה](http://twitter.com/search?q=%d7%a7%d7%a0%d7%a6%d7%9c%d7%a8+%d7%92%d7%a8%d7%9e%d7%a0%d7%99%d7%94) | N/A |
-| 14 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
-| 15 | [של הרצוג](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a8%d7%a6%d7%95%d7%92) | N/A |
-| 16 | [ימי חופש](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%97%d7%95%d7%a4%d7%a9) | N/A |
-| 17 | [י הרצוג](http://twitter.com/search?q=%d7%99+%d7%94%d7%a8%d7%a6%d7%95%d7%92) | N/A |
+| 8 | [גז פלפל](http://twitter.com/search?q=%d7%92%d7%96+%d7%a4%d7%9c%d7%a4%d7%9c) | N/A |
+| 9 | [אפרת גוש](http://twitter.com/search?q=%d7%90%d7%a4%d7%a8%d7%aa+%d7%92%d7%95%d7%a9) | N/A |
+| 10 | [נשיא המדינה](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [המון בריאות](http://twitter.com/search?q=%d7%94%d7%9e%d7%95%d7%9f+%d7%91%d7%a8%d7%99%d7%90%d7%95%d7%aa) | N/A |
+| 13 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
+| 14 | [#جنين](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%8a%d9%86) | N/A |
+| 15 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
+| 16 | [קנצלר גרמניה](http://twitter.com/search?q=%d7%a7%d7%a0%d7%a6%d7%9c%d7%a8+%d7%92%d7%a8%d7%9e%d7%a0%d7%99%d7%94) | N/A |
+| 17 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
 | 18 | [תג מחיר](http://twitter.com/search?q=%d7%aa%d7%92+%d7%9e%d7%97%d7%99%d7%a8) | N/A |
-| 19 | [זכות השתיקה](http://twitter.com/search?q=%d7%96%d7%9b%d7%95%d7%aa+%d7%94%d7%a9%d7%aa%d7%99%d7%a7%d7%94) | N/A |
-| 20 | [העם״](http://twitter.com/search?q=%d7%94%d7%a2%d7%9d%d7%b4) | N/A |
-| 21 | [שופט מזרחי](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98+%d7%9e%d7%96%d7%a8%d7%97%d7%99) | N/A |
-| 22 | [נשיא של](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a9%d7%9c) | N/A |
-| 23 | [נתניהו מאוחדת](http://twitter.com/search?q=%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95+%d7%9e%d7%90%d7%95%d7%97%d7%93%d7%aa) | N/A |
-| 24 | [נשיא המדינה](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 25 | [פני מקרקעין](http://twitter.com/search?q=%d7%a4%d7%a0%d7%99+%d7%9e%d7%a7%d7%a8%d7%a7%d7%a2%d7%99%d7%9f) | N/A |
-| 26 | [אחים כי](http://twitter.com/search?q=%d7%90%d7%97%d7%99%d7%9d+%d7%9b%d7%99) | N/A |
-| 27 | [בית כנסת](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 28 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 29 | [אפרת גוש](http://twitter.com/search?q=%d7%90%d7%a4%d7%a8%d7%aa+%d7%92%d7%95%d7%a9) | N/A |
-| 30 | [נשיא פוליטי](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
-| 31 | [של בוז](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%95%d7%96) | N/A |
-| 32 | [רפואה שלמה](http://twitter.com/search?q=%d7%a8%d7%a4%d7%95%d7%90%d7%94+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
-| 33 | [המון בריאות](http://twitter.com/search?q=%d7%94%d7%9e%d7%95%d7%9f+%d7%91%d7%a8%d7%99%d7%90%d7%95%d7%aa) | N/A |
-| 34 | [איילון דרום](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%95%d7%9f+%d7%93%d7%a8%d7%95%d7%9d) | N/A |
-| 35 | [הסכם כניעה](http://twitter.com/search?q=%d7%94%d7%a1%d7%9b%d7%9d+%d7%9b%d7%a0%d7%99%d7%a2%d7%94) | N/A |
-| 36 | [אלון חזן](http://twitter.com/search?q=%d7%90%d7%9c%d7%95%d7%9f+%d7%97%d7%96%d7%9f) | N/A |
-| 37 | [נמל חיפה](http://twitter.com/search?q=%d7%a0%d7%9e%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 38 | [גיוס חרדים](http://twitter.com/search?q=%d7%92%d7%99%d7%95%d7%a1+%d7%97%d7%a8%d7%93%d7%99%d7%9d) | N/A |
-| 39 | [באום אל](http://twitter.com/search?q=%d7%91%d7%90%d7%95%d7%9d+%d7%90%d7%9c) | N/A |
-| 40 | [ירון אברהם](http://twitter.com/search?q=%d7%99%d7%a8%d7%95%d7%9f+%d7%90%d7%91%d7%a8%d7%94%d7%9d) | N/A |
-| 41 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
-| 42 | [מול חיזבאללה](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%97%d7%99%d7%96%d7%91%d7%90%d7%9c%d7%9c%d7%94) | N/A |
-| 43 | [קרדיט סוויס](http://twitter.com/search?q=%d7%a7%d7%a8%d7%93%d7%99%d7%98+%d7%a1%d7%95%d7%95%d7%99%d7%a1) | N/A |
-| 44 | [פשע שנאה](http://twitter.com/search?q=%d7%a4%d7%a9%d7%a2+%d7%a9%d7%a0%d7%90%d7%94) | N/A |
-| 45 | [הוד השרון](http://twitter.com/search?q=%d7%94%d7%95%d7%93+%d7%94%d7%a9%d7%a8%d7%95%d7%9f) | N/A |
-| 46 | [דור פרץ](http://twitter.com/search?q=%d7%93%d7%95%d7%a8+%d7%a4%d7%a8%d7%a5) | N/A |
-| 47 | [עם פוטין](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a4%d7%95%d7%98%d7%99%d7%9f) | N/A |
-| 48 | [הגנה עצמית](http://twitter.com/search?q=%d7%94%d7%92%d7%a0%d7%94+%d7%a2%d7%a6%d7%9e%d7%99%d7%aa) | N/A |
-| 49 | [שופטים מזרחים](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%9e%d7%96%d7%a8%d7%97%d7%99%d7%9d) | N/A |
-| 50 | [איזה עם](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%a2%d7%9d) | N/A |
+| 19 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
+| 20 | [י הרצוג](http://twitter.com/search?q=%d7%99+%d7%94%d7%a8%d7%a6%d7%95%d7%92) | N/A |
+| 21 | [בית כנסת](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 22 | [ימי חופש](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%97%d7%95%d7%a4%d7%a9) | N/A |
+| 23 | [רפואה שלמה](http://twitter.com/search?q=%d7%a8%d7%a4%d7%95%d7%90%d7%94+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
+| 24 | [של הרצוג](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a8%d7%a6%d7%95%d7%92) | N/A |
+| 25 | [העם״](http://twitter.com/search?q=%d7%94%d7%a2%d7%9d%d7%b4) | N/A |
+| 26 | [איזה עם](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%a2%d7%9d) | N/A |
+| 27 | [פני מקרקעין](http://twitter.com/search?q=%d7%a4%d7%a0%d7%99+%d7%9e%d7%a7%d7%a8%d7%a7%d7%a2%d7%99%d7%9f) | N/A |
+| 28 | [שופט מזרחי](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98+%d7%9e%d7%96%d7%a8%d7%97%d7%99) | N/A |
+| 29 | [נשיא של](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a9%d7%9c) | N/A |
+| 30 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 31 | [אחים כי](http://twitter.com/search?q=%d7%90%d7%97%d7%99%d7%9d+%d7%9b%d7%99) | N/A |
+| 32 | [אהוד אולמרט](http://twitter.com/search?q=%d7%90%d7%94%d7%95%d7%93+%d7%90%d7%95%d7%9c%d7%9e%d7%a8%d7%98) | N/A |
+| 33 | [הסכם כניעה](http://twitter.com/search?q=%d7%94%d7%a1%d7%9b%d7%9d+%d7%9b%d7%a0%d7%99%d7%a2%d7%94) | N/A |
+| 34 | [נתניהו מאוחדת](http://twitter.com/search?q=%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95+%d7%9e%d7%90%d7%95%d7%97%d7%93%d7%aa) | N/A |
+| 35 | [של בוז](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%95%d7%96) | N/A |
+| 36 | [גיוס חרדים](http://twitter.com/search?q=%d7%92%d7%99%d7%95%d7%a1+%d7%97%d7%a8%d7%93%d7%99%d7%9d) | N/A |
+| 37 | [נשיא פוליטי](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
+| 38 | [הוד השרון](http://twitter.com/search?q=%d7%94%d7%95%d7%93+%d7%94%d7%a9%d7%a8%d7%95%d7%9f) | N/A |
+| 39 | [נמל חיפה](http://twitter.com/search?q=%d7%a0%d7%9e%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 40 | [הגנה עצמית](http://twitter.com/search?q=%d7%94%d7%92%d7%a0%d7%94+%d7%a2%d7%a6%d7%9e%d7%99%d7%aa) | N/A |
+| 41 | [אלון חזן](http://twitter.com/search?q=%d7%90%d7%9c%d7%95%d7%9f+%d7%97%d7%96%d7%9f) | N/A |
+| 42 | [באום אל](http://twitter.com/search?q=%d7%91%d7%90%d7%95%d7%9d+%d7%90%d7%9c) | N/A |
+| 43 | [ירון אברהם](http://twitter.com/search?q=%d7%99%d7%a8%d7%95%d7%9f+%d7%90%d7%91%d7%a8%d7%94%d7%9d) | N/A |
+| 44 | [ביום העצמאות](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%94%d7%a2%d7%a6%d7%9e%d7%90%d7%95%d7%aa) | N/A |
+| 45 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 46 | [איילון דרום](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%95%d7%9f+%d7%93%d7%a8%d7%95%d7%9d) | N/A |
+| 47 | [מול חיזבאללה](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%97%d7%99%d7%96%d7%91%d7%90%d7%9c%d7%9c%d7%94) | N/A |
+| 48 | [השם שלי](http://twitter.com/search?q=%d7%94%d7%a9%d7%9d+%d7%a9%d7%9c%d7%99) | N/A |
+| 49 | [של נשיא](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%a9%d7%99%d7%90) | N/A |
+| 50 | [שופטים מזרחים](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%9e%d7%96%d7%a8%d7%97%d7%99%d7%9d) | N/A |
 
 
 

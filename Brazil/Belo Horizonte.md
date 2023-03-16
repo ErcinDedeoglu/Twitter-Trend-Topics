@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-16 20:18:23 UTC`
+📆 Last Updated: `2023-03-16 21:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Luciano Castan](http://twitter.com/search?q=Luciano+Castan) | N/A |
 | 2 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 5 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 6 | [Sant](http://twitter.com/search?q=Sant) | N/A |
-| 7 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 8 | [lottie](http://twitter.com/search?q=lottie) | N/A |
+| 3 | [#reelzapp](http://twitter.com/search?q=%23reelzapp) | N/A |
+| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [EXPULSA OS DOIS BBB](http://twitter.com/search?q=EXPULSA+OS+DOIS+BBB) | N/A |
+| 6 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 7 | [Sant](http://twitter.com/search?q=Sant) | N/A |
+| 8 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
 | 9 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 10 | [#DiazNoFlamengo](http://twitter.com/search?q=%23DiazNoFlamengo) | N/A |
+| 10 | [lottie](http://twitter.com/search?q=lottie) | N/A |
 | 11 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 12 | [Marcos Paulo](http://twitter.com/search?q=Marcos+Paulo) | N/A |
-| 13 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 14 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 15 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 16 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 17 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
+| 12 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 13 | [#DiazNoFlamengo](http://twitter.com/search?q=%23DiazNoFlamengo) | N/A |
+| 14 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 15 | [Marcos Paulo](http://twitter.com/search?q=Marcos+Paulo) | N/A |
+| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 17 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
 | 18 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
-| 19 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
-| 20 | [LIAM PAYNE](http://twitter.com/search?q=LIAM+PAYNE) | N/A |
-| 21 | [#TBJu](http://twitter.com/search?q=%23TBJu) | N/A |
-| 22 | [BILLIE EILISH IS COMING](http://twitter.com/search?q=BILLIE+EILISH+IS+COMING) | N/A |
-| 23 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 24 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 25 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
-| 26 | [#ATardeESua](http://twitter.com/search?q=%23ATardeESua) | N/A |
-| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [maisa](http://twitter.com/search?q=maisa) | N/A |
+| 19 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
+| 20 | [BANDIDAS NO TVZ POCAH](http://twitter.com/search?q=BANDIDAS+NO+TVZ+POCAH) | N/A |
+| 21 | [#AssedioBBB](http://twitter.com/search?q=%23AssedioBBB) | N/A |
+| 22 | [LIAM PAYNE](http://twitter.com/search?q=LIAM+PAYNE) | N/A |
+| 23 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
+| 24 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
+| 25 | [BILLIE EILISH IS COMING](http://twitter.com/search?q=BILLIE+EILISH+IS+COMING) | N/A |
+| 26 | [DANIA MERECE RESPEITO](http://twitter.com/search?q=DANIA+MERECE+RESPEITO) | N/A |
+| 27 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 28 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
 | 29 | [Michelle Bolsonaro](http://twitter.com/search?q=Michelle+Bolsonaro) | Michelle Bolsonaro is the wife of Brazilian President Jair Bolsonaro. She is a former schoolteacher and has been an active supporter of her husband's political career. In English, Michelle Bolsonaro means Michelle Bolsonaro, the wife of the Brazilian President. |
-| 30 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 31 | [Mainstreet](http://twitter.com/search?q=Mainstreet) | N/A |
-| 32 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 33 | [Washington Luiz](http://twitter.com/search?q=Washington+Luiz) | N/A |
-| 34 | [DANIA MERECE RESPEITO](http://twitter.com/search?q=DANIA+MERECE+RESPEITO) | N/A |
-| 35 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
-| 36 | [Oi Lula](http://twitter.com/search?q=Oi+Lula) | N/A |
-| 37 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
-| 38 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
-| 39 | [Gafes](http://twitter.com/search?q=Gafes) | N/A |
-| 40 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 41 | [LILO](http://twitter.com/search?q=LILO) | N/A |
-| 42 | [Cynara](http://twitter.com/search?q=Cynara) | N/A |
-| 43 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 44 | [Diferença Mara](http://twitter.com/search?q=Diferen%c3%a7a+Mara) | N/A |
-| 45 | [Dunga](http://twitter.com/search?q=Dunga) | N/A |
-| 46 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 47 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 48 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
-| 49 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
-| 50 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 30 | [Oi Lula](http://twitter.com/search?q=Oi+Lula) | N/A |
+| 31 | [maisa](http://twitter.com/search?q=maisa) | N/A |
+| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 33 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 34 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
+| 35 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
+| 36 | [LILO](http://twitter.com/search?q=LILO) | N/A |
+| 37 | [Cynara](http://twitter.com/search?q=Cynara) | N/A |
+| 38 | [Mainstreet](http://twitter.com/search?q=Mainstreet) | N/A |
+| 39 | [Washington Luiz](http://twitter.com/search?q=Washington+Luiz) | N/A |
+| 40 | [Gafes](http://twitter.com/search?q=Gafes) | N/A |
+| 41 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 42 | [Alina](http://twitter.com/search?q=Alina) | N/A |
+| 43 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 44 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 45 | [O Liam](http://twitter.com/search?q=O+Liam) | N/A |
+| 46 | [Eduardo Sasha](http://twitter.com/search?q=Eduardo+Sasha) | N/A |
+| 47 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 48 | [Dunga](http://twitter.com/search?q=Dunga) | N/A |
+| 49 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 50 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
 
 
 

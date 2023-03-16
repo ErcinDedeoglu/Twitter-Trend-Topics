@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-16 20:18:32 UTC`
+📆 Last Updated: `2023-03-16 21:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 2 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 4 | [Bank](http://twitter.com/search?q=Bank) | N/A |
 | 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 7 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 8 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
-| 9 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 11 | [la bns](http://twitter.com/search?q=la+bns) | N/A |
-| 12 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 13 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 14 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
-| 15 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 16 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 17 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 18 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
-| 19 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 20 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 21 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
-| 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 23 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 7 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 8 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 9 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 11 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 12 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 13 | [la bns](http://twitter.com/search?q=la+bns) | N/A |
+| 14 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 15 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 16 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 17 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 18 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
+| 19 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 20 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
+| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 22 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
+| 23 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
 | 24 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 25 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 26 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 27 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 28 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 29 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 30 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 31 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 32 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 33 | [valais](http://twitter.com/search?q=valais) | N/A |
-| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 35 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
-| 36 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 37 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 38 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
-| 39 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 40 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 41 | [Zahl](http://twitter.com/search?q=Zahl) | N/A |
-| 42 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 43 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
-| 44 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 45 | [Confédération](http://twitter.com/search?q=Conf%c3%a9d%c3%a9ration) | N/A |
-| 46 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 47 | [Gewinne](http://twitter.com/search?q=Gewinne) | N/A |
-| 48 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 49 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 25 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 26 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 27 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 28 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 29 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 30 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 31 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
+| 32 | [London](http://twitter.com/search?q=London) | N/A |
+| 33 | [Lara Gut-Behrami](http://twitter.com/search?q=Lara+Gut-Behrami) | N/A |
+| 34 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 35 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 36 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 37 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 38 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 39 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 40 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 41 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 42 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 43 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 44 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 45 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 46 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 47 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 48 | [Firma](http://twitter.com/search?q=Firma) | N/A |
 
 
 

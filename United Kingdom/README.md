@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-16 20:19:08 UTC`
+📆 Last Updated: `2023-03-16 21:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [#BETMUN](http://twitter.com/search?q=%23BETMUN) | N/A |
-| 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 5 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
-| 6 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 7 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 8 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 9 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 10 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 11 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 12 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 13 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 14 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 15 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
-| 16 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 17 | [#GBBO](http://twitter.com/search?q=%23GBBO) | N/A |
-| 18 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
-| 19 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 20 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 21 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 22 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 23 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 24 | [Bake Off](http://twitter.com/search?q=Bake+Off) | N/A |
-| 25 | [Shakhtar](http://twitter.com/search?q=Shakhtar) | Shakhtar is a Ukrainian football club based in Donetsk. The name Shakhtar is derived from the word "shakhtyor", which means "miner" in Ukrainian. In English, Shakhtar translates to "miner". |
-| 26 | [Angels Dawn](http://twitter.com/search?q=Angels+Dawn) | N/A |
-| 27 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 28 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 29 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 30 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 31 | [Bruno and Casemiro](http://twitter.com/search?q=Bruno+and+Casemiro) | N/A |
-| 32 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 33 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 34 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 35 | [You Wear It Well](http://twitter.com/search?q=You+Wear+It+Well) | N/A |
-| 36 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 37 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 38 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 39 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
-| 40 | [Forde](http://twitter.com/search?q=Forde) | N/A |
-| 41 | [Sire Du Berlais](http://twitter.com/search?q=Sire+Du+Berlais) | N/A |
-| 42 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 43 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 44 | [Seddon](http://twitter.com/search?q=Seddon) | N/A |
-| 45 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
-| 46 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 47 | [Comic Relief](http://twitter.com/search?q=Comic+Relief) | N/A |
-| 48 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 49 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 50 | [Red Nose Day](http://twitter.com/search?q=Red+Nose+Day) | N/A |
+| 2 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
+| 5 | [#BETMUN](http://twitter.com/search?q=%23BETMUN) | N/A |
+| 6 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
+| 7 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
+| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 9 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 10 | [#ARSSPO](http://twitter.com/search?q=%23ARSSPO) | N/A |
+| 11 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 12 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 13 | [Granit](http://twitter.com/search?q=Granit) | N/A |
+| 14 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 15 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 16 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 17 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 18 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 19 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 20 | [#GBBO](http://twitter.com/search?q=%23GBBO) | N/A |
+| 21 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 22 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 23 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 24 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
+| 25 | [Ten Haag](http://twitter.com/search?q=Ten+Haag) | N/A |
+| 26 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 27 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 28 | [Bake Off](http://twitter.com/search?q=Bake+Off) | N/A |
+| 29 | [Shakhtar](http://twitter.com/search?q=Shakhtar) | Shakhtar is a Ukrainian football club based in Donetsk. The name Shakhtar is derived from the word "shakhtyor", which means "miner" in Ukrainian. In English, Shakhtar translates to "miner". |
+| 30 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 32 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 33 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 34 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 35 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 36 | [Bruno and Casemiro](http://twitter.com/search?q=Bruno+and+Casemiro) | N/A |
+| 37 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 38 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 39 | [You Wear It Well](http://twitter.com/search?q=You+Wear+It+Well) | N/A |
+| 40 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 41 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 42 | [Cyclist](http://twitter.com/search?q=Cyclist) | N/A |
+| 43 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
+| 44 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 45 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 46 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 47 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 48 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 49 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 50 | [Steam Deck](http://twitter.com/search?q=Steam+Deck) | N/A |
 
 
 

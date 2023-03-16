@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-03-16 20:18:33 UTC`
+📆 Last Updated: `2023-03-16 21:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Greece](</Greece>)
 | ------- | ------------ | ------------ |
 | 1 | [#Απεργια16Μαρτη](http://twitter.com/search?q=%23%ce%91%cf%80%ce%b5%cf%81%ce%b3%ce%b9%ce%b116%ce%9c%ce%b1%cf%81%cf%84%ce%b7) | N/A |
 | 2 | [#OlympiacosBC](http://twitter.com/search?q=%23OlympiacosBC) | N/A |
-| 3 | [#ZALOLY](http://twitter.com/search?q=%23ZALOLY) | N/A |
-| 4 | [#MasterChefGR](http://twitter.com/search?q=%23MasterChefGR) | #MasterChefGR is a hashtag used on social media to refer to the Greek version of the popular cooking show MasterChef. It is used to discuss the show, share recipes, and connect with other fans of the show. In English, it stands for "MasterChef Greece". |
+| 3 | [#MasterChefGR](http://twitter.com/search?q=%23MasterChefGR) | #MasterChefGR is a hashtag used on social media to refer to the Greek version of the popular cooking show MasterChef. It is used to discuss the show, share recipes, and connect with other fans of the show. In English, it stands for "MasterChef Greece". |
+| 4 | [#ZALOLY](http://twitter.com/search?q=%23ZALOLY) | N/A |
 | 5 | [#νδ_παρακρατος](http://twitter.com/search?q=%23%ce%bd%ce%b4_%cf%80%ce%b1%cf%81%ce%b1%ce%ba%cf%81%ce%b1%cf%84%ce%bf%cf%82) | N/A |
 | 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 7 | [Σασα](http://twitter.com/search?q=%ce%a3%ce%b1%cf%83%ce%b1) | N/A |
-| 8 | [Ζαλγκιρις](http://twitter.com/search?q=%ce%96%ce%b1%ce%bb%ce%b3%ce%ba%ce%b9%cf%81%ce%b9%cf%82) | N/A |
-| 9 | [Σεβα](http://twitter.com/search?q=%ce%a3%ce%b5%ce%b2%ce%b1) | N/A |
-| 10 | [Λαζαριδου](http://twitter.com/search?q=%ce%9b%ce%b1%ce%b6%ce%b1%cf%81%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
-| 11 | [Πωλινα](http://twitter.com/search?q=%ce%a0%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
-| 12 | [Καουνας](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bf%cf%85%ce%bd%ce%b1%cf%82) | N/A |
-| 13 | [Παρτιζαν](http://twitter.com/search?q=%ce%a0%ce%b1%cf%81%cf%84%ce%b9%ce%b6%ce%b1%ce%bd) | N/A |
-| 14 | [Βεζενκοφ](http://twitter.com/search?q=%ce%92%ce%b5%ce%b6%ce%b5%ce%bd%ce%ba%ce%bf%cf%86) | N/A |
-| 15 | [Παγκρατι](http://twitter.com/search?q=%ce%a0%ce%b1%ce%b3%ce%ba%cf%81%ce%b1%cf%84%ce%b9) | N/A |
-| 16 | [Μελινα](http://twitter.com/search?q=%ce%9c%ce%b5%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
-| 17 | [Δημητρης](http://twitter.com/search?q=%ce%94%ce%b7%ce%bc%ce%b7%cf%84%cf%81%ce%b7%cf%82) | N/A |
+| 7 | [Ζαλγκιρις](http://twitter.com/search?q=%ce%96%ce%b1%ce%bb%ce%b3%ce%ba%ce%b9%cf%81%ce%b9%cf%82) | N/A |
+| 8 | [Λαζαριδου](http://twitter.com/search?q=%ce%9b%ce%b1%ce%b6%ce%b1%cf%81%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
+| 9 | [Πωλινα](http://twitter.com/search?q=%ce%a0%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
+| 10 | [Καουνας](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bf%cf%85%ce%bd%ce%b1%cf%82) | N/A |
+| 11 | [Σασα](http://twitter.com/search?q=%ce%a3%ce%b1%cf%83%ce%b1) | N/A |
+| 12 | [Παρτιζαν](http://twitter.com/search?q=%ce%a0%ce%b1%cf%81%cf%84%ce%b9%ce%b6%ce%b1%ce%bd) | N/A |
+| 13 | [Σεβα](http://twitter.com/search?q=%ce%a3%ce%b5%ce%b2%ce%b1) | N/A |
+| 14 | [Μυρταλη](http://twitter.com/search?q=%ce%9c%cf%85%cf%81%cf%84%ce%b1%ce%bb%ce%b7) | N/A |
+| 15 | [Μελινα](http://twitter.com/search?q=%ce%9c%ce%b5%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
+| 16 | [Παγκρατι](http://twitter.com/search?q=%ce%a0%ce%b1%ce%b3%ce%ba%cf%81%ce%b1%cf%84%ce%b9) | N/A |
+| 17 | [Βεζενκοφ](http://twitter.com/search?q=%ce%92%ce%b5%ce%b6%ce%b5%ce%bd%ce%ba%ce%bf%cf%86) | N/A |
 | 18 | [Εφες](http://twitter.com/search?q=%ce%95%cf%86%ce%b5%cf%82) | N/A |
-| 19 | [Βασιλικη](http://twitter.com/search?q=%ce%92%ce%b1%cf%83%ce%b9%ce%bb%ce%b9%ce%ba%ce%b7) | N/A |
-| 20 | [Ακαδημιας](http://twitter.com/search?q=%ce%91%ce%ba%ce%b1%ce%b4%ce%b7%ce%bc%ce%b9%ce%b1%cf%82) | N/A |
-| 21 | [Γεροβασιλη](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%bf%ce%b2%ce%b1%cf%83%ce%b9%ce%bb%ce%b7) | N/A |
-| 22 | [Ρωσιδα](http://twitter.com/search?q=%ce%a1%cf%89%cf%83%ce%b9%ce%b4%ce%b1) | N/A |
-| 23 | [ΝΠΙΔ](http://twitter.com/search?q=%ce%9d%ce%a0%ce%99%ce%94) | N/A |
-| 24 | [Μαρια Τ](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1+%ce%a4) | N/A |
-| 25 | [Βαρδινογιαννη](http://twitter.com/search?q=%ce%92%ce%b1%cf%81%ce%b4%ce%b9%ce%bd%ce%bf%ce%b3%ce%b9%ce%b1%ce%bd%ce%bd%ce%b7) | N/A |
-| 26 | [Χριστιανα](http://twitter.com/search?q=%ce%a7%cf%81%ce%b9%cf%83%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
-| 27 | [Παυλο](http://twitter.com/search?q=%ce%a0%ce%b1%cf%85%ce%bb%ce%bf) | N/A |
-| 28 | [Τακη](http://twitter.com/search?q=%ce%a4%ce%b1%ce%ba%ce%b7) | N/A |
-| 29 | [Η ΕΥΠ](http://twitter.com/search?q=%ce%97+%ce%95%ce%a5%ce%a0) | N/A |
-| 30 | [Μιμη Παπαιωαννου](http://twitter.com/search?q=%ce%9c%ce%b9%ce%bc%ce%b7+%ce%a0%ce%b1%cf%80%ce%b1%ce%b9%cf%89%ce%b1%ce%bd%ce%bd%ce%bf%cf%85) | N/A |
-| 31 | [Τσαπανιδου](http://twitter.com/search?q=%ce%a4%cf%83%ce%b1%cf%80%ce%b1%ce%bd%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
-| 32 | [Μαριαννα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1%ce%bd%ce%bd%ce%b1) | N/A |
-| 33 | [Η Παναγια](http://twitter.com/search?q=%ce%97+%ce%a0%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%ce%b1) | N/A |
-| 34 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 19 | [Ακαδημιας](http://twitter.com/search?q=%ce%91%ce%ba%ce%b1%ce%b4%ce%b7%ce%bc%ce%b9%ce%b1%cf%82) | N/A |
+| 20 | [Πορφυρη](http://twitter.com/search?q=%ce%a0%ce%bf%cf%81%cf%86%cf%85%cf%81%ce%b7) | N/A |
+| 21 | [Μπεη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%ce%b7) | N/A |
+| 22 | [Γεροβασιλη](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%bf%ce%b2%ce%b1%cf%83%ce%b9%ce%bb%ce%b7) | N/A |
+| 23 | [Δημητρης](http://twitter.com/search?q=%ce%94%ce%b7%ce%bc%ce%b7%cf%84%cf%81%ce%b7%cf%82) | N/A |
+| 24 | [Βαρδινογιαννη](http://twitter.com/search?q=%ce%92%ce%b1%cf%81%ce%b4%ce%b9%ce%bd%ce%bf%ce%b3%ce%b9%ce%b1%ce%bd%ce%bd%ce%b7) | N/A |
+| 25 | [Ρωσιδα](http://twitter.com/search?q=%ce%a1%cf%89%cf%83%ce%b9%ce%b4%ce%b1) | N/A |
+| 26 | [ΝΠΙΔ](http://twitter.com/search?q=%ce%9d%ce%a0%ce%99%ce%94) | N/A |
+| 27 | [Μαρια Τ](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1+%ce%a4) | N/A |
+| 28 | [Μαριαννα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1%ce%bd%ce%bd%ce%b1) | N/A |
+| 29 | [Παυλο](http://twitter.com/search?q=%ce%a0%ce%b1%cf%85%ce%bb%ce%bf) | N/A |
+| 30 | [Η ΕΥΠ](http://twitter.com/search?q=%ce%97+%ce%95%ce%a5%ce%a0) | N/A |
+| 31 | [Θοδωρα](http://twitter.com/search?q=%ce%98%ce%bf%ce%b4%cf%89%cf%81%ce%b1) | N/A |
+| 32 | [Χριστιανα](http://twitter.com/search?q=%ce%a7%cf%81%ce%b9%cf%83%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
+| 33 | [Καληνυχτα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bd%cf%85%cf%87%cf%84%ce%b1) | N/A |
+| 34 | [Μιμης Παπαιωαννου](http://twitter.com/search?q=%ce%9c%ce%b9%ce%bc%ce%b7%cf%82+%ce%a0%ce%b1%cf%80%ce%b1%ce%b9%cf%89%ce%b1%ce%bd%ce%bd%ce%bf%cf%85) | N/A |
 | 35 | [Γεωργιας Μπικα](http://twitter.com/search?q=%ce%93%ce%b5%cf%89%cf%81%ce%b3%ce%b9%ce%b1%cf%82+%ce%9c%cf%80%ce%b9%ce%ba%ce%b1) | N/A |
-| 36 | [καλημερα αθηνα](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1) | N/A |
-| 37 | [Τα ΜΑΤ](http://twitter.com/search?q=%ce%a4%ce%b1+%ce%9c%ce%91%ce%a4) | N/A |
-| 38 | [ΕΛΑΣ](http://twitter.com/search?q=%ce%95%ce%9b%ce%91%ce%a3) | N/A |
-| 39 | [Ελβετιας](http://twitter.com/search?q=%ce%95%ce%bb%ce%b2%ce%b5%cf%84%ce%b9%ce%b1%cf%82) | N/A |
-| 40 | [Ρεινα](http://twitter.com/search?q=%ce%a1%ce%b5%ce%b9%ce%bd%ce%b1) | N/A |
-| 41 | [Μακρον](http://twitter.com/search?q=%ce%9c%ce%b1%ce%ba%cf%81%ce%bf%ce%bd) | N/A |
-| 42 | [Κοινοι Θνητοι](http://twitter.com/search?q=%ce%9a%ce%bf%ce%b9%ce%bd%ce%bf%ce%b9+%ce%98%ce%bd%ce%b7%cf%84%ce%bf%ce%b9) | N/A |
-| 43 | [Αστυνομιας](http://twitter.com/search?q=%ce%91%cf%83%cf%84%cf%85%ce%bd%ce%bf%ce%bc%ce%b9%ce%b1%cf%82) | N/A |
-| 44 | [Πυργιωτη](http://twitter.com/search?q=%ce%a0%cf%85%cf%81%ce%b3%ce%b9%cf%89%cf%84%ce%b7) | N/A |
-| 45 | [Ευρωπαικο Δικαστηριο](http://twitter.com/search?q=%ce%95%cf%85%cf%81%cf%89%cf%80%ce%b1%ce%b9%ce%ba%ce%bf+%ce%94%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf) | N/A |
-| 46 | [Πανεπιστημιου](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b5%cf%80%ce%b9%cf%83%cf%84%ce%b7%ce%bc%ce%b9%ce%bf%cf%85) | N/A |
-| 47 | [Θεοδωρικακος](http://twitter.com/search?q=%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b9%ce%ba%ce%b1%ce%ba%ce%bf%cf%82) | N/A |
-| 48 | [Σελενη](http://twitter.com/search?q=%ce%a3%ce%b5%ce%bb%ce%b5%ce%bd%ce%b7) | N/A |
-| 49 | [Γαλλιας](http://twitter.com/search?q=%ce%93%ce%b1%ce%bb%ce%bb%ce%b9%ce%b1%cf%82) | N/A |
-| 50 | [Μαριαλενα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1%ce%bb%ce%b5%ce%bd%ce%b1) | N/A |
+| 36 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 37 | [καλημερα αθηνα](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%b1%ce%b8%ce%b7%ce%bd%ce%b1) | N/A |
+| 38 | [Μαριαλενα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1%ce%bb%ce%b5%ce%bd%ce%b1) | N/A |
+| 39 | [Athens](http://twitter.com/search?q=Athens) | Athens is the capital and largest city of Greece. It is one of the oldest cities in the world, with a recorded history spanning over 3,400 years. The name Athens is derived from Athena, the goddess of wisdom and knowledge in Greek mythology. In English, Athens means "the city of Athena". |
+| 40 | [Βαγγελης](http://twitter.com/search?q=%ce%92%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%b7%cf%82) | N/A |
+| 41 | [Τα ΜΑΤ](http://twitter.com/search?q=%ce%a4%ce%b1+%ce%9c%ce%91%ce%a4) | N/A |
+| 42 | [Αλεξανδρος](http://twitter.com/search?q=%ce%91%ce%bb%ce%b5%ce%be%ce%b1%ce%bd%ce%b4%cf%81%ce%bf%cf%82) | N/A |
+| 43 | [Βασιλικη](http://twitter.com/search?q=%ce%92%ce%b1%cf%83%ce%b9%ce%bb%ce%b9%ce%ba%ce%b7) | N/A |
+| 44 | [Τσαπανιδου](http://twitter.com/search?q=%ce%a4%cf%83%ce%b1%cf%80%ce%b1%ce%bd%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
+| 45 | [Μακρον](http://twitter.com/search?q=%ce%9c%ce%b1%ce%ba%cf%81%ce%bf%ce%bd) | N/A |
+| 46 | [Τακη](http://twitter.com/search?q=%ce%a4%ce%b1%ce%ba%ce%b7) | N/A |
+| 47 | [Ελβετιας](http://twitter.com/search?q=%ce%95%ce%bb%ce%b2%ce%b5%cf%84%ce%b9%ce%b1%cf%82) | N/A |
+| 48 | [Ρεινα](http://twitter.com/search?q=%ce%a1%ce%b5%ce%b9%ce%bd%ce%b1) | N/A |
+| 49 | [Βιλερμπαν](http://twitter.com/search?q=%ce%92%ce%b9%ce%bb%ce%b5%cf%81%ce%bc%cf%80%ce%b1%ce%bd) | N/A |
+| 50 | [Αστυνομιας](http://twitter.com/search?q=%ce%91%cf%83%cf%84%cf%85%ce%bd%ce%bf%ce%bc%ce%b9%ce%b1%cf%82) | N/A |
 
 
 

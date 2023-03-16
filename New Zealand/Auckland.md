@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-16 20:18:53 UTC`
+📆 Last Updated: `2023-03-16 21:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,52 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 1 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 2 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 3 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
-| 6 | [Fonterra](http://twitter.com/search?q=Fonterra) | N/A |
-| 7 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
-| 8 | [Britomart](http://twitter.com/search?q=Britomart) | N/A |
-| 9 | [#NRLManlyEels](http://twitter.com/search?q=%23NRLManlyEels) | N/A |
-| 10 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
-| 11 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
-| 12 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 13 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 15 | [#nblfinals](http://twitter.com/search?q=%23nblfinals) | N/A |
-| 16 | [Niwa](http://twitter.com/search?q=Niwa) | N/A |
-| 17 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 18 | [#TooManyCows](http://twitter.com/search?q=%23TooManyCows) | N/A |
-| 19 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 20 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 21 | [Onslow](http://twitter.com/search?q=Onslow) | N/A |
-| 22 | [Pugh](http://twitter.com/search?q=Pugh) | N/A |
-| 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 24 | [coster](http://twitter.com/search?q=coster) | N/A |
-| 25 | [bikini kill](http://twitter.com/search?q=bikini+kill) | N/A |
-| 26 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 27 | [Prime](http://twitter.com/search?q=Prime) | N/A |
-| 28 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 29 | [Keating](http://twitter.com/search?q=Keating) | N/A |
-| 30 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 31 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
-| 32 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
-| 33 | [Peter Dunne](http://twitter.com/search?q=Peter+Dunne) | N/A |
-| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [Grant Robertson](http://twitter.com/search?q=Grant+Robertson) | N/A |
-| 36 | [kerre woodham](http://twitter.com/search?q=kerre+woodham) | N/A |
-| 37 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 38 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 39 | [Leah](http://twitter.com/search?q=Leah) | N/A |
-| 40 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 41 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 42 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 43 | [te pūkenga](http://twitter.com/search?q=te+p%c5%abkenga) | N/A |
-| 44 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 45 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 46 | [Sean](http://twitter.com/search?q=Sean) | N/A |
-| 47 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 48 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
-| 49 | [Samoa](http://twitter.com/search?q=Samoa) | N/A |
-| 50 | [topham guerin](http://twitter.com/search?q=topham+guerin) | N/A |
+| 4 | [Fonterra](http://twitter.com/search?q=Fonterra) | N/A |
+| 5 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 6 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 7 | [Britomart](http://twitter.com/search?q=Britomart) | N/A |
+| 8 | [#NRLManlyEels](http://twitter.com/search?q=%23NRLManlyEels) | N/A |
+| 9 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 12 | [Bobby Caldwell](http://twitter.com/search?q=Bobby+Caldwell) | N/A |
+| 13 | [Wayne Brown](http://twitter.com/search?q=Wayne+Brown) | Wayne Brown is a phrase used to describe someone who is a bit of a troublemaker or someone who likes to stir up trouble. It can also be used to describe someone who is a bit of a wild card or unpredictable. |
+| 14 | [#nblfinals](http://twitter.com/search?q=%23nblfinals) | N/A |
+| 15 | [Onslow](http://twitter.com/search?q=Onslow) | N/A |
+| 16 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 17 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 19 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 20 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
+| 21 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 22 | [coster](http://twitter.com/search?q=coster) | N/A |
+| 23 | [#unbreakable](http://twitter.com/search?q=%23unbreakable) | N/A |
+| 24 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 25 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 26 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 27 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 28 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 29 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
+| 30 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 31 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 32 | [Peter Dunne](http://twitter.com/search?q=Peter+Dunne) | N/A |
+| 33 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
+| 34 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
+| 35 | [Judith Collins](http://twitter.com/search?q=Judith+Collins) | N/A |
+| 36 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 37 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 38 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 39 | [Classic](http://twitter.com/search?q=Classic) | N/A |
+| 40 | [Grant Robertson](http://twitter.com/search?q=Grant+Robertson) | N/A |
+| 41 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
+| 42 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 43 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [Aucklanders](http://twitter.com/search?q=Aucklanders) | N/A |
+| 46 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 47 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 48 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 
 
 

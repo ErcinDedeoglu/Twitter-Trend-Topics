@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-16 20:18:29 UTC`
+📆 Last Updated: `2023-03-16 21:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 2 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
-| 3 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 4 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 5 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 6 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 7 | [#SCFJuve](http://twitter.com/search?q=%23SCFJuve) | N/A |
-| 8 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 2 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 3 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 4 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
+| 5 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 6 | [#SCFJuve](http://twitter.com/search?q=%23SCFJuve) | N/A |
+| 7 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 8 | [Extensions](http://twitter.com/search?q=Extensions) | N/A |
 | 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 10 | [Krisen Zentrum](http://twitter.com/search?q=Krisen+Zentrum) | N/A |
 | 11 | [#Einmalzahlung200](http://twitter.com/search?q=%23Einmalzahlung200) | N/A |
-| 12 | [Krisen Zentrum](http://twitter.com/search?q=Krisen+Zentrum) | N/A |
-| 13 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 14 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 15 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 16 | [Frisur](http://twitter.com/search?q=Frisur) | N/A |
+| 12 | [Frisur](http://twitter.com/search?q=Frisur) | N/A |
+| 13 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 14 | [Haaren](http://twitter.com/search?q=Haaren) | N/A |
+| 15 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 16 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
 | 17 | [Mareike](http://twitter.com/search?q=Mareike) | N/A |
 | 18 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
 | 19 | [Models](http://twitter.com/search?q=Models) | N/A |
-| 20 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
-| 21 | [LIAM IS THERE](http://twitter.com/search?q=LIAM+IS+THERE) | N/A |
-| 22 | [LILO](http://twitter.com/search?q=LILO) | N/A |
+| 20 | [LIAM IS THERE](http://twitter.com/search?q=LIAM+IS+THERE) | N/A |
+| 21 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 22 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
 | 23 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
 | 24 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
-| 25 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 26 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
-| 27 | [Axel Springer](http://twitter.com/search?q=Axel+Springer) | N/A |
-| 28 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 29 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 30 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 31 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 32 | [Haaren](http://twitter.com/search?q=Haaren) | N/A |
-| 33 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 34 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 35 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 36 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 37 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 38 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
-| 39 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
-| 40 | [Chefredaktion](http://twitter.com/search?q=Chefredaktion) | N/A |
-| 41 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 42 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 43 | ['Langeweile'](http://twitter.com/search?q=%27Langeweile%27) | N/A |
-| 44 | [Geheule](http://twitter.com/search?q=Geheule) | N/A |
-| 45 | [Rentenreform](http://twitter.com/search?q=Rentenreform) | N/A |
-| 46 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 48 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
-| 49 | [Seminarraum](http://twitter.com/search?q=Seminarraum) | N/A |
-| 50 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 25 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
+| 26 | [LILO](http://twitter.com/search?q=LILO) | N/A |
+| 27 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 28 | [Veränderung](http://twitter.com/search?q=Ver%c3%a4nderung) | N/A |
+| 29 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 30 | [Axel Springer](http://twitter.com/search?q=Axel+Springer) | N/A |
+| 31 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 32 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 33 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 34 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 35 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
+| 36 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
+| 37 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 38 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 39 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 40 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 41 | [Geheule](http://twitter.com/search?q=Geheule) | N/A |
+| 42 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 43 | [Chefredaktion](http://twitter.com/search?q=Chefredaktion) | N/A |
+| 44 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 45 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 46 | [Glatze](http://twitter.com/search?q=Glatze) | N/A |
+| 47 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 48 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
 
 
 
