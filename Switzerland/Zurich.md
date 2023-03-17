@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-17 01:43:43 UTC`
+📆 Last Updated: `2023-03-17 02:33:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 5 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 6 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 7 | [#vdz23](http://twitter.com/search?q=%23vdz23) | N/A |
-| 8 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 9 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
-| 10 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 3 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [#hrc52](http://twitter.com/search?q=%23hrc52) | N/A |
+| 6 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 7 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 8 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 9 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
+| 10 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 11 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
 | 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
-| 14 | [sicherheiten](http://twitter.com/search?q=sicherheiten) | N/A |
-| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 16 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 17 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 18 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 19 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 20 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 21 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 22 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
-| 23 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 24 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 25 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 26 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 27 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 28 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 29 | [Zahl](http://twitter.com/search?q=Zahl) | N/A |
-| 30 | [Finma](http://twitter.com/search?q=Finma) | N/A |
-| 31 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 32 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 33 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 34 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 35 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 36 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 37 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
-| 38 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
-| 39 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 40 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 41 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
-| 42 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 43 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 44 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
-| 45 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
-| 46 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 47 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 48 | [Gratulation](http://twitter.com/search?q=Gratulation) | N/A |
-| 49 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 50 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 13 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 14 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 15 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 16 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 17 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
+| 18 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 19 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
+| 20 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 21 | [sicherheiten](http://twitter.com/search?q=sicherheiten) | N/A |
+| 22 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 25 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 26 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 27 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 28 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 29 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 30 | [lara gut-behrami](http://twitter.com/search?q=lara+gut-behrami) | N/A |
+| 31 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 32 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 33 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 34 | [risiken](http://twitter.com/search?q=risiken) | N/A |
+| 35 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 36 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 37 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 38 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 39 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 40 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 41 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 42 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 43 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 44 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 45 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 46 | [fussball](http://twitter.com/search?q=fussball) | N/A |
+| 47 | [London](http://twitter.com/search?q=London) | N/A |
+| 48 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
+| 49 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
 
 
 

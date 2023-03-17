@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-17 01:43:35 UTC`
+📆 Last Updated: `2023-03-17 02:32:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#DIFLPO](http://twitter.com/search?q=%23DIFLPO) | N/A |
 | 2 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
 | 3 | [#DJULCH](http://twitter.com/search?q=%23DJULCH) | N/A |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 4 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 6 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 7 | [#ShadowAndBone2](http://twitter.com/search?q=%23ShadowAndBone2) | N/A |
-| 8 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 9 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 10 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 11 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 12 | [Stefan Wilmont](http://twitter.com/search?q=Stefan+Wilmont) | N/A |
-| 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 14 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 18 | [Brimstone](http://twitter.com/search?q=Brimstone) | N/A |
-| 19 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 20 | [Grot](http://twitter.com/search?q=Grot) | N/A |
-| 21 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 22 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 23 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
-| 24 | [Slovan](http://twitter.com/search?q=Slovan) | N/A |
-| 25 | [Trento](http://twitter.com/search?q=Trento) | N/A |
-| 26 | [Ligi Europy](http://twitter.com/search?q=Ligi+Europy) | N/A |
-| 27 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 7 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 8 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 9 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 12 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 13 | [stefan wilmont](http://twitter.com/search?q=stefan+wilmont) | N/A |
+| 14 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 15 | [Ligi Europy](http://twitter.com/search?q=Ligi+Europy) | N/A |
+| 16 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 17 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 18 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 19 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
+| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 21 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 22 | [Brimstone](http://twitter.com/search?q=Brimstone) | N/A |
+| 23 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 24 | [inflacja](http://twitter.com/search?q=inflacja) | N/A |
+| 25 | [Kolejorza](http://twitter.com/search?q=Kolejorza) | N/A |
+| 26 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
+| 27 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 28 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 29 | [Falubazu](http://twitter.com/search?q=Falubazu) | N/A |
-| 30 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 31 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 32 | [brawo kolejorz](http://twitter.com/search?q=brawo+kolejorz) | N/A |
-| 33 | [Ligi Konferencji Europy](http://twitter.com/search?q=Ligi+Konferencji+Europy) | N/A |
-| 34 | [Migi](http://twitter.com/search?q=Migi) | N/A |
-| 35 | [Nicea](http://twitter.com/search?q=Nicea) | N/A |
+| 29 | [Djurgarden](http://twitter.com/search?q=Djurgarden) | N/A |
+| 30 | [Gent](http://twitter.com/search?q=Gent) | N/A |
+| 31 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 32 | [Falubazu](http://twitter.com/search?q=Falubazu) | N/A |
+| 33 | [Szwedzi](http://twitter.com/search?q=Szwedzi) | N/A |
+| 34 | [Slovan](http://twitter.com/search?q=Slovan) | N/A |
+| 35 | [Giertych](http://twitter.com/search?q=Giertych) | N/A |
 | 36 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 37 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 38 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
-| 39 | [Villareal](http://twitter.com/search?q=Villareal) | N/A |
-| 40 | [JAGM](http://twitter.com/search?q=JAGM) | N/A |
-| 41 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 42 | [brawo dawid](http://twitter.com/search?q=brawo+dawid) | N/A |
-| 43 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 44 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
-| 45 | [wyrwał](http://twitter.com/search?q=wyrwa%c5%82) | N/A |
-| 46 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
-| 47 | [Konfa](http://twitter.com/search?q=Konfa) | N/A |
-| 48 | [Djurgarden](http://twitter.com/search?q=Djurgarden) | N/A |
-| 49 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
-| 50 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 37 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
+| 38 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 39 | [miłego](http://twitter.com/search?q=mi%c5%82ego) | N/A |
+| 40 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
+| 41 | [Ligi Konferencji Europy](http://twitter.com/search?q=Ligi+Konferencji+Europy) | N/A |
+| 42 | [MIGi](http://twitter.com/search?q=MIGi) | N/A |
+| 43 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 44 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 45 | [Biedronki](http://twitter.com/search?q=Biedronki) | N/A |
+| 46 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 47 | [wyrwał](http://twitter.com/search?q=wyrwa%c5%82) | N/A |
+| 48 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 49 | [Londynie](http://twitter.com/search?q=Londynie) | N/A |
+| 50 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
 
 
 

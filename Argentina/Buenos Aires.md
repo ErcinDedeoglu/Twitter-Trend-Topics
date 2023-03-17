@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-17 01:43:35 UTC`
+📆 Last Updated: `2023-03-17 02:32:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 2 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [FAMILIA GINOCCHIO](http://twitter.com/search?q=FAMILIA+GINOCCHIO) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 7 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 8 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 9 | [Hezze](http://twitter.com/search?q=Hezze) | N/A |
-| 10 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
-| 11 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 12 | [skrillex](http://twitter.com/search?q=skrillex) | N/A |
-| 13 | [Betular](http://twitter.com/search?q=Betular) | N/A |
-| 14 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 15 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
-| 16 | [Enrique Symns](http://twitter.com/search?q=Enrique+Symns) | N/A |
-| 17 | [#JuicioA14Policias](http://twitter.com/search?q=%23JuicioA14Policias) | N/A |
-| 18 | [Joaqui](http://twitter.com/search?q=Joaqui) | Joaqui is a Spanish name derived from the Hebrew name Joachim, which means "God will establish". |
-| 19 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
-| 20 | [alan gomez](http://twitter.com/search?q=alan+gomez) | N/A |
-| 21 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 22 | [DOTA](http://twitter.com/search?q=DOTA) | N/A |
-| 23 | [Cerveza](http://twitter.com/search?q=Cerveza) | N/A |
-| 24 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 25 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 26 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [#SetMeFree_Pt2_OutToday](http://twitter.com/search?q=%23SetMeFree_Pt2_OutToday) | N/A |
-| 29 | [Británico](http://twitter.com/search?q=Brit%c3%a1nico) | N/A |
-| 30 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 31 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 32 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 33 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 34 | [Aguante Milei](http://twitter.com/search?q=Aguante+Milei) | N/A |
-| 35 | [Pol Fernandez](http://twitter.com/search?q=Pol+Fernandez) | N/A |
-| 36 | [Adán](http://twitter.com/search?q=Ad%c3%a1n) | N/A |
-| 37 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 38 | [San Telmo](http://twitter.com/search?q=San+Telmo) | N/A |
-| 39 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 40 | [ecko](http://twitter.com/search?q=ecko) | N/A |
-| 41 | [Nati Jota](http://twitter.com/search?q=Nati+Jota) | N/A |
-| 42 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
-| 43 | [Jesica](http://twitter.com/search?q=Jesica) | N/A |
-| 44 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
-| 45 | [Conseguiste](http://twitter.com/search?q=Conseguiste) | N/A |
-| 46 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 48 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 49 | [Edward Cullen](http://twitter.com/search?q=Edward+Cullen) | N/A |
-| 50 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 1 | [Coccaro](http://twitter.com/search?q=Coccaro) | N/A |
+| 2 | [San Telmo](http://twitter.com/search?q=San+Telmo) | N/A |
+| 3 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
+| 4 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 5 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 6 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 7 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 8 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
+| 9 | [Betular](http://twitter.com/search?q=Betular) | N/A |
+| 10 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | #GranHermano2022 is a hashtag used to refer to the upcoming season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2022". |
+| 11 | [ATMA](http://twitter.com/search?q=ATMA) | N/A |
+| 12 | [Donato](http://twitter.com/search?q=Donato) | N/A |
+| 13 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 14 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 15 | [Juanchon](http://twitter.com/search?q=Juanchon) | N/A |
+| 16 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 17 | [Hezze](http://twitter.com/search?q=Hezze) | N/A |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Dabove](http://twitter.com/search?q=Dabove) | N/A |
+| 20 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 21 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 22 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 23 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 24 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 25 | [skrillex](http://twitter.com/search?q=skrillex) | N/A |
+| 26 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 27 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
+| 28 | [Martitegui](http://twitter.com/search?q=Martitegui) | N/A |
+| 29 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 30 | [#GH2002](http://twitter.com/search?q=%23GH2002) | N/A |
+| 31 | [Marquitos](http://twitter.com/search?q=Marquitos) | N/A |
+| 32 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 33 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
+| 34 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 35 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 36 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 37 | [DOTA](http://twitter.com/search?q=DOTA) | N/A |
+| 38 | [Enrique Symns](http://twitter.com/search?q=Enrique+Symns) | N/A |
+| 39 | [Joaqui](http://twitter.com/search?q=Joaqui) | Joaqui is a Spanish name derived from the Hebrew name Joachim, which means "God will establish". |
+| 40 | [Pol Fernandez](http://twitter.com/search?q=Pol+Fernandez) | N/A |
+| 41 | [Aguante Milei](http://twitter.com/search?q=Aguante+Milei) | N/A |
+| 42 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 43 | [alan gomez](http://twitter.com/search?q=alan+gomez) | N/A |
+| 44 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 45 | [Británico](http://twitter.com/search?q=Brit%c3%a1nico) | N/A |
+| 46 | [Cerveza](http://twitter.com/search?q=Cerveza) | N/A |
+| 47 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
+| 48 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 49 | [ecko](http://twitter.com/search?q=ecko) | N/A |
+| 50 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 
 
 

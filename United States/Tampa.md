@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-17 01:44:18 UTC`
+📆 Last Updated: `2023-03-17 02:33:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 2 | [#FlaPanthers](http://twitter.com/search?q=%23FlaPanthers) | N/A |
-| 3 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 4 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
-| 5 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 6 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 7 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
-| 8 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 9 | [#DeSantisIsADangerToTheUSA](http://twitter.com/search?q=%23DeSantisIsADangerToTheUSA) | N/A |
-| 10 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 3 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 4 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 5 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
+| 6 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
+| 7 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 8 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 9 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 10 | [#DeSantisIsADangerToTheUSA](http://twitter.com/search?q=%23DeSantisIsADangerToTheUSA) | N/A |
 | 11 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
 | 12 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
 | 13 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
 | 14 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
 | 15 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 16 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 17 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
 | 18 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 19 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
+| 19 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
 | 20 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 21 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 22 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 23 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
-| 24 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 25 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
-| 26 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
-| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 28 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
-| 29 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 30 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 31 | [War Damn Eagle](http://twitter.com/search?q=War+Damn+Eagle) | N/A |
-| 32 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
-| 33 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
-| 34 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 35 | [Jayla Everett](http://twitter.com/search?q=Jayla+Everett) | N/A |
-| 36 | [Sir'Jabari Rice](http://twitter.com/search?q=Sir%27Jabari+Rice) | N/A |
-| 37 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
-| 38 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
-| 39 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 22 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 23 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 24 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 25 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
+| 26 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
+| 27 | [Uros](http://twitter.com/search?q=Uros) | N/A |
+| 28 | [Timo](http://twitter.com/search?q=Timo) | N/A |
+| 29 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
+| 30 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
+| 31 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 32 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
+| 33 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 34 | [Dexter Dennis](http://twitter.com/search?q=Dexter+Dennis) | N/A |
+| 35 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
+| 36 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
+| 37 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 38 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 39 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
 | 40 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 41 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
-| 42 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 43 | [Tonyan](http://twitter.com/search?q=Tonyan) | N/A |
-| 44 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
-| 45 | [Brandon Sproat](http://twitter.com/search?q=Brandon+Sproat) | N/A |
-| 46 | [Foreman](http://twitter.com/search?q=Foreman) | N/A |
-| 47 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 48 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 49 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 41 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
+| 42 | [Mashack](http://twitter.com/search?q=Mashack) | N/A |
+| 43 | [Norse](http://twitter.com/search?q=Norse) | N/A |
+| 44 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
+| 45 | [Trading Places](http://twitter.com/search?q=Trading+Places) | N/A |
+| 46 | [nicky](http://twitter.com/search?q=nicky) | N/A |
+| 47 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
+| 48 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
+| 49 | [Sir'Jabari Rice](http://twitter.com/search?q=Sir%27Jabari+Rice) | N/A |
 
 
 

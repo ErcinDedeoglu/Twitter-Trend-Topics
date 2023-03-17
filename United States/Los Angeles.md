@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-17 01:44:13 UTC`
+📆 Last Updated: `2023-03-17 02:33:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
+| 1 | [Wildcats](http://twitter.com/search?q=Wildcats) | N/A |
 | 2 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 3 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 4 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 5 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
-| 6 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 3 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 4 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 5 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
+| 6 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
 | 7 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 8 | [#BearDown](http://twitter.com/search?q=%23BearDown) | N/A |
+| 8 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
 | 9 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 10 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 11 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 10 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 11 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 | 12 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
-| 13 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 14 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 13 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 14 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 15 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 16 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 17 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 18 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 19 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 20 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 16 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 17 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 18 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 19 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 20 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 21 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 22 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 23 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 22 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 23 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 24 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
 | 25 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 26 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
+| 26 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
 | 27 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 28 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 29 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 30 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
+| 28 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 30 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
 | 31 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 32 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
-| 33 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
-| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 35 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
-| 36 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 37 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 38 | [War Damn Eagle](http://twitter.com/search?q=War+Damn+Eagle) | N/A |
-| 39 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
-| 40 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
-| 41 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 42 | [Jayla Everett](http://twitter.com/search?q=Jayla+Everett) | N/A |
-| 43 | [Sir'Jabari Rice](http://twitter.com/search?q=Sir%27Jabari+Rice) | N/A |
-| 44 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
-| 45 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
-| 46 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 47 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 48 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
-| 49 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 50 | [Tonyan](http://twitter.com/search?q=Tonyan) | N/A |
+| 32 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 33 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
+| 34 | [Uros](http://twitter.com/search?q=Uros) | N/A |
+| 35 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
+| 36 | [Timo](http://twitter.com/search?q=Timo) | N/A |
+| 37 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
+| 38 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
+| 39 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
+| 40 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 41 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 42 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
+| 43 | [Dexter Dennis](http://twitter.com/search?q=Dexter+Dennis) | N/A |
+| 44 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
+| 45 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 46 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 47 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
+| 48 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 49 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 50 | [Mashack](http://twitter.com/search?q=Mashack) | N/A |
 
 
 

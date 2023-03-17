@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-17 01:44:19 UTC`
+📆 Last Updated: `2023-03-17 02:33:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 3 | [Arbeiterkinder](http://twitter.com/search?q=Arbeiterkinder) | N/A |
-| 4 | [#rundertisch](http://twitter.com/search?q=%23rundertisch) | N/A |
-| 5 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 8 | [Frau Blaha](http://twitter.com/search?q=Frau+Blaha) | N/A |
-| 9 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
-| 10 | [Karas](http://twitter.com/search?q=Karas) | N/A |
-| 11 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
-| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 13 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 14 | [Akademikerkind](http://twitter.com/search?q=Akademikerkind) | N/A |
-| 15 | [#SGBCC2023](http://twitter.com/search?q=%23SGBCC2023) | N/A |
-| 16 | [Wien Energie](http://twitter.com/search?q=Wien+Energie) | N/A |
-| 17 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
-| 18 | [Matura](http://twitter.com/search?q=Matura) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [Krone](http://twitter.com/search?q=Krone) | N/A |
-| 21 | [Hörsaal](http://twitter.com/search?q=H%c3%b6rsaal) | N/A |
-| 22 | [Seminarraum](http://twitter.com/search?q=Seminarraum) | N/A |
-| 23 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 24 | [Künstler](http://twitter.com/search?q=K%c3%bcnstler) | N/A |
-| 25 | [Unterschiede](http://twitter.com/search?q=Unterschiede) | N/A |
-| 26 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 27 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 28 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 29 | [Verbund](http://twitter.com/search?q=Verbund) | N/A |
-| 30 | [Kandidat](http://twitter.com/search?q=Kandidat) | N/A |
-| 31 | [Mund](http://twitter.com/search?q=Mund) | N/A |
-| 32 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
-| 33 | [hanke](http://twitter.com/search?q=hanke) | N/A |
-| 34 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 35 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
-| 36 | [Drama](http://twitter.com/search?q=Drama) | N/A |
-| 37 | [Ansicht](http://twitter.com/search?q=Ansicht) | N/A |
-| 38 | [Fellner](http://twitter.com/search?q=Fellner) | N/A |
-| 39 | [Datenschutz](http://twitter.com/search?q=Datenschutz) | N/A |
-| 40 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 41 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 42 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 43 | [Verhalten](http://twitter.com/search?q=Verhalten) | N/A |
-| 44 | [Schwierigkeiten](http://twitter.com/search?q=Schwierigkeiten) | N/A |
-| 45 | [Reaktionen](http://twitter.com/search?q=Reaktionen) | N/A |
-| 46 | [Semester](http://twitter.com/search?q=Semester) | N/A |
-| 47 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 49 | [Tränen](http://twitter.com/search?q=Tr%c3%a4nen) | N/A |
-| 50 | [Konsequenzen](http://twitter.com/search?q=Konsequenzen) | N/A |
+| 3 | [arbeiterkinder](http://twitter.com/search?q=arbeiterkinder) | N/A |
+| 4 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 5 | [#rundertisch](http://twitter.com/search?q=%23rundertisch) | N/A |
+| 6 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 7 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [#SGBCC2023](http://twitter.com/search?q=%23SGBCC2023) | N/A |
+| 10 | [Frau Blaha](http://twitter.com/search?q=Frau+Blaha) | N/A |
+| 11 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 12 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
+| 13 | [Karas](http://twitter.com/search?q=Karas) | N/A |
+| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 15 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 16 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [akademikerkind](http://twitter.com/search?q=akademikerkind) | N/A |
+| 19 | [krone](http://twitter.com/search?q=krone) | N/A |
+| 20 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 21 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 22 | [Unterschiede](http://twitter.com/search?q=Unterschiede) | N/A |
+| 23 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 24 | [Hörsaal](http://twitter.com/search?q=H%c3%b6rsaal) | N/A |
+| 25 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 26 | [Künstler](http://twitter.com/search?q=K%c3%bcnstler) | N/A |
+| 27 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 28 | [Seminarraum](http://twitter.com/search?q=Seminarraum) | N/A |
+| 29 | [matura](http://twitter.com/search?q=matura) | N/A |
+| 30 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 31 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 32 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 33 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 34 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
+| 35 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 36 | [Programm](http://twitter.com/search?q=Programm) | N/A |
+| 37 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 38 | [verbund](http://twitter.com/search?q=verbund) | N/A |
+| 39 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 40 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 41 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 42 | [Druck](http://twitter.com/search?q=Druck) | N/A |
+| 43 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
+| 44 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 45 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 46 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 47 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 48 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 49 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 50 | [Reaktionen](http://twitter.com/search?q=Reaktionen) | N/A |
 
 
 

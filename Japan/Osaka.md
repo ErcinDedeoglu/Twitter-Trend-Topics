@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-03-17 01:44:18 UTC`
+📆 Last Updated: `2023-03-17 02:33:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ミライドン](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%a4%e3%83%89%e3%83%b3) | N/A |
+| 1 | [チャンビン](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
 | 2 | [#おのえ765](http://twitter.com/search?q=%23%e3%81%8a%e3%81%ae%e3%81%88765) | N/A |
-| 3 | [NISA](http://twitter.com/search?q=NISA) | N/A |
-| 4 | [慶ちゃん](http://twitter.com/search?q=%e6%85%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 5 | [ガチャピン](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e3%83%94%e3%83%b3) | ガチャピン is a Japanese slang term derived from the phrase "gachapon," which is a type of vending machine that dispenses small toys and collectibles. The term is used to describe someone who is passionate and enthusiastic about something, often to an extreme degree. In English, it can be translated as "super fan" or "die-hard fan." |
-| 6 | [ブックマーク](http://twitter.com/search?q=%e3%83%96%e3%83%83%e3%82%af%e3%83%9e%e3%83%bc%e3%82%af) | N/A |
-| 7 | [凍結解除](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e8%a7%a3%e9%99%a4) | 凍結解除 (tou ketsu kaijo) is a Japanese phrase meaning "unfreeze" or "thaw." It is used to describe the process of restoring access to a computer system, account, or other digital resource that has been frozen or locked due to security measures. |
+| 3 | [玉ちゃん](http://twitter.com/search?q=%e7%8e%89%e3%81%a1%e3%82%83%e3%82%93) | 玉ちゃん is a nickname for a girl, usually used by close friends or family. It is derived from the Japanese word for "jewel" (玉) and the honorific suffix "-chan". In English, it can be translated as "Jewel-chan". |
+| 4 | [ガチャピン](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e3%83%94%e3%83%b3) | ガチャピン is a Japanese slang term derived from the phrase "gachapon," which is a type of vending machine that dispenses small toys and collectibles. The term is used to describe someone who is passionate and enthusiastic about something, often to an extreme degree. In English, it can be translated as "super fan" or "die-hard fan." |
+| 5 | [ブックマーク](http://twitter.com/search?q=%e3%83%96%e3%83%83%e3%82%af%e3%83%9e%e3%83%bc%e3%82%af) | N/A |
+| 6 | [凍結解除](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e8%a7%a3%e9%99%a4) | 凍結解除 (tou ketsu kaijo) is a Japanese phrase meaning "unfreeze" or "thaw." It is used to describe the process of restoring access to a computer system, account, or other digital resource that has been frozen or locked due to security measures. |
+| 7 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
 | 8 | [ブクマ数](http://twitter.com/search?q=%e3%83%96%e3%82%af%e3%83%9e%e6%95%b0) | N/A |
-| 9 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
+| 9 | [ハラバリー](http://twitter.com/search?q=%e3%83%8f%e3%83%a9%e3%83%90%e3%83%aa%e3%83%bc) | ハラバリー (harabarī) is a Japanese term for a type of party or gathering where people exchange small gifts. It is similar to a Secret Santa or White Elephant gift exchange. The term comes from the Japanese words "hara" (stomach) and "barai" (to sweep away), which together mean to give something away in order to make someone else happy. |
 | 10 | [菅原さん](http://twitter.com/search?q=%e8%8f%85%e5%8e%9f%e3%81%95%e3%82%93) | N/A |
-| 11 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
-| 12 | [キャンジャニちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | キャンジャニちゃん is a character from the Japanese manga series, Kyou Kara Maou. The character's name is Yuuri Shibuya and he is a 15-year-old high school student who is chosen to be the new Maou (Demon King) of the Demon World. His nickname, "キャンジャニちゃん", is derived from his last name, Shibuya, which can be written as "しぶや" in Japanese. In English, it translates to "Shibuya-chan". |
-| 13 | [ハラバリー](http://twitter.com/search?q=%e3%83%8f%e3%83%a9%e3%83%90%e3%83%aa%e3%83%bc) | ハラバリー (harabarī) is a Japanese term for a type of party or gathering where people exchange small gifts. It is similar to a Secret Santa or White Elephant gift exchange. The term comes from the Japanese words "hara" (stomach) and "barai" (to sweep away), which together mean to give something away in order to make someone else happy. |
-| 14 | [近親相姦](http://twitter.com/search?q=%e8%bf%91%e8%a6%aa%e7%9b%b8%e5%a7%a6) | N/A |
-| 15 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
-| 16 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
-| 17 | [#ウマイカニー](http://twitter.com/search?q=%23%e3%82%a6%e3%83%9e%e3%82%a4%e3%82%ab%e3%83%8b%e3%83%bc) | N/A |
-| 18 | [Steamセール](http://twitter.com/search?q=Steam%e3%82%bb%e3%83%bc%e3%83%ab) | Steamセール is a term used in Japan to refer to sales on the Steam digital game platform. It literally translates to "Steam Sale" in English. |
-| 19 | [#わたしの幸せな結婚](http://twitter.com/search?q=%23%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e5%b9%b8%e3%81%9b%e3%81%aa%e7%b5%90%e5%a9%9a) | N/A |
-| 20 | [まいんちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%84%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 21 | [SEAMO](http://twitter.com/search?q=SEAMO) | N/A |
-| 22 | [党員除名](http://twitter.com/search?q=%e5%85%9a%e5%93%a1%e9%99%a4%e5%90%8d) | N/A |
-| 23 | [刈谷先輩](http://twitter.com/search?q=%e5%88%88%e8%b0%b7%e5%85%88%e8%bc%a9) | N/A |
-| 24 | [志位氏の辞任](http://twitter.com/search?q=%e5%bf%97%e4%bd%8d%e6%b0%8f%e3%81%ae%e8%be%9e%e4%bb%bb) | N/A |
-| 25 | [キン肉マン](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e8%82%89%e3%83%9e%e3%83%b3) | N/A |
-| 26 | [志位氏辞任要求](http://twitter.com/search?q=%e5%bf%97%e4%bd%8d%e6%b0%8f%e8%be%9e%e4%bb%bb%e8%a6%81%e6%b1%82) | N/A |
+| 11 | [近親相姦](http://twitter.com/search?q=%e8%bf%91%e8%a6%aa%e7%9b%b8%e5%a7%a6) | N/A |
+| 12 | [ミライドン](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%a4%e3%83%89%e3%83%b3) | N/A |
+| 13 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
+| 14 | [#わたしの幸せな結婚](http://twitter.com/search?q=%23%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e5%b9%b8%e3%81%9b%e3%81%aa%e7%b5%90%e5%a9%9a) | N/A |
+| 15 | [キャンジャニちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | キャンジャニちゃん is a character from the Japanese manga series, Kyou Kara Maou. The character's name is Yuuri Shibuya and he is a 15-year-old high school student who is chosen to be the new Maou (Demon King) of the Demon World. His nickname, "キャンジャニちゃん", is derived from his last name, Shibuya, which can be written as "しぶや" in Japanese. In English, it translates to "Shibuya-chan". |
+| 16 | [Steamセール](http://twitter.com/search?q=Steam%e3%82%bb%e3%83%bc%e3%83%ab) | Steamセール is a term used in Japan to refer to sales on the Steam digital game platform. It literally translates to "Steam Sale" in English. |
+| 17 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
+| 18 | [#ウマイカニー](http://twitter.com/search?q=%23%e3%82%a6%e3%83%9e%e3%82%a4%e3%82%ab%e3%83%8b%e3%83%bc) | N/A |
+| 19 | [エリミネーター](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%9f%e3%83%8d%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
+| 20 | [党員除名](http://twitter.com/search?q=%e5%85%9a%e5%93%a1%e9%99%a4%e5%90%8d) | N/A |
+| 21 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
+| 22 | [キン肉マン](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e8%82%89%e3%83%9e%e3%83%b3) | N/A |
+| 23 | [志位氏の辞任](http://twitter.com/search?q=%e5%bf%97%e4%bd%8d%e6%b0%8f%e3%81%ae%e8%be%9e%e4%bb%bb) | N/A |
+| 24 | [まいんちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%84%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 25 | [志位氏辞任要求](http://twitter.com/search?q=%e5%bf%97%e4%bd%8d%e6%b0%8f%e8%be%9e%e4%bb%bb%e8%a6%81%e6%b1%82) | N/A |
+| 26 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
 | 27 | [大食い魔女](http://twitter.com/search?q=%e5%a4%a7%e9%a3%9f%e3%81%84%e9%ad%94%e5%a5%b3) | N/A |
-| 28 | [マタアイマショウ](http://twitter.com/search?q=%e3%83%9e%e3%82%bf%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b7%e3%83%a7%e3%82%a6) | N/A |
-| 29 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
-| 30 | [ラーケーション](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 31 | [菅原初代さん死去](http://twitter.com/search?q=%e8%8f%85%e5%8e%9f%e5%88%9d%e4%bb%a3%e3%81%95%e3%82%93%e6%ad%bb%e5%8e%bb) | N/A |
-| 32 | [極秘文書](http://twitter.com/search?q=%e6%a5%b5%e7%a7%98%e6%96%87%e6%9b%b8) | N/A |
-| 33 | [シンバルキック](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%90%e3%83%ab%e3%82%ad%e3%83%83%e3%82%af) | N/A |
-| 34 | [分派活動](http://twitter.com/search?q=%e5%88%86%e6%b4%be%e6%b4%bb%e5%8b%95) | N/A |
-| 35 | [玉本先輩](http://twitter.com/search?q=%e7%8e%89%e6%9c%ac%e5%85%88%e8%bc%a9) | N/A |
-| 36 | [ホームボタン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9c%e3%82%bf%e3%83%b3) | N/A |
-| 37 | [キャンディーアフタヌーン](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%87%e3%82%a3%e3%83%bc%e3%82%a2%e3%83%95%e3%82%bf%e3%83%8c%e3%83%bc%e3%83%b3) | N/A |
-| 38 | [プリントフォト風シールセット](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88%e3%83%95%e3%82%a9%e3%83%88%e9%a2%a8%e3%82%b7%e3%83%bc%e3%83%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
-| 39 | [なにわ祭り](http://twitter.com/search?q=%e3%81%aa%e3%81%ab%e3%82%8f%e7%a5%ad%e3%82%8a) | N/A |
-| 40 | [スポルティング](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 41 | [解凍祭り](http://twitter.com/search?q=%e8%a7%a3%e5%87%8d%e7%a5%ad%e3%82%8a) | N/A |
-| 42 | [大腸がん](http://twitter.com/search?q=%e5%a4%a7%e8%85%b8%e3%81%8c%e3%82%93) | N/A |
-| 43 | [打首さん](http://twitter.com/search?q=%e6%89%93%e9%a6%96%e3%81%95%e3%82%93) | N/A |
-| 44 | [マリオカート王](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%82%aa%e3%82%ab%e3%83%bc%e3%83%88%e7%8e%8b) | N/A |
-| 45 | [ヴァニキ](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%8b%e3%82%ad) | N/A |
-| 46 | [公開初日](http://twitter.com/search?q=%e5%85%ac%e9%96%8b%e5%88%9d%e6%97%a5) | N/A |
-| 47 | [スプリングセール](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
-| 48 | [吉川晃司さん](http://twitter.com/search?q=%e5%90%89%e5%b7%9d%e6%99%83%e5%8f%b8%e3%81%95%e3%82%93) | N/A |
-| 49 | [福原遥ちゃん](http://twitter.com/search?q=%e7%a6%8f%e5%8e%9f%e9%81%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 28 | [プリントフォト風シールセット](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88%e3%83%95%e3%82%a9%e3%83%88%e9%a2%a8%e3%82%b7%e3%83%bc%e3%83%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
+| 29 | [ラーケーション](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 30 | [刈谷先輩](http://twitter.com/search?q=%e5%88%88%e8%b0%b7%e5%85%88%e8%bc%a9) | N/A |
+| 31 | [SEAMO](http://twitter.com/search?q=SEAMO) | N/A |
+| 32 | [菅原初代さん死去](http://twitter.com/search?q=%e8%8f%85%e5%8e%9f%e5%88%9d%e4%bb%a3%e3%81%95%e3%82%93%e6%ad%bb%e5%8e%bb) | N/A |
+| 33 | [極秘文書](http://twitter.com/search?q=%e6%a5%b5%e7%a7%98%e6%96%87%e6%9b%b8) | N/A |
+| 34 | [ホームボタン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9c%e3%82%bf%e3%83%b3) | N/A |
+| 35 | [分派活動](http://twitter.com/search?q=%e5%88%86%e6%b4%be%e6%b4%bb%e5%8b%95) | N/A |
+| 36 | [マタアイマショウ](http://twitter.com/search?q=%e3%83%9e%e3%82%bf%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b7%e3%83%a7%e3%82%a6) | N/A |
+| 37 | [ナンジャモセット](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2%e3%82%bb%e3%83%83%e3%83%88) | N/A |
+| 38 | [解凍祭り](http://twitter.com/search?q=%e8%a7%a3%e5%87%8d%e7%a5%ad%e3%82%8a) | N/A |
+| 39 | [大腸がん](http://twitter.com/search?q=%e5%a4%a7%e8%85%b8%e3%81%8c%e3%82%93) | N/A |
+| 40 | [眞鍋かをり](http://twitter.com/search?q=%e7%9c%9e%e9%8d%8b%e3%81%8b%e3%82%92%e3%82%8a) | N/A |
+| 41 | [ヴァニキ](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%8b%e3%82%ad) | N/A |
+| 42 | [シンバルキック](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%90%e3%83%ab%e3%82%ad%e3%83%83%e3%82%af) | N/A |
+| 43 | [ブクマ機能](http://twitter.com/search?q=%e3%83%96%e3%82%af%e3%83%9e%e6%a9%9f%e8%83%bd) | N/A |
+| 44 | [小学校の卒業式](http://twitter.com/search?q=%e5%b0%8f%e5%ad%a6%e6%a0%a1%e3%81%ae%e5%8d%92%e6%a5%ad%e5%bc%8f) | N/A |
+| 45 | [玉本先輩](http://twitter.com/search?q=%e7%8e%89%e6%9c%ac%e5%85%88%e8%bc%a9) | N/A |
+| 46 | [スポルティング](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 47 | [公開初日](http://twitter.com/search?q=%e5%85%ac%e9%96%8b%e5%88%9d%e6%97%a5) | N/A |
+| 48 | [コタロー](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%ad%e3%83%bc) | N/A |
+| 49 | [ミューバン](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%bc%e3%83%90%e3%83%b3) | ミューバン (myūban) is a type of Japanese traditional sliding door. It is made of wood and paper, and usually has a lattice pattern. In English, it is known as a shoji screen. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-03-17 01:43:32 UTC`
+📆 Last Updated: `2023-03-17 02:32:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 2 | [#DecretosReais3](http://twitter.com/search?q=%23DecretosReais3) | N/A |
-| 3 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 4 | [EXPULSA OS DOIS BBB](http://twitter.com/search?q=EXPULSA+OS+DOIS+BBB) | N/A |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 7 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 8 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 9 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
-| 10 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
-| 11 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 12 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [Ferroviário](http://twitter.com/search?q=Ferrovi%c3%a1rio) | N/A |
-| 15 | [Sant](http://twitter.com/search?q=Sant) | N/A |
-| 16 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
-| 17 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 18 | [#reelzapp](http://twitter.com/search?q=%23reelzapp) | N/A |
-| 19 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 20 | [Marlon Gomes](http://twitter.com/search?q=Marlon+Gomes) | Marlon Gomes is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (lion). The name means "sea lion". |
-| 21 | [nicky](http://twitter.com/search?q=nicky) | N/A |
-| 22 | [Ferreirinha](http://twitter.com/search?q=Ferreirinha) | N/A |
-| 23 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 24 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
-| 25 | [O Grêmio](http://twitter.com/search?q=O+Gr%c3%aamio) | N/A |
-| 26 | [#AssedioBBB](http://twitter.com/search?q=%23AssedioBBB) | N/A |
-| 27 | [Favoritos](http://twitter.com/search?q=Favoritos) | N/A |
-| 28 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 29 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
-| 30 | [Andrey e Jair](http://twitter.com/search?q=Andrey+e+Jair) | N/A |
-| 31 | [LAGUM EP FIM](http://twitter.com/search?q=LAGUM+EP+FIM) | N/A |
-| 32 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 33 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 34 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
-| 35 | [Sermão](http://twitter.com/search?q=Serm%c3%a3o) | N/A |
-| 36 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
-| 37 | [Cumbia](http://twitter.com/search?q=Cumbia) | N/A |
-| 38 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
-| 39 | [Chamaram a Dania](http://twitter.com/search?q=Chamaram+a+Dania) | N/A |
-| 40 | [Oi Lula](http://twitter.com/search?q=Oi+Lula) | N/A |
-| 41 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 42 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 43 | [Sula](http://twitter.com/search?q=Sula) | N/A |
-| 44 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 45 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
-| 46 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 47 | [Douglas Dias](http://twitter.com/search?q=Douglas+Dias) | N/A |
-| 48 | [MC Gui](http://twitter.com/search?q=MC+Gui) | N/A |
-| 49 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
-| 50 | [PARK JIMIN IS COMING](http://twitter.com/search?q=PARK+JIMIN+IS+COMING) | "PARK JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of South Korean singer and dancer Park Jimin. It is often used by fans of Park Jimin to show their enthusiasm for his upcoming appearances or releases. |
+| 1 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 2 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 3 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 4 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 5 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 6 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 7 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
+| 8 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 9 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
+| 10 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
+| 11 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 12 | [#DecretosReais3](http://twitter.com/search?q=%23DecretosReais3) | N/A |
+| 13 | [Ademicon](http://twitter.com/search?q=Ademicon) | N/A |
+| 14 | [VÍTIMA](http://twitter.com/search?q=V%c3%8dTIMA) | N/A |
+| 15 | [#BBBAEliminacao](http://twitter.com/search?q=%23BBBAEliminacao) | N/A |
+| 16 | [#AssedioBBB](http://twitter.com/search?q=%23AssedioBBB) | N/A |
+| 17 | [Filipe Ret](http://twitter.com/search?q=Filipe+Ret) | N/A |
+| 18 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 19 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 20 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
+| 21 | [Parabéns BBB](http://twitter.com/search?q=Parab%c3%a9ns+BBB) | N/A |
+| 22 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 23 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
+| 24 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 25 | [CA RA LHO](http://twitter.com/search?q=CA+RA+LHO) | N/A |
+| 26 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 27 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 28 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
+| 29 | [O Gabriel](http://twitter.com/search?q=O+Gabriel) | N/A |
+| 30 | [Expulsaram](http://twitter.com/search?q=Expulsaram) | N/A |
+| 31 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
+| 32 | [CULPADA](http://twitter.com/search?q=CULPADA) | N/A |
+| 33 | [nicky](http://twitter.com/search?q=nicky) | N/A |
+| 34 | [Sant](http://twitter.com/search?q=Sant) | N/A |
+| 35 | [AO VIVAÇO](http://twitter.com/search?q=AO+VIVA%c3%87O) | N/A |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [AO VIVASSO](http://twitter.com/search?q=AO+VIVASSO) | N/A |
+| 38 | [Sermão](http://twitter.com/search?q=Serm%c3%a3o) | N/A |
+| 39 | [CHOCADA](http://twitter.com/search?q=CHOCADA) | N/A |
+| 40 | [ELIMINADOS](http://twitter.com/search?q=ELIMINADOS) | N/A |
+| 41 | [simone](http://twitter.com/search?q=simone) | N/A |
+| 42 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
+| 43 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 44 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
+| 45 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 46 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 47 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
+| 48 | [CHOQUE](http://twitter.com/search?q=CHOQUE) | N/A |
+| 49 | [Ferroviário](http://twitter.com/search?q=Ferrovi%c3%a1rio) | N/A |
+| 50 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
 
 
 

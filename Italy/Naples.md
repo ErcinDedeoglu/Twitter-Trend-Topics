@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-17 01:43:40 UTC`
+📆 Last Updated: `2023-03-17 02:33:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,48 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 2 | [#incorvassi](http://twitter.com/search?q=%23incorvassi) | N/A |
-| 3 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 4 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 5 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 6 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
-| 7 | [#gioiellers](http://twitter.com/search?q=%23gioiellers) | N/A |
-| 8 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
-| 9 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
-| 10 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 11 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 12 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
-| 13 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 14 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 15 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 16 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 3 | [#incorvassi](http://twitter.com/search?q=%23incorvassi) | N/A |
+| 4 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 5 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 6 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 7 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
+| 8 | [#gioiellers](http://twitter.com/search?q=%23gioiellers) | N/A |
+| 9 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 10 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 11 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 12 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 13 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 14 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 15 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 16 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
 | 17 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 18 | [La Lazio](http://twitter.com/search?q=La+Lazio) | N/A |
-| 19 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 20 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Siviglia](http://twitter.com/search?q=Siviglia) | N/A |
-| 23 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 26 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 27 | [#gfvip7](http://twitter.com/search?q=%23gfvip7) | N/A |
+| 18 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 19 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 20 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 21 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 22 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 24 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
+| 27 | [#RealSociedadRoma](http://twitter.com/search?q=%23RealSociedadRoma) | N/A |
 | 28 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
-| 29 | [#RealSociedadRoma](http://twitter.com/search?q=%23RealSociedadRoma) | N/A |
-| 30 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
-| 31 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 32 | [#IndianWells](http://twitter.com/search?q=%23IndianWells) | N/A |
-| 33 | [#drittoerovescio](http://twitter.com/search?q=%23drittoerovescio) | N/A |
-| 34 | [#AZLazio](http://twitter.com/search?q=%23AZLazio) | N/A |
-| 35 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
-| 36 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
-| 37 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 38 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 39 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
-| 40 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
-| 41 | [#laMigliorMedicina](http://twitter.com/search?q=%23laMigliorMedicina) | N/A |
-| 42 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
-| 43 | [#SIAE](http://twitter.com/search?q=%23SIAE) | N/A |
-| 44 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
-| 45 | [#splendidacornice](http://twitter.com/search?q=%23splendidacornice) | N/A |
-| 46 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
-| 47 | [#pontesullostretto](http://twitter.com/search?q=%23pontesullostretto) | N/A |
-| 48 | [#Francia](http://twitter.com/search?q=%23Francia) | N/A |
-| 49 | [#Chiesa](http://twitter.com/search?q=%23Chiesa) | N/A |
-| 50 | [#Parigi](http://twitter.com/search?q=%23Parigi) | N/A |
+| 29 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 30 | [#IndianWells](http://twitter.com/search?q=%23IndianWells) | N/A |
+| 31 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 32 | [#AZLazio](http://twitter.com/search?q=%23AZLazio) | N/A |
+| 33 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 34 | [#nikella](http://twitter.com/search?q=%23nikella) | N/A |
+| 35 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
+| 36 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 37 | [#laMigliorMedicina](http://twitter.com/search?q=%23laMigliorMedicina) | N/A |
+| 38 | [#SIAE](http://twitter.com/search?q=%23SIAE) | N/A |
+| 39 | [#splendidacornice](http://twitter.com/search?q=%23splendidacornice) | N/A |
+| 40 | [#pontesullostretto](http://twitter.com/search?q=%23pontesullostretto) | N/A |
+| 41 | [#Francia](http://twitter.com/search?q=%23Francia) | N/A |
+| 42 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 43 | [#AllegriOut](http://twitter.com/search?q=%23AllegriOut) | N/A |
 
 
 
