@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-17 16:17:22 UTC`
+📆 Last Updated: `2023-03-17 17:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Venezuela
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#17Mar](http://twitter.com/search?q=%2317Mar) | N/A |
-| 2 | [#BastaDeImposiciónImperial](http://twitter.com/search?q=%23BastaDeImposici%c3%b3nImperial) | N/A |
-| 3 | [#ElBloqueoEsCriminal](http://twitter.com/search?q=%23ElBloqueoEsCriminal) | N/A |
-| 4 | [La Corte Penal Internacional](http://twitter.com/search?q=La+Corte+Penal+Internacional) | N/A |
-| 5 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 10 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 11 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 12 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 13 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 15 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 16 | [#ChávezHechoMillones](http://twitter.com/search?q=%23Ch%c3%a1vezHechoMillones) | N/A |
-| 17 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 18 | [Hunos](http://twitter.com/search?q=Hunos) | N/A |
-| 19 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 20 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 21 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 22 | [El Cid Campeador](http://twitter.com/search?q=El+Cid+Campeador) | N/A |
+| 2 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 3 | [#BastaDeImposiciónImperial](http://twitter.com/search?q=%23BastaDeImposici%c3%b3nImperial) | N/A |
+| 4 | [#ElBloqueoEsCriminal](http://twitter.com/search?q=%23ElBloqueoEsCriminal) | N/A |
+| 5 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 6 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 8 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 12 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 13 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 14 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 16 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 17 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 18 | [#ChávezHechoMillones](http://twitter.com/search?q=%23Ch%c3%a1vezHechoMillones) | N/A |
+| 19 | [#Gasolina](http://twitter.com/search?q=%23Gasolina) | N/A |
+| 20 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 21 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 22 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
 | 23 | [Mario Silva](http://twitter.com/search?q=Mario+Silva) | N/A |
 | 24 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 25 | [Atila](http://twitter.com/search?q=Atila) | N/A |
-| 26 | [Los CLAP](http://twitter.com/search?q=Los+CLAP) | N/A |
-| 27 | [SAIME](http://twitter.com/search?q=SAIME) | N/A |
-| 28 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
-| 29 | [Homero](http://twitter.com/search?q=Homero) | N/A |
-| 30 | [Día Mundial del Mar](http://twitter.com/search?q=D%c3%ada+Mundial+del+Mar) | N/A |
-| 31 | [Vicente Campo Elías](http://twitter.com/search?q=Vicente+Campo+El%c3%adas) | N/A |
-| 32 | [Batalla de San Mateo](http://twitter.com/search?q=Batalla+de+San+Mateo) | N/A |
-| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 34 | [Renny Ottolina](http://twitter.com/search?q=Renny+Ottolina) | N/A |
-| 35 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
-| 36 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 25 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
+| 26 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 27 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 28 | [Vicente Campo Elías](http://twitter.com/search?q=Vicente+Campo+El%c3%adas) | N/A |
+| 29 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
+| 30 | [Batalla de San Mateo](http://twitter.com/search?q=Batalla+de+San+Mateo) | N/A |
+| 31 | [SAIME](http://twitter.com/search?q=SAIME) | N/A |
+| 32 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 33 | [Día Mundial del Mar](http://twitter.com/search?q=D%c3%ada+Mundial+del+Mar) | N/A |
+| 34 | [Homero](http://twitter.com/search?q=Homero) | N/A |
+| 35 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 36 | [Edwin Díaz](http://twitter.com/search?q=Edwin+D%c3%adaz) | N/A |
 | 37 | [Mikaela](http://twitter.com/search?q=Mikaela) | N/A |
-| 38 | [Edwin Díaz](http://twitter.com/search?q=Edwin+D%c3%adaz) | N/A |
-| 39 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 40 | [Mariela Alcalá](http://twitter.com/search?q=Mariela+Alcal%c3%a1) | N/A |
-| 41 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 42 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 38 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 39 | [Mariela Alcalá](http://twitter.com/search?q=Mariela+Alcal%c3%a1) | N/A |
+| 40 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 41 | [Neisser](http://twitter.com/search?q=Neisser) | N/A |
+| 42 | [Betty](http://twitter.com/search?q=Betty) | N/A |
 | 43 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
-| 44 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 45 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 46 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
-| 47 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 48 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 49 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 44 | [Renny Ottolina](http://twitter.com/search?q=Renny+Ottolina) | N/A |
+| 45 | [Hunos](http://twitter.com/search?q=Hunos) | N/A |
+| 46 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 47 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 48 | [El Cid Campeador](http://twitter.com/search?q=El+Cid+Campeador) | N/A |
+| 49 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 50 | [Atila](http://twitter.com/search?q=Atila) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-17 16:16:48 UTC`
+📆 Last Updated: `2023-03-17 17:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [Australia](</Australia>)
 | 5 | [#afltigersblues](http://twitter.com/search?q=%23afltigersblues) | N/A |
 | 6 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
 | 7 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 8 | [KEATING](http://twitter.com/search?q=KEATING) | N/A |
+| 8 | [Keating](http://twitter.com/search?q=Keating) | N/A |
 | 9 | [Howe](http://twitter.com/search?q=Howe) | N/A |
 | 10 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
 | 11 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
@@ -30,40 +30,40 @@ This is top 50 for [Australia](</Australia>)
 | 13 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 14 | [Cody Walker](http://twitter.com/search?q=Cody+Walker) | N/A |
 | 15 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
-| 16 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 17 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 16 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 17 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
 | 18 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
 | 19 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
 | 20 | [Darcy Moore](http://twitter.com/search?q=Darcy+Moore) | N/A |
 | 21 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 22 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 24 | [Menindee](http://twitter.com/search?q=Menindee) | N/A |
-| 25 | [latrell](http://twitter.com/search?q=latrell) | N/A |
-| 26 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
-| 27 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 29 | [mason cox](http://twitter.com/search?q=mason+cox) | N/A |
-| 30 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 31 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
-| 32 | [dom young](http://twitter.com/search?q=dom+young) | N/A |
-| 33 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 25 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 26 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 27 | [mason cox](http://twitter.com/search?q=mason+cox) | N/A |
+| 28 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 29 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
+| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 31 | [dom young](http://twitter.com/search?q=dom+young) | N/A |
+| 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 33 | [latrell](http://twitter.com/search?q=latrell) | N/A |
 | 34 | [Brian Walsh](http://twitter.com/search?q=Brian+Walsh) | N/A |
 | 35 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
 | 36 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
 | 37 | [Tom Mitchell](http://twitter.com/search?q=Tom+Mitchell) | N/A |
-| 38 | [Tomahawk](http://twitter.com/search?q=Tomahawk) | N/A |
-| 39 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 40 | [Bruhn](http://twitter.com/search?q=Bruhn) | N/A |
-| 41 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
-| 42 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
-| 43 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
-| 44 | [McStay](http://twitter.com/search?q=McStay) | N/A |
-| 45 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 38 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 39 | [Bruhn](http://twitter.com/search?q=Bruhn) | N/A |
+| 40 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
+| 41 | [Tomahawk](http://twitter.com/search?q=Tomahawk) | N/A |
+| 42 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 43 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
+| 44 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
+| 45 | [McStay](http://twitter.com/search?q=McStay) | N/A |
 | 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 48 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 49 | [Adam Goodes](http://twitter.com/search?q=Adam+Goodes) | N/A |
+| 47 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 48 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 49 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
 
 
 

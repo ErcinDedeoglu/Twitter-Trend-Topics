@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-17 16:17:20 UTC`
+📆 Last Updated: `2023-03-17 17:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KAIAComebackMenpa](http://twitter.com/search?q=%23KAIAComebackMenpa) | N/A |
-| 2 | [#FurFurTrainFM](http://twitter.com/search?q=%23FurFurTrainFM) | N/A |
-| 3 | [#BOBBYSOLOSINGLE_D3](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D3) | N/A |
+| 1 | [KAIA COMEBACK MENPA](http://twitter.com/search?q=KAIA+COMEBACK+MENPA) | N/A |
+| 2 | [#BOBBYSOLOSINGLE_D3](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D3) | N/A |
+| 3 | [#FurFurTrainFM](http://twitter.com/search?q=%23FurFurTrainFM) | N/A |
 | 4 | [BOBBY DROWNING MV TEASER](http://twitter.com/search?q=BOBBY+DROWNING+MV+TEASER) | N/A |
-| 5 | [#DLRage](http://twitter.com/search?q=%23DLRage) | N/A |
-| 6 | [DASH PHOTO TEASER 1](http://twitter.com/search?q=DASH+PHOTO+TEASER+1) | N/A |
+| 5 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 6 | [#aBossandaBabeEP3](http://twitter.com/search?q=%23aBossandaBabeEP3) | N/A |
 | 7 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 8 | [LOVE ME LIKE THIS MV TEASER](http://twitter.com/search?q=LOVE+ME+LIKE+THIS+MV+TEASER) | N/A |
-| 9 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 10 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 11 | [giselle](http://twitter.com/search?q=giselle) | N/A |
-| 12 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 13 | [KAOMIAH ERA NA](http://twitter.com/search?q=KAOMIAH+ERA+NA) | N/A |
-| 14 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 16 | [CHIN SAID YES TO SETH](http://twitter.com/search?q=CHIN+SAID+YES+TO+SETH) | N/A |
+| 8 | [#HORI7ON_DASH_D4](http://twitter.com/search?q=%23HORI7ON_DASH_D4) | N/A |
+| 9 | [DASH PHOTO TEASER 1](http://twitter.com/search?q=DASH+PHOTO+TEASER+1) | N/A |
+| 10 | [LOVE ME LIKE THIS MV TEASER](http://twitter.com/search?q=LOVE+ME+LIKE+THIS+MV+TEASER) | N/A |
+| 11 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 13 | [giselle](http://twitter.com/search?q=giselle) | N/A |
+| 14 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 15 | [KAOMIAH ERA NA](http://twitter.com/search?q=KAOMIAH+ERA+NA) | N/A |
+| 16 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
 | 17 | [FACE in Shopee](http://twitter.com/search?q=FACE+in+Shopee) | N/A |
-| 18 | [ALL ROUNDER INTERN V](http://twitter.com/search?q=ALL+ROUNDER+INTERN+V) | N/A |
+| 18 | [CHIN SAID YES TO SETH](http://twitter.com/search?q=CHIN+SAID+YES+TO+SETH) | N/A |
 | 19 | [ROMANTIC ROBXINE PROMPOSAL](http://twitter.com/search?q=ROMANTIC+ROBXINE+PROMPOSAL) | N/A |
 | 20 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
-| 21 | [DOST](http://twitter.com/search?q=DOST) | N/A |
-| 22 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 23 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 24 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 25 | [COFFEE DATE WITH ALAMAT](http://twitter.com/search?q=COFFEE+DATE+WITH+ALAMAT) | N/A |
-| 26 | [SEHAM ON TEENCLASH](http://twitter.com/search?q=SEHAM+ON+TEENCLASH) | N/A |
-| 27 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 28 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
-| 29 | [SET ME FREE 1ST SLAY](http://twitter.com/search?q=SET+ME+FREE+1ST+SLAY) | N/A |
-| 30 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
-| 31 | [KATHNIEL GnaG SA PRESSCON](http://twitter.com/search?q=KATHNIEL+GnaG+SA+PRESSCON) | N/A |
-| 32 | [ANTIPOLOves HORI7ON](http://twitter.com/search?q=ANTIPOLOves+HORI7ON) | N/A |
-| 33 | [#HORI7ON_DASH_D4](http://twitter.com/search?q=%23HORI7ON_DASH_D4) | N/A |
-| 34 | [#NMIXX_LoveMeLikeThis_Teaser](http://twitter.com/search?q=%23NMIXX_LoveMeLikeThis_Teaser) | N/A |
-| 35 | [#aBossandaBabeEP3](http://twitter.com/search?q=%23aBossandaBabeEP3) | N/A |
+| 21 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
+| 22 | [ALL ROUNDER INTERN V](http://twitter.com/search?q=ALL+ROUNDER+INTERN+V) | N/A |
+| 23 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 24 | [Dost](http://twitter.com/search?q=Dost) | N/A |
+| 25 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 26 | [COFFEE DATE WITH ALAMAT](http://twitter.com/search?q=COFFEE+DATE+WITH+ALAMAT) | N/A |
+| 27 | [seham on teenclash](http://twitter.com/search?q=seham+on+teenclash) | N/A |
+| 28 | [Issa](http://twitter.com/search?q=Issa) | N/A |
+| 29 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
+| 30 | [Jadine](http://twitter.com/search?q=Jadine) | N/A |
+| 31 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 32 | [SET ME FREE 1ST SLAY](http://twitter.com/search?q=SET+ME+FREE+1ST+SLAY) | N/A |
+| 33 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
+| 34 | [#DLRage](http://twitter.com/search?q=%23DLRage) | N/A |
+| 35 | [#NMIXX_LoveMeLikeThis_Teaser](http://twitter.com/search?q=%23NMIXX_LoveMeLikeThis_Teaser) | N/A |
 | 36 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
-| 37 | [#TeenClashEp1](http://twitter.com/search?q=%23TeenClashEp1) | N/A |
-| 38 | [#AskJonaxx](http://twitter.com/search?q=%23AskJonaxx) | N/A |
+| 37 | [#AskJonaxx](http://twitter.com/search?q=%23AskJonaxx) | N/A |
+| 38 | [#TeenClashEp1](http://twitter.com/search?q=%23TeenClashEp1) | N/A |
 | 39 | [#KENTIN](http://twitter.com/search?q=%23KENTIN) | N/A |
-| 40 | [#DirtyLinen](http://twitter.com/search?q=%23DirtyLinen) | N/A |
+| 40 | [#ALAMATatManilaCoffeeFestival](http://twitter.com/search?q=%23ALAMATatManilaCoffeeFestival) | N/A |
 | 41 | [#JinnysKitchenEp4](http://twitter.com/search?q=%23JinnysKitchenEp4) | N/A |
-| 42 | [#HappyJUANYearLiwanag](http://twitter.com/search?q=%23HappyJUANYearLiwanag) | N/A |
-| 43 | [#HORI7ON_GoesToAntipolo](http://twitter.com/search?q=%23HORI7ON_GoesToAntipolo) | N/A |
-| 44 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
-| 45 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
-| 46 | [#SETMEFREE1stWin](http://twitter.com/search?q=%23SETMEFREE1stWin) | N/A |
-| 47 | [#TWICE120thWin](http://twitter.com/search?q=%23TWICE120thWin) | N/A |
-| 48 | [#BrightWin](http://twitter.com/search?q=%23BrightWin) | N/A |
-| 49 | [#ALAMATatManilaCoffeeFestival](http://twitter.com/search?q=%23ALAMATatManilaCoffeeFestival) | N/A |
-| 50 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 42 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
+| 43 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
+| 44 | [#SETMEFREE1stWin](http://twitter.com/search?q=%23SETMEFREE1stWin) | N/A |
+| 45 | [#DirtyLinen](http://twitter.com/search?q=%23DirtyLinen) | N/A |
+| 46 | [#HappyJUANYearLiwanag](http://twitter.com/search?q=%23HappyJUANYearLiwanag) | N/A |
+| 47 | [#HORI7ON_GoesToAntipolo](http://twitter.com/search?q=%23HORI7ON_GoesToAntipolo) | N/A |
+| 48 | [#TWICE120thWin](http://twitter.com/search?q=%23TWICE120thWin) | N/A |
+| 49 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 50 | [#NothingLikeDunkin](http://twitter.com/search?q=%23NothingLikeDunkin) | N/A |
 
 
 

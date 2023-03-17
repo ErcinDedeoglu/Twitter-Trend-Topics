@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-17 16:16:46 UTC`
+📆 Last Updated: `2023-03-17 17:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 2 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 3 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 3 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
 | 4 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 5 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 6 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 7 | [#LeTempsenacceslibre](http://twitter.com/search?q=%23LeTempsenacceslibre) | N/A |
+| 5 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 6 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 7 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 8 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 9 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 11 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 12 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
 | 13 | [Zola](http://twitter.com/search?q=Zola) | N/A |
 | 14 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 18 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 19 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 20 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 21 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 22 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 23 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
-| 24 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 25 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 26 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 27 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 28 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 29 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
-| 30 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
-| 31 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 32 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 33 | [verluste](http://twitter.com/search?q=verluste) | N/A |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 36 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 37 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 38 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 39 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 40 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 41 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 42 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 43 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 44 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 45 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 46 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 47 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 48 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 49 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 17 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 18 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 19 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 20 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 21 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
+| 22 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 23 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 24 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 25 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 27 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 28 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 29 | [rettung](http://twitter.com/search?q=rettung) | N/A |
+| 30 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 31 | [verluste](http://twitter.com/search?q=verluste) | N/A |
+| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 33 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 35 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 36 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 37 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 38 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 39 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 40 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 41 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 42 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 43 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 44 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
+| 45 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
+| 46 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 47 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 48 | [Stufe](http://twitter.com/search?q=Stufe) | N/A |
+| 49 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
 
 
 

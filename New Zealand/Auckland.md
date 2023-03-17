@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-17 16:17:06 UTC`
+📆 Last Updated: `2023-03-17 17:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,18 +27,18 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 11 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
 | 12 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 13 | [Basin](http://twitter.com/search?q=Basin) | N/A |
-| 14 | [todd muller](http://twitter.com/search?q=todd+muller) | N/A |
+| 13 | [basin](http://twitter.com/search?q=basin) | N/A |
+| 14 | [Muller](http://twitter.com/search?q=Muller) | N/A |
 | 15 | [Minister](http://twitter.com/search?q=Minister) | N/A |
 | 16 | [kuriger](http://twitter.com/search?q=kuriger) | N/A |
 | 17 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
 | 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 19 | [uffindell](http://twitter.com/search?q=uffindell) | N/A |
+| 19 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
 | 20 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
 | 21 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
 | 22 | [britomart](http://twitter.com/search?q=britomart) | N/A |
 | 23 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 24 | [welly](http://twitter.com/search?q=welly) | N/A |
+| 24 | [Welly](http://twitter.com/search?q=Welly) | N/A |
 | 25 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 26 | [lake onslow](http://twitter.com/search?q=lake+onslow) | N/A |
 | 27 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |

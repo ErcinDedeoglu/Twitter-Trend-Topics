@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-17 16:16:47 UTC`
+📆 Last Updated: `2023-03-17 17:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
 | 2 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
 | 3 | [#bbrightvc](http://twitter.com/search?q=%23bbrightvc) | N/A |
-| 4 | [#brightwin](http://twitter.com/search?q=%23brightwin) | N/A |
-| 5 | [#kpkjugahedon](http://twitter.com/search?q=%23kpkjugahedon) | N/A |
-| 6 | [jorji](http://twitter.com/search?q=jorji) | N/A |
-| 7 | [bobby drowning mv teaser](http://twitter.com/search?q=bobby+drowning+mv+teaser) | N/A |
-| 8 | [onic](http://twitter.com/search?q=onic) | N/A |
-| 9 | [tontonan hari ramadan](http://twitter.com/search?q=tontonan+hari+ramadan) | N/A |
-| 10 | [semoga sukses selalu](http://twitter.com/search?q=semoga+sukses+selalu) | N/A |
-| 11 | [terima kasih erigo](http://twitter.com/search?q=terima+kasih+erigo) | N/A |
-| 12 | [spanyol](http://twitter.com/search?q=spanyol) | N/A |
-| 13 | [leoniel](http://twitter.com/search?q=leoniel) | N/A |
-| 14 | [napoli](http://twitter.com/search?q=napoli) | N/A |
-| 15 | [prifad](http://twitter.com/search?q=prifad) | N/A |
-| 16 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 17 | [wang chang](http://twitter.com/search?q=wang+chang) | N/A |
-| 18 | [apri](http://twitter.com/search?q=apri) | N/A |
-| 19 | [bawaslu](http://twitter.com/search?q=bawaslu) | N/A |
-| 20 | [kaktusnya](http://twitter.com/search?q=kaktusnya) | N/A |
-| 21 | [liang](http://twitter.com/search?q=liang) | N/A |
-| 22 | [jakarta lumpur](http://twitter.com/search?q=jakarta+lumpur) | N/A |
-| 23 | [madrid](http://twitter.com/search?q=madrid) | N/A |
-| 24 | [saykoji](http://twitter.com/search?q=saykoji) | N/A |
-| 25 | [fase](http://twitter.com/search?q=fase) | N/A |
-| 26 | [gempa](http://twitter.com/search?q=gempa) | N/A |
-| 27 | [copa del rey](http://twitter.com/search?q=copa+del+rey) | N/A |
-| 28 | [sevilla](http://twitter.com/search?q=sevilla) | N/A |
-| 29 | [la liga](http://twitter.com/search?q=la+liga) | N/A |
-| 30 | [kevin](http://twitter.com/search?q=kevin) | N/A |
-| 31 | [all rounder intern v](http://twitter.com/search?q=all+rounder+intern+v) | N/A |
-| 32 | [chelsea](http://twitter.com/search?q=chelsea) | N/A |
-| 33 | [kerasa](http://twitter.com/search?q=kerasa) | N/A |
-| 34 | [gigi](http://twitter.com/search?q=gigi) | N/A |
-| 35 | [kulonprogo](http://twitter.com/search?q=kulonprogo) | N/A |
-| 36 | [giselle](http://twitter.com/search?q=giselle) | N/A |
-| 37 | [fadia](http://twitter.com/search?q=fadia) | N/A |
-| 38 | [daniel](http://twitter.com/search?q=daniel) | N/A |
-| 39 | [argentina](http://twitter.com/search?q=argentina) | N/A |
-| 40 | [build makes me smile](http://twitter.com/search?q=build+makes+me+smile) | N/A |
-| 41 | [gose](http://twitter.com/search?q=gose) | N/A |
-| 42 | [milan](http://twitter.com/search?q=milan) | N/A |
-| 43 | [benfica](http://twitter.com/search?q=benfica) | N/A |
-| 44 | [italia](http://twitter.com/search?q=italia) | N/A |
-| 45 | [semifinal](http://twitter.com/search?q=semifinal) | N/A |
-| 46 | [huruf r](http://twitter.com/search?q=huruf+r) | N/A |
-| 47 | [spain](http://twitter.com/search?q=spain) | N/A |
-| 48 | [relis](http://twitter.com/search?q=relis) | N/A |
-| 49 | [optimis](http://twitter.com/search?q=optimis) | N/A |
+| 4 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
+| 5 | [#BrightWin](http://twitter.com/search?q=%23BrightWin) | N/A |
+| 6 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
+| 7 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
+| 8 | [Babah](http://twitter.com/search?q=Babah) | N/A |
+| 9 | [BOBBY DROWNING MV TEASER](http://twitter.com/search?q=BOBBY+DROWNING+MV+TEASER) | N/A |
+| 10 | [Ahsan](http://twitter.com/search?q=Ahsan) | N/A |
+| 11 | [Terima Kasih Erigo](http://twitter.com/search?q=Terima+Kasih+Erigo) | N/A |
+| 12 | [Tontonan Hari Ramadan](http://twitter.com/search?q=Tontonan+Hari+Ramadan) | N/A |
+| 13 | [Semoga Sukses Selalu](http://twitter.com/search?q=Semoga+Sukses+Selalu) | N/A |
+| 14 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 15 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 16 | [LeoNiel](http://twitter.com/search?q=LeoNiel) | N/A |
+| 17 | [Wang Chang](http://twitter.com/search?q=Wang+Chang) | N/A |
+| 18 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 20 | [Liang](http://twitter.com/search?q=Liang) | N/A |
+| 21 | [JAKARTA LUMPUR](http://twitter.com/search?q=JAKARTA+LUMPUR) | N/A |
+| 22 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 23 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
+| 24 | [Saykoji](http://twitter.com/search?q=Saykoji) | N/A |
+| 25 | [Fase](http://twitter.com/search?q=Fase) | N/A |
+| 26 | [PriFad](http://twitter.com/search?q=PriFad) | N/A |
+| 27 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 28 | [Apri](http://twitter.com/search?q=Apri) | N/A |
+| 29 | [Kaktus](http://twitter.com/search?q=Kaktus) | N/A |
+| 30 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
+| 31 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 34 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 35 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 36 | [Gempa](http://twitter.com/search?q=Gempa) | N/A |
+| 37 | [Fadia](http://twitter.com/search?q=Fadia) | Fadia is an Arabic name meaning “redemption” or “salvation.” It is also a variant of the name Fadya, which has the same meaning. |
+| 38 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 39 | [giselle](http://twitter.com/search?q=giselle) | N/A |
+| 40 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
+| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 43 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 44 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 45 | [Optimis](http://twitter.com/search?q=Optimis) | N/A |
+| 46 | [Huruf R](http://twitter.com/search?q=Huruf+R) | N/A |
+| 47 | [Ketemu](http://twitter.com/search?q=Ketemu) | N/A |
+| 48 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 49 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
 
 
 

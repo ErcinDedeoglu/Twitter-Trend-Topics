@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-03-17 16:16:40 UTC`
+📆 Last Updated: `2023-03-17 17:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 2 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 3 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 4 | [Bouygues](http://twitter.com/search?q=Bouygues) | N/A |
-| 5 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 6 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 7 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 8 | [#LOLQuiRitSort3](http://twitter.com/search?q=%23LOLQuiRitSort3) | N/A |
-| 9 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 12 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 13 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 14 | [La Cour](http://twitter.com/search?q=La+Cour) | N/A |
-| 15 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 16 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 17 | [City Bayern](http://twitter.com/search?q=City+Bayern) | N/A |
-| 18 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 19 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 21 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 22 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 23 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 24 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
-| 25 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
-| 26 | [Réal](http://twitter.com/search?q=R%c3%a9al) | N/A |
-| 27 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 28 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 29 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 30 | [Occupe](http://twitter.com/search?q=Occupe) | N/A |
-| 31 | [L'Inter](http://twitter.com/search?q=L%27Inter) | N/A |
-| 32 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 33 | [La République](http://twitter.com/search?q=La+R%c3%a9publique) | N/A |
-| 34 | [Sarkozy](http://twitter.com/search?q=Sarkozy) | N/A |
-| 35 | [L'album de Zola](http://twitter.com/search?q=L%27album+de+Zola) | N/A |
-| 36 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 37 | [Michel Rocard](http://twitter.com/search?q=Michel+Rocard) | N/A |
-| 38 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
-| 39 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 40 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 41 | [#SaintPatricksDay](http://twitter.com/search?q=%23SaintPatricksDay) | N/A |
-| 42 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
-| 43 | [#ToutCramer](http://twitter.com/search?q=%23ToutCramer) | N/A |
-| 44 | [#Macronestuneordure](http://twitter.com/search?q=%23Macronestuneordure) | N/A |
-| 45 | [#greve17mars](http://twitter.com/search?q=%23greve17mars) | N/A |
-| 46 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 1 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
+| 2 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 3 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 4 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 5 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 6 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 7 | [Cour](http://twitter.com/search?q=Cour) | N/A |
+| 8 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
+| 9 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 10 | [Bouygues](http://twitter.com/search?q=Bouygues) | N/A |
+| 11 | [#LOLQuiRitSort3](http://twitter.com/search?q=%23LOLQuiRitSort3) | N/A |
+| 12 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 13 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
+| 14 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 15 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
+| 18 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 19 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
+| 20 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 21 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 22 | [City Bayern](http://twitter.com/search?q=City+Bayern) | N/A |
+| 23 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 25 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 26 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
+| 27 | [Peugeot](http://twitter.com/search?q=Peugeot) | N/A |
+| 28 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 30 | [Sarkozy](http://twitter.com/search?q=Sarkozy) | N/A |
+| 31 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 32 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 33 | [Réal](http://twitter.com/search?q=R%c3%a9al) | N/A |
+| 34 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
+| 35 | [Occupe](http://twitter.com/search?q=Occupe) | N/A |
+| 36 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 37 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 38 | [Chloé](http://twitter.com/search?q=Chlo%c3%a9) | N/A |
+| 39 | [La République](http://twitter.com/search?q=La+R%c3%a9publique) | N/A |
+| 40 | [L'album de Zola](http://twitter.com/search?q=L%27album+de+Zola) | N/A |
+| 41 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 42 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 43 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
+| 44 | [#1000MSebring](http://twitter.com/search?q=%231000MSebring) | N/A |
+| 45 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 46 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
+| 47 | [#Macronestuneordure](http://twitter.com/search?q=%23Macronestuneordure) | N/A |
+| 48 | [#greve17mars](http://twitter.com/search?q=%23greve17mars) | N/A |
+| 49 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
 
 
 

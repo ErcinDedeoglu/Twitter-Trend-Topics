@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-03-17 16:16:45 UTC`
+📆 Last Updated: `2023-03-17 17:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SVGala3](http://twitter.com/search?q=%23SVGala3) | N/A |
-| 2 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 2 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
+| 3 | [#ResidentReseñasOca](http://twitter.com/search?q=%23ResidentRese%c3%b1asOca) | N/A |
 | 4 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 5 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 8 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 9 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
-| 10 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 11 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 12 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 13 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 14 | [Bryan Gil](http://twitter.com/search?q=Bryan+Gil) | Bryan Gil is a Spanish professional footballer who plays as a winger for Real Madrid. He is known for his speed, dribbling ability, and crossing. His name is often used as a slang term in Spanish to describe someone who is fast and skillful. |
-| 15 | [#DiadelComicydelTebeo](http://twitter.com/search?q=%23DiadelComicydelTebeo) | N/A |
-| 16 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 17 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 19 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 20 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
-| 21 | [Gabri Veiga](http://twitter.com/search?q=Gabri+Veiga) | Gabri Veiga is a Portuguese name. It is derived from the Hebrew name Gabriel, which means "God is my strength". |
-| 22 | [Llorente](http://twitter.com/search?q=Llorente) | Llorente is a Spanish surname derived from the name of a place in Spain. It is derived from the Latin word Laurentius, which means "from Laurentum". In English, it can be translated to mean "from Laurentum". |
-| 23 | [Libres 1](http://twitter.com/search?q=Libres+1) | N/A |
-| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 25 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 26 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 28 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
-| 29 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 30 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 31 | [Fabián](http://twitter.com/search?q=Fabi%c3%a1n) | N/A |
-| 32 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 33 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
-| 34 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 35 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 36 | [Marina Yers](http://twitter.com/search?q=Marina+Yers) | N/A |
-| 37 | [David García](http://twitter.com/search?q=David+Garc%c3%ada) | N/A |
-| 38 | [Eurocopa](http://twitter.com/search?q=Eurocopa) | N/A |
-| 39 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 40 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 7 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
+| 8 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 9 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 12 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 13 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
+| 14 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 15 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
+| 16 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
+| 17 | [#DiadelComicydelTebeo](http://twitter.com/search?q=%23DiadelComicydelTebeo) | N/A |
+| 18 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 19 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 20 | [Bryan Gil](http://twitter.com/search?q=Bryan+Gil) | Bryan Gil is a Spanish professional footballer who plays as a winger for Real Madrid. He is known for his speed, dribbling ability, and crossing. His name is often used as a slang term in Spanish to describe someone who is fast and skillful. |
+| 21 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 22 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 23 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 26 | [Libres 1](http://twitter.com/search?q=Libres+1) | N/A |
+| 27 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 28 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
+| 29 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 30 | [Llorente](http://twitter.com/search?q=Llorente) | Llorente is a Spanish surname derived from the name of a place in Spain. It is derived from the Latin word Laurentius, which means "from Laurentum". In English, it can be translated to mean "from Laurentum". |
+| 31 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 32 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 33 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 35 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
+| 36 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 37 | [Gabri Veiga](http://twitter.com/search?q=Gabri+Veiga) | Gabri Veiga is a Portuguese name. It is derived from the Hebrew name Gabriel, which means "God is my strength". |
+| 38 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 40 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
 | 41 | [Lobi](http://twitter.com/search?q=Lobi) | N/A |
-| 42 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 43 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
-| 44 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 45 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 46 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 47 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 48 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 42 | [Rafa Castaño](http://twitter.com/search?q=Rafa+Casta%c3%b1o) | N/A |
+| 43 | [Fabián](http://twitter.com/search?q=Fabi%c3%a1n) | N/A |
+| 44 | [Rafael Amargo](http://twitter.com/search?q=Rafael+Amargo) | N/A |
+| 45 | [Marina Yers](http://twitter.com/search?q=Marina+Yers) | N/A |
+| 46 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 47 | [David García](http://twitter.com/search?q=David+Garc%c3%ada) | N/A |
 
 
 

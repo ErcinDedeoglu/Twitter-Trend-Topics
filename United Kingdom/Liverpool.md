@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-03-17 16:16:30 UTC`
+📆 Last Updated: `2023-03-17 17:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ron Martin](http://twitter.com/search?q=Ron+Martin) | N/A |
-| 2 | [The Irish](http://twitter.com/search?q=The+Irish) | N/A |
-| 3 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 4 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 5 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
-| 6 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 7 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 8 | [#ShazamFuryOfTheGods](http://twitter.com/search?q=%23ShazamFuryOfTheGods) | N/A |
-| 9 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 10 | [#TowergateChick](http://twitter.com/search?q=%23TowergateChick) | N/A |
-| 11 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 12 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 13 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 14 | [Forde](http://twitter.com/search?q=Forde) | N/A |
-| 15 | [#BritishBookAwards](http://twitter.com/search?q=%23BritishBookAwards) | N/A |
-| 16 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 17 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
-| 18 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 19 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 20 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
-| 21 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
-| 22 | [Corbetts Cross](http://twitter.com/search?q=Corbetts+Cross) | N/A |
-| 23 | [Stay Away Fay](http://twitter.com/search?q=Stay+Away+Fay) | N/A |
-| 24 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
-| 25 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 27 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 28 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
-| 29 | [Hewick](http://twitter.com/search?q=Hewick) | N/A |
-| 30 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 33 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 34 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
-| 35 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 36 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 37 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 38 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
-| 39 | [Lossiemouth](http://twitter.com/search?q=Lossiemouth) | N/A |
-| 40 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 41 | [Jacqueline Gold](http://twitter.com/search?q=Jacqueline+Gold) | N/A |
-| 42 | [St George](http://twitter.com/search?q=St+George) | N/A |
-| 43 | [Dalian Atkinson](http://twitter.com/search?q=Dalian+Atkinson) | N/A |
-| 44 | [Mark Walsh](http://twitter.com/search?q=Mark+Walsh) | N/A |
-| 45 | [Katelyn](http://twitter.com/search?q=Katelyn) | N/A |
-| 46 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 48 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 49 | [triumph hurdle](http://twitter.com/search?q=triumph+hurdle) | N/A |
-| 50 | [Pied Piper](http://twitter.com/search?q=Pied+Piper) | N/A |
+| 2 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 3 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 4 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
+| 5 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 6 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 7 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
+| 8 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 10 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 11 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 12 | [#TowergateChick](http://twitter.com/search?q=%23TowergateChick) | N/A |
+| 13 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 15 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
+| 16 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 17 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 18 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 19 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 20 | [#fundraising](http://twitter.com/search?q=%23fundraising) | N/A |
+| 21 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 22 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 23 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
+| 24 | [#FreePC](http://twitter.com/search?q=%23FreePC) | N/A |
+| 25 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
+| 26 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 27 | [Premier Magic](http://twitter.com/search?q=Premier+Magic) | N/A |
+| 28 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 29 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
+| 30 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 31 | [Corbetts Cross](http://twitter.com/search?q=Corbetts+Cross) | N/A |
+| 32 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 33 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 34 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 35 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 36 | [Stay Away Fay](http://twitter.com/search?q=Stay+Away+Fay) | N/A |
+| 37 | [Impervious](http://twitter.com/search?q=Impervious) | N/A |
+| 38 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 40 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 41 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
+| 42 | [Hewick](http://twitter.com/search?q=Hewick) | N/A |
+| 43 | [St George](http://twitter.com/search?q=St+George) | N/A |
+| 44 | [Dalian Atkinson](http://twitter.com/search?q=Dalian+Atkinson) | N/A |
+| 45 | [Andrew Bridgen](http://twitter.com/search?q=Andrew+Bridgen) | Andrew Bridgen is a British Conservative Party politician who has been the Member of Parliament (MP) for North West Leicestershire since 2010. He is a prominent Brexiteer and has been an outspoken critic of the European Union. |
+| 46 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
+| 47 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
+| 48 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 49 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 50 | [Billaway](http://twitter.com/search?q=Billaway) | N/A |
 
 
 

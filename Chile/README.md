@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-17 16:17:16 UTC`
+📆 Last Updated: `2023-03-17 17:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 2 | [#SuperFinalYoSoy](http://twitter.com/search?q=%23SuperFinalYoSoy) | N/A |
-| 3 | [#100indecisos](http://twitter.com/search?q=%23100indecisos) | N/A |
-| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 2 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 3 | [#SuperFinalYoSoy](http://twitter.com/search?q=%23SuperFinalYoSoy) | N/A |
+| 4 | [#100indecisos](http://twitter.com/search?q=%23100indecisos) | N/A |
 | 5 | [#almanegratvn](http://twitter.com/search?q=%23almanegratvn) | N/A |
 | 6 | [Claudia Cancino](http://twitter.com/search?q=Claudia+Cancino) | N/A |
-| 7 | [#ElNoMatinalDeRadioZeta](http://twitter.com/search?q=%23ElNoMatinalDeRadioZeta) | N/A |
+| 7 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
 | 8 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 9 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
-| 10 | [Fonasa](http://twitter.com/search?q=Fonasa) | N/A |
-| 11 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 12 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 9 | [Fonasa](http://twitter.com/search?q=Fonasa) | N/A |
+| 10 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
+| 11 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 12 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 14 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 19 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
-| 20 | [El Bosque](http://twitter.com/search?q=El+Bosque) | N/A |
-| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 22 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 23 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
-| 24 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
-| 25 | [Laura Pausini](http://twitter.com/search?q=Laura+Pausini) | N/A |
-| 26 | [Aló Presidente](http://twitter.com/search?q=Al%c3%b3+Presidente) | N/A |
-| 27 | [18-O](http://twitter.com/search?q=18-O) | N/A |
+| 15 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 16 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
+| 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 21 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 22 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
+| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 24 | [El Bosque](http://twitter.com/search?q=El+Bosque) | N/A |
+| 25 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
+| 26 | [Laura Pausini](http://twitter.com/search?q=Laura+Pausini) | N/A |
+| 27 | [Aló Presidente](http://twitter.com/search?q=Al%c3%b3+Presidente) | N/A |
 | 28 | [Pisagua](http://twitter.com/search?q=Pisagua) | N/A |
-| 29 | [Insulza](http://twitter.com/search?q=Insulza) | N/A |
-| 30 | [ISAPRE](http://twitter.com/search?q=ISAPRE) | N/A |
-| 31 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 32 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 34 | [Reloj de Flores](http://twitter.com/search?q=Reloj+de+Flores) | N/A |
+| 29 | [18-O](http://twitter.com/search?q=18-O) | N/A |
+| 30 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 31 | [Isapre](http://twitter.com/search?q=Isapre) | N/A |
+| 32 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 33 | [Insulza](http://twitter.com/search?q=Insulza) | N/A |
+| 34 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 35 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
-| 36 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 37 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 38 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 39 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 40 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 41 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 42 | [Santino](http://twitter.com/search?q=Santino) | N/A |
-| 43 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 44 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
-| 45 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 46 | [Ricardo Nuñez](http://twitter.com/search?q=Ricardo+Nu%c3%b1ez) | N/A |
-| 47 | [Alejandra Guzmán](http://twitter.com/search?q=Alejandra+Guzm%c3%a1n) | N/A |
-| 48 | [Enrique Iglesias](http://twitter.com/search?q=Enrique+Iglesias) | N/A |
-| 49 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 50 | [Gracias Mario](http://twitter.com/search?q=Gracias+Mario) | N/A |
+| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 37 | [Concejala](http://twitter.com/search?q=Concejala) | N/A |
+| 38 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 39 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 40 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
+| 41 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 42 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
+| 43 | [Reloj de Flores](http://twitter.com/search?q=Reloj+de+Flores) | N/A |
+| 44 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 45 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 46 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 47 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 48 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 49 | [Alejandra Guzmán](http://twitter.com/search?q=Alejandra+Guzm%c3%a1n) | N/A |
+| 50 | [Enrique Iglesias](http://twitter.com/search?q=Enrique+Iglesias) | N/A |
 
 
 

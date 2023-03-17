@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kobe
 
-📆 Last Updated: `2023-03-17 16:16:50 UTC`
+📆 Last Updated: `2023-03-17 17:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ハリーポッター](http://twitter.com/search?q=%e3%83%8f%e3%83%aa%e3%83%bc%e3%83%9d%e3%83%83%e3%82%bf%e3%83%bc) | N/A |
-| 2 | [#これを言ってくるやつは信じるな](http://twitter.com/search?q=%23%e3%81%93%e3%82%8c%e3%82%92%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%8f%e3%82%8b%e3%82%84%e3%81%a4%e3%81%af%e4%bf%a1%e3%81%98%e3%82%8b%e3%81%aa) | N/A |
-| 3 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
-| 4 | [#FGO](http://twitter.com/search?q=%23FGO) | #FGO stands for Fate/Grand Order, a popular Japanese mobile game. It is an online, free-to-play role-playing game based on the Fate/stay night visual novel game and franchise by Type-Moon. |
-| 5 | [#わたしの幸せな結婚](http://twitter.com/search?q=%23%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e5%b9%b8%e3%81%9b%e3%81%aa%e7%b5%90%e5%a9%9a) | N/A |
-| 6 | [アルマゲドン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%9e%e3%82%b2%e3%83%89%e3%83%b3) | N/A |
-| 7 | [#ツイステ](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%82%b9%e3%83%86) | N/A |
-| 8 | [仮面ライダー](http://twitter.com/search?q=%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 9 | [イルデ3周年](http://twitter.com/search?q=%e3%82%a4%e3%83%ab%e3%83%873%e5%91%a8%e5%b9%b4) | N/A |
-| 10 | [ポケモンマスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 11 | [#金ドラ100よか](http://twitter.com/search?q=%23%e9%87%91%e3%83%89%e3%83%a9100%e3%82%88%e3%81%8b) | #金ドラ100よか is a hashtag used on Twitter in Japan. It roughly translates to "Gold Dragon 100 is good". It is used to express approval or praise for the Gold Dragon 100, a Japanese brand of cigarettes. |
+| 1 | [炎のゴブレット](http://twitter.com/search?q=%e7%82%8e%e3%81%ae%e3%82%b4%e3%83%96%e3%83%ac%e3%83%83%e3%83%88) | N/A |
+| 2 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
+| 3 | [#FGO](http://twitter.com/search?q=%23FGO) | #FGO stands for Fate/Grand Order, a popular Japanese mobile game. It is an online, free-to-play role-playing game based on the Fate/stay night visual novel game and franchise by Type-Moon. |
+| 4 | [#ツイステ](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%82%b9%e3%83%86) | N/A |
+| 5 | [アルマゲドン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%9e%e3%82%b2%e3%83%89%e3%83%b3) | N/A |
+| 6 | [仮面ライダー](http://twitter.com/search?q=%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
+| 7 | [#フロイニ](http://twitter.com/search?q=%23%e3%83%95%e3%83%ad%e3%82%a4%e3%83%8b) | #フロイニ is a hashtag used on social media in Japan. It is a combination of the words "flower" and "nyan" (the Japanese word for meow), and it is used to express appreciation for flowers and plants. In English, it could be translated as "#FlowerMeow". |
+| 8 | [イルデ3周年](http://twitter.com/search?q=%e3%82%a4%e3%83%ab%e3%83%873%e5%91%a8%e5%b9%b4) | N/A |
+| 9 | [ポケモンマスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 10 | [#上様とお祭りじゃんけん](http://twitter.com/search?q=%23%e4%b8%8a%e6%a7%98%e3%81%a8%e3%81%8a%e7%a5%ad%e3%82%8a%e3%81%98%e3%82%83%e3%82%93%e3%81%91%e3%82%93) | N/A |
+| 11 | [#はじめてさんいらっしゃ〜い](http://twitter.com/search?q=%23%e3%81%af%e3%81%98%e3%82%81%e3%81%a6%e3%81%95%e3%82%93%e3%81%84%e3%82%89%e3%81%a3%e3%81%97%e3%82%83%e3%80%9c%e3%81%84) | N/A |
 | 12 | [応援上映](http://twitter.com/search?q=%e5%bf%9c%e6%8f%b4%e4%b8%8a%e6%98%a0) | N/A |
 | 13 | [松本梨香](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e6%a2%a8%e9%a6%99) | N/A |
-| 14 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 15 | [with my friends](http://twitter.com/search?q=with+my+friends) | N/A |
-| 16 | [THE FIRST TAKE](http://twitter.com/search?q=THE+FIRST+TAKE) | The First Take is a phrase used to describe the initial recording of a song or performance. It is often used to refer to the first attempt at recording a song, which is usually considered to be the best take. The phrase can also be used to refer to any initial attempt at something, such as the first draft of a paper or the first try at a new skill. |
-| 17 | [グルーヴィー](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%b4%e3%82%a3%e3%83%bc) | N/A |
-| 18 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
+| 14 | [国際刑事裁判所](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e5%88%91%e4%ba%8b%e8%a3%81%e5%88%a4%e6%89%80) | N/A |
+| 15 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 16 | [with my friends](http://twitter.com/search?q=with+my+friends) | N/A |
+| 17 | [THE FIRST TAKE](http://twitter.com/search?q=THE+FIRST+TAKE) | The First Take is a phrase used to describe the initial recording of a song or performance. It is often used to refer to the first attempt at recording a song, which is usually considered to be the best take. The phrase can also be used to refer to any initial attempt at something, such as the first draft of a paper or the first try at a new skill. |
+| 18 | [グルーヴィー](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%b4%e3%82%a3%e3%83%bc) | N/A |
 | 19 | [最後のマブ](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e3%83%9e%e3%83%96) | N/A |
-| 20 | [第421回](http://twitter.com/search?q=%e7%ac%ac421%e5%9b%9e) | N/A |
-| 21 | [リズミック](http://twitter.com/search?q=%e3%83%aa%e3%82%ba%e3%83%9f%e3%83%83%e3%82%af) | N/A |
-| 22 | [メビウスの輪](http://twitter.com/search?q=%e3%83%a1%e3%83%93%e3%82%a6%e3%82%b9%e3%81%ae%e8%bc%aa) | N/A |
+| 20 | [リズミック](http://twitter.com/search?q=%e3%83%aa%e3%82%ba%e3%83%9f%e3%83%83%e3%82%af) | N/A |
+| 21 | [第421回](http://twitter.com/search?q=%e7%ac%ac421%e5%9b%9e) | N/A |
+| 22 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
 | 23 | [ファーストテイク](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e3%83%86%e3%82%a4%e3%82%af) | ファーストテイク (Fāsuto Teiku) is a Japanese phrase that literally translates to "first take." It is used to refer to the first attempt at doing something, such as the first take of a film or recording. It can also be used to refer to the first try at a task or activity. |
-| 24 | [国際刑事裁判所](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e5%88%91%e4%ba%8b%e8%a3%81%e5%88%a4%e6%89%80) | N/A |
-| 25 | [高杉さん](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e3%81%95%e3%82%93) | N/A |
+| 24 | [ヴィル様](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%ab%e6%a7%98) | N/A |
+| 25 | [メビウスの輪](http://twitter.com/search?q=%e3%83%a1%e3%83%93%e3%82%a6%e3%82%b9%e3%81%ae%e8%bc%aa) | N/A |
 | 26 | [Official Teaser 1](http://twitter.com/search?q=Official+Teaser+1) | N/A |
-| 27 | [ヴィル様](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%ab%e6%a7%98) | N/A |
+| 27 | [ジャックジャンヌ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8c) | N/A |
 | 28 | [最後のしょせ](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e3%81%97%e3%82%87%e3%81%9b) | N/A |
-| 29 | [高杉社長](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e7%a4%be%e9%95%b7) | N/A |
-| 30 | [緑川さん](http://twitter.com/search?q=%e7%b7%91%e5%b7%9d%e3%81%95%e3%82%93) | N/A |
-| 31 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
-| 32 | [魚住さん](http://twitter.com/search?q=%e9%ad%9a%e4%bd%8f%e3%81%95%e3%82%93) | N/A |
-| 33 | [ジャックジャンヌ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8c) | N/A |
-| 34 | [セドリック](http://twitter.com/search?q=%e3%82%bb%e3%83%89%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 29 | [高杉さん](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e3%81%95%e3%82%93) | N/A |
+| 30 | [プーチン大統領](http://twitter.com/search?q=%e3%83%97%e3%83%bc%e3%83%81%e3%83%b3%e5%a4%a7%e7%b5%b1%e9%a0%98) | N/A |
+| 31 | [緑川さん](http://twitter.com/search?q=%e7%b7%91%e5%b7%9d%e3%81%95%e3%82%93) | N/A |
+| 32 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 33 | [グルビ絵](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%93%e7%b5%b5) | N/A |
+| 34 | [高杉社長](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e7%a4%be%e9%95%b7) | N/A |
 | 35 | [グリちゃん](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 36 | [マジカルペンライト](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%82%ab%e3%83%ab%e3%83%9a%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
-| 37 | [グルビ絵](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%93%e7%b5%b5) | N/A |
-| 38 | [一文字隼人](http://twitter.com/search?q=%e4%b8%80%e6%96%87%e5%ad%97%e9%9a%bc%e4%ba%ba) | N/A |
-| 39 | [ロスインゴ](http://twitter.com/search?q=%e3%83%ad%e3%82%b9%e3%82%a4%e3%83%b3%e3%82%b4) | N/A |
-| 40 | [ついちゃん](http://twitter.com/search?q=%e3%81%a4%e3%81%84%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 41 | [ハリポタ](http://twitter.com/search?q=%e3%83%8f%e3%83%aa%e3%83%9d%e3%82%bf) | N/A |
-| 42 | [庵野秀明](http://twitter.com/search?q=%e5%ba%b5%e9%87%8e%e7%a7%80%e6%98%8e) | N/A |
-| 43 | [手取り10割](http://twitter.com/search?q=%e6%89%8b%e5%8f%96%e3%82%8a10%e5%89%b2) | N/A |
-| 44 | [アルトマーレ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%88%e3%83%9e%e3%83%bc%e3%83%ac) | N/A |
-| 45 | [浜辺美波](http://twitter.com/search?q=%e6%b5%9c%e8%be%ba%e7%be%8e%e6%b3%a2) | N/A |
-| 46 | [グルヴィ](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%b4%e3%82%a3) | N/A |
-| 47 | [インフォーマ](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e) | N/A |
-| 48 | [ブルース・ウィリス](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b9%e3%83%bb%e3%82%a6%e3%82%a3%e3%83%aa%e3%82%b9) | N/A |
-| 49 | [ウルトラマン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
-| 50 | [炎のゴブレット](http://twitter.com/search?q=%e7%82%8e%e3%81%ae%e3%82%b4%e3%83%96%e3%83%ac%e3%83%83%e3%83%88) | N/A |
+| 36 | [ジャニー氏](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e6%b0%8f) | N/A |
+| 37 | [マジカルペンライト](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%82%ab%e3%83%ab%e3%83%9a%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
+| 38 | [魚住さん](http://twitter.com/search?q=%e9%ad%9a%e4%bd%8f%e3%81%95%e3%82%93) | N/A |
+| 39 | [BBC番組制作者](http://twitter.com/search?q=BBC%e7%95%aa%e7%b5%84%e5%88%b6%e4%bd%9c%e8%80%85) | N/A |
+| 40 | [グルヴィ](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%b4%e3%82%a3) | N/A |
+| 41 | [手取り10割](http://twitter.com/search?q=%e6%89%8b%e5%8f%96%e3%82%8a10%e5%89%b2) | N/A |
+| 42 | [一文字隼人](http://twitter.com/search?q=%e4%b8%80%e6%96%87%e5%ad%97%e9%9a%bc%e4%ba%ba) | N/A |
+| 43 | [ウルトラマン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
+| 44 | [庵野秀明](http://twitter.com/search?q=%e5%ba%b5%e9%87%8e%e7%a7%80%e6%98%8e) | N/A |
+| 45 | [司法と大手メディア](http://twitter.com/search?q=%e5%8f%b8%e6%b3%95%e3%81%a8%e5%a4%a7%e6%89%8b%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2) | N/A |
+| 46 | [ついちゃん](http://twitter.com/search?q=%e3%81%a4%e3%81%84%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 47 | [ディアブロ4](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%a2%e3%83%96%e3%83%ad4) | N/A |
+| 48 | [ロスインゴ](http://twitter.com/search?q=%e3%83%ad%e3%82%b9%e3%82%a4%e3%83%b3%e3%82%b4) | N/A |
+| 49 | [アルトマーレ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%88%e3%83%9e%e3%83%bc%e3%83%ac) | N/A |
+| 50 | [浜辺美波](http://twitter.com/search?q=%e6%b5%9c%e8%be%ba%e7%be%8e%e6%b3%a2) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-17 16:17:07 UTC`
+📆 Last Updated: `2023-03-17 17:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Patriots](http://twitter.com/search?q=%23Patriots) | N/A |
-| 2 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 3 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 4 | [#LUNATICSTOKEN](http://twitter.com/search?q=%23LUNATICSTOKEN) | N/A |
-| 5 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 6 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 7 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 8 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 9 | [#LuckoftheIrish](http://twitter.com/search?q=%23LuckoftheIrish) | N/A |
-| 10 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 11 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 12 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 13 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 14 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
-| 15 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 16 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
-| 17 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 18 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 21 | [Gesicki](http://twitter.com/search?q=Gesicki) | N/A |
-| 22 | [Banners](http://twitter.com/search?q=Banners) | N/A |
-| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 24 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 25 | [Isaiah McKenzie](http://twitter.com/search?q=Isaiah+McKenzie) | N/A |
-| 26 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 27 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
-| 28 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 29 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 30 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 31 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 32 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
-| 33 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
-| 34 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 35 | [Rachel Levine](http://twitter.com/search?q=Rachel+Levine) | N/A |
-| 36 | [Erin Go Bragh](http://twitter.com/search?q=Erin+Go+Bragh) | N/A |
-| 37 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 38 | [John Paul Mac Isaac](http://twitter.com/search?q=John+Paul+Mac+Isaac) | N/A |
-| 39 | [Nat King Cole](http://twitter.com/search?q=Nat+King+Cole) | N/A |
-| 40 | [Russian Disinformation](http://twitter.com/search?q=Russian+Disinformation) | N/A |
-| 41 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 42 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 43 | [Irish American](http://twitter.com/search?q=Irish+American) | N/A |
-| 44 | [Donald Glover](http://twitter.com/search?q=Donald+Glover) | N/A |
-| 45 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 46 | [Slainte](http://twitter.com/search?q=Slainte) | N/A |
-| 47 | [Top O](http://twitter.com/search?q=Top+O) | N/A |
-| 48 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
-| 49 | [USC ML](http://twitter.com/search?q=USC+ML) | N/A |
-| 50 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 2 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 3 | [#LUNATICSTOKEN](http://twitter.com/search?q=%23LUNATICSTOKEN) | N/A |
+| 4 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 5 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
+| 6 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 7 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 8 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 9 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 10 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 11 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
+| 12 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 13 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 14 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 15 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 16 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 17 | [Lil Dirty](http://twitter.com/search?q=Lil+Dirty) | N/A |
+| 18 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 19 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
+| 20 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 21 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
+| 22 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 23 | [Isaiah McKenzie](http://twitter.com/search?q=Isaiah+McKenzie) | N/A |
+| 24 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 25 | [Banners](http://twitter.com/search?q=Banners) | N/A |
+| 26 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
+| 27 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 28 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
+| 29 | [Mady](http://twitter.com/search?q=Mady) | N/A |
+| 30 | [Akins](http://twitter.com/search?q=Akins) | N/A |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 32 | [Sissoko](http://twitter.com/search?q=Sissoko) | N/A |
+| 33 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
+| 34 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 35 | [Jameson](http://twitter.com/search?q=Jameson) | N/A |
+| 36 | [End Of The World](http://twitter.com/search?q=End+Of+The+World) | N/A |
+| 37 | [Erin](http://twitter.com/search?q=Erin) | N/A |
+| 38 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 39 | [Joy Ride](http://twitter.com/search?q=Joy+Ride) | N/A |
+| 40 | [Tom MacDonald](http://twitter.com/search?q=Tom+MacDonald) | N/A |
+| 41 | [Russian Disinformation](http://twitter.com/search?q=Russian+Disinformation) | N/A |
+| 42 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
+| 43 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 44 | [Gesicki](http://twitter.com/search?q=Gesicki) | N/A |
+| 45 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
+| 46 | [Rome Statute](http://twitter.com/search?q=Rome+Statute) | N/A |
+| 47 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 48 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 49 | [John Rich](http://twitter.com/search?q=John+Rich) | N/A |
+| 50 | [#MatchDay](http://twitter.com/search?q=%23MatchDay) | N/A |
 
 
 
