@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-17 17:16:21 UTC`
+📆 Last Updated: `2023-03-17 18:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,39 +18,40 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 2 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
 | 3 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 4 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 5 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 6 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 4 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 5 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 6 | [PGWP](http://twitter.com/search?q=PGWP) | N/A |
 | 7 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 | 8 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 9 | [#LuckoftheIrish](http://twitter.com/search?q=%23LuckoftheIrish) | N/A |
-| 10 | [PGWP](http://twitter.com/search?q=PGWP) | N/A |
-| 11 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
+| 9 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
+| 10 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 11 | [#luckoftheirish](http://twitter.com/search?q=%23luckoftheirish) | N/A |
 | 12 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
 | 13 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 14 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 15 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
-| 16 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 17 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 18 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 20 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 21 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
-| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 24 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 26 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 27 | [Claude Fournier](http://twitter.com/search?q=Claude+Fournier) | N/A |
+| 14 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 15 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 16 | [#Diablo4](http://twitter.com/search?q=%23Diablo4) | N/A |
+| 17 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
+| 18 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 19 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
+| 20 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 21 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 22 | [Guelph](http://twitter.com/search?q=Guelph) | N/A |
+| 23 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 24 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 25 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [Jared](http://twitter.com/search?q=Jared) | N/A |
 | 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 29 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 31 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 32 | [#TrudeauChineseElect](http://twitter.com/search?q=%23TrudeauChineseElect) | N/A |
-| 33 | [#FurnalEquinox](http://twitter.com/search?q=%23FurnalEquinox) | N/A |
-| 34 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
-| 35 | [#Furnal2023](http://twitter.com/search?q=%23Furnal2023) | N/A |
-| 36 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 29 | [Gerald](http://twitter.com/search?q=Gerald) | N/A |
+| 30 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 31 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 32 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 33 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
+| 34 | [#TrudeauChineseElect](http://twitter.com/search?q=%23TrudeauChineseElect) | N/A |
+| 35 | [#furnalequinox2023](http://twitter.com/search?q=%23furnalequinox2023) | N/A |
+| 36 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 37 | [#Furnal2023](http://twitter.com/search?q=%23Furnal2023) | N/A |
 
 
 

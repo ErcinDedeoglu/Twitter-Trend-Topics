@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-17 17:16:31 UTC`
+📆 Last Updated: `2023-03-17 18:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 2 | [Leandro](http://twitter.com/search?q=Leandro) | N/A |
-| 3 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
+| 1 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
+| 2 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 3 | [Leandro](http://twitter.com/search?q=Leandro) | N/A |
 | 4 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 5 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 6 | [#LUNATICSTOKEN](http://twitter.com/search?q=%23LUNATICSTOKEN) | N/A |
+| 5 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
+| 6 | [Lucas Leiva](http://twitter.com/search?q=Lucas+Leiva) | N/A |
 | 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 9 | [#DiaDoFãMeM](http://twitter.com/search?q=%23DiaDoF%c3%a3MeM) | N/A |
-| 10 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
-| 11 | [Tribunal Penal Internacional](http://twitter.com/search?q=Tribunal+Penal+Internacional) | N/A |
-| 12 | [#OnTheWayToAbidjan](http://twitter.com/search?q=%23OnTheWayToAbidjan) | N/A |
-| 13 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 14 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 15 | [ASSISTA DECRETOS REAIS 3](http://twitter.com/search?q=ASSISTA+DECRETOS+REAIS+3) | N/A |
-| 16 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 17 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
-| 18 | [Representam](http://twitter.com/search?q=Representam) | N/A |
-| 19 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
-| 20 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 21 | [Haia](http://twitter.com/search?q=Haia) | N/A |
-| 22 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 23 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 24 | [Edir Macedo](http://twitter.com/search?q=Edir+Macedo) | N/A |
-| 25 | [Pituca](http://twitter.com/search?q=Pituca) | N/A |
-| 26 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
-| 27 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 28 | [SAPATO MERECE RESPEITO](http://twitter.com/search?q=SAPATO+MERECE+RESPEITO) | N/A |
-| 29 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 30 | [FIES](http://twitter.com/search?q=FIES) | FIES stands for the Brazilian Federal Student Aid Program. It is a government program that provides financial aid to students in Brazil who are enrolled in higher education. The program helps students pay for tuition, books, and other educational expenses. |
-| 31 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 32 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 33 | [Alameda](http://twitter.com/search?q=Alameda) | N/A |
-| 34 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 35 | [Aracaju](http://twitter.com/search?q=Aracaju) | N/A |
-| 36 | [wagner moura](http://twitter.com/search?q=wagner+moura) | N/A |
-| 37 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
-| 38 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
-| 39 | [São Patrício](http://twitter.com/search?q=S%c3%a3o+Patr%c3%adcio) | N/A |
-| 40 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 41 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 42 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
+| 9 | [FIES](http://twitter.com/search?q=FIES) | FIES stands for the Brazilian Federal Student Aid Program. It is a government program that provides financial aid to students in Brazil who are enrolled in higher education. The program helps students pay for tuition, books, and other educational expenses. |
+| 10 | [Tribunal Penal Internacional](http://twitter.com/search?q=Tribunal+Penal+Internacional) | N/A |
+| 11 | [#DiaDoFãMeM](http://twitter.com/search?q=%23DiaDoF%c3%a3MeM) | N/A |
+| 12 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
+| 13 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
+| 14 | [Haia](http://twitter.com/search?q=Haia) | N/A |
+| 15 | [#OnTheWayToAbidjan](http://twitter.com/search?q=%23OnTheWayToAbidjan) | N/A |
+| 16 | [Dantes](http://twitter.com/search?q=Dantes) | N/A |
+| 17 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 18 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
+| 19 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 20 | [ASSISTA DECRETOS REAIS 3](http://twitter.com/search?q=ASSISTA+DECRETOS+REAIS+3) | N/A |
+| 21 | [Representam](http://twitter.com/search?q=Representam) | N/A |
+| 22 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 23 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 24 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 25 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 26 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 27 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
+| 28 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
+| 29 | [Edir Macedo](http://twitter.com/search?q=Edir+Macedo) | N/A |
+| 30 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 31 | [SAPATO MERECE RESPEITO](http://twitter.com/search?q=SAPATO+MERECE+RESPEITO) | N/A |
+| 32 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 33 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 34 | [Pituca](http://twitter.com/search?q=Pituca) | N/A |
+| 35 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 36 | [Lupi](http://twitter.com/search?q=Lupi) | N/A |
+| 37 | [Alameda](http://twitter.com/search?q=Alameda) | N/A |
+| 38 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 39 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
+| 40 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
+| 41 | [wagner moura](http://twitter.com/search?q=wagner+moura) | N/A |
+| 42 | [Suzane](http://twitter.com/search?q=Suzane) | Suzane is a French female name, derived from the Latin name Susanna. It is thought to mean "lily" or "graceful lily". |
 | 43 | [Genebra](http://twitter.com/search?q=Genebra) | N/A |
-| 44 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 45 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 46 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 47 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 48 | [Real x City](http://twitter.com/search?q=Real+x+City) | N/A |
-| 49 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
+| 44 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 45 | [São Patrício](http://twitter.com/search?q=S%c3%a3o+Patr%c3%adcio) | N/A |
+| 46 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 47 | [Aracaju](http://twitter.com/search?q=Aracaju) | N/A |
+| 48 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 49 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 | 50 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
 
 

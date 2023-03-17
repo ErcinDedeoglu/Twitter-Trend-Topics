@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-17 17:17:05 UTC`
+📆 Last Updated: `2023-03-17 18:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 1 | [#ACRL2023](http://twitter.com/search?q=%23ACRL2023) | N/A |
 | 2 | [Minshew](http://twitter.com/search?q=Minshew) | Minshew is a surname of English origin. It is derived from the Old English words "myne" (mine) and "sceaga" (wood). The name was originally given to someone who lived near a wood or forest. |
-| 3 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 4 | [#LUNATICSTOKEN](http://twitter.com/search?q=%23LUNATICSTOKEN) | N/A |
-| 5 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 6 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 7 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 8 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 9 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 10 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 11 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 12 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
-| 13 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
-| 14 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 15 | [#MatchDay](http://twitter.com/search?q=%23MatchDay) | N/A |
-| 16 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 17 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 18 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 19 | [Lil Dirty](http://twitter.com/search?q=Lil+Dirty) | N/A |
-| 20 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 21 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
-| 22 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 23 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
-| 24 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 25 | [Isaiah McKenzie](http://twitter.com/search?q=Isaiah+McKenzie) | N/A |
-| 26 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 27 | [Banners](http://twitter.com/search?q=Banners) | N/A |
-| 28 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 29 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 30 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
-| 31 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 32 | [Akins](http://twitter.com/search?q=Akins) | N/A |
-| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 34 | [Sissoko](http://twitter.com/search?q=Sissoko) | N/A |
-| 35 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 36 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 37 | [Jameson](http://twitter.com/search?q=Jameson) | N/A |
-| 38 | [End Of The World](http://twitter.com/search?q=End+Of+The+World) | N/A |
-| 39 | [Erin](http://twitter.com/search?q=Erin) | N/A |
-| 40 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 41 | [Joy Ride](http://twitter.com/search?q=Joy+Ride) | N/A |
-| 42 | [Tom MacDonald](http://twitter.com/search?q=Tom+MacDonald) | N/A |
-| 43 | [Russian Disinformation](http://twitter.com/search?q=Russian+Disinformation) | N/A |
-| 44 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
-| 45 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 46 | [Gesicki](http://twitter.com/search?q=Gesicki) | N/A |
-| 47 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 48 | [Rome Statute](http://twitter.com/search?q=Rome+Statute) | N/A |
-| 49 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 4 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 5 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 6 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 7 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 8 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
+| 9 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
+| 10 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 11 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 12 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 13 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 14 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 15 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 16 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 17 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
+| 18 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 19 | [#MatchDay](http://twitter.com/search?q=%23MatchDay) | N/A |
+| 20 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 21 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
+| 22 | [Carson Cooper](http://twitter.com/search?q=Carson+Cooper) | Carson Cooper is a name, derived from the English surname Carson and the given name Cooper. It is usually used as a first name for boys. |
+| 23 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 24 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
+| 25 | [Akins](http://twitter.com/search?q=Akins) | N/A |
+| 26 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 27 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 28 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 29 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 30 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 31 | [Levi Haines](http://twitter.com/search?q=Levi+Haines) | N/A |
+| 32 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
+| 33 | [Fall 2](http://twitter.com/search?q=Fall+2) | N/A |
+| 34 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
+| 35 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 36 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
+| 37 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
+| 38 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 39 | [Banners](http://twitter.com/search?q=Banners) | N/A |
+| 40 | [Lil Dirty](http://twitter.com/search?q=Lil+Dirty) | N/A |
+| 41 | [Mady](http://twitter.com/search?q=Mady) | N/A |
+| 42 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
+| 43 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
+| 44 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 45 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
+| 46 | [Trojans](http://twitter.com/search?q=Trojans) | Trojans is a term used to refer to malicious software, such as computer viruses, worms, and spyware. It is named after the Trojan Horse of Greek mythology, which was a large wooden horse filled with soldiers that was used to trick the city of Troy into letting it inside their walls. Trojans are designed to gain access to a computer system without the user's knowledge or permission. They can be used to steal data, install other malicious software, or even take control of the system. |
+| 47 | [Joey Hauser](http://twitter.com/search?q=Joey+Hauser) | N/A |
+| 48 | [Isaiah McKenzie](http://twitter.com/search?q=Isaiah+McKenzie) | N/A |
+| 49 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
+| 50 | [Andy Enfield](http://twitter.com/search?q=Andy+Enfield) | N/A |
 
 
 

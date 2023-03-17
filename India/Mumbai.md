@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mumbai
 
-📆 Last Updated: `2023-03-17 17:17:00 UTC`
+📆 Last Updated: `2023-03-17 18:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
-| 2 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 3 | [#KLRahul𓃵](http://twitter.com/search?q=%23KLRahul%f0%93%83%b5) | N/A |
-| 4 | [#AmitShahAtIndiaTodayConclave](http://twitter.com/search?q=%23AmitShahAtIndiaTodayConclave) | N/A |
-| 5 | [#MrsChatterjeeInCinemas](http://twitter.com/search?q=%23MrsChatterjeeInCinemas) | N/A |
-| 6 | [ArticleBy ArhanBagati Kyari](http://twitter.com/search?q=ArticleBy+ArhanBagati+Kyari) | N/A |
+| 1 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 2 | [#KLRahul𓃵](http://twitter.com/search?q=%23KLRahul%f0%93%83%b5) | N/A |
+| 3 | [#AmitShahAtIndiaTodayConclave](http://twitter.com/search?q=%23AmitShahAtIndiaTodayConclave) | N/A |
+| 4 | [#TeluguPrideNTRAtDhamki](http://twitter.com/search?q=%23TeluguPrideNTRAtDhamki) | N/A |
+| 5 | [#FirstRapistOfIndia](http://twitter.com/search?q=%23FirstRapistOfIndia) | N/A |
+| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 7 | [REMOVE FARHAD FROM HERAPHERI](http://twitter.com/search?q=REMOVE+FARHAD+FROM+HERAPHERI) | N/A |
-| 8 | [save the bakkarwals](http://twitter.com/search?q=save+the+bakkarwals) | N/A |
+| 8 | [articleby arhanbagati kyari](http://twitter.com/search?q=articleby+arhanbagati+kyari) | N/A |
 | 9 | [जयपुर दक्षिण](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3) | N/A |
-| 10 | [जयपुर उत्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
-| 11 | [Must Watch Shubh Nikah](http://twitter.com/search?q=Must+Watch+Shubh+Nikah) | N/A |
-| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 13 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 14 | [जोधपुर पूर्व](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
-| 15 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 16 | [जोधपुर पश्चिम](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae) | N/A |
-| 17 | [Sushant Lone Warrior In BW](http://twitter.com/search?q=Sushant+Lone+Warrior+In+BW) | N/A |
-| 18 | [करुणा यादव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 19 | [बिजली गुल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2) | N/A |
-| 20 | [गंगापुर सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
+| 10 | [Sushant Lone Warrior In BW](http://twitter.com/search?q=Sushant+Lone+Warrior+In+BW) | N/A |
+| 11 | [जयपुर उत्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
+| 12 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 13 | [जोधपुर पूर्व](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
+| 14 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 15 | [बिजली गुल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2) | N/A |
+| 16 | [करुणा यादव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 17 | [संदीप यादव](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 18 | [जोधपुर पश्चिम](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae) | N/A |
+| 19 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 20 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 | 21 | [Venkatesh Prasad](http://twitter.com/search?q=Venkatesh+Prasad) | N/A |
-| 22 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 23 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
-| 24 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 25 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 26 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
-| 27 | [डीडवाना कुचामन](http://twitter.com/search?q=%e0%a4%a1%e0%a5%80%e0%a4%a1%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a4%be+%e0%a4%95%e0%a5%81%e0%a4%9a%e0%a4%be%e0%a4%ae%e0%a4%a8) | N/A |
-| 28 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 29 | [पावर हाउस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%b0+%e0%a4%b9%e0%a4%be%e0%a4%89%e0%a4%b8) | N/A |
-| 30 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 31 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 32 | [बिजली आपूर्ति](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 33 | [Team India](http://twitter.com/search?q=Team+India) | N/A |
-| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 35 | [विद्युत सप्लाई](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%88) | N/A |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 23 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 24 | [गंगापुर सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
+| 25 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 26 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
+| 27 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 28 | [Home Minister](http://twitter.com/search?q=Home+Minister) | N/A |
+| 29 | [डीडवाना कुचामन](http://twitter.com/search?q=%e0%a4%a1%e0%a5%80%e0%a4%a1%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a4%be+%e0%a4%95%e0%a5%81%e0%a4%9a%e0%a4%be%e0%a4%ae%e0%a4%a8) | N/A |
+| 30 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 31 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 32 | [पावर हाउस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%b0+%e0%a4%b9%e0%a4%be%e0%a4%89%e0%a4%b8) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [विद्युत सप्लाई](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%88) | N/A |
+| 35 | [बिजली आपूर्ति](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 37 | [जिला मुख्यालय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 38 | [विद्युत विभाग](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 40 | [बिजली सप्लाई](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%88) | N/A |
-| 41 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 42 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 43 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
-| 44 | [Mute](http://twitter.com/search?q=Mute) | N/A |
-| 45 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 46 | [1st ODI](http://twitter.com/search?q=1st+ODI) | N/A |
-| 47 | [वानखेड़े स्टेडियम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
-| 48 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 49 | [Sanju](http://twitter.com/search?q=Sanju) | N/A |
-| 50 | [Huge Impact](http://twitter.com/search?q=Huge+Impact) | N/A |
+| 38 | [1st ODI](http://twitter.com/search?q=1st+ODI) | N/A |
+| 39 | [विद्युत विभाग](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 40 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
+| 41 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 42 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 43 | [बिजली सप्लाई](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%88) | N/A |
+| 44 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 45 | [Mute](http://twitter.com/search?q=Mute) | N/A |
+| 46 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 47 | [Huge Impact](http://twitter.com/search?q=Huge+Impact) | N/A |
+| 48 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 49 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 50 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 
 
 

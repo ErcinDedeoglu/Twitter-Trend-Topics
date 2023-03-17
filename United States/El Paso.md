@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-17 17:17:05 UTC`
+📆 Last Updated: `2023-03-17 18:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
-| 2 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 3 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 4 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 5 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 6 | [#LUNATICSTOKEN](http://twitter.com/search?q=%23LUNATICSTOKEN) | N/A |
-| 7 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 8 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 9 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 10 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 11 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 12 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 13 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 14 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
-| 15 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 16 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 17 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 18 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 19 | [Lil Dirty](http://twitter.com/search?q=Lil+Dirty) | N/A |
-| 20 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
-| 21 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 22 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 23 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
-| 24 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 25 | [Isaiah McKenzie](http://twitter.com/search?q=Isaiah+McKenzie) | N/A |
-| 26 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 27 | [Banners](http://twitter.com/search?q=Banners) | N/A |
-| 28 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 29 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 30 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
-| 31 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 32 | [Akins](http://twitter.com/search?q=Akins) | N/A |
-| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 34 | [Sissoko](http://twitter.com/search?q=Sissoko) | N/A |
-| 35 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 36 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 37 | [Jameson](http://twitter.com/search?q=Jameson) | N/A |
-| 38 | [End Of The World](http://twitter.com/search?q=End+Of+The+World) | N/A |
-| 39 | [Erin](http://twitter.com/search?q=Erin) | N/A |
-| 40 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 41 | [Joy Ride](http://twitter.com/search?q=Joy+Ride) | N/A |
-| 42 | [Tom MacDonald](http://twitter.com/search?q=Tom+MacDonald) | N/A |
-| 43 | [Russian Disinformation](http://twitter.com/search?q=Russian+Disinformation) | N/A |
-| 44 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
-| 45 | [Gesicki](http://twitter.com/search?q=Gesicki) | N/A |
-| 46 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 47 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 48 | [Rome Statute](http://twitter.com/search?q=Rome+Statute) | N/A |
-| 49 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 2 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 5 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 6 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 7 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 8 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 9 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 10 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 11 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 12 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
+| 13 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
+| 14 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 15 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 16 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 17 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 18 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 19 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 20 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 21 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
+| 22 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 23 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 24 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
+| 25 | [Carson Cooper](http://twitter.com/search?q=Carson+Cooper) | Carson Cooper is a name, derived from the English surname Carson and the given name Cooper. It is usually used as a first name for boys. |
+| 26 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 27 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
+| 28 | [Akins](http://twitter.com/search?q=Akins) | N/A |
+| 29 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 30 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 31 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 32 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 33 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 34 | [Levi Haines](http://twitter.com/search?q=Levi+Haines) | N/A |
+| 35 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
+| 36 | [Fall 2](http://twitter.com/search?q=Fall+2) | N/A |
+| 37 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
+| 38 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 39 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
+| 40 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
+| 41 | [Banners](http://twitter.com/search?q=Banners) | N/A |
+| 42 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 43 | [Lil Dirty](http://twitter.com/search?q=Lil+Dirty) | N/A |
+| 44 | [Mady](http://twitter.com/search?q=Mady) | N/A |
+| 45 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
+| 46 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
+| 47 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 48 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
+| 49 | [Trojans](http://twitter.com/search?q=Trojans) | Trojans is a term used to refer to malicious software, such as computer viruses, worms, and spyware. It is named after the Trojan Horse of Greek mythology, which was a large wooden horse filled with soldiers that was used to trick the city of Troy into letting it inside their walls. Trojans are designed to gain access to a computer system without the user's knowledge or permission. They can be used to steal data, install other malicious software, or even take control of the system. |
 
 
 
