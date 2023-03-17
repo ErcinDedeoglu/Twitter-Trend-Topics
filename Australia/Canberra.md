@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-16 23:16:53 UTC`
+📆 Last Updated: `2023-03-17 00:28:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 4 | [#NRLManlyEels](http://twitter.com/search?q=%23NRLManlyEels) | N/A |
 | 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [Brian Walsh](http://twitter.com/search?q=Brian+Walsh) | N/A |
-| 7 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 11 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 12 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
+| 6 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 7 | [Brian Walsh](http://twitter.com/search?q=Brian+Walsh) | N/A |
+| 8 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 9 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 12 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
 | 13 | [#gotiges](http://twitter.com/search?q=%23gotiges) | N/A |
-| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 15 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 17 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 18 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 19 | [Tomahawk](http://twitter.com/search?q=Tomahawk) | N/A |
-| 20 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 21 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
-| 22 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
-| 23 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 24 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 14 | [Tomahawk](http://twitter.com/search?q=Tomahawk) | N/A |
+| 15 | [#mcrmelbourne](http://twitter.com/search?q=%23mcrmelbourne) | N/A |
+| 16 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 17 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 18 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 19 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 20 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
+| 21 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 22 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
+| 23 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 24 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
 | 25 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
-| 26 | [McKay](http://twitter.com/search?q=McKay) | N/A |
-| 27 | [McGovern](http://twitter.com/search?q=McGovern) | N/A |
-| 28 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 29 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
-| 30 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
-| 31 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 32 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
-| 33 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 34 | [Zac Efron](http://twitter.com/search?q=Zac+Efron) | N/A |
-| 35 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 36 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
-| 37 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
-| 38 | [lewis young](http://twitter.com/search?q=lewis+young) | N/A |
-| 39 | [Schuster](http://twitter.com/search?q=Schuster) | N/A |
-| 40 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 41 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
-| 42 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 43 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
-| 44 | [Wordle 635 X](http://twitter.com/search?q=Wordle+635+X) | N/A |
-| 45 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
-| 46 | [Foxtel](http://twitter.com/search?q=Foxtel) | N/A |
-| 47 | [Ben Fordham](http://twitter.com/search?q=Ben+Fordham) | N/A |
-| 48 | [Acres](http://twitter.com/search?q=Acres) | N/A |
-| 49 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 26 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
+| 27 | [Barrett](http://twitter.com/search?q=Barrett) | N/A |
+| 28 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
+| 29 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 30 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 31 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
+| 32 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 33 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 34 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 35 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
+| 36 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
+| 37 | [Schuster](http://twitter.com/search?q=Schuster) | N/A |
+| 38 | [McGovern](http://twitter.com/search?q=McGovern) | N/A |
+| 39 | [lewis young](http://twitter.com/search?q=lewis+young) | N/A |
+| 40 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
+| 41 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
+| 42 | [Morrison](http://twitter.com/search?q=Morrison) | N/A |
+| 43 | [Zac Efron](http://twitter.com/search?q=Zac+Efron) | N/A |
+| 44 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
+| 45 | [MELANIE MARTINEZ](http://twitter.com/search?q=MELANIE+MARTINEZ) | N/A |
+| 46 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 47 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 48 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 49 | [Blake Acres](http://twitter.com/search?q=Blake+Acres) | N/A |
 
 
 

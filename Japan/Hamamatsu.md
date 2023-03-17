@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamamatsu
 
-📆 Last Updated: `2023-03-16 23:16:54 UTC`
+📆 Last Updated: `2023-03-17 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [凍結解除](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e8%a7%a3%e9%99%a4) | 凍結解除 (tou ketsu kaijo) is a Japanese phrase meaning "unfreeze" or "thaw." It is used to describe the process of restoring access to a computer system, account, or other digital resource that has been frozen or locked due to security measures. |
-| 2 | [ブックマーク数](http://twitter.com/search?q=%e3%83%96%e3%83%83%e3%82%af%e3%83%9e%e3%83%bc%e3%82%af%e6%95%b0) | N/A |
-| 3 | [菅原さん](http://twitter.com/search?q=%e8%8f%85%e5%8e%9f%e3%81%95%e3%82%93) | N/A |
-| 4 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
-| 5 | [ブクマ数](http://twitter.com/search?q=%e3%83%96%e3%82%af%e3%83%9e%e6%95%b0) | N/A |
-| 6 | [スポルティング](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 7 | [大食い魔女](http://twitter.com/search?q=%e5%a4%a7%e9%a3%9f%e3%81%84%e9%ad%94%e5%a5%b3) | N/A |
-| 8 | [キン肉マン](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e8%82%89%e3%83%9e%e3%83%b3) | N/A |
-| 9 | [キャンジャニちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | キャンジャニちゃん is a character from the Japanese manga series, Kyou Kara Maou. The character's name is Yuuri Shibuya and he is a 15-year-old high school student who is chosen to be the new Maou (Demon King) of the Demon World. His nickname, "キャンジャニちゃん", is derived from his last name, Shibuya, which can be written as "しぶや" in Japanese. In English, it translates to "Shibuya-chan". |
-| 10 | [菅原初代](http://twitter.com/search?q=%e8%8f%85%e5%8e%9f%e5%88%9d%e4%bb%a3) | N/A |
-| 11 | [なにわ祭り](http://twitter.com/search?q=%e3%81%aa%e3%81%ab%e3%82%8f%e7%a5%ad%e3%82%8a) | N/A |
-| 12 | [近親相姦](http://twitter.com/search?q=%e8%bf%91%e8%a6%aa%e7%9b%b8%e5%a7%a6) | N/A |
-| 13 | [#コタローは1人暮らし](http://twitter.com/search?q=%23%e3%82%b3%e3%82%bf%e3%83%ad%e3%83%bc%e3%81%af1%e4%ba%ba%e6%9a%ae%e3%82%89%e3%81%97) | N/A |
+| 1 | [ブックマーク](http://twitter.com/search?q=%e3%83%96%e3%83%83%e3%82%af%e3%83%9e%e3%83%bc%e3%82%af) | N/A |
+| 2 | [凍結解除](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e8%a7%a3%e9%99%a4) | 凍結解除 (tou ketsu kaijo) is a Japanese phrase meaning "unfreeze" or "thaw." It is used to describe the process of restoring access to a computer system, account, or other digital resource that has been frozen or locked due to security measures. |
+| 3 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
+| 4 | [菅原さん](http://twitter.com/search?q=%e8%8f%85%e5%8e%9f%e3%81%95%e3%82%93) | N/A |
+| 5 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
+| 6 | [キャンジャニちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | キャンジャニちゃん is a character from the Japanese manga series, Kyou Kara Maou. The character's name is Yuuri Shibuya and he is a 15-year-old high school student who is chosen to be the new Maou (Demon King) of the Demon World. His nickname, "キャンジャニちゃん", is derived from his last name, Shibuya, which can be written as "しぶや" in Japanese. In English, it translates to "Shibuya-chan". |
+| 7 | [ブクマ数](http://twitter.com/search?q=%e3%83%96%e3%82%af%e3%83%9e%e6%95%b0) | N/A |
+| 8 | [まいんちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%84%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 9 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
+| 10 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
+| 11 | [SEAMO](http://twitter.com/search?q=SEAMO) | N/A |
+| 12 | [刈谷先輩](http://twitter.com/search?q=%e5%88%88%e8%b0%b7%e5%85%88%e8%bc%a9) | N/A |
+| 13 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
 | 14 | [#わたしの幸せな結婚](http://twitter.com/search?q=%23%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e5%b9%b8%e3%81%9b%e3%81%aa%e7%b5%90%e5%a9%9a) | N/A |
-| 15 | [極秘文書](http://twitter.com/search?q=%e6%a5%b5%e7%a7%98%e6%96%87%e6%9b%b8) | N/A |
-| 16 | [#パパとなっちゃんのお弁当](http://twitter.com/search?q=%23%e3%83%91%e3%83%91%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e3%81%8a%e5%bc%81%e5%bd%93) | N/A |
-| 17 | [#おは戦50317mk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650317mk) | N/A |
-| 18 | [党員除名](http://twitter.com/search?q=%e5%85%9a%e5%93%a1%e9%99%a4%e5%90%8d) | N/A |
-| 19 | [#キンプリMV1億回おめでとう](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aaMV1%e5%84%84%e5%9b%9e%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 20 | [志位氏辞任要求](http://twitter.com/search?q=%e5%bf%97%e4%bd%8d%e6%b0%8f%e8%be%9e%e4%bb%bb%e8%a6%81%e6%b1%82) | N/A |
-| 21 | [刈谷先輩](http://twitter.com/search?q=%e5%88%88%e8%b0%b7%e5%85%88%e8%bc%a9) | N/A |
-| 22 | [Steamセール](http://twitter.com/search?q=Steam%e3%82%bb%e3%83%bc%e3%83%ab) | Steamセール is a term used in Japan to refer to sales on the Steam digital game platform. It literally translates to "Steam Sale" in English. |
-| 23 | [シンバルキック](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%90%e3%83%ab%e3%82%ad%e3%83%83%e3%82%af) | N/A |
-| 24 | [きんようび](http://twitter.com/search?q=%e3%81%8d%e3%82%93%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 25 | [漫画週刊誌の日](http://twitter.com/search?q=%e6%bc%ab%e7%94%bb%e9%80%b1%e5%88%8a%e8%aa%8c%e3%81%ae%e6%97%a5) | N/A |
-| 26 | [玉ちゃん](http://twitter.com/search?q=%e7%8e%89%e3%81%a1%e3%82%83%e3%82%93) | 玉ちゃん is a nickname for a girl, usually used by close friends or family. It is derived from the Japanese word for "jewel" (玉) and the honorific suffix "-chan". In English, it can be translated as "Jewel-chan". |
+| 15 | [マタアイマショウ](http://twitter.com/search?q=%e3%83%9e%e3%82%bf%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b7%e3%83%a7%e3%82%a6) | N/A |
+| 16 | [近親相姦](http://twitter.com/search?q=%e8%bf%91%e8%a6%aa%e7%9b%b8%e5%a7%a6) | N/A |
+| 17 | [シンバルキック](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%90%e3%83%ab%e3%82%ad%e3%83%83%e3%82%af) | N/A |
+| 18 | [キン肉マン](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e8%82%89%e3%83%9e%e3%83%b3) | N/A |
+| 19 | [大食い魔女](http://twitter.com/search?q=%e5%a4%a7%e9%a3%9f%e3%81%84%e9%ad%94%e5%a5%b3) | N/A |
+| 20 | [党員除名](http://twitter.com/search?q=%e5%85%9a%e5%93%a1%e9%99%a4%e5%90%8d) | N/A |
+| 21 | [#関ジャニ](http://twitter.com/search?q=%23%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%8b) | N/A |
+| 22 | [玉本先輩](http://twitter.com/search?q=%e7%8e%89%e6%9c%ac%e5%85%88%e8%bc%a9) | N/A |
+| 23 | [Steamセール](http://twitter.com/search?q=Steam%e3%82%bb%e3%83%bc%e3%83%ab) | Steamセール is a term used in Japan to refer to sales on the Steam digital game platform. It literally translates to "Steam Sale" in English. |
+| 24 | [菅原初代さん死去](http://twitter.com/search?q=%e8%8f%85%e5%8e%9f%e5%88%9d%e4%bb%a3%e3%81%95%e3%82%93%e6%ad%bb%e5%8e%bb) | N/A |
+| 25 | [スポルティング](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 26 | [志位氏辞任要求](http://twitter.com/search?q=%e5%bf%97%e4%bd%8d%e6%b0%8f%e8%be%9e%e4%bb%bb%e8%a6%81%e6%b1%82) | N/A |
 | 27 | [吉川晃司さん](http://twitter.com/search?q=%e5%90%89%e5%b7%9d%e6%99%83%e5%8f%b8%e3%81%95%e3%82%93) | N/A |
-| 28 | [私の台所](http://twitter.com/search?q=%e7%a7%81%e3%81%ae%e5%8f%b0%e6%89%80) | N/A |
-| 29 | [ラムズデール](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%82%ba%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
-| 30 | [青春パンクソング](http://twitter.com/search?q=%e9%9d%92%e6%98%a5%e3%83%91%e3%83%b3%e3%82%af%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
-| 31 | [公開初日](http://twitter.com/search?q=%e5%85%ac%e9%96%8b%e5%88%9d%e6%97%a5) | N/A |
-| 32 | [ソシエダ](http://twitter.com/search?q=%e3%82%bd%e3%82%b7%e3%82%a8%e3%83%80) | N/A |
-| 33 | [聡ちゃん](http://twitter.com/search?q=%e8%81%a1%e3%81%a1%e3%82%83%e3%82%93) | 聡ちゃん is a nickname for the Japanese singer and actor Satoshi Tsumabuki. It is derived from his given name, Satoshi, and is used affectionately by his fans. In English, it could be translated as "Satoshi-chan". |
-| 34 | [笠巻さん](http://twitter.com/search?q=%e7%ac%a0%e5%b7%bb%e3%81%95%e3%82%93) | N/A |
-| 35 | [神谷明さん](http://twitter.com/search?q=%e7%a5%9e%e8%b0%b7%e6%98%8e%e3%81%95%e3%82%93) | 神谷明さん is the name of a Japanese actor, singer, and voice actor. His name in English is Akira Kamiya. |
-| 36 | [オヤルサバル](http://twitter.com/search?q=%e3%82%aa%e3%83%a4%e3%83%ab%e3%82%b5%e3%83%90%e3%83%ab) | N/A |
-| 37 | [ラーケーション](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 38 | [第420回](http://twitter.com/search?q=%e7%ac%ac420%e5%9b%9e) | N/A |
-| 39 | [冨安怪我](http://twitter.com/search?q=%e5%86%a8%e5%ae%89%e6%80%aa%e6%88%91) | N/A |
-| 40 | [牧田さん](http://twitter.com/search?q=%e7%89%a7%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 41 | [グレシャム](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%82%b7%e3%83%a3%e3%83%a0) | グレシャム is a type of Japanese confectionery made from mochi (rice cake) and red bean paste. The name comes from the English word "graceful" and is meant to evoke the idea of a graceful, elegant dessert. In English, it can be translated as "graceful mochi". |
-| 42 | [ホールディング](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%ab%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | ホールディング is a Japanese term that refers to the ownership of a company or business by one or more individuals or entities. In English, it is often referred to as "holding company" or "parent company". |
-| 43 | [大食い番組](http://twitter.com/search?q=%e5%a4%a7%e9%a3%9f%e3%81%84%e7%95%aa%e7%b5%84) | N/A |
-| 44 | [大腸がん](http://twitter.com/search?q=%e5%a4%a7%e8%85%b8%e3%81%8c%e3%82%93) | N/A |
-| 45 | [フラペコ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%9a%e3%82%b3) | N/A |
-| 46 | [慶ちゃん](http://twitter.com/search?q=%e6%85%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 47 | [EL敗退](http://twitter.com/search?q=EL%e6%95%97%e9%80%80) | N/A |
-| 48 | [スプリングセール](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
-| 49 | [日本初の少年向け週刊誌](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%88%9d%e3%81%ae%e5%b0%91%e5%b9%b4%e5%90%91%e3%81%91%e9%80%b1%e5%88%8a%e8%aa%8c) | N/A |
-| 50 | [ヴィエイラ](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%82%a8%e3%82%a4%e3%83%a9) | N/A |
+| 28 | [志位氏の辞任](http://twitter.com/search?q=%e5%bf%97%e4%bd%8d%e6%b0%8f%e3%81%ae%e8%be%9e%e4%bb%bb) | N/A |
+| 29 | [極秘文書](http://twitter.com/search?q=%e6%a5%b5%e7%a7%98%e6%96%87%e6%9b%b8) | N/A |
+| 30 | [ラーケーション](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 31 | [マリオカート王](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%82%aa%e3%82%ab%e3%83%bc%e3%83%88%e7%8e%8b) | N/A |
+| 32 | [福原遥ちゃん](http://twitter.com/search?q=%e7%a6%8f%e5%8e%9f%e9%81%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
+| 34 | [キャンディーアフタヌーン](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%87%e3%82%a3%e3%83%bc%e3%82%a2%e3%83%95%e3%82%bf%e3%83%8c%e3%83%bc%e3%83%b3) | N/A |
+| 35 | [公開初日](http://twitter.com/search?q=%e5%85%ac%e9%96%8b%e5%88%9d%e6%97%a5) | N/A |
+| 36 | [打首さん](http://twitter.com/search?q=%e6%89%93%e9%a6%96%e3%81%95%e3%82%93) | N/A |
+| 37 | [マジカルバナナ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%82%ab%e3%83%ab%e3%83%90%e3%83%8a%e3%83%8a) | N/A |
+| 38 | [きんようび](http://twitter.com/search?q=%e3%81%8d%e3%82%93%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 39 | [なにわ祭り](http://twitter.com/search?q=%e3%81%aa%e3%81%ab%e3%82%8f%e7%a5%ad%e3%82%8a) | N/A |
+| 40 | [分派活動](http://twitter.com/search?q=%e5%88%86%e6%b4%be%e6%b4%bb%e5%8b%95) | N/A |
+| 41 | [柏木学生](http://twitter.com/search?q=%e6%9f%8f%e6%9c%a8%e5%ad%a6%e7%94%9f) | 柏木学生 is a Japanese term that refers to students who are hardworking and diligent in their studies. It literally translates to "Oak Tree Student" and is used to describe someone who is studious and disciplined in their academic pursuits. |
+| 42 | [大腸がん](http://twitter.com/search?q=%e5%a4%a7%e8%85%b8%e3%81%8c%e3%82%93) | N/A |
+| 43 | [打首獄門同好会](http://twitter.com/search?q=%e6%89%93%e9%a6%96%e7%8d%84%e9%96%80%e5%90%8c%e5%a5%bd%e4%bc%9a) | N/A |
+| 44 | [大河内教官](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e5%86%85%e6%95%99%e5%ae%98) | N/A |
+| 45 | [ホームボタン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9c%e3%82%bf%e3%83%b3) | N/A |
+| 46 | [解凍祭り](http://twitter.com/search?q=%e8%a7%a3%e5%87%8d%e7%a5%ad%e3%82%8a) | N/A |
+| 47 | [玉ちゃん](http://twitter.com/search?q=%e7%8e%89%e3%81%a1%e3%82%83%e3%82%93) | 玉ちゃん is a nickname for a girl, usually used by close friends or family. It is derived from the Japanese word for "jewel" (玉) and the honorific suffix "-chan". In English, it can be translated as "Jewel-chan". |
+| 48 | [聡ちゃん](http://twitter.com/search?q=%e8%81%a1%e3%81%a1%e3%82%83%e3%82%93) | 聡ちゃん is a nickname for the Japanese singer and actor Satoshi Tsumabuki. It is derived from his given name, Satoshi, and is used affectionately by his fans. In English, it could be translated as "Satoshi-chan". |
+| 49 | [OH!MYコンブ](http://twitter.com/search?q=OH!MY%e3%82%b3%e3%83%b3%e3%83%96) | N/A |
+| 50 | [青春パンクソング](http://twitter.com/search?q=%e9%9d%92%e6%98%a5%e3%83%91%e3%83%b3%e3%82%af%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
 
 
 

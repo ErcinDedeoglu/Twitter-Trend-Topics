@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-16 23:16:31 UTC`
+📆 Last Updated: `2023-03-17 00:28:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,51 +25,51 @@ This is top 50
 | 3 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
 | 4 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
 | 5 | [#PasapalabraBote](http://twitter.com/search?q=%23PasapalabraBote) | N/A |
-| 6 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 6 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 7 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 8 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 9 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 10 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 11 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 12 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 13 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 9 | [#SVGala3](http://twitter.com/search?q=%23SVGala3) | N/A |
+| 10 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 11 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 14 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 15 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 16 | [Adan](http://twitter.com/search?q=Adan) | N/A |
-| 17 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 18 | [EXPULSA OS DOIS BBB](http://twitter.com/search?q=EXPULSA+OS+DOIS+BBB) | N/A |
-| 19 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 20 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 21 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 23 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 24 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 25 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 26 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 27 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 28 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 29 | [ブックマーク数](http://twitter.com/search?q=%e3%83%96%e3%83%83%e3%82%af%e3%83%9e%e3%83%bc%e3%82%af%e6%95%b0) | N/A |
-| 30 | [凍結解除](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e8%a7%a3%e9%99%a4) | 凍結解除 (tou ketsu kaijo) is a Japanese phrase meaning "unfreeze" or "thaw." It is used to describe the process of restoring access to a computer system, account, or other digital resource that has been frozen or locked due to security measures. |
-| 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 32 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 33 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
-| 34 | [لشبونه](http://twitter.com/search?q=%d9%84%d8%b4%d8%a8%d9%88%d9%86%d9%87) | N/A |
-| 35 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 36 | [Pote](http://twitter.com/search?q=Pote) | N/A |
-| 37 | [菅原さん](http://twitter.com/search?q=%e8%8f%85%e5%8e%9f%e3%81%95%e3%82%93) | N/A |
-| 38 | [Pedro Gonçalves](http://twitter.com/search?q=Pedro+Gon%c3%a7alves) | N/A |
-| 39 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 40 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 41 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 43 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 44 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
-| 45 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 46 | [スポルティング](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 47 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 48 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 49 | [ブクマ数](http://twitter.com/search?q=%e3%83%96%e3%82%af%e3%83%9e%e6%95%b0) | N/A |
-| 50 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 15 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 16 | [凍結解除](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e8%a7%a3%e9%99%a4) | 凍結解除 (tou ketsu kaijo) is a Japanese phrase meaning "unfreeze" or "thaw." It is used to describe the process of restoring access to a computer system, account, or other digital resource that has been frozen or locked due to security measures. |
+| 17 | [EXPULSA OS DOIS BBB](http://twitter.com/search?q=EXPULSA+OS+DOIS+BBB) | N/A |
+| 18 | [ブックマーク](http://twitter.com/search?q=%e3%83%96%e3%83%83%e3%82%af%e3%83%9e%e3%83%bc%e3%82%af) | N/A |
+| 19 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 20 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 21 | [菅原さん](http://twitter.com/search?q=%e8%8f%85%e5%8e%9f%e3%81%95%e3%82%93) | N/A |
+| 22 | [キャンジャニちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | キャンジャニちゃん is a character from the Japanese manga series, Kyou Kara Maou. The character's name is Yuuri Shibuya and he is a 15-year-old high school student who is chosen to be the new Maou (Demon King) of the Demon World. His nickname, "キャンジャニちゃん", is derived from his last name, Shibuya, which can be written as "しぶや" in Japanese. In English, it translates to "Shibuya-chan". |
+| 23 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 24 | [ブクマ数](http://twitter.com/search?q=%e3%83%96%e3%82%af%e3%83%9e%e6%95%b0) | N/A |
+| 25 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 26 | [まいんちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%84%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 27 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 28 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 29 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 30 | [SEAMO](http://twitter.com/search?q=SEAMO) | N/A |
+| 31 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 32 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 33 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 34 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 35 | [ハイパーインフレーション](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | ハイパーインフレーション is a term used to describe a situation in which the rate of inflation is extremely high. It is a phenomenon that occurs when prices rise rapidly and the value of money decreases significantly. In English, it can be translated as "hyperinflation". |
+| 36 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 37 | [刈谷先輩](http://twitter.com/search?q=%e5%88%88%e8%b0%b7%e5%85%88%e8%bc%a9) | N/A |
+| 38 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 39 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 40 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 41 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 42 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
+| 43 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 44 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 45 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 47 | [マタアイマショウ](http://twitter.com/search?q=%e3%83%9e%e3%82%bf%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b7%e3%83%a7%e3%82%a6) | N/A |
+| 48 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
+| 49 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 50 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
 
 
 

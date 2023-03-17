@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-16 23:16:51 UTC`
+📆 Last Updated: `2023-03-17 00:28:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
 | 2 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
 | 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 5 | [#HPSMinisterID](http://twitter.com/search?q=%23HPSMinisterID) | N/A |
-| 6 | [Kandidat Menteri](http://twitter.com/search?q=Kandidat+Menteri) | N/A |
-| 7 | [#KirimTakGentar](http://twitter.com/search?q=%23KirimTakGentar) | N/A |
-| 8 | [#WelcomeTREASUREtoINDONESIA](http://twitter.com/search?q=%23WelcomeTREASUREtoINDONESIA) | N/A |
-| 9 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 10 | [prabowo hatinya tulus](http://twitter.com/search?q=prabowo+hatinya+tulus) | N/A |
-| 11 | [politik baik gerindra](http://twitter.com/search?q=politik+baik+gerindra) | N/A |
-| 12 | [rakyat nyamanpilih prabowo](http://twitter.com/search?q=rakyat+nyamanpilih+prabowo) | N/A |
-| 13 | [#MariBerislamKaffah](http://twitter.com/search?q=%23MariBerislamKaffah) | N/A |
-| 14 | [Adan](http://twitter.com/search?q=Adan) | N/A |
-| 15 | [Jumat Penuh Keberkahan](http://twitter.com/search?q=Jumat+Penuh+Keberkahan) | N/A |
+| 4 | [#HPSMinisterID](http://twitter.com/search?q=%23HPSMinisterID) | N/A |
+| 5 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 6 | [#WelcomeTREASUREtoINDONESIA](http://twitter.com/search?q=%23WelcomeTREASUREtoINDONESIA) | N/A |
+| 7 | [Kandidat Menteri](http://twitter.com/search?q=Kandidat+Menteri) | N/A |
+| 8 | [#KirimTakGentar](http://twitter.com/search?q=%23KirimTakGentar) | N/A |
+| 9 | [Jumat Penuh Keberkahan](http://twitter.com/search?q=Jumat+Penuh+Keberkahan) | N/A |
+| 10 | [#MariBerislamKaffah](http://twitter.com/search?q=%23MariBerislamKaffah) | N/A |
+| 11 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 12 | [prabowo hatinya tulus](http://twitter.com/search?q=prabowo+hatinya+tulus) | N/A |
+| 13 | [rakyat nyamanpilih prabowo](http://twitter.com/search?q=rakyat+nyamanpilih+prabowo) | N/A |
+| 14 | [politik baik gerindra](http://twitter.com/search?q=politik+baik+gerindra) | N/A |
+| 15 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
 | 16 | [Islam Selamatkan Generasi](http://twitter.com/search?q=Islam+Selamatkan+Generasi) | N/A |
-| 17 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 19 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 20 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 21 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 22 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 23 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 24 | [prabowo subianto](http://twitter.com/search?q=prabowo+subianto) | N/A |
-| 25 | [hendips](http://twitter.com/search?q=hendips) | N/A |
-| 26 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 27 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 28 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 29 | [maju terus prabowo](http://twitter.com/search?q=maju+terus+prabowo) | N/A |
-| 30 | [bersama prabowo 2024](http://twitter.com/search?q=bersama+prabowo+2024) | N/A |
-| 31 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 32 | [AS Roma](http://twitter.com/search?q=AS+Roma) | N/A |
-| 33 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 34 | [nani wijaya](http://twitter.com/search?q=nani+wijaya) | N/A |
-| 35 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
-| 36 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 37 | [Ng Tze Yong](http://twitter.com/search?q=Ng+Tze+Yong) | N/A |
-| 38 | [WE MISS ILICHIL](http://twitter.com/search?q=WE+MISS+ILICHIL) | N/A |
-| 39 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
-| 40 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 42 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 43 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 44 | [Axelsen](http://twitter.com/search?q=Axelsen) | Axelsen is a Danish surname derived from the given name Axel, which is a form of Absalom. The meaning of the name Axel is "father of peace". |
-| 45 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
-| 46 | [B. Tahu Isi](http://twitter.com/search?q=B.+Tahu+Isi) | N/A |
-| 47 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
-| 48 | [sireng](http://twitter.com/search?q=sireng) | N/A |
-| 49 | [2024 prabowo menang](http://twitter.com/search?q=2024+prabowo+menang) | N/A |
-| 50 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 17 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 18 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 19 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 22 | [Fokus EPL](http://twitter.com/search?q=Fokus+EPL) | N/A |
+| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 24 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 25 | [prabowo subianto](http://twitter.com/search?q=prabowo+subianto) | N/A |
+| 26 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 27 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 28 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 29 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 30 | [Eropa](http://twitter.com/search?q=Eropa) | N/A |
+| 31 | [AS Roma](http://twitter.com/search?q=AS+Roma) | N/A |
+| 32 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 33 | [Hendips](http://twitter.com/search?q=Hendips) | N/A |
+| 34 | [maju terus prabowo](http://twitter.com/search?q=maju+terus+prabowo) | N/A |
+| 35 | [bersama prabowo 2024](http://twitter.com/search?q=bersama+prabowo+2024) | N/A |
+| 36 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 37 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 38 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
+| 39 | [WE MISS ILICHIL](http://twitter.com/search?q=WE+MISS+ILICHIL) | N/A |
+| 40 | [London](http://twitter.com/search?q=London) | N/A |
+| 41 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 42 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
+| 43 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
+| 44 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 45 | [Morninggg](http://twitter.com/search?q=Morninggg) | N/A |
+| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 47 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 48 | [B. Tahu Isi](http://twitter.com/search?q=B.+Tahu+Isi) | N/A |
+| 49 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
+| 50 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
 
 
 

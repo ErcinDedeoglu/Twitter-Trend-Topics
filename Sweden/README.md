@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-16 23:17:26 UTC`
+📆 Last Updated: `2023-03-17 00:29:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Sweden
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 2 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 5 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
-| 6 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 7 | [Hässelby](http://twitter.com/search?q=H%c3%a4sselby) | N/A |
-| 8 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 9 | [Karlis](http://twitter.com/search?q=Karlis) | N/A |
-| 10 | [Manner](http://twitter.com/search?q=Manner) | N/A |
-| 11 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
-| 12 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 13 | [Ingerö](http://twitter.com/search?q=Inger%c3%b6) | N/A |
-| 14 | [Danielsson](http://twitter.com/search?q=Danielsson) | N/A |
-| 15 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 16 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 17 | [Willys](http://twitter.com/search?q=Willys) | N/A |
-| 18 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 19 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 20 | [Wagnergruppen](http://twitter.com/search?q=Wagnergruppen) | N/A |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [ICA-handlare](http://twitter.com/search?q=ICA-handlare) | N/A |
-| 23 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
-| 24 | [cajuste](http://twitter.com/search?q=cajuste) | N/A |
-| 25 | [Hybrit](http://twitter.com/search?q=Hybrit) | N/A |
-| 26 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
-| 27 | [Bulan](http://twitter.com/search?q=Bulan) | N/A |
-| 28 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 29 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
-| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 1 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 4 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 5 | [Hässelby](http://twitter.com/search?q=H%c3%a4sselby) | N/A |
+| 6 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 7 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 8 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 9 | [Ingerö](http://twitter.com/search?q=Inger%c3%b6) | N/A |
+| 10 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
+| 11 | [Danielsson](http://twitter.com/search?q=Danielsson) | N/A |
+| 12 | [Willys](http://twitter.com/search?q=Willys) | N/A |
+| 13 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 14 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 15 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 16 | [Wagnergruppen](http://twitter.com/search?q=Wagnergruppen) | N/A |
+| 17 | [ICA-handlare](http://twitter.com/search?q=ICA-handlare) | N/A |
+| 18 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
+| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 20 | [cajuste](http://twitter.com/search?q=cajuste) | N/A |
+| 21 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 22 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 23 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
+| 24 | [Karlis](http://twitter.com/search?q=Karlis) | N/A |
+| 25 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 26 | [Östermalm](http://twitter.com/search?q=%c3%96stermalm) | N/A |
+| 27 | [Hybrit](http://twitter.com/search?q=Hybrit) | N/A |
+| 28 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
+| 29 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
+| 30 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 | 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 32 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 33 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
-| 34 | [Lindbäck](http://twitter.com/search?q=Lindb%c3%a4ck) | N/A |
-| 35 | [Komarek](http://twitter.com/search?q=Komarek) | N/A |
-| 36 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 37 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
-| 38 | [Shekarabi](http://twitter.com/search?q=Shekarabi) | N/A |
-| 39 | [Wikegård](http://twitter.com/search?q=Wikeg%c3%a5rd) | N/A |
-| 40 | [ABF-anställda](http://twitter.com/search?q=ABF-anst%c3%a4llda) | N/A |
-| 41 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 42 | [London](http://twitter.com/search?q=London) | N/A |
-| 43 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 44 | [Odenplan](http://twitter.com/search?q=Odenplan) | N/A |
-| 45 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 46 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 48 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 49 | [Djurgårdare](http://twitter.com/search?q=Djurg%c3%a5rdare) | N/A |
-| 50 | [Halabja](http://twitter.com/search?q=Halabja) | N/A |
+| 32 | [Bulan](http://twitter.com/search?q=Bulan) | N/A |
+| 33 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
+| 34 | [komarek](http://twitter.com/search?q=komarek) | N/A |
+| 35 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 36 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 37 | [ABF-anställda](http://twitter.com/search?q=ABF-anst%c3%a4llda) | N/A |
+| 38 | [wikegård](http://twitter.com/search?q=wikeg%c3%a5rd) | N/A |
+| 39 | [Östlin](http://twitter.com/search?q=%c3%96stlin) | N/A |
+| 40 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
+| 41 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 42 | [Shekarabi](http://twitter.com/search?q=Shekarabi) | N/A |
+| 43 | [odengatan](http://twitter.com/search?q=odengatan) | N/A |
+| 44 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 45 | [London](http://twitter.com/search?q=London) | N/A |
+| 46 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 47 | [North](http://twitter.com/search?q=North) | N/A |
+| 48 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 49 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 50 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 
 
 

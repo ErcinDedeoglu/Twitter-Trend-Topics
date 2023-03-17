@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omsk
 
-📆 Last Updated: `2023-03-16 23:17:05 UTC`
+📆 Last Updated: `2023-03-17 00:28:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Russia](</Russia>)
 | 1 | [#импровизаторынастс](http://twitter.com/search?q=%23%d0%b8%d0%bc%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%b7%d0%b0%d1%82%d0%be%d1%80%d1%8b%d0%bd%d0%b0%d1%81%d1%82%d1%81) | N/A |
 | 2 | [#gptt](http://twitter.com/search?q=%23gptt) | N/A |
 | 3 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 4 | [sewerr pass](http://twitter.com/search?q=sewerr+pass) | N/A |
+| 4 | [Sewerr Pass](http://twitter.com/search?q=Sewerr+Pass) | N/A |
 | 5 | [hope ii](http://twitter.com/search?q=hope+ii) | N/A |
-| 6 | [greatt one](http://twitter.com/search?q=greatt+one) | N/A |
-| 7 | [bullishh](http://twitter.com/search?q=bullishh) | N/A |
-| 8 | [БПЛА](http://twitter.com/search?q=%d0%91%d0%9f%d0%9b%d0%90) | N/A |
-| 9 | [itss outt](http://twitter.com/search?q=itss+outt) | N/A |
-| 10 | [Зависит](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d0%b8%d1%81%d0%b8%d1%82) | N/A |
-| 11 | [РФ-СМИ](http://twitter.com/search?q=%d0%a0%d0%a4-%d0%a1%d0%9c%d0%98) | N/A |
-| 12 | [NEEDD](http://twitter.com/search?q=NEEDD) | N/A |
-| 13 | [понял](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
-| 14 | [greetingg doomboo](http://twitter.com/search?q=greetingg+doomboo) | N/A |
-| 15 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
+| 6 | [teamm](http://twitter.com/search?q=teamm) | N/A |
+| 7 | [itss outt](http://twitter.com/search?q=itss+outt) | N/A |
+| 8 | [greatt one](http://twitter.com/search?q=greatt+one) | N/A |
+| 9 | [БПЛА](http://twitter.com/search?q=%d0%91%d0%9f%d0%9b%d0%90) | N/A |
+| 10 | [Needd](http://twitter.com/search?q=Needd) | N/A |
+| 11 | [bullishh](http://twitter.com/search?q=bullishh) | N/A |
+| 12 | [Зависит](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d0%b8%d1%81%d0%b8%d1%82) | N/A |
+| 13 | [greetingg doomboo](http://twitter.com/search?q=greetingg+doomboo) | N/A |
+| 14 | [понял](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
+| 15 | [красота](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
 | 16 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 17 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
-| 18 | [Черным](http://twitter.com/search?q=%d0%a7%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
-| 19 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
-| 20 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
-| 21 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 22 | [#Архитектура](http://twitter.com/search?q=%23%d0%90%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
-| 23 | [Здоровья](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
-| 24 | [Питер](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80) | N/A |
-| 25 | [Чонгука](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 26 | [пойду](http://twitter.com/search?q=%d0%bf%d0%be%d0%b9%d0%b4%d1%83) | N/A |
-| 27 | [Wildberries](http://twitter.com/search?q=Wildberries) | N/A |
-| 28 | [Ваще](http://twitter.com/search?q=%d0%92%d0%b0%d1%89%d0%b5) | N/A |
-| 29 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 30 | [Антона](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
-| 31 | [Красивое](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
-| 32 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
-| 33 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
-| 34 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 35 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
-| 36 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 37 | [казахстана](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd%d0%b0) | N/A |
-| 38 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
-| 39 | [Фото](http://twitter.com/search?q=%d0%a4%d0%be%d1%82%d0%be) | N/A |
-| 40 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
-| 41 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
-| 42 | [Хотел](http://twitter.com/search?q=%d0%a5%d0%be%d1%82%d0%b5%d0%bb) | N/A |
-| 43 | [СЧИТАЮ](http://twitter.com/search?q=%d0%a1%d0%a7%d0%98%d0%a2%d0%90%d0%ae) | N/A |
-| 44 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 45 | [Какую](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d1%83%d1%8e) | N/A |
-| 46 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
-| 47 | [main focus](http://twitter.com/search?q=main+focus) | N/A |
-| 48 | [ленин](http://twitter.com/search?q=%d0%bb%d0%b5%d0%bd%d0%b8%d0%bd) | N/A |
-| 49 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 50 | [либо](http://twitter.com/search?q=%d0%bb%d0%b8%d0%b1%d0%be) | N/A |
+| 17 | [Антона](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | N/A |
+| 18 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
+| 19 | [Черным](http://twitter.com/search?q=%d0%a7%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
+| 20 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
+| 21 | [Wildberries](http://twitter.com/search?q=Wildberries) | N/A |
+| 22 | [Говорят](http://twitter.com/search?q=%d0%93%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
+| 23 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 24 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 25 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 26 | [Питер](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80) | N/A |
+| 27 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
+| 28 | [либо](http://twitter.com/search?q=%d0%bb%d0%b8%d0%b1%d0%be) | N/A |
+| 29 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 30 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
+| 31 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 32 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 33 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
+| 34 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 35 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
+| 36 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 37 | [#seilors](http://twitter.com/search?q=%23seilors) | N/A |
+| 38 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 39 | [вроде](http://twitter.com/search?q=%d0%b2%d1%80%d0%be%d0%b4%d0%b5) | N/A |
+| 40 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 41 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 42 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 43 | [байден](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
+| 44 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 45 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
+| 46 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 47 | [красивая](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
+| 48 | [добро](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be) | N/A |
+| 49 | [игра wordle](http://twitter.com/search?q=%d0%b8%d0%b3%d1%80%d0%b0+wordle) | N/A |
+| 50 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
 
 
 

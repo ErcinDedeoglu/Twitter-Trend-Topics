@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-16 23:16:44 UTC`
+📆 Last Updated: `2023-03-17 00:28:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 2 | [#DIFLPO](http://twitter.com/search?q=%23DIFLPO) | N/A |
+| 1 | [#DIFLPO](http://twitter.com/search?q=%23DIFLPO) | N/A |
+| 2 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
 | 3 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 4 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 4 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
 | 5 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 6 | [#DJULCH](http://twitter.com/search?q=%23DJULCH) | N/A |
-| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 8 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
-| 9 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 11 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 12 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
-| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 14 | [Brimstone](http://twitter.com/search?q=Brimstone) | N/A |
+| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 7 | [#DJULCH](http://twitter.com/search?q=%23DJULCH) | N/A |
+| 8 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 9 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 10 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 11 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 12 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 13 | [Gent](http://twitter.com/search?q=Gent) | N/A |
+| 14 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
 | 15 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 16 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 17 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 18 | [Slovan](http://twitter.com/search?q=Slovan) | N/A |
-| 19 | [Stefan Wilmont](http://twitter.com/search?q=Stefan+Wilmont) | N/A |
-| 20 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 21 | [Ligi Europy](http://twitter.com/search?q=Ligi+Europy) | N/A |
-| 22 | [Brawo Kolejorz](http://twitter.com/search?q=Brawo+Kolejorz) | N/A |
-| 23 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 26 | [Nicea](http://twitter.com/search?q=Nicea) | N/A |
-| 27 | [Trento](http://twitter.com/search?q=Trento) | N/A |
+| 16 | [Stefan Wilmont](http://twitter.com/search?q=Stefan+Wilmont) | N/A |
+| 17 | [Ligi Europy](http://twitter.com/search?q=Ligi+Europy) | N/A |
+| 18 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 19 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
+| 20 | [Brimstone](http://twitter.com/search?q=Brimstone) | N/A |
+| 21 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 22 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 23 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 24 | [Trento](http://twitter.com/search?q=Trento) | N/A |
+| 25 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 26 | [JAGM](http://twitter.com/search?q=JAGM) | N/A |
+| 27 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 28 | [Grot](http://twitter.com/search?q=Grot) | N/A |
-| 29 | [JAGM](http://twitter.com/search?q=JAGM) | N/A |
-| 30 | [Alkmaar](http://twitter.com/search?q=Alkmaar) | N/A |
-| 31 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 32 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 33 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 34 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
-| 35 | [Szwedów](http://twitter.com/search?q=Szwed%c3%b3w) | N/A |
-| 36 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 37 | [Villareal](http://twitter.com/search?q=Villareal) | N/A |
-| 38 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 39 | [Falubazu](http://twitter.com/search?q=Falubazu) | N/A |
-| 40 | [Djurgarden](http://twitter.com/search?q=Djurgarden) | N/A |
-| 41 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
-| 42 | [Intertoto](http://twitter.com/search?q=Intertoto) | N/A |
-| 43 | [Migi](http://twitter.com/search?q=Migi) | N/A |
-| 44 | [Ligi Konferencji Europy](http://twitter.com/search?q=Ligi+Konferencji+Europy) | N/A |
-| 45 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
-| 46 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
-| 47 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 48 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
-| 49 | [Generale](http://twitter.com/search?q=Generale) | N/A |
-| 50 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
+| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 30 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
+| 31 | [Nicea](http://twitter.com/search?q=Nicea) | N/A |
+| 32 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 33 | [Inflacja](http://twitter.com/search?q=Inflacja) | N/A |
+| 34 | [Kolejorza](http://twitter.com/search?q=Kolejorza) | N/A |
+| 35 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 36 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 37 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 38 | [Djurgarden](http://twitter.com/search?q=Djurgarden) | N/A |
+| 39 | [Szwedzi](http://twitter.com/search?q=Szwedzi) | N/A |
+| 40 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 41 | [Intertoto](http://twitter.com/search?q=Intertoto) | N/A |
+| 42 | [Falubazu](http://twitter.com/search?q=Falubazu) | N/A |
+| 43 | [Biedronce](http://twitter.com/search?q=Biedronce) | N/A |
+| 44 | [Alkmaar](http://twitter.com/search?q=Alkmaar) | N/A |
+| 45 | [Slovan](http://twitter.com/search?q=Slovan) | N/A |
+| 46 | [Giertych](http://twitter.com/search?q=Giertych) | N/A |
+| 47 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 48 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
+| 49 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 50 | [Ligi Konferencji Europy](http://twitter.com/search?q=Ligi+Konferencji+Europy) | N/A |
 
 
 

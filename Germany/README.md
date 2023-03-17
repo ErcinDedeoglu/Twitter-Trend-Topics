@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-16 23:17:22 UTC`
+📆 Last Updated: `2023-03-17 00:28:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Germany
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
-| 3 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 4 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 5 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 3 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 4 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 6 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 7 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
-| 8 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 9 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [#USGFCU](http://twitter.com/search?q=%23USGFCU) | N/A |
-| 12 | [#STGUBE](http://twitter.com/search?q=%23STGUBE) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [Tracy](http://twitter.com/search?q=Tracy) | N/A |
-| 15 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 7 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 8 | [#USGFCU](http://twitter.com/search?q=%23USGFCU) | N/A |
+| 9 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
+| 10 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 11 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 12 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 13 | [Socken](http://twitter.com/search?q=Socken) | N/A |
+| 14 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 15 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
 | 16 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 17 | [Extensions](http://twitter.com/search?q=Extensions) | N/A |
-| 18 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 19 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
-| 20 | [Frisur](http://twitter.com/search?q=Frisur) | N/A |
-| 21 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 22 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
-| 23 | [Jülide](http://twitter.com/search?q=J%c3%bclide) | N/A |
-| 24 | [Krisen Zentrum](http://twitter.com/search?q=Krisen+Zentrum) | N/A |
-| 25 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 26 | [Haaren](http://twitter.com/search?q=Haaren) | N/A |
-| 27 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
-| 28 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
-| 29 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
-| 30 | [Herr General](http://twitter.com/search?q=Herr+General) | N/A |
-| 31 | [Kakadu](http://twitter.com/search?q=Kakadu) | N/A |
+| 17 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 18 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 19 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
+| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 21 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
+| 22 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
+| 23 | [Krisen Zentrum](http://twitter.com/search?q=Krisen+Zentrum) | N/A |
+| 24 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
+| 25 | [Herr General](http://twitter.com/search?q=Herr+General) | N/A |
+| 26 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 27 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 28 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 29 | [Axel Springer](http://twitter.com/search?q=Axel+Springer) | N/A |
+| 30 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 31 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
 | 32 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 33 | [Axel Springer](http://twitter.com/search?q=Axel+Springer) | N/A |
-| 34 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 35 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 36 | [Nacktbilder](http://twitter.com/search?q=Nacktbilder) | N/A |
+| 33 | [Ingo](http://twitter.com/search?q=Ingo) | N/A |
+| 34 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
+| 35 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 36 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 37 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 38 | [Model](http://twitter.com/search?q=Model) | N/A |
-| 39 | [Socken](http://twitter.com/search?q=Socken) | N/A |
+| 38 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 39 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
 | 40 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 41 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
-| 42 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 43 | [Chefredaktion](http://twitter.com/search?q=Chefredaktion) | N/A |
-| 44 | [Restle](http://twitter.com/search?q=Restle) | N/A |
-| 45 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 46 | [Mobbing](http://twitter.com/search?q=Mobbing) | N/A |
-| 47 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 48 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 49 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 50 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
+| 41 | [Chefredaktion](http://twitter.com/search?q=Chefredaktion) | N/A |
+| 42 | [Extensions](http://twitter.com/search?q=Extensions) | N/A |
+| 43 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 44 | [Gute Nacht ihr Lieben](http://twitter.com/search?q=Gute+Nacht+ihr+Lieben) | N/A |
+| 45 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 46 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 47 | [absturz](http://twitter.com/search?q=absturz) | N/A |
+| 48 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 49 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 50 | [Jasmin](http://twitter.com/search?q=Jasmin) | N/A |
 
 
 

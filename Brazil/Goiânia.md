@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-16 23:16:42 UTC`
+📆 Last Updated: `2023-03-17 00:28:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [EXPULSA OS DOIS BBB](http://twitter.com/search?q=EXPULSA+OS+DOIS+BBB) | N/A |
-| 3 | [#reelzapp](http://twitter.com/search?q=%23reelzapp) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 6 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
-| 7 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 8 | [Sant](http://twitter.com/search?q=Sant) | N/A |
-| 9 | [#MardoSertão](http://twitter.com/search?q=%23MardoSert%c3%a3o) | N/A |
-| 10 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
-| 11 | [Joana](http://twitter.com/search?q=Joana) | N/A |
-| 12 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 13 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 14 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
-| 15 | [Oi Lula](http://twitter.com/search?q=Oi+Lula) | N/A |
-| 16 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 17 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 18 | [Pedro Gonçalves](http://twitter.com/search?q=Pedro+Gon%c3%a7alves) | N/A |
+| 1 | [#DecretosReais3](http://twitter.com/search?q=%23DecretosReais3) | N/A |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [EXPULSA OS DOIS BBB](http://twitter.com/search?q=EXPULSA+OS+DOIS+BBB) | N/A |
+| 4 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 5 | [#reelzapp](http://twitter.com/search?q=%23reelzapp) | N/A |
+| 6 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 7 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
+| 8 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 12 | [Ferroviário](http://twitter.com/search?q=Ferrovi%c3%a1rio) | N/A |
+| 13 | [Sant](http://twitter.com/search?q=Sant) | N/A |
+| 14 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
+| 15 | [Favoritos](http://twitter.com/search?q=Favoritos) | N/A |
+| 16 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 17 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 18 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
 | 19 | [#AssedioBBB](http://twitter.com/search?q=%23AssedioBBB) | N/A |
-| 20 | [BANDIDAS NO TVZ POCAH](http://twitter.com/search?q=BANDIDAS+NO+TVZ+POCAH) | N/A |
-| 21 | [DANIA MERECE RESPEITO](http://twitter.com/search?q=DANIA+MERECE+RESPEITO) | N/A |
-| 22 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 23 | [LAUANA PRADO](http://twitter.com/search?q=LAUANA+PRADO) | N/A |
-| 24 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
-| 25 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
-| 26 | [QR Code](http://twitter.com/search?q=QR+Code) | N/A |
-| 27 | [lottie](http://twitter.com/search?q=lottie) | N/A |
-| 28 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 29 | [AS UNHAS](http://twitter.com/search?q=AS+UNHAS) | N/A |
-| 30 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 31 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 32 | [Collor](http://twitter.com/search?q=Collor) | N/A |
-| 33 | [Liga Europa](http://twitter.com/search?q=Liga+Europa) | N/A |
-| 34 | [SAFE AND SOUND](http://twitter.com/search?q=SAFE+AND+SOUND) | N/A |
-| 35 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 36 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 37 | [Marcos Paulo](http://twitter.com/search?q=Marcos+Paulo) | N/A |
-| 38 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 39 | [Nikolai](http://twitter.com/search?q=Nikolai) | N/A |
-| 40 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 41 | [Mayhem](http://twitter.com/search?q=Mayhem) | N/A |
-| 42 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 43 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 44 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
-| 45 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
-| 46 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
-| 47 | [Dunga](http://twitter.com/search?q=Dunga) | N/A |
-| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 49 | [PARK JIMIN IS COMING](http://twitter.com/search?q=PARK+JIMIN+IS+COMING) | "PARK JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of South Korean singer and dancer Park Jimin. It is often used by fans of Park Jimin to show their enthusiasm for his upcoming appearances or releases. |
+| 20 | [Sula](http://twitter.com/search?q=Sula) | N/A |
+| 21 | [LAGUM EP FIM](http://twitter.com/search?q=LAGUM+EP+FIM) | N/A |
+| 22 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 23 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 24 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 25 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 26 | [Chamaram a Dania](http://twitter.com/search?q=Chamaram+a+Dania) | N/A |
+| 27 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
+| 28 | [Joana](http://twitter.com/search?q=Joana) | N/A |
+| 29 | [Oi Lula](http://twitter.com/search?q=Oi+Lula) | N/A |
+| 30 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 31 | [DANIA MERECE RESPEITO](http://twitter.com/search?q=DANIA+MERECE+RESPEITO) | N/A |
+| 32 | [Vojvoda](http://twitter.com/search?q=Vojvoda) | N/A |
+| 33 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
+| 34 | [Douglas Dias](http://twitter.com/search?q=Douglas+Dias) | N/A |
+| 35 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 36 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 37 | [MC Gui](http://twitter.com/search?q=MC+Gui) | N/A |
+| 38 | [QR Code](http://twitter.com/search?q=QR+Code) | N/A |
+| 39 | [Sul-americana](http://twitter.com/search?q=Sul-americana) | N/A |
+| 40 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 41 | [BANDIDAS NO TVZ POCAH](http://twitter.com/search?q=BANDIDAS+NO+TVZ+POCAH) | N/A |
+| 42 | [Jardel](http://twitter.com/search?q=Jardel) | N/A |
+| 43 | [LAUANA PRADO](http://twitter.com/search?q=LAUANA+PRADO) | N/A |
+| 44 | [Arthur Gomes](http://twitter.com/search?q=Arthur+Gomes) | N/A |
+| 45 | [Gabriel Monteiro](http://twitter.com/search?q=Gabriel+Monteiro) | N/A |
+| 46 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 47 | [Pedro Gonçalves](http://twitter.com/search?q=Pedro+Gon%c3%a7alves) | N/A |
+| 48 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 49 | [Amin Khader](http://twitter.com/search?q=Amin+Khader) | N/A |
 
 
 
