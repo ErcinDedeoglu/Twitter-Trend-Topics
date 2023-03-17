@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-17 21:16:46 UTC`
+📆 Last Updated: `2023-03-17 22:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#AFLCatsPies](http://twitter.com/search?q=%23AFLCatsPies) | N/A |
 | 2 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
 | 3 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 4 | [#AFLTigersBlues](http://twitter.com/search?q=%23AFLTigersBlues) | N/A |
+| 4 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 5 | [#nrlRoostersSouths](http://twitter.com/search?q=%23nrlRoostersSouths) | N/A |
 | 6 | [#nrlknightsdolphins](http://twitter.com/search?q=%23nrlknightsdolphins) | N/A |
 | 7 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 8 | [Keating](http://twitter.com/search?q=Keating) | N/A |
-| 9 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 10 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 13 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 14 | [Howe](http://twitter.com/search?q=Howe) | N/A |
-| 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 16 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
-| 17 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
-| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 19 | [Cody Walker](http://twitter.com/search?q=Cody+Walker) | N/A |
-| 20 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 21 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
-| 22 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 23 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 24 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 25 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 26 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
-| 29 | [mason cox](http://twitter.com/search?q=mason+cox) | N/A |
-| 30 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 31 | [Menindee](http://twitter.com/search?q=Menindee) | N/A |
-| 32 | [Darcy Moore](http://twitter.com/search?q=Darcy+Moore) | N/A |
-| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 34 | [Dom Young](http://twitter.com/search?q=Dom+Young) | N/A |
-| 35 | [Bruhn](http://twitter.com/search?q=Bruhn) | N/A |
-| 36 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 37 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 38 | [Tom Mitchell](http://twitter.com/search?q=Tom+Mitchell) | N/A |
-| 39 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 40 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
+| 8 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 9 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 10 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 11 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 12 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 13 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 14 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 17 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 18 | [Howe](http://twitter.com/search?q=Howe) | N/A |
+| 19 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 21 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
+| 22 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
+| 23 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
+| 24 | [Cody Walker](http://twitter.com/search?q=Cody+Walker) | N/A |
+| 25 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 27 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 28 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 29 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 30 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
+| 31 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 32 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 33 | [Menindee](http://twitter.com/search?q=Menindee) | N/A |
+| 34 | [Darcy Moore](http://twitter.com/search?q=Darcy+Moore) | N/A |
+| 35 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 37 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
+| 38 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 39 | [dom young](http://twitter.com/search?q=dom+young) | N/A |
+| 40 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
 | 41 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 42 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 43 | [Brian Walsh](http://twitter.com/search?q=Brian+Walsh) | N/A |
-| 44 | [selwood](http://twitter.com/search?q=selwood) | N/A |
-| 45 | [Tomahawk](http://twitter.com/search?q=Tomahawk) | N/A |
-| 46 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 47 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 48 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 49 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
+| 42 | [Moonee Valley](http://twitter.com/search?q=Moonee+Valley) | N/A |
+| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 44 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 45 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 46 | [Tom Mitchell](http://twitter.com/search?q=Tom+Mitchell) | N/A |
+| 47 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 48 | [Brian Walsh](http://twitter.com/search?q=Brian+Walsh) | N/A |
+| 49 | [selwood](http://twitter.com/search?q=selwood) | N/A |
 
 
 

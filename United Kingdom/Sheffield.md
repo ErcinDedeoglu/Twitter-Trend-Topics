@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-17 21:16:25 UTC`
+📆 Last Updated: `2023-03-17 22:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 2 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 3 | [Premier Magic](http://twitter.com/search?q=Premier+Magic) | N/A |
-| 4 | [#LDConf](http://twitter.com/search?q=%23LDConf) | N/A |
-| 5 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 6 | [Dalian Atkinson](http://twitter.com/search?q=Dalian+Atkinson) | N/A |
-| 7 | [#GW28](http://twitter.com/search?q=%23GW28) | N/A |
-| 8 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 9 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 10 | [Katelyn](http://twitter.com/search?q=Katelyn) | N/A |
-| 11 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 12 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
-| 13 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 14 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
-| 15 | [Resident Evil](http://twitter.com/search?q=Resident+Evil) | N/A |
-| 16 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 17 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 18 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
-| 19 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 20 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 21 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 22 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 23 | [RIP Lance Reddick](http://twitter.com/search?q=RIP+Lance+Reddick) | N/A |
-| 24 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
-| 25 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 1 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 2 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 3 | [Geordies](http://twitter.com/search?q=Geordies) | N/A |
+| 4 | [#TALKSWITHASH](http://twitter.com/search?q=%23TALKSWITHASH) | N/A |
+| 5 | [Mrs Doubtfire](http://twitter.com/search?q=Mrs+Doubtfire) | N/A |
+| 6 | [City Ground](http://twitter.com/search?q=City+Ground) | N/A |
+| 7 | [Schar](http://twitter.com/search?q=Schar) | N/A |
+| 8 | [#BMGolden](http://twitter.com/search?q=%23BMGolden) | N/A |
+| 9 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 10 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 11 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 12 | [St George](http://twitter.com/search?q=St+George) | N/A |
+| 13 | [#FreePC](http://twitter.com/search?q=%23FreePC) | N/A |
+| 14 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 15 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 16 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 17 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 18 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
+| 19 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 20 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 21 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 22 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 23 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
+| 24 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 26 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
 | 27 | [Botman](http://twitter.com/search?q=Botman) | N/A |
-| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 29 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 30 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
-| 31 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 28 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 29 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 30 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 32 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 34 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 35 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
-| 36 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 37 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 38 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 39 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 40 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
-| 41 | [David Tennant](http://twitter.com/search?q=David+Tennant) | N/A |
-| 42 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 43 | [Murray Foote](http://twitter.com/search?q=Murray+Foote) | N/A |
-| 44 | [Jonjo](http://twitter.com/search?q=Jonjo) | N/A |
-| 45 | [Sam Neill](http://twitter.com/search?q=Sam+Neill) | N/A |
-| 46 | [Yates](http://twitter.com/search?q=Yates) | N/A |
-| 47 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 48 | [Lenny Henry](http://twitter.com/search?q=Lenny+Henry) | N/A |
+| 33 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 34 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 35 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 36 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 37 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 38 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 39 | [David Tennant](http://twitter.com/search?q=David+Tennant) | N/A |
+| 40 | [Yates](http://twitter.com/search?q=Yates) | N/A |
+| 41 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 42 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
+| 43 | [Aurier](http://twitter.com/search?q=Aurier) | Aurier is a French surname. It is derived from the Latin word aurum, meaning "gold". In English, it can be translated to mean "of gold" or "golden". |
+| 44 | [Steve Cooper](http://twitter.com/search?q=Steve+Cooper) | N/A |
+| 45 | [Niakhate](http://twitter.com/search?q=Niakhate) | N/A |
+| 46 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 47 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 48 | [Murray Foote](http://twitter.com/search?q=Murray+Foote) | N/A |
+| 49 | [Sam Neill](http://twitter.com/search?q=Sam+Neill) | N/A |
+| 50 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
 
 
 

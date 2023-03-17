@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-17 21:16:34 UTC`
+📆 Last Updated: `2023-03-17 22:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
-| 2 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 3 | [#WarnerIsOverParty](http://twitter.com/search?q=%23WarnerIsOverParty) | N/A |
-| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 5 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 6 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 8 | [FIES](http://twitter.com/search?q=FIES) | FIES stands for the Brazilian Federal Student Aid Program. It is a government program that provides financial aid to students in Brazil who are enrolled in higher education. The program helps students pay for tuition, books, and other educational expenses. |
-| 9 | [Lucas Leiva](http://twitter.com/search?q=Lucas+Leiva) | N/A |
-| 10 | [Sônia](http://twitter.com/search?q=S%c3%b4nia) | N/A |
-| 11 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 12 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 13 | [#ForaAmanda](http://twitter.com/search?q=%23ForaAmanda) | N/A |
-| 14 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 15 | [Eloá](http://twitter.com/search?q=Elo%c3%a1) | N/A |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 18 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
-| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 21 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
-| 22 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 23 | [Tribunal Penal Internacional](http://twitter.com/search?q=Tribunal+Penal+Internacional) | N/A |
-| 24 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 25 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 1 | [#MardoSertão](http://twitter.com/search?q=%23MardoSert%c3%a3o) | N/A |
+| 2 | [Tertulinho](http://twitter.com/search?q=Tertulinho) | N/A |
+| 3 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
+| 4 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 5 | [#WarnerIsOverParty](http://twitter.com/search?q=%23WarnerIsOverParty) | N/A |
+| 6 | [Faz o X](http://twitter.com/search?q=Faz+o+X) | N/A |
+| 7 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 8 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 9 | [#DAYnaRedeTV](http://twitter.com/search?q=%23DAYnaRedeTV) | N/A |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 11 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 12 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 13 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 14 | [Deodora](http://twitter.com/search?q=Deodora) | N/A |
+| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 16 | [Sônia](http://twitter.com/search?q=S%c3%b4nia) | N/A |
+| 17 | [FIES](http://twitter.com/search?q=FIES) | FIES stands for the Brazilian Federal Student Aid Program. It is a government program that provides financial aid to students in Brazil who are enrolled in higher education. The program helps students pay for tuition, books, and other educational expenses. |
+| 18 | [Candoca](http://twitter.com/search?q=Candoca) | N/A |
+| 19 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 20 | [Lucas Leiva](http://twitter.com/search?q=Lucas+Leiva) | N/A |
+| 21 | [Eloá](http://twitter.com/search?q=Elo%c3%a1) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 24 | [pedro sampaio](http://twitter.com/search?q=pedro+sampaio) | N/A |
+| 25 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
 | 26 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 27 | [pedro sampaio](http://twitter.com/search?q=pedro+sampaio) | N/A |
-| 28 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
-| 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 30 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 31 | [Barra Funda](http://twitter.com/search?q=Barra+Funda) | N/A |
-| 32 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 33 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 34 | [Wesker](http://twitter.com/search?q=Wesker) | N/A |
-| 35 | [Cotia](http://twitter.com/search?q=Cotia) | N/A |
-| 36 | [Dantes](http://twitter.com/search?q=Dantes) | N/A |
-| 37 | [Treme](http://twitter.com/search?q=Treme) | N/A |
-| 38 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 39 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
-| 40 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
-| 41 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 42 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
-| 43 | [Edir Macedo](http://twitter.com/search?q=Edir+Macedo) | N/A |
-| 44 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
+| 27 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 28 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
+| 29 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 30 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 31 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 32 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 33 | [Tribunal Penal Internacional](http://twitter.com/search?q=Tribunal+Penal+Internacional) | N/A |
+| 34 | [Tom Cruise](http://twitter.com/search?q=Tom+Cruise) | N/A |
+| 35 | [Zé Paulino](http://twitter.com/search?q=Z%c3%a9+Paulino) | N/A |
+| 36 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
+| 37 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 38 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 39 | [Timbó](http://twitter.com/search?q=Timb%c3%b3) | N/A |
+| 40 | [Devin Booker](http://twitter.com/search?q=Devin+Booker) | N/A |
+| 41 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 42 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
+| 43 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
+| 44 | [Lost](http://twitter.com/search?q=Lost) | N/A |
 
 
 

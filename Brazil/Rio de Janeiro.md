@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-17 21:16:33 UTC`
+📆 Last Updated: `2023-03-17 22:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 2 | [Leandro](http://twitter.com/search?q=Leandro) | N/A |
-| 3 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
-| 4 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
-| 5 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 6 | [#WarnerIsOverParty](http://twitter.com/search?q=%23WarnerIsOverParty) | N/A |
-| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 9 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 10 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 11 | [FIES](http://twitter.com/search?q=FIES) | FIES stands for the Brazilian Federal Student Aid Program. It is a government program that provides financial aid to students in Brazil who are enrolled in higher education. The program helps students pay for tuition, books, and other educational expenses. |
-| 12 | [Lucas Leiva](http://twitter.com/search?q=Lucas+Leiva) | N/A |
-| 13 | [Sônia Abrão](http://twitter.com/search?q=S%c3%b4nia+Abr%c3%a3o) | N/A |
-| 14 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 15 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 16 | [#ForaAmanda](http://twitter.com/search?q=%23ForaAmanda) | N/A |
-| 17 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 18 | [Eloá](http://twitter.com/search?q=Elo%c3%a1) | N/A |
-| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 21 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
-| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 24 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
-| 25 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 26 | [Tribunal Penal Internacional](http://twitter.com/search?q=Tribunal+Penal+Internacional) | N/A |
-| 27 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 28 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 29 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 30 | [pedro sampaio](http://twitter.com/search?q=pedro+sampaio) | N/A |
-| 31 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [#DiaDoFãMeM](http://twitter.com/search?q=%23DiaDoF%c3%a3MeM) | N/A |
-| 34 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 35 | [Barra Funda](http://twitter.com/search?q=Barra+Funda) | N/A |
-| 36 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 37 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 38 | [Wesker](http://twitter.com/search?q=Wesker) | N/A |
-| 39 | [Cotia](http://twitter.com/search?q=Cotia) | N/A |
-| 40 | [Dantes](http://twitter.com/search?q=Dantes) | N/A |
-| 41 | [Treme](http://twitter.com/search?q=Treme) | N/A |
-| 42 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
-| 43 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
-| 44 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
-| 45 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 46 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
-| 47 | [Edir Macedo](http://twitter.com/search?q=Edir+Macedo) | N/A |
-| 48 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
-| 49 | [Inflação](http://twitter.com/search?q=Infla%c3%a7%c3%a3o) | N/A |
-| 50 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [INSS](http://twitter.com/search?q=INSS) | N/A |
+| 4 | [Leandro](http://twitter.com/search?q=Leandro) | N/A |
+| 5 | [#MardoSertão](http://twitter.com/search?q=%23MardoSert%c3%a3o) | N/A |
+| 6 | [Tertulinho](http://twitter.com/search?q=Tertulinho) | N/A |
+| 7 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
+| 8 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 9 | [#WarnerIsOverParty](http://twitter.com/search?q=%23WarnerIsOverParty) | N/A |
+| 10 | [Faz o X](http://twitter.com/search?q=Faz+o+X) | N/A |
+| 11 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 12 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 13 | [#DAYnaRedeTV](http://twitter.com/search?q=%23DAYnaRedeTV) | N/A |
+| 14 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 17 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 18 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 19 | [Deodora](http://twitter.com/search?q=Deodora) | N/A |
+| 20 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 21 | [Sônia](http://twitter.com/search?q=S%c3%b4nia) | N/A |
+| 22 | [FIES](http://twitter.com/search?q=FIES) | FIES stands for the Brazilian Federal Student Aid Program. It is a government program that provides financial aid to students in Brazil who are enrolled in higher education. The program helps students pay for tuition, books, and other educational expenses. |
+| 23 | [Candoca](http://twitter.com/search?q=Candoca) | N/A |
+| 24 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 25 | [Lucas Leiva](http://twitter.com/search?q=Lucas+Leiva) | N/A |
+| 26 | [Eloá](http://twitter.com/search?q=Elo%c3%a1) | N/A |
+| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 28 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 29 | [pedro sampaio](http://twitter.com/search?q=pedro+sampaio) | N/A |
+| 30 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 31 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
+| 32 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 33 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
+| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 35 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 36 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 37 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 38 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
+| 39 | [Tribunal Penal Internacional](http://twitter.com/search?q=Tribunal+Penal+Internacional) | N/A |
+| 40 | [Tom Cruise](http://twitter.com/search?q=Tom+Cruise) | N/A |
+| 41 | [Zé Paulino](http://twitter.com/search?q=Z%c3%a9+Paulino) | N/A |
+| 42 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
+| 43 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 44 | [Devin Booker](http://twitter.com/search?q=Devin+Booker) | N/A |
+| 45 | [Timbó](http://twitter.com/search?q=Timb%c3%b3) | N/A |
+| 46 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 47 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
+| 48 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
+| 49 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 50 | [Especialistas](http://twitter.com/search?q=Especialistas) | N/A |
 
 
 

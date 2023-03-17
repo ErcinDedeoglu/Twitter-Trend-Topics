@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-03-17 21:17:27 UTC`
+📆 Last Updated: `2023-03-17 22:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 1 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
 | 2 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
 | 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 5 | [LEE ZII JIA](http://twitter.com/search?q=LEE+ZII+JIA) | N/A |
-| 6 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Ng Tze Yong](http://twitter.com/search?q=Ng+Tze+Yong) | N/A |
-| 10 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 11 | [AXELSEN](http://twitter.com/search?q=AXELSEN) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 14 | [Viggo](http://twitter.com/search?q=Viggo) | N/A |
+| 4 | [Ng Tze Yong](http://twitter.com/search?q=Ng+Tze+Yong) | N/A |
+| 5 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 6 | [LEE ZII JIA](http://twitter.com/search?q=LEE+ZII+JIA) | N/A |
+| 7 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 12 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 15 | [giselle](http://twitter.com/search?q=giselle) | N/A |
-| 16 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 17 | [Naim](http://twitter.com/search?q=Naim) | N/A |
-| 18 | [Viktor](http://twitter.com/search?q=Viktor) | N/A |
-| 19 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 20 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
-| 21 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 22 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 23 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 24 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 25 | [Ripple](http://twitter.com/search?q=Ripple) | N/A |
-| 26 | [Ampang Park](http://twitter.com/search?q=Ampang+Park) | N/A |
-| 27 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 28 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 29 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
+| 16 | [Viggo](http://twitter.com/search?q=Viggo) | N/A |
+| 17 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 18 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 19 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
+| 20 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 21 | [jinki](http://twitter.com/search?q=jinki) | N/A |
+| 22 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 23 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 24 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 26 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 27 | [Ripple](http://twitter.com/search?q=Ripple) | N/A |
+| 28 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 29 | [Ampang Park](http://twitter.com/search?q=Ampang+Park) | N/A |
 | 30 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 31 | [onew](http://twitter.com/search?q=onew) | N/A |
-| 32 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 33 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
-| 36 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 37 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 38 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 39 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 40 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 41 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
-| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 43 | [cyberjaya](http://twitter.com/search?q=cyberjaya) | N/A |
-| 44 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 45 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 46 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
-| 47 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 48 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 49 | [YUURI](http://twitter.com/search?q=YUURI) | N/A |
+| 31 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 32 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 33 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 34 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
+| 35 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 36 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 38 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
+| 39 | [ALL ROUNDER INTERN V](http://twitter.com/search?q=ALL+ROUNDER+INTERN+V) | N/A |
+| 40 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 41 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 42 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 43 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
+| 44 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 45 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 46 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
+| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 48 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
+| 49 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-17 21:17:20 UTC`
+📆 Last Updated: `2023-03-17 22:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for France
 | 4 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
 | 5 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
 | 6 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 7 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 8 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 9 | [#Concorde](http://twitter.com/search?q=%23Concorde) | N/A |
-| 10 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 11 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 12 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 13 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
-| 14 | [#LOLQuiRitSort3](http://twitter.com/search?q=%23LOLQuiRitSort3) | N/A |
-| 15 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
-| 16 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 17 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 18 | [Djamel](http://twitter.com/search?q=Djamel) | N/A |
-| 19 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 20 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 21 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 22 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
-| 23 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
-| 24 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
-| 25 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 26 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 27 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
-| 28 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
-| 29 | [Cour](http://twitter.com/search?q=Cour) | N/A |
-| 30 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 31 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 32 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 33 | [Baki](http://twitter.com/search?q=Baki) | N/A |
-| 34 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 35 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 36 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
-| 37 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
-| 38 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 39 | [Sarkozy](http://twitter.com/search?q=Sarkozy) | N/A |
-| 40 | [Chloé](http://twitter.com/search?q=Chlo%c3%a9) | N/A |
-| 41 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
-| 42 | [Peugeot](http://twitter.com/search?q=Peugeot) | N/A |
-| 43 | [Bouygues](http://twitter.com/search?q=Bouygues) | N/A |
-| 44 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
-| 45 | [Occupe](http://twitter.com/search?q=Occupe) | N/A |
-| 46 | [#VHiveS2](http://twitter.com/search?q=%23VHiveS2) | N/A |
-| 47 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 48 | [#NationalFFF](http://twitter.com/search?q=%23NationalFFF) | N/A |
-| 49 | [#ASNLLBC](http://twitter.com/search?q=%23ASNLLBC) | N/A |
-| 50 | [#ProD2](http://twitter.com/search?q=%23ProD2) | N/A |
+| 7 | [Oumar Sy](http://twitter.com/search?q=Oumar+Sy) | N/A |
+| 8 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 9 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 10 | [#Concorde](http://twitter.com/search?q=%23Concorde) | N/A |
+| 11 | [Juliette Armanet](http://twitter.com/search?q=Juliette+Armanet) | N/A |
+| 12 | [#LOLQuiRitSort3](http://twitter.com/search?q=%23LOLQuiRitSort3) | N/A |
+| 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 14 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 15 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 16 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 17 | [#KSW80](http://twitter.com/search?q=%23KSW80) | N/A |
+| 18 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
+| 19 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 20 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 21 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 22 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 23 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
+| 24 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 25 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
+| 26 | [Djamel](http://twitter.com/search?q=Djamel) | N/A |
+| 27 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 28 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
+| 29 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 30 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 31 | [Bayrou](http://twitter.com/search?q=Bayrou) | N/A |
+| 32 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 33 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 34 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
+| 35 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 36 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 37 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
+| 38 | [Cour](http://twitter.com/search?q=Cour) | N/A |
+| 39 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
+| 40 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 41 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 42 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 43 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
+| 44 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
+| 45 | [Chloé](http://twitter.com/search?q=Chlo%c3%a9) | N/A |
+| 46 | [Baki](http://twitter.com/search?q=Baki) | N/A |
+| 47 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 48 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 49 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
+| 50 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 
 
 

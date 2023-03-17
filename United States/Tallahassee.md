@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-03-17 21:17:17 UTC`
+📆 Last Updated: `2023-03-17 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
-| 2 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 3 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 4 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 5 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 6 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 7 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 8 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 9 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 10 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 11 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
-| 12 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
-| 13 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 14 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 15 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 16 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 17 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 18 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 19 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 20 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
-| 21 | [Kam Jones](http://twitter.com/search?q=Kam+Jones) | N/A |
-| 22 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 23 | [Iona](http://twitter.com/search?q=Iona) | N/A |
-| 24 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 25 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 26 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 27 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 28 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
-| 29 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 30 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
-| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 32 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 33 | [Only 60](http://twitter.com/search?q=Only+60) | N/A |
-| 34 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 35 | [Guardian](http://twitter.com/search?q=Guardian) | N/A |
-| 36 | [Charon](http://twitter.com/search?q=Charon) | N/A |
-| 37 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 38 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
-| 39 | [Drue](http://twitter.com/search?q=Drue) | N/A |
-| 40 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 41 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
-| 42 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 43 | [Broyles](http://twitter.com/search?q=Broyles) | N/A |
-| 44 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 45 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 46 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 47 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 48 | [The Guest](http://twitter.com/search?q=The+Guest) | N/A |
-| 49 | [Corporate](http://twitter.com/search?q=Corporate) | N/A |
+| 1 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 2 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 3 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 5 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 6 | [Puerto Rican](http://twitter.com/search?q=Puerto+Rican) | N/A |
+| 7 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 8 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 9 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 10 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 11 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 12 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 13 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 15 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
+| 16 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 17 | [Iona](http://twitter.com/search?q=Iona) | N/A |
+| 18 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 19 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 20 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 21 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
+| 22 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 23 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 24 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
+| 25 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 26 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 27 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
+| 28 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 29 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 30 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 31 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
+| 32 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 33 | [Kam Jones](http://twitter.com/search?q=Kam+Jones) | N/A |
+| 34 | [Hail to Pitt](http://twitter.com/search?q=Hail+to+Pitt) | N/A |
+| 35 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
+| 36 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 37 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 38 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 39 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
+| 40 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 41 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 42 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 43 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
+| 44 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
+| 45 | [Drue](http://twitter.com/search?q=Drue) | N/A |
+| 46 | [Cyclones](http://twitter.com/search?q=Cyclones) | N/A |
+| 47 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 48 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
+| 49 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
 
 
 

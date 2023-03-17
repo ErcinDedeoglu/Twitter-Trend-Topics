@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-17 21:17:19 UTC`
+📆 Last Updated: `2023-03-17 22:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,39 +20,40 @@ This is top 50 for Canada
 | 3 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 4 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 5 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 6 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 7 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 8 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 9 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 6 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 7 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 8 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 9 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
 | 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 11 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 12 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 13 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 14 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 15 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 16 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 17 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 18 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 19 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 20 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 21 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 22 | [Pizza Hut](http://twitter.com/search?q=Pizza+Hut) | N/A |
-| 23 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 24 | [Globe](http://twitter.com/search?q=Globe) | N/A |
-| 25 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 26 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
-| 27 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 28 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 29 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 30 | [#luckoftheirish](http://twitter.com/search?q=%23luckoftheirish) | N/A |
-| 31 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 32 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
-| 33 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 34 | [Fife](http://twitter.com/search?q=Fife) | N/A |
+| 11 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 12 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 13 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 14 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 15 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 16 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 17 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 18 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 19 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 20 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 21 | [Globe](http://twitter.com/search?q=Globe) | N/A |
+| 22 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
+| 23 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 24 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 25 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 26 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 27 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 28 | [Pizza Hut](http://twitter.com/search?q=Pizza+Hut) | N/A |
+| 29 | [#furnalequinox2023](http://twitter.com/search?q=%23furnalequinox2023) | N/A |
+| 30 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 31 | [Fife](http://twitter.com/search?q=Fife) | N/A |
+| 32 | [Butts](http://twitter.com/search?q=Butts) | N/A |
+| 33 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
+| 34 | [Green](http://twitter.com/search?q=Green) | N/A |
 | 35 | [Gerald](http://twitter.com/search?q=Gerald) | N/A |
-| 36 | [Guelph](http://twitter.com/search?q=Guelph) | N/A |
-| 37 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
-| 38 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 36 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 37 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
+| 38 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
+| 39 | [#LuckoftheIrish](http://twitter.com/search?q=%23LuckoftheIrish) | N/A |
 
 
 
