@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-17 20:17:24 UTC`
+📆 Last Updated: `2023-03-17 21:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 3 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
-| 4 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 5 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 6 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 7 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 8 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 9 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 10 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 11 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 12 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
-| 13 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 14 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
-| 15 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
-| 16 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 17 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 18 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 19 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 2 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
+| 3 | [#SicEm](http://twitter.com/search?q=%23SicEm) | N/A |
+| 4 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
+| 5 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 6 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
+| 7 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 8 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 9 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 10 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 11 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 12 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 13 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 14 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 15 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 17 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
+| 18 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 19 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
 | 20 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 21 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 22 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
-| 23 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 24 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 25 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 26 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 27 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
-| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 29 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
-| 30 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 31 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 32 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 33 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
-| 34 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 35 | [Charon](http://twitter.com/search?q=Charon) | N/A |
-| 36 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 37 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 38 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 39 | [Guardian](http://twitter.com/search?q=Guardian) | N/A |
-| 40 | [Broyles](http://twitter.com/search?q=Broyles) | N/A |
-| 41 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 42 | [Only 60](http://twitter.com/search?q=Only+60) | N/A |
-| 43 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
-| 44 | [The Guest](http://twitter.com/search?q=The+Guest) | N/A |
-| 45 | [Jack Nunge](http://twitter.com/search?q=Jack+Nunge) | N/A |
-| 46 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 47 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
-| 48 | [Corporate](http://twitter.com/search?q=Corporate) | N/A |
-| 49 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 50 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 21 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
+| 22 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 23 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 24 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 25 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 26 | [Kam Jones](http://twitter.com/search?q=Kam+Jones) | N/A |
+| 27 | [Iona](http://twitter.com/search?q=Iona) | N/A |
+| 28 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 29 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 30 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 31 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 32 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 33 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
+| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 35 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 36 | [Only 60](http://twitter.com/search?q=Only+60) | N/A |
+| 37 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 38 | [Guardian](http://twitter.com/search?q=Guardian) | N/A |
+| 39 | [Charon](http://twitter.com/search?q=Charon) | N/A |
+| 40 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 41 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
+| 42 | [Drue](http://twitter.com/search?q=Drue) | N/A |
+| 43 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 44 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
+| 45 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 46 | [Broyles](http://twitter.com/search?q=Broyles) | N/A |
+| 47 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 48 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
+| 49 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 50 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
 
 
 

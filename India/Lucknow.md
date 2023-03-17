@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-17 20:17:16 UTC`
+📆 Last Updated: `2023-03-17 21:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [विद्युत विभाग](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 1 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
 | 2 | [पावर हाउस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%b0+%e0%a4%b9%e0%a4%be%e0%a4%89%e0%a4%b8) | N/A |
-| 3 | [बिजली आपूर्ति](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 4 | [आम जनता](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
-| 5 | [PUBLIC STANDS WITH MC STAN](http://twitter.com/search?q=PUBLIC+STANDS+WITH+MC+STAN) | N/A |
-| 6 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 7 | [#KLRahul𓃵](http://twitter.com/search?q=%23KLRahul%f0%93%83%b5) | N/A |
-| 8 | [#FirstRapistOfIndia](http://twitter.com/search?q=%23FirstRapistOfIndia) | N/A |
-| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 10 | [#AmitShahAtIndiaTodayConclave](http://twitter.com/search?q=%23AmitShahAtIndiaTodayConclave) | N/A |
-| 11 | [#TeluguPrideNTRAtDhamki](http://twitter.com/search?q=%23TeluguPrideNTRAtDhamki) | N/A |
-| 12 | [Sushant Lone Warrior In BW](http://twitter.com/search?q=Sushant+Lone+Warrior+In+BW) | N/A |
-| 13 | [REMOVE FARHAD FROM HERAPHERI](http://twitter.com/search?q=REMOVE+FARHAD+FROM+HERAPHERI) | N/A |
-| 14 | [जयपुर उत्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
-| 15 | [जयपुर दक्षिण](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3) | N/A |
-| 16 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 17 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 18 | [जोधपुर पूर्व](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
-| 19 | [जोधपुर पश्चिम](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae) | N/A |
-| 20 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 21 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 22 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 23 | [करुणा यादव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 24 | [बिजली गुल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2) | N/A |
-| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 26 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 27 | [गंगापुर सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
-| 28 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 29 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 30 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 31 | [जिला मुख्यालय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
-| 34 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
-| 35 | [PM MITRA](http://twitter.com/search?q=PM+MITRA) | N/A |
-| 36 | [#MrsChatterjeeInCinemas](http://twitter.com/search?q=%23MrsChatterjeeInCinemas) | N/A |
-| 37 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
-| 38 | [#INDIAsPrideRAMCHARAN](http://twitter.com/search?q=%23INDIAsPrideRAMCHARAN) | N/A |
-| 39 | [#DasKaDhamki](http://twitter.com/search?q=%23DasKaDhamki) | N/A |
-| 40 | [#Rajasthan](http://twitter.com/search?q=%23Rajasthan) | N/A |
-| 41 | [#GodKabir_HealsAllDiseases](http://twitter.com/search?q=%23GodKabir_HealsAllDiseases) | N/A |
-| 42 | [#jadeja](http://twitter.com/search?q=%23jadeja) | N/A |
-| 43 | [#SumedhFirstSong](http://twitter.com/search?q=%23SumedhFirstSong) | N/A |
-| 44 | [#राजस्थान](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8) | N/A |
-| 45 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 46 | [#UkraineRussianWar](http://twitter.com/search?q=%23UkraineRussianWar) | N/A |
-| 47 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 48 | [#HeraPheri3](http://twitter.com/search?q=%23HeraPheri3) | N/A |
-| 49 | [#Chiranjeevi](http://twitter.com/search?q=%23Chiranjeevi) | N/A |
-| 50 | [#PuneethCharityScam](http://twitter.com/search?q=%23PuneethCharityScam) | N/A |
+| 3 | [PUBLIC STANDS WITH MC STAN](http://twitter.com/search?q=PUBLIC+STANDS+WITH+MC+STAN) | N/A |
+| 4 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 5 | [#KLRahul𓃵](http://twitter.com/search?q=%23KLRahul%f0%93%83%b5) | N/A |
+| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 7 | [#FirstRapistOfIndia](http://twitter.com/search?q=%23FirstRapistOfIndia) | N/A |
+| 8 | [#TeluguPrideNTRAtDhamki](http://twitter.com/search?q=%23TeluguPrideNTRAtDhamki) | N/A |
+| 9 | [#AmitShahAtIndiaTodayConclave](http://twitter.com/search?q=%23AmitShahAtIndiaTodayConclave) | N/A |
+| 10 | [Sushant Lone Warrior In BW](http://twitter.com/search?q=Sushant+Lone+Warrior+In+BW) | N/A |
+| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 12 | [REMOVE FARHAD FROM HERAPHERI](http://twitter.com/search?q=REMOVE+FARHAD+FROM+HERAPHERI) | N/A |
+| 13 | [जयपुर उत्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
+| 14 | [जयपुर दक्षिण](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3) | N/A |
+| 15 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 16 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 17 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 18 | [करुणा यादव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 19 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 20 | [बिजली गुल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2) | N/A |
+| 21 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 22 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 23 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 24 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
+| 25 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
+| 26 | [बिजली आपूर्ति](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 27 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
+| 28 | [#INDIAsPrideRAMCHARAN](http://twitter.com/search?q=%23INDIAsPrideRAMCHARAN) | N/A |
+| 29 | [#DasKaDhamki](http://twitter.com/search?q=%23DasKaDhamki) | N/A |
+| 30 | [#UkraineRussianWar](http://twitter.com/search?q=%23UkraineRussianWar) | N/A |
+| 31 | [#Rajasthan](http://twitter.com/search?q=%23Rajasthan) | N/A |
+| 32 | [#GodKabir_HealsAllDiseases](http://twitter.com/search?q=%23GodKabir_HealsAllDiseases) | N/A |
+| 33 | [#SumedhFirstSong](http://twitter.com/search?q=%23SumedhFirstSong) | N/A |
+| 34 | [#jadeja](http://twitter.com/search?q=%23jadeja) | N/A |
+| 35 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 36 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 37 | [#DrugPeddlerPuneeth](http://twitter.com/search?q=%23DrugPeddlerPuneeth) | N/A |
+| 38 | [#राजस्थान](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8) | N/A |
+| 39 | [#PonniyinSelvan2](http://twitter.com/search?q=%23PonniyinSelvan2) | N/A |
+| 40 | [#RocketBoys2](http://twitter.com/search?q=%23RocketBoys2) | N/A |
+| 41 | [#MassAmmaMoguduNtr](http://twitter.com/search?q=%23MassAmmaMoguduNtr) | N/A |
+| 42 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 43 | [#SIRMovie](http://twitter.com/search?q=%23SIRMovie) | N/A |
+| 44 | [#AgaNaga](http://twitter.com/search?q=%23AgaNaga) | N/A |
+| 45 | [#BoycottBollywood](http://twitter.com/search?q=%23BoycottBollywood) | N/A |
 
 
 

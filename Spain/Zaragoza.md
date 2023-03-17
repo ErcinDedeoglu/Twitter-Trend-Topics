@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-03-17 20:16:58 UTC`
+📆 Last Updated: `2023-03-17 21:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 2 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
-| 3 | [#Pasapalabra727](http://twitter.com/search?q=%23Pasapalabra727) | N/A |
-| 4 | [#IMPARABLES_EABE23](http://twitter.com/search?q=%23IMPARABLES_EABE23) | N/A |
-| 5 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 6 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 7 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 8 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
-| 9 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 10 | [#ResidentReseñasOca](http://twitter.com/search?q=%23ResidentRese%c3%b1asOca) | N/A |
-| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 12 | [Jorge Edwards](http://twitter.com/search?q=Jorge+Edwards) | N/A |
-| 13 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
-| 14 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 15 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
-| 16 | [Engen](http://twitter.com/search?q=Engen) | N/A |
-| 17 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 18 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 19 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 2 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 3 | [#FirstDates17M](http://twitter.com/search?q=%23FirstDates17M) | N/A |
+| 4 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 5 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
+| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 7 | [#Pasapalabra727](http://twitter.com/search?q=%23Pasapalabra727) | N/A |
+| 8 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 10 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
+| 11 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 12 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 13 | [#RealValladolidAthletic](http://twitter.com/search?q=%23RealValladolidAthletic) | N/A |
+| 14 | [#ResidentReseñasOca](http://twitter.com/search?q=%23ResidentRese%c3%b1asOca) | N/A |
+| 15 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
+| 16 | [La Corte Penal Internacional](http://twitter.com/search?q=La+Corte+Penal+Internacional) | N/A |
+| 17 | [Jorge Edwards](http://twitter.com/search?q=Jorge+Edwards) | N/A |
+| 18 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
+| 19 | [Engen](http://twitter.com/search?q=Engen) | N/A |
 | 20 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 21 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
-| 22 | [Libres 2](http://twitter.com/search?q=Libres+2) | N/A |
-| 23 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
-| 24 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 25 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 26 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 27 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
-| 28 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
-| 29 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 30 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 31 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
-| 32 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
-| 33 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 34 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 35 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 36 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 37 | [Rafael Amargo](http://twitter.com/search?q=Rafael+Amargo) | N/A |
-| 38 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
-| 39 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 40 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 41 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 42 | [Resident Evil](http://twitter.com/search?q=Resident+Evil) | N/A |
-| 43 | [Sebring](http://twitter.com/search?q=Sebring) | N/A |
-| 44 | [Rafa Castaño](http://twitter.com/search?q=Rafa+Casta%c3%b1o) | N/A |
-| 45 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 46 | [Darder](http://twitter.com/search?q=Darder) | N/A |
-| 47 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 48 | [Marina Yers](http://twitter.com/search?q=Marina+Yers) | N/A |
+| 21 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 22 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 23 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
+| 24 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 25 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 26 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 27 | [Iñigo Martínez](http://twitter.com/search?q=I%c3%b1igo+Mart%c3%adnez) | N/A |
+| 28 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 29 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 30 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
+| 31 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 32 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
+| 33 | [Indra](http://twitter.com/search?q=Indra) | N/A |
+| 34 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 35 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
+| 36 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
+| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 38 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 39 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 40 | [Rafael Amargo](http://twitter.com/search?q=Rafael+Amargo) | N/A |
+| 41 | [Resident Evil](http://twitter.com/search?q=Resident+Evil) | N/A |
+| 42 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 43 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 44 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 45 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 46 | [Marina Yers](http://twitter.com/search?q=Marina+Yers) | N/A |
+| 47 | [Rafa Castaño](http://twitter.com/search?q=Rafa+Casta%c3%b1o) | N/A |
+| 48 | [Eurocopa](http://twitter.com/search?q=Eurocopa) | N/A |
 
 
 
