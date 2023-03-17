@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-17 09:17:31 UTC`
+📆 Last Updated: `2023-03-17 10:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,17 +21,17 @@ This is top 50 for Ecuador
 | 4 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
 | 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 6 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
-| 7 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
-| 8 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
-| 9 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 7 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 8 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
+| 9 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
 | 10 | [ANDREINA](http://twitter.com/search?q=ANDREINA) | N/A |
 | 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 12 | [#LassoEcuadorNoTeAguantaMas](http://twitter.com/search?q=%23LassoEcuadorNoTeAguantaMas) | N/A |
 | 13 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 15 | [GolTv](http://twitter.com/search?q=GolTv) | N/A |
-| 16 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
-| 17 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 14 | [GolTv](http://twitter.com/search?q=GolTv) | N/A |
+| 15 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 16 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 17 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
 | 18 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
 | 19 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
 | 20 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Ecuador
 | 28 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
 | 29 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 30 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 31 | [129 de la Constitución](http://twitter.com/search?q=129+de+la+Constituci%c3%b3n) | N/A |
+| 31 | [129 de la constitución](http://twitter.com/search?q=129+de+la+constituci%c3%b3n) | N/A |
 | 32 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
 | 33 | [guadalupe llori](http://twitter.com/search?q=guadalupe+llori) | N/A |
 | 34 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
@@ -58,9 +58,9 @@ This is top 50 for Ecuador
 | 41 | [con 58](http://twitter.com/search?q=con+58) | N/A |
 | 42 | [pedro zapata](http://twitter.com/search?q=pedro+zapata) | N/A |
 | 43 | [alias jr](http://twitter.com/search?q=alias+jr) | N/A |
-| 44 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
+| 44 | [snai](http://twitter.com/search?q=snai) | N/A |
 | 45 | [fecha 3](http://twitter.com/search?q=fecha+3) | N/A |
-| 46 | [boscan](http://twitter.com/search?q=boscan) | N/A |
+| 46 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
 | 47 | [Envidia](http://twitter.com/search?q=Envidia) | N/A |
 | 48 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |

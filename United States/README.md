@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-03-17 09:17:37 UTC`
+📆 Last Updated: `2023-03-17 10:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United States
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 2 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 4 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 6 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 7 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 8 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 1 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 2 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 3 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 4 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 6 | [#SETMEFREE1stWin](http://twitter.com/search?q=%23SETMEFREE1stWin) | N/A |
+| 7 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 8 | [#AURAMExBecky](http://twitter.com/search?q=%23AURAMExBecky) | N/A |
 | 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 10 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 11 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 12 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 13 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 14 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 11 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 12 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 13 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 14 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
 | 15 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
-| 16 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 17 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 18 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 16 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
+| 17 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 18 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
 | 19 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 20 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 20 | [melanie](http://twitter.com/search?q=melanie) | N/A |
 | 21 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 22 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 23 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 24 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 25 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
-| 26 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 27 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
-| 28 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
-| 29 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 30 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 31 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 32 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
-| 33 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 34 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
-| 35 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 36 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 37 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 38 | [Donald Glover](http://twitter.com/search?q=Donald+Glover) | N/A |
+| 22 | [Chloe Bailey](http://twitter.com/search?q=Chloe+Bailey) | N/A |
+| 23 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
+| 24 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
+| 25 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 26 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 27 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
+| 28 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 29 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 30 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
+| 31 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 32 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 33 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 34 | [Donald Glover](http://twitter.com/search?q=Donald+Glover) | N/A |
+| 35 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
+| 36 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 37 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 38 | [billie](http://twitter.com/search?q=billie) | N/A |
 | 39 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
-| 40 | [All Things End](http://twitter.com/search?q=All+Things+End) | N/A |
-| 41 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 42 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 43 | [Tori Kelly](http://twitter.com/search?q=Tori+Kelly) | N/A |
-| 44 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
-| 45 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 46 | [BMF & Power](http://twitter.com/search?q=BMF+%26+Power) | N/A |
+| 40 | [Tori Kelly](http://twitter.com/search?q=Tori+Kelly) | N/A |
+| 41 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 42 | [Yves Tumor](http://twitter.com/search?q=Yves+Tumor) | N/A |
+| 43 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 44 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 45 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 46 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
 | 47 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
-| 48 | [Yves Tumor](http://twitter.com/search?q=Yves+Tumor) | N/A |
-| 49 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 50 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 48 | [Beverly Hills](http://twitter.com/search?q=Beverly+Hills) | N/A |
+| 49 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
+| 50 | [Trading Places](http://twitter.com/search?q=Trading+Places) | N/A |
 
 
 

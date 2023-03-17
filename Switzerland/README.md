@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-17 09:17:36 UTC`
+📆 Last Updated: `2023-03-17 10:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 2 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 3 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 4 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 5 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 6 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 7 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 8 | [Guete Morge](http://twitter.com/search?q=Guete+Morge) | N/A |
-| 9 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 3 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 4 | [#LeTempsenacceslibre](http://twitter.com/search?q=%23LeTempsenacceslibre) | N/A |
+| 5 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 6 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 7 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 8 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 9 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 10 | [Dido](http://twitter.com/search?q=Dido) | N/A |
 | 11 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 12 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 13 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
-| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 12 | [#LongCovidAwarenessDay](http://twitter.com/search?q=%23LongCovidAwarenessDay) | N/A |
+| 13 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 14 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 15 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 18 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 19 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 20 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 22 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 23 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 24 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 25 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 19 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 22 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
+| 23 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 24 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 25 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
 | 26 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
 | 27 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 28 | [Lara Gut-Behrami](http://twitter.com/search?q=Lara+Gut-Behrami) | N/A |
-| 29 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 30 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 31 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 32 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 28 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 29 | [Lara Gut-Behrami](http://twitter.com/search?q=Lara+Gut-Behrami) | N/A |
+| 30 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 31 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 32 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
 | 33 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 34 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 35 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 36 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 37 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 38 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 39 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 34 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 35 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 36 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 37 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 38 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 39 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
 | 40 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
 | 41 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 42 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 43 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 44 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 45 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 46 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 47 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
-| 48 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
-| 49 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 50 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
+| 42 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 43 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 44 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 45 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 46 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
+| 47 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
+| 48 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 49 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
+| 50 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
 
 
 

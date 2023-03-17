@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-03-17 09:16:53 UTC`
+📆 Last Updated: `2023-03-17 10:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#16Mar](http://twitter.com/search?q=%2316Mar) | N/A |
 | 2 | [#ElBloqueoEsCriminal](http://twitter.com/search?q=%23ElBloqueoEsCriminal) | N/A |
 | 3 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 7 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 8 | [Edwin Díaz](http://twitter.com/search?q=Edwin+D%c3%adaz) | N/A |
-| 9 | [Renny Ottolina](http://twitter.com/search?q=Renny+Ottolina) | N/A |
-| 10 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [#chávezhechomillones](http://twitter.com/search?q=%23ch%c3%a1vezhechomillones) | N/A |
+| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 6 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 7 | [Renny Ottolina](http://twitter.com/search?q=Renny+Ottolina) | N/A |
+| 8 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 9 | [#saludoplanetario](http://twitter.com/search?q=%23saludoplanetario) | N/A |
+| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 11 | [#chávezhechomillones](http://twitter.com/search?q=%23ch%c3%a1vezhechomillones) | N/A |
+| 12 | [Edwin Díaz](http://twitter.com/search?q=Edwin+D%c3%adaz) | N/A |
 | 13 | [Saime](http://twitter.com/search?q=Saime) | N/A |
-| 14 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 15 | [El Cid Campeador](http://twitter.com/search?q=El+Cid+Campeador) | N/A |
-| 16 | [Homero](http://twitter.com/search?q=Homero) | N/A |
+| 14 | [Homero](http://twitter.com/search?q=Homero) | N/A |
+| 15 | [el cid campeador](http://twitter.com/search?q=el+cid+campeador) | N/A |
+| 16 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
 | 17 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
 | 18 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 19 | [Mariela Alcalá](http://twitter.com/search?q=Mariela+Alcal%c3%a1) | N/A |
-| 20 | [Mario Silva](http://twitter.com/search?q=Mario+Silva) | N/A |
-| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 22 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 24 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 25 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
+| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 21 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [Mario Silva](http://twitter.com/search?q=Mario+Silva) | N/A |
+| 24 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
+| 25 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 26 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 28 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
 | 29 | [Pasapalabra](http://twitter.com/search?q=Pasapalabra) | N/A |
-| 30 | [eduardo serrano](http://twitter.com/search?q=eduardo+serrano) | N/A |
-| 31 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 33 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 34 | [hilda carrero](http://twitter.com/search?q=hilda+carrero) | N/A |
-| 35 | [pierina españa](http://twitter.com/search?q=pierina+espa%c3%b1a) | N/A |
-| 36 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 30 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 31 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 32 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 34 | [pierina españa](http://twitter.com/search?q=pierina+espa%c3%b1a) | N/A |
+| 35 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 36 | [inés maría calero](http://twitter.com/search?q=in%c3%a9s+mar%c3%ada+calero) | N/A |
 | 37 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
-| 38 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 38 | [Eduardo Serrano](http://twitter.com/search?q=Eduardo+Serrano) | N/A |
 | 39 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
-| 40 | [Locatel](http://twitter.com/search?q=Locatel) | N/A |
-| 41 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 42 | [pablo morillo](http://twitter.com/search?q=pablo+morillo) | N/A |
-| 43 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
+| 40 | [locatel](http://twitter.com/search?q=locatel) | N/A |
+| 41 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
+| 42 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 43 | [pablo morillo](http://twitter.com/search?q=pablo+morillo) | N/A |
 | 44 | [Palestina Libre](http://twitter.com/search?q=Palestina+Libre) | N/A |
-| 45 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 46 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
-| 47 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
-| 48 | [Bonaire](http://twitter.com/search?q=Bonaire) | N/A |
-| 49 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 50 | [la puerta](http://twitter.com/search?q=la+puerta) | N/A |
+| 45 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
+| 46 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 47 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
+| 48 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
+| 49 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 50 | [Bonaire](http://twitter.com/search?q=Bonaire) | N/A |
 
 
 

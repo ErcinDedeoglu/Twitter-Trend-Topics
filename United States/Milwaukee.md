@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-17 09:17:25 UTC`
+📆 Last Updated: `2023-03-17 10:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [United States](</United States>)
 | 4 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
 | 5 | [Brook](http://twitter.com/search?q=Brook) | N/A |
 | 6 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 7 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 8 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 10 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 11 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 12 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 13 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 7 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 8 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 9 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 10 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 12 | [#SETMEFREE1stWin](http://twitter.com/search?q=%23SETMEFREE1stWin) | N/A |
+| 13 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 15 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 16 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 17 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 18 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 19 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 16 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 17 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 18 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 19 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
 | 20 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
-| 21 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 22 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 23 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 24 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 25 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 26 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 27 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 28 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 29 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 21 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
+| 22 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 23 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 24 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 25 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 26 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 27 | [Chloe Bailey](http://twitter.com/search?q=Chloe+Bailey) | N/A |
+| 28 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
+| 29 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
 | 30 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
-| 31 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 32 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
-| 33 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
-| 34 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 35 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 36 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
-| 37 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 38 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 39 | [Lil Mo](http://twitter.com/search?q=Lil+Mo) | N/A |
-| 40 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
+| 31 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 32 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
+| 33 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 34 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 35 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
+| 36 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 37 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 38 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 39 | [Donald Glover](http://twitter.com/search?q=Donald+Glover) | N/A |
+| 40 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
 | 41 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 42 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 43 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 44 | [Donald Glover](http://twitter.com/search?q=Donald+Glover) | N/A |
-| 45 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
-| 46 | [All Things End](http://twitter.com/search?q=All+Things+End) | N/A |
-| 47 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 48 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 49 | [Tori Kelly](http://twitter.com/search?q=Tori+Kelly) | N/A |
+| 42 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 43 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 44 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
+| 45 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 46 | [Tori Kelly](http://twitter.com/search?q=Tori+Kelly) | N/A |
+| 47 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 48 | [Yves Tumor](http://twitter.com/search?q=Yves+Tumor) | N/A |
+| 49 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
 
 
 

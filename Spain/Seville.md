@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-03-17 09:16:59 UTC`
+📆 Last Updated: `2023-03-17 10:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,47 +19,51 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 3 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 4 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 5 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
 | 6 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 7 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 8 | [#DiadelComicydelTebeo](http://twitter.com/search?q=%23DiadelComicydelTebeo) | N/A |
+| 7 | [#DiadelComicydelTebeo](http://twitter.com/search?q=%23DiadelComicydelTebeo) | N/A |
+| 8 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 9 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 10 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 11 | [#SaintPatricksDay](http://twitter.com/search?q=%23SaintPatricksDay) | N/A |
-| 12 | [#LaJungla1996](http://twitter.com/search?q=%23LaJungla1996) | N/A |
-| 13 | [Rafael Amargo](http://twitter.com/search?q=Rafael+Amargo) | N/A |
+| 10 | [#StPatricksDay2023](http://twitter.com/search?q=%23StPatricksDay2023) | N/A |
+| 11 | [Rafael Amargo](http://twitter.com/search?q=Rafael+Amargo) | N/A |
+| 12 | [#DíaMundialDelSueño](http://twitter.com/search?q=%23D%c3%adaMundialDelSue%c3%b1o) | N/A |
+| 13 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
 | 14 | [Betty](http://twitter.com/search?q=Betty) | N/A |
 | 15 | [Hoy 17](http://twitter.com/search?q=Hoy+17) | N/A |
-| 16 | [Set Me Free Pt](http://twitter.com/search?q=Set+Me+Free+Pt) | N/A |
-| 17 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 18 | [Rafa Castaño](http://twitter.com/search?q=Rafa+Casta%c3%b1o) | N/A |
-| 19 | [Lo País](http://twitter.com/search?q=Lo+Pa%c3%ads) | N/A |
-| 20 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 21 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 22 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 24 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 25 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 26 | ['Pasapalabra'](http://twitter.com/search?q=%27Pasapalabra%27) | N/A |
-| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 29 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
-| 30 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 31 | [Enhorabuena Rafa](http://twitter.com/search?q=Enhorabuena+Rafa) | N/A |
-| 32 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 33 | [Don Jaime](http://twitter.com/search?q=Don+Jaime) | N/A |
-| 34 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 35 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
-| 36 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 37 | [La Santa](http://twitter.com/search?q=La+Santa) | N/A |
-| 38 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 39 | [#DíaMundialDelSueño](http://twitter.com/search?q=%23D%c3%adaMundialDelSue%c3%b1o) | N/A |
-| 40 | [#FelizFinde](http://twitter.com/search?q=%23FelizFinde) | N/A |
-| 41 | [#YoMeRebelo17M](http://twitter.com/search?q=%23YoMeRebelo17M) | N/A |
-| 42 | [#APOYOROCIO17M](http://twitter.com/search?q=%23APOYOROCIO17M) | N/A |
-| 43 | [#Audiencias](http://twitter.com/search?q=%23Audiencias) | N/A |
-| 44 | [#TRAFFFIC](http://twitter.com/search?q=%23TRAFFFIC) | N/A |
-| 45 | [#VuelveCarlos](http://twitter.com/search?q=%23VuelveCarlos) | N/A |
+| 16 | [Rafa Castaño](http://twitter.com/search?q=Rafa+Casta%c3%b1o) | N/A |
+| 17 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 18 | [Lo País](http://twitter.com/search?q=Lo+Pa%c3%ads) | N/A |
+| 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 20 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 21 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 23 | [Set Me Free Pt](http://twitter.com/search?q=Set+Me+Free+Pt) | N/A |
+| 24 | [Matadlos](http://twitter.com/search?q=Matadlos) | N/A |
+| 25 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 26 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 29 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 30 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 31 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
+| 32 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
+| 33 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 34 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
+| 35 | ['Pasapalabra'](http://twitter.com/search?q=%27Pasapalabra%27) | N/A |
+| 36 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
+| 37 | [En Francia](http://twitter.com/search?q=En+Francia) | N/A |
+| 38 | [Don Jaime](http://twitter.com/search?q=Don+Jaime) | N/A |
+| 39 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 40 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 41 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
+| 42 | [Enhorabuena Rafa](http://twitter.com/search?q=Enhorabuena+Rafa) | N/A |
+| 43 | [La Santa](http://twitter.com/search?q=La+Santa) | N/A |
+| 44 | [#LaJungla1996](http://twitter.com/search?q=%23LaJungla1996) | N/A |
+| 45 | [#APOYOROCIO17M](http://twitter.com/search?q=%23APOYOROCIO17M) | N/A |
+| 46 | [#YoMeRebelo17M](http://twitter.com/search?q=%23YoMeRebelo17M) | N/A |
+| 47 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 48 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 49 | [#FelizFinde](http://twitter.com/search?q=%23FelizFinde) | N/A |
 
 
 
