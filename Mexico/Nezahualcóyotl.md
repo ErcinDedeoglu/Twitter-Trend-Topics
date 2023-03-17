@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nezahualcóyotl
 
-📆 Last Updated: `2023-03-17 07:16:43 UTC`
+📆 Last Updated: `2023-03-17 08:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Mexico](</Mexico>)
 | 7 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
 | 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 9 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 10 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 11 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 10 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 11 | [Almada](http://twitter.com/search?q=Almada) | N/A |
 | 12 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
 | 13 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
-| 14 | [#elculitodevenom](http://twitter.com/search?q=%23elculitodevenom) | N/A |
-| 15 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 16 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 17 | [Ranchuca](http://twitter.com/search?q=Ranchuca) | N/A |
-| 18 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
-| 19 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 14 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
+| 15 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 16 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 17 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 18 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 19 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
 | 20 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
 | 21 | [melanie](http://twitter.com/search?q=melanie) | N/A |
 | 22 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
 | 23 | [TE AMO JIMIN](http://twitter.com/search?q=TE+AMO+JIMIN) | N/A |
-| 24 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 25 | [Mctrio](http://twitter.com/search?q=Mctrio) | N/A |
-| 26 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
-| 27 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 28 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 29 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 30 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 24 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 25 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 26 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 27 | [Mctrio](http://twitter.com/search?q=Mctrio) | N/A |
+| 28 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
+| 29 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 30 | [Betty](http://twitter.com/search?q=Betty) | N/A |
 | 31 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 32 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
-| 33 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 34 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 35 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
-| 36 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
-| 37 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 38 | [Hondureño](http://twitter.com/search?q=Hondure%c3%b1o) | N/A |
-| 39 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 40 | [El Método](http://twitter.com/search?q=El+M%c3%a9todo) | N/A |
+| 32 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
+| 33 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
+| 34 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
+| 35 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
+| 36 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
+| 37 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 38 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 39 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 40 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
 | 41 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 42 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 43 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 44 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 45 | [Feminicidio](http://twitter.com/search?q=Feminicidio) | N/A |
-| 46 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 47 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 48 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 49 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
-| 50 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 42 | [Feminicidio](http://twitter.com/search?q=Feminicidio) | N/A |
+| 43 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 44 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
+| 45 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 46 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 47 | [Clásico Nacional](http://twitter.com/search?q=Cl%c3%a1sico+Nacional) | N/A |
+| 48 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
+| 49 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 50 | [#elculitodevenom](http://twitter.com/search?q=%23elculitodevenom) | N/A |
 
 
 

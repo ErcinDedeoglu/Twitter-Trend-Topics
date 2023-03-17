@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-17 07:17:13 UTC`
+📆 Last Updated: `2023-03-17 08:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IndiaTodayConclave](http://twitter.com/search?q=%23IndiaTodayConclave) | N/A |
-| 2 | [#KalpanaChawla](http://twitter.com/search?q=%23KalpanaChawla) | N/A |
-| 3 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
-| 4 | [#CongratsAVNReddy](http://twitter.com/search?q=%23CongratsAVNReddy) | N/A |
+| 1 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
+| 2 | [#IndiaTodayConclave](http://twitter.com/search?q=%23IndiaTodayConclave) | N/A |
+| 3 | [#RamCharanPrideOfIndia](http://twitter.com/search?q=%23RamCharanPrideOfIndia) | N/A |
+| 4 | [#KalpanaChawla](http://twitter.com/search?q=%23KalpanaChawla) | N/A |
 | 5 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | कल्पना चावला is a popular Marathi phrase which translates to "Imaginary Rice" in English. It is used to describe something that is impossible or too good to be true. |
 | 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 7 | [StopTerrorism InAustralia](http://twitter.com/search?q=StopTerrorism+InAustralia) | N/A |
-| 8 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 9 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 10 | [प्रभु श्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 11 | [CBI WhySo Slow InSSRCase](http://twitter.com/search?q=CBI+WhySo+Slow+InSSRCase) | N/A |
-| 12 | [प्रथम भारतीय महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 13 | [Sachin Tendulkar](http://twitter.com/search?q=Sachin+Tendulkar) | N/A |
-| 14 | [पद्म भूषण](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%b7%e0%a4%a3) | N/A |
-| 15 | [श्री मनोहर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0) | N/A |
-| 16 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
-| 17 | [Janta Ki Adalat](http://twitter.com/search?q=Janta+Ki+Adalat) | N/A |
-| 18 | [Birth Anniversary](http://twitter.com/search?q=Birth+Anniversary) | N/A |
-| 19 | [Release INNOCENT](http://twitter.com/search?q=Release+INNOCENT) | N/A |
-| 20 | [Kiran Patel](http://twitter.com/search?q=Kiran+Patel) | N/A |
-| 21 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 22 | [मिशन विशेषज्ञ](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%87%e0%a4%b7%e0%a4%9c%e0%a5%8d%e0%a4%9e) | N/A |
-| 23 | [हेमवती नंदन बहुगुणा](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%b5%e0%a4%a4%e0%a5%80+%e0%a4%a8%e0%a4%82%e0%a4%a6%e0%a4%a8+%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%97%e0%a5%81%e0%a4%a3%e0%a4%be) | N/A |
-| 24 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 7 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 8 | [प्रभु श्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 9 | [StopTerrorism InAustralia](http://twitter.com/search?q=StopTerrorism+InAustralia) | N/A |
+| 10 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 11 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 12 | [प्रथम महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 13 | [CBI WhySo Slow InSSRCase](http://twitter.com/search?q=CBI+WhySo+Slow+InSSRCase) | N/A |
+| 14 | [1st ODI](http://twitter.com/search?q=1st+ODI) | N/A |
+| 15 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
+| 16 | [Sachin Tendulkar](http://twitter.com/search?q=Sachin+Tendulkar) | N/A |
+| 17 | [Kiran Patel](http://twitter.com/search?q=Kiran+Patel) | N/A |
+| 18 | [श्री मनोहर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0) | N/A |
+| 19 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 20 | [Birth Anniversary](http://twitter.com/search?q=Birth+Anniversary) | N/A |
+| 21 | [पद्म भूषण](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%b7%e0%a4%a3) | N/A |
+| 22 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
+| 23 | [मिशन विशेषज्ञ](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%87%e0%a4%b7%e0%a4%9c%e0%a5%8d%e0%a4%9e) | N/A |
+| 24 | [हेमवती नंदन बहुगुणा](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%b5%e0%a4%a4%e0%a5%80+%e0%a4%a8%e0%a4%82%e0%a4%a6%e0%a4%a8+%e0%a4%ac%e0%a4%b9%e0%a5%81%e0%a4%97%e0%a5%81%e0%a4%a3%e0%a4%be) | N/A |
 | 25 | [Huge Impact](http://twitter.com/search?q=Huge+Impact) | N/A |
-| 26 | [स्वरा भास्कर](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be+%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0) | N/A |
-| 27 | [Opposition MPs](http://twitter.com/search?q=Opposition+MPs) | N/A |
-| 28 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 29 | [पावर हाउस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%b0+%e0%a4%b9%e0%a4%be%e0%a4%89%e0%a4%b8) | N/A |
+| 26 | [Opposition MPs](http://twitter.com/search?q=Opposition+MPs) | N/A |
+| 27 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 28 | [स्वरा भास्कर](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be+%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0) | N/A |
+| 29 | [Janta Ki Adalat](http://twitter.com/search?q=Janta+Ki+Adalat) | N/A |
 | 30 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 32 | [Small Role](http://twitter.com/search?q=Small+Role) | N/A |
-| 33 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 34 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 36 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 37 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
-| 38 | [भारतीय राजनीति](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf) | N/A |
-| 39 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
-| 40 | [Dinner with SRK](http://twitter.com/search?q=Dinner+with+SRK) | N/A |
-| 41 | [जयराम रमेश](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6) | N/A |
-| 42 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 43 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 44 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 45 | [#PuneethRajkumar](http://twitter.com/search?q=%23PuneethRajkumar) | N/A |
-| 46 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 47 | [#ChennaiRains](http://twitter.com/search?q=%23ChennaiRains) | N/A |
-| 48 | [#ManoharParrikar](http://twitter.com/search?q=%23ManoharParrikar) | N/A |
-| 49 | [#Kick2](http://twitter.com/search?q=%23Kick2) | N/A |
+| 31 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 32 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 33 | [Small Role](http://twitter.com/search?q=Small+Role) | N/A |
+| 34 | [Release INNOCENT](http://twitter.com/search?q=Release+INNOCENT) | N/A |
+| 35 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 36 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 37 | [जयराम रमेश](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6) | N/A |
+| 38 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 39 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 40 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 41 | [Batting](http://twitter.com/search?q=Batting) | N/A |
+| 42 | [पावर हाउस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%b0+%e0%a4%b9%e0%a4%be%e0%a4%89%e0%a4%b8) | N/A |
+| 43 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
+| 44 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 45 | [भारतीय राजनीति](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf) | N/A |
+| 46 | [#ChennaiRains](http://twitter.com/search?q=%23ChennaiRains) | N/A |
+| 47 | [#PuneethRajkumar](http://twitter.com/search?q=%23PuneethRajkumar) | N/A |
+| 48 | [#Kick2](http://twitter.com/search?q=%23Kick2) | N/A |
+| 49 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 
 
 

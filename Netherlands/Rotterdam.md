@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-17 07:16:55 UTC`
+📆 Last Updated: `2023-03-17 08:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 5 | [#azlaz](http://twitter.com/search?q=%23azlaz) | N/A |
 | 6 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
 | 7 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 8 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
 | 9 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 10 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 10 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 11 | [Kimberley](http://twitter.com/search?q=Kimberley) | N/A |
-| 12 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 13 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
+| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 13 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
 | 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 15 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
-| 16 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 17 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
-| 18 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 16 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
+| 17 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 18 | [Piet](http://twitter.com/search?q=Piet) | N/A |
 | 19 | [Melkert](http://twitter.com/search?q=Melkert) | N/A |
-| 20 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 21 | [Volt](http://twitter.com/search?q=Volt) | N/A |
-| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 23 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 24 | [Tosca](http://twitter.com/search?q=Tosca) | N/A |
-| 25 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 26 | [Femke](http://twitter.com/search?q=Femke) | N/A |
-| 27 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 28 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 29 | [Europese](http://twitter.com/search?q=Europese) | N/A |
-| 30 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 31 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 32 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 33 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 34 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 35 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
+| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 21 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
+| 22 | [Europese](http://twitter.com/search?q=Europese) | N/A |
+| 23 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 24 | [Volt](http://twitter.com/search?q=Volt) | N/A |
+| 25 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 26 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 27 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 28 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 29 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 30 | [Femke](http://twitter.com/search?q=Femke) | N/A |
+| 31 | [Tjark](http://twitter.com/search?q=Tjark) | N/A |
+| 32 | [Amsterdammers](http://twitter.com/search?q=Amsterdammers) | N/A |
+| 33 | [Build Back Better](http://twitter.com/search?q=Build+Back+Better) | N/A |
+| 34 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
+| 35 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
 | 36 | [Veenendaal](http://twitter.com/search?q=Veenendaal) | N/A |
-| 37 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
-| 38 | [Amsterdammers](http://twitter.com/search?q=Amsterdammers) | N/A |
-| 39 | [Build Back Better](http://twitter.com/search?q=Build+Back+Better) | N/A |
-| 40 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 42 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 43 | [Fransen](http://twitter.com/search?q=Fransen) | N/A |
-| 44 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
-| 45 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 46 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 47 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 48 | [Karel Sabbe](http://twitter.com/search?q=Karel+Sabbe) | N/A |
-| 49 | [Boswijk](http://twitter.com/search?q=Boswijk) | N/A |
-| 50 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 37 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
+| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 39 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
+| 40 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
+| 41 | [Asha](http://twitter.com/search?q=Asha) | N/A |
+| 42 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
+| 43 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 44 | [Karel Sabbe](http://twitter.com/search?q=Karel+Sabbe) | N/A |
+| 45 | [Boswijk](http://twitter.com/search?q=Boswijk) | N/A |
+| 46 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 47 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
+| 48 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 49 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 50 | [Als BBB](http://twitter.com/search?q=Als+BBB) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-17 07:17:28 UTC`
+📆 Last Updated: `2023-03-17 08:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,13 +20,13 @@ This is top 50 for Guatemala
 | 3 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
 | 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 5 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 6 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [ANDREINA](http://twitter.com/search?q=ANDREINA) | N/A |
-| 11 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
-| 12 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [ANDREINA](http://twitter.com/search?q=ANDREINA) | N/A |
+| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 11 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 12 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
 | 13 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 | 14 | [Chimaltenango](http://twitter.com/search?q=Chimaltenango) | N/A |
 | 15 | [Orlando López](http://twitter.com/search?q=Orlando+L%c3%b3pez) | N/A |
@@ -53,14 +53,14 @@ This is top 50 for Guatemala
 | 36 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 37 | [los chory](http://twitter.com/search?q=los+chory) | N/A |
 | 38 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 39 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 40 | [Falla](http://twitter.com/search?q=Falla) | N/A |
+| 39 | [Falla](http://twitter.com/search?q=Falla) | N/A |
+| 40 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
 | 41 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 42 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
 | 43 | [Orgullosa](http://twitter.com/search?q=Orgullosa) | N/A |
-| 44 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 45 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 46 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 44 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 45 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 47 | [Maje](http://twitter.com/search?q=Maje) | N/A |
 | 48 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
 | 49 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |

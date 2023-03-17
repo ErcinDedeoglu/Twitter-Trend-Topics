@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumamoto
 
-📆 Last Updated: `2023-03-17 07:17:01 UTC`
+📆 Last Updated: `2023-03-17 08:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,47 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
-| 2 | [ブックマーク](http://twitter.com/search?q=%e3%83%96%e3%83%83%e3%82%af%e3%83%9e%e3%83%bc%e3%82%af) | N/A |
-| 3 | [イキリンコ](http://twitter.com/search?q=%e3%82%a4%e3%82%ad%e3%83%aa%e3%83%b3%e3%82%b3) | N/A |
-| 4 | [ミカくん](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%81%8f%e3%82%93) | ミカくん is a character from the Japanese manga series, Yotsuba&!. His name is Mi-Kun and he is a small, green alien who befriends the main character, Yotsuba. He often helps her with her various adventures. |
-| 5 | [倉ちゃん](http://twitter.com/search?q=%e5%80%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 6 | [クレイバースト](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%82%a4%e3%83%90%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
-| 7 | [グルーシャ](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%82%b7%e3%83%a3) | N/A |
-| 8 | [パオジアン](http://twitter.com/search?q=%e3%83%91%e3%82%aa%e3%82%b8%e3%82%a2%e3%83%b3) | N/A |
-| 9 | [スノーハザード](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%8f%e3%82%b6%e3%83%bc%e3%83%89) | N/A |
-| 10 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
-| 11 | [ディンルー](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%b3%e3%83%ab%e3%83%bc) | N/A |
-| 12 | [ググプラム](http://twitter.com/search?q=%e3%82%b0%e3%82%b0%e3%83%97%e3%83%a9%e3%83%a0) | N/A |
-| 13 | [チオンジェン](http://twitter.com/search?q=%e3%83%81%e3%82%aa%e3%83%b3%e3%82%b8%e3%82%a7%e3%83%b3) | N/A |
+| 2 | [スト決行](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e6%b1%ba%e8%a1%8c) | N/A |
+| 3 | [競馬開催](http://twitter.com/search?q=%e7%ab%b6%e9%a6%ac%e9%96%8b%e5%82%ac) | N/A |
+| 4 | [交渉決裂](http://twitter.com/search?q=%e4%ba%a4%e6%b8%89%e6%b1%ba%e8%a3%82) | N/A |
+| 5 | [非組合員ら](http://twitter.com/search?q=%e9%9d%9e%e7%b5%84%e5%90%88%e5%93%a1%e3%82%89) | N/A |
+| 6 | [ブックマーク](http://twitter.com/search?q=%e3%83%96%e3%83%83%e3%82%af%e3%83%9e%e3%83%bc%e3%82%af) | N/A |
+| 7 | [イキリンコ](http://twitter.com/search?q=%e3%82%a4%e3%82%ad%e3%83%aa%e3%83%b3%e3%82%b3) | N/A |
+| 8 | [倉ちゃん](http://twitter.com/search?q=%e5%80%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 9 | [ミカくん](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%81%8f%e3%82%93) | ミカくん is a character from the Japanese manga series, Yotsuba&!. His name is Mi-Kun and he is a small, green alien who befriends the main character, Yotsuba. He often helps her with her various adventures. |
+| 10 | [AI絵師](http://twitter.com/search?q=AI%e7%b5%b5%e5%b8%ab) | AI絵師 (AI e-shi) is a Japanese term for an artist who uses artificial intelligence to create art. AI e-shi use algorithms and software to generate images, often in the form of digital paintings or drawings. The term can also refer to an artist who uses AI-generated images as part of their creative process. In English, AI e-shi translates to "AI Artist". |
+| 11 | [クレイバースト](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%82%a4%e3%83%90%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
+| 12 | [グルーシャ](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%82%b7%e3%83%a3) | N/A |
+| 13 | [パオジアン](http://twitter.com/search?q=%e3%83%91%e3%82%aa%e3%82%b8%e3%82%a2%e3%83%b3) | N/A |
 | 14 | [バルボンさん](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%83%9c%e3%83%b3%e3%81%95%e3%82%93) | N/A |
-| 15 | [スタテン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%86%e3%83%b3) | N/A |
-| 16 | [SUM41](http://twitter.com/search?q=SUM41) | N/A |
-| 17 | [ミライドン](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%a4%e3%83%89%e3%83%b3) | N/A |
-| 18 | [漆黒の追跡者](http://twitter.com/search?q=%e6%bc%86%e9%bb%92%e3%81%ae%e8%bf%bd%e8%b7%a1%e8%80%85) | N/A |
-| 19 | [近親相姦](http://twitter.com/search?q=%e8%bf%91%e8%a6%aa%e7%9b%b8%e5%a7%a6) | N/A |
-| 20 | [ジミンちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | ジミンちゃん is a nickname for the Japanese singer and songwriter, Jimin Park. It is a term of endearment used by her fans. In English, it would be translated as "Jimin-chan". |
-| 21 | [ハラバリー](http://twitter.com/search?q=%e3%83%8f%e3%83%a9%e3%83%90%e3%83%aa%e3%83%bc) | ハラバリー (harabarī) is a Japanese term for a type of party or gathering where people exchange small gifts. It is similar to a Secret Santa or White Elephant gift exchange. The term comes from the Japanese words "hara" (stomach) and "barai" (to sweep away), which together mean to give something away in order to make someone else happy. |
-| 22 | [キツネネコ](http://twitter.com/search?q=%e3%82%ad%e3%83%84%e3%83%8d%e3%83%8d%e3%82%b3) | N/A |
-| 23 | [ブクマ数](http://twitter.com/search?q=%e3%83%96%e3%82%af%e3%83%9e%e6%95%b0) | N/A |
-| 24 | [ジミンさん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%95%e3%82%93) | ジミンさん is a Japanese name, and it is usually written as Jimin-san. It is a polite way of addressing someone named Jimin. In English, it would be translated as "Mr. Jimin" or "Ms. Jimin". |
-| 25 | [クレー先輩](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%83%bc%e5%85%88%e8%bc%a9) | N/A |
-| 26 | [ベニマル](http://twitter.com/search?q=%e3%83%99%e3%83%8b%e3%83%9e%e3%83%ab) | N/A |
-| 27 | [凍結解除](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e8%a7%a3%e9%99%a4) | 凍結解除 (tou ketsu kaijo) is a Japanese phrase meaning "unfreeze" or "thaw." It is used to describe the process of restoring access to a computer system, account, or other digital resource that has been frozen or locked due to security measures. |
-| 28 | [侑の謎解き成功](http://twitter.com/search?q=%e4%be%91%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 29 | [ハロウィンの花嫁](http://twitter.com/search?q=%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
-| 30 | [AI絵師](http://twitter.com/search?q=AI%e7%b5%b5%e5%b8%ab) | AI絵師 (AI e-shi) is a Japanese term for an artist who uses artificial intelligence to create art. AI e-shi use algorithms and software to generate images, often in the form of digital paintings or drawings. The term can also refer to an artist who uses AI-generated images as part of their creative process. In English, AI e-shi translates to "AI Artist". |
-| 31 | [Steamセール](http://twitter.com/search?q=Steam%e3%82%bb%e3%83%bc%e3%83%ab) | Steamセール is a term used in Japan to refer to sales on the Steam digital game platform. It literally translates to "Steam Sale" in English. |
-| 32 | [ジャッジマン](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%b8%e3%83%9e%e3%83%b3) | N/A |
-| 33 | [無相の氷](http://twitter.com/search?q=%e7%84%a1%e7%9b%b8%e3%81%ae%e6%b0%b7) | N/A |
-| 34 | [エリミネーター](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%9f%e3%83%8d%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
-| 35 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
-| 36 | [ポケセンオンライン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%bb%e3%83%b3%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3) | N/A |
-| 37 | [セグレイブ](http://twitter.com/search?q=%e3%82%bb%e3%82%b0%e3%83%ac%e3%82%a4%e3%83%96) | N/A |
-| 38 | [パクジミン](http://twitter.com/search?q=%e3%83%91%e3%82%af%e3%82%b8%e3%83%9f%e3%83%b3) | N/A |
-| 39 | [ジェイ12位](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%a412%e4%bd%8d) | N/A |
-| 40 | [キャンジャニちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | キャンジャニちゃん is a character from the Japanese manga series, Kyou Kara Maou. The character's name is Yuuri Shibuya and he is a 15-year-old high school student who is chosen to be the new Maou (Demon King) of the Demon World. His nickname, "キャンジャニちゃん", is derived from his last name, Shibuya, which can be written as "しぶや" in Japanese. In English, it translates to "Shibuya-chan". |
-| 41 | [レドベル](http://twitter.com/search?q=%e3%83%ac%e3%83%89%e3%83%99%e3%83%ab) | N/A |
-| 42 | [タフネスマント](http://twitter.com/search?q=%e3%82%bf%e3%83%95%e3%83%8d%e3%82%b9%e3%83%9e%e3%83%b3%e3%83%88) | N/A |
+| 15 | [矢花留年](http://twitter.com/search?q=%e7%9f%a2%e8%8a%b1%e7%95%99%e5%b9%b4) | N/A |
+| 16 | [キツネネコ](http://twitter.com/search?q=%e3%82%ad%e3%83%84%e3%83%8d%e3%83%8d%e3%82%b3) | N/A |
+| 17 | [ディンルー](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%b3%e3%83%ab%e3%83%bc) | N/A |
+| 18 | [スノーハザード](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%8f%e3%82%b6%e3%83%bc%e3%83%89) | N/A |
+| 19 | [スタテン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%86%e3%83%b3) | N/A |
+| 20 | [ググプラム](http://twitter.com/search?q=%e3%82%b0%e3%82%b0%e3%83%97%e3%83%a9%e3%83%a0) | N/A |
+| 21 | [チオンジェン](http://twitter.com/search?q=%e3%83%81%e3%82%aa%e3%83%b3%e3%82%b8%e3%82%a7%e3%83%b3) | N/A |
+| 22 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
+| 23 | [SUM41](http://twitter.com/search?q=SUM41) | N/A |
+| 24 | [近親相姦](http://twitter.com/search?q=%e8%bf%91%e8%a6%aa%e7%9b%b8%e5%a7%a6) | N/A |
+| 25 | [バチュル](http://twitter.com/search?q=%e3%83%90%e3%83%81%e3%83%a5%e3%83%ab) | N/A |
+| 26 | [仮面ライダー](http://twitter.com/search?q=%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
+| 27 | [ミライドン](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%a4%e3%83%89%e3%83%b3) | N/A |
+| 28 | [ジミンちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | ジミンちゃん is a nickname for the Japanese singer and songwriter, Jimin Park. It is a term of endearment used by her fans. In English, it would be translated as "Jimin-chan". |
+| 29 | [ハラバリー](http://twitter.com/search?q=%e3%83%8f%e3%83%a9%e3%83%90%e3%83%aa%e3%83%bc) | ハラバリー (harabarī) is a Japanese term for a type of party or gathering where people exchange small gifts. It is similar to a Secret Santa or White Elephant gift exchange. The term comes from the Japanese words "hara" (stomach) and "barai" (to sweep away), which together mean to give something away in order to make someone else happy. |
+| 30 | [漆黒の追跡者](http://twitter.com/search?q=%e6%bc%86%e9%bb%92%e3%81%ae%e8%bf%bd%e8%b7%a1%e8%80%85) | N/A |
+| 31 | [ストライキ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%ad) | N/A |
+| 32 | [業務/レース/デイリースポーツ](http://twitter.com/search?q=%e6%a5%ad%e5%8b%99%2f%e3%83%ac%e3%83%bc%e3%82%b9%2f%e3%83%87%e3%82%a4%e3%83%aa%e3%83%bc%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84) | N/A |
+| 33 | [クレー先輩](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%83%bc%e5%85%88%e8%bc%a9) | N/A |
+| 34 | [ハロウィンの花嫁](http://twitter.com/search?q=%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
+| 35 | [フォーゼ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%82%bc) | N/A |
+| 36 | [侑の謎解き成功](http://twitter.com/search?q=%e4%be%91%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 37 | [ベニマル](http://twitter.com/search?q=%e3%83%99%e3%83%8b%e3%83%9e%e3%83%ab) | N/A |
+| 38 | [下請法違反](http://twitter.com/search?q=%e4%b8%8b%e8%ab%8b%e6%b3%95%e9%81%95%e5%8f%8d) | N/A |
+| 39 | [ジミンさん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%95%e3%82%93) | ジミンさん is a Japanese name, and it is usually written as Jimin-san. It is a polite way of addressing someone named Jimin. In English, it would be translated as "Mr. Jimin" or "Ms. Jimin". |
+| 40 | [ポケセンオンライン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%bb%e3%83%b3%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3) | N/A |
+| 41 | [Steamセール](http://twitter.com/search?q=Steam%e3%82%bb%e3%83%bc%e3%83%ab) | Steamセール is a term used in Japan to refer to sales on the Steam digital game platform. It literally translates to "Steam Sale" in English. |
+| 42 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
 
 
 
