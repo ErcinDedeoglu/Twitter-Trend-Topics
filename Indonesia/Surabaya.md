@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-17 00:28:27 UTC`
+📆 Last Updated: `2023-03-17 01:43:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
+| 1 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
 | 2 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [#HPSMinisterID](http://twitter.com/search?q=%23HPSMinisterID) | N/A |
-| 5 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 6 | [#WelcomeTREASUREtoINDONESIA](http://twitter.com/search?q=%23WelcomeTREASUREtoINDONESIA) | N/A |
-| 7 | [Kandidat Menteri](http://twitter.com/search?q=Kandidat+Menteri) | N/A |
-| 8 | [#KirimTakGentar](http://twitter.com/search?q=%23KirimTakGentar) | N/A |
-| 9 | [Jumat Penuh Keberkahan](http://twitter.com/search?q=Jumat+Penuh+Keberkahan) | N/A |
-| 10 | [#MariBerislamKaffah](http://twitter.com/search?q=%23MariBerislamKaffah) | N/A |
-| 11 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 12 | [prabowo hatinya tulus](http://twitter.com/search?q=prabowo+hatinya+tulus) | N/A |
-| 13 | [rakyat nyamanpilih prabowo](http://twitter.com/search?q=rakyat+nyamanpilih+prabowo) | N/A |
-| 14 | [politik baik gerindra](http://twitter.com/search?q=politik+baik+gerindra) | N/A |
-| 15 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 16 | [Islam Selamatkan Generasi](http://twitter.com/search?q=Islam+Selamatkan+Generasi) | N/A |
-| 17 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 18 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 19 | [Adan](http://twitter.com/search?q=Adan) | N/A |
-| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 22 | [Fokus EPL](http://twitter.com/search?q=Fokus+EPL) | N/A |
-| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 24 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 25 | [prabowo subianto](http://twitter.com/search?q=prabowo+subianto) | N/A |
-| 26 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 27 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 28 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 29 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 30 | [Eropa](http://twitter.com/search?q=Eropa) | N/A |
-| 31 | [AS Roma](http://twitter.com/search?q=AS+Roma) | N/A |
-| 32 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 33 | [Hendips](http://twitter.com/search?q=Hendips) | N/A |
-| 34 | [maju terus prabowo](http://twitter.com/search?q=maju+terus+prabowo) | N/A |
-| 35 | [bersama prabowo 2024](http://twitter.com/search?q=bersama+prabowo+2024) | N/A |
-| 36 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 37 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 38 | [Kontra](http://twitter.com/search?q=Kontra) | Kontra is a German word meaning "against" or "contrary to". It is often used in the context of politics, where it implies opposition to a particular policy or action. |
-| 39 | [WE MISS ILICHIL](http://twitter.com/search?q=WE+MISS+ILICHIL) | N/A |
-| 40 | [London](http://twitter.com/search?q=London) | N/A |
+| 3 | [#HPSMinisterID](http://twitter.com/search?q=%23HPSMinisterID) | N/A |
+| 4 | [#KirimTakGentar](http://twitter.com/search?q=%23KirimTakGentar) | N/A |
+| 5 | [#WelcomeTREASUREtoINDONESIA](http://twitter.com/search?q=%23WelcomeTREASUREtoINDONESIA) | N/A |
+| 6 | [Kandidat Menteri](http://twitter.com/search?q=Kandidat+Menteri) | N/A |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
+| 9 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 10 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 12 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 13 | [Islam Selamatkan Generasi](http://twitter.com/search?q=Islam+Selamatkan+Generasi) | N/A |
+| 14 | [Prabowo Hatinya Tulus](http://twitter.com/search?q=Prabowo+Hatinya+Tulus) | N/A |
+| 15 | [Politik Baik Gerindra](http://twitter.com/search?q=Politik+Baik+Gerindra) | N/A |
+| 16 | [Rakyat NyamanPilih Prabowo](http://twitter.com/search?q=Rakyat+NyamanPilih+Prabowo) | N/A |
+| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 18 | [Selamat Hari Perawat Nasional](http://twitter.com/search?q=Selamat+Hari+Perawat+Nasional) | N/A |
+| 19 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 20 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
+| 21 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 22 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 23 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 24 | [Hendips](http://twitter.com/search?q=Hendips) | N/A |
+| 25 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 26 | [maju terus prabowo](http://twitter.com/search?q=maju+terus+prabowo) | N/A |
+| 27 | [bersama prabowo 2024](http://twitter.com/search?q=bersama+prabowo+2024) | N/A |
+| 28 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 29 | [B. Tahu Isi](http://twitter.com/search?q=B.+Tahu+Isi) | N/A |
+| 30 | [London](http://twitter.com/search?q=London) | N/A |
+| 31 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 32 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 33 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 34 | [Morninggg](http://twitter.com/search?q=Morninggg) | N/A |
+| 35 | [WE MISS ILICHIL](http://twitter.com/search?q=WE+MISS+ILICHIL) | N/A |
+| 36 | [Ng Tze Yong](http://twitter.com/search?q=Ng+Tze+Yong) | N/A |
+| 37 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
+| 38 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
+| 39 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 40 | [Mutasi](http://twitter.com/search?q=Mutasi) | N/A |
 | 41 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 42 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
-| 43 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
-| 44 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 45 | [Morninggg](http://twitter.com/search?q=Morninggg) | N/A |
-| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 47 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 48 | [B. Tahu Isi](http://twitter.com/search?q=B.+Tahu+Isi) | N/A |
-| 49 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
-| 50 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 42 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
+| 43 | [Eropa](http://twitter.com/search?q=Eropa) | N/A |
+| 44 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 45 | [AS Roma](http://twitter.com/search?q=AS+Roma) | N/A |
+| 46 | [TXT IS TXT](http://twitter.com/search?q=TXT+IS+TXT) | N/A |
+| 47 | [Fokus EPL](http://twitter.com/search?q=Fokus+EPL) | N/A |
+| 48 | [Axelsen](http://twitter.com/search?q=Axelsen) | Axelsen is a Danish surname derived from the given name Axel, which is a form of Absalom. The meaning of the name Axel is "father of peace". |
+| 49 | [2024 prabowo menang](http://twitter.com/search?q=2024+prabowo+menang) | N/A |
+| 50 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
 
 
 

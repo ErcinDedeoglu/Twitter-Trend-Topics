@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-17 00:28:52 UTC`
+📆 Last Updated: `2023-03-17 01:44:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
 | 2 | [#Jeopardy](http://twitter.com/search?q=%23Jeopardy) | N/A |
-| 3 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 4 | [First Republic](http://twitter.com/search?q=First+Republic) | N/A |
-| 5 | [Slayton](http://twitter.com/search?q=Slayton) | Slayton is a surname of English origin. It is derived from the Old English words 'slae' meaning 'willow' and 'tun' meaning 'enclosure'. The name is thought to have originally referred to someone who lived near a willow enclosure. |
-| 6 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
-| 7 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 8 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 9 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 10 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 3 | [Slayton](http://twitter.com/search?q=Slayton) | Slayton is a surname of English origin. It is derived from the Old English words 'slae' meaning 'willow' and 'tun' meaning 'enclosure'. The name is thought to have originally referred to someone who lived near a willow enclosure. |
+| 4 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 5 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
+| 6 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 7 | [#316Day](http://twitter.com/search?q=%23316Day) | N/A |
+| 8 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 9 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 10 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
 | 11 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
 | 12 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 13 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 13 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 14 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
 | 15 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 16 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 17 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 18 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 19 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
-| 20 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
-| 21 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 22 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 23 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 24 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
-| 25 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
-| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 27 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
-| 28 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 29 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
-| 30 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 31 | [Tommy Lloyd](http://twitter.com/search?q=Tommy+Lloyd) | N/A |
-| 32 | [Tonyan](http://twitter.com/search?q=Tonyan) | N/A |
-| 33 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 34 | [Tre Donaldson](http://twitter.com/search?q=Tre+Donaldson) | N/A |
-| 35 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 36 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
-| 37 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 38 | [UofA](http://twitter.com/search?q=UofA) | N/A |
-| 39 | [Illini](http://twitter.com/search?q=Illini) | Illini is a nickname for the University of Illinois at Urbana-Champaign. It is derived from the word "Illiniwek," which was the name of a confederacy of Native American tribes that lived in what is now Illinois. The term is used to refer to students, alumni, and fans of the university. |
-| 40 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 41 | [Canadiens](http://twitter.com/search?q=Canadiens) | N/A |
-| 42 | [Underwood](http://twitter.com/search?q=Underwood) | N/A |
-| 43 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 44 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 45 | [KD Johnson](http://twitter.com/search?q=KD+Johnson) | N/A |
-| 46 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
-| 47 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 48 | [Foreman](http://twitter.com/search?q=Foreman) | N/A |
-| 49 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 50 | [Coleman Hawkins](http://twitter.com/search?q=Coleman+Hawkins) | N/A |
+| 16 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 17 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 20 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
+| 21 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 22 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 23 | [Timo](http://twitter.com/search?q=Timo) | N/A |
+| 24 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 25 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
+| 26 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 27 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
+| 28 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
+| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 30 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 31 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 32 | [War Damn Eagle](http://twitter.com/search?q=War+Damn+Eagle) | N/A |
+| 33 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
+| 34 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
+| 35 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
+| 36 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 37 | [Jayla Everett](http://twitter.com/search?q=Jayla+Everett) | N/A |
+| 38 | [Sir'Jabari Rice](http://twitter.com/search?q=Sir%27Jabari+Rice) | N/A |
+| 39 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
+| 40 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
+| 41 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 42 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 43 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 44 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
+| 45 | [Tonyan](http://twitter.com/search?q=Tonyan) | N/A |
+| 46 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 47 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
+| 48 | [Brandon Sproat](http://twitter.com/search?q=Brandon+Sproat) | N/A |
+| 49 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 50 | [Foreman](http://twitter.com/search?q=Foreman) | N/A |
 
 
 

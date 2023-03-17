@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-17 00:28:51 UTC`
+📆 Last Updated: `2023-03-17 01:44:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 2 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 3 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
-| 4 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
-| 5 | [#BearDown](http://twitter.com/search?q=%23BearDown) | N/A |
-| 6 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
-| 7 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
-| 8 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 9 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 10 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
-| 11 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 12 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 13 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 14 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 15 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 1 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
+| 2 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 3 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 4 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 5 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 6 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 7 | [#BearDown](http://twitter.com/search?q=%23BearDown) | N/A |
+| 8 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 9 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
+| 10 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 11 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 12 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
+| 13 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 14 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 15 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
 | 16 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
 | 17 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
 | 18 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 21 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 22 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 19 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 20 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 21 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 22 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 23 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 24 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
-| 25 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 26 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 27 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 28 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
-| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 30 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
-| 31 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 32 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
-| 33 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 34 | [Tommy Lloyd](http://twitter.com/search?q=Tommy+Lloyd) | N/A |
-| 35 | [Tonyan](http://twitter.com/search?q=Tonyan) | N/A |
-| 36 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 37 | [Tre Donaldson](http://twitter.com/search?q=Tre+Donaldson) | N/A |
-| 38 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 39 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
-| 40 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 41 | [UofA](http://twitter.com/search?q=UofA) | N/A |
-| 42 | [Illini](http://twitter.com/search?q=Illini) | Illini is a nickname for the University of Illinois at Urbana-Champaign. It is derived from the word "Illiniwek," which was the name of a confederacy of Native American tribes that lived in what is now Illinois. The term is used to refer to students, alumni, and fans of the university. |
-| 43 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 44 | [Canadiens](http://twitter.com/search?q=Canadiens) | N/A |
-| 45 | [Underwood](http://twitter.com/search?q=Underwood) | N/A |
-| 46 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 47 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 48 | [KD Johnson](http://twitter.com/search?q=KD+Johnson) | N/A |
-| 49 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 26 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
+| 27 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 28 | [Timo](http://twitter.com/search?q=Timo) | N/A |
+| 29 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 30 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
+| 31 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 32 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
+| 33 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
+| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 35 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 36 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 37 | [War Damn Eagle](http://twitter.com/search?q=War+Damn+Eagle) | N/A |
+| 38 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
+| 39 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
+| 40 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
+| 41 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 42 | [Jayla Everett](http://twitter.com/search?q=Jayla+Everett) | N/A |
+| 43 | [Sir'Jabari Rice](http://twitter.com/search?q=Sir%27Jabari+Rice) | N/A |
+| 44 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
+| 45 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
+| 46 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 47 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 48 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 49 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
 
 
 

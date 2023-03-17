@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-17 00:29:01 UTC`
+📆 Last Updated: `2023-03-17 01:44:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,41 +20,37 @@ This is top 50 for Portugal
 | 3 | [Adan](http://twitter.com/search?q=Adan) | N/A |
 | 4 | [Pote](http://twitter.com/search?q=Pote) | N/A |
 | 5 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 6 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 7 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
-| 8 | [Pedro Gonçalves](http://twitter.com/search?q=Pedro+Gon%c3%a7alves) | N/A |
+| 6 | [Richie](http://twitter.com/search?q=Richie) | N/A |
+| 7 | [Pedro Gonçalves](http://twitter.com/search?q=Pedro+Gon%c3%a7alves) | N/A |
+| 8 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
 | 9 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 10 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 11 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 12 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
-| 13 | [Liga Europa](http://twitter.com/search?q=Liga+Europa) | N/A |
-| 14 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 15 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 16 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
-| 17 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 10 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 11 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 12 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 13 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 14 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
+| 15 | [Liga Europa](http://twitter.com/search?q=Liga+Europa) | N/A |
+| 16 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 17 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
 | 18 | [VAMOS CARALHO](http://twitter.com/search?q=VAMOS+CARALHO) | N/A |
-| 19 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 20 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 21 | [Essugo](http://twitter.com/search?q=Essugo) | N/A |
-| 22 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 23 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
-| 24 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 25 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 26 | [Sevilha](http://twitter.com/search?q=Sevilha) | N/A |
-| 27 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 28 | [St. Juste](http://twitter.com/search?q=St.+Juste) | N/A |
-| 29 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 19 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 20 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 21 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 22 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 23 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
+| 24 | [Mafra](http://twitter.com/search?q=Mafra) | N/A |
+| 25 | [Sevilha](http://twitter.com/search?q=Sevilha) | N/A |
+| 26 | [Essugo](http://twitter.com/search?q=Essugo) | N/A |
+| 27 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 28 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 29 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 30 | [Coates](http://twitter.com/search?q=Coates) | N/A |
-| 31 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 32 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 33 | [Fatawu](http://twitter.com/search?q=Fatawu) | N/A |
-| 34 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 35 | [Inácio](http://twitter.com/search?q=In%c3%a1cio) | N/A |
-| 36 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 37 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
-| 38 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
-| 39 | [Fábio Vieira](http://twitter.com/search?q=F%c3%a1bio+Vieira) | N/A |
-| 40 | [London](http://twitter.com/search?q=London) | N/A |
+| 31 | [Fábio Vieira](http://twitter.com/search?q=F%c3%a1bio+Vieira) | N/A |
+| 32 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
+| 33 | [St. Juste](http://twitter.com/search?q=St.+Juste) | N/A |
+| 34 | [London](http://twitter.com/search?q=London) | N/A |
+| 35 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
+| 36 | [Fatawu](http://twitter.com/search?q=Fatawu) | N/A |
 
 
 
