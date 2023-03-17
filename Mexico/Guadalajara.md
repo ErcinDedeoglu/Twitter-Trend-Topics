@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-03-17 03:16:17 UTC`
+📆 Last Updated: `2023-03-17 04:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 2 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
-| 3 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 4 | [#LaVentajaColosal](http://twitter.com/search?q=%23LaVentajaColosal) | N/A |
-| 5 | [El Método](http://twitter.com/search?q=El+M%c3%a9todo) | N/A |
-| 6 | [#MéxicoMásPobreConAMLO](http://twitter.com/search?q=%23M%c3%a9xicoM%c3%a1sPobreConAMLO) | N/A |
-| 7 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 10 | [Palestina Libre](http://twitter.com/search?q=Palestina+Libre) | N/A |
-| 11 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 14 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
-| 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 16 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 17 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 18 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 19 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
-| 20 | [CONEVAL](http://twitter.com/search?q=CONEVAL) | N/A |
-| 21 | [Ciro Gómez Leyva](http://twitter.com/search?q=Ciro+G%c3%b3mez+Leyva) | Ciro Gómez Leyva is a Mexican journalist and radio host. He is known for his talk show Ciro Gómez Leyva por la Mañana, which airs on Radio Fórmula in Mexico. The show focuses on political and social issues in Mexico and Latin America. In English, the phrase "Ciro Gómez Leyva" translates to "Ciro Gomez Leyva". |
-| 22 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
-| 23 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 24 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 25 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
-| 26 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 27 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
-| 28 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
-| 29 | [Clásico Nacional](http://twitter.com/search?q=Cl%c3%a1sico+Nacional) | N/A |
-| 30 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 31 | [Robert Smith](http://twitter.com/search?q=Robert+Smith) | N/A |
-| 32 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 33 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 34 | [Clásico Regio](http://twitter.com/search?q=Cl%c3%a1sico+Regio) | N/A |
-| 35 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 36 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 37 | [Exelente](http://twitter.com/search?q=Exelente) | N/A |
-| 38 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 39 | [Roja](http://twitter.com/search?q=Roja) | N/A |
-| 40 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
-| 41 | [#Aurora](http://twitter.com/search?q=%23Aurora) | N/A |
-| 42 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 43 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
-| 44 | [#WiplashAdictos](http://twitter.com/search?q=%23WiplashAdictos) | N/A |
-| 45 | [#Claudicamos](http://twitter.com/search?q=%23Claudicamos) | N/A |
-| 46 | [#apagalaluzaaronmercury](http://twitter.com/search?q=%23apagalaluzaaronmercury) | N/A |
-| 47 | [#Bullying](http://twitter.com/search?q=%23Bullying) | N/A |
-| 48 | [#ESENCIASPOTIFY](http://twitter.com/search?q=%23ESENCIASPOTIFY) | N/A |
-| 49 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
-| 50 | [#셋미프리파트투_아미대기해](http://twitter.com/search?q=%23%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ed%8c%8c%ed%8a%b8%ed%88%ac_%ec%95%84%eb%af%b8%eb%8c%80%ea%b8%b0%ed%95%b4) | N/A |
+| 1 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 3 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 5 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
+| 6 | [#elculitodevenom](http://twitter.com/search?q=%23elculitodevenom) | N/A |
+| 7 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 8 | [HAPPY GOLD3N DAY](http://twitter.com/search?q=HAPPY+GOLD3N+DAY) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [El Método](http://twitter.com/search?q=El+M%c3%a9todo) | N/A |
+| 11 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
+| 12 | [Mctrio](http://twitter.com/search?q=Mctrio) | N/A |
+| 13 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 14 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 15 | [Feminicidio](http://twitter.com/search?q=Feminicidio) | N/A |
+| 16 | [Palestina Libre](http://twitter.com/search?q=Palestina+Libre) | N/A |
+| 17 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 18 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
+| 19 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 21 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 22 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 25 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 26 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
+| 27 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
+| 28 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
+| 29 | [Helena Rojo](http://twitter.com/search?q=Helena+Rojo) | N/A |
+| 30 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 31 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
+| 32 | [Ciro Gómez Leyva](http://twitter.com/search?q=Ciro+G%c3%b3mez+Leyva) | Ciro Gómez Leyva is a Mexican journalist and radio host. He is known for his talk show Ciro Gómez Leyva por la Mañana, which airs on Radio Fórmula in Mexico. The show focuses on political and social issues in Mexico and Latin America. In English, the phrase "Ciro Gómez Leyva" translates to "Ciro Gomez Leyva". |
+| 33 | [Clásico Regio](http://twitter.com/search?q=Cl%c3%a1sico+Regio) | N/A |
+| 34 | [Robert Smith](http://twitter.com/search?q=Robert+Smith) | N/A |
+| 35 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 36 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
+| 37 | [Clásico Nacional](http://twitter.com/search?q=Cl%c3%a1sico+Nacional) | N/A |
+| 38 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 39 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 40 | [Melissa Galindo](http://twitter.com/search?q=Melissa+Galindo) | N/A |
+| 41 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 42 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
+| 43 | [Exelente](http://twitter.com/search?q=Exelente) | N/A |
+| 44 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 45 | [#LaVentajaColosal](http://twitter.com/search?q=%23LaVentajaColosal) | N/A |
+| 46 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
+| 47 | [#셋미프리파트투_아미대기해](http://twitter.com/search?q=%23%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ed%8c%8c%ed%8a%b8%ed%88%ac_%ec%95%84%eb%af%b8%eb%8c%80%ea%b8%b0%ed%95%b4) | N/A |
+| 48 | [#Aurora](http://twitter.com/search?q=%23Aurora) | N/A |
+| 49 | [#MéxicoMásPobreConAMLO](http://twitter.com/search?q=%23M%c3%a9xicoM%c3%a1sPobreConAMLO) | N/A |
+| 50 | [#Bullying](http://twitter.com/search?q=%23Bullying) | N/A |
 
 
 

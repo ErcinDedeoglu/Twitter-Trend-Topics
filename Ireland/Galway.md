@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-17 03:16:25 UTC`
+📆 Last Updated: `2023-03-17 04:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 2 | [Ryan Tubridy](http://twitter.com/search?q=Ryan+Tubridy) | N/A |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
-| 5 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 6 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 7 | [#rmaliv](http://twitter.com/search?q=%23rmaliv) | N/A |
-| 8 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 3 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
+| 4 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
+| 5 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 6 | [#rmaliv](http://twitter.com/search?q=%23rmaliv) | N/A |
+| 7 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 9 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
 | 10 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 11 | [#theapprentice](http://twitter.com/search?q=%23theapprentice) | N/A |
-| 12 | [Tommy Tiernan](http://twitter.com/search?q=Tommy+Tiernan) | N/A |
-| 13 | [Toy Show](http://twitter.com/search?q=Toy+Show) | N/A |
+| 11 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 12 | [Toy Show](http://twitter.com/search?q=Toy+Show) | N/A |
+| 13 | [Tommy Tiernan](http://twitter.com/search?q=Tommy+Tiernan) | N/A |
 | 14 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 15 | [Tubs](http://twitter.com/search?q=Tubs) | N/A |
 | 16 | [St John Ambulance](http://twitter.com/search?q=St+John+Ambulance) | N/A |
@@ -41,29 +41,29 @@ This is top 50 for [Ireland](</Ireland>)
 | 24 | [Washington](http://twitter.com/search?q=Washington) | N/A |
 | 25 | [Claire Byrne](http://twitter.com/search?q=Claire+Byrne) | N/A |
 | 26 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 27 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 28 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 29 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
-| 30 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 31 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 32 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
-| 33 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 34 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 35 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 36 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 37 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 38 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 39 | [Gay Byrne](http://twitter.com/search?q=Gay+Byrne) | N/A |
-| 40 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 41 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 42 | [Varadkar](http://twitter.com/search?q=Varadkar) | N/A |
-| 43 | [Sarah McInerney](http://twitter.com/search?q=Sarah+McInerney) | N/A |
-| 44 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 45 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 46 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 48 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
-| 49 | [Noel O'Leary](http://twitter.com/search?q=Noel+O%27Leary) | N/A |
+| 27 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
+| 28 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 29 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 30 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 31 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 32 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 33 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 34 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 35 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 36 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 37 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 38 | [Gay Byrne](http://twitter.com/search?q=Gay+Byrne) | N/A |
+| 39 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 40 | [Varadkar](http://twitter.com/search?q=Varadkar) | N/A |
+| 41 | [Sarah McInerney](http://twitter.com/search?q=Sarah+McInerney) | N/A |
+| 42 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 43 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 44 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 45 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
+| 46 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 47 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 48 | [anton savage](http://twitter.com/search?q=anton+savage) | N/A |
+| 49 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
 
 
 

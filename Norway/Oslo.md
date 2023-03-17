@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-17 03:16:32 UTC`
+📆 Last Updated: `2023-03-17 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,7 +33,7 @@ This is top 50 for [Norway](</Norway>)
 | 16 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 18 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 19 | [Trædal](http://twitter.com/search?q=Tr%c3%a6dal) | N/A |
+| 19 | [trædal](http://twitter.com/search?q=tr%c3%a6dal) | N/A |
 | 20 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
 | 21 | [#narkotwitter](http://twitter.com/search?q=%23narkotwitter) | N/A |
 | 22 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |

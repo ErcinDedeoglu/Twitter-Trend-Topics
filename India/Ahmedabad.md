@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-03-17 03:16:50 UTC`
+📆 Last Updated: `2023-03-17 04:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PowerfulDNA](http://twitter.com/search?q=%23PowerfulDNA) | N/A |
-| 2 | [#सच_की_आवाज़](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%9a_%e0%a4%95%e0%a5%80_%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a4%bc) | N/A |
-| 3 | [Janta Ki Adalat](http://twitter.com/search?q=Janta+Ki+Adalat) | N/A |
-| 4 | [Release INNOCENT](http://twitter.com/search?q=Release+INNOCENT) | N/A |
-| 5 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 2 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 3 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 4 | [#सच_की_आवाज़](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%9a_%e0%a4%95%e0%a5%80_%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a4%bc) | N/A |
+| 5 | [#KalpanaChawla](http://twitter.com/search?q=%23KalpanaChawla) | N/A |
 | 6 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | कल्पना चावला is a popular Marathi phrase which translates to "Imaginary Rice" in English. It is used to describe something that is impossible or too good to be true. |
-| 7 | [#KalpanaChawla](http://twitter.com/search?q=%23KalpanaChawla) | N/A |
-| 8 | [#PuneethRajkumar](http://twitter.com/search?q=%23PuneethRajkumar) | N/A |
-| 9 | [#GodMorningFriday](http://twitter.com/search?q=%23GodMorningFriday) | N/A |
-| 10 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 11 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 12 | [CBI WhySo Slow InSSRCase](http://twitter.com/search?q=CBI+WhySo+Slow+InSSRCase) | N/A |
-| 13 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 14 | [प्रथम भारतीय महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 15 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
-| 16 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
-| 17 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 18 | [प्रथम महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 19 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 20 | [श्री मनोहर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0) | N/A |
-| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 22 | [पद्म भूषण](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%b7%e0%a4%a3) | N/A |
-| 23 | [Dinner with SRK](http://twitter.com/search?q=Dinner+with+SRK) | N/A |
-| 24 | [साइना नेहवाल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%87%e0%a4%a8%e0%a4%be+%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 25 | [designed for indian weddings](http://twitter.com/search?q=designed+for+indian+weddings) | N/A |
-| 26 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 27 | [JIMIN'S RAP](http://twitter.com/search?q=JIMIN%27S+RAP) | N/A |
-| 28 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 29 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 30 | [justice4ssr longest satyagraha](http://twitter.com/search?q=justice4ssr+longest+satyagraha) | N/A |
-| 31 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 32 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
-| 33 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 34 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 36 | [india against modani](http://twitter.com/search?q=india+against+modani) | N/A |
-| 37 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 38 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 39 | [पावर हाउस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%b0+%e0%a4%b9%e0%a4%be%e0%a4%89%e0%a4%b8) | N/A |
-| 40 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 41 | [प्रथम रक्षा प्रमुख](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 42 | [Sushant Nuggets Of Wisdom](http://twitter.com/search?q=Sushant+Nuggets+Of+Wisdom) | N/A |
-| 43 | [munawar x jassie mv out tmrw](http://twitter.com/search?q=munawar+x+jassie+mv+out+tmrw) | N/A |
-| 44 | [Rajesh Gopinathan](http://twitter.com/search?q=Rajesh+Gopinathan) | N/A |
-| 45 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 46 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 47 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 48 | [Very Good Morning](http://twitter.com/search?q=Very+Good+Morning) | N/A |
-| 49 | [asharamji bapu case](http://twitter.com/search?q=asharamji+bapu+case) | N/A |
-| 50 | [जयराम रमेश](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6) | N/A |
+| 7 | [Janta Ki Adalat](http://twitter.com/search?q=Janta+Ki+Adalat) | N/A |
+| 8 | [Release INNOCENT](http://twitter.com/search?q=Release+INNOCENT) | N/A |
+| 9 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 10 | [पद्म भूषण](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%b7%e0%a4%a3) | N/A |
+| 11 | [CBI WhySo Slow InSSRCase](http://twitter.com/search?q=CBI+WhySo+Slow+InSSRCase) | N/A |
+| 12 | [प्रथम महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 13 | [प्रथम भारतीय महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 14 | [श्री मनोहर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0) | N/A |
+| 15 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 16 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 17 | [Birth Anniversary](http://twitter.com/search?q=Birth+Anniversary) | N/A |
+| 18 | [पावर हाउस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%b0+%e0%a4%b9%e0%a4%be%e0%a4%89%e0%a4%b8) | N/A |
+| 19 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 20 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 21 | [स्वरा भास्कर](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be+%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0) | N/A |
+| 22 | [Dinner with SRK](http://twitter.com/search?q=Dinner+with+SRK) | N/A |
+| 23 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
+| 24 | [Rajesh Gopinathan](http://twitter.com/search?q=Rajesh+Gopinathan) | N/A |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [Lok Sabha](http://twitter.com/search?q=Lok+Sabha) | N/A |
+| 27 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 28 | [#PuneethRajkumar](http://twitter.com/search?q=%23PuneethRajkumar) | N/A |
+| 29 | [#ManoharParrikar](http://twitter.com/search?q=%23ManoharParrikar) | N/A |
+| 30 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 31 | [#GodMorningFriday](http://twitter.com/search?q=%23GodMorningFriday) | N/A |
+| 32 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 33 | [#AppuLivesOn](http://twitter.com/search?q=%23AppuLivesOn) | N/A |
+| 34 | [#ByeByeJaganIn2024](http://twitter.com/search?q=%23ByeByeJaganIn2024) | N/A |
+| 35 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 36 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 37 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
+| 38 | [#SainaNehwal](http://twitter.com/search?q=%23SainaNehwal) | N/A |
+| 39 | [#AVNReddy](http://twitter.com/search?q=%23AVNReddy) | N/A |
+| 40 | [#Kabzaa](http://twitter.com/search?q=%23Kabzaa) | N/A |
+| 41 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
+| 42 | [#MLCElectionCounting](http://twitter.com/search?q=%23MLCElectionCounting) | N/A |
+| 43 | [#Bapuji](http://twitter.com/search?q=%23Bapuji) | N/A |
+| 44 | [#GoodMorningTwitterWorld](http://twitter.com/search?q=%23GoodMorningTwitterWorld) | N/A |
+| 45 | [#셋미프리파트투_아미대기해](http://twitter.com/search?q=%23%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ed%8c%8c%ed%8a%b8%ed%88%ac_%ec%95%84%eb%af%b8%eb%8c%80%ea%b8%b0%ed%95%b4) | N/A |
+| 46 | [#bolu](http://twitter.com/search?q=%23bolu) | N/A |
+| 47 | [#HappyBirthdayDrPRK](http://twitter.com/search?q=%23HappyBirthdayDrPRK) | N/A |
+| 48 | [#SGXNIFTY](http://twitter.com/search?q=%23SGXNIFTY) | N/A |
+| 49 | [#KicchaSudeep𓃵](http://twitter.com/search?q=%23KicchaSudeep%f0%93%83%b5) | N/A |
 
 
 

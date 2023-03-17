@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-17 03:17:03 UTC`
+📆 Last Updated: `2023-03-17 04:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,18 +16,18 @@ This is top 50 for Algeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [أحمد عطاف](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%b9%d8%b7%d8%a7%d9%81) | N/A |
-| 2 | [#تبون_يمثلني](http://twitter.com/search?q=%23%d8%aa%d8%a8%d9%88%d9%86_%d9%8a%d9%85%d8%ab%d9%84%d9%86%d9%8a) | N/A |
-| 3 | [حسام](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85) | N/A |
-| 4 | [الدبلوماسيه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 5 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
-| 6 | [#اه_يا_دنيا](http://twitter.com/search?q=%23%d8%a7%d9%87_%d9%8a%d8%a7_%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 7 | [الجاليه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 8 | [عبد الرحمان حماد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a7%d9%86+%d8%ad%d9%85%d8%a7%d8%af) | N/A |
-| 9 | [التعديل الحكومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a) | N/A |
-| 10 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
-| 11 | [المجلس الفيدرالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a) | N/A |
-| 12 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 13 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 2 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 3 | [#تبون_يمثلني](http://twitter.com/search?q=%23%d8%aa%d8%a8%d9%88%d9%86_%d9%8a%d9%85%d8%ab%d9%84%d9%86%d9%8a) | N/A |
+| 4 | [حسام](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85) | N/A |
+| 5 | [الدبلوماسيه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 6 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
+| 7 | [#اه_يا_دنيا](http://twitter.com/search?q=%23%d8%a7%d9%87_%d9%8a%d8%a7_%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 8 | [الجاليه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 9 | [عبد الرحمان حماد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a7%d9%86+%d8%ad%d9%85%d8%a7%d8%af) | N/A |
+| 10 | [التعديل الحكومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a) | N/A |
+| 11 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 12 | [المجلس الفيدرالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a) | N/A |
+| 13 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
 | 14 | [الجمعيه الفيدراليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d9%87) | N/A |
 | 15 | [الشوون الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
 | 16 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Algeria
 | 46 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 | 47 | [عيد ميلاد سعيد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d9%8a%d9%84%d8%a7%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
 | 48 | [19 مارس](http://twitter.com/search?q=19+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 49 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
+| 49 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
 | 50 | [الخارجيه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 
 

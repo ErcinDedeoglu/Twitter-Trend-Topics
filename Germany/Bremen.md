@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-17 03:16:27 UTC`
+📆 Last Updated: `2023-03-17 04:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 2 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 3 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
-| 4 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 5 | [#SCFJUV](http://twitter.com/search?q=%23SCFJUV) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [#SetMeFree_Pt2_Is_Coming](http://twitter.com/search?q=%23SetMeFree_Pt2_Is_Coming) | N/A |
+| 3 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 4 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
+| 5 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 7 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
 | 8 | [Anya](http://twitter.com/search?q=Anya) | N/A |
 | 9 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
@@ -30,23 +30,23 @@ This is top 50 for [Germany](</Germany>)
 | 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 14 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
 | 15 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
-| 16 | [Socken](http://twitter.com/search?q=Socken) | N/A |
-| 17 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 17 | [axel springer](http://twitter.com/search?q=axel+springer) | N/A |
 | 18 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
-| 19 | [axel springer](http://twitter.com/search?q=axel+springer) | N/A |
+| 19 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
 | 20 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
 | 21 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 22 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 23 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 24 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 25 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 22 | [aneignung](http://twitter.com/search?q=aneignung) | N/A |
+| 23 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 24 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 25 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
 | 26 | [geissens](http://twitter.com/search?q=geissens) | N/A |
-| 27 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 28 | [Chefredaktion](http://twitter.com/search?q=Chefredaktion) | N/A |
+| 27 | [chefredaktion](http://twitter.com/search?q=chefredaktion) | N/A |
+| 28 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 29 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
 | 30 | [Krisen Zentrum](http://twitter.com/search?q=Krisen+Zentrum) | N/A |
 | 31 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 32 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 32 | [neapel](http://twitter.com/search?q=neapel) | N/A |
 | 33 | [absturz](http://twitter.com/search?q=absturz) | N/A |
 | 34 | [BundID](http://twitter.com/search?q=BundID) | N/A |
 | 35 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
@@ -60,9 +60,9 @@ This is top 50 for [Germany](</Germany>)
 | 43 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
 | 44 | [Banken](http://twitter.com/search?q=Banken) | N/A |
 | 45 | [Lena](http://twitter.com/search?q=Lena) | N/A |
-| 46 | [Seminarraum](http://twitter.com/search?q=Seminarraum) | N/A |
-| 47 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 48 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 46 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 47 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 48 | ['langeweile'](http://twitter.com/search?q=%27langeweile%27) | N/A |
 
 
 

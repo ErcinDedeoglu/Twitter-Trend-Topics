@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-17 03:17:04 UTC`
+📆 Last Updated: `2023-03-17 04:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,21 +16,21 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#kltop23](http://twitter.com/search?q=%23kltop23) | N/A |
-| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 5 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
-| 6 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
+| 2 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
+| 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 4 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 5 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
+| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 7 | [#kompoldk](http://twitter.com/search?q=%23kompoldk) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 8 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 10 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 11 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 12 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 13 | [berlingske](http://twitter.com/search?q=berlingske) | N/A |
-| 14 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 16 | [jelert](http://twitter.com/search?q=jelert) | N/A |
+| 11 | [berlingske](http://twitter.com/search?q=berlingske) | N/A |
+| 12 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 14 | [jelert](http://twitter.com/search?q=jelert) | N/A |
+| 15 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 16 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 17 | [tænker](http://twitter.com/search?q=t%c3%a6nker) | N/A |
 | 18 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 19 | [russiske](http://twitter.com/search?q=russiske) | N/A |
@@ -51,18 +51,18 @@ This is top 50 for Denmark
 | 34 | [HELE](http://twitter.com/search?q=HELE) | N/A |
 | 35 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 36 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 37 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 39 | [jylland](http://twitter.com/search?q=jylland) | N/A |
-| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 41 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 42 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
-| 43 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 44 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 45 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
-| 46 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 47 | [georgien](http://twitter.com/search?q=georgien) | N/A |
-| 48 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 37 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 38 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 40 | [jylland](http://twitter.com/search?q=jylland) | N/A |
+| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 42 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 43 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
+| 44 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 45 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 46 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
+| 47 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 48 | [georgien](http://twitter.com/search?q=georgien) | N/A |
 | 49 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 50 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 

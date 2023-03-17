@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-17 03:16:31 UTC`
+📆 Last Updated: `2023-03-17 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 3 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 4 | [#hrc52](http://twitter.com/search?q=%23hrc52) | N/A |
-| 5 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 3 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 4 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 6 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 7 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
 | 8 | [Markt](http://twitter.com/search?q=Markt) | N/A |
 | 9 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
@@ -30,15 +30,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 13 | [Russen](http://twitter.com/search?q=Russen) | N/A |
 | 14 | [Krise](http://twitter.com/search?q=Krise) | N/A |
 | 15 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 16 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
-| 17 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 18 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
+| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 17 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
+| 18 | [liquidität](http://twitter.com/search?q=liquidit%c3%a4t) | N/A |
 | 19 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
 | 20 | [sicherheiten](http://twitter.com/search?q=sicherheiten) | N/A |
 | 21 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
 | 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 23 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 24 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 24 | [Strom](http://twitter.com/search?q=Strom) | N/A |
 | 25 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
 | 26 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
 | 27 | [Boni](http://twitter.com/search?q=Boni) | N/A |
@@ -48,21 +48,21 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 31 | [Natur](http://twitter.com/search?q=Natur) | N/A |
 | 32 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
 | 33 | [risiken](http://twitter.com/search?q=risiken) | N/A |
-| 34 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 35 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 36 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 37 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 38 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 39 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
-| 40 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 41 | [Firma](http://twitter.com/search?q=Firma) | N/A |
-| 42 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 43 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 44 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 45 | [fussball](http://twitter.com/search?q=fussball) | N/A |
-| 46 | [London](http://twitter.com/search?q=London) | N/A |
-| 47 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 48 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
+| 34 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 35 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 36 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 37 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 38 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 39 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 40 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 41 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 42 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 43 | [fussball](http://twitter.com/search?q=fussball) | N/A |
+| 44 | [London](http://twitter.com/search?q=London) | N/A |
+| 45 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
+| 46 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
+| 47 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 48 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-03-17 03:16:35 UTC`
+📆 Last Updated: `2023-03-17 04:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 4 | [#nrlmanlyeels](http://twitter.com/search?q=%23nrlmanlyeels) | N/A |
 | 5 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 6 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 7 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
+| 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 7 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
 | 8 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 9 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 10 | [#gotiges](http://twitter.com/search?q=%23gotiges) | N/A |
-| 11 | [#mcrmelbourne](http://twitter.com/search?q=%23mcrmelbourne) | N/A |
-| 12 | [Brian Walsh](http://twitter.com/search?q=Brian+Walsh) | N/A |
-| 13 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 14 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 15 | [#nblfinals](http://twitter.com/search?q=%23nblfinals) | N/A |
-| 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 17 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
-| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 19 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 20 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
-| 21 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
-| 22 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
-| 23 | [McKay](http://twitter.com/search?q=McKay) | N/A |
-| 24 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 25 | [Tomahawk](http://twitter.com/search?q=Tomahawk) | N/A |
-| 26 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 27 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
-| 28 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 29 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 30 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 31 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 32 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 33 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 34 | [Zac Efron](http://twitter.com/search?q=Zac+Efron) | N/A |
-| 35 | [McGovern](http://twitter.com/search?q=McGovern) | N/A |
-| 36 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 37 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 38 | [Voss](http://twitter.com/search?q=Voss) | N/A |
-| 39 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 40 | [Productivity Commission](http://twitter.com/search?q=Productivity+Commission) | N/A |
-| 41 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 42 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
-| 43 | [Xerri](http://twitter.com/search?q=Xerri) | N/A |
-| 44 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
-| 45 | [Blake Acres](http://twitter.com/search?q=Blake+Acres) | N/A |
-| 46 | [Higgins](http://twitter.com/search?q=Higgins) | Higgins is a slang term used to refer to someone who is very smart or intelligent. It can also be used to describe someone who is very well-informed or knowledgeable about a particular subject. |
-| 47 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
-| 48 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
-| 49 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 50 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 9 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
+| 10 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 11 | [#SetMeFree_Pt2_OutToday](http://twitter.com/search?q=%23SetMeFree_Pt2_OutToday) | N/A |
+| 12 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 13 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
+| 14 | [Brian Walsh](http://twitter.com/search?q=Brian+Walsh) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 17 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 18 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 20 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
+| 21 | [Productivity Commission](http://twitter.com/search?q=Productivity+Commission) | N/A |
+| 22 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
+| 23 | [Penny Wong](http://twitter.com/search?q=Penny+Wong) | N/A |
+| 24 | [Menindee](http://twitter.com/search?q=Menindee) | N/A |
+| 25 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 26 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
+| 27 | [Tomahawk](http://twitter.com/search?q=Tomahawk) | N/A |
+| 28 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
+| 29 | [Flying Destiny](http://twitter.com/search?q=Flying+Destiny) | N/A |
+| 30 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 31 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 32 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 33 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
+| 34 | [Xerri](http://twitter.com/search?q=Xerri) | N/A |
+| 35 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 36 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 37 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 38 | [zac efron](http://twitter.com/search?q=zac+efron) | N/A |
+| 39 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 40 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 41 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 42 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 43 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 44 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 45 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
+| 46 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
+| 47 | [Higgins](http://twitter.com/search?q=Higgins) | Higgins is a slang term used to refer to someone who is very smart or intelligent. It can also be used to describe someone who is very well-informed or knowledgeable about a particular subject. |
+| 48 | [Blake Acres](http://twitter.com/search?q=Blake+Acres) | N/A |
+| 49 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 50 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
 
 
 

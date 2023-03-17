@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-17 03:17:07 UTC`
+📆 Last Updated: `2023-03-17 04:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for Latvia
 | 2 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
 | 3 | [Neko](http://twitter.com/search?q=Neko) | N/A |
 | 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 5 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 5 | [latviju](http://twitter.com/search?q=latviju) | N/A |
 | 6 | [kāds](http://twitter.com/search?q=k%c4%81ds) | N/A |
 | 7 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
 | 8 | [krievija](http://twitter.com/search?q=krievija) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for Latvia
 | 18 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 19 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
 | 20 | [dievs](http://twitter.com/search?q=dievs) | N/A |
-| 21 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
+| 21 | [tavu](http://twitter.com/search?q=tavu) | N/A |
 | 22 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 23 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
 | 24 | [европе](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-17 03:16:56 UTC`
+📆 Last Updated: `2023-03-17 04:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 2 | [Maddox](http://twitter.com/search?q=Maddox) | Maddox is a unisex given name of Welsh origin, derived from Madoc, which means "fortunate". It is also used as a surname. |
-| 3 | [Nittany Lions](http://twitter.com/search?q=Nittany+Lions) | N/A |
-| 4 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 5 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 1 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
+| 2 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
+| 3 | [Greedy](http://twitter.com/search?q=Greedy) | N/A |
+| 4 | [Maddox](http://twitter.com/search?q=Maddox) | Maddox is a unisex given name of Welsh origin, derived from Madoc, which means "fortunate". It is also used as a surname. |
+| 5 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
 | 6 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
 | 7 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 10 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 11 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
-| 12 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 13 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 14 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 15 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 16 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 17 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 8 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 10 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 11 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 12 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 13 | [#SetMeFree_Pt2_OutToday](http://twitter.com/search?q=%23SetMeFree_Pt2_OutToday) | N/A |
+| 14 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
+| 15 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 16 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 18 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 19 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
-| 20 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 21 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 22 | [#BeatBoxBeverages](http://twitter.com/search?q=%23BeatBoxBeverages) | N/A |
-| 23 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
-| 24 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
-| 25 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 26 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
-| 27 | [#QueensCourt](http://twitter.com/search?q=%23QueensCourt) | N/A |
-| 28 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 29 | [Norse](http://twitter.com/search?q=Norse) | N/A |
-| 30 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 31 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 19 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 20 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 21 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 22 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 23 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 24 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 25 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 26 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 27 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 28 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 29 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 30 | [Norse](http://twitter.com/search?q=Norse) | N/A |
+| 31 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
 | 32 | [Buzz Williams](http://twitter.com/search?q=Buzz+Williams) | N/A |
-| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 34 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 35 | [Uros](http://twitter.com/search?q=Uros) | N/A |
-| 36 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 37 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 38 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
-| 39 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
-| 40 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 41 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
-| 42 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
-| 43 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 44 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
-| 45 | [Dexter Dennis](http://twitter.com/search?q=Dexter+Dennis) | N/A |
-| 46 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
-| 47 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
-| 48 | [Trading Places](http://twitter.com/search?q=Trading+Places) | N/A |
-| 49 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
-| 50 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 33 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 34 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
+| 35 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 36 | [Cajuns](http://twitter.com/search?q=Cajuns) | N/A |
+| 37 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 38 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
+| 39 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 40 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 41 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
+| 42 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 43 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 44 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 45 | [Shead](http://twitter.com/search?q=Shead) | N/A |
+| 46 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 47 | [Kelvin Sampson](http://twitter.com/search?q=Kelvin+Sampson) | N/A |
+| 48 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
+| 49 | [Byfield](http://twitter.com/search?q=Byfield) | N/A |
+| 50 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
 
 
 
