@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-03-17 08:18:18 UTC`
+📆 Last Updated: `2023-03-17 09:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Greece
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Απεργια16Μαρτη](http://twitter.com/search?q=%23%ce%91%cf%80%ce%b5%cf%81%ce%b3%ce%b9%ce%b116%ce%9c%ce%b1%cf%81%cf%84%ce%b7) | N/A |
-| 2 | [#νδ_παρακρατος](http://twitter.com/search?q=%23%ce%bd%ce%b4_%cf%80%ce%b1%cf%81%ce%b1%ce%ba%cf%81%ce%b1%cf%84%ce%bf%cf%82) | N/A |
-| 3 | [Ρωσιδα](http://twitter.com/search?q=%ce%a1%cf%89%cf%83%ce%b9%ce%b4%ce%b1) | N/A |
-| 4 | [#koinoniaoramega](http://twitter.com/search?q=%23koinoniaoramega) | N/A |
-| 5 | [#ΠαιδωνΑγιαΣοφια17](http://twitter.com/search?q=%23%ce%a0%ce%b1%ce%b9%ce%b4%cf%89%ce%bd%ce%91%ce%b3%ce%b9%ce%b1%ce%a3%ce%bf%cf%86%ce%b9%ce%b117) | N/A |
-| 6 | [#mystylerocksgr](http://twitter.com/search?q=%23mystylerocksgr) | #mystylerocksgr is a hashtag used on social media to show appreciation for the Greek fashion brand My Style Rocks. It is used to promote the brand and its products, as well as to share photos of people wearing My Style Rocks clothing. |
-| 7 | [Παγκρατι](http://twitter.com/search?q=%ce%a0%ce%b1%ce%b3%ce%ba%cf%81%ce%b1%cf%84%ce%b9) | N/A |
-| 8 | [Μελινα](http://twitter.com/search?q=%ce%9c%ce%b5%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
-| 9 | [Γερμανου](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%ce%bf%cf%85) | N/A |
-| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 11 | [Μπονζουρ](http://twitter.com/search?q=%ce%9c%cf%80%ce%bf%ce%bd%ce%b6%ce%bf%cf%85%cf%81) | N/A |
-| 12 | [Καλημερα Μαιρη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9c%ce%b1%ce%b9%cf%81%ce%b7) | N/A |
-| 13 | [Καλημερα Νικο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9d%ce%b9%ce%ba%ce%bf) | N/A |
-| 14 | [Καλημεραααα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1%ce%b1%ce%b1%ce%b1) | N/A |
-| 15 | [Καλημερα Μανο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9c%ce%b1%ce%bd%ce%bf) | N/A |
+| 2 | [Στα 780](http://twitter.com/search?q=%ce%a3%cf%84%ce%b1+780) | N/A |
+| 3 | [#νδ_παρακρατος](http://twitter.com/search?q=%23%ce%bd%ce%b4_%cf%80%ce%b1%cf%81%ce%b1%ce%ba%cf%81%ce%b1%cf%84%ce%bf%cf%82) | N/A |
+| 4 | [Ρωσιδα](http://twitter.com/search?q=%ce%a1%cf%89%cf%83%ce%b9%ce%b4%ce%b1) | N/A |
+| 5 | [1η Απριλιου](http://twitter.com/search?q=1%ce%b7+%ce%91%cf%80%cf%81%ce%b9%ce%bb%ce%b9%ce%bf%cf%85) | N/A |
+| 6 | [#ΠαιδωνΑγιαΣοφια17](http://twitter.com/search?q=%23%ce%a0%ce%b1%ce%b9%ce%b4%cf%89%ce%bd%ce%91%ce%b3%ce%b9%ce%b1%ce%a3%ce%bf%cf%86%ce%b9%ce%b117) | N/A |
+| 7 | [#mystylerocksgr](http://twitter.com/search?q=%23mystylerocksgr) | #mystylerocksgr is a hashtag used on social media to show appreciation for the Greek fashion brand My Style Rocks. It is used to promote the brand and its products, as well as to share photos of people wearing My Style Rocks clothing. |
+| 8 | [Γερμανου](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%ce%bf%cf%85) | N/A |
+| 9 | [Ατζουν](http://twitter.com/search?q=%ce%91%cf%84%ce%b6%ce%bf%cf%85%ce%bd) | N/A |
+| 10 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 11 | [Μελινα](http://twitter.com/search?q=%ce%9c%ce%b5%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
+| 12 | [Παγκρατι](http://twitter.com/search?q=%ce%a0%ce%b1%ce%b3%ce%ba%cf%81%ce%b1%cf%84%ce%b9) | N/A |
+| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 14 | [Καλημερα Μανο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9c%ce%b1%ce%bd%ce%bf) | N/A |
+| 15 | [Ναταλια](http://twitter.com/search?q=%ce%9d%ce%b1%cf%84%ce%b1%ce%bb%ce%b9%ce%b1) | N/A |
 | 16 | [Ακαδημιας](http://twitter.com/search?q=%ce%91%ce%ba%ce%b1%ce%b4%ce%b7%ce%bc%ce%b9%ce%b1%cf%82) | N/A |
-| 17 | [Καλημερα Γιωργο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%93%ce%b9%cf%89%cf%81%ce%b3%ce%bf) | N/A |
-| 18 | [Ναταλια](http://twitter.com/search?q=%ce%9d%ce%b1%cf%84%ce%b1%ce%bb%ce%b9%ce%b1) | N/A |
-| 19 | [ζαλγκιρις](http://twitter.com/search?q=%ce%b6%ce%b1%ce%bb%ce%b3%ce%ba%ce%b9%cf%81%ce%b9%cf%82) | N/A |
-| 20 | [Καλημερα Κωστα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9a%cf%89%cf%83%cf%84%ce%b1) | N/A |
-| 21 | [17 Μαρτιου](http://twitter.com/search?q=17+%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
-| 22 | [νπιδ](http://twitter.com/search?q=%ce%bd%cf%80%ce%b9%ce%b4) | N/A |
-| 23 | [Καλημερα Ελενη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%95%ce%bb%ce%b5%ce%bd%ce%b7) | N/A |
-| 24 | [Γεροβασιλη](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%bf%ce%b2%ce%b1%cf%83%ce%b9%ce%bb%ce%b7) | N/A |
-| 25 | [Η ΕΥΠ](http://twitter.com/search?q=%ce%97+%ce%95%ce%a5%ce%a0) | N/A |
+| 17 | [17 Μαρτιου](http://twitter.com/search?q=17+%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
+| 18 | [Καλημερα Μαιρη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9c%ce%b1%ce%b9%cf%81%ce%b7) | N/A |
+| 19 | [Γεροβασιλη](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%bf%ce%b2%ce%b1%cf%83%ce%b9%ce%bb%ce%b7) | N/A |
+| 20 | [Μανη](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%b7) | N/A |
+| 21 | [νπιδ](http://twitter.com/search?q=%ce%bd%cf%80%ce%b9%ce%b4) | N/A |
+| 22 | [Αστυνομιας](http://twitter.com/search?q=%ce%91%cf%83%cf%84%cf%85%ce%bd%ce%bf%ce%bc%ce%b9%ce%b1%cf%82) | N/A |
+| 23 | [Καλημερα Νικο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9d%ce%b9%ce%ba%ce%bf) | N/A |
+| 24 | [Η ΕΥΠ](http://twitter.com/search?q=%ce%97+%ce%95%ce%a5%ce%a0) | N/A |
+| 25 | [Καλημερα Ρανια](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%a1%ce%b1%ce%bd%ce%b9%ce%b1) | N/A |
 | 26 | [σεβα](http://twitter.com/search?q=%cf%83%ce%b5%ce%b2%ce%b1) | N/A |
-| 27 | [Ατζουν](http://twitter.com/search?q=%ce%91%cf%84%ce%b6%ce%bf%cf%85%ce%bd) | N/A |
+| 27 | [Σερβιων](http://twitter.com/search?q=%ce%a3%ce%b5%cf%81%ce%b2%ce%b9%cf%89%ce%bd) | N/A |
 | 28 | [λαζαριδου](http://twitter.com/search?q=%ce%bb%ce%b1%ce%b6%ce%b1%cf%81%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
-| 29 | [Αστυνομιας](http://twitter.com/search?q=%ce%91%cf%83%cf%84%cf%85%ce%bd%ce%bf%ce%bc%ce%b9%ce%b1%cf%82) | N/A |
-| 30 | [Σερβιων](http://twitter.com/search?q=%ce%a3%ce%b5%cf%81%ce%b2%ce%b9%cf%89%ce%bd) | N/A |
-| 31 | [βιλερμπαν](http://twitter.com/search?q=%ce%b2%ce%b9%ce%bb%ce%b5%cf%81%ce%bc%cf%80%ce%b1%ce%bd) | N/A |
+| 29 | [βιλερμπαν](http://twitter.com/search?q=%ce%b2%ce%b9%ce%bb%ce%b5%cf%81%ce%bc%cf%80%ce%b1%ce%bd) | N/A |
+| 30 | [Μακρον](http://twitter.com/search?q=%ce%9c%ce%b1%ce%ba%cf%81%ce%bf%ce%bd) | N/A |
+| 31 | [πωλινα](http://twitter.com/search?q=%cf%80%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
 | 32 | [Σασα](http://twitter.com/search?q=%ce%a3%ce%b1%cf%83%ce%b1) | N/A |
-| 33 | [πωλινα](http://twitter.com/search?q=%cf%80%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
-| 34 | [Καουνας](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bf%cf%85%ce%bd%ce%b1%cf%82) | N/A |
-| 35 | [Καλημερα Ηλια](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%97%ce%bb%ce%b9%ce%b1) | N/A |
-| 36 | [Βαρδινογιαννη](http://twitter.com/search?q=%ce%92%ce%b1%cf%81%ce%b4%ce%b9%ce%bd%ce%bf%ce%b3%ce%b9%ce%b1%ce%bd%ce%bd%ce%b7) | N/A |
-| 37 | [Μακρον](http://twitter.com/search?q=%ce%9c%ce%b1%ce%ba%cf%81%ce%bf%ce%bd) | N/A |
-| 38 | [Θεοδωρικακος](http://twitter.com/search?q=%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b9%ce%ba%ce%b1%ce%ba%ce%bf%cf%82) | N/A |
-| 39 | [Καλημερα Θεοδωρα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b1) | N/A |
-| 40 | [εφες](http://twitter.com/search?q=%ce%b5%cf%86%ce%b5%cf%82) | N/A |
-| 41 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 42 | [Καλημερα Γρηγορη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%93%cf%81%ce%b7%ce%b3%ce%bf%cf%81%ce%b7) | N/A |
-| 43 | [τσαπανιδου](http://twitter.com/search?q=%cf%84%cf%83%ce%b1%cf%80%ce%b1%ce%bd%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
-| 44 | [ρεινα](http://twitter.com/search?q=%cf%81%ce%b5%ce%b9%ce%bd%ce%b1) | N/A |
-| 45 | [Γεωργιας Μπικα](http://twitter.com/search?q=%ce%93%ce%b5%cf%89%cf%81%ce%b3%ce%b9%ce%b1%cf%82+%ce%9c%cf%80%ce%b9%ce%ba%ce%b1) | N/A |
-| 46 | [τομας](http://twitter.com/search?q=%cf%84%ce%bf%ce%bc%ce%b1%cf%82) | N/A |
-| 47 | [Κοινοι Θνητοι](http://twitter.com/search?q=%ce%9a%ce%bf%ce%b9%ce%bd%ce%bf%ce%b9+%ce%98%ce%bd%ce%b7%cf%84%ce%bf%ce%b9) | N/A |
+| 33 | [Δαλακα](http://twitter.com/search?q=%ce%94%ce%b1%ce%bb%ce%b1%ce%ba%ce%b1) | N/A |
+| 34 | [Κοινοι Θνητοι](http://twitter.com/search?q=%ce%9a%ce%bf%ce%b9%ce%bd%ce%bf%ce%b9+%ce%98%ce%bd%ce%b7%cf%84%ce%bf%ce%b9) | N/A |
+| 35 | [Θεοδωρικακος](http://twitter.com/search?q=%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b9%ce%ba%ce%b1%ce%ba%ce%bf%cf%82) | N/A |
+| 36 | [Ασημινα](http://twitter.com/search?q=%ce%91%cf%83%ce%b7%ce%bc%ce%b9%ce%bd%ce%b1) | N/A |
+| 37 | [Βαρδινογιαννη](http://twitter.com/search?q=%ce%92%ce%b1%cf%81%ce%b4%ce%b9%ce%bd%ce%bf%ce%b3%ce%b9%ce%b1%ce%bd%ce%bd%ce%b7) | N/A |
+| 38 | [Μαρια Τ](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1+%ce%a4) | N/A |
+| 39 | [Ζαλγκιρις](http://twitter.com/search?q=%ce%96%ce%b1%ce%bb%ce%b3%ce%ba%ce%b9%cf%81%ce%b9%cf%82) | N/A |
+| 40 | [Καλημερα Θεοδωρα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b1) | N/A |
+| 41 | [Καουνας](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bf%cf%85%ce%bd%ce%b1%cf%82) | N/A |
+| 42 | [ρεινα](http://twitter.com/search?q=%cf%81%ce%b5%ce%b9%ce%bd%ce%b1) | N/A |
+| 43 | [Καλημερα Γρηγορη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%93%cf%81%ce%b7%ce%b3%ce%bf%cf%81%ce%b7) | N/A |
+| 44 | [Τακης](http://twitter.com/search?q=%ce%a4%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
+| 45 | [Γαλλια](http://twitter.com/search?q=%ce%93%ce%b1%ce%bb%ce%bb%ce%b9%ce%b1) | N/A |
+| 46 | [Γεωργιας Μπικα](http://twitter.com/search?q=%ce%93%ce%b5%cf%89%cf%81%ce%b3%ce%b9%ce%b1%cf%82+%ce%9c%cf%80%ce%b9%ce%ba%ce%b1) | N/A |
+| 47 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 48 | [Χαλκιδικη](http://twitter.com/search?q=%ce%a7%ce%b1%ce%bb%ce%ba%ce%b9%ce%b4%ce%b9%ce%ba%ce%b7) | N/A |
 | 49 | [λαμπρακη](http://twitter.com/search?q=%ce%bb%ce%b1%ce%bc%cf%80%cf%81%ce%b1%ce%ba%ce%b7) | N/A |
-| 50 | [Καλημερα Βασιλη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%92%ce%b1%cf%83%ce%b9%ce%bb%ce%b7) | N/A |
+| 50 | [Παρασκευης](http://twitter.com/search?q=%ce%a0%ce%b1%cf%81%ce%b1%cf%83%ce%ba%ce%b5%cf%85%ce%b7%cf%82) | N/A |
 
 
 

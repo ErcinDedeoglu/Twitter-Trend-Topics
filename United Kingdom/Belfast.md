@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-17 08:17:03 UTC`
+📆 Last Updated: `2023-03-17 09:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 2 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 4 | [#stpaddysday](http://twitter.com/search?q=%23stpaddysday) | N/A |
-| 5 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 6 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 7 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 8 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 9 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 11 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
-| 14 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 15 | [Dominic Raab](http://twitter.com/search?q=Dominic+Raab) | N/A |
-| 16 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 17 | [South Ruislip](http://twitter.com/search?q=South+Ruislip) | N/A |
-| 18 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 19 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 20 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 21 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 22 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 23 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 24 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 25 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 26 | [Baroness Brady](http://twitter.com/search?q=Baroness+Brady) | N/A |
-| 27 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 28 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 29 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
-| 30 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 31 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 32 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 33 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 34 | [#Ireland](http://twitter.com/search?q=%23Ireland) | N/A |
-| 35 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
-| 36 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
-| 37 | [#teacher5oclockclub](http://twitter.com/search?q=%23teacher5oclockclub) | N/A |
-| 38 | [#GBBO](http://twitter.com/search?q=%23GBBO) | N/A |
-| 39 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 40 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 41 | [#TheApprentice2023](http://twitter.com/search?q=%23TheApprentice2023) | N/A |
-| 42 | [#BM100](http://twitter.com/search?q=%23BM100) | N/A |
-| 43 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
-| 44 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 2 | [#CPFC](http://twitter.com/search?q=%23CPFC) | N/A |
+| 3 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 4 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 5 | [#stpaddysday](http://twitter.com/search?q=%23stpaddysday) | N/A |
+| 6 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 7 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
+| 8 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 9 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 10 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 11 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
+| 12 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
+| 13 | [Dominic Raab](http://twitter.com/search?q=Dominic+Raab) | N/A |
+| 14 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 15 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
+| 16 | [Steve Parish](http://twitter.com/search?q=Steve+Parish) | N/A |
+| 17 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 18 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 19 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
+| 20 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
+| 21 | [St George](http://twitter.com/search?q=St+George) | N/A |
+| 22 | [Gethin](http://twitter.com/search?q=Gethin) | N/A |
+| 23 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 24 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 25 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 26 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 28 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 30 | [Mothers Day](http://twitter.com/search?q=Mothers+Day) | N/A |
+| 31 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 32 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 33 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 34 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
+| 35 | [#Ireland](http://twitter.com/search?q=%23Ireland) | N/A |
+| 36 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
+| 37 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 38 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 39 | [#GBBO](http://twitter.com/search?q=%23GBBO) | N/A |
+| 40 | [#FallFriday](http://twitter.com/search?q=%23FallFriday) | N/A |
+| 41 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 42 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 43 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 44 | [#ToriesOut253](http://twitter.com/search?q=%23ToriesOut253) | N/A |
+| 45 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 46 | [#teacher5oclockclub](http://twitter.com/search?q=%23teacher5oclockclub) | N/A |
+| 47 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 48 | [#FordeReport](http://twitter.com/search?q=%23FordeReport) | N/A |
+| 49 | [#BM100](http://twitter.com/search?q=%23BM100) | N/A |
+| 50 | [#NHSStrikes](http://twitter.com/search?q=%23NHSStrikes) | N/A |
 
 
 

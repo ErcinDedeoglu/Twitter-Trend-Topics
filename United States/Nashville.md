@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-03-17 08:18:08 UTC`
+📆 Last Updated: `2023-03-17 09:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 3 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 4 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 5 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
-| 6 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 2 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 3 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 4 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 5 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 7 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
 | 8 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 9 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 10 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 10 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
 | 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 12 | [Effie](http://twitter.com/search?q=Effie) | N/A |
 | 13 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 14 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 15 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 16 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 17 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 18 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 19 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
-| 20 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
-| 21 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 14 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 15 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 16 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 17 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
+| 18 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 19 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 20 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 21 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 22 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 23 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 24 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 25 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 26 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
-| 27 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 28 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 29 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 30 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 31 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
-| 32 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
-| 33 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 34 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
-| 35 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 36 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 37 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 38 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 39 | [Lil Mo](http://twitter.com/search?q=Lil+Mo) | N/A |
-| 40 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
-| 41 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
-| 42 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 43 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 44 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 45 | [All Things End](http://twitter.com/search?q=All+Things+End) | N/A |
-| 46 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 47 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
-| 48 | [McGwire](http://twitter.com/search?q=McGwire) | N/A |
-| 49 | [Tori Kelly](http://twitter.com/search?q=Tori+Kelly) | N/A |
-| 50 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 23 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 24 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
+| 25 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 26 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 27 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
+| 28 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 29 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
+| 30 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
+| 31 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 32 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 33 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
+| 34 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 35 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 36 | [Lil Mo](http://twitter.com/search?q=Lil+Mo) | N/A |
+| 37 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
+| 38 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 39 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 40 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 41 | [Donald Glover](http://twitter.com/search?q=Donald+Glover) | N/A |
+| 42 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
+| 43 | [All Things End](http://twitter.com/search?q=All+Things+End) | N/A |
+| 44 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 45 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 46 | [Tori Kelly](http://twitter.com/search?q=Tori+Kelly) | N/A |
+| 47 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 48 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 49 | [BMF & Power](http://twitter.com/search?q=BMF+%26+Power) | N/A |
 
 
 

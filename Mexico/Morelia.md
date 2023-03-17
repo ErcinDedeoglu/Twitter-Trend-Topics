@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-03-17 08:17:06 UTC`
+📆 Last Updated: `2023-03-17 09:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,46 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 3 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
 | 4 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 6 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
+| 5 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
+| 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 8 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
 | 9 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 10 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 11 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
-| 12 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
-| 13 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 14 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 15 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 16 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 17 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 18 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
-| 19 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 20 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 21 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 22 | [TE AMO JIMIN](http://twitter.com/search?q=TE+AMO+JIMIN) | N/A |
+| 10 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
+| 11 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
+| 12 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 13 | [#ElCulitoDeVenom](http://twitter.com/search?q=%23ElCulitoDeVenom) | N/A |
+| 14 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 15 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 16 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 17 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 18 | [Asesina](http://twitter.com/search?q=Asesina) | N/A |
+| 19 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 20 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 21 | [TE AMO JIMIN](http://twitter.com/search?q=TE+AMO+JIMIN) | N/A |
+| 22 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
 | 23 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 24 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 25 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 26 | [Mctrio](http://twitter.com/search?q=Mctrio) | N/A |
-| 27 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
-| 28 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 29 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 30 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 31 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 32 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
-| 33 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
-| 34 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
-| 35 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 36 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 37 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 38 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 39 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 40 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 41 | [Feminicidio](http://twitter.com/search?q=Feminicidio) | N/A |
-| 42 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 43 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
-| 44 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 45 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 46 | [Clásico Nacional](http://twitter.com/search?q=Cl%c3%a1sico+Nacional) | N/A |
-| 47 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
-| 48 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 49 | [#elculitodevenom](http://twitter.com/search?q=%23elculitodevenom) | N/A |
+| 24 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 25 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
+| 26 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 27 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 28 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
+| 29 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 30 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
+| 31 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
+| 32 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 33 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 34 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 35 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 36 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 37 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 38 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
+| 39 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
+| 40 | [#셋미프리파트투_아미대기해](http://twitter.com/search?q=%23%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ed%8c%8c%ed%8a%b8%ed%88%ac_%ec%95%84%eb%af%b8%eb%8c%80%ea%b8%b0%ed%95%b4) | N/A |
+| 41 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 42 | [#MONSTAX](http://twitter.com/search?q=%23MONSTAX) | N/A |
+| 43 | [#Bullying](http://twitter.com/search?q=%23Bullying) | N/A |
+| 44 | [#Aurora](http://twitter.com/search?q=%23Aurora) | N/A |
 
 
 

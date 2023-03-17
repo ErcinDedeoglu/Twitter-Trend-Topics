@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-17 08:17:24 UTC`
+📆 Last Updated: `2023-03-17 09:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#feysha](http://twitter.com/search?q=%23feysha) | N/A |
-| 3 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 1 | [#feysha](http://twitter.com/search?q=%23feysha) | N/A |
+| 2 | [#stapbudget](http://twitter.com/search?q=%23stapbudget) | N/A |
+| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 4 | [#verkiezingsuitslagen](http://twitter.com/search?q=%23verkiezingsuitslagen) | N/A |
-| 5 | [#azlaz](http://twitter.com/search?q=%23azlaz) | N/A |
-| 6 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 7 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 8 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 9 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 10 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 11 | [Kimberley](http://twitter.com/search?q=Kimberley) | N/A |
-| 12 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 13 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 5 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 6 | [#AZLAZ](http://twitter.com/search?q=%23AZLAZ) | N/A |
+| 7 | [Antarctica](http://twitter.com/search?q=Antarctica) | N/A |
+| 8 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 9 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 10 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 11 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 12 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 13 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
 | 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 15 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
-| 16 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
-| 17 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 18 | [Melkert](http://twitter.com/search?q=Melkert) | N/A |
-| 19 | [Asha](http://twitter.com/search?q=Asha) | N/A |
-| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 21 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
-| 22 | [Europese](http://twitter.com/search?q=Europese) | N/A |
-| 23 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 24 | [Volt](http://twitter.com/search?q=Volt) | N/A |
-| 25 | [Piet](http://twitter.com/search?q=Piet) | N/A |
-| 26 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
-| 27 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 28 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 29 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 30 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 31 | [Femke](http://twitter.com/search?q=Femke) | N/A |
-| 32 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 33 | [Amsterdammers](http://twitter.com/search?q=Amsterdammers) | N/A |
+| 16 | [Melkert](http://twitter.com/search?q=Melkert) | N/A |
+| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 18 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
+| 19 | [Piet](http://twitter.com/search?q=Piet) | N/A |
+| 20 | [Europese](http://twitter.com/search?q=Europese) | N/A |
+| 21 | [Mirjam](http://twitter.com/search?q=Mirjam) | N/A |
+| 22 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
+| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 24 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 25 | [Volt](http://twitter.com/search?q=Volt) | N/A |
+| 26 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 27 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 28 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 29 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 30 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 31 | [Amsterdammers](http://twitter.com/search?q=Amsterdammers) | N/A |
+| 32 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 33 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
 | 34 | [Build Back Better](http://twitter.com/search?q=Build+Back+Better) | N/A |
-| 35 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
-| 36 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 37 | [Veenendaal](http://twitter.com/search?q=Veenendaal) | N/A |
-| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 35 | [Veenendaal](http://twitter.com/search?q=Veenendaal) | N/A |
+| 36 | [Kimberley](http://twitter.com/search?q=Kimberley) | N/A |
+| 37 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 38 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
 | 39 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 40 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
-| 41 | [Tjark](http://twitter.com/search?q=Tjark) | N/A |
-| 42 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
-| 43 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 44 | [Karel Sabbe](http://twitter.com/search?q=Karel+Sabbe) | N/A |
-| 45 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
-| 46 | [Boswijk](http://twitter.com/search?q=Boswijk) | N/A |
+| 40 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
+| 41 | [Karel Sabbe](http://twitter.com/search?q=Karel+Sabbe) | N/A |
+| 42 | [Andries](http://twitter.com/search?q=Andries) | N/A |
+| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 44 | [Boswijk](http://twitter.com/search?q=Boswijk) | N/A |
+| 45 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
+| 46 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
 | 47 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 48 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
-| 49 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 50 | [Als BBB](http://twitter.com/search?q=Als+BBB) | N/A |
+| 48 | [Als BBB](http://twitter.com/search?q=Als+BBB) | N/A |
+| 49 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 50 | [Tjark](http://twitter.com/search?q=Tjark) | N/A |
 
 
 

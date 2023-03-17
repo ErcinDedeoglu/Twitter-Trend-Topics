@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-17 08:18:04 UTC`
+📆 Last Updated: `2023-03-17 09:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 2 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 4 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 5 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 8 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 9 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 10 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 11 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 2 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 6 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 7 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 8 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 11 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
 | 12 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
 | 13 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
 | 14 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
 | 15 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
-| 16 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
-| 17 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 18 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 19 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 20 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 21 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 22 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
-| 23 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 24 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 25 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 16 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 17 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 18 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 19 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 20 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 21 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 22 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
+| 23 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 24 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 25 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
 | 26 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 27 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
-| 28 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
+| 27 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
+| 28 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
 | 29 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 30 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
-| 31 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 32 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 30 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 31 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
+| 32 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
 | 33 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 34 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 35 | [Lil Mo](http://twitter.com/search?q=Lil+Mo) | N/A |
-| 36 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
-| 37 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
-| 38 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 39 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 40 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 34 | [Lil Mo](http://twitter.com/search?q=Lil+Mo) | N/A |
+| 35 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
+| 36 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 37 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 38 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 39 | [Donald Glover](http://twitter.com/search?q=Donald+Glover) | N/A |
+| 40 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
 | 41 | [All Things End](http://twitter.com/search?q=All+Things+End) | N/A |
-| 42 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 43 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
-| 44 | [McGwire](http://twitter.com/search?q=McGwire) | N/A |
-| 45 | [Tori Kelly](http://twitter.com/search?q=Tori+Kelly) | N/A |
-| 46 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 47 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
-| 48 | [FRIDA](http://twitter.com/search?q=FRIDA) | N/A |
-| 49 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 50 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 42 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 43 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 44 | [Tori Kelly](http://twitter.com/search?q=Tori+Kelly) | N/A |
+| 45 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 46 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 47 | [BMF & Power](http://twitter.com/search?q=BMF+%26+Power) | N/A |
+| 48 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
+| 49 | [Yves Tumor](http://twitter.com/search?q=Yves+Tumor) | N/A |
+| 50 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-17 08:18:06 UTC`
+📆 Last Updated: `2023-03-17 09:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 2 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 1 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 2 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
 | 3 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
-| 4 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 5 | [#UCLA](http://twitter.com/search?q=%23UCLA) | N/A |
-| 6 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 7 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 5 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 6 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 8 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
 | 9 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 12 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 13 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 14 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 10 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 11 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 14 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
 | 15 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
 | 16 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
 | 17 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
 | 18 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
-| 19 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 20 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
-| 21 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 22 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 23 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 24 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 25 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 19 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 20 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 21 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 22 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 23 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 24 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 25 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
 | 26 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
 | 27 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 28 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 29 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
+| 28 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
+| 29 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
 | 30 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
-| 31 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 32 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
-| 33 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 34 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 35 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 36 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
+| 31 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
+| 32 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 33 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 34 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
+| 35 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 36 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
 | 37 | [Lil Mo](http://twitter.com/search?q=Lil+Mo) | N/A |
 | 38 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
-| 39 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
-| 40 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 41 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 42 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 43 | [All Things End](http://twitter.com/search?q=All+Things+End) | N/A |
-| 44 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 45 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
-| 46 | [McGwire](http://twitter.com/search?q=McGwire) | N/A |
+| 39 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 40 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 41 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 42 | [Donald Glover](http://twitter.com/search?q=Donald+Glover) | N/A |
+| 43 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
+| 44 | [All Things End](http://twitter.com/search?q=All+Things+End) | N/A |
+| 45 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 47 | [Tori Kelly](http://twitter.com/search?q=Tori+Kelly) | N/A |
-| 48 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 49 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
-| 50 | [FRIDA](http://twitter.com/search?q=FRIDA) | N/A |
+| 48 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 49 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 50 | [BMF & Power](http://twitter.com/search?q=BMF+%26+Power) | N/A |
 
 
 

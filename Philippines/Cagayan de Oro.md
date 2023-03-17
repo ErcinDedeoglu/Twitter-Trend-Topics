@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-17 08:17:40 UTC`
+📆 Last Updated: `2023-03-17 09:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,51 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [IIBIG MULI SA ABRIL](http://twitter.com/search?q=IIBIG+MULI+SA+ABRIL) | N/A |
-| 2 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 4 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [CHIN SAID YES TO SETH](http://twitter.com/search?q=CHIN+SAID+YES+TO+SETH) | N/A |
-| 7 | [#HORI7ON_GoesToAntipolo](http://twitter.com/search?q=%23HORI7ON_GoesToAntipolo) | N/A |
-| 8 | [SG20 TICKET RELEASE](http://twitter.com/search?q=SG20+TICKET+RELEASE) | N/A |
-| 9 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
-| 10 | [POPSTAR ROYALTY CONCERT](http://twitter.com/search?q=POPSTAR+ROYALTY+CONCERT) | N/A |
-| 11 | [ANTIPOLOves HORI7ON](http://twitter.com/search?q=ANTIPOLOves+HORI7ON) | N/A |
-| 12 | [#AKNPIsangTawag](http://twitter.com/search?q=%23AKNPIsangTawag) | N/A |
-| 13 | [BGYO CHOWKING HALOHALO](http://twitter.com/search?q=BGYO+CHOWKING+HALOHALO) | N/A |
-| 14 | [WTF JIMIN](http://twitter.com/search?q=WTF+JIMIN) | N/A |
-| 15 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 16 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 17 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 18 | [Navotas](http://twitter.com/search?q=Navotas) | N/A |
-| 19 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 20 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
-| 21 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 22 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 23 | [Issa](http://twitter.com/search?q=Issa) | N/A |
-| 24 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
+| 1 | [#AURAMExBecky](http://twitter.com/search?q=%23AURAMExBecky) | N/A |
+| 2 | [CHIN SAID YES TO SETH](http://twitter.com/search?q=CHIN+SAID+YES+TO+SETH) | N/A |
+| 3 | [#BARDAxALASKA](http://twitter.com/search?q=%23BARDAxALASKA) | N/A |
+| 4 | [HEEJAY LIVE](http://twitter.com/search?q=HEEJAY+LIVE) | N/A |
+| 5 | [IIBIG MULI SA ABRIL](http://twitter.com/search?q=IIBIG+MULI+SA+ABRIL) | N/A |
+| 6 | [#HORI7ON_GoesToAntipolo](http://twitter.com/search?q=%23HORI7ON_GoesToAntipolo) | N/A |
+| 7 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [ANTIPOLOves HORI7ON](http://twitter.com/search?q=ANTIPOLOves+HORI7ON) | N/A |
+| 10 | [#HORI7ON_DASH_D5](http://twitter.com/search?q=%23HORI7ON_DASH_D5) | N/A |
+| 11 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [SG20 TICKET RELEASE](http://twitter.com/search?q=SG20+TICKET+RELEASE) | N/A |
+| 14 | [POPSTAR ROYALTY CONCERT](http://twitter.com/search?q=POPSTAR+ROYALTY+CONCERT) | N/A |
+| 15 | [BGYO CHOWKING HALOHALO](http://twitter.com/search?q=BGYO+CHOWKING+HALOHALO) | N/A |
+| 16 | [WTF JIMIN](http://twitter.com/search?q=WTF+JIMIN) | N/A |
+| 17 | [Navotas](http://twitter.com/search?q=Navotas) | N/A |
+| 18 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 19 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 20 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 21 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 22 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 23 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 24 | [Issa](http://twitter.com/search?q=Issa) | N/A |
 | 25 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
-| 26 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 27 | [joshua hong](http://twitter.com/search?q=joshua+hong) | N/A |
-| 28 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 29 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 30 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 31 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 32 | [#13SangkapSarapSummer](http://twitter.com/search?q=%2313SangkapSarapSummer) | N/A |
-| 33 | [#ShowtimeFUNbassadors](http://twitter.com/search?q=%23ShowtimeFUNbassadors) | N/A |
-| 34 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
-| 35 | [#BOYCOTTEBxAPTxGMA737](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA737) | N/A |
-| 36 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
-| 37 | [#WannaBeWithBENCH](http://twitter.com/search?q=%23WannaBeWithBENCH) | N/A |
-| 38 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 26 | [joshua hong](http://twitter.com/search?q=joshua+hong) | N/A |
+| 27 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 28 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
+| 29 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
+| 30 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 31 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 32 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 33 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 34 | [#EndingFairy_MINA](http://twitter.com/search?q=%23EndingFairy_MINA) | N/A |
+| 35 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 36 | [#미나_엔딩요정](http://twitter.com/search?q=%23%eb%af%b8%eb%82%98_%ec%97%94%eb%94%a9%ec%9a%94%ec%a0%95) | N/A |
+| 37 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 38 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
+| 39 | [#AKNPIsangTawag](http://twitter.com/search?q=%23AKNPIsangTawag) | N/A |
+| 40 | [#13SangkapSarapSummer](http://twitter.com/search?q=%2313SangkapSarapSummer) | N/A |
+| 41 | [#ShowtimeFUNbassadors](http://twitter.com/search?q=%23ShowtimeFUNbassadors) | N/A |
+| 42 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
+| 43 | [#BOYCOTTEBxAPTxGMA737](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA737) | N/A |
+| 44 | [#DavidLicauco](http://twitter.com/search?q=%23DavidLicauco) | N/A |
+| 45 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
 
 
 
