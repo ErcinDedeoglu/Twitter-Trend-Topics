@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-03-17 19:16:07 UTC`
+📆 Last Updated: `2023-03-17 20:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,45 +17,44 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [Russie](http://twitter.com/search?q=Russie) | N/A |
 | 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 3 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 4 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 5 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 6 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 7 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 8 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 9 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 10 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 11 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 12 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 13 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 14 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
-| 15 | [PGWP](http://twitter.com/search?q=PGWP) | N/A |
-| 16 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 17 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 18 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 19 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 20 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 21 | [#luckoftheirish](http://twitter.com/search?q=%23luckoftheirish) | N/A |
-| 22 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 23 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 24 | [#Diablo4](http://twitter.com/search?q=%23Diablo4) | N/A |
-| 25 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 26 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 27 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 28 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 29 | [Guelph](http://twitter.com/search?q=Guelph) | N/A |
+| 3 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 4 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 5 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 6 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 8 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 9 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 10 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 12 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 13 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 14 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 15 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 16 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 17 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 18 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 19 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 20 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 21 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
+| 22 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 23 | [PGWP](http://twitter.com/search?q=PGWP) | N/A |
+| 24 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
+| 25 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 26 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 27 | [Pizza Hut](http://twitter.com/search?q=Pizza+Hut) | N/A |
+| 28 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 29 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
 | 30 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 31 | [Fife](http://twitter.com/search?q=Fife) | N/A |
-| 32 | [Andrew Coyne](http://twitter.com/search?q=Andrew+Coyne) | N/A |
-| 33 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 36 | [Gerald](http://twitter.com/search?q=Gerald) | N/A |
-| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 38 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 39 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
-| 40 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
-| 41 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 31 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
+| 32 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 33 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
+| 34 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 35 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 36 | [Guelph](http://twitter.com/search?q=Guelph) | N/A |
+| 37 | [Fife](http://twitter.com/search?q=Fife) | N/A |
+| 38 | [Andrew Coyne](http://twitter.com/search?q=Andrew+Coyne) | N/A |
+| 39 | [#luckoftheirish](http://twitter.com/search?q=%23luckoftheirish) | N/A |
+| 40 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 
 
 

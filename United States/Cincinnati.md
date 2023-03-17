@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-03-17 19:16:46 UTC`
+📆 Last Updated: `2023-03-17 20:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lutheran West](http://twitter.com/search?q=Lutheran+West) | N/A |
+| 1 | [#LetsGoX](http://twitter.com/search?q=%23LetsGoX) | N/A |
 | 2 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 3 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 4 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 5 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 6 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
+| 3 | [Lutheran West](http://twitter.com/search?q=Lutheran+West) | N/A |
+| 4 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 5 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
+| 6 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
 | 7 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 8 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
-| 9 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 10 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 11 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 12 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 13 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 14 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
-| 15 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 16 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 17 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 19 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 20 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 21 | [Jack Nunge](http://twitter.com/search?q=Jack+Nunge) | N/A |
-| 22 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 23 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 24 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 25 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
-| 26 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 27 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 28 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 29 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 30 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 31 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 32 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 33 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
-| 34 | [Carson Cooper](http://twitter.com/search?q=Carson+Cooper) | Carson Cooper is a name, derived from the English surname Carson and the given name Cooper. It is usually used as a first name for boys. |
-| 35 | [Fall 2](http://twitter.com/search?q=Fall+2) | N/A |
-| 36 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 37 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 38 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
-| 39 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 40 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 41 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 42 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 43 | [Akins](http://twitter.com/search?q=Akins) | N/A |
-| 44 | [Levi Haines](http://twitter.com/search?q=Levi+Haines) | N/A |
-| 45 | [Amir Abdur-Rahim](http://twitter.com/search?q=Amir+Abdur-Rahim) | N/A |
-| 46 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
-| 47 | [Youngblood](http://twitter.com/search?q=Youngblood) | N/A |
-| 48 | [Joey Hauser](http://twitter.com/search?q=Joey+Hauser) | N/A |
-| 49 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 50 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 8 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 9 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 10 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 11 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 12 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
+| 13 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
+| 14 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 15 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 17 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 18 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 19 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 20 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 21 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
+| 22 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 24 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 25 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 26 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 28 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
+| 29 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 30 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 31 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 32 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
+| 33 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
+| 34 | [Charon](http://twitter.com/search?q=Charon) | N/A |
+| 35 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 36 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 37 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 38 | [Guardian](http://twitter.com/search?q=Guardian) | N/A |
+| 39 | [Broyles](http://twitter.com/search?q=Broyles) | N/A |
+| 40 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 41 | [Only 60](http://twitter.com/search?q=Only+60) | N/A |
+| 42 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
+| 43 | [The Guest](http://twitter.com/search?q=The+Guest) | N/A |
+| 44 | [Jack Nunge](http://twitter.com/search?q=Jack+Nunge) | N/A |
+| 45 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 46 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
+| 47 | [Corporate](http://twitter.com/search?q=Corporate) | N/A |
+| 48 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 49 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 50 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
 
 
 

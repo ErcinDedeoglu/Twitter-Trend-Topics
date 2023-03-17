@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-17 19:16:52 UTC`
+📆 Last Updated: `2023-03-17 20:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 2 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
-| 3 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 4 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 5 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 6 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 7 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 1 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 2 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 3 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 4 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 5 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 6 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 7 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 8 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 9 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
-| 10 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
-| 11 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 12 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 13 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 14 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 15 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 16 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 17 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
-| 18 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 20 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 21 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 22 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 23 | [Jack Nunge](http://twitter.com/search?q=Jack+Nunge) | N/A |
-| 24 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 25 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 26 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 27 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 28 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 29 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 30 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 31 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 32 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 33 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 34 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
-| 35 | [Carson Cooper](http://twitter.com/search?q=Carson+Cooper) | Carson Cooper is a name, derived from the English surname Carson and the given name Cooper. It is usually used as a first name for boys. |
-| 36 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 37 | [Fall 2](http://twitter.com/search?q=Fall+2) | N/A |
-| 38 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 39 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
-| 40 | [RIP Commander](http://twitter.com/search?q=RIP+Commander) | N/A |
-| 41 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 42 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 43 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 44 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 45 | [Akins](http://twitter.com/search?q=Akins) | N/A |
-| 46 | [Levi Haines](http://twitter.com/search?q=Levi+Haines) | N/A |
-| 47 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
-| 48 | [Amir Abdur-Rahim](http://twitter.com/search?q=Amir+Abdur-Rahim) | N/A |
-| 49 | [Youngblood](http://twitter.com/search?q=Youngblood) | N/A |
+| 9 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 10 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 11 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 12 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 13 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
+| 14 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
+| 15 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 16 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 18 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 19 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 20 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 21 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
+| 22 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 24 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 25 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 26 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 28 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
+| 29 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 30 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 31 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 32 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
+| 33 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
+| 34 | [Charon](http://twitter.com/search?q=Charon) | N/A |
+| 35 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 36 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 37 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 38 | [Guardian](http://twitter.com/search?q=Guardian) | N/A |
+| 39 | [Broyles](http://twitter.com/search?q=Broyles) | N/A |
+| 40 | [Only 60](http://twitter.com/search?q=Only+60) | N/A |
+| 41 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
+| 42 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 43 | [The Guest](http://twitter.com/search?q=The+Guest) | N/A |
+| 44 | [Jack Nunge](http://twitter.com/search?q=Jack+Nunge) | N/A |
+| 45 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 46 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
+| 47 | [Corporate](http://twitter.com/search?q=Corporate) | N/A |
+| 48 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 49 | [Green](http://twitter.com/search?q=Green) | N/A |
 
 
 

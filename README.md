@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-17 19:16:06 UTC`
+📆 Last Updated: `2023-03-17 20:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,55 +20,55 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 2 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
-| 3 | [#KNYvGS](http://twitter.com/search?q=%23KNYvGS) | N/A |
-| 4 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 6 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 7 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
-| 8 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
-| 9 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
-| 10 | [#بطوله_الشطرنج](http://twitter.com/search?q=%23%d8%a8%d8%b7%d9%88%d9%84%d9%87_%d8%a7%d9%84%d8%b4%d8%b7%d8%b1%d9%86%d8%ac) | N/A |
-| 11 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 12 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 13 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 14 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 15 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 16 | [Dünya Şahit Yılmadık](http://twitter.com/search?q=D%c3%bcnya+%c5%9eahit+Y%c4%b1lmad%c4%b1k) | N/A |
-| 17 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 18 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 19 | [TbmmSıra DiplomaDenklikte](http://twitter.com/search?q=TbmmS%c4%b1ra+DiplomaDenklikte) | N/A |
-| 20 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 21 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 22 | [Lucas Leiva](http://twitter.com/search?q=Lucas+Leiva) | N/A |
-| 23 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 24 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
-| 25 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 27 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 28 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
-| 29 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 30 | [Berkan](http://twitter.com/search?q=Berkan) | Berkan is a Turkish name derived from the Arabic word “baraka”, which means blessing. In English, it can be translated to mean “blessed” or “favored by God”. |
-| 31 | [Nardella](http://twitter.com/search?q=Nardella) | N/A |
-| 32 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
-| 33 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 34 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 35 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
-| 36 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 37 | [Ahmet Oğuz](http://twitter.com/search?q=Ahmet+O%c4%9fuz) | N/A |
-| 38 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 39 | [仮面ライダー](http://twitter.com/search?q=%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 40 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
-| 41 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 42 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 43 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 44 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 45 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
-| 46 | [Zorbay Küçük](http://twitter.com/search?q=Zorbay+K%c3%bc%c3%a7%c3%bck) | Zorbay Küçük is a Turkish phrase that translates to "tough little one." It is often used as an affectionate term for someone who is small but strong and resilient. |
-| 47 | [Jack Nunge](http://twitter.com/search?q=Jack+Nunge) | N/A |
-| 48 | [المحكمه الجناييه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 49 | [FIES](http://twitter.com/search?q=FIES) | FIES stands for the Brazilian Federal Student Aid Program. It is a government program that provides financial aid to students in Brazil who are enrolled in higher education. The program helps students pay for tuition, books, and other educational expenses. |
+| 1 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 2 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 3 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 4 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 5 | [#KNYvGS](http://twitter.com/search?q=%23KNYvGS) | N/A |
+| 6 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
+| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 10 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 11 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 12 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 13 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 14 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
+| 15 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 16 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 17 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 18 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 19 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 20 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 21 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 22 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
+| 23 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 24 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 25 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 26 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 27 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 28 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 29 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 30 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
+| 31 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 32 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 33 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 34 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 35 | [Dünya Şahit Yılmadık](http://twitter.com/search?q=D%c3%bcnya+%c5%9eahit+Y%c4%b1lmad%c4%b1k) | N/A |
+| 36 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
+| 37 | [Berkan](http://twitter.com/search?q=Berkan) | Berkan is a Turkish name derived from the Arabic word “baraka”, which means blessing. In English, it can be translated to mean “blessed” or “favored by God”. |
+| 38 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 39 | [Quantum Break](http://twitter.com/search?q=Quantum+Break) | N/A |
+| 40 | [Lucas Leiva](http://twitter.com/search?q=Lucas+Leiva) | N/A |
+| 41 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 42 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
+| 43 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 44 | [Broyles](http://twitter.com/search?q=Broyles) | N/A |
+| 45 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
+| 46 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
+| 47 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 48 | [Charon](http://twitter.com/search?q=Charon) | N/A |
+| 49 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
 | 50 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
 
 

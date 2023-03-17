@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-17 19:16:33 UTC`
+📆 Last Updated: `2023-03-17 20:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 2 | [#SETMEFREE1stWin](http://twitter.com/search?q=%23SETMEFREE1stWin) | N/A |
-| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 4 | [#TWICE120thWin](http://twitter.com/search?q=%23TWICE120thWin) | N/A |
+| 3 | [#TWICE120thWin](http://twitter.com/search?q=%23TWICE120thWin) | N/A |
+| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 6 | [#AURAMExBecky](http://twitter.com/search?q=%23AURAMExBecky) | N/A |
+| 6 | [#HORI7ON_GoesToAntipolo](http://twitter.com/search?q=%23HORI7ON_GoesToAntipolo) | N/A |
 | 7 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
 | 8 | [CHIN SAID YES TO SETH](http://twitter.com/search?q=CHIN+SAID+YES+TO+SETH) | N/A |
 | 9 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
@@ -31,11 +31,11 @@ This is top 50 for [Philippines](</Philippines>)
 | 14 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
 | 15 | [POPSTAR ROYALTY CONCERT](http://twitter.com/search?q=POPSTAR+ROYALTY+CONCERT) | N/A |
 | 16 | [drvickibelovlog withdonny](http://twitter.com/search?q=drvickibelovlog+withdonny) | N/A |
-| 17 | [BGYO CHOWKING HALOHALO](http://twitter.com/search?q=BGYO+CHOWKING+HALOHALO) | N/A |
+| 17 | [bgyo chowking halohalo](http://twitter.com/search?q=bgyo+chowking+halohalo) | N/A |
 | 18 | [KAOMIAH ERA NA](http://twitter.com/search?q=KAOMIAH+ERA+NA) | N/A |
-| 19 | [KATHNIEL GnaG SA PRESSCON](http://twitter.com/search?q=KATHNIEL+GnaG+SA+PRESSCON) | N/A |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [heejay live](http://twitter.com/search?q=heejay+live) | N/A |
+| 19 | [kathniel gnag sa presscon](http://twitter.com/search?q=kathniel+gnag+sa+presscon) | N/A |
+| 20 | [heejay live](http://twitter.com/search?q=heejay+live) | N/A |
+| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 22 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
 | 23 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
 | 24 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
@@ -44,24 +44,24 @@ This is top 50 for [Philippines](</Philippines>)
 | 27 | [giselle](http://twitter.com/search?q=giselle) | N/A |
 | 28 | [Navotas](http://twitter.com/search?q=Navotas) | N/A |
 | 29 | [FACE in Shopee](http://twitter.com/search?q=FACE+in+Shopee) | N/A |
-| 30 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 31 | [jimin's rap](http://twitter.com/search?q=jimin%27s+rap) | N/A |
-| 32 | [ALL ROUNDER INTERN V](http://twitter.com/search?q=ALL+ROUNDER+INTERN+V) | N/A |
-| 33 | [DASH PHOTO TEASER 1](http://twitter.com/search?q=DASH+PHOTO+TEASER+1) | N/A |
+| 30 | [jimin's rap](http://twitter.com/search?q=jimin%27s+rap) | N/A |
+| 31 | [ALL ROUNDER INTERN V](http://twitter.com/search?q=ALL+ROUNDER+INTERN+V) | N/A |
+| 32 | [DASH PHOTO TEASER 1](http://twitter.com/search?q=DASH+PHOTO+TEASER+1) | N/A |
+| 33 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
 | 34 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 35 | [ROMANTIC ROBXINE PROMPOSAL](http://twitter.com/search?q=ROMANTIC+ROBXINE+PROMPOSAL) | N/A |
+| 35 | [romantic robxine promposal](http://twitter.com/search?q=romantic+robxine+promposal) | N/A |
 | 36 | [SARAH GERONIMO CONCERT](http://twitter.com/search?q=SARAH+GERONIMO+CONCERT) | N/A |
-| 37 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 38 | [Yuuri](http://twitter.com/search?q=Yuuri) | N/A |
+| 37 | [YUURI](http://twitter.com/search?q=YUURI) | N/A |
+| 38 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
 | 39 | [WTF JIMIN](http://twitter.com/search?q=WTF+JIMIN) | N/A |
-| 40 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 41 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
-| 42 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 43 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 40 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
+| 41 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 42 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 43 | [somi](http://twitter.com/search?q=somi) | N/A |
 | 44 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 45 | [Fearless](http://twitter.com/search?q=Fearless) | N/A |
-| 46 | [hai cheng](http://twitter.com/search?q=hai+cheng) | N/A |
-| 47 | [Cresia](http://twitter.com/search?q=Cresia) | N/A |
+| 45 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 46 | [Fearless](http://twitter.com/search?q=Fearless) | N/A |
+| 47 | [hai cheng](http://twitter.com/search?q=hai+cheng) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-17 19:16:22 UTC`
+📆 Last Updated: `2023-03-17 20:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
-| 2 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 3 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 4 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 5 | [#FCHKSC](http://twitter.com/search?q=%23FCHKSC) | N/A |
-| 6 | [#DSCFCN](http://twitter.com/search?q=%23DSCFCN) | N/A |
-| 7 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 1 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 2 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 3 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
+| 4 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 5 | [#DSCFCN](http://twitter.com/search?q=%23DSCFCN) | N/A |
+| 6 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 7 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
 | 8 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 9 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 11 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 12 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 13 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 14 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 15 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 16 | [Lena](http://twitter.com/search?q=Lena) | N/A |
-| 17 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 18 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
-| 19 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
-| 20 | [Zweitstimme](http://twitter.com/search?q=Zweitstimme) | N/A |
-| 21 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 22 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 23 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 24 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 25 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
-| 26 | [Bundesverfassungsgericht](http://twitter.com/search?q=Bundesverfassungsgericht) | N/A |
-| 27 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
+| 9 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 10 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 11 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 12 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 13 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 14 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 15 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 16 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 17 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 18 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
+| 19 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 20 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 21 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
+| 22 | [Lena](http://twitter.com/search?q=Lena) | N/A |
+| 23 | [Gurken](http://twitter.com/search?q=Gurken) | N/A |
+| 24 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
+| 25 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 26 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 27 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
 | 28 | [Karlsruhe](http://twitter.com/search?q=Karlsruhe) | N/A |
-| 29 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 30 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
-| 31 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 32 | [Direktkandidaten](http://twitter.com/search?q=Direktkandidaten) | N/A |
-| 33 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 35 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 36 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 37 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 38 | [#IchBinHanna](http://twitter.com/search?q=%23IchBinHanna) | N/A |
-| 39 | [#BMGSVW](http://twitter.com/search?q=%23BMGSVW) | N/A |
-| 40 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 41 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 42 | [#Diablo4](http://twitter.com/search?q=%23Diablo4) | N/A |
-| 43 | [#Vuskovic](http://twitter.com/search?q=%23Vuskovic) | N/A |
-| 44 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 45 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 46 | [#Regenbogenblut](http://twitter.com/search?q=%23Regenbogenblut) | N/A |
-| 47 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 48 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 29 | [Zweitstimme](http://twitter.com/search?q=Zweitstimme) | N/A |
+| 30 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
+| 31 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 32 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
+| 33 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 34 | [Bundesverfassungsgericht](http://twitter.com/search?q=Bundesverfassungsgericht) | N/A |
+| 35 | [Direktkandidaten](http://twitter.com/search?q=Direktkandidaten) | N/A |
+| 36 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 37 | [#BMGSVW](http://twitter.com/search?q=%23BMGSVW) | N/A |
+| 38 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
+| 39 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
+| 40 | [#FCHKSC](http://twitter.com/search?q=%23FCHKSC) | N/A |
+| 41 | [#IchBinHanna](http://twitter.com/search?q=%23IchBinHanna) | N/A |
+| 42 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 43 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 44 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
+| 45 | [#KECvsMAN](http://twitter.com/search?q=%23KECvsMAN) | N/A |
+| 46 | [#Vuskovic](http://twitter.com/search?q=%23Vuskovic) | N/A |
+| 47 | [#Diablo4](http://twitter.com/search?q=%23Diablo4) | N/A |
+| 48 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 49 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-17 19:16:24 UTC`
+📆 Last Updated: `2023-03-17 20:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
-| 4 | [#IMPARABLES_EABE23](http://twitter.com/search?q=%23IMPARABLES_EABE23) | N/A |
-| 5 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
-| 6 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 7 | [#ResidentReseñasOca](http://twitter.com/search?q=%23ResidentRese%c3%b1asOca) | N/A |
-| 8 | [La Corte Penal Internacional](http://twitter.com/search?q=La+Corte+Penal+Internacional) | N/A |
-| 9 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 10 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
-| 11 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 12 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 13 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 14 | [#Pecado17Mar](http://twitter.com/search?q=%23Pecado17Mar) | N/A |
-| 15 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
-| 16 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 17 | [Libres 2](http://twitter.com/search?q=Libres+2) | N/A |
-| 18 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 21 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 22 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
-| 23 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 24 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 25 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 26 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 27 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
-| 28 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 29 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 30 | [Terelu](http://twitter.com/search?q=Terelu) | N/A |
-| 31 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 32 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
-| 33 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 34 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
-| 35 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 36 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 37 | [Rafa Castaño](http://twitter.com/search?q=Rafa+Casta%c3%b1o) | N/A |
-| 38 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 39 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 40 | [Sebring](http://twitter.com/search?q=Sebring) | N/A |
-| 41 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 42 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 43 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 44 | [Marina Yers](http://twitter.com/search?q=Marina+Yers) | N/A |
-| 45 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 46 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 47 | [Bryan Gil](http://twitter.com/search?q=Bryan+Gil) | Bryan Gil is a Spanish professional footballer who plays as a winger for Real Madrid. He is known for his speed, dribbling ability, and crossing. His name is often used as a slang term in Spanish to describe someone who is fast and skillful. |
-| 48 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 49 | [Rafael Amargo](http://twitter.com/search?q=Rafael+Amargo) | N/A |
-| 50 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 3 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 6 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
+| 7 | [#Pasapalabra727](http://twitter.com/search?q=%23Pasapalabra727) | N/A |
+| 8 | [#IMPARABLES_EABE23](http://twitter.com/search?q=%23IMPARABLES_EABE23) | N/A |
+| 9 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 10 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 11 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 12 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
+| 13 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 14 | [#ResidentReseñasOca](http://twitter.com/search?q=%23ResidentRese%c3%b1asOca) | N/A |
+| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 16 | [Jorge Edwards](http://twitter.com/search?q=Jorge+Edwards) | N/A |
+| 17 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
+| 18 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 19 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 20 | [Engen](http://twitter.com/search?q=Engen) | N/A |
+| 21 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 22 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 23 | [#RealValladolidAthletic](http://twitter.com/search?q=%23RealValladolidAthletic) | N/A |
+| 24 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 25 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 26 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
+| 27 | [Libres 2](http://twitter.com/search?q=Libres+2) | N/A |
+| 28 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
+| 29 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 30 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 31 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
+| 32 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 33 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
+| 34 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 35 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 36 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
+| 37 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
+| 38 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 39 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 40 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 41 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 42 | [Rafael Amargo](http://twitter.com/search?q=Rafael+Amargo) | N/A |
+| 43 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
+| 44 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 45 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 46 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 47 | [Resident Evil](http://twitter.com/search?q=Resident+Evil) | N/A |
+| 48 | [Sebring](http://twitter.com/search?q=Sebring) | N/A |
+| 49 | [Rafa Castaño](http://twitter.com/search?q=Rafa+Casta%c3%b1o) | N/A |
+| 50 | [Betty](http://twitter.com/search?q=Betty) | N/A |
 
 
 

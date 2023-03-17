@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-17 19:16:34 UTC`
+📆 Last Updated: `2023-03-17 20:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 2 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
-| 3 | [#วิงค์ไวท์xอิงล็อต](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8cx%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 4 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 6 | [#J97_6Msubscribers](http://twitter.com/search?q=%23J97_6Msubscribers) | N/A |
-| 7 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 8 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 9 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
-| 10 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 11 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 12 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
-| 13 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
+| 1 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
+| 2 | [#วิงค์ไวท์xอิงล็อต](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8cx%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 3 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 5 | [#J97_6Msubscribers](http://twitter.com/search?q=%23J97_6Msubscribers) | N/A |
+| 6 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 7 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 8 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 9 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 10 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 11 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
+| 12 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
+| 13 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 14 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
-| 15 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 16 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
 | 17 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
-| 18 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 19 | [Seop](http://twitter.com/search?q=Seop) | N/A |
-| 20 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
-| 21 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 22 | [Space ID](http://twitter.com/search?q=Space+ID) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 25 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 26 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 27 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 28 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 29 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 30 | [tổng](http://twitter.com/search?q=t%e1%bb%95ng) | N/A |
-| 31 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
-| 32 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
-| 33 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 34 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
-| 35 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 36 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 37 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 38 | [Đăng](http://twitter.com/search?q=%c4%90%c4%83ng) | N/A |
-| 39 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 40 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 41 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 42 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 43 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
-| 44 | [Mong](http://twitter.com/search?q=Mong) | N/A |
-| 45 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 46 | [Nghe](http://twitter.com/search?q=Nghe) | N/A |
-| 47 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
-| 48 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 49 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 50 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 18 | [Seop](http://twitter.com/search?q=Seop) | N/A |
+| 19 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
+| 20 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 21 | [Space ID](http://twitter.com/search?q=Space+ID) | N/A |
+| 22 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 23 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 24 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 25 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
+| 26 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 27 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 28 | [tổng](http://twitter.com/search?q=t%e1%bb%95ng) | N/A |
+| 29 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 30 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 31 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
+| 32 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 33 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 34 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 35 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 36 | [Đăng](http://twitter.com/search?q=%c4%90%c4%83ng) | N/A |
+| 37 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 38 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 39 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 40 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
+| 41 | [Mong](http://twitter.com/search?q=Mong) | N/A |
+| 42 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 43 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
+| 44 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 45 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 46 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 47 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 48 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 49 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 
 
 
