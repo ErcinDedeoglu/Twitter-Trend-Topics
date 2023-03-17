@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-17 02:33:28 UTC`
+📆 Last Updated: `2023-03-17 03:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 2 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 3 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 4 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 5 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 6 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 7 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 8 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
-| 9 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 10 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 11 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 12 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 13 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 16 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 17 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 18 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 19 | [Uros](http://twitter.com/search?q=Uros) | N/A |
-| 20 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
-| 21 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 22 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
-| 23 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
-| 24 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
-| 25 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
-| 26 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 27 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 28 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
-| 29 | [Dexter Dennis](http://twitter.com/search?q=Dexter+Dennis) | N/A |
-| 30 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 31 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
-| 32 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 33 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
-| 34 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 35 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 36 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
-| 37 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
-| 38 | [nicky](http://twitter.com/search?q=nicky) | N/A |
+| 1 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
+| 2 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 3 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 4 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 5 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 7 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 8 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 9 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 10 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 11 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
+| 12 | [#BeatBoxBeverages](http://twitter.com/search?q=%23BeatBoxBeverages) | N/A |
+| 13 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 14 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
+| 15 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 16 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
+| 17 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 18 | [Norse](http://twitter.com/search?q=Norse) | N/A |
+| 19 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 20 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 21 | [Buzz Williams](http://twitter.com/search?q=Buzz+Williams) | N/A |
+| 22 | [Uros](http://twitter.com/search?q=Uros) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 25 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 26 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
+| 27 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 28 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
+| 29 | [Timo](http://twitter.com/search?q=Timo) | N/A |
+| 30 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
+| 31 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
+| 32 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 33 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
+| 34 | [Dexter Dennis](http://twitter.com/search?q=Dexter+Dennis) | N/A |
+| 35 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
+| 36 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
+| 37 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
+| 38 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
 | 39 | [Trading Places](http://twitter.com/search?q=Trading+Places) | N/A |
-| 40 | [Sir'Jabari Rice](http://twitter.com/search?q=Sir%27Jabari+Rice) | N/A |
-| 41 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
-| 42 | [War Damn Eagle](http://twitter.com/search?q=War+Damn+Eagle) | N/A |
-| 43 | [Norse](http://twitter.com/search?q=Norse) | N/A |
-| 44 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 45 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 46 | [Cajuns](http://twitter.com/search?q=Cajuns) | N/A |
-| 47 | [Jayla Everett](http://twitter.com/search?q=Jayla+Everett) | N/A |
-| 48 | [Robert Smith](http://twitter.com/search?q=Robert+Smith) | N/A |
-| 49 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 40 | [nicky](http://twitter.com/search?q=nicky) | N/A |
+| 41 | [Mashack](http://twitter.com/search?q=Mashack) | N/A |
+| 42 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 43 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 44 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 45 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
+| 46 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
+| 47 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
+| 48 | [Cajuns](http://twitter.com/search?q=Cajuns) | N/A |
+| 49 | [War Damn Eagle](http://twitter.com/search?q=War+Damn+Eagle) | N/A |
 
 
 

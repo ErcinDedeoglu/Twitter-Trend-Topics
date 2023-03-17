@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-17 02:33:33 UTC`
+📆 Last Updated: `2023-03-17 03:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,20 +20,20 @@ This is top 50 for Belgium
 | 3 | [#KarelSabbe](http://twitter.com/search?q=%23KarelSabbe) | N/A |
 | 4 | [#USGFCU](http://twitter.com/search?q=%23USGFCU) | N/A |
 | 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
-| 7 | [Arenberg](http://twitter.com/search?q=Arenberg) | N/A |
-| 8 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 6 | [Arenberg](http://twitter.com/search?q=Arenberg) | N/A |
+| 7 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
+| 8 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
 | 9 | [Villareal](http://twitter.com/search?q=Villareal) | N/A |
 | 10 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 11 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
+| 11 | [Zola](http://twitter.com/search?q=Zola) | N/A |
 | 12 | [#NokereKoerse](http://twitter.com/search?q=%23NokereKoerse) | N/A |
 | 13 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 14 | [Boniface](http://twitter.com/search?q=Boniface) | N/A |
-| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 16 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 17 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 18 | [Gand](http://twitter.com/search?q=Gand) | N/A |
-| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 16 | [Boniface](http://twitter.com/search?q=Boniface) | N/A |
+| 17 | [Gand](http://twitter.com/search?q=Gand) | N/A |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
 | 20 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 21 | [bracke](http://twitter.com/search?q=bracke) | N/A |
 | 22 | [Barkley Marathons](http://twitter.com/search?q=Barkley+Marathons) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for Belgium
 | 29 | [Mous Lamrabat](http://twitter.com/search?q=Mous+Lamrabat) | N/A |
 | 30 | [Commission](http://twitter.com/search?q=Commission) | N/A |
 | 31 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 32 | [Riemer](http://twitter.com/search?q=Riemer) | N/A |
+| 32 | [riemer](http://twitter.com/search?q=riemer) | N/A |
 | 33 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
 | 34 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
 | 35 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |

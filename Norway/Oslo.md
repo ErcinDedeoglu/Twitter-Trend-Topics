@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-17 02:33:05 UTC`
+📆 Last Updated: `2023-03-17 03:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,28 +42,28 @@ This is top 50 for [Norway](</Norway>)
 | 25 | [skøyen](http://twitter.com/search?q=sk%c3%b8yen) | N/A |
 | 26 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 27 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 28 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 29 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 30 | [dessverre](http://twitter.com/search?q=dessverre) | N/A |
-| 31 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 32 | [sophie elise](http://twitter.com/search?q=sophie+elise) | N/A |
-| 33 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
-| 34 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 35 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
-| 36 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 37 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 38 | [Selvfølgelig](http://twitter.com/search?q=Selvf%c3%b8lgelig) | N/A |
-| 39 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 41 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
-| 42 | [sikkert](http://twitter.com/search?q=sikkert) | N/A |
-| 43 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 44 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 45 | [Kommer](http://twitter.com/search?q=Kommer) | N/A |
-| 46 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 47 | [Christ](http://twitter.com/search?q=Christ) | N/A |
-| 48 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 49 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
+| 28 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 29 | [dessverre](http://twitter.com/search?q=dessverre) | N/A |
+| 30 | [sophie elise](http://twitter.com/search?q=sophie+elise) | N/A |
+| 31 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
+| 32 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
+| 33 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 34 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 35 | [Selvfølgelig](http://twitter.com/search?q=Selvf%c3%b8lgelig) | N/A |
+| 36 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 38 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
+| 39 | [sikkert](http://twitter.com/search?q=sikkert) | N/A |
+| 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 41 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 42 | [Kommer](http://twitter.com/search?q=Kommer) | N/A |
+| 43 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 44 | [Christ](http://twitter.com/search?q=Christ) | N/A |
+| 45 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 46 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
+| 47 | [England](http://twitter.com/search?q=England) | N/A |
+| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 49 | [Høres](http://twitter.com/search?q=H%c3%b8res) | N/A |
 
 
 

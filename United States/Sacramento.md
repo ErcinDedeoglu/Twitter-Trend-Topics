@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-17 02:33:31 UTC`
+📆 Last Updated: `2023-03-17 03:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 2 | [Sacramento](http://twitter.com/search?q=Sacramento) | N/A |
-| 3 | [Wildcats](http://twitter.com/search?q=Wildcats) | N/A |
-| 4 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 5 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 6 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 7 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
-| 8 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 9 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 10 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
-| 11 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 12 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 13 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 14 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
-| 15 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
-| 16 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 17 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 18 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 19 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 20 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 21 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 22 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 23 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 24 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 25 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 26 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
-| 27 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 28 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 29 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 30 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 32 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 33 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 34 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 35 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
-| 36 | [Uros](http://twitter.com/search?q=Uros) | N/A |
-| 37 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
-| 38 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 39 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
-| 40 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
-| 41 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 42 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
-| 43 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 44 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
+| 1 | [Sacramento](http://twitter.com/search?q=Sacramento) | N/A |
+| 2 | [#UCLA](http://twitter.com/search?q=%23UCLA) | N/A |
+| 3 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 4 | [Wildcats](http://twitter.com/search?q=Wildcats) | N/A |
+| 5 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 6 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 7 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 8 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 9 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
+| 10 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 11 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 12 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 13 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 14 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
+| 15 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 16 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 17 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
+| 18 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 19 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
+| 20 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 21 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 22 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 23 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 24 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 25 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 26 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 27 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
+| 28 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 29 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
+| 30 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 31 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
+| 32 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 33 | [Norse](http://twitter.com/search?q=Norse) | N/A |
+| 34 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 35 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 36 | [Buzz Williams](http://twitter.com/search?q=Buzz+Williams) | N/A |
+| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 38 | [Uros](http://twitter.com/search?q=Uros) | N/A |
+| 39 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 40 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 41 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
+| 42 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 43 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
+| 44 | [Timo](http://twitter.com/search?q=Timo) | N/A |
 | 45 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
-| 46 | [Dexter Dennis](http://twitter.com/search?q=Dexter+Dennis) | N/A |
-| 47 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 48 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 49 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
-| 50 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 46 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
+| 47 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 48 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
+| 49 | [Dexter Dennis](http://twitter.com/search?q=Dexter+Dennis) | N/A |
+| 50 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
 
 
 

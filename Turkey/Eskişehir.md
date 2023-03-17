@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-17 02:33:23 UTC`
+📆 Last Updated: `2023-03-17 03:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Buca Bayrakli Bornova Gaziemir](http://twitter.com/search?q=Buca+Bayrakli+Bornova+Gaziemir) | N/A |
-| 2 | [Alsancak Konak Çiğli Karşıyaka](http://twitter.com/search?q=Alsancak+Konak+%c3%87i%c4%9fli+Kar%c5%9f%c4%b1yaka) | N/A |
-| 3 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
-| 4 | [#yüzdeyüzmüzik](http://twitter.com/search?q=%23y%c3%bczdey%c3%bczm%c3%bczik) | N/A |
-| 5 | [#AliKocİstifa](http://twitter.com/search?q=%23AliKoc%c4%b0stifa) | N/A |
-| 6 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 7 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 8 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 9 | [Ertem Şener](http://twitter.com/search?q=Ertem+%c5%9eener) | N/A |
-| 10 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 11 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 12 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 13 | [Afyon Akparti](http://twitter.com/search?q=Afyon+Akparti) | N/A |
-| 14 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
-| 15 | [YA İZZET YA ZİLLET](http://twitter.com/search?q=YA+%c4%b0ZZET+YA+Z%c4%b0LLET) | N/A |
-| 16 | [Avrupa](http://twitter.com/search?q=Avrupa) | N/A |
+| 1 | [#FBvSVL](http://twitter.com/search?q=%23FBvSVL) | N/A |
+| 2 | [#FBvSEV](http://twitter.com/search?q=%23FBvSEV) | N/A |
+| 3 | [#bolu](http://twitter.com/search?q=%23bolu) | N/A |
+| 4 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
+| 5 | [Ertem Şener](http://twitter.com/search?q=Ertem+%c5%9eener) | N/A |
+| 6 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 7 | [Buca Bayrakli Bornova Gaziemir](http://twitter.com/search?q=Buca+Bayrakli+Bornova+Gaziemir) | N/A |
+| 8 | [Alsancak Konak Çiğli Karşıyaka](http://twitter.com/search?q=Alsancak+Konak+%c3%87i%c4%9fli+Kar%c5%9f%c4%b1yaka) | N/A |
+| 9 | [saçma sapan](http://twitter.com/search?q=sa%c3%a7ma+sapan) | N/A |
+| 10 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 11 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
+| 12 | [türk devletleri teşkilatı](http://twitter.com/search?q=t%c3%bcrk+devletleri+te%c5%9fkilat%c4%b1) | N/A |
+| 13 | [dibyedekalimirte](http://twitter.com/search?q=dibyedekalimirte) | N/A |
+| 14 | [Emre Mor](http://twitter.com/search?q=Emre+Mor) | Emre Mor is a Turkish professional footballer who plays as a winger for Galatasaray. His name is derived from the Turkish words "emre" (meaning "love") and "mor" (meaning "purple"). |
+| 15 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 16 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
 | 17 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 18 | [Emre Mor](http://twitter.com/search?q=Emre+Mor) | Emre Mor is a Turkish professional footballer who plays as a winger for Galatasaray. His name is derived from the Turkish words "emre" (meaning "love") and "mor" (meaning "purple"). |
-| 19 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 20 | [Bir Galatasaraylı](http://twitter.com/search?q=Bir+Galatasarayl%c4%b1) | N/A |
-| 21 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
-| 22 | [Sivas](http://twitter.com/search?q=Sivas) | Sivas is a city in Turkey. It is the capital of Sivas Province and has a population of around 300,000 people. The name Sivas is derived from the ancient city of Sebaste, which was founded by the Hittites in the 13th century BC. In English, Sivas means "the city of lions". |
-| 23 | [Toprak](http://twitter.com/search?q=Toprak) | N/A |
-| 24 | [Türkiyeli](http://twitter.com/search?q=T%c3%bcrkiyeli) | N/A |
-| 25 | [Takım](http://twitter.com/search?q=Tak%c4%b1m) | N/A |
-| 26 | [Süleymancılar](http://twitter.com/search?q=S%c3%bcleymanc%c4%b1lar) | N/A |
-| 27 | [#mersin](http://twitter.com/search?q=%23mersin) | N/A |
-| 28 | [#KöpekleriUyutun](http://twitter.com/search?q=%23K%c3%b6pekleriUyutun) | N/A |
-| 29 | [#picemiyeti](http://twitter.com/search?q=%23picemiyeti) | N/A |
-| 30 | [#FBvSEV](http://twitter.com/search?q=%23FBvSEV) | N/A |
-| 31 | [#SonSözüStajyerSöyler](http://twitter.com/search?q=%23SonS%c3%b6z%c3%bcStajyerS%c3%b6yler) | N/A |
-| 32 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 33 | [#kadıköy](http://twitter.com/search?q=%23kad%c4%b1k%c3%b6y) | N/A |
-| 34 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
-| 35 | [#İktidarKHKlıdanGeçer](http://twitter.com/search?q=%23%c4%b0ktidarKHKl%c4%b1danGe%c3%a7er) | N/A |
-| 36 | [#Antalya](http://twitter.com/search?q=%23Antalya) | N/A |
+| 18 | [YA İZZET YA ZİLLET](http://twitter.com/search?q=YA+%c4%b0ZZET+YA+Z%c4%b0LLET) | N/A |
+| 19 | [Serdar](http://twitter.com/search?q=Serdar) | Serdar is a Turkish name meaning "commander" or "leader". |
+| 20 | [Afyon Akparti](http://twitter.com/search?q=Afyon+Akparti) | N/A |
+| 21 | [ismail yüksek](http://twitter.com/search?q=ismail+y%c3%bcksek) | N/A |
+| 22 | [palancioglu istifa](http://twitter.com/search?q=palancioglu+istifa) | N/A |
+| 23 | [gençler denkliğiniistiyor](http://twitter.com/search?q=gen%c3%a7ler+denkli%c4%9finiistiyor) | N/A |
+| 24 | [Süleymancılar](http://twitter.com/search?q=S%c3%bcleymanc%c4%b1lar) | N/A |
+| 25 | [asrın dayanışması](http://twitter.com/search?q=asr%c4%b1n+dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 26 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 27 | [Sahaya](http://twitter.com/search?q=Sahaya) | N/A |
+| 28 | [Avrupa](http://twitter.com/search?q=Avrupa) | N/A |
+| 29 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
+| 30 | [iibfninoyu meb4binatamaya](http://twitter.com/search?q=iibfninoyu+meb4binatamaya) | N/A |
+| 31 | [Vekil](http://twitter.com/search?q=Vekil) | N/A |
+| 32 | [Daye](http://twitter.com/search?q=Daye) | N/A |
+| 33 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 34 | [Batshuayi](http://twitter.com/search?q=Batshuayi) | Batshuayi is the surname of Belgian professional footballer Michy Batshuayi. It is not an English word and does not have a direct translation. |
+| 35 | [Tanzanya](http://twitter.com/search?q=Tanzanya) | N/A |
+| 36 | [Kale](http://twitter.com/search?q=Kale) | N/A |
+| 37 | [Allah'tan](http://twitter.com/search?q=Allah%27tan) | Allah'tan is a Turkish phrase that translates to "from Allah" in English. It is used to express gratitude or appreciation for something that has been given or received. |
+| 38 | [dolar 19](http://twitter.com/search?q=dolar+19) | N/A |
+| 39 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 40 | [BÜYÜK İFŞA](http://twitter.com/search?q=B%c3%9cY%c3%9cK+%c4%b0F%c5%9eA) | N/A |
+| 41 | [Yeni Türkiye Yeni Hayat](http://twitter.com/search?q=Yeni+T%c3%bcrkiye+Yeni+Hayat) | N/A |
+| 42 | [ERDOĞAN SEÇİMİ BÖYLE ÇALACAK](http://twitter.com/search?q=ERDO%c4%9eAN+SE%c3%87%c4%b0M%c4%b0+B%c3%96YLE+%c3%87ALACAK) | N/A |
+| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 44 | [Menderes Kemalpasa](http://twitter.com/search?q=Menderes+Kemalpasa) | N/A |
+| 45 | [Kuecuekpark](http://twitter.com/search?q=Kuecuekpark) | N/A |
+| 46 | [Narlidere](http://twitter.com/search?q=Narlidere) | N/A |
+| 47 | [Dikili Foca](http://twitter.com/search?q=Dikili+Foca) | N/A |
+| 48 | [HEP BİRLİKTE KURARIZ](http://twitter.com/search?q=HEP+B%c4%b0RL%c4%b0KTE+KURARIZ) | N/A |
+| 49 | [Vahit Kirişçi](http://twitter.com/search?q=Vahit+Kiri%c5%9f%c3%a7i) | N/A |
 
 
 

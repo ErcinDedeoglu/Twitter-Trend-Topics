@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-03-17 02:33:26 UTC`
+📆 Last Updated: `2023-03-17 03:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 4 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 5 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 7 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 8 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 9 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 10 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
-| 11 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 12 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 13 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 14 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 15 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 18 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
-| 19 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 20 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 21 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 22 | [Uros](http://twitter.com/search?q=Uros) | N/A |
-| 23 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
-| 24 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 25 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
-| 26 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
-| 27 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
-| 28 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
-| 29 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 30 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 31 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
-| 32 | [Dexter Dennis](http://twitter.com/search?q=Dexter+Dennis) | N/A |
-| 33 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 34 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
-| 35 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 36 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
-| 37 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 38 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 39 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
-| 40 | [Kris Murray](http://twitter.com/search?q=Kris+Murray) | N/A |
-| 41 | [nicky](http://twitter.com/search?q=nicky) | N/A |
-| 42 | [Trading Places](http://twitter.com/search?q=Trading+Places) | N/A |
-| 43 | [Sir'Jabari Rice](http://twitter.com/search?q=Sir%27Jabari+Rice) | N/A |
-| 44 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
-| 45 | [War Damn Eagle](http://twitter.com/search?q=War+Damn+Eagle) | N/A |
-| 46 | [Norse](http://twitter.com/search?q=Norse) | N/A |
-| 47 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 48 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 49 | [Cajuns](http://twitter.com/search?q=Cajuns) | N/A |
+| 2 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
+| 3 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 4 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 5 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 6 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 7 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 8 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 9 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 10 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 11 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 12 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
+| 13 | [#BeatBoxBeverages](http://twitter.com/search?q=%23BeatBoxBeverages) | N/A |
+| 14 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 15 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
+| 16 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 17 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
+| 18 | [#QueensCourt](http://twitter.com/search?q=%23QueensCourt) | N/A |
+| 19 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 20 | [Norse](http://twitter.com/search?q=Norse) | N/A |
+| 21 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 22 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 23 | [Buzz Williams](http://twitter.com/search?q=Buzz+Williams) | N/A |
+| 24 | [Uros](http://twitter.com/search?q=Uros) | N/A |
+| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 26 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 27 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 28 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
+| 29 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 30 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
+| 31 | [Timo](http://twitter.com/search?q=Timo) | N/A |
+| 32 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
+| 33 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
+| 34 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 35 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
+| 36 | [Dexter Dennis](http://twitter.com/search?q=Dexter+Dennis) | N/A |
+| 37 | [Boise State](http://twitter.com/search?q=Boise+State) | N/A |
+| 38 | [Greedy Williams](http://twitter.com/search?q=Greedy+Williams) | N/A |
+| 39 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
+| 40 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 41 | [Trading Places](http://twitter.com/search?q=Trading+Places) | N/A |
+| 42 | [nicky](http://twitter.com/search?q=nicky) | N/A |
+| 43 | [Mashack](http://twitter.com/search?q=Mashack) | N/A |
+| 44 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 45 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
+| 46 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 47 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 48 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
+| 49 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
 
 
 

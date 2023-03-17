@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-17 02:33:34 UTC`
+📆 Last Updated: `2023-03-17 03:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for Denmark
 | 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 5 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
 | 6 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
-| 7 | [mette frederiksen](http://twitter.com/search?q=mette+frederiksen) | N/A |
-| 8 | [#kompoldk](http://twitter.com/search?q=%23kompoldk) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [#kompoldk](http://twitter.com/search?q=%23kompoldk) | N/A |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
 | 10 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 11 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
-| 12 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 13 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 14 | [berlingske](http://twitter.com/search?q=berlingske) | N/A |
-| 15 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [jelert](http://twitter.com/search?q=jelert) | N/A |
-| 18 | [tænker](http://twitter.com/search?q=t%c3%a6nker) | N/A |
-| 19 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 20 | [russiske](http://twitter.com/search?q=russiske) | N/A |
-| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 22 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 23 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 24 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 25 | [London](http://twitter.com/search?q=London) | N/A |
-| 26 | [folketingets](http://twitter.com/search?q=folketingets) | N/A |
-| 27 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 28 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 29 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 31 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
-| 32 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 33 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 34 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 35 | [HELE](http://twitter.com/search?q=HELE) | N/A |
-| 36 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 37 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 38 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 40 | [jylland](http://twitter.com/search?q=jylland) | N/A |
-| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 42 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 43 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
-| 44 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 45 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 46 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
-| 47 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 48 | [georgien](http://twitter.com/search?q=georgien) | N/A |
+| 11 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 12 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 13 | [berlingske](http://twitter.com/search?q=berlingske) | N/A |
+| 14 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 16 | [jelert](http://twitter.com/search?q=jelert) | N/A |
+| 17 | [tænker](http://twitter.com/search?q=t%c3%a6nker) | N/A |
+| 18 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 19 | [russiske](http://twitter.com/search?q=russiske) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 22 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 23 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 24 | [London](http://twitter.com/search?q=London) | N/A |
+| 25 | [folketingets](http://twitter.com/search?q=folketingets) | N/A |
+| 26 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 27 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 28 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 30 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
+| 31 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 32 | [Løkke](http://twitter.com/search?q=L%c3%b8kke) | N/A |
+| 33 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 34 | [HELE](http://twitter.com/search?q=HELE) | N/A |
+| 35 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 36 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 37 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 39 | [jylland](http://twitter.com/search?q=jylland) | N/A |
+| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 41 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 42 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
+| 43 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 44 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 45 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
+| 46 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 47 | [georgien](http://twitter.com/search?q=georgien) | N/A |
+| 48 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 49 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 50 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 

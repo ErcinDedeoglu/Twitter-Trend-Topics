@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-17 02:32:57 UTC`
+📆 Last Updated: `2023-03-17 03:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 2 | [#TROPADOH](http://twitter.com/search?q=%23TROPADOH) | N/A |
-| 3 | [MEU DEUS DO CÉU](http://twitter.com/search?q=MEU+DEUS+DO+C%c3%89U) | N/A |
-| 4 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 5 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
-| 6 | [Oi Lula](http://twitter.com/search?q=Oi+Lula) | N/A |
-| 7 | [Fazenda](http://twitter.com/search?q=Fazenda) | N/A |
-| 8 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 9 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 10 | [Bebida](http://twitter.com/search?q=Bebida) | N/A |
-| 11 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 12 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 13 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 14 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 15 | [Deveriam](http://twitter.com/search?q=Deveriam) | N/A |
-| 16 | [QUE VERGONHA](http://twitter.com/search?q=QUE+VERGONHA) | N/A |
-| 17 | [PARK JIMIN IS COMING](http://twitter.com/search?q=PARK+JIMIN+IS+COMING) | "PARK JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of South Korean singer and dancer Park Jimin. It is often used by fans of Park Jimin to show their enthusiasm for his upcoming appearances or releases. |
-| 18 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 19 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 20 | [#LCDF3](http://twitter.com/search?q=%23LCDF3) | N/A |
-| 21 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 22 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
-| 23 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 24 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 25 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
-| 26 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 27 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 28 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
-| 29 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 30 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 31 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
-| 32 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
-| 33 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 34 | [#DecretosReais3](http://twitter.com/search?q=%23DecretosReais3) | N/A |
-| 35 | [Ademicon](http://twitter.com/search?q=Ademicon) | N/A |
-| 36 | [VÍTIMA](http://twitter.com/search?q=V%c3%8dTIMA) | N/A |
-| 37 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
-| 38 | [Filipe Ret](http://twitter.com/search?q=Filipe+Ret) | N/A |
-| 39 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 40 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
-| 41 | [Parabéns BBB](http://twitter.com/search?q=Parab%c3%a9ns+BBB) | N/A |
-| 42 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 43 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 44 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 45 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 46 | [CA RA LHO](http://twitter.com/search?q=CA+RA+LHO) | N/A |
-| 47 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 48 | [O Gabriel](http://twitter.com/search?q=O+Gabriel) | N/A |
-| 49 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
-| 50 | [CULPADA](http://twitter.com/search?q=CULPADA) | N/A |
+| 1 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 2 | [Cigano](http://twitter.com/search?q=Cigano) | N/A |
+| 3 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 4 | [simone](http://twitter.com/search?q=simone) | N/A |
+| 5 | [nicky](http://twitter.com/search?q=nicky) | N/A |
+| 6 | [Bebida](http://twitter.com/search?q=Bebida) | N/A |
+| 7 | [#TROPADOH](http://twitter.com/search?q=%23TROPADOH) | N/A |
+| 8 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 10 | [Ferroviário](http://twitter.com/search?q=Ferrovi%c3%a1rio) | N/A |
+| 11 | [Dr. Fred](http://twitter.com/search?q=Dr.+Fred) | N/A |
+| 12 | [CHOQUE](http://twitter.com/search?q=CHOQUE) | N/A |
+| 13 | [Decisão](http://twitter.com/search?q=Decis%c3%a3o) | N/A |
+| 14 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 15 | [CHOCADA](http://twitter.com/search?q=CHOCADA) | N/A |
+| 16 | [Fazenda](http://twitter.com/search?q=Fazenda) | N/A |
+| 17 | [doutor fred](http://twitter.com/search?q=doutor+fred) | Doutor Fred is a Brazilian children's television show that aired from 1997 to 2001. It follows the adventures of a doctor, Dr. Fred, and his assistant, Juca, as they travel around the world helping people in need. The show's title translates to "Dr. Fred" in English. |
+| 18 | [MEU DEUS DO CÉU](http://twitter.com/search?q=MEU+DEUS+DO+C%c3%89U) | N/A |
+| 19 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 20 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 21 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 22 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
+| 23 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 24 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 25 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 26 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 27 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 28 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 29 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 30 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 31 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
+| 32 | [Lady Night](http://twitter.com/search?q=Lady+Night) | N/A |
+| 33 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
+| 34 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 35 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
+| 36 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 37 | [Ademicon](http://twitter.com/search?q=Ademicon) | N/A |
+| 38 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
+| 39 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
+| 40 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
+| 41 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 42 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
+| 43 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 44 | [Raniel](http://twitter.com/search?q=Raniel) | Raniel is a Hebrew name meaning "God has seen". |
+| 45 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 46 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 47 | [O ABC](http://twitter.com/search?q=O+ABC) | N/A |
+| 48 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 49 | [VÍTIMA](http://twitter.com/search?q=V%c3%8dTIMA) | N/A |
+| 50 | [Filipe Ret](http://twitter.com/search?q=Filipe+Ret) | N/A |
 
 
 

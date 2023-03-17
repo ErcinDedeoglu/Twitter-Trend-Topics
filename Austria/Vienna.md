@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-17 02:32:58 UTC`
+📆 Last Updated: `2023-03-17 03:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,30 +17,30 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 3 | [Arbeiterkinder](http://twitter.com/search?q=Arbeiterkinder) | N/A |
+| 3 | [arbeiterkinder](http://twitter.com/search?q=arbeiterkinder) | N/A |
 | 4 | [Cola](http://twitter.com/search?q=Cola) | N/A |
 | 5 | [#rundertisch](http://twitter.com/search?q=%23rundertisch) | N/A |
 | 6 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
 | 7 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [#SGBCC2023](http://twitter.com/search?q=%23SGBCC2023) | N/A |
-| 10 | [Frau Blaha](http://twitter.com/search?q=Frau+Blaha) | N/A |
-| 11 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
-| 12 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
+| 8 | [#sgbcc2023](http://twitter.com/search?q=%23sgbcc2023) | N/A |
+| 9 | [frau blaha](http://twitter.com/search?q=frau+blaha) | N/A |
+| 10 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 11 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 13 | [Karas](http://twitter.com/search?q=Karas) | N/A |
 | 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 15 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
 | 16 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
 | 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 18 | [akademikerkind](http://twitter.com/search?q=akademikerkind) | N/A |
-| 19 | [Krone](http://twitter.com/search?q=Krone) | N/A |
+| 19 | [krone](http://twitter.com/search?q=krone) | N/A |
 | 20 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
 | 21 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 22 | [Unterschiede](http://twitter.com/search?q=Unterschiede) | N/A |
-| 23 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 24 | [Hörsaal](http://twitter.com/search?q=H%c3%b6rsaal) | N/A |
-| 25 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 26 | [Künstler](http://twitter.com/search?q=K%c3%bcnstler) | N/A |
+| 23 | [Hörsaal](http://twitter.com/search?q=H%c3%b6rsaal) | N/A |
+| 24 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 25 | [Künstler](http://twitter.com/search?q=K%c3%bcnstler) | N/A |
+| 26 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
 | 27 | [Lage](http://twitter.com/search?q=Lage) | N/A |
 | 28 | [Seminarraum](http://twitter.com/search?q=Seminarraum) | N/A |
 | 29 | [matura](http://twitter.com/search?q=matura) | N/A |

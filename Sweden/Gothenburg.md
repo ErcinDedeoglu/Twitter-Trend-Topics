@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-17 02:33:05 UTC`
+📆 Last Updated: `2023-03-17 03:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,20 +15,20 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [Hässelby](http://twitter.com/search?q=H%c3%a4sselby) | N/A |
-| 4 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [hässelby](http://twitter.com/search?q=h%c3%a4sselby) | N/A |
+| 3 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 4 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 5 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
 | 6 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 7 | [ingerö](http://twitter.com/search?q=inger%c3%b6) | N/A |
-| 8 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
-| 9 | [Danielsson](http://twitter.com/search?q=Danielsson) | N/A |
-| 10 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 11 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 12 | [Willys](http://twitter.com/search?q=Willys) | N/A |
-| 13 | [Wagnergruppen](http://twitter.com/search?q=Wagnergruppen) | N/A |
-| 14 | [ICA-handlare](http://twitter.com/search?q=ICA-handlare) | N/A |
+| 8 | [Danielsson](http://twitter.com/search?q=Danielsson) | N/A |
+| 9 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
+| 10 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 11 | [Willys](http://twitter.com/search?q=Willys) | N/A |
+| 12 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 13 | [wagnergruppen](http://twitter.com/search?q=wagnergruppen) | N/A |
+| 14 | [ica-handlare](http://twitter.com/search?q=ica-handlare) | N/A |
 | 15 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
 | 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 17 | [cajuste](http://twitter.com/search?q=cajuste) | N/A |
@@ -37,13 +37,13 @@ This is top 50 for [Sweden](</Sweden>)
 | 20 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
 | 21 | [östermalm](http://twitter.com/search?q=%c3%b6stermalm) | N/A |
 | 22 | [Hybrit](http://twitter.com/search?q=Hybrit) | N/A |
-| 23 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
+| 23 | [jesper karlsson](http://twitter.com/search?q=jesper+karlsson) | N/A |
 | 24 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
 | 25 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 26 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
 | 27 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 | 28 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 29 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
+| 29 | [baudin](http://twitter.com/search?q=baudin) | N/A |
 | 30 | [komarek](http://twitter.com/search?q=komarek) | N/A |
 | 31 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
 | 32 | [Chang](http://twitter.com/search?q=Chang) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-17 02:33:40 UTC`
+📆 Last Updated: `2023-03-17 03:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,13 +23,13 @@ This is top 50 for Ukraine
 | 6 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
 | 7 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
 | 8 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
-| 9 | [#ЛигаЕвропы](http://twitter.com/search?q=%23%d0%9b%d0%b8%d0%b3%d0%b0%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
+| 9 | [#лигаевропы](http://twitter.com/search?q=%23%d0%bb%d0%b8%d0%b3%d0%b0%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
 | 10 | [$TIME](http://twitter.com/search?q=%24TIME) | N/A |
 | 11 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
 | 12 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 13 | [коран](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%b0%d0%bd) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [#RussiaInvadedUkraine](http://twitter.com/search?q=%23RussiaInvadedUkraine) | N/A |
+| 14 | [#RussiaInvadedUkraine](http://twitter.com/search?q=%23RussiaInvadedUkraine) | N/A |
+| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 17 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
 | 18 | [Bali](http://twitter.com/search?q=Bali) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Ukraine
 | 32 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
 | 33 | [їбать](http://twitter.com/search?q=%d1%97%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
 | 34 | [Lviv](http://twitter.com/search?q=Lviv) | N/A |
-| 35 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 36 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
-| 37 | [клас](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81) | N/A |
-| 38 | [кричу](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d1%87%d1%83) | N/A |
-| 39 | [бережи](http://twitter.com/search?q=%d0%b1%d0%b5%d1%80%d0%b5%d0%b6%d0%b8) | N/A |
-| 40 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
-| 41 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
-| 42 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 43 | [польше](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 45 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 46 | [лавру](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b2%d1%80%d1%83) | N/A |
-| 47 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 48 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 49 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 50 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 35 | [самое](http://twitter.com/search?q=%d1%81%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
+| 36 | [клас](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81) | N/A |
+| 37 | [кричу](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d1%87%d1%83) | N/A |
+| 38 | [бережи](http://twitter.com/search?q=%d0%b1%d0%b5%d1%80%d0%b5%d0%b6%d0%b8) | N/A |
+| 39 | [отлично](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 40 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
+| 41 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 42 | [польше](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 44 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 45 | [лавру](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b2%d1%80%d1%83) | N/A |
+| 46 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 47 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 48 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 49 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 50 | [домовились](http://twitter.com/search?q=%d0%b4%d0%be%d0%bc%d0%be%d0%b2%d0%b8%d0%bb%d0%b8%d1%81%d1%8c) | N/A |
 
 
 

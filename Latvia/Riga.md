@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-17 02:33:05 UTC`
+📆 Last Updated: `2023-03-17 03:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,7 +38,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 21 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
 | 22 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 23 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
-| 24 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 24 | [европе](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
 | 25 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
 | 26 | [knab](http://twitter.com/search?q=knab) | N/A |
 | 27 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |

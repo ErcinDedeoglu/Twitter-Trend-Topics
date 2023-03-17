@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-17 02:33:05 UTC`
+📆 Last Updated: `2023-03-17 03:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,48 +17,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#BersamaMandiri](http://twitter.com/search?q=%23BersamaMandiri) | N/A |
 | 2 | [Kandidat Menteri](http://twitter.com/search?q=Kandidat+Menteri) | N/A |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 3 | [Selamat Hari Perawat Nasional](http://twitter.com/search?q=Selamat+Hari+Perawat+Nasional) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 5 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 7 | [Prabowo Hatinya Tulus](http://twitter.com/search?q=Prabowo+Hatinya+Tulus) | N/A |
-| 8 | [Rakyat NyamanPilih Prabowo](http://twitter.com/search?q=Rakyat+NyamanPilih+Prabowo) | N/A |
-| 9 | [Politik Baik Gerindra](http://twitter.com/search?q=Politik+Baik+Gerindra) | N/A |
-| 10 | [Islam Selamatkan Generasi](http://twitter.com/search?q=Islam+Selamatkan+Generasi) | N/A |
-| 11 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 12 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 13 | [Selamat Hari Perawat Nasional](http://twitter.com/search?q=Selamat+Hari+Perawat+Nasional) | N/A |
+| 6 | [Prabowo Hatinya Tulus](http://twitter.com/search?q=Prabowo+Hatinya+Tulus) | N/A |
+| 7 | [Rakyat NyamanPilih Prabowo](http://twitter.com/search?q=Rakyat+NyamanPilih+Prabowo) | N/A |
+| 8 | [Politik Baik Gerindra](http://twitter.com/search?q=Politik+Baik+Gerindra) | N/A |
+| 9 | [Islam Selamatkan Generasi](http://twitter.com/search?q=Islam+Selamatkan+Generasi) | N/A |
+| 10 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 11 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 12 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 13 | [Angin](http://twitter.com/search?q=Angin) | N/A |
 | 14 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 16 | [Hendips](http://twitter.com/search?q=Hendips) | N/A |
-| 17 | [maju terus prabowo](http://twitter.com/search?q=maju+terus+prabowo) | N/A |
+| 15 | [Hendips](http://twitter.com/search?q=Hendips) | N/A |
+| 16 | [maju terus prabowo](http://twitter.com/search?q=maju+terus+prabowo) | N/A |
+| 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 18 | [bersama prabowo 2024](http://twitter.com/search?q=bersama+prabowo+2024) | N/A |
-| 19 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 20 | [TAEGYU FOR ELLE KOREA](http://twitter.com/search?q=TAEGYU+FOR+ELLE+KOREA) | N/A |
-| 21 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 22 | [Morninggg](http://twitter.com/search?q=Morninggg) | N/A |
-| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 24 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 25 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 26 | [WE MISS ILICHIL](http://twitter.com/search?q=WE+MISS+ILICHIL) | N/A |
-| 27 | [London](http://twitter.com/search?q=London) | N/A |
-| 28 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 29 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
-| 30 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
-| 31 | [Fokus EPL](http://twitter.com/search?q=Fokus+EPL) | N/A |
-| 32 | [Provinsi NTB](http://twitter.com/search?q=Provinsi+NTB) | N/A |
-| 33 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 34 | [Mutasi](http://twitter.com/search?q=Mutasi) | N/A |
-| 35 | [B. Tahu Isi](http://twitter.com/search?q=B.+Tahu+Isi) | N/A |
-| 36 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 37 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
-| 38 | [KETEMU HARTA KARUN D1](http://twitter.com/search?q=KETEMU+HARTA+KARUN+D1) | N/A |
-| 39 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
-| 40 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 41 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
-| 42 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 43 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 44 | [Joaquin](http://twitter.com/search?q=Joaquin) | N/A |
+| 19 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 20 | [WE MISS ILICHIL](http://twitter.com/search?q=WE+MISS+ILICHIL) | N/A |
+| 21 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 22 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 23 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
+| 24 | [Fokus EPL](http://twitter.com/search?q=Fokus+EPL) | N/A |
+| 25 | [Gemblung](http://twitter.com/search?q=Gemblung) | N/A |
+| 26 | [v is coming](http://twitter.com/search?q=v+is+coming) | N/A |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Provinsi NTB](http://twitter.com/search?q=Provinsi+NTB) | N/A |
+| 29 | [Mutasi](http://twitter.com/search?q=Mutasi) | N/A |
+| 30 | [Morninggg](http://twitter.com/search?q=Morninggg) | N/A |
+| 31 | [B. Tahu Isi](http://twitter.com/search?q=B.+Tahu+Isi) | N/A |
+| 32 | [Nani Wijaya](http://twitter.com/search?q=Nani+Wijaya) | N/A |
+| 33 | [KETEMU HARTA KARUN D1](http://twitter.com/search?q=KETEMU+HARTA+KARUN+D1) | N/A |
+| 34 | [London](http://twitter.com/search?q=London) | N/A |
+| 35 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
+| 36 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
+| 37 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
+| 38 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 39 | [PARK JIMIN IS COMING](http://twitter.com/search?q=PARK+JIMIN+IS+COMING) | "PARK JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of South Korean singer and dancer Park Jimin. It is often used by fans of Park Jimin to show their enthusiasm for his upcoming appearances or releases. |
+| 40 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 41 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
+| 42 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 43 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 44 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 
 
 

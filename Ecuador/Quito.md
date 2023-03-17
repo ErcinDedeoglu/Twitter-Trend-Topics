@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-17 02:32:54 UTC`
+📆 Last Updated: `2023-03-17 03:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
-| 2 | [Sornoza](http://twitter.com/search?q=Sornoza) | N/A |
-| 3 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
-| 4 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 5 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
-| 8 | [HATER BY ANDREINA](http://twitter.com/search?q=HATER+BY+ANDREINA) | N/A |
-| 9 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 10 | [#EcuadorSinLasso](http://twitter.com/search?q=%23EcuadorSinLasso) | N/A |
-| 11 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
-| 12 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 13 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 14 | [Goltv](http://twitter.com/search?q=Goltv) | N/A |
-| 15 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
-| 16 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 17 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 18 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 19 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
-| 20 | [Viviana Veloz](http://twitter.com/search?q=Viviana+Veloz) | N/A |
-| 21 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
-| 22 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 23 | [#NarcoGobierno](http://twitter.com/search?q=%23NarcoGobierno) | N/A |
-| 24 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 25 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 26 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 27 | [Deller](http://twitter.com/search?q=Deller) | N/A |
-| 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 29 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 30 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 31 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
-| 32 | [Guadalupe Llori](http://twitter.com/search?q=Guadalupe+Llori) | N/A |
-| 33 | [Lelo](http://twitter.com/search?q=Lelo) | N/A |
-| 34 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 35 | [Ivonne](http://twitter.com/search?q=Ivonne) | N/A |
-| 36 | [Pedro Zapata](http://twitter.com/search?q=Pedro+Zapata) | N/A |
-| 37 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 38 | [Con 58](http://twitter.com/search?q=Con+58) | N/A |
-| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 40 | [Fecha 3](http://twitter.com/search?q=Fecha+3) | N/A |
-| 41 | [José Hurtado](http://twitter.com/search?q=Jos%c3%a9+Hurtado) | N/A |
-| 42 | [Loor](http://twitter.com/search?q=Loor) | N/A |
-| 43 | [Botar](http://twitter.com/search?q=Botar) | N/A |
-| 44 | [Envidia](http://twitter.com/search?q=Envidia) | N/A |
-| 45 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 46 | [Estudios](http://twitter.com/search?q=Estudios) | N/A |
-| 47 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 48 | [Felix Sánchez](http://twitter.com/search?q=Felix+S%c3%a1nchez) | N/A |
-| 49 | [Gabela](http://twitter.com/search?q=Gabela) | N/A |
-| 50 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 1 | [El Triunfo](http://twitter.com/search?q=El+Triunfo) | N/A |
+| 2 | [Junior Roldán](http://twitter.com/search?q=Junior+Rold%c3%a1n) | N/A |
+| 3 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
+| 4 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
+| 5 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
+| 6 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
+| 9 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 10 | [HATER BY ANDREINA](http://twitter.com/search?q=HATER+BY+ANDREINA) | N/A |
+| 11 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 12 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 13 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 14 | [#URGENTE](http://twitter.com/search?q=%23URGENTE) | N/A |
+| 15 | [#LassoEcuadorNoTeAguantaMas](http://twitter.com/search?q=%23LassoEcuadorNoTeAguantaMas) | N/A |
+| 16 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 17 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 18 | [Rausch](http://twitter.com/search?q=Rausch) | N/A |
+| 19 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
+| 20 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
+| 21 | [Goltv](http://twitter.com/search?q=Goltv) | N/A |
+| 22 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 23 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
+| 24 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
+| 25 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
+| 26 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
+| 27 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 28 | [PARK JIMIN IS COMING](http://twitter.com/search?q=PARK+JIMIN+IS+COMING) | "PARK JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of South Korean singer and dancer Park Jimin. It is often used by fans of Park Jimin to show their enthusiasm for his upcoming appearances or releases. |
+| 29 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 31 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 32 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 33 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
+| 34 | [129 de la Constitución](http://twitter.com/search?q=129+de+la+Constituci%c3%b3n) | N/A |
+| 35 | [Guadalupe Llori](http://twitter.com/search?q=Guadalupe+Llori) | N/A |
+| 36 | [Lelo](http://twitter.com/search?q=Lelo) | N/A |
+| 37 | [Deller](http://twitter.com/search?q=Deller) | N/A |
+| 38 | [Viviana Veloz](http://twitter.com/search?q=Viviana+Veloz) | N/A |
+| 39 | [Ivonne](http://twitter.com/search?q=Ivonne) | N/A |
+| 40 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 41 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 42 | [Pedro Zapata](http://twitter.com/search?q=Pedro+Zapata) | N/A |
+| 43 | [Con 58](http://twitter.com/search?q=Con+58) | N/A |
+| 44 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
+| 45 | [Fecha 3](http://twitter.com/search?q=Fecha+3) | N/A |
+| 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 47 | [Loor](http://twitter.com/search?q=Loor) | N/A |
+| 48 | [Botar](http://twitter.com/search?q=Botar) | N/A |
+| 49 | [Envidia](http://twitter.com/search?q=Envidia) | N/A |
+| 50 | [Estudios](http://twitter.com/search?q=Estudios) | N/A |
 
 
 

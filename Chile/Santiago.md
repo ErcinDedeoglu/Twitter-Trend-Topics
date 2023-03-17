@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-17 02:32:53 UTC`
+📆 Last Updated: `2023-03-17 03:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 2 | [#SuperFinalYoSoy](http://twitter.com/search?q=%23SuperFinalYoSoy) | N/A |
-| 3 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
-| 4 | [#MerluzoCTM](http://twitter.com/search?q=%23MerluzoCTM) | N/A |
-| 5 | [#GobiernoInforma](http://twitter.com/search?q=%23GobiernoInforma) | N/A |
-| 6 | [Aló Presidente](http://twitter.com/search?q=Al%c3%b3+Presidente) | N/A |
-| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 8 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
-| 9 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 10 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 13 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
-| 14 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
-| 15 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 16 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 19 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 20 | [Jorge Castillo](http://twitter.com/search?q=Jorge+Castillo) | N/A |
-| 21 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
-| 22 | [Jordhy Thompson](http://twitter.com/search?q=Jordhy+Thompson) | N/A |
-| 23 | [Hugo Gutiérrez](http://twitter.com/search?q=Hugo+Guti%c3%a9rrez) | N/A |
-| 24 | [Insulza](http://twitter.com/search?q=Insulza) | N/A |
-| 25 | [Martín Pradenas](http://twitter.com/search?q=Mart%c3%adn+Pradenas) | N/A |
-| 26 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 27 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
-| 28 | [Rodrigo Herrera](http://twitter.com/search?q=Rodrigo+Herrera) | N/A |
-| 29 | [Pisagua](http://twitter.com/search?q=Pisagua) | N/A |
-| 30 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
-| 31 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 32 | [Gracias Mario](http://twitter.com/search?q=Gracias+Mario) | N/A |
-| 33 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 34 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 2 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 3 | [#SuperFinalYoSoy](http://twitter.com/search?q=%23SuperFinalYoSoy) | N/A |
+| 4 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
+| 5 | [#100indecisos](http://twitter.com/search?q=%23100indecisos) | N/A |
+| 6 | [#sociosporelmundo](http://twitter.com/search?q=%23sociosporelmundo) | N/A |
+| 7 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
+| 8 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 9 | [Alejandra Guzmán](http://twitter.com/search?q=Alejandra+Guzm%c3%a1n) | N/A |
+| 10 | [Aló Presidente](http://twitter.com/search?q=Al%c3%b3+Presidente) | N/A |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
+| 14 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 16 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
+| 17 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
+| 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 19 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 20 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
+| 21 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 22 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 23 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
+| 24 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
+| 25 | [Jorge Castillo](http://twitter.com/search?q=Jorge+Castillo) | N/A |
+| 26 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
+| 27 | [Hugo Gutiérrez](http://twitter.com/search?q=Hugo+Guti%c3%a9rrez) | N/A |
+| 28 | [Martín Pradenas](http://twitter.com/search?q=Mart%c3%adn+Pradenas) | N/A |
+| 29 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 30 | [Insulza](http://twitter.com/search?q=Insulza) | N/A |
+| 31 | [Pisagua](http://twitter.com/search?q=Pisagua) | N/A |
+| 32 | [Rodrigo Herrera](http://twitter.com/search?q=Rodrigo+Herrera) | N/A |
+| 33 | [Jordhy Thompson](http://twitter.com/search?q=Jordhy+Thompson) | N/A |
+| 34 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
 | 35 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 36 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
-| 37 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 38 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 39 | [Nick Jonas](http://twitter.com/search?q=Nick+Jonas) | N/A |
-| 40 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 41 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 42 | [Santa Juana](http://twitter.com/search?q=Santa+Juana) | Santa Juana is a Spanish phrase that translates to Saint Joan. It is a reference to Joan of Arc, a French saint who led the French army in the Hundred Years' War. |
-| 43 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 44 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 45 | [Rivarola](http://twitter.com/search?q=Rivarola) | N/A |
-| 46 | [Larrivey](http://twitter.com/search?q=Larrivey) | N/A |
-| 47 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
-| 48 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 49 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 36 | [Ester](http://twitter.com/search?q=Ester) | N/A |
+| 37 | [Nick Jonas](http://twitter.com/search?q=Nick+Jonas) | N/A |
+| 38 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 39 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 40 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 41 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 42 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 43 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
+| 44 | [Laura Pausini](http://twitter.com/search?q=Laura+Pausini) | N/A |
+| 45 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 46 | [Santa Juana](http://twitter.com/search?q=Santa+Juana) | Santa Juana is a Spanish phrase that translates to Saint Joan. It is a reference to Joan of Arc, a French saint who led the French army in the Hundred Years' War. |
+| 47 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 48 | [Before The Storm](http://twitter.com/search?q=Before+The+Storm) | N/A |
+| 49 | [Claudia Cancino](http://twitter.com/search?q=Claudia+Cancino) | N/A |
 
 
 

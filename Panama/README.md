@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-17 02:33:38 UTC`
+📆 Last Updated: `2023-03-17 03:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,29 +21,29 @@ This is top 50 for Panama
 | 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 5 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
 | 6 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 7 | [Amir Murillo](http://twitter.com/search?q=Amir+Murillo) | N/A |
+| 7 | [amir murillo](http://twitter.com/search?q=amir+murillo) | N/A |
 | 8 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Cholo Chorrillo](http://twitter.com/search?q=Cholo+Chorrillo) | N/A |
-| 11 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 12 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
+| 9 | [Cholo Chorrillo](http://twitter.com/search?q=Cholo+Chorrillo) | N/A |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [Feria Internacional de David](http://twitter.com/search?q=Feria+Internacional+de+David) | N/A |
+| 12 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 13 | [Guayacanes](http://twitter.com/search?q=Guayacanes) | N/A |
-| 14 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 14 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
 | 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [Natá](http://twitter.com/search?q=Nat%c3%a1) | N/A |
-| 18 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 19 | [#veraguas](http://twitter.com/search?q=%23veraguas) | N/A |
-| 20 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 21 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 22 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 23 | [realizando metas](http://twitter.com/search?q=realizando+metas) | N/A |
+| 16 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 17 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 18 | [natá](http://twitter.com/search?q=nat%c3%a1) | N/A |
+| 19 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 20 | [Metro de Panamá](http://twitter.com/search?q=Metro+de+Panam%c3%a1) | N/A |
+| 21 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 22 | [realizando metas](http://twitter.com/search?q=realizando+metas) | N/A |
+| 23 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 24 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 26 | [arraiján y la chorrera](http://twitter.com/search?q=arraij%c3%a1n+y+la+chorrera) | N/A |
 | 27 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 28 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 29 | [Feria Internacional de David](http://twitter.com/search?q=Feria+Internacional+de+David) | N/A |
+| 28 | [#Veraguas](http://twitter.com/search?q=%23Veraguas) | N/A |
+| 29 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
 | 30 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
 | 31 | [Director](http://twitter.com/search?q=Director) | N/A |
 | 32 | [Panameño](http://twitter.com/search?q=Paname%c3%b1o) | N/A |

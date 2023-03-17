@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-17 02:33:00 UTC`
+📆 Last Updated: `2023-03-17 03:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
 | 5 | [#SCFJUV](http://twitter.com/search?q=%23SCFJUV) | N/A |
 | 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 8 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 7 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 8 | [Anya](http://twitter.com/search?q=Anya) | N/A |
 | 9 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
 | 10 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 12 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 13 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
+| 11 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 12 | [arbeiterkind](http://twitter.com/search?q=arbeiterkind) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 14 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
-| 17 | [Socken](http://twitter.com/search?q=Socken) | N/A |
-| 18 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
-| 19 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
-| 20 | [axel springer](http://twitter.com/search?q=axel+springer) | N/A |
+| 15 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
+| 16 | [Socken](http://twitter.com/search?q=Socken) | N/A |
+| 17 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
+| 18 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
+| 19 | [axel springer](http://twitter.com/search?q=axel+springer) | N/A |
+| 20 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
 | 21 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 22 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 23 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 24 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 25 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 26 | [Krisen Zentrum](http://twitter.com/search?q=Krisen+Zentrum) | N/A |
+| 22 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
+| 23 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 24 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 25 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 26 | [geissens](http://twitter.com/search?q=geissens) | N/A |
 | 27 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 28 | [Geissens](http://twitter.com/search?q=Geissens) | N/A |
-| 29 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 30 | [Chefredaktion](http://twitter.com/search?q=Chefredaktion) | N/A |
-| 31 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
-| 32 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 33 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 34 | [absturz](http://twitter.com/search?q=absturz) | N/A |
-| 35 | [BundID](http://twitter.com/search?q=BundID) | N/A |
-| 36 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 37 | [Strunz](http://twitter.com/search?q=Strunz) | N/A |
+| 28 | [Chefredaktion](http://twitter.com/search?q=Chefredaktion) | N/A |
+| 29 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 30 | [Krisen Zentrum](http://twitter.com/search?q=Krisen+Zentrum) | N/A |
+| 31 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 32 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 33 | [absturz](http://twitter.com/search?q=absturz) | N/A |
+| 34 | [BundID](http://twitter.com/search?q=BundID) | N/A |
+| 35 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 36 | [strunz](http://twitter.com/search?q=strunz) | N/A |
+| 37 | [Extensions](http://twitter.com/search?q=Extensions) | N/A |
 | 38 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 39 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
-| 40 | [Extensions](http://twitter.com/search?q=Extensions) | N/A |
+| 39 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 40 | [legalisierung](http://twitter.com/search?q=legalisierung) | N/A |
 | 41 | [Wald](http://twitter.com/search?q=Wald) | N/A |
 | 42 | [ausflug](http://twitter.com/search?q=ausflug) | N/A |
-| 43 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 44 | [Propeller](http://twitter.com/search?q=Propeller) | N/A |
+| 43 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 44 | [Banken](http://twitter.com/search?q=Banken) | N/A |
 | 45 | [Lena](http://twitter.com/search?q=Lena) | N/A |
 | 46 | [Seminarraum](http://twitter.com/search?q=Seminarraum) | N/A |
 | 47 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 48 | ['langeweile'](http://twitter.com/search?q=%27langeweile%27) | N/A |
+| 48 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
 
 
 

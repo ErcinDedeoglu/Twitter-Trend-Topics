@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-17 02:33:34 UTC`
+📆 Last Updated: `2023-03-17 03:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 2 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 3 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
-| 4 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 5 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 6 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 7 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
-| 8 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 9 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
-| 10 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
-| 11 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 12 | [#DecretosReais3](http://twitter.com/search?q=%23DecretosReais3) | N/A |
-| 13 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 14 | [Ademicon](http://twitter.com/search?q=Ademicon) | N/A |
-| 15 | [VÍTIMA](http://twitter.com/search?q=V%c3%8dTIMA) | N/A |
-| 16 | [Filipe Ret](http://twitter.com/search?q=Filipe+Ret) | N/A |
-| 17 | [#BBBAEliminacao](http://twitter.com/search?q=%23BBBAEliminacao) | N/A |
-| 18 | [#AssedioBBB](http://twitter.com/search?q=%23AssedioBBB) | N/A |
-| 19 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
-| 20 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 21 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 22 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
-| 23 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [Parabéns BBB](http://twitter.com/search?q=Parab%c3%a9ns+BBB) | N/A |
-| 26 | [CULPADA](http://twitter.com/search?q=CULPADA) | N/A |
-| 27 | [CA RA LHO](http://twitter.com/search?q=CA+RA+LHO) | N/A |
-| 28 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
-| 29 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 30 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 31 | [Expulsaram](http://twitter.com/search?q=Expulsaram) | N/A |
-| 32 | [O Gabriel](http://twitter.com/search?q=O+Gabriel) | N/A |
-| 33 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
-| 34 | [nicky](http://twitter.com/search?q=nicky) | N/A |
-| 35 | [Sant](http://twitter.com/search?q=Sant) | N/A |
-| 36 | [Vasco x ABC](http://twitter.com/search?q=Vasco+x+ABC) | N/A |
-| 37 | [AO VIVAÇO](http://twitter.com/search?q=AO+VIVA%c3%87O) | N/A |
-| 38 | [AO VIVASSO](http://twitter.com/search?q=AO+VIVASSO) | N/A |
-| 39 | [Sermão](http://twitter.com/search?q=Serm%c3%a3o) | N/A |
-| 40 | [ELIMINADOS](http://twitter.com/search?q=ELIMINADOS) | N/A |
-| 41 | [EU TÔ CHOCADA](http://twitter.com/search?q=EU+T%c3%94+CHOCADA) | N/A |
-| 42 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
-| 43 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
-| 44 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
-| 45 | [simone](http://twitter.com/search?q=simone) | N/A |
-| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 47 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
-| 48 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
-| 49 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 50 | [CHOQUE](http://twitter.com/search?q=CHOQUE) | N/A |
+| 1 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 2 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 3 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 4 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 5 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 6 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 7 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 8 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 9 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
+| 10 | [Lady Night](http://twitter.com/search?q=Lady+Night) | N/A |
+| 11 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
+| 12 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 13 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
+| 14 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 15 | [Ademicon](http://twitter.com/search?q=Ademicon) | N/A |
+| 16 | [AO VIVO](http://twitter.com/search?q=AO+VIVO) | N/A |
+| 17 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
+| 18 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
+| 19 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
+| 20 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 21 | [Raniel](http://twitter.com/search?q=Raniel) | Raniel is a Hebrew name meaning "God has seen". |
+| 22 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
+| 23 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 24 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 25 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 26 | [O ABC](http://twitter.com/search?q=O+ABC) | N/A |
+| 27 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 28 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 29 | [#provadolíder](http://twitter.com/search?q=%23provadol%c3%adder) | N/A |
+| 30 | [#DecretosReais3](http://twitter.com/search?q=%23DecretosReais3) | N/A |
+| 31 | [VÍTIMA](http://twitter.com/search?q=V%c3%8dTIMA) | N/A |
+| 32 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
+| 33 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 34 | [#BBBAEliminacao](http://twitter.com/search?q=%23BBBAEliminacao) | N/A |
+| 35 | [Filipe Ret](http://twitter.com/search?q=Filipe+Ret) | N/A |
+| 36 | [Bruna e Amanda](http://twitter.com/search?q=Bruna+e+Amanda) | N/A |
+| 37 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 38 | [Esse Vasco](http://twitter.com/search?q=Esse+Vasco) | N/A |
+| 39 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 40 | [EICS FWD](http://twitter.com/search?q=EICS+FWD) | N/A |
+| 41 | [EXPULSOS](http://twitter.com/search?q=EXPULSOS) | N/A |
+| 42 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 43 | [B DE BAIXINHO](http://twitter.com/search?q=B+DE+BAIXINHO) | N/A |
+| 44 | [Parabéns BBB](http://twitter.com/search?q=Parab%c3%a9ns+BBB) | N/A |
+| 45 | [Basco](http://twitter.com/search?q=Basco) | N/A |
+| 46 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
+| 47 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 48 | [CULPADA](http://twitter.com/search?q=CULPADA) | N/A |
+| 49 | [ELIMINADOS](http://twitter.com/search?q=ELIMINADOS) | N/A |
+| 50 | [Pedro Guilherme](http://twitter.com/search?q=Pedro+Guilherme) | N/A |
 
 
 

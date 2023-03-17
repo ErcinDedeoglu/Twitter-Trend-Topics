@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-17 02:33:04 UTC`
+📆 Last Updated: `2023-03-17 03:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,14 +18,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 3 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 5 | [#hrc52](http://twitter.com/search?q=%23hrc52) | N/A |
-| 6 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 7 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 8 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
-| 9 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 10 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [#hrc52](http://twitter.com/search?q=%23hrc52) | N/A |
+| 5 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 7 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
+| 8 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 9 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 12 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 13 | [Russen](http://twitter.com/search?q=Russen) | N/A |
 | 14 | [Krise](http://twitter.com/search?q=Krise) | N/A |

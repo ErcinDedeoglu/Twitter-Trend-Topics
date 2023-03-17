@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-03-17 02:33:22 UTC`
+📆 Last Updated: `2023-03-17 03:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PowerfulDNA](http://twitter.com/search?q=%23PowerfulDNA) | N/A |
-| 2 | [#GodMorningFriday](http://twitter.com/search?q=%23GodMorningFriday) | N/A |
-| 3 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | कल्पना चावला is a popular Marathi phrase which translates to "Imaginary Rice" in English. It is used to describe something that is impossible or too good to be true. |
-| 4 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 5 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 6 | [CBI WhySo Slow InSSRCase](http://twitter.com/search?q=CBI+WhySo+Slow+InSSRCase) | N/A |
-| 7 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
-| 10 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 2 | [#सच_की_आवाज़](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%9a_%e0%a4%95%e0%a5%80_%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a4%bc) | N/A |
+| 3 | [Janta Ki Adalat](http://twitter.com/search?q=Janta+Ki+Adalat) | N/A |
+| 4 | [Release INNOCENT](http://twitter.com/search?q=Release+INNOCENT) | N/A |
+| 5 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 6 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | कल्पना चावला is a popular Marathi phrase which translates to "Imaginary Rice" in English. It is used to describe something that is impossible or too good to be true. |
+| 7 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 8 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 9 | [CBI WhySo Slow InSSRCase](http://twitter.com/search?q=CBI+WhySo+Slow+InSSRCase) | N/A |
+| 10 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
 | 11 | [प्रथम भारतीय महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 13 | [Dinner with SRK](http://twitter.com/search?q=Dinner+with+SRK) | N/A |
-| 14 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 15 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 16 | [designed for indian weddings](http://twitter.com/search?q=designed+for+indian+weddings) | N/A |
-| 17 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 18 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 19 | [justice4ssr longest satyagraha](http://twitter.com/search?q=justice4ssr+longest+satyagraha) | N/A |
-| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 21 | [asharamji bapu case](http://twitter.com/search?q=asharamji+bapu+case) | N/A |
-| 22 | [JIMIN'S RAP](http://twitter.com/search?q=JIMIN%27S+RAP) | N/A |
-| 23 | [प्रथम महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 24 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 25 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 26 | [request to goi](http://twitter.com/search?q=request+to+goi) | N/A |
-| 27 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 28 | [Release INNOCENT Saint](http://twitter.com/search?q=Release+INNOCENT+Saint) | N/A |
-| 29 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
-| 30 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 31 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 32 | [india against modani](http://twitter.com/search?q=india+against+modani) | N/A |
-| 33 | [पद्म भूषण](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%b7%e0%a4%a3) | N/A |
-| 34 | [AVN Reddy](http://twitter.com/search?q=AVN+Reddy) | N/A |
-| 35 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 36 | [प्रथम रक्षा प्रमुख](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 37 | [Sushant Nuggets Of Wisdom](http://twitter.com/search?q=Sushant+Nuggets+Of+Wisdom) | N/A |
-| 38 | [munawar x jassie mv out tmrw](http://twitter.com/search?q=munawar+x+jassie+mv+out+tmrw) | N/A |
-| 39 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 40 | [Rajesh Gopinathan](http://twitter.com/search?q=Rajesh+Gopinathan) | N/A |
-| 41 | [Mandala](http://twitter.com/search?q=Mandala) | N/A |
-| 42 | [श्री लक्ष्मी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80) | N/A |
-| 43 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 44 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 45 | [evil eyes off sumaan](http://twitter.com/search?q=evil+eyes+off+sumaan) | N/A |
-| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 12 | [RAPPER JIMIN](http://twitter.com/search?q=RAPPER+JIMIN) | N/A |
+| 13 | [जनरल बिपिन रावत](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%ac%e0%a4%bf%e0%a4%aa%e0%a4%bf%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
+| 14 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 15 | [प्रथम महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 16 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [पद्म भूषण](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%b7%e0%a4%a3) | N/A |
+| 19 | [श्री मनोहर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0) | N/A |
+| 20 | [Dinner with SRK](http://twitter.com/search?q=Dinner+with+SRK) | N/A |
+| 21 | [साइना नेहवाल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%87%e0%a4%a8%e0%a4%be+%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 22 | [designed for indian weddings](http://twitter.com/search?q=designed+for+indian+weddings) | N/A |
+| 23 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 24 | [JIMIN'S RAP](http://twitter.com/search?q=JIMIN%27S+RAP) | N/A |
+| 25 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 26 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 27 | [justice4ssr longest satyagraha](http://twitter.com/search?q=justice4ssr+longest+satyagraha) | N/A |
+| 28 | [Sher](http://twitter.com/search?q=Sher) | N/A |
+| 29 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 30 | [Jairam Ramesh](http://twitter.com/search?q=Jairam+Ramesh) | N/A |
+| 31 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 32 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 33 | [india against modani](http://twitter.com/search?q=india+against+modani) | N/A |
+| 34 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 35 | [पावर हाउस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%b0+%e0%a4%b9%e0%a4%be%e0%a4%89%e0%a4%b8) | N/A |
+| 36 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 37 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 38 | [प्रथम रक्षा प्रमुख](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
+| 39 | [Sushant Nuggets Of Wisdom](http://twitter.com/search?q=Sushant+Nuggets+Of+Wisdom) | N/A |
+| 40 | [munawar x jassie mv out tmrw](http://twitter.com/search?q=munawar+x+jassie+mv+out+tmrw) | N/A |
+| 41 | [Rajesh Gopinathan](http://twitter.com/search?q=Rajesh+Gopinathan) | N/A |
+| 42 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 43 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 44 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 45 | [Very Good Morning](http://twitter.com/search?q=Very+Good+Morning) | N/A |
+| 46 | [Asharamji Bapu Case](http://twitter.com/search?q=Asharamji+Bapu+Case) | N/A |
 | 47 | [जयराम रमेश](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6) | N/A |
 
 
