@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-17 15:16:29 UTC`
+📆 Last Updated: `2023-03-17 16:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 2 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
-| 3 | [#FreePC](http://twitter.com/search?q=%23FreePC) | N/A |
-| 4 | [Corbetts Cross](http://twitter.com/search?q=Corbetts+Cross) | N/A |
-| 5 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 6 | [Stay Away Fay](http://twitter.com/search?q=Stay+Away+Fay) | N/A |
-| 7 | [#VibeMePaddy](http://twitter.com/search?q=%23VibeMePaddy) | N/A |
+| 2 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
+| 3 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
+| 4 | [#FreePC](http://twitter.com/search?q=%23FreePC) | N/A |
+| 5 | [#GoldCup](http://twitter.com/search?q=%23GoldCup) | N/A |
+| 6 | [Corbetts Cross](http://twitter.com/search?q=Corbetts+Cross) | N/A |
+| 7 | [Stay Away Fay](http://twitter.com/search?q=Stay+Away+Fay) | N/A |
 | 8 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 11 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 9 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 10 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 12 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 13 | [Lossiemouth](http://twitter.com/search?q=Lossiemouth) | N/A |
-| 14 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 15 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 16 | [Jacqueline Gold](http://twitter.com/search?q=Jacqueline+Gold) | N/A |
-| 17 | [Blood Destiny](http://twitter.com/search?q=Blood+Destiny) | N/A |
-| 18 | [Pied Piper](http://twitter.com/search?q=Pied+Piper) | N/A |
-| 19 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 20 | [Ann Summers](http://twitter.com/search?q=Ann+Summers) | N/A |
-| 21 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 22 | [Triumph Hurdle](http://twitter.com/search?q=Triumph+Hurdle) | N/A |
-| 23 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 24 | [Mark Walsh](http://twitter.com/search?q=Mark+Walsh) | N/A |
-| 25 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
-| 26 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 27 | [mother's day](http://twitter.com/search?q=mother%27s+day) | N/A |
-| 28 | [Albert Bartlett](http://twitter.com/search?q=Albert+Bartlett) | N/A |
-| 29 | [County Hurdle](http://twitter.com/search?q=County+Hurdle) | N/A |
-| 30 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 31 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 32 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 34 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
-| 35 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
-| 36 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 37 | [St George](http://twitter.com/search?q=St+George) | N/A |
-| 38 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 39 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 40 | [Dalian Atkinson](http://twitter.com/search?q=Dalian+Atkinson) | N/A |
-| 41 | [Hunters Yarn](http://twitter.com/search?q=Hunters+Yarn) | N/A |
-| 42 | [Katelyn](http://twitter.com/search?q=Katelyn) | N/A |
-| 43 | [Pembroke](http://twitter.com/search?q=Pembroke) | N/A |
-| 44 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 45 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
-| 46 | [Stone Cold Steve Austin](http://twitter.com/search?q=Stone+Cold+Steve+Austin) | N/A |
-| 47 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 48 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 49 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 13 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
+| 14 | [Hewick](http://twitter.com/search?q=Hewick) | N/A |
+| 15 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 16 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 19 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 20 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
+| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 22 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 23 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
+| 24 | [Lossiemouth](http://twitter.com/search?q=Lossiemouth) | N/A |
+| 25 | [St George](http://twitter.com/search?q=St+George) | N/A |
+| 26 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 27 | [Jacqueline Gold](http://twitter.com/search?q=Jacqueline+Gold) | N/A |
+| 28 | [Ron Martin](http://twitter.com/search?q=Ron+Martin) | N/A |
+| 29 | [Dalian Atkinson](http://twitter.com/search?q=Dalian+Atkinson) | N/A |
+| 30 | [Mark Walsh](http://twitter.com/search?q=Mark+Walsh) | N/A |
+| 31 | [Katelyn](http://twitter.com/search?q=Katelyn) | N/A |
+| 32 | [Gent](http://twitter.com/search?q=Gent) | N/A |
+| 33 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 35 | [triumph hurdle](http://twitter.com/search?q=triumph+hurdle) | N/A |
+| 36 | [Pied Piper](http://twitter.com/search?q=Pied+Piper) | N/A |
+| 37 | [Andrew Bridgen](http://twitter.com/search?q=Andrew+Bridgen) | Andrew Bridgen is a British Conservative Party politician who has been the Member of Parliament (MP) for North West Leicestershire since 2010. He is a prominent Brexiteer and has been an outspoken critic of the European Union. |
+| 38 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
+| 39 | [Albert Bartlett](http://twitter.com/search?q=Albert+Bartlett) | N/A |
+| 40 | [Year 2](http://twitter.com/search?q=Year+2) | N/A |
+| 41 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
+| 42 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 43 | [Ann Summers](http://twitter.com/search?q=Ann+Summers) | N/A |
+| 44 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
+| 45 | [Conflated](http://twitter.com/search?q=Conflated) | N/A |
+| 46 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
+| 47 | [County Hurdle](http://twitter.com/search?q=County+Hurdle) | N/A |
+| 48 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 49 | [Blood Destiny](http://twitter.com/search?q=Blood+Destiny) | N/A |
 
 
 

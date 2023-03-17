@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-17 15:17:15 UTC`
+📆 Last Updated: `2023-03-17 16:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 2 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
-| 3 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 4 | [#Regenbogenblut](http://twitter.com/search?q=%23Regenbogenblut) | N/A |
-| 5 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 6 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 7 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
-| 8 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 9 | [#shoppingqueen](http://twitter.com/search?q=%23shoppingqueen) | N/A |
-| 10 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 11 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 12 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 13 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 14 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 15 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
-| 16 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 18 | [Bundesverfassungsgericht](http://twitter.com/search?q=Bundesverfassungsgericht) | N/A |
-| 19 | [#hansa](http://twitter.com/search?q=%23hansa) | N/A |
-| 20 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 21 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 22 | [Zweitstimmen](http://twitter.com/search?q=Zweitstimmen) | N/A |
-| 23 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 24 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 25 | [Direktkandidaten](http://twitter.com/search?q=Direktkandidaten) | N/A |
-| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 27 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 28 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
-| 29 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [Auslosung](http://twitter.com/search?q=Auslosung) | N/A |
-| 32 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 33 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 34 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 35 | [Karlsruhe](http://twitter.com/search?q=Karlsruhe) | N/A |
-| 36 | [Bundesländer](http://twitter.com/search?q=Bundesl%c3%a4nder) | N/A |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 39 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 40 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
-| 41 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 42 | [#Invest2023](http://twitter.com/search?q=%23Invest2023) | N/A |
-| 43 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 44 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 45 | [#Bremen](http://twitter.com/search?q=%23Bremen) | N/A |
-| 46 | [#Demokratie](http://twitter.com/search?q=%23Demokratie) | N/A |
+| 1 | [Haftbefehl gegen Putin](http://twitter.com/search?q=Haftbefehl+gegen+Putin) | N/A |
+| 2 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 3 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 4 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
+| 5 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
+| 6 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
+| 7 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 8 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 9 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 10 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 11 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 12 | [#Regenbogenblut](http://twitter.com/search?q=%23Regenbogenblut) | N/A |
+| 13 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
+| 14 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 15 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 16 | [#IchBinHanna](http://twitter.com/search?q=%23IchBinHanna) | N/A |
+| 17 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
+| 18 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 19 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 20 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 21 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 22 | [finale](http://twitter.com/search?q=finale) | N/A |
+| 23 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 24 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 25 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 26 | [Bundesverfassungsgericht](http://twitter.com/search?q=Bundesverfassungsgericht) | N/A |
+| 27 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
+| 28 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 29 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 30 | [Direktkandidaten](http://twitter.com/search?q=Direktkandidaten) | N/A |
+| 31 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 32 | [Karlsruhe](http://twitter.com/search?q=Karlsruhe) | N/A |
+| 33 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
+| 34 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 35 | [Integration](http://twitter.com/search?q=Integration) | N/A |
+| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 37 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 38 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 39 | [Bremen](http://twitter.com/search?q=Bremen) | N/A |
+| 40 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 43 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
+| 44 | [Bundesländer](http://twitter.com/search?q=Bundesl%c3%a4nder) | N/A |
+| 45 | [Fraktion](http://twitter.com/search?q=Fraktion) | N/A |
+| 46 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
+| 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 48 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 49 | [#shoppingqueen](http://twitter.com/search?q=%23shoppingqueen) | N/A |
+| 50 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
 
 
 

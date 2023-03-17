@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-17 15:17:14 UTC`
+📆 Last Updated: `2023-03-17 16:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Colombia
 | ------- | ------------ | ------------ |
 | 1 | [#PorFavorNoMas](http://twitter.com/search?q=%23PorFavorNoMas) | N/A |
 | 2 | [#AsíVaLaSalud](http://twitter.com/search?q=%23As%c3%adVaLaSalud) | N/A |
-| 3 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 4 | [#TrabajemosEn](http://twitter.com/search?q=%23TrabajemosEn) | N/A |
+| 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 4 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 5 | [#TrabajoPorElCambio](http://twitter.com/search?q=%23TrabajoPorElCambio) | N/A |
-| 6 | [#ReformaLaboral](http://twitter.com/search?q=%23ReformaLaboral) | N/A |
-| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [#TrabajemosEn](http://twitter.com/search?q=%23TrabajemosEn) | N/A |
+| 7 | [#ReformaLaboral](http://twitter.com/search?q=%23ReformaLaboral) | N/A |
+| 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 9 | [Paul McCartney](http://twitter.com/search?q=Paul+McCartney) | N/A |
+| 10 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 11 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 12 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 13 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 14 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 15 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 16 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
-| 17 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 18 | [Upegui](http://twitter.com/search?q=Upegui) | N/A |
-| 19 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 14 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 17 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 19 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
 | 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 21 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
-| 22 | [Sondeo Virtual](http://twitter.com/search?q=Sondeo+Virtual) | N/A |
-| 23 | [Ferxxo 81](http://twitter.com/search?q=Ferxxo+81) | N/A |
-| 24 | [Gris](http://twitter.com/search?q=Gris) | N/A |
-| 25 | [Aguachica](http://twitter.com/search?q=Aguachica) | N/A |
-| 26 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 27 | [Mauricio Bohórquez](http://twitter.com/search?q=Mauricio+Boh%c3%b3rquez) | N/A |
-| 28 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 29 | [Fenalco](http://twitter.com/search?q=Fenalco) | N/A |
-| 30 | [Vive Colombia](http://twitter.com/search?q=Vive+Colombia) | N/A |
-| 31 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 32 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 33 | [Rentería](http://twitter.com/search?q=Renter%c3%ada) | N/A |
-| 34 | [Sutatausa](http://twitter.com/search?q=Sutatausa) | N/A |
-| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 36 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
+| 21 | [Upegui](http://twitter.com/search?q=Upegui) | N/A |
+| 22 | [sondeo](http://twitter.com/search?q=sondeo) | N/A |
+| 23 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
+| 24 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
+| 25 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 26 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 27 | [Ferxxo 81](http://twitter.com/search?q=Ferxxo+81) | N/A |
+| 28 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 29 | [mauricio bohórquez](http://twitter.com/search?q=mauricio+boh%c3%b3rquez) | N/A |
+| 30 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 31 | [aguachica](http://twitter.com/search?q=aguachica) | N/A |
+| 32 | [Vive Colombia](http://twitter.com/search?q=Vive+Colombia) | N/A |
+| 33 | [Gris](http://twitter.com/search?q=Gris) | N/A |
+| 34 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 35 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 36 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
 | 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 38 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 39 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 40 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 41 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
-| 42 | [Preocupante](http://twitter.com/search?q=Preocupante) | N/A |
-| 43 | [Leo Castro](http://twitter.com/search?q=Leo+Castro) | N/A |
-| 44 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 45 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 46 | [Racero](http://twitter.com/search?q=Racero) | N/A |
-| 47 | [Castilla](http://twitter.com/search?q=Castilla) | N/A |
-| 48 | [Rosado](http://twitter.com/search?q=Rosado) | N/A |
-| 49 | [Casale](http://twitter.com/search?q=Casale) | N/A |
-| 50 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 38 | [Fenalco](http://twitter.com/search?q=Fenalco) | N/A |
+| 39 | [Rentería](http://twitter.com/search?q=Renter%c3%ada) | N/A |
+| 40 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 41 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 42 | [Racero](http://twitter.com/search?q=Racero) | N/A |
+| 43 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
+| 44 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 45 | [Sutatausa](http://twitter.com/search?q=Sutatausa) | N/A |
+| 46 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 47 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 48 | [leo castro](http://twitter.com/search?q=leo+castro) | N/A |
+| 49 | [Leyva](http://twitter.com/search?q=Leyva) | N/A |
+| 50 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
 
 
 

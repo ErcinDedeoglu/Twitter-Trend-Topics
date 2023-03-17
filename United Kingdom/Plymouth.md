@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Plymouth
 
-📆 Last Updated: `2023-03-17 15:16:29 UTC`
+📆 Last Updated: `2023-03-17 16:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The Undertaker](http://twitter.com/search?q=The+Undertaker) | N/A |
-| 2 | [#TowergateChick](http://twitter.com/search?q=%23TowergateChick) | N/A |
-| 3 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 4 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 5 | [parish](http://twitter.com/search?q=parish) | N/A |
-| 6 | [Forde](http://twitter.com/search?q=Forde) | N/A |
-| 7 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 8 | [#fundraising](http://twitter.com/search?q=%23fundraising) | N/A |
-| 9 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
-| 10 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 11 | [#ShazamFuryOfTheGods](http://twitter.com/search?q=%23ShazamFuryOfTheGods) | N/A |
-| 12 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
-| 13 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 14 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
-| 15 | [Corbetts Cross](http://twitter.com/search?q=Corbetts+Cross) | N/A |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [Stay Away Fay](http://twitter.com/search?q=Stay+Away+Fay) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 20 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 21 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 22 | [Lossiemouth](http://twitter.com/search?q=Lossiemouth) | N/A |
-| 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [Jacqueline Gold](http://twitter.com/search?q=Jacqueline+Gold) | N/A |
-| 26 | [Blood Destiny](http://twitter.com/search?q=Blood+Destiny) | N/A |
-| 27 | [Pied Piper](http://twitter.com/search?q=Pied+Piper) | N/A |
-| 28 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 29 | [Ann Summers](http://twitter.com/search?q=Ann+Summers) | N/A |
-| 30 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 31 | [Triumph Hurdle](http://twitter.com/search?q=Triumph+Hurdle) | N/A |
-| 32 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 33 | [Mark Walsh](http://twitter.com/search?q=Mark+Walsh) | N/A |
-| 34 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
-| 35 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 36 | [mother's day](http://twitter.com/search?q=mother%27s+day) | N/A |
-| 37 | [Albert Bartlett](http://twitter.com/search?q=Albert+Bartlett) | N/A |
-| 38 | [County Hurdle](http://twitter.com/search?q=County+Hurdle) | N/A |
-| 39 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 40 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 41 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 42 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 1 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 2 | [The Irish](http://twitter.com/search?q=The+Irish) | N/A |
+| 3 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 4 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 5 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 6 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
+| 7 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 8 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 9 | [#ShazamFuryOfTheGods](http://twitter.com/search?q=%23ShazamFuryOfTheGods) | N/A |
+| 10 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
+| 11 | [#TowergateChick](http://twitter.com/search?q=%23TowergateChick) | N/A |
+| 12 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 13 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 14 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 15 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 16 | [#BritishBookAwards](http://twitter.com/search?q=%23BritishBookAwards) | N/A |
+| 17 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 18 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
+| 19 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 20 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
+| 21 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
+| 22 | [Corbetts Cross](http://twitter.com/search?q=Corbetts+Cross) | N/A |
+| 23 | [Stay Away Fay](http://twitter.com/search?q=Stay+Away+Fay) | N/A |
+| 24 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 25 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 27 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 28 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
+| 29 | [Hewick](http://twitter.com/search?q=Hewick) | N/A |
+| 30 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 31 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 34 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 35 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
+| 36 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 37 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 38 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
+| 39 | [Lossiemouth](http://twitter.com/search?q=Lossiemouth) | N/A |
+| 40 | [St George](http://twitter.com/search?q=St+George) | N/A |
+| 41 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 42 | [Jacqueline Gold](http://twitter.com/search?q=Jacqueline+Gold) | N/A |
 | 43 | [Dalian Atkinson](http://twitter.com/search?q=Dalian+Atkinson) | N/A |
-| 44 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
-| 45 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
-| 46 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 47 | [St George](http://twitter.com/search?q=St+George) | N/A |
-| 48 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 49 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 44 | [Ron Martin](http://twitter.com/search?q=Ron+Martin) | N/A |
+| 45 | [Mark Walsh](http://twitter.com/search?q=Mark+Walsh) | N/A |
+| 46 | [Katelyn](http://twitter.com/search?q=Katelyn) | N/A |
+| 47 | [Gent](http://twitter.com/search?q=Gent) | N/A |
+| 48 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 49 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 
 
 

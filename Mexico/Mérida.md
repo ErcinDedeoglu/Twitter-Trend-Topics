@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-03-17 15:16:31 UTC`
+📆 Last Updated: `2023-03-17 16:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,44 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 2 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 3 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 4 | [Lázaro Cárdenas Batel](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas+Batel) | N/A |
-| 5 | [#KornoConFOMO](http://twitter.com/search?q=%23KornoConFOMO) | N/A |
-| 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [CELAC](http://twitter.com/search?q=CELAC) | CELAC stands for the Community of Latin American and Caribbean States. It is an intergovernmental organization that was created in 2011 to promote regional integration and cooperation among its 33 member states. The organization's mission is to strengthen political dialogue, economic integration, and social inclusion in the region. In English, CELAC stands for the Community of Latin American and Caribbean States. |
-| 9 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 4 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
+| 5 | [#PoderosoVerde](http://twitter.com/search?q=%23PoderosoVerde) | N/A |
+| 6 | [Lázaro Cárdenas Batel](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas+Batel) | N/A |
+| 7 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 9 | [CELAC](http://twitter.com/search?q=CELAC) | CELAC stands for the Community of Latin American and Caribbean States. It is an intergovernmental organization that was created in 2011 to promote regional integration and cooperation among its 33 member states. The organization's mission is to strengthen political dialogue, economic integration, and social inclusion in the region. In English, CELAC stands for the Community of Latin American and Caribbean States. |
 | 10 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
-| 11 | [#ProgramacionMañanera](http://twitter.com/search?q=%23ProgramacionMa%c3%b1anera) | N/A |
-| 12 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 17 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 19 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 20 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
-| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 22 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 24 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 25 | [Ignacio Ovalle](http://twitter.com/search?q=Ignacio+Ovalle) | N/A |
-| 26 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 27 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 28 | [Cuartos de Final](http://twitter.com/search?q=Cuartos+de+Final) | N/A |
-| 29 | [Omar Núñez](http://twitter.com/search?q=Omar+N%c3%ba%c3%b1ez) | N/A |
-| 30 | [Soberanía](http://twitter.com/search?q=Soberan%c3%ada) | N/A |
-| 31 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 32 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
-| 33 | [#StPatrickDay](http://twitter.com/search?q=%23StPatrickDay) | N/A |
-| 34 | [#TelediarioMatutino](http://twitter.com/search?q=%23TelediarioMatutino) | N/A |
-| 35 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 36 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
-| 37 | [#AURAMExBecky](http://twitter.com/search?q=%23AURAMExBecky) | N/A |
-| 38 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 39 | [#bullying](http://twitter.com/search?q=%23bullying) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [#KornoConFOMO](http://twitter.com/search?q=%23KornoConFOMO) | N/A |
+| 13 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 15 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 16 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 17 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
+| 18 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
+| 19 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
+| 22 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 23 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 24 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 25 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
+| 26 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 27 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 28 | [Viernes 17](http://twitter.com/search?q=Viernes+17) | N/A |
+| 29 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 30 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 31 | [Irapuato](http://twitter.com/search?q=Irapuato) | N/A |
+| 32 | [Melissa Galindo](http://twitter.com/search?q=Melissa+Galindo) | N/A |
+| 33 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 34 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 35 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 36 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
+| 37 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 38 | [Soberanía](http://twitter.com/search?q=Soberan%c3%ada) | N/A |
+| 39 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
+| 40 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 41 | [Cuartos de Final](http://twitter.com/search?q=Cuartos+de+Final) | N/A |
+| 42 | [#ProgramacionMañanera](http://twitter.com/search?q=%23ProgramacionMa%c3%b1anera) | N/A |
+| 43 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 44 | [#DíaMundialDelSueño](http://twitter.com/search?q=%23D%c3%adaMundialDelSue%c3%b1o) | N/A |
+| 45 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 46 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 47 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 48 | [#TelediarioMatutino](http://twitter.com/search?q=%23TelediarioMatutino) | N/A |
+| 49 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
+| 50 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
 
 
 

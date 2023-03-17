@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-17 15:16:43 UTC`
+📆 Last Updated: `2023-03-17 16:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 5 | [Reform](http://twitter.com/search?q=Reform) | N/A |
 | 6 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 7 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 8 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 9 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 10 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 12 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 7 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 8 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 9 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 10 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Zola](http://twitter.com/search?q=Zola) | N/A |
 | 13 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 14 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 15 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 16 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 17 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
-| 18 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 19 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 20 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
-| 21 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 22 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
-| 23 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 24 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 25 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
-| 26 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 27 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 28 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 29 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 32 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 33 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 34 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 35 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
-| 36 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 37 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 38 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
-| 39 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
-| 40 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
-| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 42 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
-| 45 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 46 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 47 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 48 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 17 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 18 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 19 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 20 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 21 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 22 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
+| 23 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 24 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 25 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 26 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 27 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 28 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 29 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 30 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
+| 31 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 32 | [verluste](http://twitter.com/search?q=verluste) | N/A |
+| 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 35 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 36 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 37 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 38 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 39 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 40 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 41 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 42 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 43 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 44 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 45 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 46 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 47 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 48 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
 
 
 

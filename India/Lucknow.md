@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-17 15:17:00 UTC`
+📆 Last Updated: `2023-03-17 16:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [पावर हाउस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%b0+%e0%a4%b9%e0%a4%be%e0%a4%89%e0%a4%b8) | N/A |
-| 2 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 3 | [बिजली आपूर्ति](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 4 | [आम जनता](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
-| 5 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 6 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 7 | [#AmitShahAtIndiaTodayConclave](http://twitter.com/search?q=%23AmitShahAtIndiaTodayConclave) | N/A |
-| 8 | [#RamCharanAtConclave](http://twitter.com/search?q=%23RamCharanAtConclave) | N/A |
-| 9 | [#teamrario](http://twitter.com/search?q=%23teamrario) | N/A |
-| 10 | [#TeluguPrideNTRAtDhamki](http://twitter.com/search?q=%23TeluguPrideNTRAtDhamki) | N/A |
-| 11 | [Must Watch Shubh Nikah](http://twitter.com/search?q=Must+Watch+Shubh+Nikah) | N/A |
-| 12 | [जयपुर उत्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
-| 13 | [REMOVE FARHAD FROM HERAPHERI](http://twitter.com/search?q=REMOVE+FARHAD+FROM+HERAPHERI) | N/A |
-| 14 | [bholaa in match](http://twitter.com/search?q=bholaa+in+match) | N/A |
-| 15 | [जयपुर दक्षिण](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3) | N/A |
+| 2 | [आम जनता](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
+| 3 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 4 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 5 | [#AmitShahAtIndiaTodayConclave](http://twitter.com/search?q=%23AmitShahAtIndiaTodayConclave) | N/A |
+| 6 | [#MrsChatterjeeInCinemas](http://twitter.com/search?q=%23MrsChatterjeeInCinemas) | N/A |
+| 7 | [#RamCharanAtConclave](http://twitter.com/search?q=%23RamCharanAtConclave) | N/A |
+| 8 | [#TeluguPrideNTRAtDhamki](http://twitter.com/search?q=%23TeluguPrideNTRAtDhamki) | N/A |
+| 9 | [ArticleBy ArhanBagati Kyari](http://twitter.com/search?q=ArticleBy+ArhanBagati+Kyari) | N/A |
+| 10 | [save the bakkarwals](http://twitter.com/search?q=save+the+bakkarwals) | N/A |
+| 11 | [REMOVE FARHAD FROM HERAPHERI](http://twitter.com/search?q=REMOVE+FARHAD+FROM+HERAPHERI) | N/A |
+| 12 | [जयपुर दक्षिण](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3) | N/A |
+| 13 | [जयपुर उत्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
+| 14 | [Must Watch Shubh Nikah](http://twitter.com/search?q=Must+Watch+Shubh+Nikah) | N/A |
+| 15 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
 | 16 | [जोधपुर पूर्व](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
 | 17 | [जोधपुर पश्चिम](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae) | N/A |
-| 18 | [Save The Bakkarwals](http://twitter.com/search?q=Save+The+Bakkarwals) | N/A |
-| 19 | [Aman Ki Quote](http://twitter.com/search?q=Aman+Ki+Quote) | N/A |
-| 20 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 21 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 22 | [मुख्यमंत्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 23 | [गंगापुर सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 26 | [डीडवाना कुचामन](http://twitter.com/search?q=%e0%a4%a1%e0%a5%80%e0%a4%a1%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a4%be+%e0%a4%95%e0%a5%81%e0%a4%9a%e0%a4%be%e0%a4%ae%e0%a4%a8) | N/A |
-| 27 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 30 | [Sushant Lone Warrior In BW](http://twitter.com/search?q=Sushant+Lone+Warrior+In+BW) | N/A |
-| 31 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
-| 32 | [बिजली गुल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2) | N/A |
-| 33 | [सीएम अशोक गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 34 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 35 | [करुणा यादव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 36 | [ALL ROUNDER INTERN V](http://twitter.com/search?q=ALL+ROUNDER+INTERN+V) | N/A |
-| 37 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
-| 38 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 39 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
-| 40 | [ajay devgan](http://twitter.com/search?q=ajay+devgan) | N/A |
-| 41 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
-| 42 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 43 | [Mute](http://twitter.com/search?q=Mute) | N/A |
-| 44 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 45 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 46 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
-| 47 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 48 | [बिजली सप्लाई](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%88) | N/A |
-| 49 | [विद्युत विभाग](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 50 | [Huge Impact](http://twitter.com/search?q=Huge+Impact) | N/A |
+| 18 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 19 | [Sushant Lone Warrior In BW](http://twitter.com/search?q=Sushant+Lone+Warrior+In+BW) | N/A |
+| 20 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 21 | [गंगापुर सिटी](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%9f%e0%a5%80) | N/A |
+| 22 | [करुणा यादव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 23 | [Venkatesh Prasad](http://twitter.com/search?q=Venkatesh+Prasad) | N/A |
+| 24 | [बिजली गुल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2) | N/A |
+| 25 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 26 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 27 | [डीडवाना कुचामन](http://twitter.com/search?q=%e0%a4%a1%e0%a5%80%e0%a4%a1%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a4%be+%e0%a4%95%e0%a5%81%e0%a4%9a%e0%a4%be%e0%a4%ae%e0%a4%a8) | N/A |
+| 28 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 30 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 31 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 35 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 36 | [1st ODI](http://twitter.com/search?q=1st+ODI) | N/A |
+| 37 | [बिजली आपूर्ति](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 38 | [ALL ROUNDER INTERN V](http://twitter.com/search?q=ALL+ROUNDER+INTERN+V) | N/A |
+| 39 | [विद्युत विभाग](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 40 | [जिला मुख्यालय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 41 | [Shami](http://twitter.com/search?q=Shami) | Shami is a type of flatbread that is popular in the Middle East and South Asia. It is made from wheat flour, oil, and water, and is usually served with a variety of dips or curries. The name "Shami" comes from the Persian word for "flatbread". In English, it can also be referred to as "Lebanese flatbread". |
+| 42 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
+| 43 | [सीएम गहलोत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%8f%e0%a4%ae+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 44 | [Mute](http://twitter.com/search?q=Mute) | N/A |
+| 45 | [विद्युत सप्लाई](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%88) | N/A |
+| 46 | [बिजली सप्लाई](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%88) | N/A |
+| 47 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 48 | [Huge Impact](http://twitter.com/search?q=Huge+Impact) | N/A |
+| 49 | [वानखेड़े स्टेडियम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
+| 50 | [Sanju](http://twitter.com/search?q=Sanju) | N/A |
 
 
 
