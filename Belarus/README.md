@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-17 18:17:51 UTC`
+📆 Last Updated: `2023-03-17 19:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,29 +18,35 @@ This is top 50 for Belarus
 | 1 | [Чимина](http://twitter.com/search?q=%d0%a7%d0%b8%d0%bc%d0%b8%d0%bd%d0%b0) | N/A |
 | 2 | [#импровизаторыНаСТС](http://twitter.com/search?q=%23%d0%b8%d0%bc%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%b7%d0%b0%d1%82%d0%be%d1%80%d1%8b%d0%9d%d0%b0%d0%a1%d0%a2%d0%a1) | N/A |
 | 3 | [Скоро](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%be) | N/A |
-| 4 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
-| 5 | [польше](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 6 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 7 | [Обязательно](http://twitter.com/search?q=%d0%9e%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 8 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
-| 9 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 10 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
-| 11 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 12 | [Республики Беларусь](http://twitter.com/search?q=%d0%a0%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b8+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 13 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 14 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 15 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 16 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
-| 17 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 18 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
-| 19 | [Гродно](http://twitter.com/search?q=%d0%93%d1%80%d0%be%d0%b4%d0%bd%d0%be) | N/A |
-| 20 | [бресте](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
-| 21 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
-| 22 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 23 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
-| 24 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 25 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
-| 26 | [Получается](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f) | N/A |
+| 4 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
+| 5 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
+| 6 | [Обязательно](http://twitter.com/search?q=%d0%9e%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 7 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
+| 8 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
+| 9 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 10 | [Республики Беларусь](http://twitter.com/search?q=%d0%a0%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b8+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 11 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 12 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 13 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
+| 14 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 15 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 16 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
+| 17 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 18 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 19 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
+| 20 | [#AIart](http://twitter.com/search?q=%23AIart) | N/A |
+| 21 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
+| 22 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
+| 23 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
+| 24 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
+| 25 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
+| 26 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 27 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 28 | [бресте](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
+| 29 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 30 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 31 | [Гродно](http://twitter.com/search?q=%d0%93%d1%80%d0%be%d0%b4%d0%bd%d0%be) | N/A |
+| 32 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
 
 
 

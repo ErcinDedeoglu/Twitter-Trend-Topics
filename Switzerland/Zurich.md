@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-17 18:17:16 UTC`
+📆 Last Updated: `2023-03-17 19:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [Haftbefehl gegen Putin](http://twitter.com/search?q=Haftbefehl+gegen+Putin) | N/A |
 | 2 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 3 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 4 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 5 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 6 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 3 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 4 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 5 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 6 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
 | 7 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 8 | [#LeTempsenacceslibre](http://twitter.com/search?q=%23LeTempsenacceslibre) | N/A |
-| 9 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 10 | [#Lausanne](http://twitter.com/search?q=%23Lausanne) | N/A |
-| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 12 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 14 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 15 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 16 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 17 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
-| 18 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 19 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 20 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 21 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 22 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 23 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 24 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 25 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 26 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
-| 27 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 28 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 30 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
-| 31 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 32 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
-| 33 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 34 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 35 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 36 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 39 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
-| 40 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
-| 41 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
-| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
-| 45 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 46 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 47 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 48 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 49 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 50 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 9 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 10 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 11 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 13 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 14 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 15 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 17 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 18 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 19 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 20 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 21 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 22 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 23 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
+| 24 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 25 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 26 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 27 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 28 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 29 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 30 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 31 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 32 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 34 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 35 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 36 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 37 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 38 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 40 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 42 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 43 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
+| 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 45 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 46 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 47 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 48 | [Stufe](http://twitter.com/search?q=Stufe) | N/A |
+| 49 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-17 18:16:59 UTC`
+📆 Last Updated: `2023-03-17 19:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 2 | [#FreePC](http://twitter.com/search?q=%23FreePC) | N/A |
-| 3 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
-| 4 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
-| 5 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 1 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 2 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 4 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 5 | [#FreePC](http://twitter.com/search?q=%23FreePC) | N/A |
 | 6 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 7 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 8 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 9 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
-| 10 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 11 | [Premier Magic](http://twitter.com/search?q=Premier+Magic) | N/A |
-| 12 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 13 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 14 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 15 | [Corbetts Cross](http://twitter.com/search?q=Corbetts+Cross) | N/A |
-| 16 | [Andrew Bridgen](http://twitter.com/search?q=Andrew+Bridgen) | Andrew Bridgen is a British Conservative Party politician who has been the Member of Parliament (MP) for North West Leicestershire since 2010. He is a prominent Brexiteer and has been an outspoken critic of the European Union. |
-| 17 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 18 | [Magic Daze](http://twitter.com/search?q=Magic+Daze) | N/A |
-| 19 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 20 | [Impervious](http://twitter.com/search?q=Impervious) | N/A |
-| 21 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 22 | [St George](http://twitter.com/search?q=St+George) | N/A |
-| 23 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 24 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
-| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 26 | [Katelyn](http://twitter.com/search?q=Katelyn) | N/A |
-| 27 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 28 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
-| 29 | [Hewick](http://twitter.com/search?q=Hewick) | N/A |
+| 7 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
+| 8 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
+| 9 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 10 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 11 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
+| 12 | [Murray Foote](http://twitter.com/search?q=Murray+Foote) | N/A |
+| 13 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 14 | [St George](http://twitter.com/search?q=St+George) | N/A |
+| 15 | [Andrew Bridgen](http://twitter.com/search?q=Andrew+Bridgen) | Andrew Bridgen is a British Conservative Party politician who has been the Member of Parliament (MP) for North West Leicestershire since 2010. He is a prominent Brexiteer and has been an outspoken critic of the European Union. |
+| 16 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 17 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 18 | [Premier Magic](http://twitter.com/search?q=Premier+Magic) | N/A |
+| 19 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 20 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 21 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
+| 22 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 23 | [Schar](http://twitter.com/search?q=Schar) | N/A |
+| 24 | [Magic Daze](http://twitter.com/search?q=Magic+Daze) | N/A |
+| 25 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 26 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 27 | [Impervious](http://twitter.com/search?q=Impervious) | N/A |
+| 28 | [Katelyn](http://twitter.com/search?q=Katelyn) | N/A |
+| 29 | [David Tennant](http://twitter.com/search?q=David+Tennant) | N/A |
 | 30 | [Dalian Atkinson](http://twitter.com/search?q=Dalian+Atkinson) | N/A |
-| 31 | [Stay Away Fay](http://twitter.com/search?q=Stay+Away+Fay) | N/A |
-| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
-| 34 | [Billaway](http://twitter.com/search?q=Billaway) | N/A |
-| 35 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 36 | [Liz Lloyd](http://twitter.com/search?q=Liz+Lloyd) | N/A |
+| 31 | [Liz Lloyd](http://twitter.com/search?q=Liz+Lloyd) | N/A |
+| 32 | [Corbetts Cross](http://twitter.com/search?q=Corbetts+Cross) | N/A |
+| 33 | [City Ground](http://twitter.com/search?q=City+Ground) | N/A |
+| 34 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 35 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 36 | [Stay Away Fay](http://twitter.com/search?q=Stay+Away+Fay) | N/A |
 | 37 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 38 | [mark walsh](http://twitter.com/search?q=mark+walsh) | N/A |
-| 39 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
-| 40 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 41 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 42 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 44 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
-| 45 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 46 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 47 | [Jacqueline Gold](http://twitter.com/search?q=Jacqueline+Gold) | N/A |
-| 48 | [DayZ](http://twitter.com/search?q=DayZ) | N/A |
-| 49 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 50 | [The Irish](http://twitter.com/search?q=The+Irish) | N/A |
+| 38 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
+| 39 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 40 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 42 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
+| 43 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 44 | [Hewick](http://twitter.com/search?q=Hewick) | N/A |
+| 45 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
+| 46 | [Celtic Park](http://twitter.com/search?q=Celtic+Park) | N/A |
+| 47 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
+| 48 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 49 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 50 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
 
 
 

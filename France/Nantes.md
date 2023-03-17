@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-17 18:17:10 UTC`
+📆 Last Updated: `2023-03-17 19:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,51 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
-| 2 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 3 | [#CombiParfait](http://twitter.com/search?q=%23CombiParfait) | N/A |
-| 4 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 5 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 6 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
-| 7 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 8 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 9 | [Cour](http://twitter.com/search?q=Cour) | N/A |
-| 10 | [Djamel](http://twitter.com/search?q=Djamel) | N/A |
-| 11 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 12 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 13 | [Bouygues](http://twitter.com/search?q=Bouygues) | N/A |
-| 14 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
-| 15 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
+| 1 | [#CombiParfait](http://twitter.com/search?q=%23CombiParfait) | N/A |
+| 2 | [#VHiveS2](http://twitter.com/search?q=%23VHiveS2) | N/A |
+| 3 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 4 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 5 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 6 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
+| 7 | [Djamel](http://twitter.com/search?q=Djamel) | N/A |
+| 8 | [Cour](http://twitter.com/search?q=Cour) | N/A |
+| 9 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
+| 10 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 11 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 12 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
+| 13 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 14 | [Baki](http://twitter.com/search?q=Baki) | N/A |
+| 15 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
 | 16 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 17 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 20 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 21 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 22 | [Peugeot](http://twitter.com/search?q=Peugeot) | N/A |
-| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 24 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 25 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 17 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
+| 18 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 19 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
+| 20 | [Bouygues](http://twitter.com/search?q=Bouygues) | N/A |
+| 21 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 23 | [Peugeot](http://twitter.com/search?q=Peugeot) | N/A |
+| 24 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 25 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
 | 26 | [Sarkozy](http://twitter.com/search?q=Sarkozy) | N/A |
-| 27 | [Occupe](http://twitter.com/search?q=Occupe) | N/A |
+| 27 | [Orange](http://twitter.com/search?q=Orange) | N/A |
 | 28 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 29 | [Chloé](http://twitter.com/search?q=Chlo%c3%a9) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 30 | [Occupe](http://twitter.com/search?q=Occupe) | N/A |
+| 31 | [Chloé](http://twitter.com/search?q=Chlo%c3%a9) | N/A |
 | 32 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 33 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
+| 33 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
 | 34 | [#penurieessence](http://twitter.com/search?q=%23penurieessence) | N/A |
-| 35 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 35 | [#OLFCN](http://twitter.com/search?q=%23OLFCN) | N/A |
 | 36 | [#LOLQuiRitSort3](http://twitter.com/search?q=%23LOLQuiRitSort3) | N/A |
-| 37 | [#1000MSebring](http://twitter.com/search?q=%231000MSebring) | N/A |
-| 38 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 39 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 40 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 41 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 42 | [#greve17mars](http://twitter.com/search?q=%23greve17mars) | N/A |
+| 37 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 38 | [#Concorde](http://twitter.com/search?q=%23Concorde) | N/A |
+| 39 | [#1000MSebring](http://twitter.com/search?q=%231000MSebring) | N/A |
+| 40 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 41 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
+| 42 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 43 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 44 | [#greve17mars](http://twitter.com/search?q=%23greve17mars) | N/A |
+| 45 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
 
 
 

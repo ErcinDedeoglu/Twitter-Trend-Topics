@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-03-17 18:17:58 UTC`
+📆 Last Updated: `2023-03-17 19:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Thailand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WelcomeYoungjaeToThailand](http://twitter.com/search?q=%23WelcomeYoungjaeToThailand) | N/A |
+| 1 | [#วิงค์ไวท์xอิงล็อต](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8cx%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
 | 2 | [#WelcomeBamBamToThailand](http://twitter.com/search?q=%23WelcomeBamBamToThailand) | N/A |
-| 3 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 4 | [#เป็นต่อ2023xNook_Thanadon](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%95%e0%b9%88%e0%b8%ad2023xNook_Thanadon) | N/A |
-| 5 | [#WelcomeiKONtoKCONTHAILAND](http://twitter.com/search?q=%23WelcomeiKONtoKCONTHAILAND) | N/A |
-| 6 | [BAMBAM SWEET HOME](http://twitter.com/search?q=BAMBAM+SWEET+HOME) | N/A |
-| 7 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
-| 8 | [A-level](http://twitter.com/search?q=A-level) | N/A |
-| 9 | [#NONTep02IsComing](http://twitter.com/search?q=%23NONTep02IsComing) | N/A |
-| 10 | [#WelcomeITZYtoThailand](http://twitter.com/search?q=%23WelcomeITZYtoThailand) | N/A |
-| 11 | [#นิกกี้ก้อย](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b8%81%e0%b8%81%e0%b8%b5%e0%b9%89%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%a2) | N/A |
-| 12 | [#aBossandaBabeEP3](http://twitter.com/search?q=%23aBossandaBabeEP3) | N/A |
-| 13 | [#JENSOO](http://twitter.com/search?q=%23JENSOO) | N/A |
-| 14 | [#แฉxหยดน้ําตา4EVE](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%89x%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b24EVE) | N/A |
-| 15 | [#รับสายผมหน่อยxNetJames](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%aa%e0%b8%b2%e0%b8%a2%e0%b8%9c%e0%b8%a1%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2xNetJames) | N/A |
-| 16 | [#ShowmeloveTheseriesEP3](http://twitter.com/search?q=%23ShowmeloveTheseriesEP3) | N/A |
-| 17 | [#วิงค์ไวท์xอิงล็อต](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8cx%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 18 | [#บอสมียูทูปแล้วนะรู้ยัง](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b8%a1%e0%b8%b5%e0%b8%a2%e0%b8%b9%e0%b8%97%e0%b8%b9%e0%b8%9b%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%99%e0%b8%b0%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%a2%e0%b8%b1%e0%b8%87) | N/A |
-| 19 | [#นุ่นสุทธิภา](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%a0%e0%b8%b2) | N/A |
-| 20 | [#เอ้วเริ่มเร้อะ](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%89%e0%b8%a7%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%b0) | N/A |
-| 21 | [#dek66](http://twitter.com/search?q=%23dek66) | #dek66 is a hashtag used on social media to refer to the 66th episode of the Japanese anime series, Demon Slayer. The hashtag is used to discuss the episode and share fan reactions. |
-| 22 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
-| 23 | [#Moveไปด้วยกัน](http://twitter.com/search?q=%23Move%e0%b9%84%e0%b8%9b%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
-| 24 | [#AlphaบุกICONSIAM](http://twitter.com/search?q=%23Alpha%e0%b8%9a%e0%b8%b8%e0%b8%81ICONSIAM) | N/A |
-| 25 | [#REACTอนลEP3กับคิงเอื้อ](http://twitter.com/search?q=%23REACT%e0%b8%ad%e0%b8%99%e0%b8%a5EP3%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%84%e0%b8%b4%e0%b8%87%e0%b9%80%e0%b8%ad%e0%b8%b7%e0%b9%89%e0%b8%ad) | N/A |
-| 26 | [#ยิ้มทั้งน้ําตา1stwin](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%97%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b21stwin) | N/A |
-| 27 | [#มิสแกรนด์กับอนาคตเมืองไทย](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%aa%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%95%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%84%e0%b8%97%e0%b8%a2) | N/A |
-| 28 | [#YVESXTARAYLS](http://twitter.com/search?q=%23YVESXTARAYLS) | N/A |
-| 29 | [#MchoiceinJAPAN](http://twitter.com/search?q=%23MchoiceinJAPAN) | N/A |
-| 30 | [#นางสาวไทย2566](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b9%84%e0%b8%97%e0%b8%a22566) | N/A |
-| 31 | [#ALevel66](http://twitter.com/search?q=%23ALevel66) | N/A |
-| 32 | [#MySchoolPresidentOnStageLIVE](http://twitter.com/search?q=%23MySchoolPresidentOnStageLIVE) | N/A |
-| 33 | [#TaeDarvid](http://twitter.com/search?q=%23TaeDarvid) | N/A |
-| 34 | [#SexyLaceXNetJames](http://twitter.com/search?q=%23SexyLaceXNetJames) | N/A |
-| 35 | [#RPL2023Summer](http://twitter.com/search?q=%23RPL2023Summer) | N/A |
-| 36 | [#สไปรท์เลมอนพลัสxจุงดัง](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%84%e0%b8%9b%e0%b8%a3%e0%b8%97%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%a1%e0%b8%ad%e0%b8%99%e0%b8%9e%e0%b8%a5%e0%b8%b1%e0%b8%aax%e0%b8%88%e0%b8%b8%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%87) | N/A |
-| 37 | [#BrightWin](http://twitter.com/search?q=%23BrightWin) | N/A |
-| 38 | [#เพลียต้องพลัสB3](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a5%e0%b8%b5%e0%b8%a2%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b8%a5%e0%b8%b1%e0%b8%aaB3) | N/A |
-| 39 | [#PeppermintFieldxPPKrit](http://twitter.com/search?q=%23PeppermintFieldxPPKrit) | N/A |
-| 40 | [#hongshihoshi](http://twitter.com/search?q=%23hongshihoshi) | N/A |
-| 41 | [#โบเยอรมันXTAYNEW](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9a%e0%b9%80%e0%b8%a2%e0%b8%ad%e0%b8%a3%e0%b8%a1%e0%b8%b1%e0%b8%99XTAYNEW) | N/A |
-| 42 | [#Newwiee](http://twitter.com/search?q=%23Newwiee) | N/A |
-| 43 | [#สตางค์วินนี่](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%95%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88) | N/A |
-| 44 | [#วอลเลย์บอลหญิง](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b9%8c%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ab%e0%b8%8d%e0%b8%b4%e0%b8%87) | N/A |
-| 45 | [#RSAxBANGKOK](http://twitter.com/search?q=%23RSAxBANGKOK) | N/A |
-| 46 | [#Builduremotion](http://twitter.com/search?q=%23Builduremotion) | N/A |
-| 47 | [#อาสามาหาเธอนะกรุงเทพ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%aa%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b9%80%e0%b8%98%e0%b8%ad%e0%b8%99%e0%b8%b0%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%9e) | N/A |
-| 48 | [#BamHome_EP9](http://twitter.com/search?q=%23BamHome_EP9) | N/A |
-| 49 | [#KCONTHAILAND2023](http://twitter.com/search?q=%23KCONTHAILAND2023) | N/A |
-| 50 | [#PreawpakxMew](http://twitter.com/search?q=%23PreawpakxMew) | N/A |
+| 3 | [#WelcomeYoungjaeToThailand](http://twitter.com/search?q=%23WelcomeYoungjaeToThailand) | N/A |
+| 4 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 5 | [#ดับแสงรวีTheMovie](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5TheMovie) | N/A |
+| 6 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
+| 7 | [joyful day17 to engfa](http://twitter.com/search?q=joyful+day17+to+engfa) | N/A |
+| 8 | [YangYang Streaming](http://twitter.com/search?q=YangYang+Streaming) | N/A |
+| 9 | [MISS MY SCHOOL PRESIDENT](http://twitter.com/search?q=MISS+MY+SCHOOL+PRESIDENT) | N/A |
+| 10 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 11 | [BOBBY - Drowning Teaser](http://twitter.com/search?q=BOBBY+-+Drowning+Teaser) | N/A |
+| 12 | [THE BOYZ Q & SUNWOO](http://twitter.com/search?q=THE+BOYZ+Q+%26+SUNWOO) | N/A |
+| 13 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 14 | [MIX & MAX](http://twitter.com/search?q=MIX+%26+MAX) | N/A |
+| 15 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 16 | [Gen Y](http://twitter.com/search?q=Gen+Y) | N/A |
+| 17 | [A-level](http://twitter.com/search?q=A-level) | N/A |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [#มิสแกรนด์กับอนาคตเมืองไทย](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%aa%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%95%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%84%e0%b8%97%e0%b8%a2) | N/A |
+| 20 | [#นิกกี้ก้อย](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b8%81%e0%b8%81%e0%b8%b5%e0%b9%89%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%a2) | N/A |
+| 21 | [#เป็นต่อ2023xNook_Thanadon](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%95%e0%b9%88%e0%b8%ad2023xNook_Thanadon) | N/A |
+| 22 | [#ShowmeloveTheseriesEP3](http://twitter.com/search?q=%23ShowmeloveTheseriesEP3) | N/A |
+| 23 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 24 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 25 | [#นุ่นสุทธิภา](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%a0%e0%b8%b2) | N/A |
+| 26 | [#aBossandaBabeEP3](http://twitter.com/search?q=%23aBossandaBabeEP3) | N/A |
+| 27 | [#NONTep02IsComing](http://twitter.com/search?q=%23NONTep02IsComing) | N/A |
+| 28 | [#AURAMExBecky](http://twitter.com/search?q=%23AURAMExBecky) | N/A |
+| 29 | [#WelcomeITZYtoThailand](http://twitter.com/search?q=%23WelcomeITZYtoThailand) | N/A |
+| 30 | [#สไปรท์เลมอนพลัสxจุงดัง](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%84%e0%b8%9b%e0%b8%a3%e0%b8%97%e0%b9%8c%e0%b9%80%e0%b8%a5%e0%b8%a1%e0%b8%ad%e0%b8%99%e0%b8%9e%e0%b8%a5%e0%b8%b1%e0%b8%aax%e0%b8%88%e0%b8%b8%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%87) | N/A |
+| 31 | [#WelcomeiKONtoKCONTHAILAND](http://twitter.com/search?q=%23WelcomeiKONtoKCONTHAILAND) | N/A |
+| 32 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
+| 33 | [#dek66](http://twitter.com/search?q=%23dek66) | #dek66 is a hashtag used on social media to refer to the 66th episode of the Japanese anime series, Demon Slayer. The hashtag is used to discuss the episode and share fan reactions. |
+| 34 | [#โบเยอรมันXTAYNEW](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9a%e0%b9%80%e0%b8%a2%e0%b8%ad%e0%b8%a3%e0%b8%a1%e0%b8%b1%e0%b8%99XTAYNEW) | N/A |
+| 35 | [#MySchoolPresidentOnStageLIVE](http://twitter.com/search?q=%23MySchoolPresidentOnStageLIVE) | N/A |
+| 36 | [#あんスタアイドルお面屋さん](http://twitter.com/search?q=%23%e3%81%82%e3%82%93%e3%82%b9%e3%82%bf%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%81%8a%e9%9d%a2%e5%b1%8b%e3%81%95%e3%82%93) | N/A |
+| 37 | [#CutiePieBloomingInTokyo](http://twitter.com/search?q=%23CutiePieBloomingInTokyo) | N/A |
+| 38 | [#AlphaบุกICONSIAM](http://twitter.com/search?q=%23Alpha%e0%b8%9a%e0%b8%b8%e0%b8%81ICONSIAM) | N/A |
+| 39 | [#JENSOO](http://twitter.com/search?q=%23JENSOO) | N/A |
+| 40 | [#alphaliveroomep1](http://twitter.com/search?q=%23alphaliveroomep1) | N/A |
+| 41 | [#KCON2023THAILAND](http://twitter.com/search?q=%23KCON2023THAILAND) | N/A |
+| 42 | [#taokaenoixfreenbeckylive](http://twitter.com/search?q=%23taokaenoixfreenbeckylive) | N/A |
+| 43 | [#ALevel66](http://twitter.com/search?q=%23ALevel66) | N/A |
+| 44 | [#พรุ่งนี้งานพรอมนิยมศิลป์](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%87%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%9e%e0%b8%a3%e0%b8%ad%e0%b8%a1%e0%b8%99%e0%b8%b4%e0%b8%a2%e0%b8%a1%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b9%8c) | N/A |
+| 45 | [#BamHome_EP9](http://twitter.com/search?q=%23BamHome_EP9) | N/A |
+| 46 | [#คนเดียวแปดล้านวิว](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b9%81%e0%b8%9b%e0%b8%94%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%a7%e0%b8%b4%e0%b8%a7) | N/A |
+| 47 | [#แฉxหยดน้ําตา4EVE](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%89x%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b24EVE) | N/A |
+| 48 | [#รับสายผมหน่อยxNetJames](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%aa%e0%b8%b2%e0%b8%a2%e0%b8%9c%e0%b8%a1%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2xNetJames) | N/A |
+| 49 | [#SexyLaceXNetJames](http://twitter.com/search?q=%23SexyLaceXNetJames) | N/A |
+| 50 | [#เอ้วเริ่มเร้อะ](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%89%e0%b8%a7%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%b0) | N/A |
 
 
 

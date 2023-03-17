@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-17 18:17:43 UTC`
+📆 Last Updated: `2023-03-17 19:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 2 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 4 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
-| 5 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 6 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 7 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 8 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
-| 9 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
-| 10 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 11 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 12 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
-| 13 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 14 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 15 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 16 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 17 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 18 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 19 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 20 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 21 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 22 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
-| 23 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 24 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 25 | [Carson Cooper](http://twitter.com/search?q=Carson+Cooper) | Carson Cooper is a name, derived from the English surname Carson and the given name Cooper. It is usually used as a first name for boys. |
-| 26 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
-| 27 | [Akins](http://twitter.com/search?q=Akins) | N/A |
-| 28 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
-| 29 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 30 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 31 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 32 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 33 | [Levi Haines](http://twitter.com/search?q=Levi+Haines) | N/A |
-| 34 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 35 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
-| 36 | [Fall 2](http://twitter.com/search?q=Fall+2) | N/A |
-| 37 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 38 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 39 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
-| 40 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
-| 41 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 42 | [Banners](http://twitter.com/search?q=Banners) | N/A |
-| 43 | [Lil Dirty](http://twitter.com/search?q=Lil+Dirty) | N/A |
-| 44 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 45 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
-| 46 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
-| 47 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 48 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 49 | [Trojans](http://twitter.com/search?q=Trojans) | Trojans is a term used to refer to malicious software, such as computer viruses, worms, and spyware. It is named after the Trojan Horse of Greek mythology, which was a large wooden horse filled with soldiers that was used to trick the city of Troy into letting it inside their walls. Trojans are designed to gain access to a computer system without the user's knowledge or permission. They can be used to steal data, install other malicious software, or even take control of the system. |
+| 1 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
+| 2 | [#FightOn](http://twitter.com/search?q=%23FightOn) | N/A |
+| 3 | [Trojans](http://twitter.com/search?q=Trojans) | Trojans is a term used to refer to malicious software, such as computer viruses, worms, and spyware. It is named after the Trojan Horse of Greek mythology, which was a large wooden horse filled with soldiers that was used to trick the city of Troy into letting it inside their walls. Trojans are designed to gain access to a computer system without the user's knowledge or permission. They can be used to steal data, install other malicious software, or even take control of the system. |
+| 4 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
+| 5 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
+| 6 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 7 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 8 | [Merrick Garland](http://twitter.com/search?q=Merrick+Garland) | N/A |
+| 9 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 10 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
+| 14 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 15 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 16 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 17 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 18 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 19 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 20 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 21 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 22 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 23 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 24 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
+| 25 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
+| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 27 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 28 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 29 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 30 | [Jack Nunge](http://twitter.com/search?q=Jack+Nunge) | N/A |
+| 31 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 32 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 33 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 34 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 35 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 36 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 37 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 38 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 39 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 40 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
+| 41 | [Carson Cooper](http://twitter.com/search?q=Carson+Cooper) | Carson Cooper is a name, derived from the English surname Carson and the given name Cooper. It is usually used as a first name for boys. |
+| 42 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 43 | [Fall 2](http://twitter.com/search?q=Fall+2) | N/A |
+| 44 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
+| 45 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 46 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
+| 47 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 48 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 49 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
 
 
 

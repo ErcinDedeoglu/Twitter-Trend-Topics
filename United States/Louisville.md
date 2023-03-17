@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-17 18:17:45 UTC`
+📆 Last Updated: `2023-03-17 19:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 2 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 3 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 4 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
-| 5 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 6 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 7 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 8 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 9 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 10 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 11 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 12 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 13 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 14 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
-| 15 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 16 | [#MatchDay](http://twitter.com/search?q=%23MatchDay) | N/A |
-| 17 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 18 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
-| 19 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 20 | [Carson Cooper](http://twitter.com/search?q=Carson+Cooper) | Carson Cooper is a name, derived from the English surname Carson and the given name Cooper. It is usually used as a first name for boys. |
-| 21 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 22 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
-| 23 | [Akins](http://twitter.com/search?q=Akins) | N/A |
-| 24 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 25 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 26 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 27 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 28 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 29 | [Levi Haines](http://twitter.com/search?q=Levi+Haines) | N/A |
-| 30 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
-| 31 | [Fall 2](http://twitter.com/search?q=Fall+2) | N/A |
-| 32 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
-| 33 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 34 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 35 | [Jonah Williams](http://twitter.com/search?q=Jonah+Williams) | Jonah Williams is a British artist and illustrator. He is known for his vibrant, colourful artwork which often features animals and nature. His work has been featured in magazines, books, and on products such as clothing and homeware. |
-| 36 | [Banners](http://twitter.com/search?q=Banners) | N/A |
-| 37 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 38 | [Lil Dirty](http://twitter.com/search?q=Lil+Dirty) | N/A |
-| 39 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 40 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
-| 41 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
-| 42 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 43 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 44 | [Trojans](http://twitter.com/search?q=Trojans) | Trojans is a term used to refer to malicious software, such as computer viruses, worms, and spyware. It is named after the Trojan Horse of Greek mythology, which was a large wooden horse filled with soldiers that was used to trick the city of Troy into letting it inside their walls. Trojans are designed to gain access to a computer system without the user's knowledge or permission. They can be used to steal data, install other malicious software, or even take control of the system. |
-| 45 | [Joey Hauser](http://twitter.com/search?q=Joey+Hauser) | N/A |
-| 46 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 47 | [Isaiah McKenzie](http://twitter.com/search?q=Isaiah+McKenzie) | N/A |
-| 48 | [Andy Enfield](http://twitter.com/search?q=Andy+Enfield) | N/A |
-| 49 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 2 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 3 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 4 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
+| 5 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
+| 6 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 8 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
+| 9 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 10 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 11 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 12 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
+| 13 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
+| 14 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 17 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 18 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 19 | [Jack Nunge](http://twitter.com/search?q=Jack+Nunge) | N/A |
+| 20 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 21 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 22 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
+| 23 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 24 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 25 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 26 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 27 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 28 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 29 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 30 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 31 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
+| 32 | [Carson Cooper](http://twitter.com/search?q=Carson+Cooper) | Carson Cooper is a name, derived from the English surname Carson and the given name Cooper. It is usually used as a first name for boys. |
+| 33 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 34 | [Fall 2](http://twitter.com/search?q=Fall+2) | N/A |
+| 35 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 36 | [RIP Commander](http://twitter.com/search?q=RIP+Commander) | N/A |
+| 37 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
+| 38 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
+| 39 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 40 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 41 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
+| 42 | [Akins](http://twitter.com/search?q=Akins) | N/A |
+| 43 | [Levi Haines](http://twitter.com/search?q=Levi+Haines) | N/A |
+| 44 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
+| 45 | [Amir Abdur-Rahim](http://twitter.com/search?q=Amir+Abdur-Rahim) | N/A |
+| 46 | [Youngblood](http://twitter.com/search?q=Youngblood) | N/A |
+| 47 | [Klutch](http://twitter.com/search?q=Klutch) | N/A |
+| 48 | [Joey Hauser](http://twitter.com/search?q=Joey+Hauser) | N/A |
+| 49 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
 
 
 

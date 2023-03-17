@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-17 18:16:54 UTC`
+📆 Last Updated: `2023-03-17 19:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,45 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 2 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 3 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 4 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 5 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 6 | [PGWP](http://twitter.com/search?q=PGWP) | N/A |
-| 7 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 8 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 9 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
-| 10 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 11 | [#luckoftheirish](http://twitter.com/search?q=%23luckoftheirish) | N/A |
-| 12 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 13 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 14 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 15 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 16 | [#Diablo4](http://twitter.com/search?q=%23Diablo4) | N/A |
-| 17 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
-| 18 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 19 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 20 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 21 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 22 | [Guelph](http://twitter.com/search?q=Guelph) | N/A |
-| 23 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 2 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 3 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 4 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 5 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 6 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 7 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 8 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 9 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 10 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 11 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 12 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 13 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
+| 14 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
+| 15 | [PGWP](http://twitter.com/search?q=PGWP) | N/A |
+| 16 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 17 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 18 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 19 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 20 | [#luckoftheirish](http://twitter.com/search?q=%23luckoftheirish) | N/A |
+| 21 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 22 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 23 | [#Diablo4](http://twitter.com/search?q=%23Diablo4) | N/A |
 | 24 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 26 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 28 | [Gerald](http://twitter.com/search?q=Gerald) | N/A |
-| 29 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 30 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 31 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 32 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
-| 33 | [#TrudeauChineseElect](http://twitter.com/search?q=%23TrudeauChineseElect) | N/A |
-| 34 | [#furnalequinox2023](http://twitter.com/search?q=%23furnalequinox2023) | N/A |
-| 35 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 36 | [#Furnal2023](http://twitter.com/search?q=%23Furnal2023) | N/A |
+| 25 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
+| 26 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 27 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 28 | [Guelph](http://twitter.com/search?q=Guelph) | N/A |
+| 29 | [Butts](http://twitter.com/search?q=Butts) | N/A |
+| 30 | [Fife](http://twitter.com/search?q=Fife) | N/A |
+| 31 | [Andrew Coyne](http://twitter.com/search?q=Andrew+Coyne) | N/A |
+| 32 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 35 | [Gerald](http://twitter.com/search?q=Gerald) | N/A |
+| 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 37 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 38 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
+| 39 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
+| 40 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 
 
 
