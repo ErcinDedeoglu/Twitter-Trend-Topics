@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-17 14:15:58 UTC`
+📆 Last Updated: `2023-03-17 15:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Raul](http://twitter.com/search?q=Raul) | N/A |
-| 2 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 1 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 2 | [#LunaticsToken](http://twitter.com/search?q=%23LunaticsToken) | N/A |
 | 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 4 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 5 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 6 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 5 | [ASSISTA DECRETOS REAIS 3](http://twitter.com/search?q=ASSISTA+DECRETOS+REAIS+3) | N/A |
+| 6 | [Angela](http://twitter.com/search?q=Angela) | N/A |
 | 7 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 8 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
-| 9 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 10 | [jaden](http://twitter.com/search?q=jaden) | N/A |
-| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 13 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 14 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 15 | [JIMMY FALLON](http://twitter.com/search?q=JIMMY+FALLON) | N/A |
-| 16 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 17 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 9 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 10 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
+| 11 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 12 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
+| 13 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 14 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 15 | [Pituca](http://twitter.com/search?q=Pituca) | N/A |
+| 16 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 18 | [São Patrício](http://twitter.com/search?q=S%c3%a3o+Patr%c3%adcio) | N/A |
-| 19 | [Suzane](http://twitter.com/search?q=Suzane) | Suzane is a French female name, derived from the Latin name Susanna. It is thought to mean "lily" or "graceful lily". |
-| 20 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 21 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
-| 22 | [Set Me Free](http://twitter.com/search?q=Set+Me+Free) | N/A |
-| 23 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 24 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
-| 25 | [HOLIDAY NA CADEIA](http://twitter.com/search?q=HOLIDAY+NA+CADEIA) | N/A |
-| 26 | [Real x City](http://twitter.com/search?q=Real+x+City) | N/A |
-| 27 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 28 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 30 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
-| 31 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 32 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 33 | [Internazionale](http://twitter.com/search?q=Internazionale) | N/A |
-| 34 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 35 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 36 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 37 | [Loona](http://twitter.com/search?q=Loona) | N/A |
-| 38 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 39 | [Estatais](http://twitter.com/search?q=Estatais) | N/A |
-| 40 | [Edir Macedo](http://twitter.com/search?q=Edir+Macedo) | N/A |
-| 41 | [Oxalá](http://twitter.com/search?q=Oxal%c3%a1) | N/A |
-| 42 | [Lupi](http://twitter.com/search?q=Lupi) | N/A |
-| 43 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 44 | [black metal](http://twitter.com/search?q=black+metal) | N/A |
-| 45 | [Liga dos Campeões](http://twitter.com/search?q=Liga+dos+Campe%c3%b5es) | N/A |
-| 46 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 47 | [MC Guimê e Cara de Sapato](http://twitter.com/search?q=MC+Guim%c3%aa+e+Cara+de+Sapato) | N/A |
-| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 49 | [Elis Regina](http://twitter.com/search?q=Elis+Regina) | N/A |
-| 50 | [Pelado](http://twitter.com/search?q=Pelado) | N/A |
+| 19 | [#EvrimAlasya](http://twitter.com/search?q=%23EvrimAlasya) | N/A |
+| 20 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 21 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 22 | [Suzane](http://twitter.com/search?q=Suzane) | Suzane is a French female name, derived from the Latin name Susanna. It is thought to mean "lily" or "graceful lily". |
+| 23 | [Edir Macedo](http://twitter.com/search?q=Edir+Macedo) | N/A |
+| 24 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 25 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 26 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 27 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 29 | [wagner moura](http://twitter.com/search?q=wagner+moura) | N/A |
+| 30 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 31 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 32 | [Set Me Free](http://twitter.com/search?q=Set+Me+Free) | N/A |
+| 33 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 34 | [HOLIDAY NA CADEIA](http://twitter.com/search?q=HOLIDAY+NA+CADEIA) | N/A |
+| 35 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
+| 36 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 37 | [Arapuca](http://twitter.com/search?q=Arapuca) | N/A |
+| 38 | [Real x City](http://twitter.com/search?q=Real+x+City) | N/A |
+| 39 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
+| 40 | [Lupi](http://twitter.com/search?q=Lupi) | N/A |
+| 41 | [heejin](http://twitter.com/search?q=heejin) | N/A |
+| 42 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 43 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 44 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 45 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 46 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 47 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 48 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 49 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 50 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
 
 
 

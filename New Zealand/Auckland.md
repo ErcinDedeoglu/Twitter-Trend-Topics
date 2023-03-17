@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-17 14:16:28 UTC`
+📆 Last Updated: `2023-03-17 15:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 3 | [#ADLvWEL](http://twitter.com/search?q=%23ADLvWEL) | N/A |
 | 4 | [#HURvWAR](http://twitter.com/search?q=%23HURvWAR) | N/A |
 | 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 6 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 6 | [Todd Muller](http://twitter.com/search?q=Todd+Muller) | N/A |
 | 7 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
 | 8 | [Jami-Lee Ross](http://twitter.com/search?q=Jami-Lee+Ross) | N/A |
-| 9 | [#NRLKnightsDolphins](http://twitter.com/search?q=%23NRLKnightsDolphins) | N/A |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 10 | [#NRLKnightsDolphins](http://twitter.com/search?q=%23NRLKnightsDolphins) | N/A |
 | 11 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [Basin](http://twitter.com/search?q=Basin) | N/A |
-| 14 | [todd muller](http://twitter.com/search?q=todd+muller) | N/A |
-| 15 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 16 | [kuriger](http://twitter.com/search?q=kuriger) | N/A |
-| 17 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 19 | [uffindell](http://twitter.com/search?q=uffindell) | N/A |
-| 20 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
-| 21 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 22 | [Britomart](http://twitter.com/search?q=Britomart) | N/A |
-| 23 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 24 | [Welly](http://twitter.com/search?q=Welly) | N/A |
-| 25 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 26 | [lake onslow](http://twitter.com/search?q=lake+onslow) | N/A |
-| 27 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |
-| 28 | [Pugh](http://twitter.com/search?q=Pugh) | N/A |
-| 29 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 30 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 31 | [judith collins](http://twitter.com/search?q=judith+collins) | N/A |
-| 32 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 34 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 35 | [Wayne Brown](http://twitter.com/search?q=Wayne+Brown) | Wayne Brown is a phrase used to describe someone who is a bit of a troublemaker or someone who likes to stir up trouble. It can also be used to describe someone who is a bit of a wild card or unpredictable. |
-| 36 | [Pathetic](http://twitter.com/search?q=Pathetic) | N/A |
-| 37 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 38 | [kiwisaver](http://twitter.com/search?q=kiwisaver) | N/A |
-| 39 | [kerre](http://twitter.com/search?q=kerre) | N/A |
-| 40 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 41 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 42 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
-| 43 | [onehunga](http://twitter.com/search?q=onehunga) | N/A |
-| 44 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 45 | [Libraries](http://twitter.com/search?q=Libraries) | N/A |
-| 46 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
-| 47 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 48 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 49 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 50 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 12 | [Kuriger](http://twitter.com/search?q=Kuriger) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
+| 15 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 16 | [Basin](http://twitter.com/search?q=Basin) | N/A |
+| 17 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 18 | [Britomart](http://twitter.com/search?q=Britomart) | N/A |
+| 19 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 20 | [Welly](http://twitter.com/search?q=Welly) | N/A |
+| 21 | ["Pugh"](http://twitter.com/search?q=%22Pugh%22) | N/A |
+| 22 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 23 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |
+| 24 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 25 | [national mps](http://twitter.com/search?q=national+mps) | N/A |
+| 26 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 27 | [judith collins](http://twitter.com/search?q=judith+collins) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 30 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 31 | [kiwisaver](http://twitter.com/search?q=kiwisaver) | N/A |
+| 32 | [Marxist](http://twitter.com/search?q=Marxist) | N/A |
+| 33 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
+| 34 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 35 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 36 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 37 | [kerre](http://twitter.com/search?q=kerre) | N/A |
+| 38 | [onslow](http://twitter.com/search?q=onslow) | N/A |
+| 39 | [Libraries](http://twitter.com/search?q=Libraries) | N/A |
+| 40 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
+| 41 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 42 | [rbnz](http://twitter.com/search?q=rbnz) | N/A |
+| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 44 | [Wayne Brown](http://twitter.com/search?q=Wayne+Brown) | Wayne Brown is a phrase used to describe someone who is a bit of a troublemaker or someone who likes to stir up trouble. It can also be used to describe someone who is a bit of a wild card or unpredictable. |
+| 45 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 46 | [IIRC](http://twitter.com/search?q=IIRC) | N/A |
+| 47 | [onehunga](http://twitter.com/search?q=onehunga) | N/A |
+| 48 | [pōneke](http://twitter.com/search?q=p%c5%8dneke) | N/A |
+| 49 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 50 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
 
 
 
