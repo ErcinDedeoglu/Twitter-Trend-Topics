@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-17 06:17:29 UTC`
+📆 Last Updated: `2023-03-17 07:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#feysha](http://twitter.com/search?q=%23feysha) | N/A |
-| 2 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 4 | [#azlaz](http://twitter.com/search?q=%23azlaz) | N/A |
-| 5 | [#verkiezingsuitslagen](http://twitter.com/search?q=%23verkiezingsuitslagen) | N/A |
-| 6 | [#PS2023](http://twitter.com/search?q=%23PS2023) | N/A |
+| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 3 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 4 | [#verkiezingsuitslagen](http://twitter.com/search?q=%23verkiezingsuitslagen) | N/A |
+| 5 | [#azlaz](http://twitter.com/search?q=%23azlaz) | N/A |
+| 6 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
 | 7 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 8 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 9 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 11 | [Melkert](http://twitter.com/search?q=Melkert) | N/A |
-| 12 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
-| 13 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
-| 14 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 15 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 16 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 17 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
-| 18 | [Volt](http://twitter.com/search?q=Volt) | N/A |
-| 19 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 21 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 22 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
-| 23 | [Karel Sabbe](http://twitter.com/search?q=Karel+Sabbe) | N/A |
-| 24 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 25 | [Europese](http://twitter.com/search?q=Europese) | N/A |
-| 26 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
-| 27 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 28 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
-| 29 | [rob trip](http://twitter.com/search?q=rob+trip) | N/A |
-| 30 | [ipsos](http://twitter.com/search?q=ipsos) | N/A |
-| 31 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 32 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 33 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 34 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 35 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
-| 36 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 38 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 39 | [proost](http://twitter.com/search?q=proost) | N/A |
-| 40 | [Slechte](http://twitter.com/search?q=Slechte) | N/A |
-| 41 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 43 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 44 | [Bayer](http://twitter.com/search?q=Bayer) | N/A |
-| 45 | [Randstad](http://twitter.com/search?q=Randstad) | N/A |
-| 46 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 47 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 48 | [bbb-stemmers](http://twitter.com/search?q=bbb-stemmers) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 10 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 11 | [Kimberley](http://twitter.com/search?q=Kimberley) | N/A |
+| 12 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 13 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
+| 16 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 17 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
+| 18 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 19 | [Melkert](http://twitter.com/search?q=Melkert) | N/A |
+| 20 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 21 | [Volt](http://twitter.com/search?q=Volt) | N/A |
+| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 23 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 24 | [Tosca](http://twitter.com/search?q=Tosca) | N/A |
+| 25 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 26 | [Femke](http://twitter.com/search?q=Femke) | N/A |
+| 27 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 28 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 29 | [Europese](http://twitter.com/search?q=Europese) | N/A |
+| 30 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 31 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
+| 32 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 33 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 34 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
+| 35 | [Veenendaal](http://twitter.com/search?q=Veenendaal) | N/A |
+| 36 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
+| 37 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 38 | [Amsterdammers](http://twitter.com/search?q=Amsterdammers) | N/A |
+| 39 | [Build Back Better](http://twitter.com/search?q=Build+Back+Better) | N/A |
+| 40 | [Overijssel](http://twitter.com/search?q=Overijssel) | N/A |
+| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 42 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
+| 43 | [Fransen](http://twitter.com/search?q=Fransen) | N/A |
+| 44 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
+| 45 | [Forum](http://twitter.com/search?q=Forum) | N/A |
+| 46 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 47 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 48 | [Karel Sabbe](http://twitter.com/search?q=Karel+Sabbe) | N/A |
 | 49 | [Boswijk](http://twitter.com/search?q=Boswijk) | N/A |
-| 50 | [Zuur](http://twitter.com/search?q=Zuur) | N/A |
+| 50 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-17 06:17:22 UTC`
+📆 Last Updated: `2023-03-17 07:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 2 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 3 | [Shead](http://twitter.com/search?q=Shead) | N/A |
-| 4 | [#ForTheCity](http://twitter.com/search?q=%23ForTheCity) | N/A |
-| 5 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
-| 6 | [#atxwx](http://twitter.com/search?q=%23atxwx) | N/A |
-| 7 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
-| 8 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
-| 9 | [Horns](http://twitter.com/search?q=Horns) | N/A |
-| 10 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 14 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 15 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 16 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 17 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 18 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 3 | [#ForTheCity](http://twitter.com/search?q=%23ForTheCity) | N/A |
+| 4 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
+| 5 | [#atxwx](http://twitter.com/search?q=%23atxwx) | N/A |
+| 6 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
+| 7 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 11 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 12 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 13 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 14 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 15 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 16 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
+| 17 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 18 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
 | 19 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
-| 20 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
-| 21 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 22 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 23 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 24 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 25 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 26 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 27 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 28 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 29 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 30 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 31 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
-| 32 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 33 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 34 | [Buzz Williams](http://twitter.com/search?q=Buzz+Williams) | N/A |
-| 35 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
-| 36 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 37 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 38 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 39 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 40 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 41 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 42 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 43 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 44 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 45 | [All Things End](http://twitter.com/search?q=All+Things+End) | N/A |
-| 46 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
-| 47 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
-| 48 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
-| 49 | [McGwire](http://twitter.com/search?q=McGwire) | N/A |
-| 50 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 20 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 21 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 22 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 23 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 24 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 25 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 26 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 27 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
+| 28 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
+| 29 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 30 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 31 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 32 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
+| 33 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
+| 34 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 35 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 36 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 37 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 38 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 39 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 40 | [All Things End](http://twitter.com/search?q=All+Things+End) | N/A |
+| 41 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
+| 42 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 43 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
+| 44 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
+| 45 | [McGwire](http://twitter.com/search?q=McGwire) | N/A |
+| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 47 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 48 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 49 | [FRIDA](http://twitter.com/search?q=FRIDA) | N/A |
+| 50 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
 
 
 

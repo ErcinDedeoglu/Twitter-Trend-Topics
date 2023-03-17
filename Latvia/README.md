@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-17 06:17:28 UTC`
+📆 Last Updated: `2023-03-17 07:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 2 | [Ukrainā](http://twitter.com/search?q=Ukrain%c4%81) | N/A |
-| 3 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
-| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 5 | [knab](http://twitter.com/search?q=knab) | N/A |
-| 6 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
-| 7 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
-| 8 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
-| 11 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
-| 12 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 13 | [melnās](http://twitter.com/search?q=meln%c4%81s) | N/A |
-| 14 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 15 | [laikam](http://twitter.com/search?q=laikam) | N/A |
-| 16 | [Latvian](http://twitter.com/search?q=Latvian) | N/A |
-| 17 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 18 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
-| 19 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
-| 20 | [pirms](http://twitter.com/search?q=pirms) | N/A |
-| 21 | [ministru](http://twitter.com/search?q=ministru) | N/A |
-| 22 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 25 | [#krievija](http://twitter.com/search?q=%23krievija) | N/A |
-| 26 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
-| 27 | [piemēram](http://twitter.com/search?q=piem%c4%93ram) | N/A |
-| 28 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
-| 29 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
-| 30 | [Katru](http://twitter.com/search?q=Katru) | N/A |
-| 31 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 32 | [dievs](http://twitter.com/search?q=dievs) | N/A |
-| 33 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 34 | [iMac](http://twitter.com/search?q=iMac) | N/A |
-| 35 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 36 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 37 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 39 | [West](http://twitter.com/search?q=West) | N/A |
-| 40 | [Ķīnas](http://twitter.com/search?q=%c4%b6%c4%abnas) | N/A |
-| 41 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
-| 42 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
-| 43 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 44 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
-| 45 | [navaļnijs](http://twitter.com/search?q=nava%c4%bcnijs) | N/A |
-| 46 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 47 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 48 | [polijā](http://twitter.com/search?q=polij%c4%81) | N/A |
-| 49 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 50 | [Rīta Panorāmā](http://twitter.com/search?q=R%c4%abta+Panor%c4%81m%c4%81) | N/A |
+| 2 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 3 | [latviju](http://twitter.com/search?q=latviju) | N/A |
+| 4 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 7 | [krievija](http://twitter.com/search?q=krievija) | N/A |
+| 8 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 9 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
+| 10 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
+| 11 | [melnās](http://twitter.com/search?q=meln%c4%81s) | N/A |
+| 12 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
+| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 14 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 15 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
+| 16 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
+| 17 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
+| 18 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 19 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
+| 20 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
+| 21 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 22 | [Cerams](http://twitter.com/search?q=Cerams) | N/A |
+| 23 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 24 | [ministru](http://twitter.com/search?q=ministru) | N/A |
+| 25 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 26 | [Katru](http://twitter.com/search?q=Katru) | N/A |
+| 27 | [Dievs](http://twitter.com/search?q=Dievs) | N/A |
+| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
+| 30 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
+| 31 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
+| 32 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
+| 33 | [KNAB](http://twitter.com/search?q=KNAB) | N/A |
+| 34 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
+| 35 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 36 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 37 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 38 | [iMac](http://twitter.com/search?q=iMac) | N/A |
+| 39 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
+| 40 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 41 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
+| 42 | [Visi](http://twitter.com/search?q=Visi) | N/A |
+| 43 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 44 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
+| 45 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 46 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
+| 47 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 48 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
+| 49 | [Vācijas](http://twitter.com/search?q=V%c4%81cijas) | N/A |
+| 50 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
 
 
 
