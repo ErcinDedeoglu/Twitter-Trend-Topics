@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-17 13:19:51 UTC`
+📆 Last Updated: `2023-03-17 14:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 2 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 3 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
-| 4 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
-| 5 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 7 | [#lime](http://twitter.com/search?q=%23lime) | N/A |
-| 8 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 9 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 11 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 12 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 13 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
-| 14 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 15 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 16 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 17 | [Suzane](http://twitter.com/search?q=Suzane) | Suzane is a French female name, derived from the Latin name Susanna. It is thought to mean "lily" or "graceful lily". |
-| 18 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 19 | [#AURAMExBecky](http://twitter.com/search?q=%23AURAMExBecky) | N/A |
-| 20 | [São Patrício](http://twitter.com/search?q=S%c3%a3o+Patr%c3%adcio) | N/A |
-| 21 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 1 | [Raul](http://twitter.com/search?q=Raul) | N/A |
+| 2 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 4 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 5 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 6 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 7 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 8 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
+| 9 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 10 | [jaden](http://twitter.com/search?q=jaden) | N/A |
+| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 13 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 14 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 15 | [JIMMY FALLON](http://twitter.com/search?q=JIMMY+FALLON) | N/A |
+| 16 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 17 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 18 | [São Patrício](http://twitter.com/search?q=S%c3%a3o+Patr%c3%adcio) | N/A |
+| 19 | [Suzane](http://twitter.com/search?q=Suzane) | Suzane is a French female name, derived from the Latin name Susanna. It is thought to mean "lily" or "graceful lily". |
+| 20 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 21 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
 | 22 | [Set Me Free](http://twitter.com/search?q=Set+Me+Free) | N/A |
-| 23 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 24 | [HOLIDAY NA CADEIA](http://twitter.com/search?q=HOLIDAY+NA+CADEIA) | N/A |
-| 25 | [Real x City](http://twitter.com/search?q=Real+x+City) | N/A |
-| 26 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 27 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 28 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 29 | [#TWICE120thWin](http://twitter.com/search?q=%23TWICE120thWin) | N/A |
-| 30 | [Estatais](http://twitter.com/search?q=Estatais) | N/A |
-| 31 | [Internazionale](http://twitter.com/search?q=Internazionale) | N/A |
-| 32 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 33 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 34 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 35 | [Liga dos Campeões](http://twitter.com/search?q=Liga+dos+Campe%c3%b5es) | N/A |
-| 36 | [Ismeiow](http://twitter.com/search?q=Ismeiow) | N/A |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [LOONA](http://twitter.com/search?q=LOONA) | N/A |
-| 39 | [PELADO](http://twitter.com/search?q=PELADO) | N/A |
-| 40 | [black metal](http://twitter.com/search?q=black+metal) | N/A |
-| 41 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
-| 42 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 43 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 44 | [MC Guimê e Cara de Sapato](http://twitter.com/search?q=MC+Guim%c3%aa+e+Cara+de+Sapato) | N/A |
-| 45 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 46 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 47 | [Elis Regina](http://twitter.com/search?q=Elis+Regina) | N/A |
-| 48 | [Fearless](http://twitter.com/search?q=Fearless) | N/A |
-| 49 | [sabrina carpenter](http://twitter.com/search?q=sabrina+carpenter) | N/A |
-| 50 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 23 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 24 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 25 | [HOLIDAY NA CADEIA](http://twitter.com/search?q=HOLIDAY+NA+CADEIA) | N/A |
+| 26 | [Real x City](http://twitter.com/search?q=Real+x+City) | N/A |
+| 27 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 28 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 30 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 31 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 32 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 33 | [Internazionale](http://twitter.com/search?q=Internazionale) | N/A |
+| 34 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 35 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 36 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 37 | [Loona](http://twitter.com/search?q=Loona) | N/A |
+| 38 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 39 | [Estatais](http://twitter.com/search?q=Estatais) | N/A |
+| 40 | [Edir Macedo](http://twitter.com/search?q=Edir+Macedo) | N/A |
+| 41 | [Oxalá](http://twitter.com/search?q=Oxal%c3%a1) | N/A |
+| 42 | [Lupi](http://twitter.com/search?q=Lupi) | N/A |
+| 43 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 44 | [black metal](http://twitter.com/search?q=black+metal) | N/A |
+| 45 | [Liga dos Campeões](http://twitter.com/search?q=Liga+dos+Campe%c3%b5es) | N/A |
+| 46 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 47 | [MC Guimê e Cara de Sapato](http://twitter.com/search?q=MC+Guim%c3%aa+e+Cara+de+Sapato) | N/A |
+| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 49 | [Elis Regina](http://twitter.com/search?q=Elis+Regina) | N/A |
+| 50 | [Pelado](http://twitter.com/search?q=Pelado) | N/A |
 
 
 

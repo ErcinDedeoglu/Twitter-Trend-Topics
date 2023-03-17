@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-17 13:19:55 UTC`
+📆 Last Updated: `2023-03-17 14:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 2 | [#MacronDestitution](http://twitter.com/search?q=%23MacronDestitution) | N/A |
-| 3 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 1 | [#MacronDEGAGE](http://twitter.com/search?q=%23MacronDEGAGE) | N/A |
+| 2 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
+| 3 | [#MacronDestitution](http://twitter.com/search?q=%23MacronDestitution) | N/A |
 | 4 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
 | 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 6 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 7 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 8 | [City Bayern](http://twitter.com/search?q=City+Bayern) | N/A |
-| 9 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 10 | [#LOLQuiRitSort3](http://twitter.com/search?q=%23LOLQuiRitSort3) | N/A |
-| 11 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
-| 12 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 13 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 6 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 7 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 8 | [Bouygues](http://twitter.com/search?q=Bouygues) | N/A |
+| 9 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 10 | [City Bayern](http://twitter.com/search?q=City+Bayern) | N/A |
+| 11 | [#LOLQuiRitSort3](http://twitter.com/search?q=%23LOLQuiRitSort3) | N/A |
+| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 13 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
 | 14 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 15 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 16 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 17 | [#chaos](http://twitter.com/search?q=%23chaos) | N/A |
-| 18 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 19 | [Slovaquie](http://twitter.com/search?q=Slovaquie) | N/A |
-| 20 | [Perrin](http://twitter.com/search?q=Perrin) | N/A |
-| 21 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 22 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 15 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
+| 16 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 17 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 18 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 19 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 20 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 21 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
+| 22 | [Perrin](http://twitter.com/search?q=Perrin) | N/A |
 | 23 | [L'Inter](http://twitter.com/search?q=L%27Inter) | N/A |
-| 24 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 24 | [Finale](http://twitter.com/search?q=Finale) | N/A |
 | 25 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 26 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 27 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 28 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 29 | [Istanbul](http://twitter.com/search?q=Istanbul) | N/A |
-| 30 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 31 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 32 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 33 | [Après le 49.3](http://twitter.com/search?q=Apr%c3%a8s+le+49.3) | N/A |
+| 27 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 28 | [Istanbul](http://twitter.com/search?q=Istanbul) | N/A |
+| 29 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 30 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 31 | [Après le 49.3](http://twitter.com/search?q=Apr%c3%a8s+le+49.3) | N/A |
+| 32 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
+| 33 | [L'album de Zola](http://twitter.com/search?q=L%27album+de+Zola) | N/A |
 | 34 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 35 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
-| 36 | [Lepen](http://twitter.com/search?q=Lepen) | N/A |
-| 37 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 38 | [Marion](http://twitter.com/search?q=Marion) | N/A |
-| 39 | [Lisbonne](http://twitter.com/search?q=Lisbonne) | N/A |
-| 40 | [Journaliste](http://twitter.com/search?q=Journaliste) | N/A |
-| 41 | [Olivier Dussopt](http://twitter.com/search?q=Olivier+Dussopt) | N/A |
-| 42 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 43 | [Mitterrand](http://twitter.com/search?q=Mitterrand) | N/A |
-| 44 | [mayotte](http://twitter.com/search?q=mayotte) | N/A |
-| 45 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
-| 46 | [Melanchon](http://twitter.com/search?q=Melanchon) | N/A |
-| 47 | [Il y a 3](http://twitter.com/search?q=Il+y+a+3) | N/A |
-| 48 | [#ToutCramer](http://twitter.com/search?q=%23ToutCramer) | N/A |
-| 49 | [#Macronestuneordure](http://twitter.com/search?q=%23Macronestuneordure) | N/A |
-| 50 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
+| 35 | [Lisbonne](http://twitter.com/search?q=Lisbonne) | N/A |
+| 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 37 | [Marion](http://twitter.com/search?q=Marion) | N/A |
+| 38 | [journaliste](http://twitter.com/search?q=journaliste) | N/A |
+| 39 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 40 | [Olivier Dussopt](http://twitter.com/search?q=Olivier+Dussopt) | N/A |
+| 41 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 42 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 43 | [#ToutCramer](http://twitter.com/search?q=%23ToutCramer) | N/A |
+| 44 | [#Macronestuneordure](http://twitter.com/search?q=%23Macronestuneordure) | N/A |
+| 45 | [#chaos](http://twitter.com/search?q=%23chaos) | N/A |
+| 46 | [#greve17mars](http://twitter.com/search?q=%23greve17mars) | N/A |
+| 47 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 48 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
+| 49 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 50 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-17 13:20:29 UTC`
+📆 Last Updated: `2023-03-17 14:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 2 | [#LollapaloozaEnAspen](http://twitter.com/search?q=%23LollapaloozaEnAspen) | N/A |
-| 3 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 4 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 5 | [#ClasicoDeViernes](http://twitter.com/search?q=%23ClasicoDeViernes) | N/A |
-| 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 7 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 10 | [Embajada de Israel](http://twitter.com/search?q=Embajada+de+Israel) | N/A |
-| 11 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [#EntradasArgentina](http://twitter.com/search?q=%23EntradasArgentina) | N/A |
-| 14 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 15 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 18 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 19 | [Deportick](http://twitter.com/search?q=Deportick) | N/A |
-| 20 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 23 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 24 | [Ercolini](http://twitter.com/search?q=Ercolini) | N/A |
-| 25 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 26 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 27 | [alan gomez](http://twitter.com/search?q=alan+gomez) | N/A |
-| 28 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 29 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 30 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
-| 31 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 32 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 33 | [Joaqui](http://twitter.com/search?q=Joaqui) | Joaqui is a Spanish name derived from the Hebrew name Joachim, which means "God will establish". |
-| 34 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 35 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 36 | [Enrique Symns](http://twitter.com/search?q=Enrique+Symns) | N/A |
-| 37 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 38 | [Betular](http://twitter.com/search?q=Betular) | N/A |
-| 39 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 40 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 41 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 42 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 43 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 44 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
-| 45 | [Atma](http://twitter.com/search?q=Atma) | N/A |
-| 46 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 47 | [Enzito](http://twitter.com/search?q=Enzito) | N/A |
-| 48 | [Edenor](http://twitter.com/search?q=Edenor) | N/A |
-| 49 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 50 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 1 | [#LollapaloozaEnAspen](http://twitter.com/search?q=%23LollapaloozaEnAspen) | N/A |
+| 2 | [#ClasicoDeViernes](http://twitter.com/search?q=%23ClasicoDeViernes) | N/A |
+| 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 4 | [Embajada de Israel](http://twitter.com/search?q=Embajada+de+Israel) | N/A |
+| 5 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 6 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 9 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 12 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 13 | [Cristian Castro](http://twitter.com/search?q=Cristian+Castro) | N/A |
+| 14 | [#alabarbarrosa](http://twitter.com/search?q=%23alabarbarrosa) | N/A |
+| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 16 | [Ercolini](http://twitter.com/search?q=Ercolini) | N/A |
+| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 18 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 19 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 20 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 22 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 23 | [DOTA](http://twitter.com/search?q=DOTA) | N/A |
+| 24 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 25 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 27 | [AMBA](http://twitter.com/search?q=AMBA) | N/A |
+| 28 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 29 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 30 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 31 | [Mayra](http://twitter.com/search?q=Mayra) | N/A |
+| 32 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 33 | [#Reserva](http://twitter.com/search?q=%23Reserva) | N/A |
+| 34 | [#BuenDia](http://twitter.com/search?q=%23BuenDia) | N/A |
+| 35 | [#caballerodedia](http://twitter.com/search?q=%23caballerodedia) | N/A |
+| 36 | [#elclubdelmoro](http://twitter.com/search?q=%23elclubdelmoro) | N/A |
+| 37 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 38 | [#LollaAR](http://twitter.com/search?q=%23LollaAR) | N/A |
+| 39 | [#SetMeFreePt2](http://twitter.com/search?q=%23SetMeFreePt2) | N/A |
 
 
 

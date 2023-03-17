@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-17 13:20:00 UTC`
+📆 Last Updated: `2023-03-17 14:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 2 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 3 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 4 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 5 | [#LeTempsenacceslibre](http://twitter.com/search?q=%23LeTempsenacceslibre) | N/A |
+| 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 2 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 3 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 4 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 5 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 6 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 7 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 7 | [#LeTempsenacceslibre](http://twitter.com/search?q=%23LeTempsenacceslibre) | N/A |
+| 8 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 9 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 10 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
 | 11 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 12 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 13 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 13 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 14 | [infantino](http://twitter.com/search?q=infantino) | N/A |
 | 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 16 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 17 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 19 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 20 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 21 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 22 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 25 | [rettung](http://twitter.com/search?q=rettung) | N/A |
-| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 27 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 28 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
-| 29 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 30 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
-| 31 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 32 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 18 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 20 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 23 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 24 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
+| 27 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 28 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 29 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
+| 30 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 31 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 32 | [verluste](http://twitter.com/search?q=verluste) | N/A |
 | 33 | [lara gut-behrami](http://twitter.com/search?q=lara+gut-behrami) | N/A |
-| 34 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 35 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 36 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 37 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 38 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
-| 39 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 40 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 41 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 34 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 35 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 36 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
+| 37 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 38 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 39 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 40 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 42 | [Lied](http://twitter.com/search?q=Lied) | N/A |
 | 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 44 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 45 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 46 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 47 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 47 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
 
 
 

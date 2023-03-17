@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-17 13:20:31 UTC`
+📆 Last Updated: `2023-03-17 14:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Denmark
 | ------- | ------------ | ------------ |
 | 1 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [prins joachim](http://twitter.com/search?q=prins+joachim) | N/A |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [#kltop23](http://twitter.com/search?q=%23kltop23) | N/A |
+| 4 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 6 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 7 | [#kltop23](http://twitter.com/search?q=%23kltop23) | N/A |
-| 8 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 7 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 8 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 9 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 10 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 11 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 12 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 13 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 14 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
-| 15 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
-| 16 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
-| 17 | [mette frederiksen](http://twitter.com/search?q=mette+frederiksen) | N/A |
-| 18 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 21 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
-| 22 | [Børn](http://twitter.com/search?q=B%c3%b8rn) | N/A |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 25 | [Tom Jensen](http://twitter.com/search?q=Tom+Jensen) | N/A |
-| 26 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
-| 27 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 10 | [prins joachim](http://twitter.com/search?q=prins+joachim) | N/A |
+| 11 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
+| 12 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
+| 13 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
+| 14 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 17 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 18 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 19 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 22 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 23 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
+| 24 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 25 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 26 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 27 | [tom jensen](http://twitter.com/search?q=tom+jensen) | N/A |
 | 28 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 29 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 30 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 31 | [Henrik](http://twitter.com/search?q=Henrik) | N/A |
-| 32 | [Rigtig](http://twitter.com/search?q=Rigtig) | N/A |
-| 33 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 34 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 35 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
-| 36 | [Tænker](http://twitter.com/search?q=T%c3%a6nker) | N/A |
-| 37 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 38 | [mikkel bjørn](http://twitter.com/search?q=mikkel+bj%c3%b8rn) | N/A |
-| 39 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 40 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 41 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 42 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 43 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 44 | [Berlingske](http://twitter.com/search?q=Berlingske) | N/A |
-| 45 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 48 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 49 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 50 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
+| 29 | [børn](http://twitter.com/search?q=b%c3%b8rn) | N/A |
+| 30 | [vanopslagh](http://twitter.com/search?q=vanopslagh) | N/A |
+| 31 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 32 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
+| 33 | [mikkel bjørn](http://twitter.com/search?q=mikkel+bj%c3%b8rn) | N/A |
+| 34 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 35 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 36 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 37 | [infantino](http://twitter.com/search?q=infantino) | N/A |
+| 38 | [Tænker](http://twitter.com/search?q=T%c3%a6nker) | N/A |
+| 39 | [Frederiksberg Bibliotek](http://twitter.com/search?q=Frederiksberg+Bibliotek) | N/A |
+| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 41 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
+| 42 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 43 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
+| 44 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 45 | [berlingske](http://twitter.com/search?q=berlingske) | N/A |
+| 46 | [Folk](http://twitter.com/search?q=Folk) | N/A |
+| 47 | [Henrik](http://twitter.com/search?q=Henrik) | N/A |
+| 48 | [Danske Bank](http://twitter.com/search?q=Danske+Bank) | N/A |
+| 49 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 50 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 
 
 

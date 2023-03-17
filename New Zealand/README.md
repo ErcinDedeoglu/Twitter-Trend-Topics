@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-17 13:20:34 UTC`
+📆 Last Updated: `2023-03-17 14:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,7 +33,7 @@ This is top 50 for New Zealand
 | 16 | [kuriger](http://twitter.com/search?q=kuriger) | N/A |
 | 17 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
 | 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 19 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 19 | [uffindell](http://twitter.com/search?q=uffindell) | N/A |
 | 20 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
 | 21 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
 | 22 | [Britomart](http://twitter.com/search?q=Britomart) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for New Zealand
 | 40 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
 | 41 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
 | 42 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
-| 43 | [waikato](http://twitter.com/search?q=waikato) | N/A |
-| 44 | [onehunga](http://twitter.com/search?q=onehunga) | N/A |
-| 45 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 46 | [Libraries](http://twitter.com/search?q=Libraries) | N/A |
-| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 48 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 49 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
-| 50 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 43 | [onehunga](http://twitter.com/search?q=onehunga) | N/A |
+| 44 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 45 | [Libraries](http://twitter.com/search?q=Libraries) | N/A |
+| 46 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
+| 47 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 48 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 49 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 50 | [Africa](http://twitter.com/search?q=Africa) | N/A |
 
 
 

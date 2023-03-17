@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-17 13:20:02 UTC`
+📆 Last Updated: `2023-03-17 14:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,36 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AFLCatsPies](http://twitter.com/search?q=%23AFLCatsPies) | N/A |
-| 2 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 2 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 3 | [#NRLRoostersSouths](http://twitter.com/search?q=%23NRLRoostersSouths) | N/A |
-| 4 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 5 | [Howe](http://twitter.com/search?q=Howe) | N/A |
-| 6 | [Cody Walker](http://twitter.com/search?q=Cody+Walker) | N/A |
-| 7 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 8 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
-| 9 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 10 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
-| 11 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
-| 12 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
-| 13 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [#ADLvWEL](http://twitter.com/search?q=%23ADLvWEL) | N/A |
-| 16 | [darcy moore](http://twitter.com/search?q=darcy+moore) | N/A |
-| 17 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 19 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 20 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 21 | [Mason Cox](http://twitter.com/search?q=Mason+Cox) | N/A |
-| 22 | [Bruhn](http://twitter.com/search?q=Bruhn) | N/A |
-| 23 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 24 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
-| 25 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
-| 26 | [Round 1](http://twitter.com/search?q=Round+1) | N/A |
-| 27 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 28 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 29 | [#MCRMELBOURNE2](http://twitter.com/search?q=%23MCRMELBOURNE2) | N/A |
-| 30 | [#NRLKnightsDolphins](http://twitter.com/search?q=%23NRLKnightsDolphins) | N/A |
-| 31 | [#EastsToWin](http://twitter.com/search?q=%23EastsToWin) | N/A |
+| 4 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 5 | [#NRLKnightsDolphins](http://twitter.com/search?q=%23NRLKnightsDolphins) | N/A |
+| 6 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 7 | [#afltigersblues](http://twitter.com/search?q=%23afltigersblues) | N/A |
+| 8 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 9 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 10 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 12 | [Howe](http://twitter.com/search?q=Howe) | N/A |
+| 13 | [Peter Daicos](http://twitter.com/search?q=Peter+Daicos) | N/A |
+| 14 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
+| 15 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
+| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 17 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [Darcy Moore](http://twitter.com/search?q=Darcy+Moore) | N/A |
+| 20 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
+| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 22 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
+| 25 | [Kingy](http://twitter.com/search?q=Kingy) | N/A |
+| 26 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
+| 29 | [chris scott](http://twitter.com/search?q=chris+scott) | N/A |
+| 30 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 31 | [Menindee](http://twitter.com/search?q=Menindee) | N/A |
+| 32 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 33 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 34 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 35 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 36 | [Kayo](http://twitter.com/search?q=Kayo) | N/A |
+| 37 | [mason cox](http://twitter.com/search?q=mason+cox) | N/A |
+| 38 | [Disagree](http://twitter.com/search?q=Disagree) | N/A |
+| 39 | [Brian Walsh](http://twitter.com/search?q=Brian+Walsh) | N/A |
+| 40 | [dom young](http://twitter.com/search?q=dom+young) | N/A |
+| 41 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 42 | [Endeavour](http://twitter.com/search?q=Endeavour) | N/A |
+| 43 | [McStay](http://twitter.com/search?q=McStay) | N/A |
+| 44 | [Bruhn](http://twitter.com/search?q=Bruhn) | N/A |
+| 45 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 46 | [Pendles](http://twitter.com/search?q=Pendles) | N/A |
+| 47 | [Tomahawk](http://twitter.com/search?q=Tomahawk) | N/A |
+| 48 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 49 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 
 
 
