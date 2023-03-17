@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-17 05:16:22 UTC`
+📆 Last Updated: `2023-03-17 06:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Mexico
 | ------- | ------------ | ------------ |
 | 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 2 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 3 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 4 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 5 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 6 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
 | 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 8 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
-| 9 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 10 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 11 | [#elculitodevenom](http://twitter.com/search?q=%23elculitodevenom) | N/A |
-| 12 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 13 | [Ranchuca](http://twitter.com/search?q=Ranchuca) | N/A |
-| 14 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 15 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
+| 9 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 10 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 11 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 12 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
+| 13 | [#elculitodevenom](http://twitter.com/search?q=%23elculitodevenom) | N/A |
+| 14 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
+| 15 | [Ranchuca](http://twitter.com/search?q=Ranchuca) | N/A |
 | 16 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 17 | [TE AMO JIMIN](http://twitter.com/search?q=TE+AMO+JIMIN) | N/A |
-| 18 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 19 | [HAPPY GOLD3N DAY](http://twitter.com/search?q=HAPPY+GOLD3N+DAY) | N/A |
-| 20 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
-| 21 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 22 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 17 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 18 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 19 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 20 | [HAPPY GOLD3N DAY](http://twitter.com/search?q=HAPPY+GOLD3N+DAY) | N/A |
+| 21 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 22 | [TE AMO JIMIN](http://twitter.com/search?q=TE+AMO+JIMIN) | N/A |
 | 23 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
-| 24 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 25 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 26 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 27 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 28 | [Hondureño](http://twitter.com/search?q=Hondure%c3%b1o) | N/A |
-| 29 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
-| 30 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 31 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 32 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
-| 33 | [El Método](http://twitter.com/search?q=El+M%c3%a9todo) | N/A |
-| 34 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
-| 35 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 36 | [Mctrio](http://twitter.com/search?q=Mctrio) | N/A |
+| 24 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 25 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 26 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 27 | [Mctrio](http://twitter.com/search?q=Mctrio) | N/A |
+| 28 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 29 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 30 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 31 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
+| 32 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
+| 33 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
+| 34 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 35 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
+| 36 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
 | 37 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 38 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 39 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
-| 40 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 41 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 42 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 43 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 44 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 45 | [Palestina Libre](http://twitter.com/search?q=Palestina+Libre) | N/A |
-| 46 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 47 | [Mauricio Vila](http://twitter.com/search?q=Mauricio+Vila) | N/A |
-| 48 | [Feminicidio](http://twitter.com/search?q=Feminicidio) | N/A |
+| 38 | [El Método](http://twitter.com/search?q=El+M%c3%a9todo) | N/A |
+| 39 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 40 | [Hondureño](http://twitter.com/search?q=Hondure%c3%b1o) | N/A |
+| 41 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 42 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 43 | [Feminicidio](http://twitter.com/search?q=Feminicidio) | N/A |
+| 44 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
+| 45 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
+| 46 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
+| 47 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 48 | [Mauricio Vila](http://twitter.com/search?q=Mauricio+Vila) | N/A |
 | 49 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 50 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 50 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 
 
 

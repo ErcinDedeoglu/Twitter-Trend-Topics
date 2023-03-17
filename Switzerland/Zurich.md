@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-17 05:15:48 UTC`
+📆 Last Updated: `2023-03-17 06:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 4 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 5 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 7 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 8 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 3 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 4 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 5 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 6 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 7 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
+| 8 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
 | 9 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
-| 10 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 11 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 14 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 15 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
-| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 19 | [liquidität](http://twitter.com/search?q=liquidit%c3%a4t) | N/A |
-| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 21 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 22 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 23 | [sicherheiten](http://twitter.com/search?q=sicherheiten) | N/A |
-| 24 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 25 | [kredit](http://twitter.com/search?q=kredit) | N/A |
-| 26 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 27 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 28 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 29 | [lara gut-behrami](http://twitter.com/search?q=lara+gut-behrami) | N/A |
-| 30 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 31 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 32 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 33 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 34 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 35 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 36 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 37 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 38 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 39 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 40 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 41 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 42 | [fussball](http://twitter.com/search?q=fussball) | N/A |
-| 43 | [London](http://twitter.com/search?q=London) | N/A |
-| 44 | [finma](http://twitter.com/search?q=finma) | N/A |
-| 45 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 12 | [liquidität](http://twitter.com/search?q=liquidit%c3%a4t) | N/A |
+| 13 | [America](http://twitter.com/search?q=America) | N/A |
+| 14 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
+| 15 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 18 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 19 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 21 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 22 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 23 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 24 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 25 | [Zahl](http://twitter.com/search?q=Zahl) | N/A |
+| 26 | [finma](http://twitter.com/search?q=finma) | N/A |
+| 27 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 28 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 29 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 30 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 31 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 32 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 33 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 34 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
+| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 38 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 39 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 40 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
+| 41 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
+| 42 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 43 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
+| 44 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 45 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
 | 46 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 47 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 48 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 47 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
+| 48 | [Gratulation](http://twitter.com/search?q=Gratulation) | N/A |
+| 49 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 50 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
 
 
 
