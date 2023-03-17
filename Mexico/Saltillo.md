@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-17 10:16:18 UTC`
+📆 Last Updated: `2023-03-17 11:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,51 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
 | 3 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
 | 4 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
-| 5 | [#AURAMExBecky](http://twitter.com/search?q=%23AURAMExBecky) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 6 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 7 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 9 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 10 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 11 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 12 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 13 | [kalimba](http://twitter.com/search?q=kalimba) | N/A |
-| 14 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 15 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 9 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 10 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 11 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 12 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 13 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 14 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
+| 15 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
 | 16 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
-| 17 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 18 | [Omar Núñez](http://twitter.com/search?q=Omar+N%c3%ba%c3%b1ez) | N/A |
-| 19 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 20 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 21 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 22 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
-| 25 | [Santi Giménez](http://twitter.com/search?q=Santi+Gim%c3%a9nez) | N/A |
-| 26 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 27 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
-| 28 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
-| 29 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 30 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 31 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 32 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 33 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 34 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 35 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 36 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 37 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 38 | [Feminicidio](http://twitter.com/search?q=Feminicidio) | N/A |
-| 39 | [HAPPY GOLD3N DAY](http://twitter.com/search?q=HAPPY+GOLD3N+DAY) | N/A |
-| 40 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 41 | [Helena Rojo](http://twitter.com/search?q=Helena+Rojo) | N/A |
-| 42 | [McTrio](http://twitter.com/search?q=McTrio) | N/A |
-| 43 | [Melissa Galindo](http://twitter.com/search?q=Melissa+Galindo) | N/A |
-| 44 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 45 | [tata martino](http://twitter.com/search?q=tata+martino) | N/A |
-| 46 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 47 | [Robert Smith](http://twitter.com/search?q=Robert+Smith) | N/A |
+| 17 | [Omar Núñez](http://twitter.com/search?q=Omar+N%c3%ba%c3%b1ez) | N/A |
+| 18 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 19 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 20 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 21 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 22 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
+| 23 | [Santi Giménez](http://twitter.com/search?q=Santi+Gim%c3%a9nez) | N/A |
+| 24 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
+| 25 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 26 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
+| 27 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 28 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 29 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 31 | [PEMEX](http://twitter.com/search?q=PEMEX) | N/A |
+| 32 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 33 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 34 | [Feminicidio](http://twitter.com/search?q=Feminicidio) | N/A |
+| 35 | [Melissa Galindo](http://twitter.com/search?q=Melissa+Galindo) | N/A |
+| 36 | [HAPPY GOLD3N DAY](http://twitter.com/search?q=HAPPY+GOLD3N+DAY) | N/A |
+| 37 | [helena rojo](http://twitter.com/search?q=helena+rojo) | N/A |
+| 38 | [myke](http://twitter.com/search?q=myke) | N/A |
+| 39 | [McTrio](http://twitter.com/search?q=McTrio) | N/A |
+| 40 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 41 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 42 | [Robert Smith](http://twitter.com/search?q=Robert+Smith) | N/A |
+| 43 | [Bebote](http://twitter.com/search?q=Bebote) | N/A |
+| 44 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 45 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
+| 46 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 47 | [Ranchuca](http://twitter.com/search?q=Ranchuca) | N/A |
+| 48 | [el método](http://twitter.com/search?q=el+m%c3%a9todo) | N/A |
+| 49 | [tomás yarrington](http://twitter.com/search?q=tom%c3%a1s+yarrington) | N/A |
 
 
 

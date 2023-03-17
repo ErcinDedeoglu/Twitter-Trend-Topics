@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-17 10:16:26 UTC`
+📆 Last Updated: `2023-03-17 11:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 2 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 1 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 3 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 4 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 5 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 6 | [#Lenssen](http://twitter.com/search?q=%23Lenssen) | N/A |
-| 7 | [#Bundestag](http://twitter.com/search?q=%23Bundestag) | N/A |
-| 8 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 9 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
-| 10 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 11 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 12 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 13 | ['Frühling'](http://twitter.com/search?q=%27Fr%c3%bchling%27) | N/A |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 15 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
-| 16 | [Team Lauterbach](http://twitter.com/search?q=Team+Lauterbach) | N/A |
+| 4 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 6 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 7 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
+| 8 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 9 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 10 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 11 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 14 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
+| 15 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 16 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
 | 17 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 18 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 19 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
-| 20 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
-| 21 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | N/A |
-| 22 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 23 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 25 | [Doppelnamen](http://twitter.com/search?q=Doppelnamen) | N/A |
-| 26 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
-| 27 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
-| 28 | [Rainer Maria Rilke](http://twitter.com/search?q=Rainer+Maria+Rilke) | N/A |
-| 29 | [Krisen Zentrum](http://twitter.com/search?q=Krisen+Zentrum) | N/A |
-| 30 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 31 | [Diplomatie](http://twitter.com/search?q=Diplomatie) | N/A |
-| 32 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 33 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 34 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 35 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 36 | [Hansi](http://twitter.com/search?q=Hansi) | N/A |
-| 37 | [Axel Springer](http://twitter.com/search?q=Axel+Springer) | N/A |
-| 38 | [Aneignung](http://twitter.com/search?q=Aneignung) | N/A |
-| 39 | [extensions](http://twitter.com/search?q=extensions) | N/A |
-| 40 | [Moin Dieter](http://twitter.com/search?q=Moin+Dieter) | N/A |
-| 41 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 42 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 43 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 44 | ['langeweile'](http://twitter.com/search?q=%27langeweile%27) | N/A |
-| 45 | [Seminarraum](http://twitter.com/search?q=Seminarraum) | N/A |
-| 46 | [Frau Wagenknecht](http://twitter.com/search?q=Frau+Wagenknecht) | N/A |
-| 47 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 48 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
-| 49 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 18 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 19 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 20 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 21 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
+| 22 | [Team Lauterbach](http://twitter.com/search?q=Team+Lauterbach) | N/A |
+| 23 | ['Frühling'](http://twitter.com/search?q=%27Fr%c3%bchling%27) | N/A |
+| 24 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 25 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 26 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 27 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 28 | [lehrerin](http://twitter.com/search?q=lehrerin) | N/A |
+| 29 | [Antje Vollmer](http://twitter.com/search?q=Antje+Vollmer) | N/A |
+| 30 | [Elternabend](http://twitter.com/search?q=Elternabend) | N/A |
+| 31 | [Krisen Zentrum](http://twitter.com/search?q=Krisen+Zentrum) | N/A |
+| 32 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 33 | [Rainer Maria Rilke](http://twitter.com/search?q=Rainer+Maria+Rilke) | N/A |
+| 34 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 35 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 36 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 37 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 38 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 39 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
+| 40 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 41 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 42 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 43 | [Rüdiger](http://twitter.com/search?q=R%c3%bcdiger) | N/A |
+| 44 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 45 | [Mobbing](http://twitter.com/search?q=Mobbing) | N/A |
+| 46 | ['langeweile'](http://twitter.com/search?q=%27langeweile%27) | N/A |
+| 47 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
+| 48 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 
 
 

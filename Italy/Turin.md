@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-17 10:16:28 UTC`
+📆 Last Updated: `2023-03-17 11:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#17marzo](http://twitter.com/search?q=%2317marzo) | N/A |
-| 2 | [#FriburgoJuve](http://twitter.com/search?q=%23FriburgoJuve) | N/A |
-| 3 | [#pontesullostretto](http://twitter.com/search?q=%23pontesullostretto) | N/A |
+| 1 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 2 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 3 | [#incorvassi](http://twitter.com/search?q=%23incorvassi) | N/A |
 | 4 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 5 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
-| 6 | [#RealSociedadRoma](http://twitter.com/search?q=%23RealSociedadRoma) | N/A |
-| 7 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 8 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 9 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 10 | [Il 17](http://twitter.com/search?q=Il+17) | N/A |
-| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 12 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
-| 13 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 5 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
+| 6 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 7 | [#17marzo](http://twitter.com/search?q=%2317marzo) | N/A |
+| 8 | [San Patrizio](http://twitter.com/search?q=San+Patrizio) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 11 | [Il 17](http://twitter.com/search?q=Il+17) | N/A |
+| 12 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 13 | [Sicilia](http://twitter.com/search?q=Sicilia) | N/A |
 | 14 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 15 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 16 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 17 | [Aldo Moro](http://twitter.com/search?q=Aldo+Moro) | N/A |
-| 18 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 19 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 20 | [Sileri](http://twitter.com/search?q=Sileri) | N/A |
-| 21 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
-| 22 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 23 | [Karina Huff](http://twitter.com/search?q=Karina+Huff) | N/A |
-| 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 25 | [Regno](http://twitter.com/search?q=Regno) | N/A |
-| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 27 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 28 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 29 | [Suor Angela](http://twitter.com/search?q=Suor+Angela) | N/A |
-| 30 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 31 | [Siviglia](http://twitter.com/search?q=Siviglia) | N/A |
-| 32 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 33 | [CHICCO](http://twitter.com/search?q=CHICCO) | N/A |
-| 34 | [Sicilia](http://twitter.com/search?q=Sicilia) | N/A |
-| 35 | [Unità Nazionale](http://twitter.com/search?q=Unit%c3%a0+Nazionale) | N/A |
-| 36 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 37 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 38 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 39 | [Tavernello](http://twitter.com/search?q=Tavernello) | N/A |
-| 40 | [Messina](http://twitter.com/search?q=Messina) | N/A |
-| 41 | [Il 16](http://twitter.com/search?q=Il+16) | N/A |
-| 42 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 43 | [Fani](http://twitter.com/search?q=Fani) | N/A |
-| 44 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 45 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 46 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
-| 47 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 48 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 49 | [Checco Zalone](http://twitter.com/search?q=Checco+Zalone) | N/A |
-| 50 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 15 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 16 | [Siviglia](http://twitter.com/search?q=Siviglia) | N/A |
+| 17 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 18 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 19 | [Sileri](http://twitter.com/search?q=Sileri) | N/A |
+| 20 | [Messina](http://twitter.com/search?q=Messina) | N/A |
+| 21 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 23 | [La Lazio](http://twitter.com/search?q=La+Lazio) | N/A |
+| 24 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [#sorteggio](http://twitter.com/search?q=%23sorteggio) | N/A |
+| 27 | [#pontesullostretto](http://twitter.com/search?q=%23pontesullostretto) | N/A |
+| 28 | [#SIAE](http://twitter.com/search?q=%23SIAE) | N/A |
+| 29 | [#venerdi17](http://twitter.com/search?q=%23venerdi17) | N/A |
+| 30 | [#Cgil](http://twitter.com/search?q=%23Cgil) | N/A |
+| 31 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 32 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 33 | [#Costituzione](http://twitter.com/search?q=%23Costituzione) | N/A |
+| 34 | [#laMigliorMedicina](http://twitter.com/search?q=%23laMigliorMedicina) | N/A |
+| 35 | [#agorarai](http://twitter.com/search?q=%23agorarai) | N/A |
+| 36 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 37 | [#riformafiscale](http://twitter.com/search?q=%23riformafiscale) | N/A |
+| 38 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
+| 39 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 40 | [#Francia](http://twitter.com/search?q=%23Francia) | N/A |
+| 41 | [#Fiorentina](http://twitter.com/search?q=%23Fiorentina) | N/A |
+| 42 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
+| 43 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 44 | [#IndianWells](http://twitter.com/search?q=%23IndianWells) | N/A |
 
 
 

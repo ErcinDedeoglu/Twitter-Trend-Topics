@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-17 10:16:30 UTC`
+📆 Last Updated: `2023-03-17 11:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 2 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 3 | [#LeTempsenacceslibre](http://twitter.com/search?q=%23LeTempsenacceslibre) | N/A |
-| 4 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 3 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 4 | [#LeTempsenacceslibre](http://twitter.com/search?q=%23LeTempsenacceslibre) | N/A |
 | 5 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 6 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 7 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 8 | [Guete Morge](http://twitter.com/search?q=Guete+Morge) | N/A |
-| 9 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 10 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 11 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 12 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 13 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 15 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 18 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 19 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 20 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 21 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
-| 22 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 23 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 24 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 25 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
-| 26 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 27 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 28 | [Lara Gut-Behrami](http://twitter.com/search?q=Lara+Gut-Behrami) | N/A |
-| 29 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 30 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 31 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 32 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 33 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 34 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 35 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 36 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 37 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 38 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 39 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 40 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 41 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 42 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 43 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 44 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 45 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
-| 46 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
-| 47 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 48 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
+| 7 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
+| 8 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 9 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 11 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 14 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 15 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
+| 16 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 17 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 18 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
+| 19 | [Rente](http://twitter.com/search?q=Rente) | N/A |
+| 20 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
+| 21 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 22 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 23 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 24 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 25 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 26 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 28 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
+| 29 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 30 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 31 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 32 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
+| 33 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
+| 34 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 35 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
+| 36 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 37 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 38 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 39 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 40 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 41 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 42 | [Management](http://twitter.com/search?q=Management) | N/A |
+| 43 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 44 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 45 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 46 | [Zahl](http://twitter.com/search?q=Zahl) | N/A |
+| 47 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
+| 48 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
 
 
 

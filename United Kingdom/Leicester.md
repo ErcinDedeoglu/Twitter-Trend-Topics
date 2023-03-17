@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-17 10:16:13 UTC`
+📆 Last Updated: `2023-03-17 11:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 3 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
-| 4 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 5 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 6 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 7 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
-| 8 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 9 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 10 | [#CPFC](http://twitter.com/search?q=%23CPFC) | N/A |
-| 11 | [#stpaddysday](http://twitter.com/search?q=%23stpaddysday) | N/A |
-| 12 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 13 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 14 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
-| 15 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 16 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 17 | [Gethin](http://twitter.com/search?q=Gethin) | N/A |
-| 18 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 19 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 20 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
+| 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 3 | [Gethin](http://twitter.com/search?q=Gethin) | N/A |
+| 4 | [#GBSpringClean](http://twitter.com/search?q=%23GBSpringClean) | N/A |
+| 5 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 6 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
+| 7 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 8 | [Bake Off](http://twitter.com/search?q=Bake+Off) | N/A |
+| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 10 | [#NHSStrikes](http://twitter.com/search?q=%23NHSStrikes) | N/A |
+| 11 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 12 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 13 | [#CurrysWWE2K23](http://twitter.com/search?q=%23CurrysWWE2K23) | N/A |
+| 14 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
+| 15 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 16 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 17 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 18 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 19 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 20 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
 | 21 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 22 | [Parish](http://twitter.com/search?q=Parish) | N/A |
-| 23 | [Slainte](http://twitter.com/search?q=Slainte) | N/A |
-| 24 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
-| 25 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
-| 26 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 27 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 28 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 29 | [St George](http://twitter.com/search?q=St+George) | N/A |
-| 30 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 31 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 32 | [Matt Lucas](http://twitter.com/search?q=Matt+Lucas) | N/A |
-| 33 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 34 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 35 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 36 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 37 | [Bake Off](http://twitter.com/search?q=Bake+Off) | N/A |
-| 38 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 39 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
-| 40 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 41 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 42 | [Mothers Day](http://twitter.com/search?q=Mothers+Day) | N/A |
-| 43 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
-| 44 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 45 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 46 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 47 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
-| 48 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
-| 49 | [#BritishBookAwards](http://twitter.com/search?q=%23BritishBookAwards) | N/A |
-| 50 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 22 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 23 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
+| 24 | [Colby Covington](http://twitter.com/search?q=Colby+Covington) | N/A |
+| 25 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
+| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 27 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
+| 28 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
+| 29 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 30 | [Parish](http://twitter.com/search?q=Parish) | N/A |
+| 31 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 32 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 33 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 34 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 35 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 36 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 37 | [Matt Lucas](http://twitter.com/search?q=Matt+Lucas) | N/A |
+| 38 | [Passport Office](http://twitter.com/search?q=Passport+Office) | N/A |
+| 39 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 40 | [Slainte](http://twitter.com/search?q=Slainte) | N/A |
+| 41 | [St George](http://twitter.com/search?q=St+George) | N/A |
+| 42 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
+| 43 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 44 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 45 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 46 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 47 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
+| 48 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 49 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
+| 50 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
 
 
 

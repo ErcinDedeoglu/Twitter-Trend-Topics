@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-17 10:16:56 UTC`
+📆 Last Updated: `2023-03-17 11:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
+| 1 | [#glendaletstheerastour](http://twitter.com/search?q=%23glendaletstheerastour) | N/A |
 | 2 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 3 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 4 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 5 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 7 | [#SETMEFREE1stWin](http://twitter.com/search?q=%23SETMEFREE1stWin) | N/A |
-| 8 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 11 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 12 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 13 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 14 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 15 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
-| 16 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 17 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 18 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 19 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 20 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 21 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 22 | [Chloe Bailey](http://twitter.com/search?q=Chloe+Bailey) | N/A |
-| 23 | [Marcus Mariota](http://twitter.com/search?q=Marcus+Mariota) | N/A |
-| 24 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 25 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
-| 26 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 27 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
-| 28 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 29 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 4 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 6 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 7 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 8 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 10 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
+| 11 | [Top O](http://twitter.com/search?q=Top+O) | N/A |
+| 12 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
+| 13 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 14 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 15 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 16 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 17 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 18 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
+| 19 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 20 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 21 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 22 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 23 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 24 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 25 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 26 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 27 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 28 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 29 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
 | 30 | [Paris Jackson](http://twitter.com/search?q=Paris+Jackson) | N/A |
-| 31 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 32 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 33 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 34 | [Donald Glover](http://twitter.com/search?q=Donald+Glover) | N/A |
-| 35 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
-| 36 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 31 | [Taylor's Version](http://twitter.com/search?q=Taylor%27s+Version) | N/A |
+| 32 | [andrew funk](http://twitter.com/search?q=andrew+funk) | N/A |
+| 33 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 34 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 35 | [Donald Glover](http://twitter.com/search?q=Donald+Glover) | N/A |
+| 36 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
 | 37 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 38 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 39 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
-| 40 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 41 | [Tori Kelly](http://twitter.com/search?q=Tori+Kelly) | N/A |
-| 42 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 43 | [Yves Tumor](http://twitter.com/search?q=Yves+Tumor) | N/A |
-| 44 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 45 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 38 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 39 | [Kushner](http://twitter.com/search?q=Kushner) | N/A |
+| 40 | [Beverly Hills Cop](http://twitter.com/search?q=Beverly+Hills+Cop) | N/A |
+| 41 | [Harlem Nights](http://twitter.com/search?q=Harlem+Nights) | N/A |
+| 42 | [Fearless](http://twitter.com/search?q=Fearless) | N/A |
+| 43 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 45 | [Minshew](http://twitter.com/search?q=Minshew) | Minshew is a surname of English origin. It is derived from the Old English words "myne" (mine) and "sceaga" (wood). The name was originally given to someone who lived near a wood or forest. |
 | 46 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 47 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 48 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
-| 49 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
-| 50 | [Beverly Hills](http://twitter.com/search?q=Beverly+Hills) | N/A |
+| 47 | [Coming to America](http://twitter.com/search?q=Coming+to+America) | N/A |
+| 48 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 49 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 50 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
 
 
 
