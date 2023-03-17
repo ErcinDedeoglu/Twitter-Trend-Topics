@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-17 12:18:20 UTC`
+📆 Last Updated: `2023-03-17 13:20:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Kenya](</Kenya>)
 | ------- | ------------ | ------------ |
 | 1 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
 | 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 4 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 5 | [50 CAS](http://twitter.com/search?q=50+CAS) | N/A |
 | 6 | [#MakeChaguoSmartaNaAirtel](http://twitter.com/search?q=%23MakeChaguoSmartaNaAirtel) | N/A |
-| 7 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 8 | [#DecoratedRoadToAbidjan](http://twitter.com/search?q=%23DecoratedRoadToAbidjan) | N/A |
-| 9 | [Tubonge ALLNET 20](http://twitter.com/search?q=Tubonge+ALLNET+20) | N/A |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 12 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 13 | [Millicent Omanga](http://twitter.com/search?q=Millicent+Omanga) | N/A |
-| 14 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 15 | [#jklive](http://twitter.com/search?q=%23jklive) | N/A |
-| 16 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 18 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 19 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 20 | [Margaret Kenyatta](http://twitter.com/search?q=Margaret+Kenyatta) | N/A |
-| 21 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 22 | [3 CAS](http://twitter.com/search?q=3+CAS) | N/A |
-| 23 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 24 | [Patrick Vieira](http://twitter.com/search?q=Patrick+Vieira) | N/A |
-| 25 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 26 | [Dennis Itumbi](http://twitter.com/search?q=Dennis+Itumbi) | N/A |
-| 27 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 29 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
-| 30 | [Kidero](http://twitter.com/search?q=Kidero) | N/A |
-| 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 32 | [kimani ichungwa](http://twitter.com/search?q=kimani+ichungwa) | N/A |
-| 33 | [promo code subz24](http://twitter.com/search?q=promo+code+subz24) | N/A |
-| 34 | [subscribe nation epaper](http://twitter.com/search?q=subscribe+nation+epaper) | N/A |
-| 35 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 9 | [#TuskerFest](http://twitter.com/search?q=%23TuskerFest) | N/A |
+| 10 | [Tubonge ALLNET 20](http://twitter.com/search?q=Tubonge+ALLNET+20) | N/A |
+| 11 | [#DecoratedRoadToAbidjan](http://twitter.com/search?q=%23DecoratedRoadToAbidjan) | N/A |
+| 12 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 13 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 16 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 17 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
+| 18 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 19 | [Raila](http://twitter.com/search?q=Raila) | N/A |
+| 20 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 21 | [millicent omanga](http://twitter.com/search?q=millicent+omanga) | N/A |
+| 22 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 23 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 24 | [Githurai](http://twitter.com/search?q=Githurai) | N/A |
+| 25 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 26 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 27 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 28 | [3 CAS](http://twitter.com/search?q=3+CAS) | N/A |
+| 29 | [HAPPENING NOW](http://twitter.com/search?q=HAPPENING+NOW) | N/A |
+| 30 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 31 | [Margaret Kenyatta](http://twitter.com/search?q=Margaret+Kenyatta) | N/A |
+| 32 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 33 | [Sherehe](http://twitter.com/search?q=Sherehe) | N/A |
+| 34 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 35 | [ruaka](http://twitter.com/search?q=ruaka) | N/A |
 | 36 | [European](http://twitter.com/search?q=European) | N/A |
-| 37 | [enough is enough](http://twitter.com/search?q=enough+is+enough) | N/A |
-| 38 | [Maandamano](http://twitter.com/search?q=Maandamano) | N/A |
-| 39 | [Naivas](http://twitter.com/search?q=Naivas) | N/A |
-| 40 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 41 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 42 | [Mama Mboga](http://twitter.com/search?q=Mama+Mboga) | N/A |
-| 43 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 44 | [tecno spark 10](http://twitter.com/search?q=tecno+spark+10) | N/A |
-| 45 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
-| 46 | [minne](http://twitter.com/search?q=minne) | N/A |
-| 47 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
-| 48 | [Caleb Kositany](http://twitter.com/search?q=Caleb+Kositany) | N/A |
-| 49 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
-| 50 | [Sossion](http://twitter.com/search?q=Sossion) | N/A |
+| 37 | [promo code subz24](http://twitter.com/search?q=promo+code+subz24) | N/A |
+| 38 | [subscribe nation epaper](http://twitter.com/search?q=subscribe+nation+epaper) | N/A |
+| 39 | [Dennis Itumbi](http://twitter.com/search?q=Dennis+Itumbi) | N/A |
+| 40 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 41 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 42 | [Caleb Kositany](http://twitter.com/search?q=Caleb+Kositany) | N/A |
+| 43 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
+| 44 | [Enough is Enough](http://twitter.com/search?q=Enough+is+Enough) | N/A |
+| 45 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 46 | [Naivas](http://twitter.com/search?q=Naivas) | N/A |
+| 47 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
+| 48 | [Kidero](http://twitter.com/search?q=Kidero) | N/A |
+| 49 | [Mama Mboga](http://twitter.com/search?q=Mama+Mboga) | N/A |
+| 50 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
 
 
 

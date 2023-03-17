@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-17 12:17:55 UTC`
+📆 Last Updated: `2023-03-17 13:19:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 2 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 3 | [#GBSpringClean](http://twitter.com/search?q=%23GBSpringClean) | N/A |
-| 4 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 6 | [#BanTrophyHunting](http://twitter.com/search?q=%23BanTrophyHunting) | N/A |
-| 7 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 8 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 10 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 11 | [Bake Off](http://twitter.com/search?q=Bake+Off) | N/A |
-| 12 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 16 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 17 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 18 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 1 | [#SongsOfSurrender](http://twitter.com/search?q=%23SongsOfSurrender) | N/A |
+| 2 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 4 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 5 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 6 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 7 | [#FordeReport](http://twitter.com/search?q=%23FordeReport) | N/A |
+| 8 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 9 | [#fundraising](http://twitter.com/search?q=%23fundraising) | N/A |
+| 10 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 15 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 16 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 18 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
+| 19 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
 | 20 | [Jacqueline Gold](http://twitter.com/search?q=Jacqueline+Gold) | N/A |
-| 21 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 22 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 24 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 25 | [Ann Summers](http://twitter.com/search?q=Ann+Summers) | N/A |
-| 26 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 21 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 22 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 24 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 25 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 26 | [Ann Summers](http://twitter.com/search?q=Ann+Summers) | N/A |
 | 27 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 28 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
-| 29 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 30 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 31 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
-| 32 | [the undertaker](http://twitter.com/search?q=the+undertaker) | N/A |
-| 33 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 34 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 35 | [Colby Covington](http://twitter.com/search?q=Colby+Covington) | N/A |
-| 36 | [City and Chelsea](http://twitter.com/search?q=City+and+Chelsea) | N/A |
-| 37 | [Stone Cold Steve Austin](http://twitter.com/search?q=Stone+Cold+Steve+Austin) | N/A |
-| 38 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
-| 39 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 40 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 41 | [Matt Lucas](http://twitter.com/search?q=Matt+Lucas) | N/A |
-| 42 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 43 | [Passport Office](http://twitter.com/search?q=Passport+Office) | N/A |
-| 44 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 45 | [Parish](http://twitter.com/search?q=Parish) | N/A |
-| 46 | [Stattler](http://twitter.com/search?q=Stattler) | N/A |
-| 47 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 48 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 28 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 30 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 31 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 32 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 33 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 34 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
+| 35 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
+| 36 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 37 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 38 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 39 | [Jose](http://twitter.com/search?q=Jose) | N/A |
+| 40 | [The Undertaker](http://twitter.com/search?q=The+Undertaker) | N/A |
+| 41 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 42 | [Parish](http://twitter.com/search?q=Parish) | N/A |
+| 43 | [Lossiemouth](http://twitter.com/search?q=Lossiemouth) | N/A |
+| 44 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 45 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 46 | [Sir Jim Ratcliffe](http://twitter.com/search?q=Sir+Jim+Ratcliffe) | Sir Jim Ratcliffe is an English billionaire businessman and the founder, chairman, and majority shareholder of the multinational chemicals company Ineos. He is one of the wealthiest people in the United Kingdom. |
+| 47 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 48 | [Stone Cold Steve Austin](http://twitter.com/search?q=Stone+Cold+Steve+Austin) | N/A |
 
 
 

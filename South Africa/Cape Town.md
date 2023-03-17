@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-17 12:18:21 UTC`
+📆 Last Updated: `2023-03-17 13:20:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 2 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 6 | [#LovingYou](http://twitter.com/search?q=%23LovingYou) | N/A |
-| 7 | [#PowerBall](http://twitter.com/search?q=%23PowerBall) | N/A |
-| 8 | [Dr Nandi](http://twitter.com/search?q=Dr+Nandi) | N/A |
-| 9 | [SANTACO](http://twitter.com/search?q=SANTACO) | N/A |
-| 10 | [Travelstart](http://twitter.com/search?q=Travelstart) | N/A |
-| 11 | [Stage 2](http://twitter.com/search?q=Stage+2) | N/A |
-| 12 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 14 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [USSD](http://twitter.com/search?q=USSD) | N/A |
-| 18 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 19 | [Phanda Pusha Play](http://twitter.com/search?q=Phanda+Pusha+Play) | N/A |
-| 20 | [Mobile App](http://twitter.com/search?q=Mobile+App) | N/A |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 5 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
+| 6 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 7 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
+| 8 | [#LovingYou](http://twitter.com/search?q=%23LovingYou) | N/A |
+| 9 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
+| 10 | [Dr Nandi](http://twitter.com/search?q=Dr+Nandi) | N/A |
+| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 12 | [Travelstart](http://twitter.com/search?q=Travelstart) | N/A |
+| 13 | [SANTACO](http://twitter.com/search?q=SANTACO) | N/A |
+| 14 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
+| 15 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 16 | [Stage 2](http://twitter.com/search?q=Stage+2) | N/A |
+| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 18 | [Checkmate](http://twitter.com/search?q=Checkmate) | N/A |
+| 19 | [Crowning](http://twitter.com/search?q=Crowning) | N/A |
+| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 21 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 22 | [Mudau](http://twitter.com/search?q=Mudau) | N/A |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
 | 24 | [KHOSI THE CHEETAH](http://twitter.com/search?q=KHOSI+THE+CHEETAH) | N/A |
-| 25 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
-| 26 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
-| 27 | [Amanda Black](http://twitter.com/search?q=Amanda+Black) | N/A |
-| 28 | [Coffee with Khosi](http://twitter.com/search?q=Coffee+with+Khosi) | N/A |
-| 29 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 30 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 31 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 32 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 33 | [THABANG TO THE FINALS](http://twitter.com/search?q=THABANG+TO+THE+FINALS) | N/A |
-| 34 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 25 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 26 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 27 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 28 | [Mudau](http://twitter.com/search?q=Mudau) | N/A |
+| 29 | [Phanda Pusha Play](http://twitter.com/search?q=Phanda+Pusha+Play) | N/A |
+| 30 | [Mobile App](http://twitter.com/search?q=Mobile+App) | N/A |
+| 31 | [USSD](http://twitter.com/search?q=USSD) | N/A |
+| 32 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
+| 33 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 34 | [Amanda Black](http://twitter.com/search?q=Amanda+Black) | N/A |
 | 35 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 36 | [TBANGERS PIN FOR THABANG](http://twitter.com/search?q=TBANGERS+PIN+FOR+THABANG) | N/A |
-| 37 | [Mobbie](http://twitter.com/search?q=Mobbie) | N/A |
-| 38 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 39 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 40 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 41 | [Putco](http://twitter.com/search?q=Putco) | N/A |
-| 42 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 43 | [doctor khumalo](http://twitter.com/search?q=doctor+khumalo) | N/A |
-| 44 | [Broos](http://twitter.com/search?q=Broos) | N/A |
-| 45 | [Quinton Fortune](http://twitter.com/search?q=Quinton+Fortune) | N/A |
-| 46 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
-| 47 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 36 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 37 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 38 | [THABANG TO THE FINALS](http://twitter.com/search?q=THABANG+TO+THE+FINALS) | N/A |
+| 39 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 40 | [TBANGERS PIN FOR THABANG](http://twitter.com/search?q=TBANGERS+PIN+FOR+THABANG) | N/A |
+| 41 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 42 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 43 | [mobbie](http://twitter.com/search?q=mobbie) | N/A |
+| 44 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 45 | [Putco](http://twitter.com/search?q=Putco) | N/A |
+| 46 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 47 | [Viera](http://twitter.com/search?q=Viera) | N/A |
 
 
 

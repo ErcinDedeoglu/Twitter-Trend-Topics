@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-17 12:18:44 UTC`
+📆 Last Updated: `2023-03-17 13:20:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,47 +18,53 @@ This is top 50 for Philippines
 | 1 | [#DunkinPHxChaEunWoo](http://twitter.com/search?q=%23DunkinPHxChaEunWoo) | N/A |
 | 2 | [#SETMEFREE1stWin](http://twitter.com/search?q=%23SETMEFREE1stWin) | N/A |
 | 3 | [#TWICE120thWin](http://twitter.com/search?q=%23TWICE120thWin) | N/A |
-| 4 | [#AURAMExBecky](http://twitter.com/search?q=%23AURAMExBecky) | N/A |
-| 5 | [#HORI7ON_GoesToAntipolo](http://twitter.com/search?q=%23HORI7ON_GoesToAntipolo) | N/A |
-| 6 | [CHIN SAID YES TO SETH](http://twitter.com/search?q=CHIN+SAID+YES+TO+SETH) | N/A |
-| 7 | [SEHAM ON TEENCLASH](http://twitter.com/search?q=SEHAM+ON+TEENCLASH) | N/A |
-| 8 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 9 | [KAOMIAH ERA NA](http://twitter.com/search?q=KAOMIAH+ERA+NA) | N/A |
-| 10 | [HEEJAY LIVE](http://twitter.com/search?q=HEEJAY+LIVE) | N/A |
-| 11 | [KATHNIEL GnaG SA PRESSCON](http://twitter.com/search?q=KATHNIEL+GnaG+SA+PRESSCON) | N/A |
-| 12 | [ANTIPOLOves HORI7ON](http://twitter.com/search?q=ANTIPOLOves+HORI7ON) | N/A |
-| 13 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 14 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 15 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 16 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 17 | [HORI7ON OFFICIAL LOGO REVEAL](http://twitter.com/search?q=HORI7ON+OFFICIAL+LOGO+REVEAL) | N/A |
-| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 19 | [IIBIG MULI SA ABRIL](http://twitter.com/search?q=IIBIG+MULI+SA+ABRIL) | N/A |
-| 20 | [BLCK](http://twitter.com/search?q=BLCK) | BLCK is an acronym for Black Lives Matter. It is a movement that seeks to end systemic racism and violence against Black people. |
-| 21 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
-| 22 | [Navotas](http://twitter.com/search?q=Navotas) | N/A |
-| 23 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 24 | [SG20 TICKET RELEASE](http://twitter.com/search?q=SG20+TICKET+RELEASE) | N/A |
-| 25 | [POPSTAR ROYALTY CONCERT](http://twitter.com/search?q=POPSTAR+ROYALTY+CONCERT) | N/A |
-| 26 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
-| 27 | [JOSHUA HONG](http://twitter.com/search?q=JOSHUA+HONG) | N/A |
-| 28 | [Taylor's Version](http://twitter.com/search?q=Taylor%27s+Version) | N/A |
-| 29 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
-| 30 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 31 | [Jadine](http://twitter.com/search?q=Jadine) | N/A |
-| 32 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 33 | [#TeenClashEp1](http://twitter.com/search?q=%23TeenClashEp1) | N/A |
-| 34 | [#BARDAxALASKA](http://twitter.com/search?q=%23BARDAxALASKA) | N/A |
-| 35 | [#GKapamilyaAUHPressCon](http://twitter.com/search?q=%23GKapamilyaAUHPressCon) | N/A |
-| 36 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 37 | [#ShiningWithLove](http://twitter.com/search?q=%23ShiningWithLove) | N/A |
-| 38 | [#EndingFairy_MINA](http://twitter.com/search?q=%23EndingFairy_MINA) | N/A |
-| 39 | [#미나_엔딩요정](http://twitter.com/search?q=%23%eb%af%b8%eb%82%98_%ec%97%94%eb%94%a9%ec%9a%94%ec%a0%95) | N/A |
-| 40 | [#HORI7ON_DASH_D5](http://twitter.com/search?q=%23HORI7ON_DASH_D5) | N/A |
-| 41 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
-| 42 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 43 | [#DavidLicauco](http://twitter.com/search?q=%23DavidLicauco) | N/A |
-| 44 | [#CaratSelcaDay](http://twitter.com/search?q=%23CaratSelcaDay) | #CaratSelcaDay is a hashtag used by fans of the South Korean boy band SEVENTEEN. It is used to share photos of the members of the group, usually taken by fans themselves. The hashtag is a combination of "carat," which is the name given to SEVENTEEN's fan base, and "selca," which is short for "selfie." |
+| 4 | [#TeenClashEp1](http://twitter.com/search?q=%23TeenClashEp1) | N/A |
+| 5 | [SET ME FREE 1ST SLAY](http://twitter.com/search?q=SET+ME+FREE+1ST+SLAY) | N/A |
+| 6 | [KAOMIAH ERA NA](http://twitter.com/search?q=KAOMIAH+ERA+NA) | N/A |
+| 7 | [CHIN SAID YES TO SETH](http://twitter.com/search?q=CHIN+SAID+YES+TO+SETH) | N/A |
+| 8 | [#KENTIN](http://twitter.com/search?q=%23KENTIN) | N/A |
+| 9 | [SEHAM ON TEENCLASH](http://twitter.com/search?q=SEHAM+ON+TEENCLASH) | N/A |
+| 10 | [ROMANTIC ROBXINE PROMPOSAL](http://twitter.com/search?q=ROMANTIC+ROBXINE+PROMPOSAL) | N/A |
+| 11 | [ALL ROUNDER INTERN V](http://twitter.com/search?q=ALL+ROUNDER+INTERN+V) | N/A |
+| 12 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 13 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
+| 14 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 15 | [giselle](http://twitter.com/search?q=giselle) | N/A |
+| 16 | [KODREA AS JOSHMANDY TCEP1](http://twitter.com/search?q=KODREA+AS+JOSHMANDY+TCEP1) | N/A |
+| 17 | [KATHNIEL GnaG SA PRESSCON](http://twitter.com/search?q=KATHNIEL+GnaG+SA+PRESSCON) | N/A |
+| 18 | [COFFEE DATE WITH ALAMAT](http://twitter.com/search?q=COFFEE+DATE+WITH+ALAMAT) | N/A |
+| 19 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 20 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 21 | [FACE in Shopee](http://twitter.com/search?q=FACE+in+Shopee) | N/A |
+| 22 | [ANTIPOLOves HORI7ON](http://twitter.com/search?q=ANTIPOLOves+HORI7ON) | N/A |
+| 23 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 24 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 25 | [DOST](http://twitter.com/search?q=DOST) | N/A |
+| 26 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 27 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 28 | [HORI7ON OFFICIAL LOGO REVEAL](http://twitter.com/search?q=HORI7ON+OFFICIAL+LOGO+REVEAL) | N/A |
+| 29 | [HEEJAY LIVE](http://twitter.com/search?q=HEEJAY+LIVE) | N/A |
+| 30 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 31 | [IIBIG MULI SA ABRIL](http://twitter.com/search?q=IIBIG+MULI+SA+ABRIL) | N/A |
+| 32 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
+| 33 | [Navotas](http://twitter.com/search?q=Navotas) | N/A |
+| 34 | [SG20 TICKET RELEASE](http://twitter.com/search?q=SG20+TICKET+RELEASE) | N/A |
+| 35 | [POPSTAR ROYALTY CONCERT](http://twitter.com/search?q=POPSTAR+ROYALTY+CONCERT) | N/A |
+| 36 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
+| 37 | [JOSHUA HONG](http://twitter.com/search?q=JOSHUA+HONG) | N/A |
+| 38 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 39 | [BOOM BADING DESURV](http://twitter.com/search?q=BOOM+BADING+DESURV) | N/A |
+| 40 | [Jadine](http://twitter.com/search?q=Jadine) | N/A |
+| 41 | [#HORI7ON_GoesToAntipolo](http://twitter.com/search?q=%23HORI7ON_GoesToAntipolo) | N/A |
+| 42 | [#AURAMExBecky](http://twitter.com/search?q=%23AURAMExBecky) | N/A |
+| 43 | [#BARDAxALASKA](http://twitter.com/search?q=%23BARDAxALASKA) | N/A |
+| 44 | [#UrdujaPowers](http://twitter.com/search?q=%23UrdujaPowers) | N/A |
+| 45 | [#JinnysKitchenEp4](http://twitter.com/search?q=%23JinnysKitchenEp4) | N/A |
+| 46 | [#Builduremotion](http://twitter.com/search?q=%23Builduremotion) | N/A |
+| 47 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 48 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
+| 49 | [#ShiningWithLove](http://twitter.com/search?q=%23ShiningWithLove) | N/A |
+| 50 | [#ALAMATatManilaCoffeeFestival](http://twitter.com/search?q=%23ALAMATatManilaCoffeeFestival) | N/A |
 
 
 

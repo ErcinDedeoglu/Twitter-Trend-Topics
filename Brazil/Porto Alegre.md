@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-17 12:18:01 UTC`
+📆 Last Updated: `2023-03-17 13:19:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 2 | [#lime](http://twitter.com/search?q=%23lime) | N/A |
+| 2 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 4 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 6 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
-| 7 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 8 | [#AurameXBecky](http://twitter.com/search?q=%23AurameXBecky) | N/A |
-| 9 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 10 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 11 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 12 | [Set Me Free](http://twitter.com/search?q=Set+Me+Free) | N/A |
-| 13 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 14 | [Internazionale](http://twitter.com/search?q=Internazionale) | N/A |
+| 4 | [#lime](http://twitter.com/search?q=%23lime) | N/A |
+| 5 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 6 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 8 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 9 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 10 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
+| 11 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 12 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 13 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 14 | [Suzane](http://twitter.com/search?q=Suzane) | Suzane is a French female name, derived from the Latin name Susanna. It is thought to mean "lily" or "graceful lily". |
 | 15 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 16 | [HOLIDAY NA CADEIA](http://twitter.com/search?q=HOLIDAY+NA+CADEIA) | N/A |
-| 17 | [Real x City](http://twitter.com/search?q=Real+x+City) | N/A |
-| 18 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 19 | [São Patrício](http://twitter.com/search?q=S%c3%a3o+Patr%c3%adcio) | N/A |
-| 20 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 21 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 22 | [Loona](http://twitter.com/search?q=Loona) | N/A |
-| 23 | [PELADO](http://twitter.com/search?q=PELADO) | N/A |
-| 24 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 25 | [Estatais](http://twitter.com/search?q=Estatais) | N/A |
-| 26 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
-| 27 | [Ismeiow](http://twitter.com/search?q=Ismeiow) | N/A |
-| 28 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
-| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 30 | [Fearless](http://twitter.com/search?q=Fearless) | N/A |
-| 31 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
-| 32 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
-| 33 | [CRY BABY IS DEAD](http://twitter.com/search?q=CRY+BABY+IS+DEAD) | N/A |
-| 34 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 35 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 36 | [Vascão](http://twitter.com/search?q=Vasc%c3%a3o) | N/A |
-| 37 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 38 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
-| 39 | [Liam Payne](http://twitter.com/search?q=Liam+Payne) | N/A |
-| 40 | [O ABC](http://twitter.com/search?q=O+ABC) | N/A |
-| 41 | [Lady Night](http://twitter.com/search?q=Lady+Night) | N/A |
-| 42 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 43 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 44 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 45 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 46 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 47 | [Lagum](http://twitter.com/search?q=Lagum) | N/A |
-| 48 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 49 | [Oi Lula](http://twitter.com/search?q=Oi+Lula) | N/A |
-| 50 | [Basco](http://twitter.com/search?q=Basco) | N/A |
+| 16 | [#AURAMExBecky](http://twitter.com/search?q=%23AURAMExBecky) | N/A |
+| 17 | [São Patrício](http://twitter.com/search?q=S%c3%a3o+Patr%c3%adcio) | N/A |
+| 18 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 19 | [Set Me Free](http://twitter.com/search?q=Set+Me+Free) | N/A |
+| 20 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 21 | [HOLIDAY NA CADEIA](http://twitter.com/search?q=HOLIDAY+NA+CADEIA) | N/A |
+| 22 | [Real x City](http://twitter.com/search?q=Real+x+City) | N/A |
+| 23 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 24 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 25 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 26 | [#TWICE120thWin](http://twitter.com/search?q=%23TWICE120thWin) | N/A |
+| 27 | [Estatais](http://twitter.com/search?q=Estatais) | N/A |
+| 28 | [Internazionale](http://twitter.com/search?q=Internazionale) | N/A |
+| 29 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
+| 30 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 31 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 32 | [Liga dos Campeões](http://twitter.com/search?q=Liga+dos+Campe%c3%b5es) | N/A |
+| 33 | [Ismeiow](http://twitter.com/search?q=Ismeiow) | N/A |
+| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 35 | [LOONA](http://twitter.com/search?q=LOONA) | N/A |
+| 36 | [PELADO](http://twitter.com/search?q=PELADO) | N/A |
+| 37 | [black metal](http://twitter.com/search?q=black+metal) | N/A |
+| 38 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
+| 39 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 40 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 41 | [MC Guimê e Cara de Sapato](http://twitter.com/search?q=MC+Guim%c3%aa+e+Cara+de+Sapato) | N/A |
+| 42 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 43 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 44 | [Elis Regina](http://twitter.com/search?q=Elis+Regina) | N/A |
+| 45 | [Fearless](http://twitter.com/search?q=Fearless) | N/A |
+| 46 | [sabrina carpenter](http://twitter.com/search?q=sabrina+carpenter) | N/A |
+| 47 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 48 | [Exército](http://twitter.com/search?q=Ex%c3%a9rcito) | Exército is the Portuguese word for "army". It is used to refer to the armed forces of a country. In English, it can be translated as "army" or "military". |
+| 49 | [liam payne](http://twitter.com/search?q=liam+payne) | Liam Payne is an English singer and songwriter. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album LP1 in 2019. |
+| 50 | [Edir Macedo](http://twitter.com/search?q=Edir+Macedo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-17 12:18:30 UTC`
+📆 Last Updated: `2023-03-17 13:20:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Houston](http://twitter.com/search?q=Houston) | N/A |
 | 2 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 3 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 3 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 4 | [#lime](http://twitter.com/search?q=%23lime) | N/A |
-| 5 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 5 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 8 | [Gesicki](http://twitter.com/search?q=Gesicki) | N/A |
 | 9 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
 | 10 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
 | 11 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 12 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 13 | [Gesicki](http://twitter.com/search?q=Gesicki) | N/A |
-| 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 17 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
-| 18 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
-| 19 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 20 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 21 | [Top O](http://twitter.com/search?q=Top+O) | N/A |
-| 22 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 23 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 24 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 25 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 26 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 27 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 28 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 29 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
+| 12 | [#luckoftheirish](http://twitter.com/search?q=%23luckoftheirish) | N/A |
+| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 15 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 16 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 17 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 19 | [Top O](http://twitter.com/search?q=Top+O) | N/A |
+| 20 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 21 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 22 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 23 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
+| 24 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 25 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 26 | [Everyone is Irish](http://twitter.com/search?q=Everyone+is+Irish) | N/A |
+| 27 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
+| 28 | [Bragh](http://twitter.com/search?q=Bragh) | N/A |
+| 29 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 30 | [Hunter Henry](http://twitter.com/search?q=Hunter+Henry) | N/A |
-| 31 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 32 | [Bragh](http://twitter.com/search?q=Bragh) | N/A |
-| 33 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
-| 34 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 35 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 36 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 37 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 38 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 39 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 40 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 41 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 42 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 43 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 44 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 45 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 46 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 47 | [Damson](http://twitter.com/search?q=Damson) | Damson is a type of small, dark purple plum. It is native to the UK and parts of Europe, and is used in jams, jellies, and other preserves. The name "damson" comes from the Latin word for "plum," prunus domestica. |
-| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 49 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 50 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 31 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 32 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 33 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
+| 34 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 35 | [Jonnu](http://twitter.com/search?q=Jonnu) | N/A |
+| 36 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 37 | [Irish Blessing](http://twitter.com/search?q=Irish+Blessing) | N/A |
+| 38 | [Chloe Bailey](http://twitter.com/search?q=Chloe+Bailey) | N/A |
+| 39 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
+| 40 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
+| 41 | [EST Gee](http://twitter.com/search?q=EST+Gee) | N/A |
+| 42 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 43 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 44 | [Irish Americans](http://twitter.com/search?q=Irish+Americans) | N/A |
+| 45 | [Chapter 11](http://twitter.com/search?q=Chapter+11) | N/A |
+| 46 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 47 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 48 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 49 | [Devin Bush](http://twitter.com/search?q=Devin+Bush) | N/A |
 
 
 
