@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-03-17 22:16:41 UTC`
+📆 Last Updated: `2023-03-17 23:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 2 | [Go Green](http://twitter.com/search?q=Go+Green) | N/A |
-| 3 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 4 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 6 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 7 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 8 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
-| 9 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 10 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 11 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 2 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 3 | [Go Green](http://twitter.com/search?q=Go+Green) | N/A |
+| 4 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 5 | [#CAIGPT](http://twitter.com/search?q=%23CAIGPT) | N/A |
+| 6 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 7 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 8 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 9 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 10 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 11 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 13 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
+| 13 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
 | 14 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 15 | [Iona](http://twitter.com/search?q=Iona) | N/A |
-| 16 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 17 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 18 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 19 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
+| 15 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
+| 16 | [Iona](http://twitter.com/search?q=Iona) | N/A |
+| 17 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 18 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 19 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
 | 20 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 21 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 22 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 23 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 24 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 25 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
-| 26 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 27 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 28 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 29 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 30 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 31 | [Kam Jones](http://twitter.com/search?q=Kam+Jones) | N/A |
-| 32 | [Hail to Pitt](http://twitter.com/search?q=Hail+to+Pitt) | N/A |
-| 33 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
-| 34 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 35 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
-| 36 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 37 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
-| 38 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 21 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
+| 22 | [Byard](http://twitter.com/search?q=Byard) | N/A |
+| 23 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
+| 24 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 25 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
+| 26 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
+| 27 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 28 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 29 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 30 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 31 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
+| 32 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 33 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 34 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 35 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 36 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 37 | [Hail to Pitt](http://twitter.com/search?q=Hail+to+Pitt) | N/A |
+| 38 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
 | 39 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
-| 40 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 40 | [Drue](http://twitter.com/search?q=Drue) | N/A |
 | 41 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
-| 42 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
-| 43 | [Drue](http://twitter.com/search?q=Drue) | N/A |
-| 44 | [Cyclones](http://twitter.com/search?q=Cyclones) | N/A |
+| 42 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 43 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
+| 44 | [Kam Jones](http://twitter.com/search?q=Kam+Jones) | N/A |
 | 45 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 46 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
-| 47 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 48 | [Clingan](http://twitter.com/search?q=Clingan) | N/A |
-| 49 | [Charon](http://twitter.com/search?q=Charon) | N/A |
-| 50 | [Dean Lowry](http://twitter.com/search?q=Dean+Lowry) | N/A |
+| 46 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 47 | [Dean Lowry](http://twitter.com/search?q=Dean+Lowry) | N/A |
+| 48 | [Gaels](http://twitter.com/search?q=Gaels) | N/A |
+| 49 | [Cyclones](http://twitter.com/search?q=Cyclones) | N/A |
+| 50 | [Guardian](http://twitter.com/search?q=Guardian) | N/A |
 
 
 

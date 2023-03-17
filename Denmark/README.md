@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-17 22:16:49 UTC`
+📆 Last Updated: `2023-03-17 23:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,44 +23,44 @@ This is top 50 for Denmark
 | 6 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 7 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
 | 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 9 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 12 | [#arsscp](http://twitter.com/search?q=%23arsscp) | N/A |
-| 13 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
-| 14 | [Livah Sunshine](http://twitter.com/search?q=Livah+Sunshine) | N/A |
-| 15 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 16 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 17 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 18 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 11 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
+| 12 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 13 | [Livah Sunshine](http://twitter.com/search?q=Livah+Sunshine) | N/A |
+| 14 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 15 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 16 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 17 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
+| 18 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 19 | [Prins Joachim](http://twitter.com/search?q=Prins+Joachim) | N/A |
 | 20 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 21 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 23 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 22 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 23 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 24 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 25 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 26 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
-| 27 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
-| 28 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 31 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 32 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
-| 33 | [Folk](http://twitter.com/search?q=Folk) | N/A |
-| 34 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 35 | [Vanopslagh](http://twitter.com/search?q=Vanopslagh) | N/A |
-| 36 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 25 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
+| 26 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
+| 27 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 28 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 29 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 32 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 33 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 34 | [Folk](http://twitter.com/search?q=Folk) | N/A |
+| 35 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 36 | [Vanopslagh](http://twitter.com/search?q=Vanopslagh) | N/A |
 | 37 | [Puha](http://twitter.com/search?q=Puha) | N/A |
-| 38 | [mitid](http://twitter.com/search?q=mitid) | N/A |
+| 38 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
 | 39 | [tom jensen](http://twitter.com/search?q=tom+jensen) | N/A |
 | 40 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 41 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 42 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 44 | [Rigtig](http://twitter.com/search?q=Rigtig) | N/A |
-| 45 | [Mærsk](http://twitter.com/search?q=M%c3%a6rsk) | N/A |
-| 46 | [brumleby](http://twitter.com/search?q=brumleby) | N/A |
+| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 43 | [Rigtig](http://twitter.com/search?q=Rigtig) | N/A |
+| 44 | [Mærsk](http://twitter.com/search?q=M%c3%a6rsk) | N/A |
+| 45 | [brumleby](http://twitter.com/search?q=brumleby) | N/A |
+| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
 | 47 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
 | 48 | [Endelig](http://twitter.com/search?q=Endelig) | N/A |
 | 49 | [The US](http://twitter.com/search?q=The+US) | N/A |

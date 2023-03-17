@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-17 22:16:19 UTC`
+📆 Last Updated: `2023-03-17 23:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,38 @@ This is top 50 for [Latvia](</Latvia>)
 | 16 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
 | 17 | [Риге](http://twitter.com/search?q=%d0%a0%d0%b8%d0%b3%d0%b5) | N/A |
 | 18 | [cerams](http://twitter.com/search?q=cerams) | N/A |
-| 19 | [Swedbank](http://twitter.com/search?q=Swedbank) | N/A |
-| 20 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
-| 21 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
-| 22 | [Šķiet](http://twitter.com/search?q=%c5%a0%c4%b7iet) | N/A |
+| 19 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
+| 20 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
+| 21 | [Šķiet](http://twitter.com/search?q=%c5%a0%c4%b7iet) | N/A |
+| 22 | [Nevar](http://twitter.com/search?q=Nevar) | N/A |
 | 23 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 24 | [Somijas](http://twitter.com/search?q=Somijas) | N/A |
 | 25 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
 | 26 | [Labāk](http://twitter.com/search?q=Lab%c4%81k) | N/A |
 | 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [Nevar](http://twitter.com/search?q=Nevar) | N/A |
-| 29 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
-| 30 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
-| 31 | [#patolaiku](http://twitter.com/search?q=%23patolaiku) | N/A |
-| 32 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 33 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
-| 34 | [taisnība](http://twitter.com/search?q=taisn%c4%abba) | N/A |
-| 35 | [kijivā](http://twitter.com/search?q=kijiv%c4%81) | N/A |
-| 36 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 37 | [Viņiem](http://twitter.com/search?q=Vi%c5%86iem) | N/A |
-| 38 | [Rīgai](http://twitter.com/search?q=R%c4%abgai) | N/A |
-| 39 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
-| 40 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
-| 41 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 42 | [knab](http://twitter.com/search?q=knab) | N/A |
-| 43 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
-| 44 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
-| 45 | [laikam](http://twitter.com/search?q=laikam) | N/A |
-| 46 | [European](http://twitter.com/search?q=European) | N/A |
-| 47 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 48 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
-| 49 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 50 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
+| 28 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 29 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
+| 30 | [#patolaiku](http://twitter.com/search?q=%23patolaiku) | N/A |
+| 31 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 32 | [taisnība](http://twitter.com/search?q=taisn%c4%abba) | N/A |
+| 33 | [kijivā](http://twitter.com/search?q=kijiv%c4%81) | N/A |
+| 34 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 35 | [Viņiem](http://twitter.com/search?q=Vi%c5%86iem) | N/A |
+| 36 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
+| 37 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
+| 38 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
+| 39 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
+| 40 | [knab](http://twitter.com/search?q=knab) | N/A |
+| 41 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
+| 42 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
+| 43 | [laikam](http://twitter.com/search?q=laikam) | N/A |
+| 44 | [European](http://twitter.com/search?q=European) | N/A |
+| 45 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 46 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
+| 47 | [Diez](http://twitter.com/search?q=Diez) | N/A |
+| 48 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
+| 49 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 50 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 
 
 

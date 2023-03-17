@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-17 22:16:13 UTC`
+📆 Last Updated: `2023-03-17 23:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Austria](</Austria>)
 | 2 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
 | 3 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
 | 4 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 5 | [#Landbauer](http://twitter.com/search?q=%23Landbauer) | N/A |
-| 6 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
-| 7 | [#FPOE](http://twitter.com/search?q=%23FPOE) | N/A |
-| 8 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 5 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
+| 6 | [#Landbauer](http://twitter.com/search?q=%23Landbauer) | N/A |
+| 7 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 8 | [#FPOE](http://twitter.com/search?q=%23FPOE) | N/A |
 | 9 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
 | 10 | [Landesregierung](http://twitter.com/search?q=Landesregierung) | N/A |
 | 11 | [Arbeitsübereinkommen](http://twitter.com/search?q=Arbeits%c3%bcbereinkommen) | N/A |
 | 12 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 13 | [#oevp](http://twitter.com/search?q=%23oevp) | N/A |
 | 14 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 15 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 16 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 17 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 18 | [Karas](http://twitter.com/search?q=Karas) | N/A |
-| 19 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
-| 20 | [Akzent](http://twitter.com/search?q=Akzent) | N/A |
-| 21 | [Arbeiterkinder](http://twitter.com/search?q=Arbeiterkinder) | N/A |
-| 22 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
-| 23 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 24 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 25 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 26 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
-| 27 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
-| 28 | [liederbuch](http://twitter.com/search?q=liederbuch) | N/A |
-| 29 | [ÖVPler](http://twitter.com/search?q=%c3%96VPler) | N/A |
-| 30 | [Machterhalt](http://twitter.com/search?q=Machterhalt) | N/A |
-| 31 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 32 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 33 | [Brüssel](http://twitter.com/search?q=Br%c3%bcssel) | N/A |
-| 34 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 35 | [Hitlergruß](http://twitter.com/search?q=Hitlergru%c3%9f) | N/A |
-| 36 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
-| 37 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 38 | [Eiernockerl](http://twitter.com/search?q=Eiernockerl) | N/A |
-| 39 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 40 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 41 | [St. Pölten](http://twitter.com/search?q=St.+P%c3%b6lten) | N/A |
-| 42 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
-| 43 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
-| 44 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
-| 45 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 46 | [ÖVP NÖ](http://twitter.com/search?q=%c3%96VP+N%c3%96) | N/A |
-| 47 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
-| 48 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 15 | [Karas](http://twitter.com/search?q=Karas) | N/A |
+| 16 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 17 | [Akzent](http://twitter.com/search?q=Akzent) | N/A |
+| 18 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
+| 19 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 20 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 21 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
+| 22 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 23 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
+| 24 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
+| 25 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
+| 26 | [liederbuch](http://twitter.com/search?q=liederbuch) | N/A |
+| 27 | [Programm](http://twitter.com/search?q=Programm) | N/A |
+| 28 | [ÖVPler](http://twitter.com/search?q=%c3%96VPler) | N/A |
+| 29 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 30 | [Brüssel](http://twitter.com/search?q=Br%c3%bcssel) | N/A |
+| 31 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 32 | [Hitlergruß](http://twitter.com/search?q=Hitlergru%c3%9f) | N/A |
+| 33 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 34 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
+| 35 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 36 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 37 | [Arbeiterkinder](http://twitter.com/search?q=Arbeiterkinder) | N/A |
+| 38 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
+| 39 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
+| 40 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 41 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 42 | [ÖVP NÖ](http://twitter.com/search?q=%c3%96VP+N%c3%96) | N/A |
+| 43 | [St. Pölten](http://twitter.com/search?q=St.+P%c3%b6lten) | N/A |
+| 44 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
+| 45 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 46 | [Schüssel](http://twitter.com/search?q=Sch%c3%bcssel) | N/A |
+| 47 | [Machterhalt](http://twitter.com/search?q=Machterhalt) | N/A |
+| 48 | [Eiernockerl](http://twitter.com/search?q=Eiernockerl) | N/A |
 | 49 | [Speisenangebot](http://twitter.com/search?q=Speisenangebot) | N/A |
-| 50 | [Kärnten](http://twitter.com/search?q=K%c3%a4rnten) | N/A |
+| 50 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
 
 
 

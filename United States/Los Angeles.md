@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-17 22:16:43 UTC`
+📆 Last Updated: `2023-03-17 23:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zurdo](http://twitter.com/search?q=Zurdo) | N/A |
-| 2 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 3 | [Corporate](http://twitter.com/search?q=Corporate) | N/A |
-| 4 | [#FlashbackFriday](http://twitter.com/search?q=%23FlashbackFriday) | N/A |
-| 5 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
-| 6 | [Resident Evil](http://twitter.com/search?q=Resident+Evil) | N/A |
-| 7 | [#green](http://twitter.com/search?q=%23green) | N/A |
-| 8 | [#MatchDay](http://twitter.com/search?q=%23MatchDay) | N/A |
-| 9 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 10 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 11 | [Merrick Garland](http://twitter.com/search?q=Merrick+Garland) | N/A |
-| 12 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 13 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
-| 14 | [San Quentin](http://twitter.com/search?q=San+Quentin) | N/A |
-| 15 | [niall horan](http://twitter.com/search?q=niall+horan) | N/A |
-| 16 | [Trojans](http://twitter.com/search?q=Trojans) | Trojans is a term used to refer to malicious software, such as computer viruses, worms, and spyware. It is named after the Trojan Horse of Greek mythology, which was a large wooden horse filled with soldiers that was used to trick the city of Troy into letting it inside their walls. Trojans are designed to gain access to a computer system without the user's knowledge or permission. They can be used to steal data, install other malicious software, or even take control of the system. |
-| 17 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 2 | [Zurdo](http://twitter.com/search?q=Zurdo) | N/A |
+| 3 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
+| 4 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 5 | [Corporate](http://twitter.com/search?q=Corporate) | N/A |
+| 6 | [#FlashbackFriday](http://twitter.com/search?q=%23FlashbackFriday) | N/A |
+| 7 | [San Quentin](http://twitter.com/search?q=San+Quentin) | N/A |
+| 8 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 9 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
+| 10 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
+| 11 | [#green](http://twitter.com/search?q=%23green) | N/A |
+| 12 | [Merrick Garland](http://twitter.com/search?q=Merrick+Garland) | N/A |
+| 13 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 14 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
+| 15 | [Erin](http://twitter.com/search?q=Erin) | N/A |
+| 16 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 17 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
 | 18 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
-| 19 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 20 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 21 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 24 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 25 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 26 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 27 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 29 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 30 | [Iona](http://twitter.com/search?q=Iona) | N/A |
-| 31 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 32 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 33 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
-| 34 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 35 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 36 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 37 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 38 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 39 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
-| 40 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 41 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 42 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 43 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 44 | [Kam Jones](http://twitter.com/search?q=Kam+Jones) | N/A |
-| 45 | [Hail to Pitt](http://twitter.com/search?q=Hail+to+Pitt) | N/A |
-| 46 | [Kennesaw State](http://twitter.com/search?q=Kennesaw+State) | N/A |
-| 47 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 48 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
-| 49 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 50 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 19 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 20 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 21 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 22 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 23 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 24 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 26 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 27 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 28 | [Iona](http://twitter.com/search?q=Iona) | N/A |
+| 29 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 30 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 31 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 32 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 33 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
+| 34 | [Byard](http://twitter.com/search?q=Byard) | N/A |
+| 35 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
+| 36 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 37 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
+| 38 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
+| 39 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 40 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 41 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
+| 42 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 43 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 44 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 45 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 46 | [Hail to Pitt](http://twitter.com/search?q=Hail+to+Pitt) | N/A |
+| 47 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
+| 48 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 49 | [Drue](http://twitter.com/search?q=Drue) | N/A |
+| 50 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
 
 
 

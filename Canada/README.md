@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-17 22:16:49 UTC`
+📆 Last Updated: `2023-03-17 23:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,39 +21,37 @@ This is top 50 for Canada
 | 4 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 5 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
 | 6 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 7 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 8 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 9 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 11 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 12 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 13 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 14 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 15 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 16 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 17 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 18 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 19 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 7 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 9 | [Globe](http://twitter.com/search?q=Globe) | N/A |
+| 10 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 11 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 12 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 13 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 14 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 15 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
+| 16 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 17 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 18 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 19 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
 | 20 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 21 | [Globe](http://twitter.com/search?q=Globe) | N/A |
-| 22 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
-| 23 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 24 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
+| 21 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 22 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 23 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 24 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
 | 25 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
 | 26 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 27 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 28 | [Pizza Hut](http://twitter.com/search?q=Pizza+Hut) | N/A |
-| 29 | [#furnalequinox2023](http://twitter.com/search?q=%23furnalequinox2023) | N/A |
-| 30 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 31 | [Fife](http://twitter.com/search?q=Fife) | N/A |
-| 32 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 33 | [Rosemont](http://twitter.com/search?q=Rosemont) | N/A |
-| 34 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 35 | [Gerald](http://twitter.com/search?q=Gerald) | N/A |
-| 36 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 37 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 38 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
-| 39 | [#LuckoftheIrish](http://twitter.com/search?q=%23LuckoftheIrish) | N/A |
+| 27 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 28 | [Butts](http://twitter.com/search?q=Butts) | N/A |
+| 29 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 30 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 31 | [#furnalequinox2023](http://twitter.com/search?q=%23furnalequinox2023) | N/A |
+| 32 | [Fife](http://twitter.com/search?q=Fife) | N/A |
+| 33 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 34 | [Gerald](http://twitter.com/search?q=Gerald) | N/A |
+| 35 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 36 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
+| 37 | [#LuckoftheIrish](http://twitter.com/search?q=%23LuckoftheIrish) | N/A |
 
 
 

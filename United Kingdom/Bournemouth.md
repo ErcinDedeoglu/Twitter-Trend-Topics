@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-17 22:16:02 UTC`
+📆 Last Updated: `2023-03-17 23:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 1 | [#isitok](http://twitter.com/search?q=%23isitok) | N/A |
 | 2 | [Geordies](http://twitter.com/search?q=Geordies) | N/A |
-| 3 | [#TALKSWITHASH](http://twitter.com/search?q=%23TALKSWITHASH) | N/A |
-| 4 | [Mrs Doubtfire](http://twitter.com/search?q=Mrs+Doubtfire) | N/A |
-| 5 | [City Ground](http://twitter.com/search?q=City+Ground) | N/A |
-| 6 | [Schar](http://twitter.com/search?q=Schar) | N/A |
-| 7 | [#BMGolden](http://twitter.com/search?q=%23BMGolden) | N/A |
-| 8 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 9 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 10 | [St George](http://twitter.com/search?q=St+George) | N/A |
-| 11 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 12 | [#FreePC](http://twitter.com/search?q=%23FreePC) | N/A |
-| 13 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 14 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 15 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 3 | [#BBCGhosts](http://twitter.com/search?q=%23BBCGhosts) | N/A |
+| 4 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 5 | [#PicardSeason3](http://twitter.com/search?q=%23PicardSeason3) | N/A |
+| 6 | [City Ground](http://twitter.com/search?q=City+Ground) | N/A |
+| 7 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 8 | [Mrs Doubtfire](http://twitter.com/search?q=Mrs+Doubtfire) | N/A |
+| 9 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 10 | [Schar](http://twitter.com/search?q=Schar) | N/A |
+| 11 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 12 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 13 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 14 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 16 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
-| 17 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 18 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 19 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 20 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 17 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 18 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 19 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 20 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
 | 21 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
-| 22 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 24 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 25 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 26 | [Botman](http://twitter.com/search?q=Botman) | N/A |
-| 27 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 28 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 22 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 23 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 25 | [Botman](http://twitter.com/search?q=Botman) | N/A |
+| 26 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 27 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 28 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 29 | [Yates](http://twitter.com/search?q=Yates) | N/A |
 | 30 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 31 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 31 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
 | 32 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 33 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 34 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 35 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 36 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 37 | [David Tennant](http://twitter.com/search?q=David+Tennant) | N/A |
-| 38 | [Yates](http://twitter.com/search?q=Yates) | N/A |
-| 39 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 40 | [Aurier](http://twitter.com/search?q=Aurier) | Aurier is a French surname. It is derived from the Latin word aurum, meaning "gold". In English, it can be translated to mean "of gold" or "golden". |
-| 41 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
-| 42 | [Niakhate](http://twitter.com/search?q=Niakhate) | N/A |
-| 43 | [Steve Cooper](http://twitter.com/search?q=Steve+Cooper) | N/A |
-| 44 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
-| 45 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
-| 46 | [Sam Neill](http://twitter.com/search?q=Sam+Neill) | N/A |
-| 47 | [Murray Foote](http://twitter.com/search?q=Murray+Foote) | N/A |
-| 48 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
-| 49 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 33 | [Aurier](http://twitter.com/search?q=Aurier) | Aurier is a French surname. It is derived from the Latin word aurum, meaning "gold". In English, it can be translated to mean "of gold" or "golden". |
+| 34 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 35 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 36 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 37 | [Niakhate](http://twitter.com/search?q=Niakhate) | N/A |
+| 38 | [Andrew Bridgen](http://twitter.com/search?q=Andrew+Bridgen) | Andrew Bridgen is a British Conservative Party politician who has been the Member of Parliament (MP) for North West Leicestershire since 2010. He is a prominent Brexiteer and has been an outspoken critic of the European Union. |
+| 39 | [Steve Cooper](http://twitter.com/search?q=Steve+Cooper) | N/A |
+| 40 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 41 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 42 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 43 | [Howe](http://twitter.com/search?q=Howe) | N/A |
+| 44 | [Murray Foote](http://twitter.com/search?q=Murray+Foote) | N/A |
+| 45 | [David Tennant](http://twitter.com/search?q=David+Tennant) | N/A |
+| 46 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 47 | [Toon](http://twitter.com/search?q=Toon) | N/A |
+| 48 | [Sam Neill](http://twitter.com/search?q=Sam+Neill) | N/A |
+| 49 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
 
 
 

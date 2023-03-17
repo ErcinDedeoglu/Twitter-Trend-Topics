@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-17 22:16:19 UTC`
+📆 Last Updated: `2023-03-17 23:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 2 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 3 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 5 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 6 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 7 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 4 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 5 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 6 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 8 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 9 | [#letempsenacceslibre](http://twitter.com/search?q=%23letempsenacceslibre) | N/A |
-| 10 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 11 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 12 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 14 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 17 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 19 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 21 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 22 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 25 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 26 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 27 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 28 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 29 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 30 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 31 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 32 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
-| 33 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 34 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 35 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 36 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 37 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 39 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 40 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 41 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
-| 42 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 43 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 44 | [Stufe](http://twitter.com/search?q=Stufe) | N/A |
-| 45 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 46 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 47 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 48 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
-| 49 | [Katze](http://twitter.com/search?q=Katze) | N/A |
+| 9 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 10 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 11 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 13 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 16 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 17 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 20 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
+| 21 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 23 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 24 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 25 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 26 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 27 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 28 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 29 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 30 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 31 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 32 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 33 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 34 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 35 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 37 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 38 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 39 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 40 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
+| 41 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 42 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 43 | [Stufe](http://twitter.com/search?q=Stufe) | N/A |
+| 44 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 45 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
+| 46 | [Katze](http://twitter.com/search?q=Katze) | N/A |
+| 47 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
+| 48 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 49 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
 
 
 
