@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-17 11:17:48 UTC`
+📆 Last Updated: `2023-03-17 12:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 3 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 4 | [#LeTempsenacceslibre](http://twitter.com/search?q=%23LeTempsenacceslibre) | N/A |
-| 5 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 6 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 7 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
-| 8 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 9 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 10 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 12 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 15 | [#scbehcb](http://twitter.com/search?q=%23scbehcb) | N/A |
-| 16 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 17 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
-| 18 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 19 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 20 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 21 | [Rente](http://twitter.com/search?q=Rente) | N/A |
-| 22 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
-| 23 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 24 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 26 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 27 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 28 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 30 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
-| 31 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 32 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 33 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 34 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
-| 35 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
-| 36 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
-| 37 | [tisch](http://twitter.com/search?q=tisch) | N/A |
-| 38 | [Sicherheiten](http://twitter.com/search?q=Sicherheiten) | N/A |
-| 39 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 40 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 41 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 42 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 43 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 44 | [Management](http://twitter.com/search?q=Management) | N/A |
-| 45 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 46 | [Konto](http://twitter.com/search?q=Konto) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 49 | [Zahl](http://twitter.com/search?q=Zahl) | N/A |
-| 50 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
+| 1 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 2 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 3 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 5 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [#LeTempsenacceslibre](http://twitter.com/search?q=%23LeTempsenacceslibre) | N/A |
+| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 9 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 10 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 12 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 13 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 16 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 17 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 18 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 19 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 21 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 22 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 23 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
+| 24 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 25 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
+| 26 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 27 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 28 | [le pen](http://twitter.com/search?q=le+pen) | N/A |
+| 29 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 31 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 32 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 33 | [Lied](http://twitter.com/search?q=Lied) | N/A |
+| 34 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
+| 35 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 36 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 37 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 38 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
+| 39 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 40 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
+| 41 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 42 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 43 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 44 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 45 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 46 | [Management](http://twitter.com/search?q=Management) | N/A |
+| 47 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
+| 48 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 49 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 50 | [Konto](http://twitter.com/search?q=Konto) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-17 11:16:39 UTC`
+📆 Last Updated: `2023-03-17 12:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 2 | [#CurrysWWE2K23](http://twitter.com/search?q=%23CurrysWWE2K23) | N/A |
-| 3 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
-| 4 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 5 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 6 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
-| 7 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
-| 8 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 9 | [#stpaddysday](http://twitter.com/search?q=%23stpaddysday) | N/A |
-| 10 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 11 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 12 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
-| 13 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 14 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 15 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 16 | [Colby Covington](http://twitter.com/search?q=Colby+Covington) | N/A |
-| 17 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
-| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 19 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
-| 20 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
-| 21 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 22 | [Parish](http://twitter.com/search?q=Parish) | N/A |
-| 23 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 24 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 25 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 26 | [Gethin](http://twitter.com/search?q=Gethin) | N/A |
-| 27 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 29 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 30 | [Matt Lucas](http://twitter.com/search?q=Matt+Lucas) | N/A |
-| 31 | [Passport Office](http://twitter.com/search?q=Passport+Office) | N/A |
-| 32 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 33 | [Slainte](http://twitter.com/search?q=Slainte) | N/A |
-| 34 | [St George](http://twitter.com/search?q=St+George) | N/A |
-| 35 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 36 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 37 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 2 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 5 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 6 | [#CurrysWWE2K23](http://twitter.com/search?q=%23CurrysWWE2K23) | N/A |
+| 7 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
+| 8 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 9 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
+| 10 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 11 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 12 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
+| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 14 | [Jacqueline Gold](http://twitter.com/search?q=Jacqueline+Gold) | N/A |
+| 15 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 16 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 17 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 18 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 19 | [Ann Summers](http://twitter.com/search?q=Ann+Summers) | N/A |
+| 20 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 21 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 22 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
+| 23 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 24 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 25 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
+| 26 | [the undertaker](http://twitter.com/search?q=the+undertaker) | N/A |
+| 27 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 28 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
+| 29 | [Colby Covington](http://twitter.com/search?q=Colby+Covington) | N/A |
+| 30 | [City and Chelsea](http://twitter.com/search?q=City+and+Chelsea) | N/A |
+| 31 | [Stone Cold Steve Austin](http://twitter.com/search?q=Stone+Cold+Steve+Austin) | N/A |
+| 32 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 33 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
+| 34 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 35 | [Matt Lucas](http://twitter.com/search?q=Matt+Lucas) | N/A |
+| 36 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 37 | [Passport Office](http://twitter.com/search?q=Passport+Office) | N/A |
 | 38 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 39 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 40 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 41 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 42 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 43 | [#CPFC](http://twitter.com/search?q=%23CPFC) | N/A |
-| 44 | [#BritishBookAwards](http://twitter.com/search?q=%23BritishBookAwards) | N/A |
-| 45 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 46 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 47 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 48 | [#Nibbies](http://twitter.com/search?q=%23Nibbies) | N/A |
-| 49 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 50 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 39 | [Parish](http://twitter.com/search?q=Parish) | N/A |
+| 40 | [Stattler](http://twitter.com/search?q=Stattler) | N/A |
+| 41 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 42 | [Carrington](http://twitter.com/search?q=Carrington) | N/A |
+| 43 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 44 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 45 | [#stpaddysday](http://twitter.com/search?q=%23stpaddysday) | N/A |
+| 46 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 47 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 48 | [#BritishBookAwards](http://twitter.com/search?q=%23BritishBookAwards) | N/A |
+| 49 | [#CPFC](http://twitter.com/search?q=%23CPFC) | N/A |
+| 50 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
 
 
 

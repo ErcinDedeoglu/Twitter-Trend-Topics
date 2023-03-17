@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-03-17 11:16:55 UTC`
+📆 Last Updated: `2023-03-17 12:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,53 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
-| 3 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 4 | [#SaintPatricksDay](http://twitter.com/search?q=%23SaintPatricksDay) | N/A |
-| 5 | [Perrin](http://twitter.com/search?q=Perrin) | N/A |
-| 6 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 7 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Olivier Dussopt](http://twitter.com/search?q=Olivier+Dussopt) | N/A |
-| 13 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 14 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 15 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 16 | [Après le 49.3](http://twitter.com/search?q=Apr%c3%a8s+le+49.3) | N/A |
-| 17 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
-| 18 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 19 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 20 | [Lepen](http://twitter.com/search?q=Lepen) | N/A |
-| 21 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
-| 22 | [Journaliste](http://twitter.com/search?q=Journaliste) | N/A |
-| 23 | [Il y a 3](http://twitter.com/search?q=Il+y+a+3) | N/A |
-| 24 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
-| 25 | [#chaos](http://twitter.com/search?q=%23chaos) | N/A |
-| 26 | [#Macronestuneordure](http://twitter.com/search?q=%23Macronestuneordure) | N/A |
-| 27 | [#LOLQuiRitSort3](http://twitter.com/search?q=%23LOLQuiRitSort3) | N/A |
-| 28 | [#AidesADomicile](http://twitter.com/search?q=%23AidesADomicile) | N/A |
-| 29 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 30 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 31 | [#greve17mars](http://twitter.com/search?q=%23greve17mars) | N/A |
-| 32 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 33 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
-| 34 | [#Article49_3](http://twitter.com/search?q=%23Article49_3) | N/A |
-| 35 | [#JusquAuRetrait](http://twitter.com/search?q=%23JusquAuRetrait) | N/A |
-| 36 | [#MonCasqueErte](http://twitter.com/search?q=%23MonCasqueErte) | N/A |
-| 37 | [#49al3](http://twitter.com/search?q=%2349al3) | N/A |
-| 38 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 2 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 5 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 6 | [City Bayern](http://twitter.com/search?q=City+Bayern) | N/A |
+| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 8 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
+| 9 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 10 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 11 | [Slovaquie](http://twitter.com/search?q=Slovaquie) | N/A |
+| 12 | [L'Inter](http://twitter.com/search?q=L%27Inter) | N/A |
+| 13 | [Perrin](http://twitter.com/search?q=Perrin) | N/A |
+| 14 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 15 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 16 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 17 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 19 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 20 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 21 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [Après le 49.3](http://twitter.com/search?q=Apr%c3%a8s+le+49.3) | N/A |
+| 24 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
+| 25 | [Lepen](http://twitter.com/search?q=Lepen) | N/A |
+| 26 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 27 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 28 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 29 | [Olivier Dussopt](http://twitter.com/search?q=Olivier+Dussopt) | N/A |
+| 30 | [Journaliste](http://twitter.com/search?q=Journaliste) | N/A |
+| 31 | [Lisbonne](http://twitter.com/search?q=Lisbonne) | N/A |
+| 32 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 33 | [mayotte](http://twitter.com/search?q=mayotte) | N/A |
+| 34 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
+| 35 | [Il y a 3](http://twitter.com/search?q=Il+y+a+3) | N/A |
+| 36 | [#SaintPatricksDay](http://twitter.com/search?q=%23SaintPatricksDay) | N/A |
+| 37 | [#chaos](http://twitter.com/search?q=%23chaos) | N/A |
+| 38 | [#LOLQuiRitSort3](http://twitter.com/search?q=%23LOLQuiRitSort3) | N/A |
+| 39 | [#Macronestuneordure](http://twitter.com/search?q=%23Macronestuneordure) | N/A |
+| 40 | [#AidesADomicile](http://twitter.com/search?q=%23AidesADomicile) | N/A |
+| 41 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 42 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
+| 43 | [#sommeil](http://twitter.com/search?q=%23sommeil) | N/A |
+| 44 | [#greve17mars](http://twitter.com/search?q=%23greve17mars) | N/A |
+| 45 | [#Article49_3](http://twitter.com/search?q=%23Article49_3) | N/A |
+| 46 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 47 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 48 | [#JusquAuRetrait](http://twitter.com/search?q=%23JusquAuRetrait) | N/A |
 
 
 

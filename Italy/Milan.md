@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-17 11:16:58 UTC`
+📆 Last Updated: `2023-03-17 12:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 2 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 3 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 4 | [#17marzo](http://twitter.com/search?q=%2317marzo) | N/A |
-| 5 | [#sorteggio](http://twitter.com/search?q=%23sorteggio) | N/A |
-| 6 | [#pontesullostretto](http://twitter.com/search?q=%23pontesullostretto) | N/A |
-| 7 | [San Patrizio](http://twitter.com/search?q=San+Patrizio) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 10 | [Il 17](http://twitter.com/search?q=Il+17) | N/A |
-| 11 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 12 | [Sicilia](http://twitter.com/search?q=Sicilia) | N/A |
-| 13 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 15 | [Siviglia](http://twitter.com/search?q=Siviglia) | N/A |
-| 16 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 17 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 18 | [Sileri](http://twitter.com/search?q=Sileri) | N/A |
-| 19 | [Messina](http://twitter.com/search?q=Messina) | N/A |
-| 20 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [La Lazio](http://twitter.com/search?q=La+Lazio) | N/A |
-| 23 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [#SIAE](http://twitter.com/search?q=%23SIAE) | N/A |
-| 26 | [#venerdi17](http://twitter.com/search?q=%23venerdi17) | N/A |
-| 27 | [#Cgil](http://twitter.com/search?q=%23Cgil) | N/A |
-| 28 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 29 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 30 | [#Costituzione](http://twitter.com/search?q=%23Costituzione) | N/A |
-| 31 | [#laMigliorMedicina](http://twitter.com/search?q=%23laMigliorMedicina) | N/A |
-| 32 | [#agorarai](http://twitter.com/search?q=%23agorarai) | N/A |
-| 33 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 34 | [#riformafiscale](http://twitter.com/search?q=%23riformafiscale) | N/A |
-| 35 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
-| 36 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
-| 37 | [#Francia](http://twitter.com/search?q=%23Francia) | N/A |
-| 38 | [#Fiorentina](http://twitter.com/search?q=%23Fiorentina) | N/A |
-| 39 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
-| 40 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
-| 41 | [#IndianWells](http://twitter.com/search?q=%23IndianWells) | N/A |
+| 1 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 2 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 3 | [#sorteggio](http://twitter.com/search?q=%23sorteggio) | N/A |
+| 4 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 5 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
+| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 7 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
+| 8 | [#17Marzo](http://twitter.com/search?q=%2317Marzo) | N/A |
+| 9 | [Istanbul](http://twitter.com/search?q=Istanbul) | N/A |
+| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 13 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 14 | [Bella Ciao](http://twitter.com/search?q=Bella+Ciao) | N/A |
+| 15 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 16 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 17 | [Nyon](http://twitter.com/search?q=Nyon) | N/A |
+| 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 19 | [san patrizio](http://twitter.com/search?q=san+patrizio) | N/A |
+| 20 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 21 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 22 | [Il 17](http://twitter.com/search?q=Il+17) | N/A |
+| 23 | [Sicilia](http://twitter.com/search?q=Sicilia) | N/A |
+| 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 25 | [Sileri](http://twitter.com/search?q=Sileri) | N/A |
+| 26 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 27 | [Siviglia](http://twitter.com/search?q=Siviglia) | N/A |
+| 28 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 29 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 31 | [Messina](http://twitter.com/search?q=Messina) | N/A |
+| 32 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 33 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 34 | [La Lazio](http://twitter.com/search?q=La+Lazio) | N/A |
+| 35 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 36 | [#pontesullostretto](http://twitter.com/search?q=%23pontesullostretto) | N/A |
+| 37 | [#Cgil](http://twitter.com/search?q=%23Cgil) | N/A |
+| 38 | [#SIAE](http://twitter.com/search?q=%23SIAE) | N/A |
+| 39 | [#giornatamondialedelsonno](http://twitter.com/search?q=%23giornatamondialedelsonno) | N/A |
+| 40 | [#venerdi17](http://twitter.com/search?q=%23venerdi17) | N/A |
+| 41 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 42 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 43 | [#Costituzione](http://twitter.com/search?q=%23Costituzione) | N/A |
+| 44 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 45 | [#agorarai](http://twitter.com/search?q=%23agorarai) | N/A |
+| 46 | [#laMigliorMedicina](http://twitter.com/search?q=%23laMigliorMedicina) | N/A |
+| 47 | [#riformafiscale](http://twitter.com/search?q=%23riformafiscale) | N/A |
+| 48 | [#VivaRai2](http://twitter.com/search?q=%23VivaRai2) | N/A |
+| 49 | [#Francia](http://twitter.com/search?q=%23Francia) | N/A |
 
 
 

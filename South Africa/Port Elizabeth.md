@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-17 11:17:16 UTC`
+📆 Last Updated: `2023-03-17 12:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LovingYou](http://twitter.com/search?q=%23LovingYou) | N/A |
-| 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 3 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 4 | [Dr Nandi](http://twitter.com/search?q=Dr+Nandi) | N/A |
-| 5 | [Stage 2](http://twitter.com/search?q=Stage+2) | N/A |
-| 6 | [SANTACO](http://twitter.com/search?q=SANTACO) | N/A |
-| 7 | [Travelstart](http://twitter.com/search?q=Travelstart) | N/A |
-| 8 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 9 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [Amanda Black](http://twitter.com/search?q=Amanda+Black) | N/A |
-| 12 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 13 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 14 | [THABANG TO THE FINALS](http://twitter.com/search?q=THABANG+TO+THE+FINALS) | N/A |
-| 15 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 16 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 17 | [TBANGERS PIN FOR THABANG](http://twitter.com/search?q=TBANGERS+PIN+FOR+THABANG) | N/A |
-| 18 | [Mudau](http://twitter.com/search?q=Mudau) | N/A |
-| 19 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
-| 20 | [KHOSI THE CHEETAH](http://twitter.com/search?q=KHOSI+THE+CHEETAH) | N/A |
-| 21 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
-| 22 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 23 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 24 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 25 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 26 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 27 | [Mobbie](http://twitter.com/search?q=Mobbie) | N/A |
-| 28 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 29 | [Putco](http://twitter.com/search?q=Putco) | N/A |
-| 30 | [Broos](http://twitter.com/search?q=Broos) | N/A |
-| 31 | [Absolut Raspberri](http://twitter.com/search?q=Absolut+Raspberri) | N/A |
-| 32 | [doctor khumalo](http://twitter.com/search?q=doctor+khumalo) | N/A |
-| 33 | [Gavin Watson](http://twitter.com/search?q=Gavin+Watson) | N/A |
-| 34 | [USSD](http://twitter.com/search?q=USSD) | N/A |
-| 35 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 37 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
-| 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 39 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 40 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
-| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 42 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 43 | [Mmusi](http://twitter.com/search?q=Mmusi) | N/A |
-| 44 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 45 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
-| 46 | [Jay Jody](http://twitter.com/search?q=Jay+Jody) | N/A |
-| 47 | [Handing](http://twitter.com/search?q=Handing) | N/A |
+| 1 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 2 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 6 | [#LovingYou](http://twitter.com/search?q=%23LovingYou) | N/A |
+| 7 | [Dr Nandi](http://twitter.com/search?q=Dr+Nandi) | N/A |
+| 8 | [SANTACO](http://twitter.com/search?q=SANTACO) | N/A |
+| 9 | [Travelstart](http://twitter.com/search?q=Travelstart) | N/A |
+| 10 | [Stage 2](http://twitter.com/search?q=Stage+2) | N/A |
+| 11 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 12 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 13 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 14 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [USSD](http://twitter.com/search?q=USSD) | N/A |
+| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 18 | [Phanda Pusha Play](http://twitter.com/search?q=Phanda+Pusha+Play) | N/A |
+| 19 | [Mobile App](http://twitter.com/search?q=Mobile+App) | N/A |
+| 20 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 21 | [Mudau](http://twitter.com/search?q=Mudau) | N/A |
+| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 23 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
+| 24 | [KHOSI THE CHEETAH](http://twitter.com/search?q=KHOSI+THE+CHEETAH) | N/A |
+| 25 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
+| 26 | [Amanda Black](http://twitter.com/search?q=Amanda+Black) | N/A |
+| 27 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 28 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 29 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 30 | [THABANG TO THE FINALS](http://twitter.com/search?q=THABANG+TO+THE+FINALS) | N/A |
+| 31 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 32 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 33 | [TBANGERS PIN FOR THABANG](http://twitter.com/search?q=TBANGERS+PIN+FOR+THABANG) | N/A |
+| 34 | [Mobbie](http://twitter.com/search?q=Mobbie) | N/A |
+| 35 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
+| 36 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 37 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
+| 38 | [Putco](http://twitter.com/search?q=Putco) | N/A |
+| 39 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 40 | [doctor khumalo](http://twitter.com/search?q=doctor+khumalo) | N/A |
+| 41 | [Coffee with Khosi](http://twitter.com/search?q=Coffee+with+Khosi) | N/A |
+| 42 | [Broos](http://twitter.com/search?q=Broos) | N/A |
+| 43 | [Quinton Fortune](http://twitter.com/search?q=Quinton+Fortune) | N/A |
+| 44 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
+| 45 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 46 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 
 
 

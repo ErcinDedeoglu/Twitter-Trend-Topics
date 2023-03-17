@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-17 11:17:49 UTC`
+📆 Last Updated: `2023-03-17 12:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 2 | [#SETMEFREE1stWin](http://twitter.com/search?q=%23SETMEFREE1stWin) | N/A |
-| 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 4 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
-| 5 | [Ng Tze Yong](http://twitter.com/search?q=Ng+Tze+Yong) | N/A |
-| 6 | [#TWICE120thWin](http://twitter.com/search?q=%23TWICE120thWin) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 8 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
-| 9 | [AXELSEN](http://twitter.com/search?q=AXELSEN) | N/A |
-| 10 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
-| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 12 | [Viggo](http://twitter.com/search?q=Viggo) | N/A |
-| 13 | [ongteo](http://twitter.com/search?q=ongteo) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 16 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 17 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 18 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 19 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
-| 20 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 21 | [Ampang Park](http://twitter.com/search?q=Ampang+Park) | N/A |
-| 22 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 23 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 24 | [Sung Hanbin](http://twitter.com/search?q=Sung+Hanbin) | N/A |
-| 25 | [giselle](http://twitter.com/search?q=giselle) | N/A |
-| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 27 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
-| 28 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 29 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 30 | [sohee](http://twitter.com/search?q=sohee) | N/A |
-| 31 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
-| 32 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 33 | [yuuri](http://twitter.com/search?q=yuuri) | N/A |
-| 34 | [Inkigayo](http://twitter.com/search?q=Inkigayo) | N/A |
-| 35 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 36 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 37 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 38 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
-| 39 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 40 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 41 | [Salam Jumaat](http://twitter.com/search?q=Salam+Jumaat) | N/A |
-| 42 | [Cyberjaya](http://twitter.com/search?q=Cyberjaya) | N/A |
-| 43 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 44 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 45 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 46 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
-| 47 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 48 | [dongyeol](http://twitter.com/search?q=dongyeol) | N/A |
-| 49 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 1 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 2 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [#SetMeFree_Pt2_OutToday](http://twitter.com/search?q=%23SetMeFree_Pt2_OutToday) | N/A |
+| 7 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
+| 8 | [Ng Tze Yong](http://twitter.com/search?q=Ng+Tze+Yong) | N/A |
+| 9 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 12 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 13 | [AXELSEN](http://twitter.com/search?q=AXELSEN) | N/A |
+| 14 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 16 | [Viggo](http://twitter.com/search?q=Viggo) | N/A |
+| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 19 | [ongteo](http://twitter.com/search?q=ongteo) | N/A |
+| 20 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 22 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 23 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 24 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
+| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 26 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 27 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 28 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 29 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 30 | [ONEW](http://twitter.com/search?q=ONEW) | N/A |
+| 31 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 32 | [jinki](http://twitter.com/search?q=jinki) | N/A |
+| 33 | [Sung Hanbin](http://twitter.com/search?q=Sung+Hanbin) | N/A |
+| 34 | [ampang park](http://twitter.com/search?q=ampang+park) | N/A |
+| 35 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 36 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 37 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 38 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 39 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 40 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
+| 41 | [Inkigayo](http://twitter.com/search?q=Inkigayo) | N/A |
+| 42 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 43 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 44 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 45 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 46 | [sohee](http://twitter.com/search?q=sohee) | N/A |
+| 47 | [yuuri](http://twitter.com/search?q=yuuri) | N/A |
+| 48 | [Salam Jumaat](http://twitter.com/search?q=Salam+Jumaat) | N/A |
+| 49 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 
 
 

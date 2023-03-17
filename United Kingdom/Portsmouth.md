@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-03-17 11:16:41 UTC`
+📆 Last Updated: `2023-03-17 12:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 2 | [Gethin](http://twitter.com/search?q=Gethin) | N/A |
-| 3 | [#GBSpringClean](http://twitter.com/search?q=%23GBSpringClean) | N/A |
-| 4 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 5 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
-| 6 | [Forde](http://twitter.com/search?q=Forde) | N/A |
-| 7 | [Bake Off](http://twitter.com/search?q=Bake+Off) | N/A |
-| 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 9 | [#NHSStrikes](http://twitter.com/search?q=%23NHSStrikes) | N/A |
-| 10 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 11 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 12 | [#CurrysWWE2K23](http://twitter.com/search?q=%23CurrysWWE2K23) | N/A |
-| 13 | [oxfam](http://twitter.com/search?q=oxfam) | N/A |
-| 14 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 15 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 16 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 17 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 18 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
-| 19 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 20 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 21 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 22 | [Colby Covington](http://twitter.com/search?q=Colby+Covington) | N/A |
-| 23 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
-| 26 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
-| 27 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 28 | [Parish](http://twitter.com/search?q=Parish) | N/A |
-| 29 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 31 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 32 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 33 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 34 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 35 | [Matt Lucas](http://twitter.com/search?q=Matt+Lucas) | N/A |
-| 36 | [Passport Office](http://twitter.com/search?q=Passport+Office) | N/A |
-| 37 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
-| 38 | [Slainte](http://twitter.com/search?q=Slainte) | N/A |
-| 39 | [St George](http://twitter.com/search?q=St+George) | N/A |
-| 40 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
-| 41 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 42 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 43 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 44 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 45 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 46 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 47 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
-| 48 | [#WorldSleepDay](http://twitter.com/search?q=%23WorldSleepDay) | N/A |
-| 49 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
+| 2 | [Irishman](http://twitter.com/search?q=Irishman) | N/A |
+| 3 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 4 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 5 | [#GBSpringClean](http://twitter.com/search?q=%23GBSpringClean) | N/A |
+| 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 7 | [#BanTrophyHunting](http://twitter.com/search?q=%23BanTrophyHunting) | N/A |
+| 8 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 9 | [Daily Quordle 417](http://twitter.com/search?q=Daily+Quordle+417) | N/A |
+| 10 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 11 | [Bake Off](http://twitter.com/search?q=Bake+Off) | N/A |
+| 12 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
+| 13 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 14 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 17 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 18 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 19 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [Jacqueline Gold](http://twitter.com/search?q=Jacqueline+Gold) | N/A |
+| 22 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 23 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 24 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 25 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 26 | [Ann Summers](http://twitter.com/search?q=Ann+Summers) | N/A |
+| 27 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 28 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 29 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
+| 30 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 31 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 32 | [Bravemansgame](http://twitter.com/search?q=Bravemansgame) | N/A |
+| 33 | [the undertaker](http://twitter.com/search?q=the+undertaker) | N/A |
+| 34 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 35 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
+| 36 | [Colby Covington](http://twitter.com/search?q=Colby+Covington) | N/A |
+| 37 | [City and Chelsea](http://twitter.com/search?q=City+and+Chelsea) | N/A |
+| 38 | [Stone Cold Steve Austin](http://twitter.com/search?q=Stone+Cold+Steve+Austin) | N/A |
+| 39 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 40 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
+| 41 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 42 | [Matt Lucas](http://twitter.com/search?q=Matt+Lucas) | N/A |
+| 43 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 44 | [Passport Office](http://twitter.com/search?q=Passport+Office) | N/A |
+| 45 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 46 | [Parish](http://twitter.com/search?q=Parish) | N/A |
+| 47 | [Stattler](http://twitter.com/search?q=Stattler) | N/A |
+| 48 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 49 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
 
 
 

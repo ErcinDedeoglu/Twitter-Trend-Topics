@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-17 11:16:46 UTC`
+📆 Last Updated: `2023-03-17 12:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Chile](</Chile>)
 | 1 | [#superfinalyosoy](http://twitter.com/search?q=%23superfinalyosoy) | N/A |
 | 2 | [#100indecisos](http://twitter.com/search?q=%23100indecisos) | N/A |
 | 3 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 4 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
-| 5 | [#GobiernoInforma](http://twitter.com/search?q=%23GobiernoInforma) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
-| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 9 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
-| 10 | [Aló Presidente](http://twitter.com/search?q=Al%c3%b3+Presidente) | N/A |
-| 11 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 12 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
-| 13 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 15 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [Laura Pausini](http://twitter.com/search?q=Laura+Pausini) | N/A |
-| 18 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 19 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 20 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
-| 21 | [Pisagua](http://twitter.com/search?q=Pisagua) | N/A |
-| 22 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 23 | [Insulza](http://twitter.com/search?q=Insulza) | N/A |
-| 24 | [Fonasa](http://twitter.com/search?q=Fonasa) | N/A |
-| 25 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 26 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
-| 27 | [martín pradenas](http://twitter.com/search?q=mart%c3%adn+pradenas) | N/A |
-| 28 | [Rodrigo Herrera](http://twitter.com/search?q=Rodrigo+Herrera) | N/A |
-| 29 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 30 | [Hugo Gutiérrez](http://twitter.com/search?q=Hugo+Guti%c3%a9rrez) | N/A |
-| 31 | [Jorge Castillo](http://twitter.com/search?q=Jorge+Castillo) | N/A |
-| 32 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
-| 33 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 34 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 35 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 36 | [Jordhy Thompson](http://twitter.com/search?q=Jordhy+Thompson) | N/A |
-| 37 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 38 | [Alejandra Guzmán](http://twitter.com/search?q=Alejandra+Guzm%c3%a1n) | N/A |
-| 39 | [enrique iglesias](http://twitter.com/search?q=enrique+iglesias) | N/A |
-| 40 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 41 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 42 | [Ideológicamente](http://twitter.com/search?q=Ideol%c3%b3gicamente) | N/A |
-| 43 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
-| 44 | [cerro porteño](http://twitter.com/search?q=cerro+porte%c3%b1o) | N/A |
-| 45 | [Ricardo Nuñez](http://twitter.com/search?q=Ricardo+Nu%c3%b1ez) | N/A |
-| 46 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 47 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 48 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 49 | [rocío jurado](http://twitter.com/search?q=roc%c3%ado+jurado) | N/A |
-| 50 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 6 | [#almanegratvn](http://twitter.com/search?q=%23almanegratvn) | N/A |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 9 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 10 | [#GobiernoInforma](http://twitter.com/search?q=%23GobiernoInforma) | N/A |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
+| 13 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 15 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 16 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
+| 17 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 18 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
+| 19 | [Fonasa](http://twitter.com/search?q=Fonasa) | N/A |
+| 20 | [Aló Presidente](http://twitter.com/search?q=Al%c3%b3+Presidente) | N/A |
+| 21 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [Laura Pausini](http://twitter.com/search?q=Laura+Pausini) | N/A |
+| 25 | [Pisagua](http://twitter.com/search?q=Pisagua) | N/A |
+| 26 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 27 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 28 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
+| 29 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
+| 30 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 31 | [Insulza](http://twitter.com/search?q=Insulza) | N/A |
+| 32 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 33 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
+| 34 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 35 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
+| 36 | [Rodrigo Herrera](http://twitter.com/search?q=Rodrigo+Herrera) | N/A |
+| 37 | [hugo gutiérrez](http://twitter.com/search?q=hugo+guti%c3%a9rrez) | N/A |
+| 38 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 39 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
+| 40 | [Jorge Castillo](http://twitter.com/search?q=Jorge+Castillo) | N/A |
+| 41 | [Ruta 78](http://twitter.com/search?q=Ruta+78) | N/A |
+| 42 | [Isapre](http://twitter.com/search?q=Isapre) | N/A |
+| 43 | [wisin](http://twitter.com/search?q=wisin) | N/A |
+| 44 | [Martín Pradenas](http://twitter.com/search?q=Mart%c3%adn+Pradenas) | N/A |
+| 45 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 46 | [Claudia Cancino](http://twitter.com/search?q=Claudia+Cancino) | N/A |
+| 47 | [Gendarmería](http://twitter.com/search?q=Gendarmer%c3%ada) | N/A |
+| 48 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 49 | [alejandra guzmán](http://twitter.com/search?q=alejandra+guzm%c3%a1n) | N/A |
+| 50 | [Jordhy Thompson](http://twitter.com/search?q=Jordhy+Thompson) | N/A |
 
 
 

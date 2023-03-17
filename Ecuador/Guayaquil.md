@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-17 11:16:47 UTC`
+📆 Last Updated: `2023-03-17 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 1 | [El Triunfo](http://twitter.com/search?q=El+Triunfo) | N/A |
 | 2 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
 | 3 | [Junior Roldán](http://twitter.com/search?q=Junior+Rold%c3%a1n) | N/A |
-| 4 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
-| 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 6 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
-| 7 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
-| 8 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 9 | [ANDREINA](http://twitter.com/search?q=ANDREINA) | N/A |
-| 10 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
-| 11 | [#LassoEcuadorNoTeAguantaMas](http://twitter.com/search?q=%23LassoEcuadorNoTeAguantaMas) | N/A |
-| 12 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 14 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 15 | [GolTv](http://twitter.com/search?q=GolTv) | N/A |
-| 16 | [ENNER](http://twitter.com/search?q=ENNER) | N/A |
-| 17 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
-| 18 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 19 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 21 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 22 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
-| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 24 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
-| 25 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 26 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 27 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
-| 28 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
-| 29 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 30 | [guadalupe llori](http://twitter.com/search?q=guadalupe+llori) | N/A |
-| 31 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
-| 32 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
-| 33 | [José Hurtado](http://twitter.com/search?q=Jos%c3%a9+Hurtado) | N/A |
-| 34 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 35 | [129 de la constitución](http://twitter.com/search?q=129+de+la+constituci%c3%b3n) | N/A |
-| 36 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 4 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
+| 7 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 10 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 11 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
+| 12 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 13 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
+| 14 | [andreina](http://twitter.com/search?q=andreina) | N/A |
+| 15 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
+| 16 | [#LassoEcuadorNoTeAguantaMas](http://twitter.com/search?q=%23LassoEcuadorNoTeAguantaMas) | N/A |
+| 17 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 20 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 21 | [ENNER](http://twitter.com/search?q=ENNER) | N/A |
+| 22 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 24 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
+| 25 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 27 | [GolTv](http://twitter.com/search?q=GolTv) | N/A |
+| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 29 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
+| 30 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
+| 31 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 32 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 33 | [Duarte](http://twitter.com/search?q=Duarte) | N/A |
+| 34 | [Gianni Infantino](http://twitter.com/search?q=Gianni+Infantino) | Gianni Infantino is the current president of FIFA, the international governing body of association football, beach soccer, and futsal. He was elected in 2016 and is the ninth president of FIFA. His name is Italian and means "little John". |
+| 35 | [guadalupe llori](http://twitter.com/search?q=guadalupe+llori) | N/A |
+| 36 | [FLOPEC](http://twitter.com/search?q=FLOPEC) | N/A |
 | 37 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 38 | [Rausch](http://twitter.com/search?q=Rausch) | N/A |
-| 39 | [felix sánchez](http://twitter.com/search?q=felix+s%c3%a1nchez) | N/A |
-| 40 | [Deller](http://twitter.com/search?q=Deller) | N/A |
-| 41 | [Ivonne](http://twitter.com/search?q=Ivonne) | N/A |
-| 42 | [Lelo](http://twitter.com/search?q=Lelo) | N/A |
-| 43 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 44 | [pedro zapata](http://twitter.com/search?q=pedro+zapata) | N/A |
-| 45 | [Alias JR](http://twitter.com/search?q=Alias+JR) | N/A |
-| 46 | [Arreaga](http://twitter.com/search?q=Arreaga) | N/A |
-| 47 | [Fenerbahce](http://twitter.com/search?q=Fenerbahce) | N/A |
-| 48 | [con 58](http://twitter.com/search?q=con+58) | N/A |
-| 49 | [snai](http://twitter.com/search?q=snai) | N/A |
-| 50 | [burrai](http://twitter.com/search?q=burrai) | N/A |
+| 38 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 39 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 40 | [129 DE LA CONSTITUCIÓN](http://twitter.com/search?q=129+DE+LA+CONSTITUCI%c3%93N) | N/A |
+| 41 | [felix sánchez](http://twitter.com/search?q=felix+s%c3%a1nchez) | N/A |
+| 42 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 43 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 44 | [Deller](http://twitter.com/search?q=Deller) | N/A |
+| 45 | [Ivonne](http://twitter.com/search?q=Ivonne) | N/A |
+| 46 | [Rausch](http://twitter.com/search?q=Rausch) | N/A |
+| 47 | [Alias JR](http://twitter.com/search?q=Alias+JR) | N/A |
+| 48 | [arreaga](http://twitter.com/search?q=arreaga) | N/A |
+| 49 | [Fenerbahce](http://twitter.com/search?q=Fenerbahce) | N/A |
+| 50 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
 
 
 

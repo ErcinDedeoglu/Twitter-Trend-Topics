@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-17 11:17:02 UTC`
+📆 Last Updated: `2023-03-17 12:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
-| 2 | [Ingerö](http://twitter.com/search?q=Inger%c3%b6) | N/A |
-| 3 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 4 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 5 | [Hässelby](http://twitter.com/search?q=H%c3%a4sselby) | N/A |
-| 6 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
-| 7 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 8 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
-| 9 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 10 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 11 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
+| 1 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 2 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
+| 6 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 7 | [Ingerö](http://twitter.com/search?q=Inger%c3%b6) | N/A |
+| 8 | [Hässelby](http://twitter.com/search?q=H%c3%a4sselby) | N/A |
+| 9 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 10 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
+| 11 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 12 | [Shekarabi](http://twitter.com/search?q=Shekarabi) | N/A |
-| 13 | [Danielsson](http://twitter.com/search?q=Danielsson) | N/A |
-| 14 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 15 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 16 | [Willys](http://twitter.com/search?q=Willys) | N/A |
-| 17 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
-| 18 | [Tove](http://twitter.com/search?q=Tove) | N/A |
-| 19 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 20 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 21 | [Manner](http://twitter.com/search?q=Manner) | N/A |
-| 22 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 23 | [ICA-handlare](http://twitter.com/search?q=ICA-handlare) | N/A |
-| 24 | [Wagnergruppen](http://twitter.com/search?q=Wagnergruppen) | N/A |
-| 25 | [godmorgon](http://twitter.com/search?q=godmorgon) | N/A |
-| 26 | [wikegård](http://twitter.com/search?q=wikeg%c3%a5rd) | N/A |
-| 27 | [Hybrit](http://twitter.com/search?q=Hybrit) | N/A |
-| 28 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
-| 29 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 30 | [Skansen](http://twitter.com/search?q=Skansen) | N/A |
-| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 14 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
+| 15 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 16 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
+| 17 | [danielsson](http://twitter.com/search?q=danielsson) | N/A |
+| 18 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 19 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 20 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 21 | [Tove](http://twitter.com/search?q=Tove) | N/A |
+| 22 | [Willys](http://twitter.com/search?q=Willys) | N/A |
+| 23 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
+| 24 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 25 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 26 | [Manner](http://twitter.com/search?q=Manner) | N/A |
+| 27 | [ICA-handlare](http://twitter.com/search?q=ICA-handlare) | N/A |
+| 28 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 29 | [Wagnergruppen](http://twitter.com/search?q=Wagnergruppen) | N/A |
+| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 31 | [wikegård](http://twitter.com/search?q=wikeg%c3%a5rd) | N/A |
 | 32 | [karlis](http://twitter.com/search?q=karlis) | N/A |
-| 33 | [ABF-anställda](http://twitter.com/search?q=ABF-anst%c3%a4llda) | N/A |
-| 34 | [Botkyrkas](http://twitter.com/search?q=Botkyrkas) | N/A |
-| 35 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 36 | [Sarnecki](http://twitter.com/search?q=Sarnecki) | N/A |
-| 37 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 38 | [Aftonbladet](http://twitter.com/search?q=Aftonbladet) | N/A |
-| 39 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 40 | [Halabja](http://twitter.com/search?q=Halabja) | N/A |
-| 41 | [SwebbTV](http://twitter.com/search?q=SwebbTV) | N/A |
-| 42 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 43 | [odengatan](http://twitter.com/search?q=odengatan) | N/A |
-| 44 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 45 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 46 | [stina oscarsons](http://twitter.com/search?q=stina+oscarsons) | N/A |
-| 47 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 48 | [Åsa Linderborg](http://twitter.com/search?q=%c3%85sa+Linderborg) | N/A |
-| 49 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 50 | [EXPO](http://twitter.com/search?q=EXPO) | EXPO is short for exposition, which is an event or exhibition where people can display and view new products, ideas, or achievements. It is often used to refer to large international events such as the World's Fair. |
+| 33 | [abf-anställda](http://twitter.com/search?q=abf-anst%c3%a4llda) | N/A |
+| 34 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 35 | [Swebbtv](http://twitter.com/search?q=Swebbtv) | N/A |
+| 36 | [hybrit](http://twitter.com/search?q=hybrit) | N/A |
+| 37 | [Skansen](http://twitter.com/search?q=Skansen) | N/A |
+| 38 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 39 | [EXPO](http://twitter.com/search?q=EXPO) | EXPO is short for exposition, which is an event or exhibition where people can display and view new products, ideas, or achievements. It is often used to refer to large international events such as the World's Fair. |
+| 40 | [Sarnecki](http://twitter.com/search?q=Sarnecki) | N/A |
+| 41 | [botkyrkas](http://twitter.com/search?q=botkyrkas) | N/A |
+| 42 | [Vetlanda](http://twitter.com/search?q=Vetlanda) | N/A |
+| 43 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 44 | [Halabja](http://twitter.com/search?q=Halabja) | N/A |
+| 45 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
+| 46 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 47 | [odengatan](http://twitter.com/search?q=odengatan) | N/A |
+| 48 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 49 | [Brynäsare](http://twitter.com/search?q=Bryn%c3%a4sare) | N/A |
+| 50 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 
 
 
