@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-17 04:16:55 UTC`
+📆 Last Updated: `2023-03-17 05:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 3 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 4 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 4 | [Banken](http://twitter.com/search?q=Banken) | N/A |
 | 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 6 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 7 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
-| 8 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 9 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 6 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 7 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 8 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
+| 9 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 10 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 13 | [Russen](http://twitter.com/search?q=Russen) | N/A |
 | 14 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 15 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
+| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 16 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
+| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 18 | [liquidität](http://twitter.com/search?q=liquidit%c3%a4t) | N/A |
-| 19 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 20 | [sicherheiten](http://twitter.com/search?q=sicherheiten) | N/A |
-| 21 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 23 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 24 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 25 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 26 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 19 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 21 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 22 | [sicherheiten](http://twitter.com/search?q=sicherheiten) | N/A |
+| 23 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 24 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 25 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 26 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
 | 27 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 28 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 29 | [lara gut-behrami](http://twitter.com/search?q=lara+gut-behrami) | N/A |
-| 30 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 31 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 32 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 33 | [risiken](http://twitter.com/search?q=risiken) | N/A |
-| 34 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 35 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 36 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 37 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 38 | [Firma](http://twitter.com/search?q=Firma) | N/A |
-| 39 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 40 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 41 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 42 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 43 | [fussball](http://twitter.com/search?q=fussball) | N/A |
-| 44 | [London](http://twitter.com/search?q=London) | N/A |
-| 45 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
-| 46 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
-| 47 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 48 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 28 | [lara gut-behrami](http://twitter.com/search?q=lara+gut-behrami) | N/A |
+| 29 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 30 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 31 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 32 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 33 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 34 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 35 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 36 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 37 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 38 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 39 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 40 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 41 | [fussball](http://twitter.com/search?q=fussball) | N/A |
+| 42 | [London](http://twitter.com/search?q=London) | N/A |
+| 43 | [finma](http://twitter.com/search?q=finma) | N/A |
+| 44 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 45 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 46 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 47 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 

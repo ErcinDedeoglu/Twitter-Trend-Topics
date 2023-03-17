@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-17 04:16:45 UTC`
+📆 Last Updated: `2023-03-17 05:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
-| 2 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 3 | [sula](http://twitter.com/search?q=sula) | N/A |
-| 4 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 5 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
-| 6 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 7 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 8 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 9 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 1 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 2 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 3 | [Sula](http://twitter.com/search?q=Sula) | N/A |
+| 4 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
+| 5 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 6 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 7 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 8 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 10 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
-| 11 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 11 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 12 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 13 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 14 | [Lady Night](http://twitter.com/search?q=Lady+Night) | N/A |
-| 15 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 16 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
-| 17 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 18 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
-| 19 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 13 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 14 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 15 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 16 | [Lady Night](http://twitter.com/search?q=Lady+Night) | N/A |
+| 17 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 18 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 19 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
 | 20 | [CRY BABY IS DEAD](http://twitter.com/search?q=CRY+BABY+IS+DEAD) | N/A |
-| 21 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 22 | [#SetMeFree_Pt2_Is_Coming](http://twitter.com/search?q=%23SetMeFree_Pt2_Is_Coming) | N/A |
-| 23 | [Raniel](http://twitter.com/search?q=Raniel) | Raniel is a Hebrew name meaning "God has seen". |
-| 24 | [Ademicon](http://twitter.com/search?q=Ademicon) | N/A |
+| 21 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 22 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
+| 23 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
+| 24 | [Raniel](http://twitter.com/search?q=Raniel) | Raniel is a Hebrew name meaning "God has seen". |
 | 25 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
 | 26 | [NÃO É NÃO](http://twitter.com/search?q=N%c3%83O+%c3%89+N%c3%83O) | N/A |
-| 27 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 28 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
-| 29 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 30 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 31 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 32 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
-| 33 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 34 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 27 | [Ademicon](http://twitter.com/search?q=Ademicon) | N/A |
+| 28 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 29 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
+| 30 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 31 | [AO VIVO](http://twitter.com/search?q=AO+VIVO) | N/A |
+| 32 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 33 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
+| 34 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
 | 35 | [O ABC](http://twitter.com/search?q=O+ABC) | N/A |
-| 36 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 37 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 38 | [EICS FWD](http://twitter.com/search?q=EICS+FWD) | N/A |
+| 36 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 37 | [EICS FWD](http://twitter.com/search?q=EICS+FWD) | N/A |
+| 38 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
 | 39 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 40 | [#BBBAEliminacao](http://twitter.com/search?q=%23BBBAEliminacao) | N/A |
-| 41 | [VÍTIMA](http://twitter.com/search?q=V%c3%8dTIMA) | N/A |
-| 42 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 40 | [Repescagem](http://twitter.com/search?q=Repescagem) | N/A |
+| 41 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
+| 42 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
 | 43 | [Sonoridade](http://twitter.com/search?q=Sonoridade) | N/A |
-| 44 | [Bruna e Amanda](http://twitter.com/search?q=Bruna+e+Amanda) | N/A |
-| 45 | [Felipe Ret](http://twitter.com/search?q=Felipe+Ret) | N/A |
-| 46 | [Repescagem](http://twitter.com/search?q=Repescagem) | N/A |
-| 47 | [Esse Vasco](http://twitter.com/search?q=Esse+Vasco) | N/A |
-| 48 | [Basco](http://twitter.com/search?q=Basco) | N/A |
-| 49 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 50 | [EXPULSOS](http://twitter.com/search?q=EXPULSOS) | N/A |
+| 44 | [VÍTIMA](http://twitter.com/search?q=V%c3%8dTIMA) | N/A |
+| 45 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 46 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 47 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 48 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 49 | [Bruna e Amanda](http://twitter.com/search?q=Bruna+e+Amanda) | N/A |
+| 50 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
 
 
 

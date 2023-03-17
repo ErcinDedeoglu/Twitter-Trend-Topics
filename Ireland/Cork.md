@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-17 04:16:47 UTC`
+📆 Last Updated: `2023-03-17 05:15:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Ireland](</Ireland>)
 | 9 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
 | 10 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
 | 11 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 12 | [Toy Show](http://twitter.com/search?q=Toy+Show) | N/A |
-| 13 | [Tommy Tiernan](http://twitter.com/search?q=Tommy+Tiernan) | N/A |
-| 14 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 15 | [Tubs](http://twitter.com/search?q=Tubs) | N/A |
-| 16 | [St John Ambulance](http://twitter.com/search?q=St+John+Ambulance) | N/A |
-| 17 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
-| 18 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
+| 12 | [Tommy Tiernan](http://twitter.com/search?q=Tommy+Tiernan) | N/A |
+| 13 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 14 | [Toy Show](http://twitter.com/search?q=Toy+Show) | N/A |
+| 15 | [tubs](http://twitter.com/search?q=tubs) | N/A |
+| 16 | [st john ambulance](http://twitter.com/search?q=st+john+ambulance) | N/A |
+| 17 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
+| 18 | [Envoi Allen](http://twitter.com/search?q=Envoi+Allen) | N/A |
 | 19 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 21 | [seachtain](http://twitter.com/search?q=seachtain) | N/A |
 | 22 | [Fergal](http://twitter.com/search?q=Fergal) | N/A |
 | 23 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
 | 24 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 25 | [Claire Byrne](http://twitter.com/search?q=Claire+Byrne) | N/A |
-| 26 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 27 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
-| 28 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 25 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 26 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
+| 27 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 28 | [Claire Byrne](http://twitter.com/search?q=Claire+Byrne) | N/A |
 | 29 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
 | 30 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 31 | [Mighty Potter](http://twitter.com/search?q=Mighty+Potter) | N/A |
+| 31 | [mighty potter](http://twitter.com/search?q=mighty+potter) | N/A |
 | 32 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 33 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 34 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 35 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 36 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 37 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 38 | [Gay Byrne](http://twitter.com/search?q=Gay+Byrne) | N/A |
-| 39 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 40 | [Varadkar](http://twitter.com/search?q=Varadkar) | N/A |
-| 41 | [Sarah McInerney](http://twitter.com/search?q=Sarah+McInerney) | N/A |
-| 42 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 43 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 33 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 34 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 35 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 36 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 37 | [Gay Byrne](http://twitter.com/search?q=Gay+Byrne) | N/A |
+| 38 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 39 | [Varadkar](http://twitter.com/search?q=Varadkar) | N/A |
+| 40 | [Sarah McInerney](http://twitter.com/search?q=Sarah+McInerney) | N/A |
+| 41 | [shishkin](http://twitter.com/search?q=shishkin) | N/A |
+| 42 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 43 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 44 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 45 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
-| 46 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 47 | [anton savage](http://twitter.com/search?q=anton+savage) | N/A |
-| 48 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 49 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 45 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 46 | [anton savage](http://twitter.com/search?q=anton+savage) | N/A |
+| 47 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 48 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 49 | [stage star](http://twitter.com/search?q=stage+star) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-17 04:17:06 UTC`
+📆 Last Updated: `2023-03-17 05:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SetMeFree_Pt2_OutToday](http://twitter.com/search?q=%23SetMeFree_Pt2_OutToday) | N/A |
-| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 3 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 4 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 5 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
-| 6 | [ace karina thrills osaka](http://twitter.com/search?q=ace+karina+thrills+osaka) | N/A |
-| 7 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
-| 8 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
-| 9 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 10 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
-| 11 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
-| 12 | [Space ID](http://twitter.com/search?q=Space+ID) | N/A |
-| 13 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 14 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
-| 15 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 16 | [Binance Launchpad](http://twitter.com/search?q=Binance+Launchpad) | N/A |
-| 17 | [thụy sĩ](http://twitter.com/search?q=th%e1%bb%a5y+s%c4%a9) | N/A |
-| 18 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 19 | [TUSD](http://twitter.com/search?q=TUSD) | N/A |
-| 20 | [Lãnh](http://twitter.com/search?q=L%c3%a3nh) | N/A |
-| 21 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 22 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 23 | [GISELLE IS 2HOT4US](http://twitter.com/search?q=GISELLE+IS+2HOT4US) | N/A |
+| 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 2 | [#SetMeFree_Pt2_Is_Coming](http://twitter.com/search?q=%23SetMeFree_Pt2_Is_Coming) | N/A |
+| 3 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 4 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 5 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 7 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 8 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 9 | [#JisooComingMarch31](http://twitter.com/search?q=%23JisooComingMarch31) | N/A |
+| 10 | [ace karina thrills osaka](http://twitter.com/search?q=ace+karina+thrills+osaka) | N/A |
+| 11 | [V ON ELLE KOREA](http://twitter.com/search?q=V+ON+ELLE+KOREA) | N/A |
+| 12 | [#DumDumJeffMV](http://twitter.com/search?q=%23DumDumJeffMV) | N/A |
+| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 14 | [#TAEHYUNGxELLE](http://twitter.com/search?q=%23TAEHYUNGxELLE) | N/A |
+| 15 | [JENNIE IN HER CALVINS](http://twitter.com/search?q=JENNIE+IN+HER+CALVINS) | N/A |
+| 16 | [Space ID](http://twitter.com/search?q=Space+ID) | N/A |
+| 17 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
+| 18 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 19 | [Binance Launchpad](http://twitter.com/search?q=Binance+Launchpad) | N/A |
+| 20 | [thụy sĩ](http://twitter.com/search?q=th%e1%bb%a5y+s%c4%a9) | N/A |
+| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 22 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 23 | [TUSD](http://twitter.com/search?q=TUSD) | N/A |
 | 24 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 25 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 26 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 27 | [Tổng](http://twitter.com/search?q=T%e1%bb%95ng) | N/A |
-| 28 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 29 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 30 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
-| 31 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
-| 32 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 33 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
-| 34 | [chấm](http://twitter.com/search?q=ch%e1%ba%a5m) | N/A |
-| 35 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 36 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
-| 37 | [Được](http://twitter.com/search?q=%c4%90%c6%b0%e1%bb%a3c) | N/A |
-| 38 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 39 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
-| 40 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
-| 41 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 42 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 43 | [TO THE MOON](http://twitter.com/search?q=TO+THE+MOON) | N/A |
-| 44 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 45 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 25 | [Lãnh](http://twitter.com/search?q=L%c3%a3nh) | N/A |
+| 26 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 27 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 28 | [GISELLE IS 2HOT4US](http://twitter.com/search?q=GISELLE+IS+2HOT4US) | N/A |
+| 29 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 30 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 31 | [Được](http://twitter.com/search?q=%c4%90%c6%b0%e1%bb%a3c) | N/A |
+| 32 | [Tổng](http://twitter.com/search?q=T%e1%bb%95ng) | N/A |
+| 33 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 35 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
+| 36 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
+| 37 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
+| 38 | [chấm](http://twitter.com/search?q=ch%e1%ba%a5m) | N/A |
+| 39 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 40 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 41 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
+| 42 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 43 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 44 | [TO THE MOON](http://twitter.com/search?q=TO+THE+MOON) | N/A |
+| 45 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
 | 46 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 47 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 47 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
 | 48 | [Thái Lan](http://twitter.com/search?q=Th%c3%a1i+Lan) | N/A |
 | 49 | [Châu Âu](http://twitter.com/search?q=Ch%c3%a2u+%c3%82u) | N/A |
 | 50 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |

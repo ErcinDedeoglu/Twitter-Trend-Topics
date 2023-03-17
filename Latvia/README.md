@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-17 04:17:35 UTC`
+📆 Last Updated: `2023-03-17 05:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 2 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
-| 3 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 5 | [latviju](http://twitter.com/search?q=latviju) | N/A |
-| 6 | [kāds](http://twitter.com/search?q=k%c4%81ds) | N/A |
-| 7 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 1 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 2 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 3 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
+| 4 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 6 | [latviju](http://twitter.com/search?q=latviju) | N/A |
+| 7 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 8 | [krievija](http://twitter.com/search?q=krievija) | N/A |
 | 9 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 10 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
+| 10 | [tikai](http://twitter.com/search?q=tikai) | N/A |
 | 11 | [vācijas](http://twitter.com/search?q=v%c4%81cijas) | N/A |
 | 12 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
 | 13 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
@@ -42,25 +42,25 @@ This is top 50 for Latvia
 | 25 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
 | 26 | [knab](http://twitter.com/search?q=knab) | N/A |
 | 27 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
-| 28 | [cerams](http://twitter.com/search?q=cerams) | N/A |
-| 29 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
-| 30 | [pirms](http://twitter.com/search?q=pirms) | N/A |
-| 31 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 32 | [ministru](http://twitter.com/search?q=ministru) | N/A |
-| 33 | [laikam](http://twitter.com/search?q=laikam) | N/A |
-| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 35 | [Bija](http://twitter.com/search?q=Bija) | N/A |
-| 36 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
-| 37 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
-| 38 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 39 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
-| 40 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
-| 41 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
-| 42 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
-| 43 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 44 | [iMac](http://twitter.com/search?q=iMac) | N/A |
-| 45 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
-| 46 | [visi](http://twitter.com/search?q=visi) | N/A |
+| 28 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
+| 29 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 30 | [Diez](http://twitter.com/search?q=Diez) | N/A |
+| 31 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
+| 32 | [Cerams](http://twitter.com/search?q=Cerams) | N/A |
+| 33 | [ministru](http://twitter.com/search?q=ministru) | N/A |
+| 34 | [laikam](http://twitter.com/search?q=laikam) | N/A |
+| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 36 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 37 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
+| 38 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
+| 39 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 40 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
+| 41 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
+| 42 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
+| 43 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 44 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 45 | [iMac](http://twitter.com/search?q=iMac) | N/A |
+| 46 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
 | 47 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
 | 48 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
 | 49 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |

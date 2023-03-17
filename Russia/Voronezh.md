@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Voronezh
 
-📆 Last Updated: `2023-03-17 04:17:12 UTC`
+📆 Last Updated: `2023-03-17 05:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for [Russia](</Russia>)
 | 15 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
 | 16 | [черным](http://twitter.com/search?q=%d1%87%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
 | 17 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
-| 18 | [wildberries](http://twitter.com/search?q=wildberries) | N/A |
+| 18 | [Wildberries](http://twitter.com/search?q=Wildberries) | N/A |
 | 19 | [антон](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd) | N/A |
 | 20 | [говорят](http://twitter.com/search?q=%d0%b3%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
 | 21 | [Bullishh](http://twitter.com/search?q=Bullishh) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for [Russia](</Russia>)
 | 23 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
 | 24 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
 | 25 | [Greatt One](http://twitter.com/search?q=Greatt+One) | N/A |
-| 26 | [Здоровья](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 26 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
 | 27 | [Питер](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80) | N/A |
-| 28 | [либо](http://twitter.com/search?q=%d0%bb%d0%b8%d0%b1%d0%be) | N/A |
-| 29 | [запад](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
-| 30 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
-| 31 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 32 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 33 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 34 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
-| 35 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 36 | [#seilors](http://twitter.com/search?q=%23seilors) | N/A |
-| 37 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 38 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 39 | [вроде](http://twitter.com/search?q=%d0%b2%d1%80%d0%be%d0%b4%d0%b5) | N/A |
-| 40 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 41 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
-| 42 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 43 | [россией](http://twitter.com/search?q=%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 44 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 45 | [Игра Wordle](http://twitter.com/search?q=%d0%98%d0%b3%d1%80%d0%b0+Wordle) | N/A |
-| 46 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 47 | [сочувствую](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
-| 48 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
-| 49 | [донбассе](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b5) | N/A |
-| 50 | [путиным](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
+| 28 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 29 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 30 | [либо](http://twitter.com/search?q=%d0%bb%d0%b8%d0%b1%d0%be) | N/A |
+| 31 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 32 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
+| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 34 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 35 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 36 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
+| 37 | [Здоровья](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 38 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
+| 39 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 40 | [#seilors](http://twitter.com/search?q=%23seilors) | N/A |
+| 41 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 42 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 43 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 44 | [вроде](http://twitter.com/search?q=%d0%b2%d1%80%d0%be%d0%b4%d0%b5) | N/A |
+| 45 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 46 | [крым](http://twitter.com/search?q=%d0%ba%d1%80%d1%8b%d0%bc) | N/A |
+| 47 | [россией](http://twitter.com/search?q=%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
+| 48 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 49 | [сочувствую](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
+| 50 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
 
 
 

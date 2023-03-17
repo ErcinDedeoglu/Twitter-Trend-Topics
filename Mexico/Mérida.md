@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-03-17 04:16:39 UTC`
+📆 Last Updated: `2023-03-17 05:15:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 5 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
-| 6 | [#elculitodevenom](http://twitter.com/search?q=%23elculitodevenom) | N/A |
-| 7 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 8 | [HAPPY GOLD3N DAY](http://twitter.com/search?q=HAPPY+GOLD3N+DAY) | N/A |
-| 9 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [El Método](http://twitter.com/search?q=El+M%c3%a9todo) | N/A |
-| 12 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
-| 13 | [Mctrio](http://twitter.com/search?q=Mctrio) | N/A |
-| 14 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 15 | [Feminicidio](http://twitter.com/search?q=Feminicidio) | N/A |
-| 16 | [Palestina Libre](http://twitter.com/search?q=Palestina+Libre) | N/A |
-| 17 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
-| 18 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 19 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 20 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 25 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 26 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
-| 27 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 28 | [Cárcel](http://twitter.com/search?q=C%c3%a1rcel) | N/A |
-| 29 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
-| 30 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
-| 31 | [Helena Rojo](http://twitter.com/search?q=Helena+Rojo) | N/A |
-| 32 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
-| 33 | [Ciro Gómez Leyva](http://twitter.com/search?q=Ciro+G%c3%b3mez+Leyva) | Ciro Gómez Leyva is a Mexican journalist and radio host. He is known for his talk show Ciro Gómez Leyva por la Mañana, which airs on Radio Fórmula in Mexico. The show focuses on political and social issues in Mexico and Latin America. In English, the phrase "Ciro Gómez Leyva" translates to "Ciro Gomez Leyva". |
-| 34 | [Clásico Regio](http://twitter.com/search?q=Cl%c3%a1sico+Regio) | N/A |
-| 35 | [Robert Smith](http://twitter.com/search?q=Robert+Smith) | N/A |
-| 36 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 37 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
-| 38 | [Clásico Nacional](http://twitter.com/search?q=Cl%c3%a1sico+Nacional) | N/A |
-| 39 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 40 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 41 | [Melissa Galindo](http://twitter.com/search?q=Melissa+Galindo) | N/A |
-| 42 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 43 | [ALL OF THE GIRLS](http://twitter.com/search?q=ALL+OF+THE+GIRLS) | N/A |
-| 44 | [Exelente](http://twitter.com/search?q=Exelente) | N/A |
-| 45 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 46 | [#LaVentajaColosal](http://twitter.com/search?q=%23LaVentajaColosal) | N/A |
-| 47 | [#지미니가_퍼포로_뿌시러옴](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ea%b0%80_%ed%8d%bc%ed%8f%ac%eb%a1%9c_%eb%bf%8c%ec%8b%9c%eb%9f%ac%ec%98%b4) | N/A |
-| 48 | [#셋미프리파트투_아미대기해](http://twitter.com/search?q=%23%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ed%8c%8c%ed%8a%b8%ed%88%ac_%ec%95%84%eb%af%b8%eb%8c%80%ea%b8%b0%ed%95%b4) | N/A |
-| 49 | [#Aurora](http://twitter.com/search?q=%23Aurora) | N/A |
+| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 5 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 6 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 8 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 9 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
+| 10 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 11 | [#elculitodevenom](http://twitter.com/search?q=%23elculitodevenom) | N/A |
+| 12 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 13 | [Ranchuca](http://twitter.com/search?q=Ranchuca) | N/A |
+| 14 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 15 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 16 | [TE AMO JIMIN](http://twitter.com/search?q=TE+AMO+JIMIN) | N/A |
+| 17 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
+| 18 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 19 | [HAPPY GOLD3N DAY](http://twitter.com/search?q=HAPPY+GOLD3N+DAY) | N/A |
+| 20 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 21 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 22 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
+| 23 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 24 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
+| 25 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 26 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
+| 27 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 28 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
+| 29 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 30 | [Hondureño](http://twitter.com/search?q=Hondure%c3%b1o) | N/A |
+| 31 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
+| 32 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 33 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 34 | [Mctrio](http://twitter.com/search?q=Mctrio) | N/A |
+| 35 | [If This Was A Movie](http://twitter.com/search?q=If+This+Was+A+Movie) | N/A |
+| 36 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 37 | [El Método](http://twitter.com/search?q=El+M%c3%a9todo) | N/A |
+| 38 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 39 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
+| 40 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 41 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 42 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 43 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 44 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
+| 45 | [Palestina Libre](http://twitter.com/search?q=Palestina+Libre) | N/A |
+| 46 | [Mauricio Vila](http://twitter.com/search?q=Mauricio+Vila) | N/A |
+| 47 | [Feminicidio](http://twitter.com/search?q=Feminicidio) | N/A |
+| 48 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 49 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 50 | [Leona](http://twitter.com/search?q=Leona) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-17 04:17:22 UTC`
+📆 Last Updated: `2023-03-17 05:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 2 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 3 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 6 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 2 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
+| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 5 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 7 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 8 | [#SetMeFree_Pt2_OutToday](http://twitter.com/search?q=%23SetMeFree_Pt2_OutToday) | N/A |
-| 9 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 10 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
-| 11 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 14 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
-| 15 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 16 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 17 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 18 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 19 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 20 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 21 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
-| 22 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 23 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
-| 24 | [Buzz Williams](http://twitter.com/search?q=Buzz+Williams) | N/A |
-| 25 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 26 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 27 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
-| 28 | [Norse](http://twitter.com/search?q=Norse) | N/A |
-| 29 | [Cajuns](http://twitter.com/search?q=Cajuns) | N/A |
-| 30 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 31 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
-| 32 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 33 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 34 | [BARDI BLACKOUT](http://twitter.com/search?q=BARDI+BLACKOUT) | N/A |
-| 35 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 36 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 37 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 38 | [Shead](http://twitter.com/search?q=Shead) | N/A |
-| 39 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 40 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
-| 41 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 42 | [Byfield](http://twitter.com/search?q=Byfield) | N/A |
-| 43 | [Kelvin Sampson](http://twitter.com/search?q=Kelvin+Sampson) | N/A |
-| 44 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 45 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 46 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 47 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 48 | [Aabria](http://twitter.com/search?q=Aabria) | N/A |
-| 49 | [Colgate](http://twitter.com/search?q=Colgate) | N/A |
-| 50 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 8 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 9 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 10 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 11 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 12 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 13 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 14 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 15 | [Eyes Open](http://twitter.com/search?q=Eyes+Open) | N/A |
+| 16 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 17 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 18 | [Persona 5](http://twitter.com/search?q=Persona+5) | N/A |
+| 19 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 20 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 21 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 22 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 23 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 24 | [Safe and Sound](http://twitter.com/search?q=Safe+and+Sound) | N/A |
+| 25 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 26 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 27 | [Buzz Williams](http://twitter.com/search?q=Buzz+Williams) | N/A |
+| 28 | [Safe & Sound](http://twitter.com/search?q=Safe+%26+Sound) | N/A |
+| 29 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 30 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 31 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 32 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 33 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
+| 34 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 35 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 36 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 37 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
+| 38 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
+| 39 | [Fearless TV](http://twitter.com/search?q=Fearless+TV) | N/A |
+| 40 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 41 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 42 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
+| 43 | [ITWAM](http://twitter.com/search?q=ITWAM) | N/A |
+| 44 | [All Things End](http://twitter.com/search?q=All+Things+End) | N/A |
+| 45 | [OMG JIMIN](http://twitter.com/search?q=OMG+JIMIN) | OMG JIMIN is an expression of excitement or admiration for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. In English, it translates to "Oh my gosh, Jimin!" |
+| 46 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 47 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 48 | [Eat Your Young](http://twitter.com/search?q=Eat+Your+Young) | N/A |
+| 49 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 50 | [Atlus](http://twitter.com/search?q=Atlus) | N/A |
 
 
 
