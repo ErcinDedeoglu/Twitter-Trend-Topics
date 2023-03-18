@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-03-18 14:17:07 UTC`
+📆 Last Updated: `2023-03-18 15:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#beINLIGUE2](http://twitter.com/search?q=%23beINLIGUE2) | N/A |
-| 2 | [#HACASSE](http://twitter.com/search?q=%23HACASSE) | N/A |
-| 3 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
-| 4 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 5 | [Garen](http://twitter.com/search?q=Garen) | N/A |
-| 6 | [Godku](http://twitter.com/search?q=Godku) | N/A |
-| 7 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 8 | [Halles](http://twitter.com/search?q=Halles) | N/A |
-| 9 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
-| 10 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 11 | [Commune](http://twitter.com/search?q=Commune) | N/A |
-| 12 | [Nicolas Mathieu](http://twitter.com/search?q=Nicolas+Mathieu) | N/A |
-| 13 | [Michel Debré](http://twitter.com/search?q=Michel+Debr%c3%a9) | N/A |
-| 14 | [Bayrou](http://twitter.com/search?q=Bayrou) | N/A |
-| 15 | [3h15](http://twitter.com/search?q=3h15) | N/A |
-| 16 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 17 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 18 | [le 18](http://twitter.com/search?q=le+18) | N/A |
-| 19 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
-| 20 | [modem](http://twitter.com/search?q=modem) | N/A |
-| 21 | [imaginez](http://twitter.com/search?q=imaginez) | N/A |
-| 22 | [Valls](http://twitter.com/search?q=Valls) | N/A |
-| 23 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 24 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 25 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 26 | [Samedi 18](http://twitter.com/search?q=Samedi+18) | N/A |
-| 27 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
-| 28 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 29 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 30 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 31 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
-| 32 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
-| 33 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
-| 34 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
-| 35 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
-| 36 | [#FRAPDG](http://twitter.com/search?q=%23FRAPDG) | N/A |
-| 37 | [#TFCLOSC](http://twitter.com/search?q=%23TFCLOSC) | N/A |
-| 38 | [#ParionsSportAvecLeXV](http://twitter.com/search?q=%23ParionsSportAvecLeXV) | N/A |
-| 39 | [#FRAvWAL](http://twitter.com/search?q=%23FRAvWAL) | N/A |
-| 40 | [#18mars](http://twitter.com/search?q=%2318mars) | N/A |
-| 41 | [#Milansanremo](http://twitter.com/search?q=%23Milansanremo) | N/A |
-| 42 | [#DokkanBattle](http://twitter.com/search?q=%23DokkanBattle) | N/A |
-| 43 | [#saccageaparis](http://twitter.com/search?q=%23saccageaparis) | N/A |
-| 44 | [#RCLSCO](http://twitter.com/search?q=%23RCLSCO) | N/A |
-| 45 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 46 | [#GiletsJaunes](http://twitter.com/search?q=%23GiletsJaunes) | N/A |
-| 47 | [#recyclage](http://twitter.com/search?q=%23recyclage) | N/A |
+| 1 | [#FRAPDG](http://twitter.com/search?q=%23FRAPDG) | N/A |
+| 2 | [#FRAGAL](http://twitter.com/search?q=%23FRAGAL) | N/A |
+| 3 | [#HACASSE](http://twitter.com/search?q=%23HACASSE) | N/A |
+| 4 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 5 | [Allez les Bleus](http://twitter.com/search?q=Allez+les+Bleus) | N/A |
+| 6 | [Julia Simon](http://twitter.com/search?q=Julia+Simon) | N/A |
+| 7 | [Halles](http://twitter.com/search?q=Halles) | N/A |
+| 8 | [Ntamack](http://twitter.com/search?q=Ntamack) | N/A |
+| 9 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
+| 10 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 11 | [Châtelet](http://twitter.com/search?q=Ch%c3%a2telet) | N/A |
+| 12 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 13 | [Godku](http://twitter.com/search?q=Godku) | N/A |
+| 14 | [Garen](http://twitter.com/search?q=Garen) | N/A |
+| 15 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 16 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
+| 17 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
+| 18 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 19 | [Nicolas Mathieu](http://twitter.com/search?q=Nicolas+Mathieu) | N/A |
+| 20 | [Bayrou](http://twitter.com/search?q=Bayrou) | N/A |
+| 21 | [Pays de Galles](http://twitter.com/search?q=Pays+de+Galles) | N/A |
+| 22 | [Michel Debré](http://twitter.com/search?q=Michel+Debr%c3%a9) | N/A |
+| 23 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
+| 24 | [3h15](http://twitter.com/search?q=3h15) | N/A |
+| 25 | [Valls](http://twitter.com/search?q=Valls) | N/A |
+| 26 | [Vive la Commune](http://twitter.com/search?q=Vive+la+Commune) | N/A |
+| 27 | [Dokkan](http://twitter.com/search?q=Dokkan) | N/A |
+| 28 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 29 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 30 | [MoDem](http://twitter.com/search?q=MoDem) | N/A |
+| 31 | [Imaginez](http://twitter.com/search?q=Imaginez) | N/A |
+| 32 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 33 | [Occupe](http://twitter.com/search?q=Occupe) | N/A |
+| 34 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 35 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
+| 36 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 37 | [Samedi 18](http://twitter.com/search?q=Samedi+18) | N/A |
+| 38 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 39 | [#beINLIGUE2](http://twitter.com/search?q=%23beINLIGUE2) | N/A |
+| 40 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
+| 41 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
+| 42 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
+| 43 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
+| 44 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
+| 45 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 46 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
+| 47 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
 
 
 

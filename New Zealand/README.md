@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-18 14:17:44 UTC`
+📆 Last Updated: `2023-03-18 15:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,13 +20,13 @@ This is top 50 for New Zealand
 | 3 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 4 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
 | 5 | [#NRLCowboysWarriors](http://twitter.com/search?q=%23NRLCowboysWarriors) | N/A |
-| 6 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 7 | [Kawerau](http://twitter.com/search?q=Kawerau) | N/A |
-| 8 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
-| 9 | [kane williamson](http://twitter.com/search?q=kane+williamson) | N/A |
-| 10 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 11 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 12 | [Orewa](http://twitter.com/search?q=Orewa) | N/A |
+| 6 | [kawerau](http://twitter.com/search?q=kawerau) | N/A |
+| 7 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
+| 8 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 9 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 11 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 12 | [orewa](http://twitter.com/search?q=orewa) | N/A |
 | 13 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
 | 14 | [henry nicholls](http://twitter.com/search?q=henry+nicholls) | N/A |
 | 15 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for New Zealand
 | 31 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
 | 32 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
 | 33 | [jami-lee ross](http://twitter.com/search?q=jami-lee+ross) | N/A |
-| 34 | [Kim Hill](http://twitter.com/search?q=Kim+Hill) | N/A |
+| 34 | [kim hill](http://twitter.com/search?q=kim+hill) | N/A |
 | 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 36 | [todd muller](http://twitter.com/search?q=todd+muller) | N/A |
-| 37 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 39 | [out in the city](http://twitter.com/search?q=out+in+the+city) | N/A |
-| 40 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 41 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 42 | [Basin](http://twitter.com/search?q=Basin) | N/A |
-| 43 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 44 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
-| 45 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 46 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 47 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 48 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 49 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 50 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
+| 37 | [out in the city](http://twitter.com/search?q=out+in+the+city) | N/A |
+| 38 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 39 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 40 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 41 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
+| 42 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 43 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 44 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 45 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 46 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 47 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 48 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
+| 49 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 50 | [Pasifika](http://twitter.com/search?q=Pasifika) | N/A |
 
 
 
