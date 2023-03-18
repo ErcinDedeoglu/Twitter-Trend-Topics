@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-18 08:17:26 UTC`
+📆 Last Updated: `2023-03-18 09:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#stablztoken](http://twitter.com/search?q=%23stablztoken) | N/A |
 | 5 | [#BMGSVW](http://twitter.com/search?q=%23BMGSVW) | N/A |
 | 6 | [#gaixbinance](http://twitter.com/search?q=%23gaixbinance) | N/A |
-| 7 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 8 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 7 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 8 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
 | 9 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
 | 10 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 | 11 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 12 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 13 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 14 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 17 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 18 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 19 | [Morsche](http://twitter.com/search?q=Morsche) | N/A |
-| 20 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 21 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 22 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 23 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 24 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 25 | [IStGH](http://twitter.com/search?q=IStGH) | N/A |
-| 26 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 27 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 28 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 29 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 30 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 15 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 16 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 17 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 18 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 19 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 20 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 21 | [Bildnis](http://twitter.com/search?q=Bildnis) | N/A |
+| 22 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 24 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 25 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 26 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 27 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 28 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 29 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
+| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 31 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 32 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
-| 33 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
-| 34 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 35 | [Gartenarbeit](http://twitter.com/search?q=Gartenarbeit) | N/A |
-| 36 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 37 | [Bäcker](http://twitter.com/search?q=B%c3%a4cker) | N/A |
-| 38 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 39 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 40 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 42 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 43 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 44 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 45 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 46 | [Corinna](http://twitter.com/search?q=Corinna) | N/A |
-| 47 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
-| 48 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 49 | ['frühling'](http://twitter.com/search?q=%27fr%c3%bchling%27) | N/A |
-| 50 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
+| 32 | [IStGH](http://twitter.com/search?q=IStGH) | N/A |
+| 33 | [Morsche](http://twitter.com/search?q=Morsche) | N/A |
+| 34 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 35 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 36 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 37 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 38 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 39 | [Gartenarbeit](http://twitter.com/search?q=Gartenarbeit) | N/A |
+| 40 | [Schurkenstück](http://twitter.com/search?q=Schurkenst%c3%bcck) | N/A |
+| 41 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 42 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 43 | [Bäcker](http://twitter.com/search?q=B%c3%a4cker) | N/A |
+| 44 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 45 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 46 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
+| 47 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
+| 48 | [Corinna](http://twitter.com/search?q=Corinna) | N/A |
+| 49 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
+| 50 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
 
 
 

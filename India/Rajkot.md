@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-03-18 08:17:52 UTC`
+📆 Last Updated: `2023-03-18 09:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IndiaTodayConclave2023](http://twitter.com/search?q=%23IndiaTodayConclave2023) | N/A |
-| 2 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 3 | [#KitchensOfIndiaInArgentina](http://twitter.com/search?q=%23KitchensOfIndiaInArgentina) | N/A |
-| 4 | [#ManishKashyap](http://twitter.com/search?q=%23ManishKashyap) | N/A |
-| 5 | [#News18jharkhandsamwad](http://twitter.com/search?q=%23News18jharkhandsamwad) | N/A |
-| 6 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 7 | [कर्मा जयंती](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 8 | [श्री अन्न](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%a8%e0%a5%8d%e0%a4%a8) | N/A |
-| 9 | [Michael Bracewell](http://twitter.com/search?q=Michael+Bracewell) | N/A |
-| 10 | [C. AMOLED](http://twitter.com/search?q=C.+AMOLED) | N/A |
-| 11 | [Kidney Health Summit](http://twitter.com/search?q=Kidney+Health+Summit) | N/A |
-| 12 | [Shree Anna](http://twitter.com/search?q=Shree+Anna) | N/A |
-| 13 | [Govt Unwilling InSSRCase](http://twitter.com/search?q=Govt+Unwilling+InSSRCase) | N/A |
-| 14 | [Voice Of Sant Samaj](http://twitter.com/search?q=Voice+Of+Sant+Samaj) | N/A |
-| 15 | [Ab Nyay Chahiye](http://twitter.com/search?q=Ab+Nyay+Chahiye) | N/A |
-| 16 | [कर्मा देवी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 17 | [भक्त शिरोमणि](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf) | N/A |
-| 18 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 20 | [आयुध निर्माण](http://twitter.com/search?q=%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%a7+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a3) | N/A |
-| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 22 | [श्याम मानव](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5) | N/A |
-| 23 | [साहू समाज](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%82+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 24 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 25 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 26 | [Nature Campaign](http://twitter.com/search?q=Nature+Campaign) | N/A |
+| 1 | [Voice Of Sant Samaj](http://twitter.com/search?q=Voice+Of+Sant+Samaj) | N/A |
+| 2 | [#आहत_संत_समाज](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%b9%e0%a4%a4_%e0%a4%b8%e0%a4%82%e0%a4%a4_%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 3 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 4 | [#IndiaTodayConclave2023](http://twitter.com/search?q=%23IndiaTodayConclave2023) | N/A |
+| 5 | [#KitchensOfIndiaInArgentina](http://twitter.com/search?q=%23KitchensOfIndiaInArgentina) | N/A |
+| 6 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 7 | [#ManishKashyap](http://twitter.com/search?q=%23ManishKashyap) | N/A |
+| 8 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 9 | [B. Amazon](http://twitter.com/search?q=B.+Amazon) | N/A |
+| 10 | [कर्मा जयंती](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 11 | [Shree Anna](http://twitter.com/search?q=Shree+Anna) | N/A |
+| 12 | [श्री अन्न](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%a8%e0%a5%8d%e0%a4%a8) | N/A |
+| 13 | [C. AMOLED](http://twitter.com/search?q=C.+AMOLED) | N/A |
+| 14 | [B. 44W FlashCharge](http://twitter.com/search?q=B.+44W+FlashCharge) | N/A |
+| 15 | [D. 1300](http://twitter.com/search?q=D.+1300) | N/A |
+| 16 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
+| 17 | [Michael Bracewell](http://twitter.com/search?q=Michael+Bracewell) | N/A |
+| 18 | [Kidney Health Summit](http://twitter.com/search?q=Kidney+Health+Summit) | N/A |
+| 19 | [Govt Unwilling InSSRCase](http://twitter.com/search?q=Govt+Unwilling+InSSRCase) | N/A |
+| 20 | [कर्मा देवी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 21 | [भक्त शिरोमणि](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf) | N/A |
+| 22 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 24 | [श्याम मानव](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5) | N/A |
+| 25 | [राजा राम](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 26 | [आयुध निर्माण](http://twitter.com/search?q=%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%a7+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a3) | N/A |
 | 27 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
-| 28 | [Kharge](http://twitter.com/search?q=Kharge) | N/A |
-| 29 | [भगवान श्री कृष्ण](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 30 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
-| 31 | [वीर सावरकर](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
-| 32 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 33 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 34 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 35 | [बिजली गुल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2) | N/A |
-| 36 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 37 | [करुणा यादव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 38 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 28 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 29 | [साहू समाज](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%82+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 30 | [Kharge](http://twitter.com/search?q=Kharge) | N/A |
+| 31 | [Ab Nyay Chahiye](http://twitter.com/search?q=Ab+Nyay+Chahiye) | N/A |
+| 32 | [बिजली कर्मचारी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 33 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 34 | [वीर सावरकर](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
+| 35 | [भगवान श्री कृष्ण](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
+| 36 | [Nature Campaign](http://twitter.com/search?q=Nature+Campaign) | N/A |
+| 37 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
+| 38 | [करुणा यादव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
 | 39 | [जम्मू कश्मीर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0) | N/A |
-| 40 | [#BlockbusterKabzaa](http://twitter.com/search?q=%23BlockbusterKabzaa) | N/A |
-| 41 | [#iQOOZ7giveaway](http://twitter.com/search?q=%23iQOOZ7giveaway) | N/A |
-| 42 | [#CorruptionFreeHaryana](http://twitter.com/search?q=%23CorruptionFreeHaryana) | N/A |
-| 43 | [#SSMB28](http://twitter.com/search?q=%23SSMB28) | N/A |
-| 44 | [#IYM2023](http://twitter.com/search?q=%23IYM2023) | N/A |
-| 45 | [#GlobalRecyclingDay](http://twitter.com/search?q=%23GlobalRecyclingDay) | N/A |
-| 46 | [#Millets](http://twitter.com/search?q=%23Millets) | N/A |
-| 47 | [#आहत_संत_समाज](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%b9%e0%a4%a4_%e0%a4%b8%e0%a4%82%e0%a4%a4_%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 48 | [#Trivikram](http://twitter.com/search?q=%23Trivikram) | N/A |
-| 49 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 40 | [बिजली गुल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2) | N/A |
+| 41 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 42 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 43 | [#UPAgainstBijliStrike](http://twitter.com/search?q=%23UPAgainstBijliStrike) | N/A |
+| 44 | [#TAConSharkTankIndia](http://twitter.com/search?q=%23TAConSharkTankIndia) | N/A |
+| 45 | [#WWWMannKiBaat](http://twitter.com/search?q=%23WWWMannKiBaat) | N/A |
+| 46 | [#BlockbusterKabzaa](http://twitter.com/search?q=%23BlockbusterKabzaa) | N/A |
+| 47 | [#IYM2023](http://twitter.com/search?q=%23IYM2023) | N/A |
+| 48 | [#News18jharkhandsamwad](http://twitter.com/search?q=%23News18jharkhandsamwad) | N/A |
+| 49 | [#winiQOOZ7](http://twitter.com/search?q=%23winiQOOZ7) | N/A |
 
 
 

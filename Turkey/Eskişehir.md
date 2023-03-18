@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-18 08:17:54 UTC`
+📆 Last Updated: `2023-03-18 09:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,52 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#18MartÇanakkaleZaferi](http://twitter.com/search?q=%2318Mart%c3%87anakkaleZaferi) | N/A |
-| 2 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 3 | [#RuhumuzdaVar](http://twitter.com/search?q=%23RuhumuzdaVar) | N/A |
-| 4 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 5 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
+| 2 | [#18MartÇanakkaleZaferi](http://twitter.com/search?q=%2318Mart%c3%87anakkaleZaferi) | N/A |
+| 3 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
+| 4 | [#RuhumuzdaVar](http://twitter.com/search?q=%23RuhumuzdaVar) | N/A |
+| 5 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
 | 6 | [Minnetle](http://twitter.com/search?q=Minnetle) | N/A |
-| 7 | [Saygı](http://twitter.com/search?q=Sayg%c4%b1) | N/A |
-| 8 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
-| 9 | [Şehitleri Anma Günü](http://twitter.com/search?q=%c5%9eehitleri+Anma+G%c3%bcn%c3%bc) | N/A |
-| 10 | [İslami](http://twitter.com/search?q=%c4%b0slami) | N/A |
-| 11 | [Seyit Onbaşı](http://twitter.com/search?q=Seyit+Onba%c5%9f%c4%b1) | N/A |
-| 12 | [Milyonlar](http://twitter.com/search?q=Milyonlar) | N/A |
-| 13 | [ERDOĞAN EZE EZE KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+EZE+EZE+KAZANACAK) | N/A |
-| 14 | [Gazilerimizi](http://twitter.com/search?q=Gazilerimizi) | N/A |
-| 15 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 16 | [Şükran](http://twitter.com/search?q=%c5%9e%c3%bckran) | N/A |
-| 17 | [Peygamber](http://twitter.com/search?q=Peygamber) | N/A |
-| 18 | [Türkan](http://twitter.com/search?q=T%c3%bcrkan) | N/A |
-| 19 | [Silah](http://twitter.com/search?q=Silah) | N/A |
-| 20 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 21 | [Mekanları Cennet](http://twitter.com/search?q=Mekanlar%c4%b1+Cennet) | N/A |
-| 22 | [DUR YOLCU](http://twitter.com/search?q=DUR+YOLCU) | N/A |
-| 23 | [Özlem Hanım](http://twitter.com/search?q=%c3%96zlem+Han%c4%b1m) | N/A |
-| 24 | [Tahir Elçi](http://twitter.com/search?q=Tahir+El%c3%a7i) | N/A |
-| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 26 | [Üretim](http://twitter.com/search?q=%c3%9cretim) | N/A |
-| 27 | [Selo](http://twitter.com/search?q=Selo) | N/A |
-| 28 | [Milli Muharip Uçak](http://twitter.com/search?q=Milli+Muharip+U%c3%a7ak) | N/A |
-| 29 | [VER MEHTERİ BAŞLIYORUZ](http://twitter.com/search?q=VER+MEHTER%c4%b0+BA%c5%9eLIYORUZ) | N/A |
-| 30 | [Şahit Yılmadık](http://twitter.com/search?q=%c5%9eahit+Y%c4%b1lmad%c4%b1k) | N/A |
-| 31 | [#kıyamet](http://twitter.com/search?q=%23k%c4%b1yamet) | N/A |
-| 32 | [#AliİsmailKorkmaz](http://twitter.com/search?q=%23Ali%c4%b0smailKorkmaz) | N/A |
-| 33 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 34 | [#StajyerYokSayılamaz](http://twitter.com/search?q=%23StajyerYokSay%c4%b1lamaz) | N/A |
-| 35 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 36 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | Gaziantep is a city in southeastern Turkey. It is the sixth most populous city in the country and the capital of Gaziantep Province. The name Gaziantep is derived from the Arabic word "Azzanatif", which means "noble". In English, it translates to "Noble City". |
-| 37 | [#EfeDemir](http://twitter.com/search?q=%23EfeDemir) | N/A |
-| 38 | [#yapikredi](http://twitter.com/search?q=%23yapikredi) | N/A |
-| 39 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
-| 40 | [#NEMUTLUTÜRKÜMDİYENE](http://twitter.com/search?q=%23NEMUTLUT%c3%9cRK%c3%9cMD%c4%b0YENE) | N/A |
-| 41 | [#Kilis](http://twitter.com/search?q=%23Kilis) | N/A |
-| 42 | [#KuralıYokSayamazsınTFF](http://twitter.com/search?q=%23Kural%c4%b1YokSayamazs%c4%b1nTFF) | N/A |
-| 43 | [#dolu](http://twitter.com/search?q=%23dolu) | N/A |
-| 44 | [#SenŞampiyonOlacaksın](http://twitter.com/search?q=%23Sen%c5%9eampiyonOlacaks%c4%b1n) | N/A |
-| 45 | [#2000lerinSecimi](http://twitter.com/search?q=%232000lerinSecimi) | N/A |
+| 7 | [ERDOĞAN EZE EZE KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+EZE+EZE+KAZANACAK) | N/A |
+| 8 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
+| 9 | [Saygı](http://twitter.com/search?q=Sayg%c4%b1) | N/A |
+| 10 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
+| 11 | [Milyonlar](http://twitter.com/search?q=Milyonlar) | N/A |
+| 12 | [Daha İslami](http://twitter.com/search?q=Daha+%c4%b0slami) | N/A |
+| 13 | [Seyit Onbaşı](http://twitter.com/search?q=Seyit+Onba%c5%9f%c4%b1) | N/A |
+| 14 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 15 | [Türkan](http://twitter.com/search?q=T%c3%bcrkan) | N/A |
+| 16 | [Silah](http://twitter.com/search?q=Silah) | N/A |
+| 17 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 18 | [Ne Mutlu Türk'üm Diyene](http://twitter.com/search?q=Ne+Mutlu+T%c3%bcrk%27%c3%bcm+Diyene) | N/A |
+| 19 | [DUR YOLCU](http://twitter.com/search?q=DUR+YOLCU) | N/A |
+| 20 | [Peygamber](http://twitter.com/search?q=Peygamber) | N/A |
+| 21 | [Şükran](http://twitter.com/search?q=%c5%9e%c3%bckran) | N/A |
+| 22 | [Cevat Paşa](http://twitter.com/search?q=Cevat+Pa%c5%9fa) | N/A |
+| 23 | [Milli Muharip Uçak](http://twitter.com/search?q=Milli+Muharip+U%c3%a7ak) | N/A |
+| 24 | [Enver Paşa](http://twitter.com/search?q=Enver+Pa%c5%9fa) | N/A |
+| 25 | [Anafartalar](http://twitter.com/search?q=Anafartalar) | N/A |
+| 26 | [Mekanları Cennet](http://twitter.com/search?q=Mekanlar%c4%b1+Cennet) | N/A |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Yıl Dönümü](http://twitter.com/search?q=Y%c4%b1l+D%c3%b6n%c3%bcm%c3%bc) | N/A |
+| 29 | [Tahir Elçi](http://twitter.com/search?q=Tahir+El%c3%a7i) | N/A |
+| 30 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
+| 31 | [Mehmetçik](http://twitter.com/search?q=Mehmet%c3%a7ik) | N/A |
+| 32 | [Ligi](http://twitter.com/search?q=Ligi) | N/A |
+| 33 | [Kahraman](http://twitter.com/search?q=Kahraman) | N/A |
+| 34 | [Selo](http://twitter.com/search?q=Selo) | N/A |
+| 35 | [#AliİsmailKorkmaz](http://twitter.com/search?q=%23Ali%c4%b0smailKorkmaz) | N/A |
+| 36 | [#kıyamet](http://twitter.com/search?q=%23k%c4%b1yamet) | N/A |
+| 37 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 38 | [#5binKısmiAboAcilTorbaya](http://twitter.com/search?q=%235binK%c4%b1smiAboAcilTorbaya) | N/A |
+| 39 | [#Hep19Yaşında](http://twitter.com/search?q=%23Hep19Ya%c5%9f%c4%b1nda) | N/A |
+| 40 | [#StajyerYokSayılamaz](http://twitter.com/search?q=%23StajyerYokSay%c4%b1lamaz) | N/A |
+| 41 | [#yapikredi](http://twitter.com/search?q=%23yapikredi) | N/A |
+| 42 | [#EfeDemir](http://twitter.com/search?q=%23EfeDemir) | N/A |
+| 43 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 44 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
+| 45 | [#SenŞampiyonOlacaksın](http://twitter.com/search?q=%23Sen%c5%9eampiyonOlacaks%c4%b1n) | N/A |
+| 46 | [#Kilis](http://twitter.com/search?q=%23Kilis) | N/A |
+| 47 | [#dolu](http://twitter.com/search?q=%23dolu) | N/A |
 
 
 

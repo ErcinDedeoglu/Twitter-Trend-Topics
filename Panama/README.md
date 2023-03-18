@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-18 08:18:13 UTC`
+📆 Last Updated: `2023-03-18 09:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,22 +32,22 @@ This is top 50 for Panama
 | 15 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 16 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 17 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
-| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 19 | [guayacanes](http://twitter.com/search?q=guayacanes) | N/A |
-| 20 | [michael amir murillo](http://twitter.com/search?q=michael+amir+murillo) | N/A |
-| 21 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
-| 22 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 23 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 24 | [cholo chorrillo](http://twitter.com/search?q=cholo+chorrillo) | N/A |
-| 25 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 26 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
-| 27 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
-| 28 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 29 | [Dorado](http://twitter.com/search?q=Dorado) | N/A |
-| 30 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
-| 31 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 32 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 33 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 18 | [Heath Ledger](http://twitter.com/search?q=Heath+Ledger) | N/A |
+| 19 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 20 | [guayacanes](http://twitter.com/search?q=guayacanes) | N/A |
+| 21 | [michael amir murillo](http://twitter.com/search?q=michael+amir+murillo) | N/A |
+| 22 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
+| 23 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 24 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 25 | [cholo chorrillo](http://twitter.com/search?q=cholo+chorrillo) | N/A |
+| 26 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 27 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
+| 28 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 29 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 30 | [Dorado](http://twitter.com/search?q=Dorado) | N/A |
+| 31 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
+| 32 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 33 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
 | 34 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
 | 35 | [Myke](http://twitter.com/search?q=Myke) | N/A |
 | 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
@@ -55,8 +55,8 @@ This is top 50 for Panama
 | 38 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 39 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
 | 40 | [#veraguas](http://twitter.com/search?q=%23veraguas) | N/A |
-| 41 | [Feria Internacional de David](http://twitter.com/search?q=Feria+Internacional+de+David) | N/A |
-| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 41 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 42 | [Feria Internacional de David](http://twitter.com/search?q=Feria+Internacional+de+David) | N/A |
 | 43 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
 | 44 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 45 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |

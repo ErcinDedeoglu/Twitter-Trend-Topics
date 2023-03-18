@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-18 08:18:04 UTC`
+📆 Last Updated: `2023-03-18 09:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 4 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 5 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 6 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 7 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 8 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 9 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 10 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 13 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 14 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 15 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
-| 16 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
-| 17 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 5 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 6 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 8 | [#ひろがるホロライブDAY1](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY1) | N/A |
+| 9 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 10 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 11 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 12 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
+| 13 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
+| 14 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 15 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 16 | [#tjpwGP23](http://twitter.com/search?q=%23tjpwGP23) | N/A |
+| 17 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
 | 18 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 19 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 20 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 21 | [#tjpwGP23](http://twitter.com/search?q=%23tjpwGP23) | N/A |
-| 22 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
-| 23 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
-| 24 | [44 SONGS](http://twitter.com/search?q=44+SONGS) | N/A |
-| 25 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 26 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
-| 27 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 19 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
+| 20 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 21 | [44 SONGS](http://twitter.com/search?q=44+SONGS) | N/A |
+| 22 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 23 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 24 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 25 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
+| 26 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
+| 27 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
 | 28 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 29 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
+| 29 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
 | 30 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 31 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 32 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
-| 33 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 34 | [MIKAEL](http://twitter.com/search?q=MIKAEL) | N/A |
-| 35 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
-| 36 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 37 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 38 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 39 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 40 | [BDSP](http://twitter.com/search?q=BDSP) | N/A |
-| 41 | [INVISIBLE STRING](http://twitter.com/search?q=INVISIBLE+STRING) | N/A |
-| 42 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
-| 43 | [Long Live](http://twitter.com/search?q=Long+Live) | N/A |
-| 44 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 45 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
-| 46 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 47 | [Mirrorball](http://twitter.com/search?q=Mirrorball) | N/A |
-| 48 | [ILLICIT AFFAIRS](http://twitter.com/search?q=ILLICIT+AFFAIRS) | N/A |
-| 49 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 50 | [Miss Americana](http://twitter.com/search?q=Miss+Americana) | N/A |
+| 31 | [MIKAEL](http://twitter.com/search?q=MIKAEL) | N/A |
+| 32 | [BDSP](http://twitter.com/search?q=BDSP) | N/A |
+| 33 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
+| 34 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 35 | [Painter](http://twitter.com/search?q=Painter) | N/A |
+| 36 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 37 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 38 | [INVISIBLE STRING](http://twitter.com/search?q=INVISIBLE+STRING) | N/A |
+| 39 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 40 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 41 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 42 | [Long Live](http://twitter.com/search?q=Long+Live) | N/A |
+| 43 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 44 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 45 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 46 | [ILLICIT AFFAIRS](http://twitter.com/search?q=ILLICIT+AFFAIRS) | N/A |
+| 47 | [Miss Americana](http://twitter.com/search?q=Miss+Americana) | N/A |
+| 48 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 49 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 50 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 
 
 

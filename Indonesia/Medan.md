@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-18 08:17:33 UTC`
+📆 Last Updated: `2023-03-18 09:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ngobrolin UrusanGue DiBandung](http://twitter.com/search?q=Ngobrolin+UrusanGue+DiBandung) | N/A |
-| 2 | [Serunya MilenialGenZ Prabowo](http://twitter.com/search?q=Serunya+MilenialGenZ+Prabowo) | N/A |
-| 3 | [YukGabung Kerenin Indonesia](http://twitter.com/search?q=YukGabung+Kerenin+Indonesia) | N/A |
-| 4 | [#PRUNGGUSMUHAIMIN](http://twitter.com/search?q=%23PRUNGGUSMUHAIMIN) | N/A |
-| 5 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
+| 1 | [#MasjidBSIBakauheni](http://twitter.com/search?q=%23MasjidBSIBakauheni) | N/A |
+| 2 | [Ngobrolin UrusanGue DiBandung](http://twitter.com/search?q=Ngobrolin+UrusanGue+DiBandung) | N/A |
+| 3 | [Serunya MilenialGenZ Prabowo](http://twitter.com/search?q=Serunya+MilenialGenZ+Prabowo) | N/A |
+| 4 | [YukGabung Kerenin Indonesia](http://twitter.com/search?q=YukGabung+Kerenin+Indonesia) | N/A |
+| 5 | [#PRUNGGUSMUHAIMIN](http://twitter.com/search?q=%23PRUNGGUSMUHAIMIN) | N/A |
 | 6 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
 | 7 | [PKB KAHIJI JABAR NGAHIJI](http://twitter.com/search?q=PKB+KAHIJI+JABAR+NGAHIJI) | N/A |
-| 8 | [#ONEW1stWin](http://twitter.com/search?q=%23ONEW1stWin) | N/A |
-| 9 | [#Circle1stWin](http://twitter.com/search?q=%23Circle1stWin) | N/A |
-| 10 | [Boti](http://twitter.com/search?q=Boti) | N/A |
-| 11 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
-| 14 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
-| 15 | [Terima Kasih Kerja](http://twitter.com/search?q=Terima+Kasih+Kerja) | N/A |
-| 16 | [Bencong](http://twitter.com/search?q=Bencong) | N/A |
-| 17 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 8 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
+| 9 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
+| 10 | [Bakauheni Harbour City](http://twitter.com/search?q=Bakauheni+Harbour+City) | N/A |
+| 11 | [Bank Syariah Indonesia](http://twitter.com/search?q=Bank+Syariah+Indonesia) | N/A |
+| 12 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 13 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
+| 14 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
+| 15 | [Boti](http://twitter.com/search?q=Boti) | N/A |
+| 16 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 17 | [Bencong](http://twitter.com/search?q=Bencong) | N/A |
 | 18 | [Taurus](http://twitter.com/search?q=Taurus) | N/A |
-| 19 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 20 | [Usia](http://twitter.com/search?q=Usia) | N/A |
-| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 22 | [Erha](http://twitter.com/search?q=Erha) | N/A |
-| 23 | [Puskesmas](http://twitter.com/search?q=Puskesmas) | N/A |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 26 | [#BanggaPakaiLokal](http://twitter.com/search?q=%23BanggaPakaiLokal) | N/A |
-| 27 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
-| 28 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 29 | [#JINAN_RESOLVED](http://twitter.com/search?q=%23JINAN_RESOLVED) | N/A |
-| 30 | [#turn2getherBenTier](http://twitter.com/search?q=%23turn2getherBenTier) | N/A |
-| 31 | [#9RATEFULINSHANITY](http://twitter.com/search?q=%239RATEFULINSHANITY) | N/A |
-| 32 | [#THEDREAMSHOW2_in_SINGAPORE](http://twitter.com/search?q=%23THEDREAMSHOW2_in_SINGAPORE) | N/A |
-| 33 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
-| 34 | [#ChoiWooShik](http://twitter.com/search?q=%23ChoiWooShik) | N/A |
-| 35 | [#AyoNaikKereta](http://twitter.com/search?q=%23AyoNaikKereta) | N/A |
-| 36 | [#KAI121](http://twitter.com/search?q=%23KAI121) | N/A |
-| 37 | [#TREASUREINJAKARTA](http://twitter.com/search?q=%23TREASUREINJAKARTA) | N/A |
-| 38 | [#KimTaehyung](http://twitter.com/search?q=%23KimTaehyung) | N/A |
-| 39 | [#TREASUREinJKT](http://twitter.com/search?q=%23TREASUREinJKT) | N/A |
-| 40 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
-| 41 | [#TREASURE_HELLO_IN_Jakarta](http://twitter.com/search?q=%23TREASURE_HELLO_IN_Jakarta) | N/A |
-| 42 | [#jersey4sale](http://twitter.com/search?q=%23jersey4sale) | N/A |
-| 43 | [#TREASURE_HELLO_ASIA_TOUR](http://twitter.com/search?q=%23TREASURE_HELLO_ASIA_TOUR) | N/A |
-| 44 | [#HELLO_TOUR_IN_JAKARTA](http://twitter.com/search?q=%23HELLO_TOUR_IN_JAKARTA) | N/A |
-| 45 | [#HelmutAdalahKorban](http://twitter.com/search?q=%23HelmutAdalahKorban) | N/A |
+| 19 | [Terima Kasih Kerja](http://twitter.com/search?q=Terima+Kasih+Kerja) | N/A |
+| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 21 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 22 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 23 | [Usia](http://twitter.com/search?q=Usia) | N/A |
+| 24 | [Erha](http://twitter.com/search?q=Erha) | N/A |
+| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 26 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 27 | [#Circle1stWin](http://twitter.com/search?q=%23Circle1stWin) | N/A |
+| 28 | [#JINAN_RESOLVED](http://twitter.com/search?q=%23JINAN_RESOLVED) | N/A |
+| 29 | [#ONEW1stWin](http://twitter.com/search?q=%23ONEW1stWin) | N/A |
+| 30 | [#ひろがるホロライブDAY1](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY1) | N/A |
+| 31 | [#UN1TYMariJajanFest](http://twitter.com/search?q=%23UN1TYMariJajanFest) | N/A |
+| 32 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 33 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
+| 34 | [#BanggaPakaiLokal](http://twitter.com/search?q=%23BanggaPakaiLokal) | N/A |
+| 35 | [#9RATEFULINSHANITY](http://twitter.com/search?q=%239RATEFULINSHANITY) | N/A |
+| 36 | [#turn2getherBenTier](http://twitter.com/search?q=%23turn2getherBenTier) | N/A |
+| 37 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 38 | [#ChoiWooShik](http://twitter.com/search?q=%23ChoiWooShik) | N/A |
+| 39 | [#THEDREAMSHOW2_in_SINGAPORE](http://twitter.com/search?q=%23THEDREAMSHOW2_in_SINGAPORE) | N/A |
+| 40 | [#AyoNaikKereta](http://twitter.com/search?q=%23AyoNaikKereta) | N/A |
+| 41 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 42 | [#KAI121](http://twitter.com/search?q=%23KAI121) | N/A |
+| 43 | [#TREASUREINJAKARTA](http://twitter.com/search?q=%23TREASUREINJAKARTA) | N/A |
+| 44 | [#KimTaehyung](http://twitter.com/search?q=%23KimTaehyung) | N/A |
+| 45 | [#TREASUREinJKT](http://twitter.com/search?q=%23TREASUREinJKT) | N/A |
+| 46 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
+| 47 | [#TREASURE_HELLO_IN_Jakarta](http://twitter.com/search?q=%23TREASURE_HELLO_IN_Jakarta) | N/A |
+| 48 | [#TREASURE_HELLO_ASIA_TOUR](http://twitter.com/search?q=%23TREASURE_HELLO_ASIA_TOUR) | N/A |
 
 
 

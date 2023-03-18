@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-03-18 08:18:03 UTC`
+📆 Last Updated: `2023-03-18 09:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 5 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 6 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 7 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
-| 8 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
-| 9 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 10 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 4 | [#ひろがるホロライブDAY1](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY1) | N/A |
+| 5 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 6 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 7 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 8 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
+| 9 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
+| 10 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
 | 11 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 12 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 13 | [#tjpwGP23](http://twitter.com/search?q=%23tjpwGP23) | N/A |
-| 14 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
-| 15 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 16 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 12 | [#tjpwGP23](http://twitter.com/search?q=%23tjpwGP23) | N/A |
+| 13 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 14 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 15 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
+| 16 | [Betty](http://twitter.com/search?q=Betty) | N/A |
 | 17 | [44 SONGS](http://twitter.com/search?q=44+SONGS) | N/A |
 | 18 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 19 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
-| 20 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 21 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 19 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 20 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 21 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
 | 22 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
 | 23 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
-| 24 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 25 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 26 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 24 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 25 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
+| 26 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
 | 27 | [MIKAEL](http://twitter.com/search?q=MIKAEL) | N/A |
-| 28 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
-| 29 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 30 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 31 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 32 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 33 | [BDSP](http://twitter.com/search?q=BDSP) | N/A |
+| 28 | [BDSP](http://twitter.com/search?q=BDSP) | N/A |
+| 29 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
+| 30 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 31 | [Painter](http://twitter.com/search?q=Painter) | N/A |
+| 32 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 33 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
 | 34 | [INVISIBLE STRING](http://twitter.com/search?q=INVISIBLE+STRING) | N/A |
-| 35 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
-| 36 | [Long Live](http://twitter.com/search?q=Long+Live) | N/A |
-| 37 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 38 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
-| 39 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 40 | [Mirrorball](http://twitter.com/search?q=Mirrorball) | N/A |
-| 41 | [ILLICIT AFFAIRS](http://twitter.com/search?q=ILLICIT+AFFAIRS) | N/A |
-| 42 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 35 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 36 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 37 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 38 | [Long Live](http://twitter.com/search?q=Long+Live) | N/A |
+| 39 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 40 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 41 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 42 | [ILLICIT AFFAIRS](http://twitter.com/search?q=ILLICIT+AFFAIRS) | N/A |
 | 43 | [Miss Americana](http://twitter.com/search?q=Miss+Americana) | N/A |
-| 44 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 45 | [JaKobe Coles](http://twitter.com/search?q=JaKobe+Coles) | N/A |
-| 46 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
-| 47 | [Salina](http://twitter.com/search?q=Salina) | N/A |
-| 48 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 49 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
-| 50 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
+| 44 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 45 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 46 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 47 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
+| 48 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
+| 49 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 50 | [MIDNIGHT RAIN](http://twitter.com/search?q=MIDNIGHT+RAIN) | N/A |
 
 
 
