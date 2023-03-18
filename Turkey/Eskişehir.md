@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-17 23:16:38 UTC`
+📆 Last Updated: `2023-03-18 00:28:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [Turkey](</Turkey>)
 | 7 | [Dünya Şahit Yılmadık](http://twitter.com/search?q=D%c3%bcnya+%c5%9eahit+Y%c4%b1lmad%c4%b1k) | N/A |
 | 8 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
 | 9 | [VER MEHTERİ BAŞLIYORUZ](http://twitter.com/search?q=VER+MEHTER%c4%b0+BA%c5%9eLIYORUZ) | N/A |
-| 10 | [Sehic](http://twitter.com/search?q=Sehic) | N/A |
-| 11 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 12 | [KEMALE OY MOY YOK](http://twitter.com/search?q=KEMALE+OY+MOY+YOK) | N/A |
+| 10 | [KEMALE OY MOY YOK](http://twitter.com/search?q=KEMALE+OY+MOY+YOK) | N/A |
+| 11 | [Minnetle](http://twitter.com/search?q=Minnetle) | N/A |
+| 12 | [Sehic](http://twitter.com/search?q=Sehic) | N/A |
 | 13 | [Şehitlerimizi](http://twitter.com/search?q=%c5%9eehitlerimizi) | N/A |
-| 14 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 15 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 16 | [Minnetle](http://twitter.com/search?q=Minnetle) | N/A |
-| 17 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
-| 18 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 14 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 15 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 16 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 17 | [Karşıyaka Konak Çiğli](http://twitter.com/search?q=Kar%c5%9f%c4%b1yaka+Konak+%c3%87i%c4%9fli) | N/A |
+| 18 | [Serkan Toper](http://twitter.com/search?q=Serkan+Toper) | N/A |
 | 19 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 20 | [Karşıyaka Konak Çiğli](http://twitter.com/search?q=Kar%c5%9f%c4%b1yaka+Konak+%c3%87i%c4%9fli) | N/A |
-| 21 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 22 | [Doğa](http://twitter.com/search?q=Do%c4%9fa) | N/A |
-| 23 | [Serkan Toper](http://twitter.com/search?q=Serkan+Toper) | N/A |
-| 24 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 25 | [Kıvılcım](http://twitter.com/search?q=K%c4%b1v%c4%b1lc%c4%b1m) | N/A |
-| 26 | [Alanya](http://twitter.com/search?q=Alanya) | Alanya is a city and resort on the southern coast of Turkey. It is located in the province of Antalya and is a popular tourist destination. The name Alanya comes from the Arabic word for "peninsula" or "island". In English, it can be translated to mean "Island of the Sun". |
-| 27 | [Gaziemir Buca Bornova Bayrakli](http://twitter.com/search?q=Gaziemir+Buca+Bornova+Bayrakli) | N/A |
-| 28 | [Dur Yolcu](http://twitter.com/search?q=Dur+Yolcu) | N/A |
-| 29 | [Şimşek](http://twitter.com/search?q=%c5%9eim%c5%9fek) | N/A |
-| 30 | [Yılı Kutlu Olsun](http://twitter.com/search?q=Y%c4%b1l%c4%b1+Kutlu+Olsun) | N/A |
-| 31 | [Saygı](http://twitter.com/search?q=Sayg%c4%b1) | N/A |
+| 20 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 21 | [Gaziemir Buca Bornova Bayrakli](http://twitter.com/search?q=Gaziemir+Buca+Bornova+Bayrakli) | N/A |
+| 22 | [Saygı](http://twitter.com/search?q=Sayg%c4%b1) | N/A |
+| 23 | [Dur Yolcu](http://twitter.com/search?q=Dur+Yolcu) | N/A |
+| 24 | [Doğa](http://twitter.com/search?q=Do%c4%9fa) | N/A |
+| 25 | [Oğulcan](http://twitter.com/search?q=O%c4%9fulcan) | N/A |
+| 26 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 27 | [Şimşek](http://twitter.com/search?q=%c5%9eim%c5%9fek) | N/A |
+| 28 | [Kıvılcım](http://twitter.com/search?q=K%c4%b1v%c4%b1lc%c4%b1m) | N/A |
+| 29 | [Yılı Kutlu Olsun](http://twitter.com/search?q=Y%c4%b1l%c4%b1+Kutlu+Olsun) | N/A |
+| 30 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
+| 31 | [Alanya](http://twitter.com/search?q=Alanya) | Alanya is a city and resort on the southern coast of Turkey. It is located in the province of Antalya and is a popular tourist destination. The name Alanya comes from the Arabic word for "peninsula" or "island". In English, it can be translated to mean "Island of the Sun". |
 | 32 | [OyuMuz EhliyetAffına](http://twitter.com/search?q=OyuMuz+EhliyetAff%c4%b1na) | N/A |
 | 33 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
-| 34 | [Bebekler CezaevindeBüyümesin](http://twitter.com/search?q=Bebekler+CezaevindeB%c3%bcy%c3%bcmesin) | N/A |
-| 35 | [Abdülkerim](http://twitter.com/search?q=Abd%c3%bclkerim) | Abdülkerim is a Turkish name, derived from the Arabic name Abdul Karim. It means "servant of the Generous One". |
-| 36 | [Tahir Elçi](http://twitter.com/search?q=Tahir+El%c3%a7i) | N/A |
-| 37 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 38 | [Gazilerimizi](http://twitter.com/search?q=Gazilerimizi) | N/A |
-| 39 | [Kıyamet](http://twitter.com/search?q=K%c4%b1yamet) | N/A |
-| 40 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 34 | [Gazilerimizi](http://twitter.com/search?q=Gazilerimizi) | N/A |
+| 35 | [Bebekler CezaevindeBüyümesin](http://twitter.com/search?q=Bebekler+CezaevindeB%c3%bcy%c3%bcmesin) | N/A |
+| 36 | [Berkan](http://twitter.com/search?q=Berkan) | Berkan is a Turkish name derived from the Arabic word “baraka”, which means blessing. In English, it can be translated to mean “blessed” or “favored by God”. |
+| 37 | [Tahir Elçi](http://twitter.com/search?q=Tahir+El%c3%a7i) | N/A |
+| 38 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
+| 39 | [Ahmet Oğuz](http://twitter.com/search?q=Ahmet+O%c4%9fuz) | N/A |
+| 40 | [Zorbay](http://twitter.com/search?q=Zorbay) | N/A |
 | 41 | [Kırmızı](http://twitter.com/search?q=K%c4%b1rm%c4%b1z%c4%b1) | Kırmızı is the Turkish word for "red". |
-| 42 | [Ahmet Oğuz](http://twitter.com/search?q=Ahmet+O%c4%9fuz) | N/A |
-| 43 | [Bülent Kaya](http://twitter.com/search?q=B%c3%bclent+Kaya) | N/A |
-| 44 | [Zorbay Küçük](http://twitter.com/search?q=Zorbay+K%c3%bc%c3%a7%c3%bck) | Zorbay Küçük is a Turkish phrase that translates to "tough little one." It is often used as an affectionate term for someone who is small but strong and resilient. |
-| 45 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
-| 46 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 47 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
-| 48 | [Oğulcan](http://twitter.com/search?q=O%c4%9fulcan) | N/A |
+| 42 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 43 | [Türkan Elçi](http://twitter.com/search?q=T%c3%bcrkan+El%c3%a7i) | N/A |
+| 44 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
+| 45 | [Abdülkerim](http://twitter.com/search?q=Abd%c3%bclkerim) | Abdülkerim is a Turkish name, derived from the Arabic name Abdul Karim. It means "servant of the Generous One". |
+| 46 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 47 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 48 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
 
 
 

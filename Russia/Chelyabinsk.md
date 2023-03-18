@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chelyabinsk
 
-📆 Last Updated: `2023-03-17 23:16:32 UTC`
+📆 Last Updated: `2023-03-18 00:28:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,8 +33,8 @@ This is top 50 for [Russia](</Russia>)
 | 16 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
 | 17 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
 | 18 | [hopee ii](http://twitter.com/search?q=hopee+ii) | N/A |
-| 19 | [NEEDD](http://twitter.com/search?q=NEEDD) | N/A |
-| 20 | [Говорят](http://twitter.com/search?q=%d0%93%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
+| 19 | [needd](http://twitter.com/search?q=needd) | N/A |
+| 20 | [говорят](http://twitter.com/search?q=%d0%b3%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
 | 21 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
 | 22 | [bullishh](http://twitter.com/search?q=bullishh) | N/A |
 | 23 | [БПЛА](http://twitter.com/search?q=%d0%91%d0%9f%d0%9b%d0%90) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Russia](</Russia>)
 | 30 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
 | 31 | [запад](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
 | 32 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 33 | [Добро](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%be) | N/A |
-| 34 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 35 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 36 | [дима](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%b0) | N/A |
-| 37 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 38 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 39 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 40 | [ваще](http://twitter.com/search?q=%d0%b2%d0%b0%d1%89%d0%b5) | N/A |
-| 41 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 42 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 43 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
-| 44 | [Яндекс](http://twitter.com/search?q=%d0%af%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
-| 45 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
-| 46 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 47 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
-| 48 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 49 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
-| 50 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 33 | [Кошмар](http://twitter.com/search?q=%d0%9a%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
+| 34 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 35 | [дима](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%b0) | N/A |
+| 36 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 37 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 38 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 39 | [ваще](http://twitter.com/search?q=%d0%b2%d0%b0%d1%89%d0%b5) | N/A |
+| 40 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 41 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 42 | [Яндекс](http://twitter.com/search?q=%d0%af%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
+| 43 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
+| 44 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 45 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
+| 46 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
+| 47 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
+| 48 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 49 | [черным](http://twitter.com/search?q=%d1%87%d0%b5%d1%80%d0%bd%d1%8b%d0%bc) | N/A |
+| 50 | [помню](http://twitter.com/search?q=%d0%bf%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
 
 
 

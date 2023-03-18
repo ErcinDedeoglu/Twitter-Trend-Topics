@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-17 23:16:51 UTC`
+📆 Last Updated: `2023-03-18 00:28:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
-| 2 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
+| 1 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
+| 2 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
 | 3 | [#lime](http://twitter.com/search?q=%23lime) | N/A |
 | 4 | [Putina](http://twitter.com/search?q=Putina) | N/A |
 | 5 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
@@ -26,34 +26,34 @@ This is top 50 for Latvia
 | 9 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 10 | [katru](http://twitter.com/search?q=katru) | N/A |
 | 11 | [Visu](http://twitter.com/search?q=Visu) | N/A |
-| 12 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
-| 13 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
-| 14 | [Starp](http://twitter.com/search?q=Starp) | N/A |
-| 15 | [Bija](http://twitter.com/search?q=Bija) | N/A |
-| 16 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 17 | [Риге](http://twitter.com/search?q=%d0%a0%d0%b8%d0%b3%d0%b5) | N/A |
-| 18 | [cerams](http://twitter.com/search?q=cerams) | N/A |
+| 12 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
+| 13 | [Starp](http://twitter.com/search?q=Starp) | N/A |
+| 14 | [bija](http://twitter.com/search?q=bija) | N/A |
+| 15 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 16 | [Риге](http://twitter.com/search?q=%d0%a0%d0%b8%d0%b3%d0%b5) | N/A |
+| 17 | [cerams](http://twitter.com/search?q=cerams) | N/A |
+| 18 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
 | 19 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
 | 20 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
 | 21 | [Šķiet](http://twitter.com/search?q=%c5%a0%c4%b7iet) | N/A |
 | 22 | [Nevar](http://twitter.com/search?q=Nevar) | N/A |
 | 23 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 24 | [Somijas](http://twitter.com/search?q=Somijas) | N/A |
+| 24 | [somijas](http://twitter.com/search?q=somijas) | N/A |
 | 25 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
 | 26 | [Labāk](http://twitter.com/search?q=Lab%c4%81k) | N/A |
-| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 29 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
-| 30 | [#patolaiku](http://twitter.com/search?q=%23patolaiku) | N/A |
-| 31 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 32 | [taisnība](http://twitter.com/search?q=taisn%c4%abba) | N/A |
-| 33 | [kijivā](http://twitter.com/search?q=kijiv%c4%81) | N/A |
-| 34 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 35 | [Viņiem](http://twitter.com/search?q=Vi%c5%86iem) | N/A |
-| 36 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
-| 37 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
-| 38 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
-| 39 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
+| 27 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 28 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
+| 29 | [#patolaiku](http://twitter.com/search?q=%23patolaiku) | N/A |
+| 30 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 31 | [taisnība](http://twitter.com/search?q=taisn%c4%abba) | N/A |
+| 32 | [kijivā](http://twitter.com/search?q=kijiv%c4%81) | N/A |
+| 33 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 34 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
+| 35 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
+| 36 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
+| 37 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
+| 38 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
+| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 40 | [knab](http://twitter.com/search?q=knab) | N/A |
 | 41 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
 | 42 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |

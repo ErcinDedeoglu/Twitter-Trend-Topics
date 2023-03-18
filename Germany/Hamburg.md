@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-17 23:16:16 UTC`
+📆 Last Updated: `2023-03-18 00:27:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 2 | [#BMGSVW](http://twitter.com/search?q=%23BMGSVW) | N/A |
-| 3 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
-| 4 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
-| 5 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
+| 2 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
+| 3 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 4 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 5 | [#BMGSVW](http://twitter.com/search?q=%23BMGSVW) | N/A |
 | 6 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 7 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 7 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 8 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 10 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 11 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 12 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 13 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 14 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 15 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 16 | [Tanz](http://twitter.com/search?q=Tanz) | N/A |
-| 17 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
-| 18 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 19 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 20 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 21 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 22 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 23 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 24 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 25 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 26 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 27 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 28 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
-| 29 | [Zweitstimme](http://twitter.com/search?q=Zweitstimme) | N/A |
-| 30 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 31 | [Verhältniswahlrecht](http://twitter.com/search?q=Verh%c3%a4ltniswahlrecht) | N/A |
-| 32 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 33 | [#IchBinHanna](http://twitter.com/search?q=%23IchBinHanna) | N/A |
-| 34 | [#DSCFCN](http://twitter.com/search?q=%23DSCFCN) | N/A |
-| 35 | [#LezFaZ](http://twitter.com/search?q=%23LezFaZ) | N/A |
-| 36 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 37 | [#GedenkFaZ](http://twitter.com/search?q=%23GedenkFaZ) | N/A |
-| 38 | [#LockenLurch](http://twitter.com/search?q=%23LockenLurch) | N/A |
-| 39 | [#DieInselDerUngeheuer](http://twitter.com/search?q=%23DieInselDerUngeheuer) | N/A |
-| 40 | [#Menschenhaarball](http://twitter.com/search?q=%23Menschenhaarball) | N/A |
-| 41 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 42 | [#KECvsMAN](http://twitter.com/search?q=%23KECvsMAN) | N/A |
-| 43 | [#arminia](http://twitter.com/search?q=%23arminia) | N/A |
-| 44 | [#fchksc](http://twitter.com/search?q=%23fchksc) | N/A |
-| 45 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 9 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 10 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 11 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 12 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
+| 13 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 14 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 15 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 16 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 17 | [Llambi](http://twitter.com/search?q=Llambi) | N/A |
+| 18 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 19 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 20 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 21 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 22 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 23 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 24 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 25 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 26 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 27 | [Tanz](http://twitter.com/search?q=Tanz) | N/A |
+| 28 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
+| 29 | [Zetti](http://twitter.com/search?q=Zetti) | N/A |
+| 30 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 31 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
+| 32 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 33 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 34 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 35 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 36 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
+| 37 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [PRAYERS FOR HAD](http://twitter.com/search?q=PRAYERS+FOR+HAD) | N/A |
+| 40 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 41 | [Younes](http://twitter.com/search?q=Younes) | N/A |
+| 42 | [Malika](http://twitter.com/search?q=Malika) | N/A |
+| 43 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 45 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 46 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
+| 47 | [Umstyling](http://twitter.com/search?q=Umstyling) | N/A |
+| 48 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 49 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 50 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
 
 
 

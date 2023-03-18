@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-17 23:16:40 UTC`
+📆 Last Updated: `2023-03-18 00:28:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 3 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
+| 1 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
+| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 3 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 4 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 5 | [#SicEm](http://twitter.com/search?q=%23SicEm) | N/A |
-| 6 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 7 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 8 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 9 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 10 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 11 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 12 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 13 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 14 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 15 | [#CAIGPT](http://twitter.com/search?q=%23CAIGPT) | N/A |
-| 16 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 17 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 18 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 19 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 23 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 24 | [Iona](http://twitter.com/search?q=Iona) | N/A |
-| 25 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 26 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 27 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 28 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 29 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 30 | [Byard](http://twitter.com/search?q=Byard) | N/A |
-| 31 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
-| 32 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 33 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
-| 34 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
-| 35 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 36 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 37 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
-| 38 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 39 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 40 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 41 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 42 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 43 | [Hail to Pitt](http://twitter.com/search?q=Hail+to+Pitt) | N/A |
-| 44 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
-| 45 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
-| 46 | [Drue](http://twitter.com/search?q=Drue) | N/A |
-| 47 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
-| 48 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 49 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
-| 50 | [Kam Jones](http://twitter.com/search?q=Kam+Jones) | N/A |
+| 5 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 6 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 7 | [#SicEm](http://twitter.com/search?q=%23SicEm) | N/A |
+| 8 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 9 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 10 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 11 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 12 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
+| 13 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 14 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 15 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 16 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 17 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 18 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 19 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 20 | [#CAIGPT](http://twitter.com/search?q=%23CAIGPT) | N/A |
+| 21 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 22 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 23 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 24 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 25 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 26 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 27 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 29 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
+| 30 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 31 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 32 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 33 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 34 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 35 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 36 | [Jacob Toppin](http://twitter.com/search?q=Jacob+Toppin) | N/A |
+| 37 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 38 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
+| 39 | [Iona](http://twitter.com/search?q=Iona) | N/A |
+| 40 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 41 | [Javy](http://twitter.com/search?q=Javy) | N/A |
+| 42 | [Byard](http://twitter.com/search?q=Byard) | N/A |
+| 43 | [Cancel Spring Training](http://twitter.com/search?q=Cancel+Spring+Training) | N/A |
+| 44 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 45 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 46 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 47 | [Antonio Reeves](http://twitter.com/search?q=Antonio+Reeves) | N/A |
+| 48 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 49 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 50 | [Eddie Rosario](http://twitter.com/search?q=Eddie+Rosario) | N/A |
 
 
 

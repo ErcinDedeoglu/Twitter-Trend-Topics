@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-17 23:16:42 UTC`
+📆 Last Updated: `2023-03-18 00:28:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [Kendricks](http://twitter.com/search?q=Kendricks) | N/A |
-| 3 | [Zurdo](http://twitter.com/search?q=Zurdo) | N/A |
-| 4 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
-| 5 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 6 | [Corporate](http://twitter.com/search?q=Corporate) | N/A |
-| 7 | [#FlashbackFriday](http://twitter.com/search?q=%23FlashbackFriday) | N/A |
-| 8 | [San Quentin](http://twitter.com/search?q=San+Quentin) | N/A |
-| 9 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 10 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
-| 11 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 12 | [#green](http://twitter.com/search?q=%23green) | N/A |
-| 13 | [Merrick Garland](http://twitter.com/search?q=Merrick+Garland) | N/A |
-| 14 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 15 | [UCSB](http://twitter.com/search?q=UCSB) | N/A |
-| 16 | [Erin](http://twitter.com/search?q=Erin) | N/A |
-| 17 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 18 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 19 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
-| 20 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 21 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 22 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 23 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 24 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 25 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 26 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 27 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 28 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 29 | [Iona](http://twitter.com/search?q=Iona) | N/A |
-| 30 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 31 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 32 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 33 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 34 | [Manipulative Algorithm](http://twitter.com/search?q=Manipulative+Algorithm) | N/A |
-| 35 | [Byard](http://twitter.com/search?q=Byard) | N/A |
-| 36 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
-| 37 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 38 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
-| 39 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
-| 40 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 41 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 42 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 43 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
-| 44 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 45 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 46 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 47 | [Hail to Pitt](http://twitter.com/search?q=Hail+to+Pitt) | N/A |
-| 48 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
-| 49 | [Sylens](http://twitter.com/search?q=Sylens) | N/A |
+| 2 | [Drue](http://twitter.com/search?q=Drue) | N/A |
+| 3 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 4 | [Kendricks](http://twitter.com/search?q=Kendricks) | N/A |
+| 5 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 6 | [Guardian](http://twitter.com/search?q=Guardian) | N/A |
+| 7 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 8 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
+| 9 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 10 | [Corporate](http://twitter.com/search?q=Corporate) | N/A |
+| 11 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 12 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 13 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 14 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
+| 15 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 16 | [San Quentin](http://twitter.com/search?q=San+Quentin) | N/A |
+| 17 | [Merrick Garland](http://twitter.com/search?q=Merrick+Garland) | N/A |
+| 18 | [#WeAreCUE](http://twitter.com/search?q=%23WeAreCUE) | N/A |
+| 19 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 20 | [Erin](http://twitter.com/search?q=Erin) | N/A |
+| 21 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 22 | [#FightOn](http://twitter.com/search?q=%23FightOn) | N/A |
+| 23 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 24 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 25 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 26 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 27 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 28 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 29 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 30 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 31 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 32 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 33 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 34 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
+| 35 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 36 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 37 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 38 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 39 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
+| 40 | [Jacob Toppin](http://twitter.com/search?q=Jacob+Toppin) | N/A |
+| 41 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 42 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 43 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 44 | [Iona](http://twitter.com/search?q=Iona) | N/A |
+| 45 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 46 | [Javy](http://twitter.com/search?q=Javy) | N/A |
+| 47 | [Byard](http://twitter.com/search?q=Byard) | N/A |
+| 48 | [Cancel Spring Training](http://twitter.com/search?q=Cancel+Spring+Training) | N/A |
+| 49 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
 
 
 

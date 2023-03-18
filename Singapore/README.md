@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-17 23:16:54 UTC`
+📆 Last Updated: `2023-03-18 00:28:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,31 +16,31 @@ This is top 50 for Singapore
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 2 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 4 | [#LoveOnTourSingapore](http://twitter.com/search?q=%23LoveOnTourSingapore) | N/A |
-| 5 | [#hslotsg](http://twitter.com/search?q=%23hslotsg) | N/A |
+| 2 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 3 | [#LoveOnTourSingapore](http://twitter.com/search?q=%23LoveOnTourSingapore) | N/A |
+| 4 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 5 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 6 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 7 | [#hslotsg](http://twitter.com/search?q=%23hslotsg) | N/A |
 | 8 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 14 | [To the Moon](http://twitter.com/search?q=To+the+Moon) | N/A |
+| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 12 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 13 | [To the Moon](http://twitter.com/search?q=To+the+Moon) | N/A |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 15 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
 | 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 17 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
-| 18 | [onew](http://twitter.com/search?q=onew) | N/A |
-| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 20 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 21 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 22 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 23 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 18 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
+| 19 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 20 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 21 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 22 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 23 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 25 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 26 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 25 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 26 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 28 | [daeul](http://twitter.com/search?q=daeul) | N/A |
 | 29 | [Xinjiang](http://twitter.com/search?q=Xinjiang) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Singapore
 | 43 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 44 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
 | 45 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 46 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 47 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 48 | [NO ONE](http://twitter.com/search?q=NO+ONE) | N/A |
-| 49 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 50 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 46 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 47 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 48 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 49 | [NO ONE](http://twitter.com/search?q=NO+ONE) | N/A |
+| 50 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
 
 
 
