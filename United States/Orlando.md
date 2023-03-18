@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-18 22:17:22 UTC`
+📆 Last Updated: `2023-03-18 23:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 3 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
-| 6 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
-| 7 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 9 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 10 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 11 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 12 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 13 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 14 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 15 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 16 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 17 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 18 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
-| 19 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 20 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 21 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
-| 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 23 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 24 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 25 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 26 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 27 | [Dook](http://twitter.com/search?q=Dook) | N/A |
-| 28 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
-| 29 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 30 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
-| 31 | [Maia](http://twitter.com/search?q=Maia) | N/A |
-| 32 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
+| 2 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
+| 3 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 4 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 7 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
+| 8 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 9 | [Donald](http://twitter.com/search?q=Donald) | N/A |
+| 10 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 11 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 12 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
+| 13 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 14 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 15 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 16 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 17 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 18 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 19 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 20 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 21 | [Gunnar Nelson](http://twitter.com/search?q=Gunnar+Nelson) | N/A |
+| 22 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
+| 23 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 24 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 25 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
+| 26 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 27 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
+| 28 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 29 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 30 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 31 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 32 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
 | 33 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 34 | [Olivier Nkamhoua](http://twitter.com/search?q=Olivier+Nkamhoua) | N/A |
-| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 36 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
-| 37 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 38 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 39 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 41 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 42 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 43 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 44 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 45 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 46 | [UFC Hall of Fame](http://twitter.com/search?q=UFC+Hall+of+Fame) | N/A |
-| 47 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 48 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
-| 49 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 50 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 34 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 35 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
+| 36 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 37 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 38 | [gumi](http://twitter.com/search?q=gumi) | N/A |
+| 39 | [Dook](http://twitter.com/search?q=Dook) | N/A |
+| 40 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 41 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
+| 42 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
+| 43 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 44 | [Udeh](http://twitter.com/search?q=Udeh) | N/A |
+| 45 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 46 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 47 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
+| 48 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 49 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
+| 50 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
 
 
 

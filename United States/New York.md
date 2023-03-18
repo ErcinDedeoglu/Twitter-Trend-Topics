@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-18 22:17:21 UTC`
+📆 Last Updated: `2023-03-18 23:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 1 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
 | 2 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 | 3 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 4 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 5 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 6 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 7 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 9 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 4 | [#NewYorkForever](http://twitter.com/search?q=%23NewYorkForever) | N/A |
+| 5 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 6 | [Hart](http://twitter.com/search?q=Hart) | N/A |
+| 7 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 8 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 10 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 11 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 12 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 11 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 12 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
 | 13 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 14 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 15 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 16 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 17 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 18 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 19 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 20 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
+| 14 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 15 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 16 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
+| 17 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 18 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 19 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 20 | [Melo](http://twitter.com/search?q=Melo) | N/A |
 | 21 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 22 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 23 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
-| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 25 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 26 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 27 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 28 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
-| 29 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 30 | [Dook](http://twitter.com/search?q=Dook) | N/A |
-| 31 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 32 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
-| 33 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 34 | [#PokemonGOCommunityDay](http://twitter.com/search?q=%23PokemonGOCommunityDay) | N/A |
-| 35 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
-| 36 | [Maia](http://twitter.com/search?q=Maia) | N/A |
-| 37 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
-| 38 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 39 | [Olivier Nkamhoua](http://twitter.com/search?q=Olivier+Nkamhoua) | N/A |
-| 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 41 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
-| 42 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 43 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 44 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 45 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 46 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 47 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 48 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 22 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 23 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 24 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 25 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 26 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 27 | [Gunnar Nelson](http://twitter.com/search?q=Gunnar+Nelson) | N/A |
+| 28 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
+| 29 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 30 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 31 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
+| 32 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
+| 33 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 35 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 36 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 37 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 38 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
+| 39 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 40 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 41 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 42 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 43 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
+| 44 | [gumi](http://twitter.com/search?q=gumi) | N/A |
+| 45 | [Dook](http://twitter.com/search?q=Dook) | N/A |
+| 46 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 47 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
+| 48 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
 | 49 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 50 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 50 | [Udeh](http://twitter.com/search?q=Udeh) | N/A |
 
 
 

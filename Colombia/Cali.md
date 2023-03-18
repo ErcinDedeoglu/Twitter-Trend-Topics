@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-03-18 22:16:45 UTC`
+📆 Last Updated: `2023-03-18 23:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,51 @@ This is top 50 for [Colombia](</Colombia>)
 | 3 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
 | 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 6 | [#MiSaludEs](http://twitter.com/search?q=%23MiSaludEs) | N/A |
-| 7 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 8 | [Berlín](http://twitter.com/search?q=Berl%c3%adn) | N/A |
-| 9 | [#ReformaLaboral](http://twitter.com/search?q=%23ReformaLaboral) | N/A |
-| 10 | [#trabajemosen](http://twitter.com/search?q=%23trabajemosen) | N/A |
-| 11 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 12 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
-| 13 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 14 | [Stiglitz](http://twitter.com/search?q=Stiglitz) | N/A |
-| 15 | [Sebastián Gómez](http://twitter.com/search?q=Sebasti%c3%a1n+G%c3%b3mez) | N/A |
-| 16 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 17 | [Boyacá Chicó](http://twitter.com/search?q=Boyac%c3%a1+Chic%c3%b3) | N/A |
-| 18 | [Guayas](http://twitter.com/search?q=Guayas) | N/A |
-| 19 | [Julián Álvarez](http://twitter.com/search?q=Juli%c3%a1n+%c3%81lvarez) | N/A |
+| 6 | [Equidad](http://twitter.com/search?q=Equidad) | N/A |
+| 7 | [#MiSaludEs](http://twitter.com/search?q=%23MiSaludEs) | N/A |
+| 8 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 9 | [Berlín](http://twitter.com/search?q=Berl%c3%adn) | N/A |
+| 10 | [#ReformaLaboral](http://twitter.com/search?q=%23ReformaLaboral) | N/A |
+| 11 | [Fabry](http://twitter.com/search?q=Fabry) | N/A |
+| 12 | [Stiglitz](http://twitter.com/search?q=Stiglitz) | N/A |
+| 13 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 14 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
+| 15 | [#PorFavorNoMas](http://twitter.com/search?q=%23PorFavorNoMas) | N/A |
+| 16 | [Ramiro Sánchez](http://twitter.com/search?q=Ramiro+S%c3%a1nchez) | N/A |
+| 17 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 18 | [Venezuela y Argentina](http://twitter.com/search?q=Venezuela+y+Argentina) | N/A |
+| 19 | [Congo](http://twitter.com/search?q=Congo) | N/A |
 | 20 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 22 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
-| 23 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 24 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
-| 25 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 26 | [Erling Haaland](http://twitter.com/search?q=Erling+Haaland) | Erling Haaland is a Norwegian professional footballer who plays as a striker for Borussia Dortmund and the Norway national team. His name translates to "Eagle of the Sea" in English. |
-| 27 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
-| 28 | [jefferson duque](http://twitter.com/search?q=jefferson+duque) | N/A |
-| 29 | [Venezuela y Argentina](http://twitter.com/search?q=Venezuela+y+Argentina) | N/A |
-| 30 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
-| 31 | [iFood](http://twitter.com/search?q=iFood) | N/A |
-| 32 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 21 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 22 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 23 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 24 | [Techo](http://twitter.com/search?q=Techo) | N/A |
+| 25 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 26 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
+| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 28 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
+| 29 | [Sebastián Gómez](http://twitter.com/search?q=Sebasti%c3%a1n+G%c3%b3mez) | N/A |
+| 30 | [Jefferson Lerma](http://twitter.com/search?q=Jefferson+Lerma) | N/A |
+| 31 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 32 | [iFood](http://twitter.com/search?q=iFood) | N/A |
 | 33 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 35 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 36 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 37 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
-| 38 | [Revista Semana](http://twitter.com/search?q=Revista+Semana) | N/A |
-| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 40 | [Paul McCartney](http://twitter.com/search?q=Paul+McCartney) | N/A |
-| 41 | [Anzola](http://twitter.com/search?q=Anzola) | N/A |
-| 42 | [Doom](http://twitter.com/search?q=Doom) | N/A |
-| 43 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 44 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 45 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 47 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 48 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 49 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 34 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 35 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 36 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 37 | [Revista Semana](http://twitter.com/search?q=Revista+Semana) | N/A |
+| 38 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 39 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 40 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 41 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 42 | [Semala](http://twitter.com/search?q=Semala) | N/A |
+| 43 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
+| 44 | [Paul McCartney](http://twitter.com/search?q=Paul+McCartney) | N/A |
+| 45 | [Dañina](http://twitter.com/search?q=Da%c3%b1ina) | N/A |
+| 46 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 47 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 48 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 49 | [Doom](http://twitter.com/search?q=Doom) | N/A |
+| 50 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
 
 
 

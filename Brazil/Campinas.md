@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-18 22:16:48 UTC`
+📆 Last Updated: `2023-03-18 23:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ponte](http://twitter.com/search?q=Ponte) | N/A |
-| 2 | [O Haaland](http://twitter.com/search?q=O+Haaland) | N/A |
-| 3 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 4 | [Kali](http://twitter.com/search?q=Kali) | N/A |
-| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 6 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 7 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 8 | [#GoRED](http://twitter.com/search?q=%23GoRED) | N/A |
-| 9 | [bloo](http://twitter.com/search?q=bloo) | N/A |
-| 10 | [#TenisNaESPN](http://twitter.com/search?q=%23TenisNaESPN) | N/A |
+| 1 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 2 | [Xororó](http://twitter.com/search?q=Xoror%c3%b3) | N/A |
+| 3 | [Furia](http://twitter.com/search?q=Furia) | N/A |
+| 4 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 5 | [#TenisNaESPN](http://twitter.com/search?q=%23TenisNaESPN) | N/A |
+| 6 | [Kali](http://twitter.com/search?q=Kali) | N/A |
+| 7 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Bloo](http://twitter.com/search?q=Bloo) | N/A |
+| 10 | [Mayhem](http://twitter.com/search?q=Mayhem) | N/A |
 | 11 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 12 | [#Cblol](http://twitter.com/search?q=%23Cblol) | N/A |
-| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 14 | [Guarulhos](http://twitter.com/search?q=Guarulhos) | N/A |
-| 15 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 16 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 17 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 18 | [Mayhem](http://twitter.com/search?q=Mayhem) | N/A |
-| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 21 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 22 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 23 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 24 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 25 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 26 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 27 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 28 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 29 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 13 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 14 | [Flamengo de Guarulhos](http://twitter.com/search?q=Flamengo+de+Guarulhos) | N/A |
+| 15 | [#Cblol](http://twitter.com/search?q=%23Cblol) | N/A |
+| 16 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 17 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 18 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 19 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 20 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 21 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 22 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 23 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 24 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 25 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 26 | [#copadonordestenosbt](http://twitter.com/search?q=%23copadonordestenosbt) | N/A |
+| 27 | [Luís Castro](http://twitter.com/search?q=Lu%c3%ads+Castro) | N/A |
+| 28 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 29 | [LUDMILLA BRIGAS DEMAIS](http://twitter.com/search?q=LUDMILLA+BRIGAS+DEMAIS) | N/A |
 | 30 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
-| 31 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 32 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 33 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 34 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
-| 35 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 36 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 37 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
+| 31 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 32 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
+| 33 | [LUDMILLA SOLTEIRAS SHAKE](http://twitter.com/search?q=LUDMILLA+SOLTEIRAS+SHAKE) | N/A |
+| 34 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
+| 35 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 36 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 37 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
 | 38 | [PARABÉNS GIOANTO](http://twitter.com/search?q=PARAB%c3%89NS+GIOANTO) | N/A |
-| 39 | [Jhonny](http://twitter.com/search?q=Jhonny) | N/A |
-| 40 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 41 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
-| 42 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
-| 43 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
-| 44 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 39 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 40 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 41 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
+| 42 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 43 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 44 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
 | 45 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 46 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
-| 47 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
+| 46 | [Jhonny](http://twitter.com/search?q=Jhonny) | N/A |
+| 47 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
 | 48 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
-| 49 | [Jean Pierre](http://twitter.com/search?q=Jean+Pierre) | N/A |
+| 49 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
 
 
 

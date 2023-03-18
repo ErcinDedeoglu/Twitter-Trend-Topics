@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-18 22:17:27 UTC`
+📆 Last Updated: `2023-03-18 23:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [NELSON X YURIDIA](http://twitter.com/search?q=NELSON+X+YURIDIA) | N/A |
-| 2 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
+| 1 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
+| 2 | [NELSON X YURIDIA](http://twitter.com/search?q=NELSON+X+YURIDIA) | N/A |
 | 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 4 | [#YoutubeCorrupt](http://twitter.com/search?q=%23YoutubeCorrupt) | N/A |
 | 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
@@ -25,46 +25,46 @@ This is top 50 for Guatemala
 | 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 9 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
 | 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 11 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
 | 12 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
-| 13 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 14 | [#siempreconectado](http://twitter.com/search?q=%23siempreconectado) | N/A |
-| 15 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
-| 16 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 18 | [ana gabriela rubio zea](http://twitter.com/search?q=ana+gabriela+rubio+zea) | N/A |
-| 19 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 20 | [Curruchiche](http://twitter.com/search?q=Curruchiche) | N/A |
+| 13 | [#EUElecciones2023](http://twitter.com/search?q=%23EUElecciones2023) | N/A |
+| 14 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 15 | [ana gabriela rubio zea](http://twitter.com/search?q=ana+gabriela+rubio+zea) | N/A |
+| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 17 | [Curruchiche](http://twitter.com/search?q=Curruchiche) | N/A |
+| 18 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
 | 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 22 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 23 | [Roosevelt](http://twitter.com/search?q=Roosevelt) | N/A |
-| 24 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 27 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 28 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 29 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 31 | [David](http://twitter.com/search?q=David) | N/A |
-| 32 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 34 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 35 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 36 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 37 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
-| 38 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 39 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 40 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 41 | [Provecho](http://twitter.com/search?q=Provecho) | N/A |
-| 42 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 43 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
-| 44 | [Quiñónez](http://twitter.com/search?q=Qui%c3%b1%c3%b3nez) | N/A |
-| 45 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 46 | [Maldita](http://twitter.com/search?q=Maldita) | N/A |
-| 47 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 22 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 24 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 25 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 26 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
+| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 28 | [David](http://twitter.com/search?q=David) | N/A |
+| 29 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 30 | [Jesús Nazareno](http://twitter.com/search?q=Jes%c3%bas+Nazareno) | N/A |
+| 31 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 32 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
+| 33 | [Provecho](http://twitter.com/search?q=Provecho) | N/A |
+| 34 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 36 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 37 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [Quiñónez](http://twitter.com/search?q=Qui%c3%b1%c3%b3nez) | N/A |
+| 40 | [Roosevelt](http://twitter.com/search?q=Roosevelt) | N/A |
+| 41 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
+| 42 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 44 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 45 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 46 | [Aldana](http://twitter.com/search?q=Aldana) | N/A |
+| 47 | [Maldita](http://twitter.com/search?q=Maldita) | N/A |
 | 48 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 49 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 50 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 49 | [Pueblo](http://twitter.com/search?q=Pueblo) | N/A |
+| 50 | [Zacapa](http://twitter.com/search?q=Zacapa) | N/A |
 
 
 

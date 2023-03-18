@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-18 22:17:23 UTC`
+📆 Last Updated: `2023-03-18 23:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 5 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 6 | [Lock](http://twitter.com/search?q=Lock) | N/A |
+| 1 | [Go Coogs](http://twitter.com/search?q=Go+Coogs) | N/A |
+| 2 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 3 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 4 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 7 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 8 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 9 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 10 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 11 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 12 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 13 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 14 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 15 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
-| 16 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 17 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 18 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
-| 19 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 20 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 21 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 22 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 23 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
-| 24 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 25 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 26 | [Dook](http://twitter.com/search?q=Dook) | N/A |
-| 27 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
-| 28 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 29 | [#PokemonGOCommunityDay](http://twitter.com/search?q=%23PokemonGOCommunityDay) | N/A |
-| 30 | [Maia](http://twitter.com/search?q=Maia) | N/A |
-| 31 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
-| 32 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
-| 33 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 34 | [Olivier Nkamhoua](http://twitter.com/search?q=Olivier+Nkamhoua) | N/A |
-| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 36 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
-| 37 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 38 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 39 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 41 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 42 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 43 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 8 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 9 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
+| 10 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 11 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 12 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 13 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 14 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 15 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 16 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 17 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 18 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 19 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 20 | [Gunnar Nelson](http://twitter.com/search?q=Gunnar+Nelson) | N/A |
+| 21 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
+| 22 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 23 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 24 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
+| 25 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 26 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
+| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 28 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 29 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 30 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
+| 31 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 32 | [#PokemonGOCommunityDay](http://twitter.com/search?q=%23PokemonGOCommunityDay) | N/A |
+| 33 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
+| 34 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 35 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 36 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
+| 37 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
+| 38 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 39 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 40 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 41 | [gumi](http://twitter.com/search?q=gumi) | N/A |
+| 42 | [Dook](http://twitter.com/search?q=Dook) | N/A |
+| 43 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
 | 44 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 45 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 46 | [UFC Hall of Fame](http://twitter.com/search?q=UFC+Hall+of+Fame) | N/A |
-| 47 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 48 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
-| 49 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 50 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 45 | [Udeh](http://twitter.com/search?q=Udeh) | N/A |
+| 46 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 47 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 48 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
+| 49 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
+| 50 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
 
 
 

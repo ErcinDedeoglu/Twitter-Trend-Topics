@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-18 22:17:28 UTC`
+📆 Last Updated: `2023-03-18 23:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Italy
 | 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
 | 2 | [#UdineseMilan](http://twitter.com/search?q=%23UdineseMilan) | N/A |
 | 3 | [#IlCantanteMascherato](http://twitter.com/search?q=%23IlCantanteMascherato) | N/A |
-| 4 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 5 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 6 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 4 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 5 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 6 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
 | 7 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 8 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 9 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 10 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 11 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 8 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 9 | [Valeria Fabrizi](http://twitter.com/search?q=Valeria+Fabrizi) | N/A |
+| 10 | [Zerbi](http://twitter.com/search?q=Zerbi) | N/A |
+| 11 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
 | 12 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
-| 13 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 14 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 15 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 16 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 17 | [Nathalie Guetta](http://twitter.com/search?q=Nathalie+Guetta) | N/A |
-| 18 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 19 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 20 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 13 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 14 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 15 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 16 | [Emanuel Lo](http://twitter.com/search?q=Emanuel+Lo) | N/A |
+| 17 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 18 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 19 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 20 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
 | 21 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 22 | [Zerbi](http://twitter.com/search?q=Zerbi) | N/A |
-| 23 | [Michele Bravi](http://twitter.com/search?q=Michele+Bravi) | N/A |
-| 24 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 22 | [Michele](http://twitter.com/search?q=Michele) | N/A |
+| 23 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 24 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
 | 25 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 26 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
-| 27 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
+| 26 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 27 | [Nathalie Guetta](http://twitter.com/search?q=Nathalie+Guetta) | N/A |
 | 28 | [Malgy](http://twitter.com/search?q=Malgy) | N/A |
-| 29 | [Giuseppe](http://twitter.com/search?q=Giuseppe) | N/A |
-| 30 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
-| 31 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 32 | [Doveri](http://twitter.com/search?q=Doveri) | N/A |
-| 33 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 34 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 35 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
-| 36 | [Milly](http://twitter.com/search?q=Milly) | N/A |
-| 37 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
-| 38 | [Silvestri](http://twitter.com/search?q=Silvestri) | N/A |
-| 39 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
-| 40 | [Imposto](http://twitter.com/search?q=Imposto) | N/A |
-| 41 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
-| 42 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
-| 43 | [Becao](http://twitter.com/search?q=Becao) | N/A |
-| 44 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 45 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 46 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 29 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 30 | [Ballando](http://twitter.com/search?q=Ballando) | N/A |
+| 31 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
+| 32 | [#Sapiens](http://twitter.com/search?q=%23Sapiens) | N/A |
+| 33 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 34 | [Giuseppe Giofrè](http://twitter.com/search?q=Giuseppe+Giofr%c3%a8) | N/A |
+| 35 | [Doveri](http://twitter.com/search?q=Doveri) | N/A |
+| 36 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
+| 37 | [Milly](http://twitter.com/search?q=Milly) | N/A |
+| 38 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 39 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 40 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 41 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
+| 42 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 43 | [Silvestri](http://twitter.com/search?q=Silvestri) | N/A |
+| 44 | [Imposto](http://twitter.com/search?q=Imposto) | N/A |
+| 45 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
+| 46 | [Becao](http://twitter.com/search?q=Becao) | N/A |
 | 47 | [Pascale](http://twitter.com/search?q=Pascale) | N/A |
-| 48 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 48 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 49 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 50 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 50 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
 
 
 

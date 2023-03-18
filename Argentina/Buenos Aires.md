@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-18 22:16:49 UTC`
+📆 Last Updated: `2023-03-18 23:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 2 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 3 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 4 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 5 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 6 | [Molinas](http://twitter.com/search?q=Molinas) | Molinas is a Spanish surname. It is derived from the Latin word "molinus," which means "mill." The name likely originated as an occupational surname for someone who worked in or owned a mill. |
-| 7 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 8 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 9 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 10 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 11 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 12 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 13 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 14 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 15 | [Sarandí](http://twitter.com/search?q=Sarand%c3%ad) | N/A |
-| 16 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 17 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 19 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 24 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 25 | [Yungblud](http://twitter.com/search?q=Yungblud) | N/A |
-| 26 | [#Colón](http://twitter.com/search?q=%23Col%c3%b3n) | N/A |
-| 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 28 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
-| 29 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 30 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 31 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 32 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 33 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 34 | [Susana](http://twitter.com/search?q=Susana) | N/A |
+| 1 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 2 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 3 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
+| 4 | [UN MILLÓN DE PRIMOS](http://twitter.com/search?q=UN+MILL%c3%93N+DE+PRIMOS) | N/A |
+| 5 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 6 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
+| 7 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 8 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 9 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 10 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 11 | [Jane's Addiction](http://twitter.com/search?q=Jane%27s+Addiction) | N/A |
+| 12 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 14 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 15 | [Cell](http://twitter.com/search?q=Cell) | N/A |
+| 16 | [Molinas](http://twitter.com/search?q=Molinas) | Molinas is a Spanish surname. It is derived from the Latin word "molinus," which means "mill." The name likely originated as an occupational surname for someone who worked in or owned a mill. |
+| 17 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
+| 18 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 19 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 20 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 21 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
+| 22 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 23 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 24 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 25 | [Banega](http://twitter.com/search?q=Banega) | N/A |
+| 26 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 27 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 28 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 29 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 30 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 31 | [Sarandí](http://twitter.com/search?q=Sarand%c3%ad) | N/A |
+| 32 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 33 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 35 | [Conan](http://twitter.com/search?q=Conan) | N/A |
-| 36 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
-| 37 | [Hace 3](http://twitter.com/search?q=Hace+3) | N/A |
-| 38 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 39 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 40 | [#ArgentinaCampeondelMundo](http://twitter.com/search?q=%23ArgentinaCampeondelMundo) | N/A |
-| 41 | [CAMPEONES DEL MUNDO](http://twitter.com/search?q=CAMPEONES+DEL+MUNDO) | CAMPEONES DEL MUNDO is a Spanish phrase meaning "World Champions". It is used to refer to a team or individual who has won a world championship in their respective sport. |
-| 42 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
-| 43 | [Felices 3](http://twitter.com/search?q=Felices+3) | N/A |
-| 44 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 45 | [3 Meses](http://twitter.com/search?q=3+Meses) | N/A |
-| 46 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 47 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 36 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 40 | [Yungblud](http://twitter.com/search?q=Yungblud) | N/A |
+| 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 42 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 43 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 45 | [Susana](http://twitter.com/search?q=Susana) | N/A |
+| 46 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 47 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
+| 48 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 49 | [#ArgentinaCampeondelMundo](http://twitter.com/search?q=%23ArgentinaCampeondelMundo) | N/A |
+| 50 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
 
 
 

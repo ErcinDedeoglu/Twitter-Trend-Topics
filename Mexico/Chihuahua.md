@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chihuahua
 
-📆 Last Updated: `2023-03-18 22:16:42 UTC`
+📆 Last Updated: `2023-03-18 23:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
 | 2 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
 | 3 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 4 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 4 | [#MarchaDelArdor](http://twitter.com/search?q=%23MarchaDelArdor) | N/A |
 | 5 | [#ExpropiaciónPetrolera](http://twitter.com/search?q=%23Expropiaci%c3%b3nPetrolera) | N/A |
-| 6 | [#MarchaDelArdor](http://twitter.com/search?q=%23MarchaDelArdor) | N/A |
-| 7 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 8 | [Pole](http://twitter.com/search?q=Pole) | N/A |
-| 9 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 10 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
-| 11 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 12 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 13 | [Simpatizantes](http://twitter.com/search?q=Simpatizantes) | N/A |
-| 14 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [SKABECHE DAY](http://twitter.com/search?q=SKABECHE+DAY) | N/A |
-| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 6 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 7 | [#RebDiabloIV](http://twitter.com/search?q=%23RebDiabloIV) | N/A |
+| 8 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 9 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 10 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 11 | [Simpatizantes](http://twitter.com/search?q=Simpatizantes) | N/A |
+| 12 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
+| 13 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 15 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 16 | [Pole](http://twitter.com/search?q=Pole) | N/A |
+| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 18 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
 | 19 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 20 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
-| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 22 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 23 | [Mendieta](http://twitter.com/search?q=Mendieta) | N/A |
-| 24 | [Viva AMLO](http://twitter.com/search?q=Viva+AMLO) | N/A |
-| 25 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 26 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 30 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 31 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
-| 32 | [Ferriz](http://twitter.com/search?q=Ferriz) | N/A |
-| 33 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
+| 20 | [SKABECHE DAY](http://twitter.com/search?q=SKABECHE+DAY) | N/A |
+| 21 | [85 Aniversario](http://twitter.com/search?q=85+Aniversario) | N/A |
+| 22 | [Mendieta](http://twitter.com/search?q=Mendieta) | N/A |
+| 23 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
+| 26 | [Viva AMLO](http://twitter.com/search?q=Viva+AMLO) | N/A |
+| 27 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 28 | [Ferriz](http://twitter.com/search?q=Ferriz) | N/A |
+| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
+| 31 | [Dos Bocas](http://twitter.com/search?q=Dos+Bocas) | N/A |
+| 32 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
+| 33 | [Akron](http://twitter.com/search?q=Akron) | N/A |
 | 34 | [El 18](http://twitter.com/search?q=El+18) | N/A |
-| 35 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 36 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 39 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 40 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 41 | [#VivaTecatePalNorte](http://twitter.com/search?q=%23VivaTecatePalNorte) | N/A |
-| 42 | [#EsUnHonorEstarConObrador](http://twitter.com/search?q=%23EsUnHonorEstarConObrador) | N/A |
-| 43 | [#VL23](http://twitter.com/search?q=%23VL23) | N/A |
-| 44 | [#SoberaníaEnergética](http://twitter.com/search?q=%23Soberan%c3%adaEnerg%c3%a9tica) | N/A |
-| 45 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 46 | [#18DeMarzo](http://twitter.com/search?q=%2318DeMarzo) | N/A |
-| 47 | [#ViveLatino](http://twitter.com/search?q=%23ViveLatino) | N/A |
-| 48 | [#ClasicoRegio129](http://twitter.com/search?q=%23ClasicoRegio129) | N/A |
+| 35 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 36 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 37 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 38 | [#EsUnHonorEstarConObrador](http://twitter.com/search?q=%23EsUnHonorEstarConObrador) | N/A |
+| 39 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 40 | [#VL23](http://twitter.com/search?q=%23VL23) | N/A |
+| 41 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 42 | [#VivaTecatePalNorte](http://twitter.com/search?q=%23VivaTecatePalNorte) | N/A |
+| 43 | [#ViveLatino](http://twitter.com/search?q=%23ViveLatino) | N/A |
+| 44 | [#18DeMarzoConAmlo](http://twitter.com/search?q=%2318DeMarzoConAmlo) | N/A |
+| 45 | [#SoberaníaEnergética](http://twitter.com/search?q=%23Soberan%c3%adaEnerg%c3%a9tica) | N/A |
+| 46 | [#ClasicoRegio129](http://twitter.com/search?q=%23ClasicoRegio129) | N/A |
+| 47 | [#AMLOElMejorPresidenteDelMundo](http://twitter.com/search?q=%23AMLOElMejorPresidenteDelMundo) | N/A |
+| 48 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
 | 49 | [#Chivas](http://twitter.com/search?q=%23Chivas) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-18 22:17:12 UTC`
+📆 Last Updated: `2023-03-18 23:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,32 +15,30 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PSLFinal](http://twitter.com/search?q=%23PSLFinal) | N/A |
-| 2 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 3 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
-| 4 | [#LahoreQalanders](http://twitter.com/search?q=%23LahoreQalanders) | N/A |
-| 5 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
+| 1 | [#KarachiStandsWithMQMP](http://twitter.com/search?q=%23KarachiStandsWithMQMP) | N/A |
+| 2 | [#PSLFinal](http://twitter.com/search?q=%23PSLFinal) | N/A |
+| 3 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 4 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
+| 5 | [#LahoreQalanders](http://twitter.com/search?q=%23LahoreQalanders) | N/A |
 | 6 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
 | 7 | [WHAT A MATCH](http://twitter.com/search?q=WHAT+A+MATCH) | N/A |
 | 8 | [Multan](http://twitter.com/search?q=Multan) | N/A |
 | 9 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
 | 10 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 11 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
-| 12 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 13 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 14 | [Pakistan Super League](http://twitter.com/search?q=Pakistan+Super+League) | N/A |
-| 15 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 16 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 17 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
-| 18 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
-| 19 | [#ShaheenShahAfridi](http://twitter.com/search?q=%23ShaheenShahAfridi) | N/A |
-| 20 | [#حکومت_ننگی_عمران_بھنگی](http://twitter.com/search?q=%23%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d9%86%da%af%db%8c_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%a8%da%be%d9%86%da%af%db%8c) | N/A |
-| 21 | [#زمان_پارک](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9) | N/A |
-| 22 | [#Champions](http://twitter.com/search?q=%23Champions) | N/A |
-| 23 | [#ImranVsPakistan](http://twitter.com/search?q=%23ImranVsPakistan) | N/A |
-| 24 | [#SabSitarayHumaray](http://twitter.com/search?q=%23SabSitarayHumaray) | N/A |
-| 25 | [#QalandarHum](http://twitter.com/search?q=%23QalandarHum) | N/A |
-| 26 | [#KarachiStandsWithMQMP](http://twitter.com/search?q=%23KarachiStandsWithMQMP) | N/A |
+| 11 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 12 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 13 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 14 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 15 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
+| 16 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
+| 17 | [#ShaheenShahAfridi](http://twitter.com/search?q=%23ShaheenShahAfridi) | N/A |
+| 18 | [#حکومت_ننگی_عمران_بھنگی](http://twitter.com/search?q=%23%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d9%86%da%af%db%8c_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%a8%da%be%d9%86%da%af%db%8c) | N/A |
+| 19 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 20 | [#زمان_پارک](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9) | N/A |
+| 21 | [#Champions](http://twitter.com/search?q=%23Champions) | N/A |
+| 22 | [#ImranVsPakistan](http://twitter.com/search?q=%23ImranVsPakistan) | N/A |
+| 23 | [#SabSitarayHumaray](http://twitter.com/search?q=%23SabSitarayHumaray) | N/A |
+| 24 | [#QalandarHum](http://twitter.com/search?q=%23QalandarHum) | N/A |
 
 
 
