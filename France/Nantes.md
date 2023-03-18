@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-18 02:33:13 UTC`
+📆 Last Updated: `2023-03-18 03:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for [France](</France>)
 | 1 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 2 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
 | 3 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
-| 4 | [#Palmashow](http://twitter.com/search?q=%23Palmashow) | N/A |
+| 4 | [#palmashow](http://twitter.com/search?q=%23palmashow) | N/A |
 | 5 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
-| 6 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
-| 7 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 6 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 7 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
 | 8 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
 | 9 | [Borne](http://twitter.com/search?q=Borne) | N/A |
 | 10 | [Zola](http://twitter.com/search?q=Zola) | N/A |
@@ -32,38 +32,38 @@ This is top 50 for [France](</France>)
 | 15 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
 | 16 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 17 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
-| 18 | [Louis XVI](http://twitter.com/search?q=Louis+XVI) | N/A |
-| 19 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 20 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 21 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 18 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 19 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 20 | [Louis XVI](http://twitter.com/search?q=Louis+XVI) | N/A |
+| 21 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
 | 22 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
-| 23 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 24 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 23 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 24 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 | 25 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 26 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 27 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
+| 26 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 27 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 28 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 29 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
-| 30 | [Djamel](http://twitter.com/search?q=Djamel) | N/A |
+| 29 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
+| 30 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
 | 31 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 32 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
-| 33 | [CITY BAYERN](http://twitter.com/search?q=CITY+BAYERN) | N/A |
-| 34 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 32 | [Djamel](http://twitter.com/search?q=Djamel) | N/A |
+| 33 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 34 | [City Bayern](http://twitter.com/search?q=City+Bayern) | N/A |
 | 35 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 36 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 37 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
-| 38 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 39 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 36 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 37 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
+| 38 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 39 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
 | 40 | [Gabrielle](http://twitter.com/search?q=Gabrielle) | N/A |
-| 41 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 42 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 43 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 44 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 45 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 46 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
-| 47 | [Oumar Sy](http://twitter.com/search?q=Oumar+Sy) | N/A |
-| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 41 | [Rocard](http://twitter.com/search?q=Rocard) | N/A |
+| 42 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 43 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 44 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 45 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 46 | [oumar sy](http://twitter.com/search?q=oumar+sy) | N/A |
+| 47 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 48 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 49 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
 
 
 

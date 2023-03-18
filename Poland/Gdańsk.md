@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-18 02:33:11 UTC`
+📆 Last Updated: `2023-03-18 03:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#JarekOddajKPO](http://twitter.com/search?q=%23JarekOddajKPO) | N/A |
 | 2 | [#KSW80](http://twitter.com/search?q=%23KSW80) | N/A |
-| 3 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
-| 4 | [#diflpo](http://twitter.com/search?q=%23diflpo) | N/A |
-| 5 | [Krychowiaka](http://twitter.com/search?q=Krychowiaka) | N/A |
-| 6 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
+| 3 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 4 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
+| 5 | [#diflpo](http://twitter.com/search?q=%23diflpo) | N/A |
+| 6 | [Krychowiaka](http://twitter.com/search?q=Krychowiaka) | N/A |
 | 7 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 8 | [Kownackiego](http://twitter.com/search?q=Kownackiego) | N/A |
-| 9 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
-| 10 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
-| 11 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 13 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
-| 14 | [Piątek](http://twitter.com/search?q=Pi%c4%85tek) | N/A |
+| 8 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
+| 9 | [kownackiego](http://twitter.com/search?q=kownackiego) | N/A |
+| 10 | [Piątek](http://twitter.com/search?q=Pi%c4%85tek) | N/A |
+| 11 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
+| 12 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 14 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
 | 15 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 16 | [Piątka](http://twitter.com/search?q=Pi%c4%85tka) | N/A |
-| 17 | [Glika](http://twitter.com/search?q=Glika) | N/A |
-| 18 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 19 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 20 | [Władimira Putina](http://twitter.com/search?q=W%c5%82adimira+Putina) | N/A |
-| 21 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 22 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 23 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 24 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 25 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
-| 26 | [Lederman](http://twitter.com/search?q=Lederman) | N/A |
-| 27 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 28 | [Migi](http://twitter.com/search?q=Migi) | N/A |
-| 29 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
-| 30 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 31 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 32 | [Hagi](http://twitter.com/search?q=Hagi) | N/A |
-| 33 | [Radomiak](http://twitter.com/search?q=Radomiak) | N/A |
-| 34 | [Konfa](http://twitter.com/search?q=Konfa) | N/A |
-| 35 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
-| 36 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
-| 37 | [ligi konferencji europy](http://twitter.com/search?q=ligi+konferencji+europy) | N/A |
+| 17 | [glika](http://twitter.com/search?q=glika) | N/A |
+| 18 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 19 | [Władimira Putina](http://twitter.com/search?q=W%c5%82adimira+Putina) | N/A |
+| 20 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 22 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 23 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
+| 24 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 25 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 26 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 27 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 28 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 30 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
+| 31 | [Lederman](http://twitter.com/search?q=Lederman) | N/A |
+| 32 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 33 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
+| 34 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 35 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
+| 36 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 37 | [Radomiak](http://twitter.com/search?q=Radomiak) | N/A |
 | 38 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
-| 39 | [Hellfire](http://twitter.com/search?q=Hellfire) | N/A |
-| 40 | [florencji](http://twitter.com/search?q=florencji) | N/A |
-| 41 | [Podolski](http://twitter.com/search?q=Podolski) | N/A |
-| 42 | [Gikiewicza](http://twitter.com/search?q=Gikiewicza) | N/A |
-| 43 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 44 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 45 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 46 | [słowacja](http://twitter.com/search?q=s%c5%82owacja) | N/A |
-| 47 | [Brimstone](http://twitter.com/search?q=Brimstone) | N/A |
-| 48 | [kolejorz](http://twitter.com/search?q=kolejorz) | N/A |
+| 39 | [Hagi](http://twitter.com/search?q=Hagi) | N/A |
+| 40 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
+| 41 | [Konfa](http://twitter.com/search?q=Konfa) | N/A |
+| 42 | [florencji](http://twitter.com/search?q=florencji) | N/A |
+| 43 | [podolski](http://twitter.com/search?q=podolski) | N/A |
+| 44 | [kantar](http://twitter.com/search?q=kantar) | N/A |
+| 45 | [ligi konferencji europy](http://twitter.com/search?q=ligi+konferencji+europy) | N/A |
+| 46 | [Migi](http://twitter.com/search?q=Migi) | N/A |
+| 47 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 48 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-18 02:33:48 UTC`
+📆 Last Updated: `2023-03-18 03:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
-| 2 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [Di Ferrero](http://twitter.com/search?q=Di+Ferrero) | Di Ferrero is a Brazilian singer, songwriter, and actor. He is best known as the lead singer of the Brazilian rock band NX Zero. The name Di Ferrero comes from his full name, Diego Ferreira. In English, it translates to "of Ferreira". |
-| 4 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
-| 5 | [Indereço](http://twitter.com/search?q=Indere%c3%a7o) | N/A |
-| 6 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 7 | [EU TE FIZ FELIZ](http://twitter.com/search?q=EU+TE+FIZ+FELIZ) | N/A |
-| 8 | [#MardoSertão](http://twitter.com/search?q=%23MardoSert%c3%a3o) | N/A |
-| 9 | [PELA ÚLTIMA VEZ](http://twitter.com/search?q=PELA+%c3%9aLTIMA+VEZ) | N/A |
-| 10 | [lincoln lau](http://twitter.com/search?q=lincoln+lau) | N/A |
-| 11 | [gee rocha](http://twitter.com/search?q=gee+rocha) | N/A |
-| 12 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
-| 13 | [BAILA KEY](http://twitter.com/search?q=BAILA+KEY) | N/A |
-| 14 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
-| 15 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
-| 16 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
+| 4 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 5 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
+| 6 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
+| 7 | [THE MAN](http://twitter.com/search?q=THE+MAN) | N/A |
+| 8 | [Indereço](http://twitter.com/search?q=Indere%c3%a7o) | N/A |
+| 9 | [#TourCedoOuTarde](http://twitter.com/search?q=%23TourCedoOuTarde) | N/A |
+| 10 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 11 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
+| 12 | [Só Rezo](http://twitter.com/search?q=S%c3%b3+Rezo) | N/A |
+| 13 | [Mentiras e Fracassos](http://twitter.com/search?q=Mentiras+e+Fracassos) | N/A |
+| 14 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
+| 15 | [APERTA O RESTART](http://twitter.com/search?q=APERTA+O+RESTART) | N/A |
+| 16 | [gee rocha](http://twitter.com/search?q=gee+rocha) | N/A |
 | 17 | [Razões e Emoções](http://twitter.com/search?q=Raz%c3%b5es+e+Emo%c3%a7%c3%b5es) | N/A |
-| 18 | [Alface e Amanda](http://twitter.com/search?q=Alface+e+Amanda) | N/A |
-| 19 | [#CAIGPT](http://twitter.com/search?q=%23CAIGPT) | N/A |
-| 20 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 21 | [pedro sampaio](http://twitter.com/search?q=pedro+sampaio) | N/A |
-| 22 | [#sentaDONASelfies](http://twitter.com/search?q=%23sentaDONASelfies) | N/A |
-| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 24 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
-| 25 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
-| 26 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
-| 27 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 28 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 29 | [Globo Repórter](http://twitter.com/search?q=Globo+Rep%c3%b3rter) | N/A |
-| 30 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 31 | [Tertulinho](http://twitter.com/search?q=Tertulinho) | N/A |
-| 32 | [Pri Heldes](http://twitter.com/search?q=Pri+Heldes) | N/A |
-| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 34 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
-| 35 | [Flávio Gomes](http://twitter.com/search?q=Fl%c3%a1vio+Gomes) | N/A |
-| 36 | [sense8](http://twitter.com/search?q=sense8) | N/A |
-| 37 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
-| 38 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
-| 39 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 40 | [Pilhado](http://twitter.com/search?q=Pilhado) | N/A |
-| 41 | [Thaísa](http://twitter.com/search?q=Tha%c3%adsa) | N/A |
-| 42 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 43 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 44 | [Jacquin](http://twitter.com/search?q=Jacquin) | N/A |
-| 45 | [Faz o X](http://twitter.com/search?q=Faz+o+X) | N/A |
-| 46 | [DPVAT](http://twitter.com/search?q=DPVAT) | N/A |
-| 47 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 48 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 49 | [Minas](http://twitter.com/search?q=Minas) | N/A |
-| 50 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 18 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 19 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 20 | [EU TE FIZ FELIZ](http://twitter.com/search?q=EU+TE+FIZ+FELIZ) | N/A |
+| 21 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 22 | [Mariana Rios](http://twitter.com/search?q=Mariana+Rios) | N/A |
+| 23 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
+| 24 | [EU SEI QUE VAI](http://twitter.com/search?q=EU+SEI+QUE+VAI) | N/A |
+| 25 | [Alface e Amanda](http://twitter.com/search?q=Alface+e+Amanda) | N/A |
+| 26 | [lincoln lau](http://twitter.com/search?q=lincoln+lau) | N/A |
+| 27 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 28 | [PELA ÚLTIMA VEZ](http://twitter.com/search?q=PELA+%c3%9aLTIMA+VEZ) | N/A |
+| 29 | [Ligação](http://twitter.com/search?q=Liga%c3%a7%c3%a3o) | N/A |
+| 30 | [raffa](http://twitter.com/search?q=raffa) | N/A |
+| 31 | [Cartas](http://twitter.com/search?q=Cartas) | N/A |
+| 32 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 33 | [pedro sampaio](http://twitter.com/search?q=pedro+sampaio) | N/A |
+| 34 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 35 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
+| 36 | [BAILA KEY](http://twitter.com/search?q=BAILA+KEY) | N/A |
+| 37 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 38 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 39 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 40 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 41 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 42 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
+| 43 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 44 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 45 | [sense8](http://twitter.com/search?q=sense8) | N/A |
+| 46 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
+| 47 | [Flávio Gomes](http://twitter.com/search?q=Fl%c3%a1vio+Gomes) | N/A |
+| 48 | [Forfun](http://twitter.com/search?q=Forfun) | N/A |
+| 49 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
+| 50 | [Pri Heldes](http://twitter.com/search?q=Pri+Heldes) | N/A |
 
 
 

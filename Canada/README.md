@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-18 02:33:48 UTC`
+📆 Last Updated: `2023-03-18 03:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,47 @@ This is top 50 for Canada
 | 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 | 3 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 4 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 6 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 7 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 8 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 9 | [St. Pats](http://twitter.com/search?q=St.+Pats) | N/A |
-| 10 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
-| 11 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
-| 12 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 13 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
-| 14 | [#CARvsTOR](http://twitter.com/search?q=%23CARvsTOR) | N/A |
-| 15 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
-| 16 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 17 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 18 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 19 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
-| 20 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 21 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 5 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 6 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
+| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 8 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 9 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 10 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 11 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 12 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
+| 13 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
+| 14 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 15 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 16 | [#CARvsTOR](http://twitter.com/search?q=%23CARvsTOR) | N/A |
+| 17 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 18 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
+| 19 | [St. Pats](http://twitter.com/search?q=St.+Pats) | N/A |
+| 20 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 21 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
 | 22 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 23 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 24 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
+| 23 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 24 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
 | 25 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 26 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 28 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
-| 29 | [Commander](http://twitter.com/search?q=Commander) | N/A |
+| 26 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 27 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
+| 28 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 29 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 30 | [Globe and Mail](http://twitter.com/search?q=Globe+and+Mail) | N/A |
-| 31 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 32 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 33 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 34 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 35 | [Fife](http://twitter.com/search?q=Fife) | N/A |
+| 31 | [Commander](http://twitter.com/search?q=Commander) | N/A |
+| 32 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 33 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 34 | [Fife](http://twitter.com/search?q=Fife) | N/A |
+| 35 | [Butts](http://twitter.com/search?q=Butts) | N/A |
 | 36 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
 | 37 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 38 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 39 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 40 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 41 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 42 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 43 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 44 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 45 | [#GoLeafsGo](http://twitter.com/search?q=%23GoLeafsGo) | N/A |
-| 46 | [#stpaddysday](http://twitter.com/search?q=%23stpaddysday) | N/A |
-| 47 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 38 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 39 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 40 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 41 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 42 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 43 | [#LeafsNation](http://twitter.com/search?q=%23LeafsNation) | N/A |
+| 44 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 45 | [#Destiny2](http://twitter.com/search?q=%23Destiny2) | N/A |
 
 
 

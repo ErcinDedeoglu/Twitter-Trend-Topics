@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-18 02:33:19 UTC`
+📆 Last Updated: `2023-03-18 03:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
-| 2 | [Tontonan Hari Ramadan](http://twitter.com/search?q=Tontonan+Hari+Ramadan) | N/A |
-| 3 | [Semua Bisa Berobat](http://twitter.com/search?q=Semua+Bisa+Berobat) | N/A |
-| 4 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
-| 5 | [Boti](http://twitter.com/search?q=Boti) | N/A |
-| 6 | [RUU Kesehatan](http://twitter.com/search?q=RUU+Kesehatan) | N/A |
-| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 8 | [politik baik gerindra](http://twitter.com/search?q=politik+baik+gerindra) | N/A |
+| 2 | [#HelmutAdalahKorban](http://twitter.com/search?q=%23HelmutAdalahKorban) | N/A |
+| 3 | [Boti](http://twitter.com/search?q=Boti) | N/A |
+| 4 | [Tontonan Hari Ramadan](http://twitter.com/search?q=Tontonan+Hari+Ramadan) | N/A |
+| 5 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
+| 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 7 | [prabowo hatinya tulus](http://twitter.com/search?q=prabowo+hatinya+tulus) | N/A |
+| 8 | [rakyat nyamanpilih prabowo](http://twitter.com/search?q=rakyat+nyamanpilih+prabowo) | N/A |
 | 9 | [rakyat nyamanpilih prabowo](http://twitter.com/search?q=rakyat+nyamanpilih+prabowo) | N/A |
-| 10 | [kandidat menteri](http://twitter.com/search?q=kandidat+menteri) | N/A |
-| 11 | [Prabowo Pilihan Rakyat](http://twitter.com/search?q=Prabowo+Pilihan+Rakyat) | N/A |
-| 12 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 13 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
-| 14 | [prabowo hatinya tulus](http://twitter.com/search?q=prabowo+hatinya+tulus) | N/A |
+| 10 | [Semua Bisa Berobat](http://twitter.com/search?q=Semua+Bisa+Berobat) | N/A |
+| 11 | [politik baik gerindra](http://twitter.com/search?q=politik+baik+gerindra) | N/A |
+| 12 | [kandidat menteri](http://twitter.com/search?q=kandidat+menteri) | N/A |
+| 13 | [Erha](http://twitter.com/search?q=Erha) | N/A |
+| 14 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 15 | [Prabowo For Indonesia](http://twitter.com/search?q=Prabowo+For+Indonesia) | N/A |
-| 16 | [Erha](http://twitter.com/search?q=Erha) | N/A |
-| 17 | [Syariah Solusi Ketidakadilan](http://twitter.com/search?q=Syariah+Solusi+Ketidakadilan) | N/A |
-| 18 | [Khilafah Ajaran Rasulullah](http://twitter.com/search?q=Khilafah+Ajaran+Rasulullah) | N/A |
-| 19 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
-| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 21 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 23 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 24 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 25 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 26 | [selamat hari perawat nasional](http://twitter.com/search?q=selamat+hari+perawat+nasional) | N/A |
-| 27 | [Relis](http://twitter.com/search?q=Relis) | N/A |
-| 28 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 29 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 30 | [Terima Kasih Erigo](http://twitter.com/search?q=Terima+Kasih+Erigo) | N/A |
-| 31 | [mental yupi](http://twitter.com/search?q=mental+yupi) | N/A |
-| 32 | [Semoga Sukses Selalu](http://twitter.com/search?q=Semoga+Sukses+Selalu) | N/A |
-| 33 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
-| 34 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 35 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 36 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 37 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 38 | [PriFad](http://twitter.com/search?q=PriFad) | N/A |
-| 39 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 40 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
-| 41 | [B. Tahu Isi](http://twitter.com/search?q=B.+Tahu+Isi) | N/A |
-| 42 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 43 | [JAKARTA LUMPUR](http://twitter.com/search?q=JAKARTA+LUMPUR) | N/A |
+| 16 | [Syariah Solusi Ketidakadilan](http://twitter.com/search?q=Syariah+Solusi+Ketidakadilan) | N/A |
+| 17 | [RUU Kesehatan](http://twitter.com/search?q=RUU+Kesehatan) | N/A |
+| 18 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 19 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 20 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
+| 21 | [Khilafah Ajaran Rasulullah](http://twitter.com/search?q=Khilafah+Ajaran+Rasulullah) | N/A |
+| 22 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 24 | [selamat hari perawat nasional](http://twitter.com/search?q=selamat+hari+perawat+nasional) | N/A |
+| 25 | [Terima Kasih Erigo](http://twitter.com/search?q=Terima+Kasih+Erigo) | N/A |
+| 26 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 28 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 29 | [Relis](http://twitter.com/search?q=Relis) | N/A |
+| 30 | [mental yupi](http://twitter.com/search?q=mental+yupi) | N/A |
+| 31 | [Semoga Sukses Selalu](http://twitter.com/search?q=Semoga+Sukses+Selalu) | N/A |
+| 32 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
+| 33 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 34 | [Supra](http://twitter.com/search?q=Supra) | N/A |
+| 35 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
+| 36 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 37 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 38 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 39 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 40 | [Nongkrong](http://twitter.com/search?q=Nongkrong) | N/A |
+| 41 | [PriFad](http://twitter.com/search?q=PriFad) | N/A |
+| 42 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 43 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
+| 44 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
 
 
 

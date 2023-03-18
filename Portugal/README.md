@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-18 02:33:52 UTC`
+📆 Last Updated: `2023-03-18 03:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Portugal
 | 3 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
 | 4 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
 | 5 | [Pote](http://twitter.com/search?q=Pote) | N/A |
-| 6 | [Istambul](http://twitter.com/search?q=Istambul) | N/A |
-| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 8 | [Adan](http://twitter.com/search?q=Adan) | N/A |
-| 9 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 10 | [Pedro Gonçalves](http://twitter.com/search?q=Pedro+Gon%c3%a7alves) | N/A |
-| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 12 | [Richie](http://twitter.com/search?q=Richie) | N/A |
-| 13 | [Liga Europa](http://twitter.com/search?q=Liga+Europa) | N/A |
-| 14 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Sevilha](http://twitter.com/search?q=Sevilha) | N/A |
-| 17 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 18 | [#arsscp](http://twitter.com/search?q=%23arsscp) | N/A |
-| 19 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 22 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 23 | [VAMOS CARALHO](http://twitter.com/search?q=VAMOS+CARALHO) | N/A |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
-| 26 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 27 | [DIOGO LEITE](http://twitter.com/search?q=DIOGO+LEITE) | N/A |
-| 28 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 29 | [Fábio Vieira](http://twitter.com/search?q=F%c3%a1bio+Vieira) | N/A |
-| 30 | [Rúben Neves](http://twitter.com/search?q=R%c3%baben+Neves) | N/A |
-| 31 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 32 | [Tribunal Penal Internacional](http://twitter.com/search?q=Tribunal+Penal+Internacional) | N/A |
-| 33 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 7 | [Istambul](http://twitter.com/search?q=Istambul) | N/A |
+| 8 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 9 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 10 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 11 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 12 | [Liga Europa](http://twitter.com/search?q=Liga+Europa) | N/A |
+| 13 | [Pedro Gonçalves](http://twitter.com/search?q=Pedro+Gon%c3%a7alves) | N/A |
+| 14 | [Richie](http://twitter.com/search?q=Richie) | N/A |
+| 15 | [Sevilha](http://twitter.com/search?q=Sevilha) | N/A |
+| 16 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 17 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [#arsscp](http://twitter.com/search?q=%23arsscp) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [vamos caralho](http://twitter.com/search?q=vamos+caralho) | N/A |
+| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [Diogo Leite](http://twitter.com/search?q=Diogo+Leite) | N/A |
+| 24 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 25 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
+| 26 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
+| 27 | [Fábio Vieira](http://twitter.com/search?q=F%c3%a1bio+Vieira) | N/A |
+| 28 | [Rúben Neves](http://twitter.com/search?q=R%c3%baben+Neves) | N/A |
+| 29 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 30 | [Tribunal Penal Internacional](http://twitter.com/search?q=Tribunal+Penal+Internacional) | N/A |
+| 31 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 32 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 33 | [Jandira](http://twitter.com/search?q=Jandira) | N/A |
 | 34 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 35 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 36 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
-| 37 | [Turim](http://twitter.com/search?q=Turim) | N/A |
-| 38 | [#otriangulotvi](http://twitter.com/search?q=%23otriangulotvi) | N/A |
-| 39 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
-| 40 | [Jandira](http://twitter.com/search?q=Jandira) | N/A |
-| 41 | [#WRCnaSPORTTV](http://twitter.com/search?q=%23WRCnaSPORTTV) | N/A |
-| 42 | [Roberto Martínez](http://twitter.com/search?q=Roberto+Mart%c3%adnez) | Roberto Martínez is a Spanish football manager and former player. He is currently the manager of the Belgian national team. The name Roberto Martínez translates to "Robert Martinez" in English. |
-| 43 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 44 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 45 | [St Juste](http://twitter.com/search?q=St+Juste) | N/A |
-| 46 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 47 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
-| 48 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 49 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 50 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 35 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 36 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 37 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
+| 38 | [turim](http://twitter.com/search?q=turim) | N/A |
+| 39 | [#otriangulotvi](http://twitter.com/search?q=%23otriangulotvi) | N/A |
+| 40 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 41 | [Roberto Martinez](http://twitter.com/search?q=Roberto+Martinez) | Roberto Martinez is a Spanish football manager and former player. He is currently the manager of the Belgium national team. The meaning of his name in English is "famous ruler". |
+| 42 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 43 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 44 | [#wrcnasporttv](http://twitter.com/search?q=%23wrcnasporttv) | N/A |
+| 45 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 46 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 47 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 48 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 49 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 50 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 
 
 

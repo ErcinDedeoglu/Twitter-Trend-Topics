@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-18 02:33:51 UTC`
+📆 Last Updated: `2023-03-18 03:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 2 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 3 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 2 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 3 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
 | 4 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
-| 5 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 6 | [#ClasicoMundialdeBeisbol2023](http://twitter.com/search?q=%23ClasicoMundialdeBeisbol2023) | N/A |
-| 7 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 8 | [Urías](http://twitter.com/search?q=Ur%c3%adas) | N/A |
-| 9 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 5 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
+| 8 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 9 | [Urías](http://twitter.com/search?q=Ur%c3%adas) | N/A |
 | 10 | [Javier Assad](http://twitter.com/search?q=Javier+Assad) | N/A |
-| 11 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 12 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
-| 13 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 14 | [EL DE LA H](http://twitter.com/search?q=EL+DE+LA+H) | N/A |
-| 15 | [#SíAlDebateEdoMéx](http://twitter.com/search?q=%23S%c3%adAlDebateEdoM%c3%a9x) | N/A |
-| 16 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
-| 17 | [Jesús Murillo Karam](http://twitter.com/search?q=Jes%c3%bas+Murillo+Karam) | N/A |
-| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 19 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 20 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
-| 21 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 22 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
-| 23 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
-| 24 | [Hernán](http://twitter.com/search?q=Hern%c3%a1n) | Hernán is a Spanish name derived from the Germanic name Hernan, which means "army man". It is also a variant of the name Fernando, which means "brave and daring". |
-| 25 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 26 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
-| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 28 | [Telemundo](http://twitter.com/search?q=Telemundo) | N/A |
-| 29 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 30 | [MAXO](http://twitter.com/search?q=MAXO) | N/A |
-| 31 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 32 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
-| 33 | [Tellez](http://twitter.com/search?q=Tellez) | N/A |
-| 34 | [Mendieta](http://twitter.com/search?q=Mendieta) | N/A |
-| 35 | [YURIDIA](http://twitter.com/search?q=YURIDIA) | N/A |
-| 36 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
-| 37 | [Julito](http://twitter.com/search?q=Julito) | N/A |
-| 38 | [Jesús Corona](http://twitter.com/search?q=Jes%c3%bas+Corona) | N/A |
-| 39 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 40 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
-| 41 | [Gurría](http://twitter.com/search?q=Gurr%c3%ada) | N/A |
-| 42 | [Expropiación Petrolera](http://twitter.com/search?q=Expropiaci%c3%b3n+Petrolera) | N/A |
-| 43 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 44 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
-| 45 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 46 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
-| 47 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 48 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 49 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
-| 50 | [Gabo](http://twitter.com/search?q=Gabo) | N/A |
+| 11 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
+| 12 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 13 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 14 | [#SíAlDebateEdoméx](http://twitter.com/search?q=%23S%c3%adAlDebateEdom%c3%a9x) | N/A |
+| 15 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 16 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
+| 17 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
+| 18 | [Juegazo](http://twitter.com/search?q=Juegazo) | N/A |
+| 19 | [El de la H](http://twitter.com/search?q=El+de+la+H) | N/A |
+| 20 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
+| 21 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 22 | [Partidazo](http://twitter.com/search?q=Partidazo) | N/A |
+| 23 | [Jesús Murillo Karam](http://twitter.com/search?q=Jes%c3%bas+Murillo+Karam) | N/A |
+| 24 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
+| 25 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 26 | [Semis](http://twitter.com/search?q=Semis) | N/A |
+| 27 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 28 | [Hernán](http://twitter.com/search?q=Hern%c3%a1n) | Hernán is a Spanish name derived from the Germanic name Hernan, which means "army man". It is also a variant of the name Fernando, which means "brave and daring". |
+| 29 | [Benjamín Gil](http://twitter.com/search?q=Benjam%c3%adn+Gil) | N/A |
+| 30 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
+| 31 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
+| 32 | [YURIDIA](http://twitter.com/search?q=YURIDIA) | N/A |
+| 33 | [Mendieta](http://twitter.com/search?q=Mendieta) | N/A |
+| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 35 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 36 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
+| 37 | [Tellez](http://twitter.com/search?q=Tellez) | N/A |
+| 38 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 39 | [Gurría](http://twitter.com/search?q=Gurr%c3%ada) | N/A |
+| 40 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 41 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 42 | [Jesús Corona](http://twitter.com/search?q=Jes%c3%bas+Corona) | N/A |
+| 43 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 44 | [Expropiación Petrolera](http://twitter.com/search?q=Expropiaci%c3%b3n+Petrolera) | N/A |
+| 45 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
+| 46 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 47 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 48 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
+| 49 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 50 | [#BatallaYSupervivencia](http://twitter.com/search?q=%23BatallaYSupervivencia) | N/A |
 
 
 
