@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-18 17:16:37 UTC`
+📆 Last Updated: `2023-03-18 18:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 2 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 3 | [minho](http://twitter.com/search?q=minho) | N/A |
-| 4 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 7 | [Flamengo de Guarulhos](http://twitter.com/search?q=Flamengo+de+Guarulhos) | N/A |
-| 8 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
-| 9 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 10 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 11 | [#f2nobandsports](http://twitter.com/search?q=%23f2nobandsports) | N/A |
-| 12 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
-| 13 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 14 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 15 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
-| 16 | [Iwasa](http://twitter.com/search?q=Iwasa) | N/A |
-| 17 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 18 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 19 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 20 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
-| 21 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 22 | [Aniversário da Amandex Pijamex](http://twitter.com/search?q=Anivers%c3%a1rio+da+Amandex+Pijamex) | N/A |
-| 23 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
-| 24 | [fred e aline](http://twitter.com/search?q=fred+e+aline) | N/A |
-| 25 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
-| 26 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 29 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 30 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 31 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 32 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
-| 33 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 34 | [São José](http://twitter.com/search?q=S%c3%a3o+Jos%c3%a9) | N/A |
-| 35 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 36 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
-| 37 | [SEM LUA](http://twitter.com/search?q=SEM+LUA) | N/A |
-| 38 | [Parabéns Yuri](http://twitter.com/search?q=Parab%c3%a9ns+Yuri) | N/A |
-| 39 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 40 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 41 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 42 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
-| 43 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 44 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
-| 45 | [CHOI SAN](http://twitter.com/search?q=CHOI+SAN) | N/A |
-| 46 | [Indereco](http://twitter.com/search?q=Indereco) | N/A |
-| 47 | [Queima](http://twitter.com/search?q=Queima) | N/A |
-| 48 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 49 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
+| 1 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 2 | [minho](http://twitter.com/search?q=minho) | N/A |
+| 3 | [my tears ricochet](http://twitter.com/search?q=my+tears+ricochet) | N/A |
+| 4 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 5 | [#ForaAmanda](http://twitter.com/search?q=%23ForaAmanda) | N/A |
+| 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 9 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
+| 10 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 11 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 12 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 13 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 14 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 15 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 16 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 17 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 18 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 19 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 20 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 21 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 24 | [Flamengo de Guarulhos](http://twitter.com/search?q=Flamengo+de+Guarulhos) | N/A |
+| 25 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 26 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 27 | [Uma Linda Mulher](http://twitter.com/search?q=Uma+Linda+Mulher) | N/A |
+| 28 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 29 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 30 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 31 | [Sargeant](http://twitter.com/search?q=Sargeant) | N/A |
+| 32 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 33 | [Liberty](http://twitter.com/search?q=Liberty) | N/A |
+| 34 | [yuri alberto](http://twitter.com/search?q=yuri+alberto) | N/A |
+| 35 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 36 | [Iwasa](http://twitter.com/search?q=Iwasa) | N/A |
+| 37 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 38 | [Marco Reus](http://twitter.com/search?q=Marco+Reus) | N/A |
+| 39 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 40 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 41 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 42 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
+| 43 | [Klara Castanho](http://twitter.com/search?q=Klara+Castanho) | N/A |
+| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 45 | [De Vries](http://twitter.com/search?q=De+Vries) | N/A |
+| 46 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
+| 47 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
+| 48 | [Route](http://twitter.com/search?q=Route) | N/A |
+| 49 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-18 17:16:54 UTC`
+📆 Last Updated: `2023-03-18 18:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
-| 2 | [#사쿠라_아름답게_피어나다](http://twitter.com/search?q=%23%ec%82%ac%ec%bf%a0%eb%9d%bc_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b2%8c_%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4) | N/A |
-| 3 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 4 | [KATHNIEL ABU DHABest](http://twitter.com/search?q=KATHNIEL+ABU+DHABest) | N/A |
-| 5 | [#GKapamilyaInAbuDhabi](http://twitter.com/search?q=%23GKapamilyaInAbuDhabi) | N/A |
-| 6 | [#HORI7ON_DASH_D3](http://twitter.com/search?q=%23HORI7ON_DASH_D3) | N/A |
-| 7 | [DASH PHOTO TEASER 2](http://twitter.com/search?q=DASH+PHOTO+TEASER+2) | N/A |
-| 8 | [KAOMIAH WHERE R U PROM](http://twitter.com/search?q=KAOMIAH+WHERE+R+U+PROM) | N/A |
+| 1 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
+| 2 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
+| 3 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 6 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 7 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
+| 8 | [KATHNIEL ABU DHABest](http://twitter.com/search?q=KATHNIEL+ABU+DHABest) | N/A |
 | 9 | [THE FUTURE IS VIBRENT](http://twitter.com/search?q=THE+FUTURE+IS+VIBRENT) | N/A |
-| 10 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 11 | [iKON AT KCON THAILAND](http://twitter.com/search?q=iKON+AT+KCON+THAILAND) | N/A |
-| 12 | [HELLO BEACHBRO JASON](http://twitter.com/search?q=HELLO+BEACHBRO+JASON) | N/A |
-| 13 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 14 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 15 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 16 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
-| 17 | [TCOB ROBXINE eLOVEnthSARY](http://twitter.com/search?q=TCOB+ROBXINE+eLOVEnthSARY) | N/A |
-| 18 | [BarDa MVTrailer](http://twitter.com/search?q=BarDa+MVTrailer) | N/A |
-| 19 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 20 | [Eras Tour](http://twitter.com/search?q=Eras+Tour) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 23 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 24 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 25 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 26 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 27 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
-| 28 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
-| 29 | [#THAITANIUM23rdXENGFA](http://twitter.com/search?q=%23THAITANIUM23rdXENGFA) | N/A |
-| 30 | [#BuskingSpaceforAteLilibeth](http://twitter.com/search?q=%23BuskingSpaceforAteLilibeth) | N/A |
-| 31 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
-| 32 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
-| 33 | [#BBMeetTheBros](http://twitter.com/search?q=%23BBMeetTheBros) | N/A |
-| 34 | [#LE_SSERAFIM](http://twitter.com/search?q=%23LE_SSERAFIM) | N/A |
-| 35 | [#DADDYSGURLRedFlag](http://twitter.com/search?q=%23DADDYSGURLRedFlag) | N/A |
-| 36 | [#USLovesFreenbecky](http://twitter.com/search?q=%23USLovesFreenbecky) | N/A |
-| 37 | [#JaneDeLeon](http://twitter.com/search?q=%23JaneDeLeon) | N/A |
-| 38 | [#RoverChallenge](http://twitter.com/search?q=%23RoverChallenge) | N/A |
-| 39 | [#WILDTONIGHTinDUBAI](http://twitter.com/search?q=%23WILDTONIGHTinDUBAI) | N/A |
-| 40 | [#LALISA](http://twitter.com/search?q=%23LALISA) | N/A |
-| 41 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
-| 42 | [#ENHYPEN_JAY](http://twitter.com/search?q=%23ENHYPEN_JAY) | N/A |
-| 43 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
-| 44 | [#BORNPINKinKaohsiung](http://twitter.com/search?q=%23BORNPINKinKaohsiung) | N/A |
-| 45 | [#MOONBIN](http://twitter.com/search?q=%23MOONBIN) | #MOONBIN is a hashtag used to refer to Moon Bin, a South Korean singer and actor. He is a member of the K-pop group Astro. The hashtag is used to share news, photos, and videos related to him. |
-| 46 | [#PPOPCOMsaETON](http://twitter.com/search?q=%23PPOPCOMsaETON) | N/A |
-| 47 | [#DavidLicaucoInDavao](http://twitter.com/search?q=%23DavidLicaucoInDavao) | N/A |
+| 10 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 11 | [Tim McGraw](http://twitter.com/search?q=Tim+McGraw) | N/A |
+| 12 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 13 | [KDLEX HEADLINER BILLBOARD](http://twitter.com/search?q=KDLEX+HEADLINER+BILLBOARD) | N/A |
+| 14 | [DALAMPASIGAN 1ST ANNIVERSARY](http://twitter.com/search?q=DALAMPASIGAN+1ST+ANNIVERSARY) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [kasilag](http://twitter.com/search?q=kasilag) | N/A |
+| 17 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 18 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 19 | [Newsto KoYan With Jane](http://twitter.com/search?q=Newsto+KoYan+With+Jane) | N/A |
+| 20 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 21 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 22 | [aldenxeb eatbulagasaturday](http://twitter.com/search?q=aldenxeb+eatbulagasaturday) | N/A |
+| 23 | [DASH PHOTO TEASER 2](http://twitter.com/search?q=DASH+PHOTO+TEASER+2) | N/A |
+| 24 | [Issa](http://twitter.com/search?q=Issa) | N/A |
+| 25 | [set me free 1st slay](http://twitter.com/search?q=set+me+free+1st+slay) | N/A |
+| 26 | [BINI GWEN OUR SUPERMODEL](http://twitter.com/search?q=BINI+GWEN+OUR+SUPERMODEL) | N/A |
+| 27 | [TCOB ROBXINE eLOVEnthSARY](http://twitter.com/search?q=TCOB+ROBXINE+eLOVEnthSARY) | N/A |
+| 28 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
+| 29 | [KAOMIAH WHERE R U PROM](http://twitter.com/search?q=KAOMIAH+WHERE+R+U+PROM) | N/A |
+| 30 | [chin said yes to seth](http://twitter.com/search?q=chin+said+yes+to+seth) | N/A |
+| 31 | [BarDa MVTrailer](http://twitter.com/search?q=BarDa+MVTrailer) | N/A |
+| 32 | [WELCOME TO SG ALEXA](http://twitter.com/search?q=WELCOME+TO+SG+ALEXA) | N/A |
+| 33 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
+| 34 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
+| 35 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 36 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
+| 37 | [Hai Cheng](http://twitter.com/search?q=Hai+Cheng) | N/A |
+| 38 | [congrats ccs](http://twitter.com/search?q=congrats+ccs) | N/A |
+| 39 | [ZACHAM AMING BARKADA](http://twitter.com/search?q=ZACHAM+AMING+BARKADA) | N/A |
+| 40 | [DAVID WiLTELCOM ANNIVERSARY](http://twitter.com/search?q=DAVID+WiLTELCOM+ANNIVERSARY) | N/A |
+| 41 | [Globe](http://twitter.com/search?q=Globe) | N/A |
+| 42 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 43 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
+| 44 | [PARK JONGSEONG](http://twitter.com/search?q=PARK+JONGSEONG) | N/A |
+| 45 | [HELLO BEACHBRO JASON](http://twitter.com/search?q=HELLO+BEACHBRO+JASON) | N/A |
+| 46 | [Mikael](http://twitter.com/search?q=Mikael) | N/A |
+| 47 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
 
 
 

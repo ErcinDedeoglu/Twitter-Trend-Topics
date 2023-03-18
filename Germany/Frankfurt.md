@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-18 17:16:41 UTC`
+📆 Last Updated: `2023-03-18 18:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 2 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 3 | [#VFBWOB](http://twitter.com/search?q=%23VFBWOB) | N/A |
-| 4 | [#FCAS04](http://twitter.com/search?q=%23FCAS04) | N/A |
-| 5 | [#TSGBSC](http://twitter.com/search?q=%23TSGBSC) | N/A |
-| 6 | [Flanken](http://twitter.com/search?q=Flanken) | N/A |
+| 1 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
+| 2 | [#VfBWOB](http://twitter.com/search?q=%23VfBWOB) | N/A |
+| 3 | [#FCAS04](http://twitter.com/search?q=%23FCAS04) | N/A |
+| 4 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 5 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 6 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
 | 7 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 8 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 9 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 10 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
-| 11 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
-| 12 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 13 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 14 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 15 | [Überzahl](http://twitter.com/search?q=%c3%9cberzahl) | N/A |
-| 16 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 17 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
-| 18 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 19 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 20 | [Konferenz](http://twitter.com/search?q=Konferenz) | N/A |
-| 21 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 22 | [Strafraum](http://twitter.com/search?q=Strafraum) | N/A |
-| 23 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 24 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 25 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
-| 26 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
-| 27 | [Balkon](http://twitter.com/search?q=Balkon) | N/A |
-| 28 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 29 | [Aufstieg](http://twitter.com/search?q=Aufstieg) | N/A |
-| 30 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 31 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 32 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 33 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 34 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
-| 35 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 36 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 38 | [#BOCRBL](http://twitter.com/search?q=%23BOCRBL) | N/A |
-| 39 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 40 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
-| 41 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 42 | [#HSVKSV](http://twitter.com/search?q=%23HSVKSV) | N/A |
-| 43 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
-| 44 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
-| 45 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 46 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 47 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
-| 48 | [#b1803](http://twitter.com/search?q=%23b1803) | N/A |
-| 49 | [#sgffcm](http://twitter.com/search?q=%23sgffcm) | N/A |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 10 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 11 | [Flanken](http://twitter.com/search?q=Flanken) | N/A |
+| 12 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 14 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 15 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 16 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 17 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 20 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
+| 21 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 22 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
+| 23 | [Überzahl](http://twitter.com/search?q=%c3%9cberzahl) | N/A |
+| 24 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 25 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 26 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
+| 27 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
+| 28 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 29 | [Strafraum](http://twitter.com/search?q=Strafraum) | N/A |
+| 30 | [Konferenz](http://twitter.com/search?q=Konferenz) | N/A |
+| 31 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 32 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 33 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
+| 34 | [Aufstieg](http://twitter.com/search?q=Aufstieg) | N/A |
+| 35 | [Balkon](http://twitter.com/search?q=Balkon) | N/A |
+| 36 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 37 | [Partie](http://twitter.com/search?q=Partie) | N/A |
+| 38 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 39 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 40 | [Schilder](http://twitter.com/search?q=Schilder) | N/A |
+| 41 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
+| 42 | [#BOCRBL](http://twitter.com/search?q=%23BOCRBL) | N/A |
+| 43 | [#TSGBSC](http://twitter.com/search?q=%23TSGBSC) | N/A |
+| 44 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 45 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
+| 46 | [#HSVKSV](http://twitter.com/search?q=%23HSVKSV) | N/A |
+| 47 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
+| 48 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
+| 49 | [#b1803](http://twitter.com/search?q=%23b1803) | N/A |
 
 
 

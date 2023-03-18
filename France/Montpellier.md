@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-03-18 17:16:40 UTC`
+📆 Last Updated: `2023-03-18 18:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FRAPDG](http://twitter.com/search?q=%23FRAPDG) | N/A |
-| 2 | [#FRAGAL](http://twitter.com/search?q=%23FRAGAL) | N/A |
-| 3 | [#TFCLOSC](http://twitter.com/search?q=%23TFCLOSC) | N/A |
-| 4 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 5 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
-| 6 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 7 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 8 | [Penaud](http://twitter.com/search?q=Penaud) | N/A |
-| 9 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
-| 10 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 11 | [Gallois](http://twitter.com/search?q=Gallois) | N/A |
-| 12 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
-| 13 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
-| 14 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
-| 15 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 16 | [Arkunir](http://twitter.com/search?q=Arkunir) | N/A |
-| 17 | [Nkounkou](http://twitter.com/search?q=Nkounkou) | N/A |
-| 18 | [Ntamack](http://twitter.com/search?q=Ntamack) | N/A |
-| 19 | [Thomas Ramos](http://twitter.com/search?q=Thomas+Ramos) | N/A |
-| 20 | [Julia Simon](http://twitter.com/search?q=Julia+Simon) | N/A |
-| 21 | [Midona](http://twitter.com/search?q=Midona) | N/A |
-| 22 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
-| 23 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 24 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 25 | [Allez les Bleus](http://twitter.com/search?q=Allez+les+Bleus) | N/A |
-| 26 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 27 | [Galles](http://twitter.com/search?q=Galles) | N/A |
-| 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 29 | [Châtelet](http://twitter.com/search?q=Ch%c3%a2telet) | N/A |
-| 30 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 31 | [Pape](http://twitter.com/search?q=Pape) | N/A |
-| 32 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
-| 33 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 34 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 35 | [Verts](http://twitter.com/search?q=Verts) | N/A |
-| 36 | [Valls](http://twitter.com/search?q=Valls) | N/A |
-| 37 | [Godku](http://twitter.com/search?q=Godku) | N/A |
-| 38 | [Commune](http://twitter.com/search?q=Commune) | N/A |
-| 39 | [Bayrou](http://twitter.com/search?q=Bayrou) | N/A |
-| 40 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 41 | [Michel Debré](http://twitter.com/search?q=Michel+Debr%c3%a9) | N/A |
-| 42 | [Irlande](http://twitter.com/search?q=Irlande) | N/A |
-| 43 | [Modem](http://twitter.com/search?q=Modem) | N/A |
-| 44 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 45 | [Occupe](http://twitter.com/search?q=Occupe) | N/A |
-| 46 | [#HACASSE](http://twitter.com/search?q=%23HACASSE) | N/A |
-| 47 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 1 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 4 | [#FRAPDG](http://twitter.com/search?q=%23FRAPDG) | N/A |
+| 5 | [#TFCLOSC](http://twitter.com/search?q=%23TFCLOSC) | N/A |
+| 6 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
+| 7 | [#FRAGAL](http://twitter.com/search?q=%23FRAGAL) | N/A |
+| 8 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 10 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 13 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 14 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 15 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 16 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
+| 17 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
+| 18 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 19 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
+| 20 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 21 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 22 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 23 | [Penaud](http://twitter.com/search?q=Penaud) | N/A |
+| 24 | [Weah](http://twitter.com/search?q=Weah) | N/A |
+| 25 | [Disasi](http://twitter.com/search?q=Disasi) | N/A |
+| 26 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 27 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 28 | [Gallois](http://twitter.com/search?q=Gallois) | N/A |
+| 29 | [Assassiné](http://twitter.com/search?q=Assassin%c3%a9) | N/A |
+| 30 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 31 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
+| 32 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
+| 33 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 34 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 35 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 36 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
+| 37 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
+| 38 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 39 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
+| 40 | [Ntamack](http://twitter.com/search?q=Ntamack) | N/A |
+| 41 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 42 | [Thomas Ramos](http://twitter.com/search?q=Thomas+Ramos) | N/A |
+| 43 | [15eme](http://twitter.com/search?q=15eme) | N/A |
+| 44 | [Arkunir](http://twitter.com/search?q=Arkunir) | N/A |
+| 45 | [Galles](http://twitter.com/search?q=Galles) | N/A |
+| 46 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 47 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 48 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 49 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-18 17:16:54 UTC`
+📆 Last Updated: `2023-03-18 18:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 2 | [#MaineMendoza](http://twitter.com/search?q=%23MaineMendoza) | N/A |
-| 3 | [#PPOPCOM2023](http://twitter.com/search?q=%23PPOPCOM2023) | N/A |
-| 4 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
-| 5 | [#사쿠라_아름답게_피어나다](http://twitter.com/search?q=%23%ec%82%ac%ec%bf%a0%eb%9d%bc_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b2%8c_%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4) | N/A |
-| 6 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 7 | [KATHNIEL ABU DHABest](http://twitter.com/search?q=KATHNIEL+ABU+DHABest) | N/A |
-| 8 | [#GKapamilyaInAbuDhabi](http://twitter.com/search?q=%23GKapamilyaInAbuDhabi) | N/A |
-| 9 | [DASH PHOTO TEASER 2](http://twitter.com/search?q=DASH+PHOTO+TEASER+2) | N/A |
-| 10 | [KAOMIAH WHERE R U PROM](http://twitter.com/search?q=KAOMIAH+WHERE+R+U+PROM) | N/A |
-| 11 | [THE FUTURE IS VIBRENT](http://twitter.com/search?q=THE+FUTURE+IS+VIBRENT) | N/A |
-| 12 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 13 | [iKON AT KCON THAILAND](http://twitter.com/search?q=iKON+AT+KCON+THAILAND) | N/A |
-| 14 | [HELLO BEACHBRO JASON](http://twitter.com/search?q=HELLO+BEACHBRO+JASON) | N/A |
-| 15 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 16 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 17 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 18 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
-| 19 | [TCOB ROBXINE eLOVEnthSARY](http://twitter.com/search?q=TCOB+ROBXINE+eLOVEnthSARY) | N/A |
-| 20 | [BarDa MVTrailer](http://twitter.com/search?q=BarDa+MVTrailer) | N/A |
-| 21 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 22 | [Eras Tour](http://twitter.com/search?q=Eras+Tour) | N/A |
-| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 24 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 25 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 26 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 27 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 28 | [#HORI7ON_DASH_D3](http://twitter.com/search?q=%23HORI7ON_DASH_D3) | N/A |
-| 29 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 30 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
-| 31 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
-| 32 | [#THAITANIUM23rdXENGFA](http://twitter.com/search?q=%23THAITANIUM23rdXENGFA) | N/A |
-| 33 | [#BuskingSpaceforAteLilibeth](http://twitter.com/search?q=%23BuskingSpaceforAteLilibeth) | N/A |
-| 34 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
-| 35 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
-| 36 | [#BBMeetTheBros](http://twitter.com/search?q=%23BBMeetTheBros) | N/A |
-| 37 | [#LE_SSERAFIM](http://twitter.com/search?q=%23LE_SSERAFIM) | N/A |
-| 38 | [#DADDYSGURLRedFlag](http://twitter.com/search?q=%23DADDYSGURLRedFlag) | N/A |
-| 39 | [#USLovesFreenbecky](http://twitter.com/search?q=%23USLovesFreenbecky) | N/A |
-| 40 | [#JaneDeLeon](http://twitter.com/search?q=%23JaneDeLeon) | N/A |
-| 41 | [#RoverChallenge](http://twitter.com/search?q=%23RoverChallenge) | N/A |
-| 42 | [#WILDTONIGHTinDUBAI](http://twitter.com/search?q=%23WILDTONIGHTinDUBAI) | N/A |
-| 43 | [#LALISA](http://twitter.com/search?q=%23LALISA) | N/A |
-| 44 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
-| 45 | [#ENHYPEN_JAY](http://twitter.com/search?q=%23ENHYPEN_JAY) | N/A |
-| 46 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
-| 47 | [#BORNPINKinKaohsiung](http://twitter.com/search?q=%23BORNPINKinKaohsiung) | N/A |
-| 48 | [#MOONBIN](http://twitter.com/search?q=%23MOONBIN) | #MOONBIN is a hashtag used to refer to Moon Bin, a South Korean singer and actor. He is a member of the K-pop group Astro. The hashtag is used to share news, photos, and videos related to him. |
-| 49 | [#PPOPCOMsaETON](http://twitter.com/search?q=%23PPOPCOMsaETON) | N/A |
-| 50 | [#DavidLicaucoInDavao](http://twitter.com/search?q=%23DavidLicaucoInDavao) | N/A |
+| 1 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
+| 2 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
+| 3 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 6 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 7 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
+| 8 | [#사쿠라_아름답게_피어나다](http://twitter.com/search?q=%23%ec%82%ac%ec%bf%a0%eb%9d%bc_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b2%8c_%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4) | N/A |
+| 9 | [KATHNIEL ABU DHABest](http://twitter.com/search?q=KATHNIEL+ABU+DHABest) | N/A |
+| 10 | [THE FUTURE IS VIBRENT](http://twitter.com/search?q=THE+FUTURE+IS+VIBRENT) | N/A |
+| 11 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 12 | [Tim McGraw](http://twitter.com/search?q=Tim+McGraw) | N/A |
+| 13 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 14 | [KDLEX HEADLINER BILLBOARD](http://twitter.com/search?q=KDLEX+HEADLINER+BILLBOARD) | N/A |
+| 15 | [DALAMPASIGAN 1ST ANNIVERSARY](http://twitter.com/search?q=DALAMPASIGAN+1ST+ANNIVERSARY) | N/A |
+| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 17 | [kasilag](http://twitter.com/search?q=kasilag) | N/A |
+| 18 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 19 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 20 | [Newsto KoYan With Jane](http://twitter.com/search?q=Newsto+KoYan+With+Jane) | N/A |
+| 21 | [KAOMIAH WHERE R U PROM](http://twitter.com/search?q=KAOMIAH+WHERE+R+U+PROM) | N/A |
+| 22 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 23 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 24 | [aldenxeb eatbulagasaturday](http://twitter.com/search?q=aldenxeb+eatbulagasaturday) | N/A |
+| 25 | [DASH PHOTO TEASER 2](http://twitter.com/search?q=DASH+PHOTO+TEASER+2) | N/A |
+| 26 | [Issa](http://twitter.com/search?q=Issa) | N/A |
+| 27 | [set me free 1st slay](http://twitter.com/search?q=set+me+free+1st+slay) | N/A |
+| 28 | [BINI GWEN OUR SUPERMODEL](http://twitter.com/search?q=BINI+GWEN+OUR+SUPERMODEL) | N/A |
+| 29 | [TCOB ROBXINE eLOVEnthSARY](http://twitter.com/search?q=TCOB+ROBXINE+eLOVEnthSARY) | N/A |
+| 30 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
+| 31 | [chin said yes to seth](http://twitter.com/search?q=chin+said+yes+to+seth) | N/A |
+| 32 | [BarDa MVTrailer](http://twitter.com/search?q=BarDa+MVTrailer) | N/A |
+| 33 | [WELCOME TO SG ALEXA](http://twitter.com/search?q=WELCOME+TO+SG+ALEXA) | N/A |
+| 34 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
+| 35 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
+| 36 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 37 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
+| 38 | [Hai Cheng](http://twitter.com/search?q=Hai+Cheng) | N/A |
+| 39 | [congrats ccs](http://twitter.com/search?q=congrats+ccs) | N/A |
+| 40 | [ZACHAM AMING BARKADA](http://twitter.com/search?q=ZACHAM+AMING+BARKADA) | N/A |
+| 41 | [DAVID WiLTELCOM ANNIVERSARY](http://twitter.com/search?q=DAVID+WiLTELCOM+ANNIVERSARY) | N/A |
+| 42 | [Globe](http://twitter.com/search?q=Globe) | N/A |
+| 43 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 44 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
+| 45 | [PARK JONGSEONG](http://twitter.com/search?q=PARK+JONGSEONG) | N/A |
+| 46 | [HELLO BEACHBRO JASON](http://twitter.com/search?q=HELLO+BEACHBRO+JASON) | N/A |
+| 47 | [Mikael](http://twitter.com/search?q=Mikael) | N/A |
+| 48 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 49 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 50 | [Champagne Problems](http://twitter.com/search?q=Champagne+Problems) | N/A |
 
 
 

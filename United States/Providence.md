@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-03-18 17:17:12 UTC`
+📆 Last Updated: `2023-03-18 18:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 2 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 3 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
-| 4 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 5 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 6 | [Veronica Hardy](http://twitter.com/search?q=Veronica+Hardy) | N/A |
-| 7 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 2 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 3 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 4 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 5 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 7 | [Jake Hadley](http://twitter.com/search?q=Jake+Hadley) | N/A |
 | 8 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 9 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 10 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 11 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
-| 12 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 13 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 14 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 15 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 16 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 17 | [Juliana Miller](http://twitter.com/search?q=Juliana+Miller) | N/A |
-| 18 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 19 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 20 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 21 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 22 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 23 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 24 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
-| 25 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 26 | [Theo Walcott](http://twitter.com/search?q=Theo+Walcott) | N/A |
-| 27 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 28 | [Qevin](http://twitter.com/search?q=Qevin) | N/A |
-| 29 | [Volunteered](http://twitter.com/search?q=Volunteered) | N/A |
-| 30 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 31 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 32 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 33 | [Duke -3.5](http://twitter.com/search?q=Duke+-3.5) | N/A |
-| 34 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 35 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 36 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 37 | [Mr. Speaker](http://twitter.com/search?q=Mr.+Speaker) | N/A |
-| 38 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 39 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 40 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
-| 41 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 42 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 43 | [Boarders](http://twitter.com/search?q=Boarders) | N/A |
-| 44 | [Cowherd](http://twitter.com/search?q=Cowherd) | N/A |
-| 45 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
-| 46 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 47 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 9 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 10 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 12 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 13 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 14 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 15 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 16 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 17 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 18 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 19 | [Terrance Williams](http://twitter.com/search?q=Terrance+Williams) | N/A |
+| 20 | [TWill](http://twitter.com/search?q=TWill) | N/A |
+| 21 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 22 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 23 | [Veronica Hardy](http://twitter.com/search?q=Veronica+Hardy) | N/A |
+| 24 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 25 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 26 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 27 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
+| 28 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 29 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 30 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 31 | [Memorial Magic](http://twitter.com/search?q=Memorial+Magic) | N/A |
+| 32 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 33 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 35 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 36 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 37 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 38 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 39 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 40 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 41 | [Joanne Wood](http://twitter.com/search?q=Joanne+Wood) | N/A |
+| 42 | [Qevin](http://twitter.com/search?q=Qevin) | N/A |
+| 43 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 44 | [Jai Herbert](http://twitter.com/search?q=Jai+Herbert) | N/A |
+| 45 | ["Volunteered"](http://twitter.com/search?q=%22Volunteered%22) | N/A |
+| 46 | [Juliana Miller](http://twitter.com/search?q=Juliana+Miller) | N/A |
+| 47 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 48 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 49 | [Waco](http://twitter.com/search?q=Waco) | N/A |
 
 
 

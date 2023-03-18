@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-18 17:17:22 UTC`
+📆 Last Updated: `2023-03-18 18:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ertuğrul Altun23](http://twitter.com/search?q=Ertu%c4%9frul+Altun23) | N/A |
-| 2 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
-| 3 | [#snKocaAtamaNerede](http://twitter.com/search?q=%23snKocaAtamaNerede) | N/A |
-| 4 | [#BJKvİST](http://twitter.com/search?q=%23BJKv%c4%b0ST) | N/A |
-| 5 | [ErtanDevrim DergiÇekimi](http://twitter.com/search?q=ErtanDevrim+Dergi%c3%87ekimi) | N/A |
-| 6 | [#2000LerKararlı](http://twitter.com/search?q=%232000LerKararl%c4%b1) | N/A |
-| 7 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 8 | [Salih](http://twitter.com/search?q=Salih) | Salih is an Arabic name that means "righteous" or "pious". |
-| 9 | [#Samandağ](http://twitter.com/search?q=%23Samanda%c4%9f) | N/A |
-| 10 | [#SkandallarORTADA](http://twitter.com/search?q=%23SkandallarORTADA) | N/A |
+| 1 | [Denkliğimizi Veriniz](http://twitter.com/search?q=Denkli%c4%9fimizi+Veriniz) | N/A |
+| 2 | [Ertuğrul Altun23](http://twitter.com/search?q=Ertu%c4%9frul+Altun23) | N/A |
+| 3 | [#BJKvİST](http://twitter.com/search?q=%23BJKv%c4%b0ST) | N/A |
+| 4 | [#GidaMuhKabineMujdesi](http://twitter.com/search?q=%23GidaMuhKabineMujdesi) | N/A |
+| 5 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 6 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 7 | [#snKocaAtamaNerede](http://twitter.com/search?q=%23snKocaAtamaNerede) | N/A |
+| 8 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 9 | [#PerinçekCNNde](http://twitter.com/search?q=%23Perin%c3%a7ekCNNde) | N/A |
+| 10 | [#İNFAZKORUMASEÇİMDENÖNCE](http://twitter.com/search?q=%23%c4%b0NFAZKORUMASE%c3%87%c4%b0MDEN%c3%96NCE) | N/A |
 | 11 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 12 | [EhliyetimiVer OyumuAl](http://twitter.com/search?q=EhliyetimiVer+OyumuAl) | N/A |
-| 13 | [ANKA-3](http://twitter.com/search?q=ANKA-3) | N/A |
-| 14 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 15 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
-| 16 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
-| 17 | [Başarılar Beşiktaş'ım](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
-| 18 | [AFtorbada ReisBalkonda](http://twitter.com/search?q=AFtorbada+ReisBalkonda) | N/A |
-| 19 | [Rosier](http://twitter.com/search?q=Rosier) | Rosier is a French word meaning "rosebush" or "rose garden". It can also refer to a person who is fond of roses. |
-| 20 | [İstanbulspor](http://twitter.com/search?q=%c4%b0stanbulspor) | İstanbulspor is a Turkish professional football club based in Istanbul. The club was founded in 1926 and currently plays in the TFF First League, the second tier of Turkish football. The name İstanbulspor translates to "Istanbul Sports" in English. |
-| 21 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
-| 22 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 23 | [BaşakveÇağrıİle SenBenO](http://twitter.com/search?q=Ba%c5%9fakve%c3%87a%c4%9fr%c4%b1%c4%b0le+SenBenO) | N/A |
-| 24 | [Atatürk Atatürk](http://twitter.com/search?q=Atat%c3%bcrk+Atat%c3%bcrk) | N/A |
-| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 26 | [Cherif Ndiaye](http://twitter.com/search?q=Cherif+Ndiaye) | N/A |
-| 27 | [Altay Bayındır](http://twitter.com/search?q=Altay+Bay%c4%b1nd%c4%b1r) | N/A |
-| 28 | [Emre Akbaba](http://twitter.com/search?q=Emre+Akbaba) | N/A |
-| 29 | [Kalbimizdesiniz EnKay](http://twitter.com/search?q=Kalbimizdesiniz+EnKay) | N/A |
-| 30 | [Ertan Saban](http://twitter.com/search?q=Ertan+Saban) | N/A |
-| 31 | [Cansız](http://twitter.com/search?q=Cans%c4%b1z) | N/A |
-| 32 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 33 | [Sisi](http://twitter.com/search?q=Sisi) | N/A |
-| 34 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
-| 35 | [Şehitleri Anma Günü](http://twitter.com/search?q=%c5%9eehitleri+Anma+G%c3%bcn%c3%bc) | N/A |
-| 36 | [EzgiDemirtaş Evleniyor](http://twitter.com/search?q=EzgiDemirta%c5%9f+Evleniyor) | N/A |
-| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 38 | [Depremin 40](http://twitter.com/search?q=Depremin+40) | N/A |
-| 39 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 40 | [Türk Devletleri Teşkilatı](http://twitter.com/search?q=T%c3%bcrk+Devletleri+Te%c5%9fkilat%c4%b1) | N/A |
-| 41 | [Milli Muharip Uçak](http://twitter.com/search?q=Milli+Muharip+U%c3%a7ak) | N/A |
-| 42 | [Enver Paşa](http://twitter.com/search?q=Enver+Pa%c5%9fa) | N/A |
-| 43 | [Mustafa Kemal](http://twitter.com/search?q=Mustafa+Kemal) | N/A |
-| 44 | [Kur'an-ı Kerim](http://twitter.com/search?q=Kur%27an-%c4%b1+Kerim) | Kur'an-ı Kerim is the Islamic holy book, also known as the Quran. It is the central religious text of Islam, believed by Muslims to be a revelation from God. The literal meaning of Kur'an-ı Kerim in English is "The Noble Quran". |
-| 45 | [İzmit](http://twitter.com/search?q=%c4%b0zmit) | N/A |
-| 46 | [Daha İslami](http://twitter.com/search?q=Daha+%c4%b0slami) | N/A |
-| 47 | [Fatiha](http://twitter.com/search?q=Fatiha) | N/A |
-| 48 | [ERDOĞAN EZE EZE KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+EZE+EZE+KAZANACAK) | N/A |
-| 49 | [Teoman](http://twitter.com/search?q=Teoman) | N/A |
-| 50 | [Milyonlar](http://twitter.com/search?q=Milyonlar) | N/A |
+| 12 | [ErtanDevrim DergiÇekimi](http://twitter.com/search?q=ErtanDevrim+Dergi%c3%87ekimi) | N/A |
+| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 14 | [Salih](http://twitter.com/search?q=Salih) | Salih is an Arabic name that means "righteous" or "pious". |
+| 15 | [Anka](http://twitter.com/search?q=Anka) | N/A |
+| 16 | [Tebrikler Beşiktaş'ım](http://twitter.com/search?q=Tebrikler+Be%c5%9fikta%c5%9f%27%c4%b1m) | "Tebrikler Beşiktaş'ım" is a Turkish phrase that translates to "Congratulations, my Beşiktaş!" It is a phrase of encouragement and support for the Turkish football team Beşiktaş. |
+| 17 | [Hürjet](http://twitter.com/search?q=H%c3%bcrjet) | N/A |
+| 18 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
+| 19 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 21 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
+| 22 | [Colley](http://twitter.com/search?q=Colley) | N/A |
+| 23 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 24 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 25 | [Mert](http://twitter.com/search?q=Mert) | Mert is a Turkish name derived from the Arabic word for “blessed”. It is also used as a surname in some parts of the world. In English, it can be translated to mean “blessed” or “fortunate”. |
+| 26 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
+| 27 | [EhliyetimiVer OyumuAl](http://twitter.com/search?q=EhliyetimiVer+OyumuAl) | N/A |
+| 28 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 29 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 30 | [Abuş](http://twitter.com/search?q=Abu%c5%9f) | N/A |
+| 31 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 32 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
+| 33 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
+| 34 | [Orhan Ak](http://twitter.com/search?q=Orhan+Ak) | N/A |
+| 35 | [Rosier](http://twitter.com/search?q=Rosier) | Rosier is a French word meaning "rosebush" or "rose garden". It can also refer to a person who is fond of roses. |
+| 36 | [Ebubekir](http://twitter.com/search?q=Ebubekir) | N/A |
+| 37 | [AFtorbada ReisBalkonda](http://twitter.com/search?q=AFtorbada+ReisBalkonda) | N/A |
+| 38 | [Atatürk Atatürk](http://twitter.com/search?q=Atat%c3%bcrk+Atat%c3%bcrk) | N/A |
+| 39 | [Gençlerbirliği](http://twitter.com/search?q=Gen%c3%a7lerbirli%c4%9fi) | N/A |
+| 40 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 41 | [Gedson](http://twitter.com/search?q=Gedson) | Gedson is a Portuguese name derived from the Germanic name Gudrun, which means “God’s secret” or “God’s protection.” It is also a variation of the name Gerson, which means “son of God.” |
+| 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 43 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 44 | [Kalbimizdesiniz EnKay](http://twitter.com/search?q=Kalbimizdesiniz+EnKay) | N/A |
+| 45 | [Emre Akbaba](http://twitter.com/search?q=Emre+Akbaba) | N/A |
+| 46 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 47 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 48 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
+| 49 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 50 | [Sisi](http://twitter.com/search?q=Sisi) | N/A |
 
 
 

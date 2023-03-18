@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-18 17:17:17 UTC`
+📆 Last Updated: `2023-03-18 18:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FRAPDG](http://twitter.com/search?q=%23FRAPDG) | N/A |
-| 2 | [#FRAGAL](http://twitter.com/search?q=%23FRAGAL) | N/A |
-| 3 | [#TFCLOSC](http://twitter.com/search?q=%23TFCLOSC) | N/A |
-| 4 | [#hacasse](http://twitter.com/search?q=%23hacasse) | N/A |
-| 5 | [#XVdeFrance](http://twitter.com/search?q=%23XVdeFrance) | N/A |
-| 6 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
-| 7 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 9 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 10 | [Penaud](http://twitter.com/search?q=Penaud) | N/A |
-| 11 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
-| 12 | [Gallois](http://twitter.com/search?q=Gallois) | N/A |
-| 13 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 14 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
-| 15 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
-| 16 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
-| 17 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 19 | [Arkunir](http://twitter.com/search?q=Arkunir) | N/A |
-| 20 | [Nkounkou](http://twitter.com/search?q=Nkounkou) | N/A |
-| 21 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 22 | [Ntamack](http://twitter.com/search?q=Ntamack) | N/A |
-| 23 | [Thomas Ramos](http://twitter.com/search?q=Thomas+Ramos) | N/A |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
-| 26 | [Julia Simon](http://twitter.com/search?q=Julia+Simon) | N/A |
-| 27 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 28 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 29 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 30 | [Allez les Bleus](http://twitter.com/search?q=Allez+les+Bleus) | N/A |
-| 31 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 32 | [Galles](http://twitter.com/search?q=Galles) | N/A |
-| 33 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 34 | [Châtelet](http://twitter.com/search?q=Ch%c3%a2telet) | N/A |
-| 35 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 36 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
-| 37 | [Pape](http://twitter.com/search?q=Pape) | N/A |
-| 38 | [Verts](http://twitter.com/search?q=Verts) | N/A |
-| 39 | [Valls](http://twitter.com/search?q=Valls) | N/A |
-| 40 | [Godku](http://twitter.com/search?q=Godku) | N/A |
-| 41 | [Bayrou](http://twitter.com/search?q=Bayrou) | N/A |
-| 42 | [Commune](http://twitter.com/search?q=Commune) | N/A |
-| 43 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 44 | [Modem](http://twitter.com/search?q=Modem) | N/A |
-| 45 | [Irlande](http://twitter.com/search?q=Irlande) | N/A |
-| 46 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 47 | [Occupe](http://twitter.com/search?q=Occupe) | N/A |
-| 48 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 49 | [#Milansanremo](http://twitter.com/search?q=%23Milansanremo) | N/A |
-| 50 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 1 | [#TFCLOSC](http://twitter.com/search?q=%23TFCLOSC) | N/A |
+| 2 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 5 | [#FRAPDG](http://twitter.com/search?q=%23FRAPDG) | N/A |
+| 6 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
+| 7 | [#FRAGAL](http://twitter.com/search?q=%23FRAGAL) | N/A |
+| 8 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
+| 9 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 10 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 13 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 14 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
+| 15 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 16 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 17 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 18 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 19 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 20 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
+| 21 | [Rouault](http://twitter.com/search?q=Rouault) | N/A |
+| 22 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 23 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 24 | [Weah](http://twitter.com/search?q=Weah) | N/A |
+| 25 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
+| 26 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 27 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 28 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 29 | [Penaud](http://twitter.com/search?q=Penaud) | N/A |
+| 30 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
+| 31 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 32 | [Disasi](http://twitter.com/search?q=Disasi) | N/A |
+| 33 | [Gallois](http://twitter.com/search?q=Gallois) | N/A |
+| 34 | [Assassiné](http://twitter.com/search?q=Assassin%c3%a9) | N/A |
+| 35 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 36 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 37 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
+| 38 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 39 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
+| 40 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
+| 41 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 42 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
+| 43 | [Ntamack](http://twitter.com/search?q=Ntamack) | N/A |
+| 44 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 45 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
+| 46 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 47 | [Thomas Ramos](http://twitter.com/search?q=Thomas+Ramos) | N/A |
+| 48 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 49 | [15eme](http://twitter.com/search?q=15eme) | N/A |
+| 50 | [Arkunir](http://twitter.com/search?q=Arkunir) | N/A |
 
 
 

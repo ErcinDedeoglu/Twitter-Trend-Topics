@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-18 17:17:02 UTC`
+📆 Last Updated: `2023-03-18 18:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [विद्युत आपूर्ति](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%81%e0%a4%a4+%e0%a4%86%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 1 | [बिजली गुल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2) | N/A |
 | 2 | [पावर हाउस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%b0+%e0%a4%b9%e0%a4%be%e0%a4%89%e0%a4%b8) | N/A |
-| 3 | [बिजली गुल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2) | N/A |
-| 4 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 5 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
+| 3 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
+| 4 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
+| 5 | [#AskArmaan](http://twitter.com/search?q=%23AskArmaan) | N/A |
 | 6 | [#RCBvGG](http://twitter.com/search?q=%23RCBvGG) | N/A |
-| 7 | [#AimOfSantRampalJi](http://twitter.com/search?q=%23AimOfSantRampalJi) | #AimOfSantRampalJi is a hashtag used to promote the teachings of Sant Rampal Ji Maharaj, an Indian spiritual leader. The aim of Sant Rampal Ji Maharaj is to spread the message of truth and peace through his teachings and to help people lead a better life. In English, this hashtag translates to "The Aim of Sant Rampal Ji Maharaj". |
-| 8 | [#ATKMBBFC](http://twitter.com/search?q=%23ATKMBBFC) | N/A |
-| 9 | [#NamoAtConclave](http://twitter.com/search?q=%23NamoAtConclave) | N/A |
-| 10 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
-| 11 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
-| 12 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 7 | [#ATKMBBFC](http://twitter.com/search?q=%23ATKMBBFC) | N/A |
+| 8 | [#AimOfSantRampalJi](http://twitter.com/search?q=%23AimOfSantRampalJi) | #AimOfSantRampalJi is a hashtag used to promote the teachings of Sant Rampal Ji Maharaj, an Indian spiritual leader. The aim of Sant Rampal Ji Maharaj is to spread the message of truth and peace through his teachings and to help people lead a better life. In English, this hashtag translates to "The Aim of Sant Rampal Ji Maharaj". |
+| 9 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 12 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
 | 13 | [Mahindra Percussion Festival](http://twitter.com/search?q=Mahindra+Percussion+Festival) | N/A |
-| 14 | [Meet Rani Mukerji In Cinemas](http://twitter.com/search?q=Meet+Rani+Mukerji+In+Cinemas) | N/A |
-| 15 | [BEKAABOO ON COLORS](http://twitter.com/search?q=BEKAABOO+ON+COLORS) | N/A |
-| 16 | [ATK Mohun Bagan](http://twitter.com/search?q=ATK+Mohun+Bagan) | N/A |
-| 17 | [Deepti S & Punam R](http://twitter.com/search?q=Deepti+S+%26+Punam+R) | N/A |
-| 18 | [Roy Krishna](http://twitter.com/search?q=Roy+Krishna) | N/A |
-| 19 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 20 | [KKUNDRRA GRACING ICONIC AWARDS](http://twitter.com/search?q=KKUNDRRA+GRACING+ICONIC+AWARDS) | N/A |
-| 21 | [Sushant Stirs Emotion](http://twitter.com/search?q=Sushant+Stirs+Emotion) | N/A |
-| 22 | [Vishal Kaith](http://twitter.com/search?q=Vishal+Kaith) | N/A |
-| 23 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 24 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 25 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 26 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 27 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 28 | [Sant Rampal Ji Maharaj Ji](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+Ji) | N/A |
-| 29 | [Peepal](http://twitter.com/search?q=Peepal) | N/A |
-| 30 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 31 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 32 | [मानव समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 33 | [मानव धर्म](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 34 | [मुक्त समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 35 | [Harleen](http://twitter.com/search?q=Harleen) | N/A |
-| 36 | [दहेज जैसी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%9c%e0%a5%88%e0%a4%b8%e0%a5%80) | N/A |
-| 37 | [Law Minister](http://twitter.com/search?q=Law+Minister) | N/A |
-| 38 | [SHIVANGI AS RAJPARI DEVLEKHA](http://twitter.com/search?q=SHIVANGI+AS+RAJPARI+DEVLEKHA) | N/A |
-| 39 | [इंडिया टुडे](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%9f%e0%a5%81%e0%a4%a1%e0%a5%87) | N/A |
-| 40 | [Sunil Chhetri](http://twitter.com/search?q=Sunil+Chhetri) | N/A |
-| 41 | [हिन्दू मुस्लिम सिख ईसाई](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%96+%e0%a4%88%e0%a4%b8%e0%a4%be%e0%a4%88) | N/A |
-| 42 | [अमर लोक](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b2%e0%a5%8b%e0%a4%95) | N/A |
-| 43 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 44 | [घंटे बिजली](http://twitter.com/search?q=%e0%a4%98%e0%a4%82%e0%a4%9f%e0%a5%87+%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80) | N/A |
-| 45 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
-| 46 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 47 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 48 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 49 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
-| 50 | [Pols](http://twitter.com/search?q=Pols) | N/A |
+| 14 | [HARSHAD CHOPDA WON IGA 2023](http://twitter.com/search?q=HARSHAD+CHOPDA+WON+IGA+2023) | N/A |
+| 15 | [Deepti S & Punam R](http://twitter.com/search?q=Deepti+S+%26+Punam+R) | N/A |
+| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 17 | [KKUNDRRA GRACING ICONIC AWARDS](http://twitter.com/search?q=KKUNDRRA+GRACING+ICONIC+AWARDS) | N/A |
+| 18 | [Sushant Stirs Emotion](http://twitter.com/search?q=Sushant+Stirs+Emotion) | N/A |
+| 19 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 20 | [BEKAABOO ON COLORS](http://twitter.com/search?q=BEKAABOO+ON+COLORS) | N/A |
+| 21 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 22 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 23 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 24 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 26 | [HANDSOME PRATIK IN IGA](http://twitter.com/search?q=HANDSOME+PRATIK+IN+IGA) | N/A |
+| 27 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 28 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 30 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 31 | [Vishal Kaith](http://twitter.com/search?q=Vishal+Kaith) | N/A |
+| 32 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 33 | [काला टीका](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9f%e0%a5%80%e0%a4%95%e0%a4%be) | N/A |
+| 34 | [Roy Krishna](http://twitter.com/search?q=Roy+Krishna) | N/A |
+| 35 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 36 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 37 | [Sant Rampal Ji Maharaj Ji](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+Ji) | N/A |
+| 38 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 39 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 40 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
+| 41 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 42 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 43 | [मानव समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 44 | [Peepal](http://twitter.com/search?q=Peepal) | N/A |
+| 45 | [Chris Gayle](http://twitter.com/search?q=Chris+Gayle) | N/A |
+| 46 | [वारिस पंजाब](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac) | N/A |
+| 47 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 48 | [Law Minister](http://twitter.com/search?q=Law+Minister) | N/A |
+| 49 | [Pols](http://twitter.com/search?q=Pols) | N/A |
+| 50 | [दहेज जैसी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%9c%e0%a5%88%e0%a4%b8%e0%a5%80) | N/A |
 
 
 

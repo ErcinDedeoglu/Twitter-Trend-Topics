@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-18 17:17:17 UTC`
+📆 Last Updated: `2023-03-18 18:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 2 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [#HijoBobo](http://twitter.com/search?q=%23HijoBobo) | N/A |
-| 5 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
-| 6 | [#VamosIdolo](http://twitter.com/search?q=%23VamosIdolo) | N/A |
-| 7 | [El Triunfo](http://twitter.com/search?q=El+Triunfo) | N/A |
-| 8 | [Valle Hermoso](http://twitter.com/search?q=Valle+Hermoso) | N/A |
-| 9 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 11 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
-| 12 | [Junior Roldán](http://twitter.com/search?q=Junior+Rold%c3%a1n) | N/A |
-| 13 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
-| 14 | [Pichincha](http://twitter.com/search?q=Pichincha) | N/A |
-| 15 | [Puerto Quito](http://twitter.com/search?q=Puerto+Quito) | N/A |
-| 16 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 17 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 18 | [Gualaceo](http://twitter.com/search?q=Gualaceo) | N/A |
-| 19 | [HATER SONG X A BRAVO](http://twitter.com/search?q=HATER+SONG+X+A+BRAVO) | N/A |
-| 20 | [Johanna](http://twitter.com/search?q=Johanna) | N/A |
-| 21 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 23 | [Rausch](http://twitter.com/search?q=Rausch) | N/A |
-| 24 | [tomson minda](http://twitter.com/search?q=tomson+minda) | N/A |
-| 25 | [Rodrigo Borja](http://twitter.com/search?q=Rodrigo+Borja) | N/A |
-| 26 | [jorge andrade cantos](http://twitter.com/search?q=jorge+andrade+cantos) | N/A |
-| 27 | [Orense](http://twitter.com/search?q=Orense) | N/A |
-| 28 | [FECHA 3](http://twitter.com/search?q=FECHA+3) | N/A |
-| 29 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
-| 30 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 31 | [robert burbano](http://twitter.com/search?q=robert+burbano) | N/A |
-| 32 | [marlon mejía](http://twitter.com/search?q=marlon+mej%c3%ada) | N/A |
-| 33 | [guasmo sur](http://twitter.com/search?q=guasmo+sur) | N/A |
-| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 35 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 36 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 37 | [diplomado](http://twitter.com/search?q=diplomado) | N/A |
-| 38 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
-| 39 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 40 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 41 | [FUNDAMEDIOS](http://twitter.com/search?q=FUNDAMEDIOS) | N/A |
-| 42 | [Luchito](http://twitter.com/search?q=Luchito) | N/A |
-| 43 | [Lolo Miño](http://twitter.com/search?q=Lolo+Mi%c3%b1o) | N/A |
-| 44 | [Nelsa Curbelo](http://twitter.com/search?q=Nelsa+Curbelo) | N/A |
-| 45 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
-| 46 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 47 | [Tsáchilas](http://twitter.com/search?q=Ts%c3%a1chilas) | N/A |
-| 48 | [CONAIE](http://twitter.com/search?q=CONAIE) | N/A |
-| 49 | [Mama Lucha](http://twitter.com/search?q=Mama+Lucha) | N/A |
-| 50 | [Lorenza](http://twitter.com/search?q=Lorenza) | N/A |
+| 1 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 2 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 3 | [Balao](http://twitter.com/search?q=Balao) | N/A |
+| 4 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
+| 5 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
+| 6 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 7 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
+| 8 | [Guayas](http://twitter.com/search?q=Guayas) | N/A |
+| 9 | [Bonafont](http://twitter.com/search?q=Bonafont) | N/A |
+| 10 | [En Quito](http://twitter.com/search?q=En+Quito) | N/A |
+| 11 | [#Machala](http://twitter.com/search?q=%23Machala) | N/A |
+| 12 | [calle Sucre](http://twitter.com/search?q=calle+Sucre) | N/A |
+| 13 | [2.78 Longitud](http://twitter.com/search?q=2.78+Longitud) | N/A |
+| 14 | [Centro Histórico](http://twitter.com/search?q=Centro+Hist%c3%b3rico) | N/A |
+| 15 | [79.93 Ecuador](http://twitter.com/search?q=79.93+Ecuador) | N/A |
+| 16 | [Puerto Bolívar](http://twitter.com/search?q=Puerto+Bol%c3%advar) | N/A |
+| 17 | [Wachito](http://twitter.com/search?q=Wachito) | N/A |
+| 18 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 19 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 20 | [Puná](http://twitter.com/search?q=Pun%c3%a1) | N/A |
+| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 22 | [6.5 Profundidad](http://twitter.com/search?q=6.5+Profundidad) | N/A |
+| 23 | [Loja](http://twitter.com/search?q=Loja) | N/A |
+| 24 | [Chillos](http://twitter.com/search?q=Chillos) | N/A |
+| 25 | [Epicentro](http://twitter.com/search?q=Epicentro) | N/A |
+| 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 27 | [Magnitud](http://twitter.com/search?q=Magnitud) | N/A |
+| 28 | [río Blanco](http://twitter.com/search?q=r%c3%ado+Blanco) | N/A |
+| 29 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 30 | [Manabí](http://twitter.com/search?q=Manab%c3%ad) | N/A |
+| 31 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 32 | [Ambato](http://twitter.com/search?q=Ambato) | N/A |
+| 33 | [Portoviejo](http://twitter.com/search?q=Portoviejo) | N/A |
+| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 35 | [Babahoyo](http://twitter.com/search?q=Babahoyo) | N/A |
+| 36 | [El Triunfo](http://twitter.com/search?q=El+Triunfo) | N/A |
+| 37 | [Horrible](http://twitter.com/search?q=Horrible) | N/A |
+| 38 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 39 | [Riobamba](http://twitter.com/search?q=Riobamba) | N/A |
+| 40 | [Asustados](http://twitter.com/search?q=Asustados) | N/A |
+| 41 | [Abogado](http://twitter.com/search?q=Abogado) | N/A |
+| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 43 | [Junior Roldán](http://twitter.com/search?q=Junior+Rold%c3%a1n) | N/A |
+| 44 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 45 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 46 | [Sisi](http://twitter.com/search?q=Sisi) | N/A |
+| 47 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
+| 48 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 49 | [Johanna](http://twitter.com/search?q=Johanna) | N/A |
+| 50 | [HATER SONG X A BRAVO](http://twitter.com/search?q=HATER+SONG+X+A+BRAVO) | N/A |
 
 
 

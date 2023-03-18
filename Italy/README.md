@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-18 17:17:18 UTC`
+📆 Last Updated: `2023-03-18 18:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nardella](http://twitter.com/search?q=Nardella) | N/A |
-| 2 | [#18marzo](http://twitter.com/search?q=%2318marzo) | N/A |
-| 3 | [#iostocondaniele](http://twitter.com/search?q=%23iostocondaniele) | N/A |
-| 4 | [#MilanoSanremo](http://twitter.com/search?q=%23MilanoSanremo) | N/A |
-| 5 | [CGIL](http://twitter.com/search?q=CGIL) | N/A |
-| 6 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 9 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
-| 10 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 11 | [Palazzo Vecchio](http://twitter.com/search?q=Palazzo+Vecchio) | N/A |
-| 12 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
-| 13 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
-| 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 15 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 16 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 19 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 20 | [Bella Ciao](http://twitter.com/search?q=Bella+Ciao) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 23 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 24 | [Jerry Calà](http://twitter.com/search?q=Jerry+Cal%c3%a0) | N/A |
-| 25 | [Casualmente](http://twitter.com/search?q=Casualmente) | N/A |
-| 26 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 27 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 28 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 29 | [San Patrizio](http://twitter.com/search?q=San+Patrizio) | N/A |
-| 30 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 31 | [Sicilia](http://twitter.com/search?q=Sicilia) | N/A |
-| 32 | [Carlos Augusto](http://twitter.com/search?q=Carlos+Augusto) | N/A |
-| 33 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 34 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 35 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
-| 36 | [venerdì 17](http://twitter.com/search?q=venerd%c3%ac+17) | N/A |
-| 37 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 39 | [Sindaco](http://twitter.com/search?q=Sindaco) | N/A |
-| 40 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 41 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 42 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 43 | [Pascale](http://twitter.com/search?q=Pascale) | N/A |
-| 44 | [Milosevic](http://twitter.com/search?q=Milosevic) | N/A |
-| 45 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 46 | [Nonna Giuly](http://twitter.com/search?q=Nonna+Giuly) | N/A |
-| 47 | [Cile](http://twitter.com/search?q=Cile) | N/A |
-| 48 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
-| 49 | [Ferragni](http://twitter.com/search?q=Ferragni) | N/A |
-| 50 | [Lavabile](http://twitter.com/search?q=Lavabile) | N/A |
+| 1 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 2 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 3 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 5 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 6 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 7 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 8 | [#SkyMotori](http://twitter.com/search?q=%23SkyMotori) | N/A |
+| 9 | [#RegginaCagliari](http://twitter.com/search?q=%23RegginaCagliari) | N/A |
+| 10 | [#MilanoSanremo](http://twitter.com/search?q=%23MilanoSanremo) | N/A |
+| 11 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
+| 12 | [#GPArabiaSaudita](http://twitter.com/search?q=%23GPArabiaSaudita) | N/A |
+| 13 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 14 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
+| 15 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 16 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 17 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 18 | [Sindaco](http://twitter.com/search?q=Sindaco) | N/A |
+| 19 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 20 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 21 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 22 | [#SalernitanaBologna](http://twitter.com/search?q=%23SalernitanaBologna) | N/A |
+| 23 | [#famigliearcobaleno](http://twitter.com/search?q=%23famigliearcobaleno) | N/A |
+| 24 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
+| 25 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
+| 26 | [#forzacasteddu](http://twitter.com/search?q=%23forzacasteddu) | N/A |
+| 27 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 28 | [#JuveMilan](http://twitter.com/search?q=%23JuveMilan) | N/A |
+| 29 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 30 | [#JuventusWomen](http://twitter.com/search?q=%23JuventusWomen) | N/A |
+| 31 | [#MaloreImprovviso](http://twitter.com/search?q=%23MaloreImprovviso) | N/A |
+| 32 | [#MonzaCremonese](http://twitter.com/search?q=%23MonzaCremonese) | N/A |
+| 33 | [#18marzo](http://twitter.com/search?q=%2318marzo) | N/A |
+| 34 | [#SerieB](http://twitter.com/search?q=%23SerieB) | N/A |
+| 35 | [#LeVostreFotoPiuBelle](http://twitter.com/search?q=%23LeVostreFotoPiuBelle) | N/A |
+| 36 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
+| 37 | [#Genoa](http://twitter.com/search?q=%23Genoa) | N/A |
+| 38 | [#iostocondaniele](http://twitter.com/search?q=%23iostocondaniele) | N/A |
+| 39 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
+| 40 | [#IoNonDimentico](http://twitter.com/search?q=%23IoNonDimentico) | N/A |
+| 41 | [#UdineseMilan](http://twitter.com/search?q=%23UdineseMilan) | N/A |
+| 42 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 43 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 44 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 45 | [#EIlTempoSeNeVa](http://twitter.com/search?q=%23EIlTempoSeNeVa) | N/A |
 
 
 

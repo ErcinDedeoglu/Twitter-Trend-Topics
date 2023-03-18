@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-03-18 17:17:14 UTC`
+📆 Last Updated: `2023-03-18 18:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 2 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
-| 3 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 4 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 5 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 6 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 7 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
-| 8 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 9 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 10 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 11 | [Veronica Hardy](http://twitter.com/search?q=Veronica+Hardy) | N/A |
-| 12 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 13 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 14 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 15 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 16 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
-| 17 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 18 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 19 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 20 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 21 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 22 | [Juliana Miller](http://twitter.com/search?q=Juliana+Miller) | N/A |
-| 23 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 24 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 25 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 26 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 27 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 28 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 29 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
-| 30 | [Qevin](http://twitter.com/search?q=Qevin) | N/A |
-| 31 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 32 | [Theo Walcott](http://twitter.com/search?q=Theo+Walcott) | N/A |
-| 33 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 34 | [Volunteered](http://twitter.com/search?q=Volunteered) | N/A |
-| 35 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 36 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 37 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 38 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 39 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 40 | [Duke -3.5](http://twitter.com/search?q=Duke+-3.5) | N/A |
-| 41 | [Mr. Speaker](http://twitter.com/search?q=Mr.+Speaker) | N/A |
-| 42 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 43 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 44 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 45 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
-| 46 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 47 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 48 | [Boarders](http://twitter.com/search?q=Boarders) | N/A |
-| 49 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
+| 1 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 2 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
+| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 4 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
+| 5 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
+| 6 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 7 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 8 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 9 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 10 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 11 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 12 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 13 | [Jake Hadley](http://twitter.com/search?q=Jake+Hadley) | N/A |
+| 14 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 15 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
+| 16 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 17 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 19 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 20 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 21 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 22 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 24 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 25 | [Terrance Williams](http://twitter.com/search?q=Terrance+Williams) | N/A |
+| 26 | [TWill](http://twitter.com/search?q=TWill) | N/A |
+| 27 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 28 | [Veronica Hardy](http://twitter.com/search?q=Veronica+Hardy) | N/A |
+| 29 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 30 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 31 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 32 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
+| 33 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 34 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 35 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 36 | [Memorial Magic](http://twitter.com/search?q=Memorial+Magic) | N/A |
+| 37 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 38 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 40 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 41 | [Juwan Howard](http://twitter.com/search?q=Juwan+Howard) | Juwan Howard is an American professional basketball coach and former player. He is currently the head coach of the University of Michigan men's basketball team. The name Juwan is derived from the Hebrew name Yehochanan, which means "God is gracious". |
+| 42 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 43 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 44 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 45 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 46 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 47 | [Joanne Wood](http://twitter.com/search?q=Joanne+Wood) | N/A |
+| 48 | [Qevin](http://twitter.com/search?q=Qevin) | N/A |
+| 49 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
 
 
 

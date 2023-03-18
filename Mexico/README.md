@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-18 17:17:19 UTC`
+📆 Last Updated: `2023-03-18 18:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ExpropiaciónPetrolera](http://twitter.com/search?q=%23Expropiaci%c3%b3nPetrolera) | N/A |
-| 2 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 3 | [Lázaro Cárdenas del Río](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas+del+R%c3%ado) | N/A |
-| 4 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 5 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 6 | [#18DeMarzo](http://twitter.com/search?q=%2318DeMarzo) | N/A |
-| 7 | [Hoy 18](http://twitter.com/search?q=Hoy+18) | N/A |
-| 8 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
-| 9 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 10 | [El 18](http://twitter.com/search?q=El+18) | N/A |
-| 11 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 12 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 13 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 14 | [#ClasicoRegio129](http://twitter.com/search?q=%23ClasicoRegio129) | N/A |
-| 15 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 16 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 17 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
-| 18 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
-| 19 | [Presidente de México](http://twitter.com/search?q=Presidente+de+M%c3%a9xico) | N/A |
-| 20 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 21 | [Cerdo](http://twitter.com/search?q=Cerdo) | N/A |
-| 22 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 23 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
-| 24 | [Norma Lizbeth](http://twitter.com/search?q=Norma+Lizbeth) | N/A |
-| 25 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 26 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 27 | [Eras Tour](http://twitter.com/search?q=Eras+Tour) | N/A |
-| 28 | [#MarchaDelArdor](http://twitter.com/search?q=%23MarchaDelArdor) | N/A |
-| 29 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
-| 30 | [#ClasicoNacional](http://twitter.com/search?q=%23ClasicoNacional) | N/A |
-| 31 | [#PorElRescateDeLaSoberanía](http://twitter.com/search?q=%23PorElRescateDeLaSoberan%c3%ada) | N/A |
-| 32 | [#EsUnHonorEstarConObrador](http://twitter.com/search?q=%23EsUnHonorEstarConObrador) | N/A |
-| 33 | [#ClasicoDeMexico](http://twitter.com/search?q=%23ClasicoDeMexico) | N/A |
-| 34 | [#OvidioNoSeToca](http://twitter.com/search?q=%23OvidioNoSeToca) | N/A |
-| 35 | [#VL23](http://twitter.com/search?q=%23VL23) | N/A |
-| 36 | [#YoutubeCorrupt](http://twitter.com/search?q=%23YoutubeCorrupt) | N/A |
+| 1 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 2 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 4 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 5 | [#ExpropiaciónPetrolera](http://twitter.com/search?q=%23Expropiaci%c3%b3nPetrolera) | N/A |
+| 6 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
+| 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 8 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 9 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 10 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 11 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 12 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
+| 13 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
+| 14 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 15 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 16 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 17 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 18 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 19 | [El 18](http://twitter.com/search?q=El+18) | N/A |
+| 20 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 21 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
+| 22 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 23 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 24 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 25 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 26 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 27 | [Hoy 18](http://twitter.com/search?q=Hoy+18) | N/A |
+| 28 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 29 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 30 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 31 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 32 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
+| 33 | [Presidente de México](http://twitter.com/search?q=Presidente+de+M%c3%a9xico) | N/A |
+| 34 | [Cerdo](http://twitter.com/search?q=Cerdo) | N/A |
+| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 36 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
+| 37 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 38 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 39 | [Eras Tour](http://twitter.com/search?q=Eras+Tour) | N/A |
+| 40 | [Reynosa](http://twitter.com/search?q=Reynosa) | N/A |
+| 41 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 42 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 43 | [#18DeMarzo](http://twitter.com/search?q=%2318DeMarzo) | N/A |
+| 44 | [#Ecuador](http://twitter.com/search?q=%23Ecuador) | N/A |
+| 45 | [#NeverGiveUp](http://twitter.com/search?q=%23NeverGiveUp) | N/A |
+| 46 | [#MarchaDelArdor](http://twitter.com/search?q=%23MarchaDelArdor) | N/A |
+| 47 | [#RedBull](http://twitter.com/search?q=%23RedBull) | N/A |
+| 48 | [#4DXavi](http://twitter.com/search?q=%234DXavi) | N/A |
+| 49 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
+| 50 | [#SoberaníaEnergética](http://twitter.com/search?q=%23Soberan%c3%adaEnerg%c3%a9tica) | N/A |
 
 
 
