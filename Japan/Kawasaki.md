@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-03-18 12:17:58 UTC`
+📆 Last Updated: `2023-03-18 13:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#frontale](http://twitter.com/search?q=%23frontale) | N/A |
-| 2 | [問題提起](http://twitter.com/search?q=%e5%95%8f%e9%a1%8c%e6%8f%90%e8%b5%b7) | N/A |
-| 3 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
-| 4 | [#heroaca_a](http://twitter.com/search?q=%23heroaca_a) | N/A |
-| 5 | [#ミリビリ](http://twitter.com/search?q=%23%e3%83%9f%e3%83%aa%e3%83%93%e3%83%aa) | N/A |
-| 6 | [センバツ](http://twitter.com/search?q=%e3%82%bb%e3%83%b3%e3%83%90%e3%83%84) | センバツ (Senbatsu) is a Japanese term that refers to a selection of the best players from a team or group. It is often used in sports, such as baseball and soccer, to refer to the top players who are chosen to represent the team in important competitions. In English, it can be translated as "All-Star Team" or "Elite Team". |
+| 1 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
+| 2 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
+| 3 | [東北佐藤監督](http://twitter.com/search?q=%e6%9d%b1%e5%8c%97%e4%bd%90%e8%97%a4%e7%9b%a3%e7%9d%a3) | N/A |
+| 4 | [#frontale](http://twitter.com/search?q=%23frontale) | N/A |
+| 5 | [鈴木優磨](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e5%84%aa%e7%a3%a8) | N/A |
+| 6 | [問題提起](http://twitter.com/search?q=%e5%95%8f%e9%a1%8c%e6%8f%90%e8%b5%b7) | N/A |
 | 7 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 8 | [#川崎ブレイブサンダース](http://twitter.com/search?q=%23%e5%b7%9d%e5%b4%8e%e3%83%96%e3%83%ac%e3%82%a4%e3%83%96%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%82%b9) | N/A |
-| 9 | [鈴木優磨](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e5%84%aa%e7%a3%a8) | N/A |
-| 10 | [#fmarinos](http://twitter.com/search?q=%23fmarinos) | N/A |
-| 11 | [阪神大賞典](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e5%a4%a7%e8%b3%9e%e5%85%b8) | N/A |
-| 12 | [トークショー](http://twitter.com/search?q=%e3%83%88%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%bc) | N/A |
-| 13 | [シュート](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%88) | シュート is a Japanese word that means "shoot" or "shooting". It is used to refer to shooting a basketball, soccer ball, or other type of ball. It can also be used to refer to shooting a gun. |
-| 14 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
-| 15 | [新横浜駅](http://twitter.com/search?q=%e6%96%b0%e6%a8%aa%e6%b5%9c%e9%a7%85) | N/A |
-| 16 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 17 | [シン・仮面ライダー](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%bb%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 18 | [ファルコンS](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ab%e3%82%b3%e3%83%b3S) | N/A |
-| 19 | [メタバース](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 20 | [武蔵小杉](http://twitter.com/search?q=%e6%ad%a6%e8%94%b5%e5%b0%8f%e6%9d%89) | N/A |
-| 21 | [エアリアル](http://twitter.com/search?q=%e3%82%a8%e3%82%a2%e3%83%aa%e3%82%a2%e3%83%ab) | エアリアル (Eariaru) is a Japanese word that means "airy" or "ethereal". It is often used to describe something that has a light, airy, or dreamlike quality. |
-| 22 | [日産スタジアム](http://twitter.com/search?q=%e6%97%a5%e7%94%a3%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%a2%e3%83%a0) | 日産スタジアム is a multi-purpose stadium located in Yokohama, Japan. It is primarily used for football matches and is the home stadium of Yokohama F. Marinos. The name Nissan Stadium comes from the fact that it was built by Nissan Motors, who also sponsor the team. In English, it is known as Nissan Stadium. |
-| 23 | [相手のエラー](http://twitter.com/search?q=%e7%9b%b8%e6%89%8b%e3%81%ae%e3%82%a8%e3%83%a9%e3%83%bc) | N/A |
-| 24 | [人身事故](http://twitter.com/search?q=%e4%ba%ba%e8%ba%ab%e4%ba%8b%e6%95%85) | 人身事故 (Jinshin Jiko) is a Japanese term meaning "personal injury accident". It is used to refer to any type of accident that results in physical injury or death. |
+| 8 | [阪神大賞典](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e5%a4%a7%e8%b3%9e%e5%85%b8) | N/A |
+| 9 | [#ポケモンGO](http://twitter.com/search?q=%23%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3GO) | #ポケモンGO is a hashtag used on social media to refer to the popular augmented reality mobile game Pokémon GO. In English, it translates to "Pokémon GO". |
+| 10 | [#ドッカンバトル](http://twitter.com/search?q=%23%e3%83%89%e3%83%83%e3%82%ab%e3%83%b3%e3%83%90%e3%83%88%e3%83%ab) | #ドッカンバトル is a Japanese mobile game developed by Bandai Namco Entertainment. It is a card battle game where players collect cards featuring characters from the Dragon Ball series and use them to battle against other players. The name of the game translates to "Dragon Ball Battle" in English. |
+| 11 | [#川崎ブレイブサンダース](http://twitter.com/search?q=%23%e5%b7%9d%e5%b4%8e%e3%83%96%e3%83%ac%e3%82%a4%e3%83%96%e3%82%b5%e3%83%b3%e3%83%80%e3%83%bc%e3%82%b9) | N/A |
+| 12 | [#向井康二](http://twitter.com/search?q=%23%e5%90%91%e4%ba%95%e5%ba%b7%e4%ba%8c) | #向井康二 is a hashtag used to commemorate the Japanese actor Kōji Yakusho. He is best known for his roles in films such as Shall We Dance?, Babel, and 13 Assassins. The hashtag is used to celebrate his career and to express appreciation for his work. |
+| 13 | [コミュデイ](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%87%e3%82%a4) | コミュデイ is a Japanese term that translates to "community day." It is used to refer to a day when people come together to celebrate their community and its culture. It can also be used to refer to a day when people come together for a specific purpose, such as volunteering or fundraising. |
+| 14 | [トークショー](http://twitter.com/search?q=%e3%83%88%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%bc) | N/A |
+| 15 | [シュート](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%88) | シュート is a Japanese word that means "shoot" or "shooting". It is used to refer to shooting a basketball, soccer ball, or other type of ball. It can also be used to refer to shooting a gun. |
+| 16 | [センバツ](http://twitter.com/search?q=%e3%82%bb%e3%83%b3%e3%83%90%e3%83%84) | センバツ (Senbatsu) is a Japanese term that refers to a selection of the best players from a team or group. It is often used in sports, such as baseball and soccer, to refer to the top players who are chosen to represent the team in important competitions. In English, it can be translated as "All-Star Team" or "Elite Team". |
+| 17 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
+| 18 | [エアリアル](http://twitter.com/search?q=%e3%82%a8%e3%82%a2%e3%83%aa%e3%82%a2%e3%83%ab) | エアリアル (Eariaru) is a Japanese word that means "airy" or "ethereal". It is often used to describe something that has a light, airy, or dreamlike quality. |
+| 19 | [パーフェクト](http://twitter.com/search?q=%e3%83%91%e3%83%bc%e3%83%95%e3%82%a7%e3%82%af%e3%83%88) | N/A |
+| 20 | [相手のエラー](http://twitter.com/search?q=%e7%9b%b8%e6%89%8b%e3%81%ae%e3%82%a8%e3%83%a9%e3%83%bc) | N/A |
+| 21 | [ヒロアカ](http://twitter.com/search?q=%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab) | ヒロアカ is an abbreviation for the Japanese manga and anime series, My Hero Academia. It is a story about a young boy named Izuku Midoriya who dreams of becoming a superhero despite having no superpowers of his own. The English translation of ヒロアカ is My Hero Academia. |
+| 22 | [最高のライブ](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96) | "最高のライブ" is a Japanese phrase that translates to "the best live performance". It is used to describe a live performance that is particularly impressive or memorable. |
+| 23 | [ペッパーミル](http://twitter.com/search?q=%e3%83%9a%e3%83%83%e3%83%91%e3%83%bc%e3%83%9f%e3%83%ab) | N/A |
+| 24 | [青春コンプレックス](http://twitter.com/search?q=%e9%9d%92%e6%98%a5%e3%82%b3%e3%83%b3%e3%83%97%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9) | N/A |
 | 25 | [Zepp](http://twitter.com/search?q=Zepp) | N/A |
-| 26 | [青春コンプレックス](http://twitter.com/search?q=%e9%9d%92%e6%98%a5%e3%82%b3%e3%83%b3%e3%83%97%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 27 | [ペッパーミル](http://twitter.com/search?q=%e3%83%9a%e3%83%83%e3%83%91%e3%83%bc%e3%83%9f%e3%83%ab) | N/A |
-| 28 | [SPECIAL STUDIO LIVE](http://twitter.com/search?q=SPECIAL+STUDIO+LIVE) | N/A |
-| 29 | [高校野球](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e9%87%8e%e7%90%83) | N/A |
-| 30 | [アイマス最高](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b9%e6%9c%80%e9%ab%98) | アイマス最高 is a phrase used to express enthusiasm for the video game series The Idolmaster. It translates to "The Idolmaster is the best!" |
-| 31 | [マナリア](http://twitter.com/search?q=%e3%83%9e%e3%83%8a%e3%83%aa%e3%82%a2) | N/A |
-| 32 | [糸井さん](http://twitter.com/search?q=%e7%b3%b8%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 33 | [LIVE映像](http://twitter.com/search?q=LIVE%e6%98%a0%e5%83%8f) | N/A |
-| 34 | [お茶子ちゃん](http://twitter.com/search?q=%e3%81%8a%e8%8c%b6%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | お茶子ちゃん is a nickname for the Japanese character Chakochan, who is a popular mascot character created by the Japanese company Takara Tomy. The name literally translates to "Tea Child" and is often used as an affectionate term for young children. |
-| 35 | [初音ミクコラボ](http://twitter.com/search?q=%e5%88%9d%e9%9f%b3%e3%83%9f%e3%82%af%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 36 | [セトリ落ち](http://twitter.com/search?q=%e3%82%bb%e3%83%88%e3%83%aa%e8%90%bd%e3%81%a1) | N/A |
-| 37 | [メイシア](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b7%e3%82%a2) | N/A |
-| 38 | [アンティーカ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc%e3%82%ab) | N/A |
-| 39 | [ノクチル](http://twitter.com/search?q=%e3%83%8e%e3%82%af%e3%83%81%e3%83%ab) | N/A |
-| 40 | [ラミリス](http://twitter.com/search?q=%e3%83%a9%e3%83%9f%e3%83%aa%e3%82%b9) | N/A |
-| 41 | [yueさん](http://twitter.com/search?q=yue%e3%81%95%e3%82%93) | N/A |
-| 42 | [FENNEL](http://twitter.com/search?q=FENNEL) | Fennel is a plant with a mild, anise-like flavor and aroma. It is used in cooking, as a medicinal herb, and as an ornamental plant. In English, fennel can refer to either the plant or its seeds. |
-| 43 | [チャリ通ジャーニー](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%aa%e9%80%9a%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8b%e3%83%bc) | N/A |
-| 44 | [打ち上げガシャ](http://twitter.com/search?q=%e6%89%93%e3%81%a1%e4%b8%8a%e3%81%92%e3%82%ac%e3%82%b7%e3%83%a3) | N/A |
-| 45 | [holoX](http://twitter.com/search?q=holoX) | N/A |
-| 46 | [すいちゃん](http://twitter.com/search?q=%e3%81%99%e3%81%84%e3%81%a1%e3%82%83%e3%82%93) | すいちゃん is a term of endearment used in Japan to refer to an older brother or male friend. It is a combination of the words "sui" (older brother) and "chan" (a suffix used to indicate familiarity or endearment). In English, it could be translated as "big brother" or "dear friend". |
-| 47 | [矢不くん](http://twitter.com/search?q=%e7%9f%a2%e4%b8%8d%e3%81%8f%e3%82%93) | N/A |
-| 48 | [day2](http://twitter.com/search?q=day2) | N/A |
-| 49 | [バックなし](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%82%af%e3%81%aa%e3%81%97) | N/A |
-| 50 | [ネオスカ](http://twitter.com/search?q=%e3%83%8d%e3%82%aa%e3%82%b9%e3%82%ab) | N/A |
+| 26 | [SPECIAL STUDIO LIVE](http://twitter.com/search?q=SPECIAL+STUDIO+LIVE) | N/A |
+| 27 | [人身事故](http://twitter.com/search?q=%e4%ba%ba%e8%ba%ab%e4%ba%8b%e6%95%85) | 人身事故 (Jinshin Jiko) is a Japanese term meaning "personal injury accident". It is used to refer to any type of accident that results in physical injury or death. |
+| 28 | [目黒くん](http://twitter.com/search?q=%e7%9b%ae%e9%bb%92%e3%81%8f%e3%82%93) | N/A |
+| 29 | [セトリ落ち](http://twitter.com/search?q=%e3%82%bb%e3%83%88%e3%83%aa%e8%90%bd%e3%81%a1) | N/A |
+| 30 | [LIVE映像](http://twitter.com/search?q=LIVE%e6%98%a0%e5%83%8f) | N/A |
+| 31 | [holoX](http://twitter.com/search?q=holoX) | N/A |
+| 32 | [うさほー](http://twitter.com/search?q=%e3%81%86%e3%81%95%e3%81%bb%e3%83%bc) | N/A |
+| 33 | [ヒッパレ](http://twitter.com/search?q=%e3%83%92%e3%83%83%e3%83%91%e3%83%ac) | N/A |
+| 34 | [高校野球](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e9%87%8e%e7%90%83) | N/A |
+| 35 | [マナリア](http://twitter.com/search?q=%e3%83%9e%e3%83%8a%e3%83%aa%e3%82%a2) | N/A |
+| 36 | [すいちゃん](http://twitter.com/search?q=%e3%81%99%e3%81%84%e3%81%a1%e3%82%83%e3%82%93) | すいちゃん is a term of endearment used in Japan to refer to an older brother or male friend. It is a combination of the words "sui" (older brother) and "chan" (a suffix used to indicate familiarity or endearment). In English, it could be translated as "big brother" or "dear friend". |
+| 37 | [寝起きダンス](http://twitter.com/search?q=%e5%af%9d%e8%b5%b7%e3%81%8d%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
+| 38 | [day2](http://twitter.com/search?q=day2) | N/A |
+| 39 | [アイマス最高](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b9%e6%9c%80%e9%ab%98) | アイマス最高 is a phrase used to express enthusiasm for the video game series The Idolmaster. It translates to "The Idolmaster is the best!" |
+| 40 | [サクラカゼ](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e3%82%ab%e3%82%bc) | N/A |
+| 41 | [初音ミクコラボ](http://twitter.com/search?q=%e5%88%9d%e9%9f%b3%e3%83%9f%e3%82%af%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 42 | [めめすごい](http://twitter.com/search?q=%e3%82%81%e3%82%81%e3%81%99%e3%81%94%e3%81%84) | N/A |
+| 43 | [ライブ最高](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%96%e6%9c%80%e9%ab%98) | ライブ最高 is a Japanese phrase that translates to "Live is the Best". It is used to express enthusiasm for live performances, such as concerts or plays. |
+| 44 | [ノクチル](http://twitter.com/search?q=%e3%83%8e%e3%82%af%e3%83%81%e3%83%ab) | N/A |
+| 45 | [シャニP](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%8bP) | N/A |
+| 46 | [ネオスカ](http://twitter.com/search?q=%e3%83%8d%e3%82%aa%e3%82%b9%e3%82%ab) | N/A |
+| 47 | [糸井さん](http://twitter.com/search?q=%e7%b3%b8%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 48 | [メイシア](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b7%e3%82%a2) | N/A |
+| 49 | [青空レストラン](http://twitter.com/search?q=%e9%9d%92%e7%a9%ba%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3) | N/A |
+| 50 | [常夜リペイント](http://twitter.com/search?q=%e5%b8%b8%e5%a4%9c%e3%83%aa%e3%83%9a%e3%82%a4%e3%83%b3%e3%83%88) | N/A |
 
 
 

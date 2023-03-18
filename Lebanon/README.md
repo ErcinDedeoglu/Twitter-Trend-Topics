@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-18 12:18:27 UTC`
+📆 Last Updated: `2023-03-18 13:20:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Lebanon
 | ------- | ------------ | ------------ |
 | 1 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
 | 2 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
-| 3 | [#بعلبك_والقسم_المبين](http://twitter.com/search?q=%23%d8%a8%d8%b9%d9%84%d8%a8%d9%83_%d9%88%d8%a7%d9%84%d9%82%d8%b3%d9%85_%d8%a7%d9%84%d9%85%d8%a8%d9%8a%d9%86) | N/A |
-| 4 | [المحكمه الجناييه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 5 | [النازحين السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 6 | [#رياض_سلامه](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d8%b6_%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 7 | [بشير خضر](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%ae%d8%b6%d8%b1) | N/A |
-| 8 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 9 | [#thestage](http://twitter.com/search?q=%23thestage) | N/A |
-| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
-| 12 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 13 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 14 | [وزير الخارجيه التركي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 15 | [النازح السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 16 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 17 | [قصر عدل بيروت](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%b9%d8%af%d9%84+%d8%a8%d9%8a%d8%b1%d9%88%d8%aa) | N/A |
-| 18 | [التيار الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 19 | [بعلبك الهرمل](http://twitter.com/search?q=%d8%a8%d8%b9%d9%84%d8%a8%d9%83+%d8%a7%d9%84%d9%87%d8%b1%d9%85%d9%84) | N/A |
-| 20 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 21 | [البنوك الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 22 | [ايا صوفيا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%a7+%d8%b5%d9%88%d9%81%d9%8a%d8%a7) | N/A |
-| 23 | [عمران خان](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d8%a7%d9%86+%d8%ae%d8%a7%d9%86) | N/A |
-| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [حسن خليل](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 27 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 28 | [قادر علي](http://twitter.com/search?q=%d9%82%d8%a7%d8%af%d8%b1+%d8%b9%d9%84%d9%8a) | N/A |
-| 29 | [قصر العدل](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
-| 30 | [خديجه الكبري](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 31 | [الاسف الشديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d9%81+%d8%a7%d9%84%d8%b4%d8%af%d9%8a%d8%af) | N/A |
-| 32 | [مار يوسف](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 3 | [النواب المسيحيين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%8a%d9%86) | N/A |
+| 4 | [#بعلبك_والقسم_المبين](http://twitter.com/search?q=%23%d8%a8%d8%b9%d9%84%d8%a8%d9%83_%d9%88%d8%a7%d9%84%d9%82%d8%b3%d9%85_%d8%a7%d9%84%d9%85%d8%a8%d9%8a%d9%86) | N/A |
+| 5 | [بشير خضر](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%ae%d8%b6%d8%b1) | N/A |
+| 6 | [النازحين السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 7 | [الجناييه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
+| 10 | [التيار الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 11 | [#thestage](http://twitter.com/search?q=%23thestage) | N/A |
+| 12 | [#بوتين](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
+| 13 | [وزير الخارجيه التركي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 14 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 15 | [بعلبك الهرمل](http://twitter.com/search?q=%d8%a8%d8%b9%d9%84%d8%a8%d9%83+%d8%a7%d9%84%d9%87%d8%b1%d9%85%d9%84) | N/A |
+| 16 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 17 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 18 | [النازح السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 19 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 20 | [حسن خليل](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [بسوريا](http://twitter.com/search?q=%d8%a8%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 23 | [البنوك الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 24 | [ايا صوفيا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%a7+%d8%b5%d9%88%d9%81%d9%8a%d8%a7) | N/A |
+| 25 | [عمران خان](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d8%a7%d9%86+%d8%ae%d8%a7%d9%86) | N/A |
+| 26 | [خديجه الكبري](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 29 | [قادر علي](http://twitter.com/search?q=%d9%82%d8%a7%d8%af%d8%b1+%d8%b9%d9%84%d9%8a) | N/A |
+| 30 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 31 | [مار يوسف](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 32 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 33 | [الوفد الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 34 | [الوفد القضايي الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 35 | [حسين الشامي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%8a) | N/A |
-| 36 | [وزارة المالية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9) | N/A |
-| 37 | [عبدالله](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 38 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
-| 39 | [علي الاكاذيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%83%d8%a7%d8%b0%d9%8a%d8%a8) | N/A |
-| 40 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 41 | [اندريه](http://twitter.com/search?q=%d8%a7%d9%86%d8%af%d8%b1%d9%8a%d9%87) | N/A |
-| 42 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 43 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 44 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 45 | [لال سعود](http://twitter.com/search?q=%d9%84%d8%a7%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 46 | [الرييس الروسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |
-| 47 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
-| 48 | [موسى الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
-| 49 | [ابن الحرام](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
-| 50 | [علي الخارج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac) | N/A |
+| 34 | [قصر العدل](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
+| 35 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 36 | [الوفد القضايي الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 37 | [وزارة المالية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9) | N/A |
+| 38 | [حسين الشامي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%8a) | N/A |
+| 39 | [عبدالله](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 40 | [علي الاكاذيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%83%d8%a7%d8%b0%d9%8a%d8%a8) | N/A |
+| 41 | [بشار الأسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a3%d8%b3%d8%af) | N/A |
+| 42 | [اندريه](http://twitter.com/search?q=%d8%a7%d9%86%d8%af%d8%b1%d9%8a%d9%87) | N/A |
+| 43 | [الرييس الروسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |
+| 44 | [الاسبوع المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 45 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
+| 46 | [لال سعود](http://twitter.com/search?q=%d9%84%d8%a7%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 47 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 48 | [ابن الحرام](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
+| 49 | [علي الخارج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac) | N/A |
+| 50 | [القاضيه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
 
 
 

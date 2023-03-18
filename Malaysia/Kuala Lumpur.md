@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-18 12:18:02 UTC`
+📆 Last Updated: `2023-03-18 13:19:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MOMO](http://twitter.com/search?q=MOMO) | MOMO is an acronym for "Mobile Money", which is a type of digital payment system that allows users to transfer money and make payments using their mobile phones. It is popular in many countries, particularly in Africa and Asia. |
+| 1 | [momo](http://twitter.com/search?q=momo) | N/A |
 | 2 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
 | 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 5 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
-| 6 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 7 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 8 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
-| 9 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
-| 10 | [CHOI SAN](http://twitter.com/search?q=CHOI+SAN) | N/A |
-| 11 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 12 | [ng tze yong](http://twitter.com/search?q=ng+tze+yong) | N/A |
-| 13 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 14 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 16 | [Lee zii jia](http://twitter.com/search?q=Lee+zii+jia) | N/A |
+| 4 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
+| 5 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
+| 6 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
+| 7 | [CHOI SAN](http://twitter.com/search?q=CHOI+SAN) | N/A |
+| 8 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 9 | [#ひろがるホロライブDAY1](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY1) | N/A |
+| 10 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
+| 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 13 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 14 | [JUNGWOO](http://twitter.com/search?q=JUNGWOO) | JUNGWOO is a Korean name that means "righteous and noble". |
+| 15 | [ng tze yong](http://twitter.com/search?q=ng+tze+yong) | N/A |
+| 16 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
 | 17 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 18 | [TICKETING SERVICE](http://twitter.com/search?q=TICKETING+SERVICE) | N/A |
-| 19 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 20 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
-| 21 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
-| 22 | [Naim](http://twitter.com/search?q=Naim) | N/A |
-| 23 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 19 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 20 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 21 | [another spanish](http://twitter.com/search?q=another+spanish) | N/A |
+| 22 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 23 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
 | 24 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 25 | [SET ME FREE 1ST SLAY](http://twitter.com/search?q=SET+ME+FREE+1ST+SLAY) | N/A |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 28 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 29 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 30 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
-| 31 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
-| 32 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 33 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 34 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 35 | [Mark Zuckerberg](http://twitter.com/search?q=Mark+Zuckerberg) | N/A |
-| 36 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
-| 37 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 38 | [Kuching](http://twitter.com/search?q=Kuching) | N/A |
-| 39 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 40 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 41 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 42 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 43 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
-| 44 | [KAHAR](http://twitter.com/search?q=KAHAR) | N/A |
-| 45 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 46 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 47 | [Yesssss](http://twitter.com/search?q=Yesssss) | N/A |
-| 48 | [Sana](http://twitter.com/search?q=Sana) | N/A |
-| 49 | [jinho](http://twitter.com/search?q=jinho) | N/A |
-| 50 | [ALL ROUNDER INTERN V](http://twitter.com/search?q=ALL+ROUNDER+INTERN+V) | N/A |
+| 25 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 26 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 27 | [SET ME FREE 1ST SLAY](http://twitter.com/search?q=SET+ME+FREE+1ST+SLAY) | N/A |
+| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [Kuching](http://twitter.com/search?q=Kuching) | N/A |
+| 30 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 31 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 32 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 33 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 34 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 35 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 36 | [Hyunsik](http://twitter.com/search?q=Hyunsik) | N/A |
+| 37 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 38 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 39 | [Sana](http://twitter.com/search?q=Sana) | N/A |
+| 40 | [Mark Zuckerberg](http://twitter.com/search?q=Mark+Zuckerberg) | N/A |
+| 41 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 42 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 43 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
+| 44 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 45 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
+| 46 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 47 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 48 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 49 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 50 | [KAHAR](http://twitter.com/search?q=KAHAR) | N/A |
 
 
 

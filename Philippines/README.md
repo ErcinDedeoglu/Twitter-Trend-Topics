@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-18 12:18:29 UTC`
+📆 Last Updated: `2023-03-18 13:20:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 2 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
-| 3 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 4 | [MOMO](http://twitter.com/search?q=MOMO) | MOMO is an acronym for "Mobile Money", which is a type of digital payment system that allows users to transfer money and make payments using their mobile phones. It is popular in many countries, particularly in Africa and Asia. |
-| 5 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 6 | [#ENHYPEN_JAY](http://twitter.com/search?q=%23ENHYPEN_JAY) | N/A |
-| 7 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 8 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
+| 1 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 2 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
+| 3 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
+| 4 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 5 | [#HORI7ONCanSeeYourVoice](http://twitter.com/search?q=%23HORI7ONCanSeeYourVoice) | N/A |
+| 6 | [HORI7ON ON ICSYV](http://twitter.com/search?q=HORI7ON+ON+ICSYV) | N/A |
+| 7 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 8 | [#ENHYPEN_JAY](http://twitter.com/search?q=%23ENHYPEN_JAY) | N/A |
 | 9 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
 | 10 | [Newsto KoYan With Jane](http://twitter.com/search?q=Newsto+KoYan+With+Jane) | N/A |
-| 11 | [BINI GWEN OUR SUPERMODEL](http://twitter.com/search?q=BINI+GWEN+OUR+SUPERMODEL) | N/A |
-| 12 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 13 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
-| 14 | [THE FUTURE IS VIBRENT](http://twitter.com/search?q=THE+FUTURE+IS+VIBRENT) | N/A |
-| 15 | [rtm ost is back](http://twitter.com/search?q=rtm+ost+is+back) | N/A |
-| 16 | [Kasilag](http://twitter.com/search?q=Kasilag) | N/A |
-| 17 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 18 | [BarDa MVTrailer](http://twitter.com/search?q=BarDa+MVTrailer) | N/A |
+| 11 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 12 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 13 | [Edward](http://twitter.com/search?q=Edward) | N/A |
+| 14 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 15 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 16 | [Super Red](http://twitter.com/search?q=Super+Red) | N/A |
+| 17 | [BarDa MVTrailer](http://twitter.com/search?q=BarDa+MVTrailer) | N/A |
+| 18 | [THE FUTURE IS VIBRENT](http://twitter.com/search?q=THE+FUTURE+IS+VIBRENT) | N/A |
 | 19 | [NADINE INSPIRATION AHEAD](http://twitter.com/search?q=NADINE+INSPIRATION+AHEAD) | N/A |
 | 20 | [ZACHAM AMING BARKADA](http://twitter.com/search?q=ZACHAM+AMING+BARKADA) | N/A |
-| 21 | [TCOB ROBXINE eLOVEnthSARY](http://twitter.com/search?q=TCOB+ROBXINE+eLOVEnthSARY) | N/A |
-| 22 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
-| 23 | [PARK JONGSEONG](http://twitter.com/search?q=PARK+JONGSEONG) | N/A |
-| 24 | [Super Red](http://twitter.com/search?q=Super+Red) | N/A |
-| 25 | [WELCOME TO SG ALEXA](http://twitter.com/search?q=WELCOME+TO+SG+ALEXA) | N/A |
-| 26 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 21 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
+| 22 | [BINI GWEN OUR SUPERMODEL](http://twitter.com/search?q=BINI+GWEN+OUR+SUPERMODEL) | N/A |
+| 23 | [TCOB ROBXINE eLOVEnthSARY](http://twitter.com/search?q=TCOB+ROBXINE+eLOVEnthSARY) | N/A |
+| 24 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 25 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
+| 26 | [RTM OST IS BACK](http://twitter.com/search?q=RTM+OST+IS+BACK) | N/A |
 | 27 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 28 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 29 | [Hyunsik](http://twitter.com/search?q=Hyunsik) | N/A |
-| 30 | [Cabatac](http://twitter.com/search?q=Cabatac) | N/A |
-| 31 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
-| 32 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 33 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
-| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 35 | [Myla](http://twitter.com/search?q=Myla) | N/A |
-| 36 | [I'M SO PROUD OF YOU](http://twitter.com/search?q=I%27M+SO+PROUD+OF+YOU) | N/A |
-| 37 | [Pangs](http://twitter.com/search?q=Pangs) | N/A |
-| 38 | [JAYS](http://twitter.com/search?q=JAYS) | N/A |
-| 39 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
+| 28 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
+| 29 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 30 | [Park Jongseong](http://twitter.com/search?q=Park+Jongseong) | N/A |
+| 31 | [Hyunsik](http://twitter.com/search?q=Hyunsik) | N/A |
+| 32 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
+| 33 | [Cabatac](http://twitter.com/search?q=Cabatac) | N/A |
+| 34 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 35 | [Kasilag](http://twitter.com/search?q=Kasilag) | N/A |
+| 36 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
+| 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 38 | [jays](http://twitter.com/search?q=jays) | N/A |
+| 39 | [Myla](http://twitter.com/search?q=Myla) | N/A |
 | 40 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 41 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 42 | [ARA GALANG](http://twitter.com/search?q=ARA+GALANG) | N/A |
-| 43 | [DAVID WiLTELCOM ANNIVERSARY](http://twitter.com/search?q=DAVID+WiLTELCOM+ANNIVERSARY) | N/A |
-| 44 | [Finals](http://twitter.com/search?q=Finals) | N/A |
-| 45 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
-| 46 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 47 | [Tim McGraw](http://twitter.com/search?q=Tim+McGraw) | N/A |
-| 48 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
-| 49 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 50 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 41 | [WELCOME TO SG ALEXA](http://twitter.com/search?q=WELCOME+TO+SG+ALEXA) | N/A |
+| 42 | [I'M SO PROUD OF YOU](http://twitter.com/search?q=I%27M+SO+PROUD+OF+YOU) | N/A |
+| 43 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
+| 44 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 45 | [Pangs](http://twitter.com/search?q=Pangs) | N/A |
+| 46 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 47 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 48 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 49 | [finals](http://twitter.com/search?q=finals) | N/A |
+| 50 | [DAVID WiLTELCOM ANNIVERSARY](http://twitter.com/search?q=DAVID+WiLTELCOM+ANNIVERSARY) | N/A |
 
 
 

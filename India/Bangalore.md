@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-03-18 12:18:13 UTC`
+📆 Last Updated: `2023-03-18 13:19:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
+| 1 | [#AimOfSantRampalJi](http://twitter.com/search?q=%23AimOfSantRampalJi) | #AimOfSantRampalJi is a hashtag used to promote the teachings of Sant Rampal Ji Maharaj, an Indian spiritual leader. The aim of Sant Rampal Ji Maharaj is to spread the message of truth and peace through his teachings and to help people lead a better life. In English, this hashtag translates to "The Aim of Sant Rampal Ji Maharaj". |
 | 2 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
-| 3 | [#SmritiIraniInAapKiAdalat](http://twitter.com/search?q=%23SmritiIraniInAapKiAdalat) | N/A |
-| 4 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 5 | [#IndiaTodayConclave2023](http://twitter.com/search?q=%23IndiaTodayConclave2023) | N/A |
-| 6 | [#ETCISOSecufest](http://twitter.com/search?q=%23ETCISOSecufest) | N/A |
-| 7 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 8 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
-| 9 | [वारिस पंजाब](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac) | N/A |
-| 10 | [श्री अन्न](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%a8%e0%a5%8d%e0%a4%a8) | N/A |
-| 11 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 12 | [Pols](http://twitter.com/search?q=Pols) | N/A |
-| 13 | [इंटरनेट सेवा](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%9f%e0%a4%b0%e0%a4%a8%e0%a5%87%e0%a4%9f+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
-| 14 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 15 | [Arrested](http://twitter.com/search?q=Arrested) | N/A |
-| 16 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 17 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 18 | [D. 1300](http://twitter.com/search?q=D.+1300) | N/A |
-| 19 | [B. 44W FlashCharge](http://twitter.com/search?q=B.+44W+FlashCharge) | N/A |
-| 20 | [B. Amazon](http://twitter.com/search?q=B.+Amazon) | N/A |
-| 21 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 22 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 23 | [MOMO](http://twitter.com/search?q=MOMO) | MOMO is an acronym for "Mobile Money", which is a type of digital payment system that allows users to transfer money and make payments using their mobile phones. It is popular in many countries, particularly in Africa and Asia. |
-| 24 | [Global Millets Conference](http://twitter.com/search?q=Global+Millets+Conference) | N/A |
-| 25 | [पंजाब सरकार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 26 | [C. AMOLED](http://twitter.com/search?q=C.+AMOLED) | N/A |
-| 27 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
-| 28 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 29 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 30 | [Govt Unwilling InSSRCase](http://twitter.com/search?q=Govt+Unwilling+InSSRCase) | N/A |
-| 31 | [निशिकांत दुबे](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%a4+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 32 | [TN BJP](http://twitter.com/search?q=TN+BJP) | N/A |
-| 33 | [कर्मा जयंती](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 34 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
-| 35 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 36 | [कर्मा देवी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 37 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 38 | [बिजली कर्मचारी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 39 | [श्याम मानव](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5) | N/A |
-| 40 | [भक्त शिरोमणि](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf) | N/A |
-| 41 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 42 | [Kharge](http://twitter.com/search?q=Kharge) | N/A |
-| 43 | [आयुध निर्माण](http://twitter.com/search?q=%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%a7+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a3) | N/A |
-| 44 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
-| 45 | [#ZeeCineAwardsTonight](http://twitter.com/search?q=%23ZeeCineAwardsTonight) | N/A |
-| 46 | [#KitchensOfIndiaInArgentina](http://twitter.com/search?q=%23KitchensOfIndiaInArgentina) | N/A |
-| 47 | [#MIvUPW](http://twitter.com/search?q=%23MIvUPW) | N/A |
-| 48 | [#ManishKashyap](http://twitter.com/search?q=%23ManishKashyap) | N/A |
-| 49 | [#Khalistan](http://twitter.com/search?q=%23Khalistan) | N/A |
-| 50 | [#DesiVibesWithShehnaazGill](http://twitter.com/search?q=%23DesiVibesWithShehnaazGill) | N/A |
+| 3 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
+| 4 | [#SmritiIraniInAapKiAdalat](http://twitter.com/search?q=%23SmritiIraniInAapKiAdalat) | N/A |
+| 5 | [#NTR30](http://twitter.com/search?q=%23NTR30) | N/A |
+| 6 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 7 | [Sant Rampal Ji Maharaj Ji](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+Ji) | N/A |
+| 8 | [MC STAN TILL ETERNITY](http://twitter.com/search?q=MC+STAN+TILL+ETERNITY) | N/A |
+| 9 | [मानव समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 10 | [Pols](http://twitter.com/search?q=Pols) | N/A |
+| 11 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 12 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
+| 13 | [वारिस पंजाब](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac) | N/A |
+| 14 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
+| 15 | [श्री अन्न](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%a8%e0%a5%8d%e0%a4%a8) | N/A |
+| 16 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 17 | [इंटरनेट सेवा](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%9f%e0%a4%b0%e0%a4%a8%e0%a5%87%e0%a4%9f+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
+| 18 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 19 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
+| 20 | [Amit Shah](http://twitter.com/search?q=Amit+Shah) | N/A |
+| 21 | [Jalandhar](http://twitter.com/search?q=Jalandhar) | N/A |
+| 22 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
+| 23 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 24 | [B. Amazon](http://twitter.com/search?q=B.+Amazon) | N/A |
+| 25 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 26 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 27 | [विदेश मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 28 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 29 | [B. 44W FlashCharge](http://twitter.com/search?q=B.+44W+FlashCharge) | N/A |
+| 30 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 31 | [C. AMOLED](http://twitter.com/search?q=C.+AMOLED) | N/A |
+| 32 | [Global Millets Conference](http://twitter.com/search?q=Global+Millets+Conference) | N/A |
+| 33 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 34 | [D. 1300](http://twitter.com/search?q=D.+1300) | N/A |
+| 35 | [पंजाब सरकार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 36 | [TN BJP](http://twitter.com/search?q=TN+BJP) | N/A |
+| 37 | [किरण पटेल](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a4%a3+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
+| 38 | [Govt Unwilling InSSRCase](http://twitter.com/search?q=Govt+Unwilling+InSSRCase) | N/A |
+| 39 | [निशिकांत दुबे](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%a4+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 40 | [कर्मा जयंती](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 41 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 42 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 43 | [कर्मा देवी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 44 | [बिजली कर्मचारी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 45 | [श्याम मानव](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5) | N/A |
+| 46 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 47 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 48 | [भक्त शिरोमणि](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf) | N/A |
+| 49 | [#BheedNewTrailer](http://twitter.com/search?q=%23BheedNewTrailer) | N/A |
+| 50 | [#ZeeCineAwardsTonight](http://twitter.com/search?q=%23ZeeCineAwardsTonight) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-18 12:18:22 UTC`
+📆 Last Updated: `2023-03-18 13:19:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 4 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 5 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 6 | [#ひろがるホロライブDAY1](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY1) | N/A |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 9 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
-| 12 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 13 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
-| 14 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
-| 15 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
-| 16 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 17 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 18 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 19 | [Tim McGraw](http://twitter.com/search?q=Tim+McGraw) | N/A |
-| 20 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 21 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
-| 22 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
-| 23 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 24 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
-| 25 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 26 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 27 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 28 | [Manhattan DA](http://twitter.com/search?q=Manhattan+DA) | N/A |
-| 29 | [BDSP](http://twitter.com/search?q=BDSP) | N/A |
-| 30 | [jinki](http://twitter.com/search?q=jinki) | N/A |
-| 31 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 32 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 33 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 34 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
-| 35 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 36 | [Rampage](http://twitter.com/search?q=Rampage) | N/A |
-| 37 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 38 | [Long Live](http://twitter.com/search?q=Long+Live) | N/A |
-| 39 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 40 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
-| 41 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 42 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 43 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 44 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 45 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 46 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 47 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 48 | [#Wordle637](http://twitter.com/search?q=%23Wordle637) | N/A |
-| 49 | [#tjpwGP23](http://twitter.com/search?q=%23tjpwGP23) | N/A |
-| 50 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 3 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 4 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 6 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
+| 7 | [#ひろがるホロライブDAY1](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY1) | N/A |
+| 8 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 9 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 10 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 11 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 12 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 13 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 14 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
+| 15 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
+| 16 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 17 | [Arresting Trump](http://twitter.com/search?q=Arresting+Trump) | N/A |
+| 18 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
+| 19 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 20 | [Manhattan DA](http://twitter.com/search?q=Manhattan+DA) | N/A |
+| 21 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
+| 22 | [Fear the LORD](http://twitter.com/search?q=Fear+the+LORD) | N/A |
+| 23 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
+| 24 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
+| 25 | [Former President Donald Trump](http://twitter.com/search?q=Former+President+Donald+Trump) | N/A |
+| 26 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
+| 27 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 28 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 29 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
+| 30 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 31 | [Arrested](http://twitter.com/search?q=Arrested) | N/A |
+| 32 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 33 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 34 | [Misdemeanor](http://twitter.com/search?q=Misdemeanor) | N/A |
+| 35 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 36 | [Hololive](http://twitter.com/search?q=Hololive) | N/A |
+| 37 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 38 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 39 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 40 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 41 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 42 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 43 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 44 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 45 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
+| 46 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
+| 47 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
+| 48 | [Balaji](http://twitter.com/search?q=Balaji) | N/A |
+| 49 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
 
 
 

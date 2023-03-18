@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-18 12:17:37 UTC`
+📆 Last Updated: `2023-03-18 13:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 2 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 3 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 4 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 5 | [#ToryCriminals](http://twitter.com/search?q=%23ToryCriminals) | N/A |
-| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 7 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 8 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 10 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
-| 11 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 12 | [#GlobalRecyclingDay](http://twitter.com/search?q=%23GlobalRecyclingDay) | N/A |
-| 13 | [#socceram](http://twitter.com/search?q=%23socceram) | N/A |
-| 14 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 15 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 16 | [RIP Craig](http://twitter.com/search?q=RIP+Craig) | N/A |
-| 17 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 18 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 19 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
-| 20 | [Andrew Mitchell](http://twitter.com/search?q=Andrew+Mitchell) | N/A |
-| 21 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
-| 22 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 23 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 24 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 25 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 26 | [Guardian and BBC](http://twitter.com/search?q=Guardian+and+BBC) | N/A |
-| 27 | [Andrew Bridgen](http://twitter.com/search?q=Andrew+Bridgen) | Andrew Bridgen is a British Conservative Party politician who has been the Member of Parliament (MP) for North West Leicestershire since 2010. He is a prominent Brexiteer and has been an outspoken critic of the European Union. |
-| 28 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 29 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
-| 30 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 31 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 32 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 33 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 34 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 35 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
-| 36 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 37 | [Eras](http://twitter.com/search?q=Eras) | N/A |
-| 38 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
-| 39 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
-| 40 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
-| 41 | [Hansard](http://twitter.com/search?q=Hansard) | N/A |
-| 42 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 43 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 44 | [Lenny Henry](http://twitter.com/search?q=Lenny+Henry) | N/A |
-| 45 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 46 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 47 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 48 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
-| 49 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
-| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
+| 3 | [#ldconf](http://twitter.com/search?q=%23ldconf) | N/A |
+| 4 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 5 | [#LW2023](http://twitter.com/search?q=%23LW2023) | N/A |
+| 6 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 7 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 8 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 9 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 10 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 11 | [#ToryCriminals](http://twitter.com/search?q=%23ToryCriminals) | N/A |
+| 12 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
+| 13 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 14 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 15 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 16 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 17 | [Liam Kelly](http://twitter.com/search?q=Liam+Kelly) | N/A |
+| 18 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
+| 19 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 20 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 21 | [Flower of Scotland](http://twitter.com/search?q=Flower+of+Scotland) | N/A |
+| 22 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
+| 23 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 24 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 25 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 26 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
+| 27 | [Fir Park](http://twitter.com/search?q=Fir+Park) | N/A |
+| 28 | [RIP Craig](http://twitter.com/search?q=RIP+Craig) | N/A |
+| 29 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 30 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 31 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 32 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
+| 33 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 34 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 35 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 36 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 37 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
+| 38 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
+| 39 | [Andrew Mitchell](http://twitter.com/search?q=Andrew+Mitchell) | N/A |
+| 40 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
+| 41 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 42 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 43 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 44 | [Guardian and BBC](http://twitter.com/search?q=Guardian+and+BBC) | N/A |
+| 45 | [Andrew Bridgen](http://twitter.com/search?q=Andrew+Bridgen) | Andrew Bridgen is a British Conservative Party politician who has been the Member of Parliament (MP) for North West Leicestershire since 2010. He is a prominent Brexiteer and has been an outspoken critic of the European Union. |
+| 46 | [Texan](http://twitter.com/search?q=Texan) | N/A |
+| 47 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 48 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 49 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
+| 50 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
 
 
 

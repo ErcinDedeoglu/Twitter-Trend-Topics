@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-18 12:18:10 UTC`
+📆 Last Updated: `2023-03-18 13:19:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#چلو_چلو_اسلام_آباد_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af_%da%86%d9%84%d9%88) | N/A |
 | 2 | [#ZamanPark_under_attack](http://twitter.com/search?q=%23ZamanPark_under_attack) | N/A |
-| 3 | [#ZamanPark_under_attack](http://twitter.com/search?q=%23ZamanPark_under_attack) | N/A |
-| 4 | [#ChiefJusticeOfPakistan](http://twitter.com/search?q=%23ChiefJusticeOfPakistan) | N/A |
-| 5 | [#جب_سب_مٹ_جائےگا_تب_نکلوگے](http://twitter.com/search?q=%23%d8%ac%d8%a8_%d8%b3%d8%a8_%d9%85%d9%b9_%d8%ac%d8%a7%d8%a6%db%92%da%af%d8%a7_%d8%aa%d8%a8_%d9%86%da%a9%d9%84%d9%88%da%af%db%92) | N/A |
-| 6 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 7 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 8 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
+| 3 | [#جب_سب_مٹ_جائےگا_تب_نکلوگے](http://twitter.com/search?q=%23%d8%ac%d8%a8_%d8%b3%d8%a8_%d9%85%d9%b9_%d8%ac%d8%a7%d8%a6%db%92%da%af%d8%a7_%d8%aa%d8%a8_%d9%86%da%a9%d9%84%d9%88%da%af%db%92) | N/A |
+| 4 | [#چلو_چلو_عمران_کے_ساتھ](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%da%a9%db%92_%d8%b3%d8%a7%d8%aa%da%be) | N/A |
+| 5 | [#ChiefJusticeOfPakistan](http://twitter.com/search?q=%23ChiefJusticeOfPakistan) | N/A |
+| 6 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 7 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
+| 8 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
 | 9 | [G-11](http://twitter.com/search?q=G-11) | N/A |
 | 10 | [PEMRA](http://twitter.com/search?q=PEMRA) | N/A |
-| 11 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 12 | [Murree Brewery](http://twitter.com/search?q=Murree+Brewery) | N/A |
+| 11 | [Shibli Faraz](http://twitter.com/search?q=Shibli+Faraz) | N/A |
+| 12 | [mian yasin](http://twitter.com/search?q=mian+yasin) | N/A |
 | 13 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
-| 14 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 15 | [Mian Yasin](http://twitter.com/search?q=Mian+Yasin) | N/A |
-| 16 | [Salman Irshad](http://twitter.com/search?q=Salman+Irshad) | N/A |
-| 17 | [Isky](http://twitter.com/search?q=Isky) | N/A |
-| 18 | [Tahir baig](http://twitter.com/search?q=Tahir+baig) | N/A |
-| 19 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 20 | [amir jamal](http://twitter.com/search?q=amir+jamal) | N/A |
-| 21 | [Petrol](http://twitter.com/search?q=Petrol) | N/A |
-| 22 | [Jati Umrah](http://twitter.com/search?q=Jati+Umrah) | N/A |
-| 23 | [Planted](http://twitter.com/search?q=Planted) | N/A |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [KitKat](http://twitter.com/search?q=KitKat) | N/A |
-| 26 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
-| 27 | [Bilawal House](http://twitter.com/search?q=Bilawal+House) | N/A |
-| 28 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 29 | [Dairy Milk](http://twitter.com/search?q=Dairy+Milk) | N/A |
-| 30 | [Muneeb](http://twitter.com/search?q=Muneeb) | N/A |
-| 31 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 32 | [mohammad haris](http://twitter.com/search?q=mohammad+haris) | N/A |
+| 14 | [Salman Irshad](http://twitter.com/search?q=Salman+Irshad) | N/A |
+| 15 | [Tough](http://twitter.com/search?q=Tough) | N/A |
+| 16 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 17 | [Jati Umrah](http://twitter.com/search?q=Jati+Umrah) | N/A |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [Tahir baig](http://twitter.com/search?q=Tahir+baig) | N/A |
+| 20 | [Murree Brewery](http://twitter.com/search?q=Murree+Brewery) | N/A |
+| 21 | [Amir Jamal](http://twitter.com/search?q=Amir+Jamal) | N/A |
+| 22 | [Planted](http://twitter.com/search?q=Planted) | N/A |
+| 23 | [Petrol](http://twitter.com/search?q=Petrol) | N/A |
+| 24 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [Dairy Milk](http://twitter.com/search?q=Dairy+Milk) | N/A |
+| 27 | [KitKat](http://twitter.com/search?q=KitKat) | N/A |
+| 28 | [Bilawal House](http://twitter.com/search?q=Bilawal+House) | N/A |
+| 29 | [Muneeb](http://twitter.com/search?q=Muneeb) | N/A |
+| 30 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 31 | [mansoor](http://twitter.com/search?q=mansoor) | N/A |
+| 32 | [Faisalabad](http://twitter.com/search?q=Faisalabad) | N/A |
 | 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 34 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 35 | [Mansoor](http://twitter.com/search?q=Mansoor) | N/A |
-| 36 | [Faisalabad](http://twitter.com/search?q=Faisalabad) | N/A |
-| 37 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 38 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 39 | [hinda](http://twitter.com/search?q=hinda) | N/A |
-| 40 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 41 | [Shibli Faraz](http://twitter.com/search?q=Shibli+Faraz) | N/A |
-| 42 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
-| 43 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 44 | [Tery](http://twitter.com/search?q=Tery) | N/A |
-| 45 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
-| 46 | [Awam](http://twitter.com/search?q=Awam) | N/A |
-| 47 | [Search](http://twitter.com/search?q=Search) | N/A |
-| 48 | [Now or Never](http://twitter.com/search?q=Now+or+Never) | N/A |
-| 49 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 50 | [IK and PTI](http://twitter.com/search?q=IK+and+PTI) | N/A |
+| 34 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 35 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 36 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 37 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 38 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 39 | [Where is IK](http://twitter.com/search?q=Where+is+IK) | N/A |
+| 40 | [Tery](http://twitter.com/search?q=Tery) | N/A |
+| 41 | [Bani Gala](http://twitter.com/search?q=Bani+Gala) | N/A |
+| 42 | [Now or Never](http://twitter.com/search?q=Now+or+Never) | N/A |
+| 43 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 44 | [Honey](http://twitter.com/search?q=Honey) | N/A |
+| 45 | [Hinda](http://twitter.com/search?q=Hinda) | N/A |
+| 46 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 47 | [London](http://twitter.com/search?q=London) | N/A |
+| 48 | [IK and PTI](http://twitter.com/search?q=IK+and+PTI) | N/A |
+| 49 | [Ghar](http://twitter.com/search?q=Ghar) | N/A |
+| 50 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 
 
 

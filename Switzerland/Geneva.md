@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-18 12:17:54 UTC`
+📆 Last Updated: `2023-03-18 13:19:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
 | 2 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 3 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 5 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 6 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 7 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 8 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 9 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 10 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 11 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 12 | [West](http://twitter.com/search?q=West) | N/A |
-| 13 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 14 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 15 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 16 | [Finma](http://twitter.com/search?q=Finma) | N/A |
+| 3 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 4 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 5 | [#ucldraw](http://twitter.com/search?q=%23ucldraw) | N/A |
+| 6 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 7 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 8 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
+| 9 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 10 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 11 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 12 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 14 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 15 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 16 | [Basel](http://twitter.com/search?q=Basel) | N/A |
 | 17 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 18 | [Finma](http://twitter.com/search?q=Finma) | N/A |
 | 19 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 20 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 21 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 22 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 23 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 25 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 26 | [bürokratie](http://twitter.com/search?q=b%c3%bcrokratie) | N/A |
-| 27 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 28 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 29 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 30 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 31 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 32 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 33 | [Regulierungen](http://twitter.com/search?q=Regulierungen) | N/A |
-| 34 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 35 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 36 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 37 | [Sozialismus](http://twitter.com/search?q=Sozialismus) | N/A |
-| 38 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
-| 39 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
-| 40 | [Brigitte](http://twitter.com/search?q=Brigitte) | N/A |
-| 41 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 42 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 43 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 44 | [Führung](http://twitter.com/search?q=F%c3%bchrung) | N/A |
+| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 21 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 23 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 24 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 25 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 26 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 27 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 28 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 29 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 30 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 31 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 32 | [Taten](http://twitter.com/search?q=Taten) | N/A |
+| 33 | [Bürokratie](http://twitter.com/search?q=B%c3%bcrokratie) | N/A |
+| 34 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 35 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 36 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 38 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 39 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 40 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 41 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 43 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 44 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
 | 45 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 46 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 47 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 48 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 46 | [Sozialismus](http://twitter.com/search?q=Sozialismus) | N/A |
+| 47 | [chinesen](http://twitter.com/search?q=chinesen) | N/A |
+| 48 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
 
 
 

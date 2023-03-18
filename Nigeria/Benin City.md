@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-18 12:18:04 UTC`
+📆 Last Updated: `2023-03-18 13:19:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
-| 2 | [#LagosDecides2023](http://twitter.com/search?q=%23LagosDecides2023) | N/A |
+| 1 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 2 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
 | 3 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 4 | [No LP](http://twitter.com/search?q=No+LP) | N/A |
-| 5 | [#NigeriaDecide2023](http://twitter.com/search?q=%23NigeriaDecide2023) | N/A |
-| 6 | [Situation Report](http://twitter.com/search?q=Situation+Report) | N/A |
-| 7 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 8 | [#INEC](http://twitter.com/search?q=%23INEC) | N/A |
-| 9 | [Ago Palace](http://twitter.com/search?q=Ago+Palace) | N/A |
-| 10 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
-| 11 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
-| 12 | [Kate Henshaw](http://twitter.com/search?q=Kate+Henshaw) | N/A |
-| 13 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 14 | [Casted](http://twitter.com/search?q=Casted) | N/A |
-| 15 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
-| 16 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
-| 17 | [49 SANs](http://twitter.com/search?q=49+SANs) | N/A |
-| 18 | [Voters](http://twitter.com/search?q=Voters) | N/A |
-| 19 | [Amuwo Odofin](http://twitter.com/search?q=Amuwo+Odofin) | N/A |
-| 20 | [Omoni Oboli](http://twitter.com/search?q=Omoni+Oboli) | N/A |
-| 21 | [Voting](http://twitter.com/search?q=Voting) | N/A |
-| 22 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
-| 23 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 24 | [Ajah](http://twitter.com/search?q=Ajah) | N/A |
-| 25 | [The APC](http://twitter.com/search?q=The+APC) | N/A |
-| 26 | [Isolo](http://twitter.com/search?q=Isolo) | N/A |
-| 27 | [Okota](http://twitter.com/search?q=Okota) | N/A |
-| 28 | [Security](http://twitter.com/search?q=Security) | N/A |
-| 29 | [Victory](http://twitter.com/search?q=Victory) | N/A |
-| 30 | [Aguda](http://twitter.com/search?q=Aguda) | N/A |
-| 31 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 32 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 33 | [Alimosho](http://twitter.com/search?q=Alimosho) | N/A |
-| 34 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
-| 35 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
-| 36 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
-| 37 | [Oshodi](http://twitter.com/search?q=Oshodi) | N/A |
-| 38 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
-| 39 | [Uncle Sola](http://twitter.com/search?q=Uncle+Sola) | N/A |
-| 40 | [House of Assembly](http://twitter.com/search?q=House+of+Assembly) | N/A |
-| 41 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
-| 42 | [The Police](http://twitter.com/search?q=The+Police) | N/A |
-| 43 | [Omo Agege](http://twitter.com/search?q=Omo+Agege) | N/A |
-| 44 | [Fadeyi](http://twitter.com/search?q=Fadeyi) | N/A |
-| 45 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 46 | [Violence](http://twitter.com/search?q=Violence) | N/A |
-| 47 | [Nigerian Police](http://twitter.com/search?q=Nigerian+Police) | N/A |
-| 48 | [Ajegunle](http://twitter.com/search?q=Ajegunle) | N/A |
-| 49 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 50 | [25th of February](http://twitter.com/search?q=25th+of+February) | N/A |
+| 4 | [#NigeriaDecide2023](http://twitter.com/search?q=%23NigeriaDecide2023) | N/A |
+| 5 | [Okota](http://twitter.com/search?q=Okota) | N/A |
+| 6 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 7 | [Situation Report](http://twitter.com/search?q=Situation+Report) | N/A |
+| 8 | [No LP](http://twitter.com/search?q=No+LP) | N/A |
+| 9 | [#INEC](http://twitter.com/search?q=%23INEC) | N/A |
+| 10 | [#ElectionDay](http://twitter.com/search?q=%23ElectionDay) | N/A |
+| 11 | [Ago Palace](http://twitter.com/search?q=Ago+Palace) | N/A |
+| 12 | [Arisetv](http://twitter.com/search?q=Arisetv) | N/A |
+| 13 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 14 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 15 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
+| 16 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 17 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
+| 18 | [Kate Henshaw](http://twitter.com/search?q=Kate+Henshaw) | N/A |
+| 19 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
+| 20 | [The APC](http://twitter.com/search?q=The+APC) | N/A |
+| 21 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
+| 22 | [Casted](http://twitter.com/search?q=Casted) | N/A |
+| 23 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
+| 24 | [Amuwo Odofin](http://twitter.com/search?q=Amuwo+Odofin) | N/A |
+| 25 | [omoni oboli](http://twitter.com/search?q=omoni+oboli) | N/A |
+| 26 | [Voters](http://twitter.com/search?q=Voters) | N/A |
+| 27 | [49 SANs](http://twitter.com/search?q=49+SANs) | N/A |
+| 28 | [Voting](http://twitter.com/search?q=Voting) | N/A |
+| 29 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
+| 30 | [Alimosho](http://twitter.com/search?q=Alimosho) | N/A |
+| 31 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
+| 32 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 33 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 34 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 35 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
+| 36 | [Ebonyi](http://twitter.com/search?q=Ebonyi) | N/A |
+| 37 | [Ajah](http://twitter.com/search?q=Ajah) | N/A |
+| 38 | [Isolo](http://twitter.com/search?q=Isolo) | N/A |
+| 39 | [Aguda](http://twitter.com/search?q=Aguda) | N/A |
+| 40 | [Security](http://twitter.com/search?q=Security) | N/A |
+| 41 | [The Police](http://twitter.com/search?q=The+Police) | N/A |
+| 42 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 43 | [Sangotedo](http://twitter.com/search?q=Sangotedo) | N/A |
+| 44 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
+| 45 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
+| 46 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
+| 47 | [Oshodi](http://twitter.com/search?q=Oshodi) | N/A |
+| 48 | [Channels](http://twitter.com/search?q=Channels) | N/A |
+| 49 | [Violence](http://twitter.com/search?q=Violence) | N/A |
+| 50 | [Victory](http://twitter.com/search?q=Victory) | N/A |
 
 
 
