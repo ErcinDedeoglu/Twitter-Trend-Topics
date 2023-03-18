@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-18 05:16:42 UTC`
+📆 Last Updated: `2023-03-18 06:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Owen Tippett](http://twitter.com/search?q=Owen+Tippett) | N/A |
-| 2 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 3 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
-| 4 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 5 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 6 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 7 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
-| 10 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 11 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 12 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 13 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 14 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
-| 15 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
-| 16 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
-| 17 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 1 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 2 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 5 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 6 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
+| 7 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
+| 8 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 9 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 10 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 11 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 12 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
+| 13 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 14 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
+| 15 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 16 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 17 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
 | 18 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 19 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 20 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 21 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
-| 22 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
-| 23 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 24 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 25 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
-| 26 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 27 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 28 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 19 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 20 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 21 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 22 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 23 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
+| 24 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 25 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
+| 26 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 27 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 28 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
 | 29 | [INVISIBLE STRING](http://twitter.com/search?q=INVISIBLE+STRING) | N/A |
-| 30 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 31 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
-| 32 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 33 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 34 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
-| 35 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 30 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 31 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 32 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
+| 33 | [JaKobe Coles](http://twitter.com/search?q=JaKobe+Coles) | N/A |
+| 34 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 35 | [Thanks AD](http://twitter.com/search?q=Thanks+AD) | N/A |
 | 36 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 37 | [JaKobe Coles](http://twitter.com/search?q=JaKobe+Coles) | N/A |
-| 38 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
-| 39 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 40 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
-| 41 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 42 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 43 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
-| 44 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
-| 45 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 46 | [Thanks AD](http://twitter.com/search?q=Thanks+AD) | N/A |
-| 47 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
-| 48 | [Bobby Hurley](http://twitter.com/search?q=Bobby+Hurley) | N/A |
-| 49 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 50 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 37 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 38 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 39 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 40 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 41 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 42 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 43 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 44 | [Mirrorball](http://twitter.com/search?q=Mirrorball) | N/A |
+| 45 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
+| 46 | [Bobby Hurley](http://twitter.com/search?q=Bobby+Hurley) | N/A |
+| 47 | [ENCHANTED](http://twitter.com/search?q=ENCHANTED) | N/A |
+| 48 | [Frankie Collins](http://twitter.com/search?q=Frankie+Collins) | N/A |
+| 49 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 50 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-18 05:16:02 UTC`
+📆 Last Updated: `2023-03-18 06:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [ENCHANTED](http://twitter.com/search?q=ENCHANTED) | N/A |
-| 4 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
-| 5 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 6 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 7 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
-| 8 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 9 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 10 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 11 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
-| 12 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 13 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
-| 14 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 15 | [#BatallaYSupervivencia](http://twitter.com/search?q=%23BatallaYSupervivencia) | N/A |
-| 16 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
-| 17 | [Béisbol](http://twitter.com/search?q=B%c3%a9isbol) | N/A |
-| 18 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 19 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
-| 20 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
-| 21 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 22 | [Baeza](http://twitter.com/search?q=Baeza) | N/A |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
+| 6 | [#YoutubeCorrupt](http://twitter.com/search?q=%23YoutubeCorrupt) | N/A |
+| 7 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 8 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 9 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 10 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
+| 11 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 12 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 13 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 14 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 15 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 16 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
+| 17 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 19 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
+| 20 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
+| 21 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
+| 22 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
 | 23 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 24 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
-| 25 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 26 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
-| 27 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 28 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 29 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 24 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 25 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 26 | [Baeza](http://twitter.com/search?q=Baeza) | N/A |
+| 27 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
+| 28 | [Béisbol](http://twitter.com/search?q=B%c3%a9isbol) | N/A |
+| 29 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
 | 30 | [MI CANCIÓN](http://twitter.com/search?q=MI+CANCI%c3%93N) | N/A |
-| 31 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
-| 32 | [Maxi Araujo](http://twitter.com/search?q=Maxi+Araujo) | N/A |
-| 33 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
-| 34 | [DON'T BLAME ME](http://twitter.com/search?q=DON%27T+BLAME+ME) | N/A |
-| 35 | [Cerdo](http://twitter.com/search?q=Cerdo) | N/A |
-| 36 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 37 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
-| 38 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 39 | [LOVE STORY](http://twitter.com/search?q=LOVE+STORY) | N/A |
-| 40 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
-| 41 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
-| 42 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 43 | [Juegazo](http://twitter.com/search?q=Juegazo) | N/A |
-| 44 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
-| 45 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 46 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 47 | [NELSON X YURIDIA](http://twitter.com/search?q=NELSON+X+YURIDIA) | N/A |
-| 48 | [Partidazo](http://twitter.com/search?q=Partidazo) | N/A |
+| 31 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 32 | [Cerdo](http://twitter.com/search?q=Cerdo) | N/A |
+| 33 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 34 | [Magaly Martínez](http://twitter.com/search?q=Magaly+Mart%c3%adnez) | N/A |
+| 35 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
+| 36 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 37 | [Maxi Araujo](http://twitter.com/search?q=Maxi+Araujo) | N/A |
+| 38 | [DON'T BLAME ME](http://twitter.com/search?q=DON%27T+BLAME+ME) | N/A |
+| 39 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 40 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 41 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 42 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
+| 43 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
+| 44 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 45 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
+| 46 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 47 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 48 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
+| 49 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
 
 
 

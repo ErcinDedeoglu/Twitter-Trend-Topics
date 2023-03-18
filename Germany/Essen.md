@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-18 05:16:11 UTC`
+📆 Last Updated: `2023-03-18 06:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
 | 7 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 8 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 9 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 | 12 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
 | 13 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 14 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 15 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 16 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 17 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 18 | [parlament](http://twitter.com/search?q=parlament) | N/A |
-| 19 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 20 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 14 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 15 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 16 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 17 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 18 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 19 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 20 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
 | 21 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 22 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 23 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
-| 24 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 22 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
+| 23 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 24 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 | 25 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 28 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 29 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 30 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
-| 31 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 32 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 33 | [erststimme](http://twitter.com/search?q=erststimme) | N/A |
+| 26 | [Erstmal Kaffee](http://twitter.com/search?q=Erstmal+Kaffee) | N/A |
+| 27 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 28 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 29 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 30 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 31 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
+| 32 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 33 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
 | 34 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 35 | [istgh](http://twitter.com/search?q=istgh) | N/A |
-| 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 37 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 38 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
+| 35 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 36 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 37 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 38 | [Blair](http://twitter.com/search?q=Blair) | N/A |
 | 39 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 40 | ['frühling'](http://twitter.com/search?q=%27fr%c3%bchling%27) | N/A |
-| 41 | [anklage](http://twitter.com/search?q=anklage) | N/A |
-| 42 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
-| 43 | [PostDocs](http://twitter.com/search?q=PostDocs) | N/A |
-| 44 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 45 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
-| 46 | [Direktkandidaten](http://twitter.com/search?q=Direktkandidaten) | N/A |
-| 47 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 48 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 49 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 40 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 41 | [IStGH](http://twitter.com/search?q=IStGH) | N/A |
+| 42 | ['frühling'](http://twitter.com/search?q=%27fr%c3%bchling%27) | N/A |
+| 43 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
+| 44 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 45 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
+| 46 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
+| 47 | [hansa](http://twitter.com/search?q=hansa) | N/A |
+| 48 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 49 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
 
 
 
