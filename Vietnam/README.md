@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-18 20:17:49 UTC`
+📆 Last Updated: `2023-03-18 21:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,22 +23,22 @@ This is top 50 for Vietnam
 | 6 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
 | 7 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
 | 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 9 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 10 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
-| 11 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
-| 12 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 13 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 16 | [Seop](http://twitter.com/search?q=Seop) | N/A |
-| 17 | [Hook](http://twitter.com/search?q=Hook) | N/A |
-| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 19 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 20 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 9 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
+| 10 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
+| 11 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 12 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 14 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 15 | [seop](http://twitter.com/search?q=seop) | N/A |
+| 16 | [Hook](http://twitter.com/search?q=Hook) | N/A |
+| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 18 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 19 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 21 | [Chời](http://twitter.com/search?q=Ch%e1%bb%9di) | N/A |
 | 22 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 23 | [binance launchpad](http://twitter.com/search?q=binance+launchpad) | N/A |
-| 24 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 24 | [jimin is coming](http://twitter.com/search?q=jimin+is+coming) | N/A |
 | 25 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
 | 26 | [Yess](http://twitter.com/search?q=Yess) | N/A |
 | 27 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
@@ -47,7 +47,7 @@ This is top 50 for Vietnam
 | 30 | [Token](http://twitter.com/search?q=Token) | N/A |
 | 31 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
 | 32 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 33 | [Hình](http://twitter.com/search?q=H%c3%acnh) | N/A |
+| 33 | [hình](http://twitter.com/search?q=h%c3%acnh) | N/A |
 | 34 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 35 | [vietnam airlines](http://twitter.com/search?q=vietnam+airlines) | N/A |
 | 36 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-18 20:17:14 UTC`
+📆 Last Updated: `2023-03-18 21:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Algeria](</Algeria>)
 | 3 | [ابن رجب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b1%d8%ac%d8%a8) | N/A |
 | 4 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
 | 5 | [المحكمه الجناييه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 6 | [عيد النصر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 7 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 8 | [مجتمع السلم](http://twitter.com/search?q=%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%b3%d9%84%d9%85) | N/A |
-| 9 | [#ذكري_استرجاع_العرجه](http://twitter.com/search?q=%23%d8%b0%d9%83%d8%b1%d9%8a_%d8%a7%d8%b3%d8%aa%d8%b1%d8%ac%d8%a7%d8%b9_%d8%a7%d9%84%d8%b9%d8%b1%d8%ac%d9%87) | N/A |
-| 10 | [#نيف_السيد](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%81_%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 13 | [Bienvenue](http://twitter.com/search?q=Bienvenue) | Bienvenue is a French word meaning "welcome". It is used as a greeting to welcome someone to a place or event. |
+| 6 | [مجتمع السلم](http://twitter.com/search?q=%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%b3%d9%84%d9%85) | N/A |
+| 7 | [#نيف_السيد](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%81_%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 8 | [#ناصر_السبيعي_في_باريس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%b5%d8%b1_%d8%a7%d9%84%d8%b3%d8%a8%d9%8a%d8%b9%d9%8a_%d9%81%d9%8a_%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 11 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 12 | [Bienvenue](http://twitter.com/search?q=Bienvenue) | Bienvenue is a French word meaning "welcome". It is used as a greeting to welcome someone to a place or event. |
+| 13 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
 | 14 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 15 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
-| 16 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 17 | [الشعب الصحراوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
-| 18 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 19 | [أحمد عطاف](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%b9%d8%b7%d8%a7%d9%81) | N/A |
-| 20 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 15 | [#عيد_النصر](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 16 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
+| 17 | [#ذكري_استرجاع_العرجه](http://twitter.com/search?q=%23%d8%b0%d9%83%d8%b1%d9%8a_%d8%a7%d8%b3%d8%aa%d8%b1%d8%ac%d8%a7%d8%b9_%d8%a7%d9%84%d8%b9%d8%b1%d8%ac%d9%87) | N/A |
+| 18 | [أحمد عطاف](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%b9%d8%b7%d8%a7%d9%81) | N/A |
+| 19 | [الشعب الصحراوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
+| 20 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
 | 21 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
 | 22 | [بلال براهيمي](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84+%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%8a) | N/A |
-| 23 | [الوزير الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 24 | [الرييس الروسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |
-| 25 | [علي راس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d8%a7%d8%b3) | N/A |
-| 26 | [#شباب_بلوزداد](http://twitter.com/search?q=%23%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
-| 27 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 28 | [جورج بوش](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%a8%d9%88%d8%b4) | N/A |
+| 23 | [الرييس الروسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |
+| 24 | [علي راس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d8%a7%d8%b3) | N/A |
+| 25 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 26 | [جورج بوش](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%a8%d9%88%d8%b4) | N/A |
+| 27 | [جمال بلماضي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 28 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 29 | [العشريه السوداء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d8%a1) | N/A |
-| 30 | [#رمطان_لعمامره](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b7%d8%a7%d9%86_%d9%84%d8%b9%d9%85%d8%a7%d9%85%d8%b1%d9%87) | N/A |
-| 31 | [الجمعه الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
-| 32 | [المجلس الفيدرالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a) | N/A |
-| 33 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 34 | [الجمعيه الفيدراليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 35 | [جمال بلماضي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 36 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 37 | [المواجهه المزدوجه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d9%87+%d8%a7%d9%84%d9%85%d8%b2%d8%af%d9%88%d8%ac%d9%87) | N/A |
-| 38 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 39 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 40 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 41 | [وسوريا](http://twitter.com/search?q=%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 42 | [توني بلير](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d9%8a+%d8%a8%d9%84%d9%8a%d8%b1) | N/A |
-| 43 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
-| 44 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 45 | [18 مارس 2023](http://twitter.com/search?q=18+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 46 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
-| 47 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
-| 48 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 49 | [الاقامه الجامعيه الجرف](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b1%d9%81) | N/A |
+| 30 | [الجمعه الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
+| 31 | [المجلس الفيدرالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a) | N/A |
+| 32 | [الجمعيه الفيدراليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 33 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 34 | [المواجهه المزدوجه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d9%87+%d8%a7%d9%84%d9%85%d8%b2%d8%af%d9%88%d8%ac%d9%87) | N/A |
+| 35 | [18 مارس 2023](http://twitter.com/search?q=18+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 36 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 37 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
+| 38 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 39 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 40 | [وسوريا](http://twitter.com/search?q=%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 41 | [توني بلير](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d9%8a+%d8%a8%d9%84%d9%8a%d8%b1) | N/A |
+| 42 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
+| 43 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 44 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
+| 45 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
+| 46 | [الدور الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 48 | [الاقامه الجامعيه الجرف](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b1%d9%81) | N/A |
+| 49 | [الوزير السابق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
 | 50 | [كمال رزيق](http://twitter.com/search?q=%d9%83%d9%85%d8%a7%d9%84+%d8%b1%d8%b2%d9%8a%d9%82) | N/A |
 
 

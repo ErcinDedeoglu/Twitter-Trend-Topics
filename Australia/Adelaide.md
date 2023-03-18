@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-03-18 20:17:04 UTC`
+📆 Last Updated: `2023-03-18 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 2 | [#afldeesdogs](http://twitter.com/search?q=%23afldeesdogs) | N/A |
 | 3 | [#aflpowerlions](http://twitter.com/search?q=%23aflpowerlions) | N/A |
-| 4 | [#aflnortheagles](http://twitter.com/search?q=%23aflnortheagles) | N/A |
+| 4 | [#AFLNorthEagles](http://twitter.com/search?q=%23AFLNorthEagles) | N/A |
 | 5 | [#aflcatspies](http://twitter.com/search?q=%23aflcatspies) | N/A |
 | 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 7 | [#SydneyDerby](http://twitter.com/search?q=%23SydneyDerby) | N/A |
+| 7 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 10 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 11 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 13 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 14 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 9 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 13 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 14 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
 | 15 | [Corica](http://twitter.com/search?q=Corica) | N/A |
 | 16 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 17 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
 | 18 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
-| 19 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 20 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 21 | [Sheezel](http://twitter.com/search?q=Sheezel) | N/A |
-| 22 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
-| 23 | [Victoria Police](http://twitter.com/search?q=Victoria+Police) | N/A |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 26 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 29 | [MR BRIGHTSIDE](http://twitter.com/search?q=MR+BRIGHTSIDE) | N/A |
-| 30 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 31 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 32 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
-| 33 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 34 | [Shinzo](http://twitter.com/search?q=Shinzo) | N/A |
-| 35 | [Keating](http://twitter.com/search?q=Keating) | N/A |
-| 36 | [liam jones](http://twitter.com/search?q=liam+jones) | N/A |
-| 37 | [Naarm](http://twitter.com/search?q=Naarm) | N/A |
-| 38 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 39 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 40 | [reece walsh](http://twitter.com/search?q=reece+walsh) | N/A |
-| 41 | [xerri](http://twitter.com/search?q=xerri) | N/A |
-| 42 | [jeremy howe](http://twitter.com/search?q=jeremy+howe) | N/A |
-| 43 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 44 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
-| 45 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 46 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 49 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 50 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 19 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
+| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 21 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 22 | [Sheezel](http://twitter.com/search?q=Sheezel) | N/A |
+| 23 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 24 | [Victoria Police](http://twitter.com/search?q=Victoria+Police) | N/A |
+| 25 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 26 | [MR BRIGHTSIDE](http://twitter.com/search?q=MR+BRIGHTSIDE) | N/A |
+| 27 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 28 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
+| 29 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 32 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 33 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 34 | [liam jones](http://twitter.com/search?q=liam+jones) | N/A |
+| 35 | [reece walsh](http://twitter.com/search?q=reece+walsh) | N/A |
+| 36 | [xerri](http://twitter.com/search?q=xerri) | N/A |
+| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 38 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 39 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 40 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 41 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 42 | [sydney fc](http://twitter.com/search?q=sydney+fc) | N/A |
+| 43 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 44 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 45 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 46 | [Bailey Smith](http://twitter.com/search?q=Bailey+Smith) | N/A |
+| 47 | [Cody Walker](http://twitter.com/search?q=Cody+Walker) | N/A |
+| 48 | [YMCA](http://twitter.com/search?q=YMCA) | N/A |
+| 49 | [Lobb](http://twitter.com/search?q=Lobb) | N/A |
+| 50 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
 
 
 
