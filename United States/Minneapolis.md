@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-18 21:17:15 UTC`
+📆 Last Updated: `2023-03-18 22:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
 | 3 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
 | 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 5 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
+| 5 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
 | 6 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 7 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 8 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 9 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
-| 10 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 12 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 13 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 14 | [James Reimer](http://twitter.com/search?q=James+Reimer) | N/A |
-| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 16 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 17 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 18 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
-| 19 | [Dook](http://twitter.com/search?q=Dook) | N/A |
-| 20 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 21 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 22 | [#Sweet16](http://twitter.com/search?q=%23Sweet16) | N/A |
-| 23 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 24 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 26 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 27 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
-| 28 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 29 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 30 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 31 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 32 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 33 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
-| 34 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 35 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 36 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 37 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
-| 38 | [Uros](http://twitter.com/search?q=Uros) | N/A |
-| 39 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 40 | [Stan Van Gundy](http://twitter.com/search?q=Stan+Van+Gundy) | N/A |
-| 41 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 42 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 43 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 44 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 45 | [Sam Patterson](http://twitter.com/search?q=Sam+Patterson) | N/A |
-| 46 | [Blue Devils](http://twitter.com/search?q=Blue+Devils) | N/A |
-| 47 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
+| 7 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 8 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 9 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
+| 10 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 11 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
+| 12 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 13 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 14 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
+| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 16 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 17 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 18 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 19 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
+| 20 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 21 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 22 | [Dook](http://twitter.com/search?q=Dook) | N/A |
+| 23 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 24 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 25 | [#PokemonGOCommunityDay](http://twitter.com/search?q=%23PokemonGOCommunityDay) | N/A |
+| 26 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 27 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 28 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
+| 29 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 30 | [#Sweet16](http://twitter.com/search?q=%23Sweet16) | N/A |
+| 31 | [Olivier Nkamhoua](http://twitter.com/search?q=Olivier+Nkamhoua) | N/A |
+| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 33 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
+| 34 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
+| 35 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 36 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 37 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 38 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 39 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 40 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 41 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 42 | [UFC Hall of Fame](http://twitter.com/search?q=UFC+Hall+of+Fame) | N/A |
+| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 44 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 45 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
+| 46 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 47 | [Protest](http://twitter.com/search?q=Protest) | N/A |
 | 48 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 49 | [The Vols](http://twitter.com/search?q=The+Vols) | N/A |
-| 50 | [Christian Eckes](http://twitter.com/search?q=Christian+Eckes) | N/A |
+| 49 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
+| 50 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
 
 
 

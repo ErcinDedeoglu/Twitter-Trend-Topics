@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-03-18 21:17:12 UTC`
+📆 Last Updated: `2023-03-18 22:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TWill](http://twitter.com/search?q=TWill) | N/A |
-| 2 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 3 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 4 | [Jett](http://twitter.com/search?q=Jett) | N/A |
-| 5 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 6 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 7 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 8 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 9 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
-| 10 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 11 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 12 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 13 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
+| 1 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 2 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 3 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 4 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 5 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 6 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 7 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 8 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 9 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 10 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
+| 11 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 12 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
+| 13 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
 | 14 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 16 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 15 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
+| 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 17 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 18 | [James Reimer](http://twitter.com/search?q=James+Reimer) | N/A |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 21 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 22 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 18 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 19 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 20 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
+| 21 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 22 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
 | 23 | [Dook](http://twitter.com/search?q=Dook) | N/A |
-| 24 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 25 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 26 | [#Sweet16](http://twitter.com/search?q=%23Sweet16) | N/A |
-| 27 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 28 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 29 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 30 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
-| 31 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 32 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 33 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 34 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 35 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
-| 36 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 37 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 38 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 39 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
-| 40 | [Uros](http://twitter.com/search?q=Uros) | N/A |
-| 41 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 42 | [Stan Van Gundy](http://twitter.com/search?q=Stan+Van+Gundy) | N/A |
-| 43 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 45 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 46 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 47 | [Sam Patterson](http://twitter.com/search?q=Sam+Patterson) | N/A |
-| 48 | [Blue Devils](http://twitter.com/search?q=Blue+Devils) | N/A |
+| 24 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 25 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 26 | [#PokemonGOCommunityDay](http://twitter.com/search?q=%23PokemonGOCommunityDay) | N/A |
+| 27 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 28 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 29 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
+| 30 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 31 | [Olivier Nkamhoua](http://twitter.com/search?q=Olivier+Nkamhoua) | N/A |
+| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 33 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
+| 34 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
+| 35 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 36 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 37 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 38 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 39 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 40 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 41 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 42 | [UFC Hall of Fame](http://twitter.com/search?q=UFC+Hall+of+Fame) | N/A |
+| 43 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 44 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 45 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 46 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
+| 47 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 48 | [Protest](http://twitter.com/search?q=Protest) | N/A |
 
 
 

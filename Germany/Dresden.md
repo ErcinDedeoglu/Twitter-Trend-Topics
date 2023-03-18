@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-18 21:16:40 UTC`
+📆 Last Updated: `2023-03-18 22:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dudw](http://twitter.com/search?q=%23dudw) | N/A |
-| 2 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
+| 1 | [#BOCRBL](http://twitter.com/search?q=%23BOCRBL) | N/A |
+| 2 | [#DudW](http://twitter.com/search?q=%23DudW) | N/A |
 | 3 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 4 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 4 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
 | 5 | [Punsch](http://twitter.com/search?q=Punsch) | N/A |
-| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 6 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
 | 7 | [Selke](http://twitter.com/search?q=Selke) | N/A |
-| 8 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
+| 8 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
 | 9 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
-| 10 | [Baumgart](http://twitter.com/search?q=Baumgart) | N/A |
-| 11 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 12 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
-| 13 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 14 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 15 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 16 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 17 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
-| 18 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 19 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 20 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
-| 21 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 23 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
-| 24 | [Flanken](http://twitter.com/search?q=Flanken) | N/A |
-| 25 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 26 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 27 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
-| 28 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 11 | [Baumgart](http://twitter.com/search?q=Baumgart) | N/A |
+| 12 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 13 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 15 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 16 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 17 | [Köln](http://twitter.com/search?q=K%c3%b6ln) | N/A |
+| 18 | [Abstieg](http://twitter.com/search?q=Abstieg) | N/A |
+| 19 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
+| 20 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 21 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
+| 22 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 23 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
+| 24 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 25 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
+| 26 | [Stürmer](http://twitter.com/search?q=St%c3%bcrmer) | N/A |
+| 27 | [Klimaneutralität](http://twitter.com/search?q=Klimaneutralit%c3%a4t) | N/A |
+| 28 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
 | 29 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 30 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 31 | [Stürmer](http://twitter.com/search?q=St%c3%bcrmer) | N/A |
-| 32 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 33 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 34 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 35 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
-| 36 | [Mittelfeld](http://twitter.com/search?q=Mittelfeld) | N/A |
-| 37 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 38 | [Anzeigen](http://twitter.com/search?q=Anzeigen) | N/A |
-| 39 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 40 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 41 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 42 | [Rasen](http://twitter.com/search?q=Rasen) | N/A |
-| 43 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
-| 44 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 45 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 46 | [#SVDFCK](http://twitter.com/search?q=%23SVDFCK) | N/A |
-| 47 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
-| 48 | [#Kaisermania](http://twitter.com/search?q=%23Kaisermania) | N/A |
-| 49 | [#Wilsberg](http://twitter.com/search?q=%23Wilsberg) | N/A |
+| 30 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 31 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 32 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 33 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 34 | [Anzeigen](http://twitter.com/search?q=Anzeigen) | N/A |
+| 35 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 36 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 37 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 38 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 39 | [#SVDFCK](http://twitter.com/search?q=%23SVDFCK) | N/A |
+| 40 | [#Kaisermania](http://twitter.com/search?q=%23Kaisermania) | N/A |
+| 41 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
+| 42 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 43 | [#Wilsberg](http://twitter.com/search?q=%23Wilsberg) | N/A |
+| 44 | [#VfBWOB](http://twitter.com/search?q=%23VfBWOB) | N/A |
+| 45 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 46 | [#Labbadia](http://twitter.com/search?q=%23Labbadia) | N/A |
+| 47 | [#TSGBSC](http://twitter.com/search?q=%23TSGBSC) | N/A |
+| 48 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 49 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
 
 
 

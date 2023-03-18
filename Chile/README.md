@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-18 21:17:22 UTC`
+📆 Last Updated: `2023-03-18 22:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,42 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 2 | [#LollaCL2023](http://twitter.com/search?q=%23LollaCL2023) | N/A |
-| 3 | [#CierreDeFronteras](http://twitter.com/search?q=%23CierreDeFronteras) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 6 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [IMEI](http://twitter.com/search?q=IMEI) | N/A |
-| 9 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 10 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 11 | [René](http://twitter.com/search?q=Ren%c3%a9) | N/A |
-| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 13 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 14 | [Young Cister](http://twitter.com/search?q=Young+Cister) | Young Cister is a youth movement of the Cistercian Order, a Roman Catholic religious order. The movement was founded in France in 1948 and is open to young people aged between 18 and 35. Its purpose is to promote the values of the Cistercian Order among young people, including prayer, work, and community life. The English translation of Young Cister is "Young Cistercians". |
-| 15 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 16 | [#CSLvsCCxTNTSports](http://twitter.com/search?q=%23CSLvsCCxTNTSports) | N/A |
-| 17 | [#marceloriosentvn](http://twitter.com/search?q=%23marceloriosentvn) | N/A |
-| 18 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 19 | [Votar](http://twitter.com/search?q=Votar) | N/A |
-| 20 | [Jorge Edwards](http://twitter.com/search?q=Jorge+Edwards) | N/A |
-| 21 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 22 | [Nelson Acosta](http://twitter.com/search?q=Nelson+Acosta) | N/A |
-| 23 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 24 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
-| 25 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
-| 26 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 27 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
-| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 29 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 31 | [Robotech](http://twitter.com/search?q=Robotech) | N/A |
-| 32 | [Paqui](http://twitter.com/search?q=Paqui) | N/A |
-| 33 | [Claudia Cancino](http://twitter.com/search?q=Claudia+Cancino) | N/A |
-| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 35 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 36 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
-| 37 | [Damián](http://twitter.com/search?q=Dami%c3%a1n) | N/A |
-| 38 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
-| 39 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 40 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 41 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 43 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 44 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
-| 45 | [Gendarmería](http://twitter.com/search?q=Gendarmer%c3%ada) | N/A |
-| 46 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 47 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 48 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 49 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 3 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 4 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 5 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 6 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 7 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 8 | [#CSLvsCCxTNTSports](http://twitter.com/search?q=%23CSLvsCCxTNTSports) | N/A |
+| 9 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 10 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
+| 11 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 12 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 13 | [Moya](http://twitter.com/search?q=Moya) | N/A |
+| 14 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
+| 15 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 16 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 17 | [Vicho](http://twitter.com/search?q=Vicho) | N/A |
+| 18 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 19 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 20 | [René](http://twitter.com/search?q=Ren%c3%a9) | N/A |
+| 21 | [Leo Gil](http://twitter.com/search?q=Leo+Gil) | N/A |
+| 22 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 23 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
+| 24 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
+| 25 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 26 | [Young Cister](http://twitter.com/search?q=Young+Cister) | Young Cister is a youth movement of the Cistercian Order, a Roman Catholic religious order. The movement was founded in France in 1948 and is open to young people aged between 18 and 35. Its purpose is to promote the values of the Cistercian Order among young people, including prayer, work, and community life. The English translation of Young Cister is "Young Cistercians". |
+| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 28 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 29 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 30 | [#CierreDeFronteras](http://twitter.com/search?q=%23CierreDeFronteras) | N/A |
+| 31 | [Votar](http://twitter.com/search?q=Votar) | N/A |
+| 32 | [CARA DE RAJA](http://twitter.com/search?q=CARA+DE+RAJA) | N/A |
+| 33 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
+| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 35 | [Punta Peuco](http://twitter.com/search?q=Punta+Peuco) | N/A |
+| 36 | [IMEI](http://twitter.com/search?q=IMEI) | N/A |
+| 37 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
 
 
 

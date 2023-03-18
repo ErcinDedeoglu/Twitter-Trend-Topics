@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-18 21:17:23 UTC`
+📆 Last Updated: `2023-03-18 22:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Ireland
 | 1 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
 | 2 | [#GrandSlam](http://twitter.com/search?q=%23GrandSlam) | N/A |
 | 3 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 4 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 5 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 6 | [England](http://twitter.com/search?q=England) | N/A |
-| 7 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
-| 8 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
-| 9 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 10 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 12 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 13 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 15 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 16 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 17 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
-| 18 | [Sheehan](http://twitter.com/search?q=Sheehan) | N/A |
-| 19 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 20 | [Robbie Henshaw](http://twitter.com/search?q=Robbie+Henshaw) | N/A |
-| 21 | [Roscommon](http://twitter.com/search?q=Roscommon) | N/A |
-| 22 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 23 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 24 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 26 | [David Clifford](http://twitter.com/search?q=David+Clifford) | N/A |
-| 27 | [Meath](http://twitter.com/search?q=Meath) | N/A |
-| 28 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 29 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 31 | [Athenry](http://twitter.com/search?q=Athenry) | N/A |
-| 32 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 33 | [RIP Lance Reddick](http://twitter.com/search?q=RIP+Lance+Reddick) | N/A |
-| 34 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 35 | [Sally Rooney](http://twitter.com/search?q=Sally+Rooney) | N/A |
-| 36 | [Navan](http://twitter.com/search?q=Navan) | N/A |
-| 37 | [ben healy](http://twitter.com/search?q=ben+healy) | N/A |
-| 38 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 39 | [Donnybrook](http://twitter.com/search?q=Donnybrook) | N/A |
-| 40 | [Doug](http://twitter.com/search?q=Doug) | N/A |
-| 41 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 42 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 5 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 6 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 7 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 8 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
+| 9 | [#tommytiernanshow](http://twitter.com/search?q=%23tommytiernanshow) | N/A |
+| 10 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 11 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 12 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 13 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 15 | [Dan Sheehan](http://twitter.com/search?q=Dan+Sheehan) | N/A |
+| 16 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 17 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 18 | [Owen Farrell](http://twitter.com/search?q=Owen+Farrell) | N/A |
+| 19 | [Steward](http://twitter.com/search?q=Steward) | N/A |
+| 20 | [Roscommon](http://twitter.com/search?q=Roscommon) | N/A |
+| 21 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 22 | [Meath](http://twitter.com/search?q=Meath) | N/A |
+| 23 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 24 | [RIP Lance Reddick](http://twitter.com/search?q=RIP+Lance+Reddick) | N/A |
+| 25 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 26 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 27 | [Sally Rooney](http://twitter.com/search?q=Sally+Rooney) | N/A |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 30 | [Navan](http://twitter.com/search?q=Navan) | N/A |
+| 31 | [ben healy](http://twitter.com/search?q=ben+healy) | N/A |
+| 32 | [Longford](http://twitter.com/search?q=Longford) | N/A |
+| 33 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 34 | [Doug](http://twitter.com/search?q=Doug) | N/A |
+| 35 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 36 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 37 | [Furlong](http://twitter.com/search?q=Furlong) | N/A |
+| 38 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 39 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
+| 40 | [Conan](http://twitter.com/search?q=Conan) | N/A |
+| 41 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 43 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 44 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 45 | [Furlong](http://twitter.com/search?q=Furlong) | N/A |
-| 46 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
-| 47 | [Conan](http://twitter.com/search?q=Conan) | N/A |
-| 48 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 49 | [Lansdowne Road](http://twitter.com/search?q=Lansdowne+Road) | N/A |
-| 50 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 44 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 45 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 46 | [Lansdowne Road](http://twitter.com/search?q=Lansdowne+Road) | N/A |
+| 47 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
+| 48 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 49 | [Robbie Henshaw](http://twitter.com/search?q=Robbie+Henshaw) | N/A |
+| 50 | [Shels](http://twitter.com/search?q=Shels) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-18 21:16:35 UTC`
+📆 Last Updated: `2023-03-18 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 2 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 3 | [Jacaré](http://twitter.com/search?q=Jacar%c3%a9) | Jacaré is a Portuguese word meaning "alligator". It is also used as a nickname for people who are strong and powerful. |
+| 2 | [Jacaré](http://twitter.com/search?q=Jacar%c3%a9) | Jacaré is a Portuguese word meaning "alligator". It is also used as a nickname for people who are strong and powerful. |
+| 3 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
 | 4 | [#BaianãoNaTVE](http://twitter.com/search?q=%23Baian%c3%a3oNaTVE) | N/A |
 | 5 | [#BBMP](http://twitter.com/search?q=%23BBMP) | N/A |
-| 6 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 7 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 8 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 9 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 10 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 11 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 12 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 13 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 14 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 15 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 16 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
-| 17 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 18 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 19 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 20 | [Jhonny](http://twitter.com/search?q=Jhonny) | N/A |
-| 21 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 22 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 23 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 24 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
-| 25 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
-| 26 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
-| 27 | [#XouDaXuxaNoVIVA](http://twitter.com/search?q=%23XouDaXuxaNoVIVA) | N/A |
-| 28 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
-| 29 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 30 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 31 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
-| 32 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 33 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 34 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 35 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
-| 36 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
-| 39 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 40 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
-| 41 | [#copadonordestenosbt](http://twitter.com/search?q=%23copadonordestenosbt) | N/A |
-| 42 | [Alexsander](http://twitter.com/search?q=Alexsander) | N/A |
-| 43 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
-| 44 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 45 | [Jean Pierre](http://twitter.com/search?q=Jean+Pierre) | N/A |
-| 46 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 47 | [doka](http://twitter.com/search?q=doka) | N/A |
-| 48 | [Xororó](http://twitter.com/search?q=Xoror%c3%b3) | N/A |
-| 49 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 50 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
+| 6 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 7 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 8 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 9 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 10 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 11 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 12 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 13 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 14 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 15 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
+| 16 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 17 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 18 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 19 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
+| 20 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 21 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 22 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
+| 23 | [PARABÉNS GIOANTO](http://twitter.com/search?q=PARAB%c3%89NS+GIOANTO) | N/A |
+| 24 | [Jhonny](http://twitter.com/search?q=Jhonny) | N/A |
+| 25 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
+| 26 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 27 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 28 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
+| 29 | [#copadonordestenosbt](http://twitter.com/search?q=%23copadonordestenosbt) | N/A |
+| 30 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
+| 31 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 32 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 33 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
+| 34 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
+| 35 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
+| 36 | [Jean Pierre](http://twitter.com/search?q=Jean+Pierre) | N/A |
+| 37 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
+| 38 | [LUDMILLA SOLTEIRAS SHAKE](http://twitter.com/search?q=LUDMILLA+SOLTEIRAS+SHAKE) | N/A |
+| 39 | [#XouDaXuxaNoVIVA](http://twitter.com/search?q=%23XouDaXuxaNoVIVA) | N/A |
+| 40 | [LUDMILLA BRIGAS DEMAIS](http://twitter.com/search?q=LUDMILLA+BRIGAS+DEMAIS) | N/A |
+| 41 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
+| 42 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
+| 43 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 44 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 45 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 46 | [doka](http://twitter.com/search?q=doka) | N/A |
+| 47 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
+| 48 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
+| 49 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
+| 50 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
 
 
 

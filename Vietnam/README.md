@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-18 21:17:30 UTC`
+📆 Last Updated: `2023-03-18 22:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,9 +43,9 @@ This is top 50 for Vietnam
 | 26 | [Yess](http://twitter.com/search?q=Yess) | N/A |
 | 27 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
 | 28 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 29 | [Tổng](http://twitter.com/search?q=T%e1%bb%95ng) | N/A |
+| 29 | [tổng](http://twitter.com/search?q=t%e1%bb%95ng) | N/A |
 | 30 | [Token](http://twitter.com/search?q=Token) | N/A |
-| 31 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 31 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
 | 32 | [GenG](http://twitter.com/search?q=GenG) | N/A |
 | 33 | [hình](http://twitter.com/search?q=h%c3%acnh) | N/A |
 | 34 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Vietnam
 | 37 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
 | 38 | [sóng](http://twitter.com/search?q=s%c3%b3ng) | N/A |
 | 39 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 40 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 40 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
 | 41 | [KCON](http://twitter.com/search?q=KCON) | N/A |
 | 42 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
 | 43 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Vietnam
 | 46 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
 | 47 | [Solana](http://twitter.com/search?q=Solana) | N/A |
 | 48 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 49 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 49 | [chưa](http://twitter.com/search?q=ch%c6%b0a) | N/A |
 | 50 | [Holy](http://twitter.com/search?q=Holy) | N/A |
 
 

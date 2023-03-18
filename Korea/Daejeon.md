@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Daejeon
 
-📆 Last Updated: `2023-03-18 21:17:10 UTC`
+📆 Last Updated: `2023-03-18 22:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for [Korea](</Korea>)
 | 2 | [트친 취향표](http://twitter.com/search?q=%ed%8a%b8%ec%b9%9c+%ec%b7%a8%ed%96%a5%ed%91%9c) | N/A |
 | 3 | [#사쿠라_아름답게_피어나다](http://twitter.com/search?q=%23%ec%82%ac%ec%bf%a0%eb%9d%bc_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b2%8c_%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4) | N/A |
 | 4 | [#큥이버블](http://twitter.com/search?q=%23%ed%81%a5%ec%9d%b4%eb%b2%84%eb%b8%94) | N/A |
-| 5 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
-| 6 | [취한 최애](http://twitter.com/search?q=%ec%b7%a8%ed%95%9c+%ec%b5%9c%ec%95%a0) | N/A |
-| 7 | [#러비티_트친소](http://twitter.com/search?q=%23%eb%9f%ac%eb%b9%84%ed%8b%b0_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 8 | [야릇한 애정행각](http://twitter.com/search?q=%ec%95%bc%eb%a6%87%ed%95%9c+%ec%95%a0%ec%a0%95%ed%96%89%ea%b0%81) | N/A |
+| 5 | [취한 최애](http://twitter.com/search?q=%ec%b7%a8%ed%95%9c+%ec%b5%9c%ec%95%a0) | N/A |
+| 6 | [#러비티_트친소](http://twitter.com/search?q=%23%eb%9f%ac%eb%b9%84%ed%8b%b0_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 7 | [야릇한 애정행각](http://twitter.com/search?q=%ec%95%bc%eb%a6%87%ed%95%9c+%ec%95%a0%ec%a0%95%ed%96%89%ea%b0%81) | N/A |
+| 8 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
 | 9 | [#온유버블](http://twitter.com/search?q=%23%ec%98%a8%ec%9c%a0%eb%b2%84%eb%b8%94) | N/A |
 | 10 | [페리시치](http://twitter.com/search?q=%ed%8e%98%eb%a6%ac%ec%8b%9c%ec%b9%98) | N/A |
 | 11 | [로버 챌린](http://twitter.com/search?q=%eb%a1%9c%eb%b2%84+%ec%b1%8c%eb%a6%b0) | N/A |
@@ -41,14 +41,14 @@ This is top 50 for [Korea](</Korea>)
 | 24 | [갑타 유료](http://twitter.com/search?q=%ea%b0%91%ed%83%80+%ec%9c%a0%eb%a3%8c) | N/A |
 | 25 | [뚝딱이형](http://twitter.com/search?q=%eb%9a%9d%eb%94%b1%ec%9d%b4%ed%98%95) | N/A |
 | 26 | [서태웅 특전](http://twitter.com/search?q=%ec%84%9c%ed%83%9c%ec%9b%85+%ed%8a%b9%ec%a0%84) | N/A |
-| 27 | [이명헌 허벅지](http://twitter.com/search?q=%ec%9d%b4%eb%aa%85%ed%97%8c+%ed%97%88%eb%b2%85%ec%a7%80) | N/A |
-| 28 | [공수테스트](http://twitter.com/search?q=%ea%b3%b5%ec%88%98%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
-| 29 | [비투비 트레카](http://twitter.com/search?q=%eb%b9%84%ed%88%ac%eb%b9%84+%ed%8a%b8%eb%a0%88%ec%b9%b4) | N/A |
-| 30 | [모범택시](http://twitter.com/search?q=%eb%aa%a8%eb%b2%94%ed%83%9d%ec%8b%9c) | N/A |
-| 31 | [호쿠사이](http://twitter.com/search?q=%ed%98%b8%ec%bf%a0%ec%82%ac%ec%9d%b4) | N/A |
-| 32 | [패션위크](http://twitter.com/search?q=%ed%8c%a8%ec%85%98%ec%9c%84%ed%81%ac) | 패션위크 (paesyeon-wikeu) is a Korean term for a fashion show or event. It is an event where fashion designers, models, and other industry professionals come together to showcase their latest designs and trends. In English, it can be translated as "Fashion Week". |
-| 33 | [런브라운](http://twitter.com/search?q=%eb%9f%b0%eb%b8%8c%eb%9d%bc%ec%9a%b4) | N/A |
-| 34 | [과대오빠](http://twitter.com/search?q=%ea%b3%bc%eb%8c%80%ec%98%a4%eb%b9%a0) | N/A |
+| 27 | [공수테스트](http://twitter.com/search?q=%ea%b3%b5%ec%88%98%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
+| 28 | [비투비 트레카](http://twitter.com/search?q=%eb%b9%84%ed%88%ac%eb%b9%84+%ed%8a%b8%eb%a0%88%ec%b9%b4) | N/A |
+| 29 | [모범택시](http://twitter.com/search?q=%eb%aa%a8%eb%b2%94%ed%83%9d%ec%8b%9c) | N/A |
+| 30 | [호쿠사이](http://twitter.com/search?q=%ed%98%b8%ec%bf%a0%ec%82%ac%ec%9d%b4) | N/A |
+| 31 | [패션위크](http://twitter.com/search?q=%ed%8c%a8%ec%85%98%ec%9c%84%ed%81%ac) | 패션위크 (paesyeon-wikeu) is a Korean term for a fashion show or event. It is an event where fashion designers, models, and other industry professionals come together to showcase their latest designs and trends. In English, it can be translated as "Fashion Week". |
+| 32 | [런브라운](http://twitter.com/search?q=%eb%9f%b0%eb%b8%8c%eb%9d%bc%ec%9a%b4) | N/A |
+| 33 | [과대오빠](http://twitter.com/search?q=%ea%b3%bc%eb%8c%80%ec%98%a4%eb%b9%a0) | N/A |
+| 34 | [이명헌 허벅지](http://twitter.com/search?q=%ec%9d%b4%eb%aa%85%ed%97%8c+%ed%97%88%eb%b2%85%ec%a7%80) | N/A |
 | 35 | [사우스햄튼](http://twitter.com/search?q=%ec%82%ac%ec%9a%b0%ec%8a%a4%ed%96%84%ed%8a%bc) | N/A |
 | 36 | [혀니비니](http://twitter.com/search?q=%ed%98%80%eb%8b%88%eb%b9%84%eb%8b%88) | N/A |
 | 37 | [데파 굿즈](http://twitter.com/search?q=%eb%8d%b0%ed%8c%8c+%ea%b5%bf%ec%a6%88) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [Korea](</Korea>)
 | 46 | [이번 유료](http://twitter.com/search?q=%ec%9d%b4%eb%b2%88+%ec%9c%a0%eb%a3%8c) | N/A |
 | 47 | [데드파더스](http://twitter.com/search?q=%eb%8d%b0%eb%93%9c%ed%8c%8c%eb%8d%94%ec%8a%a4) | N/A |
 | 48 | [비바라비](http://twitter.com/search?q=%eb%b9%84%eb%b0%94%eb%9d%bc%eb%b9%84) | N/A |
-| 49 | [북마크 횟수](http://twitter.com/search?q=%eb%b6%81%eb%a7%88%ed%81%ac+%ed%9a%9f%ec%88%98) | N/A |
+| 49 | [동그랑땡](http://twitter.com/search?q=%eb%8f%99%ea%b7%b8%eb%9e%91%eb%95%a1) | N/A |
 
 
 

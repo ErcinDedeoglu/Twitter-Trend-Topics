@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-03-18 21:17:25 UTC`
+📆 Last Updated: `2023-03-18 22:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Oman
 | 8 | [الاداء الموسسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d9%8a) | N/A |
 | 9 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 | 10 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
-| 11 | [وزير العمل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 12 | [الشباب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
-| 13 | [يزن بن هيثم](http://twitter.com/search?q=%d9%8a%d8%b2%d9%86+%d8%a8%d9%86+%d9%87%d9%8a%d8%ab%d9%85) | N/A |
-| 14 | [النهج السامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%ac+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
-| 15 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 16 | [صاحب السمو السيد](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 17 | [بني بوعلي](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%a8%d9%88%d8%b9%d9%84%d9%8a) | N/A |
-| 18 | [محمد العويسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3%d9%8a) | N/A |
+| 11 | [الشباب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 12 | [يزن بن هيثم](http://twitter.com/search?q=%d9%8a%d8%b2%d9%86+%d8%a8%d9%86+%d9%87%d9%8a%d8%ab%d9%85) | N/A |
+| 13 | [النهج السامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%ac+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
+| 14 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 15 | [صاحب السمو السيد](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 16 | [بني بوعلي](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%a8%d9%88%d8%b9%d9%84%d9%8a) | N/A |
+| 17 | [محمد العويسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3%d9%8a) | N/A |
+| 18 | [وزير العمل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
 | 19 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
 | 20 | [الرويه المستقبليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
-| 21 | [الموتمر الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 22 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 21 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 22 | [الموتمر الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
 | 23 | [نجم الريالتي](http://twitter.com/search?q=%d9%86%d8%ac%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84%d8%aa%d9%8a) | N/A |
 | 24 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 25 | [فيات المجتمع](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
-| 26 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 27 | [الامانه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 28 | [دوري الاضواء](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b6%d9%88%d8%a7%d8%a1) | N/A |
-| 29 | [سينما الرسيل](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d9%85%d8%a7+%d8%a7%d9%84%d8%b1%d8%b3%d9%8a%d9%84) | N/A |
+| 26 | [سينما الرسيل](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d9%85%d8%a7+%d8%a7%d9%84%d8%b1%d8%b3%d9%8a%d9%84) | N/A |
+| 27 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 28 | [الامانه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 29 | [دوري الاضواء](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b6%d9%88%d8%a7%d8%a1) | N/A |
 | 30 | [شباب الوطن](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 31 | [المجلس البلدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a) | N/A |
-| 32 | [الرعايه الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b9%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
-| 33 | [الاجراءات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 31 | [الرعايه الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b9%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 32 | [الاجراءات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 33 | [نادي عبري](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%b9%d8%a8%d8%b1%d9%8a) | N/A |
 | 34 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 35 | [جنوب الشرقيه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
-| 36 | [الجلسه الحواريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 37 | [عادل](http://twitter.com/search?q=%d8%b9%d8%a7%d8%af%d9%84) | N/A |
-| 38 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 39 | [سعيد وزير الثقافه](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%87) | N/A |
-| 40 | [ابو عماد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d9%85%d8%a7%d8%af) | N/A |
-| 41 | [نادي عبري](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%b9%d8%a8%d8%b1%d9%8a) | N/A |
-| 42 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 43 | [الشركات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 44 | [اليات المتابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 45 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 46 | [المرحله الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 47 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 48 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 49 | [١٩ مارس](http://twitter.com/search?q=%d9%a1%d9%a9+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 50 | [الموسم القادم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85) | N/A |
+| 35 | [الجلسه الحواريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 36 | [عادل](http://twitter.com/search?q=%d8%b9%d8%a7%d8%af%d9%84) | N/A |
+| 37 | [سعيد وزير الثقافه](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%87) | N/A |
+| 38 | [ابو عماد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d9%85%d8%a7%d8%af) | N/A |
+| 39 | [الشرقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
+| 40 | [المجلس البلدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a) | N/A |
+| 41 | [الشركات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 42 | [اليات المتابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 43 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 44 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 45 | [المرحله الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 46 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 47 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 48 | [الموسم القادم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85) | N/A |
+| 49 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 50 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
 
 
 

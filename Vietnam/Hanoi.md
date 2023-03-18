@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-18 21:16:56 UTC`
+📆 Last Updated: `2023-03-18 22:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,7 +42,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 25 | [Yess](http://twitter.com/search?q=Yess) | N/A |
 | 26 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
 | 27 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 28 | [Tổng](http://twitter.com/search?q=T%e1%bb%95ng) | N/A |
+| 28 | [tổng](http://twitter.com/search?q=t%e1%bb%95ng) | N/A |
 | 29 | [Token](http://twitter.com/search?q=Token) | N/A |
 | 30 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
 | 31 | [GenG](http://twitter.com/search?q=GenG) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 36 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
 | 37 | [sóng](http://twitter.com/search?q=s%c3%b3ng) | N/A |
 | 38 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 39 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 39 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
 | 40 | [KCON](http://twitter.com/search?q=KCON) | N/A |
 | 41 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
 | 42 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |

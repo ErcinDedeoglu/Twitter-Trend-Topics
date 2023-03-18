@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-18 21:17:19 UTC`
+📆 Last Updated: `2023-03-18 22:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 3 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
-| 6 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 7 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 8 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 9 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
+| 1 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 2 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
+| 5 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
+| 6 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 7 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 8 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 9 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
 | 10 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
 | 11 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 12 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
+| 12 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
 | 13 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 14 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 15 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 16 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
-| 17 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 19 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 20 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 21 | [James Reimer](http://twitter.com/search?q=James+Reimer) | N/A |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 24 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 25 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
-| 26 | [Dook](http://twitter.com/search?q=Dook) | N/A |
-| 27 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 28 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 29 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 30 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 31 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 32 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
-| 33 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 34 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 35 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 36 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 37 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
-| 38 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 39 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 40 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 41 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
-| 42 | [Uros](http://twitter.com/search?q=Uros) | N/A |
-| 43 | [Stan Van Gundy](http://twitter.com/search?q=Stan+Van+Gundy) | N/A |
-| 44 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 45 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 46 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 47 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 48 | [Sam Patterson](http://twitter.com/search?q=Sam+Patterson) | N/A |
-| 49 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 50 | [Blue Devils](http://twitter.com/search?q=Blue+Devils) | N/A |
+| 14 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 15 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 16 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
+| 17 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 18 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
+| 19 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 20 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 21 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
+| 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 23 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 24 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 25 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 26 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 27 | [Dook](http://twitter.com/search?q=Dook) | N/A |
+| 28 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 29 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 30 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 31 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 32 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
+| 33 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 34 | [Olivier Nkamhoua](http://twitter.com/search?q=Olivier+Nkamhoua) | N/A |
+| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 36 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
+| 37 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
+| 38 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 39 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 41 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 42 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 43 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 44 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 45 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 46 | [UFC Hall of Fame](http://twitter.com/search?q=UFC+Hall+of+Fame) | N/A |
+| 47 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 48 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
+| 49 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 50 | [Protest](http://twitter.com/search?q=Protest) | N/A |
 
 
 

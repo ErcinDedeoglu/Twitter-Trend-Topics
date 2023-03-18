@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-03-18 21:16:33 UTC`
+📆 Last Updated: `2023-03-18 22:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 8 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
 | 9 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
 | 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 12 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 14 | [Sunacrip](http://twitter.com/search?q=Sunacrip) | N/A |
-| 15 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 16 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 17 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
-| 18 | [Mojado](http://twitter.com/search?q=Mojado) | N/A |
-| 19 | [Jorge Tuero](http://twitter.com/search?q=Jorge+Tuero) | N/A |
-| 20 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 21 | [CLAP](http://twitter.com/search?q=CLAP) | N/A |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [Día Nacional del Niño Indígena](http://twitter.com/search?q=D%c3%ada+Nacional+del+Ni%c3%b1o+Ind%c3%adgena) | N/A |
-| 24 | [Musi-k Fest](http://twitter.com/search?q=Musi-k+Fest) | N/A |
-| 25 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
-| 26 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
-| 27 | [Elorza](http://twitter.com/search?q=Elorza) | N/A |
-| 28 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
-| 29 | [Estatuto de Roma](http://twitter.com/search?q=Estatuto+de+Roma) | N/A |
-| 30 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 31 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 32 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 11 | [Sunacrip](http://twitter.com/search?q=Sunacrip) | N/A |
+| 12 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 13 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 14 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 15 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 16 | [Peter Pan](http://twitter.com/search?q=Peter+Pan) | N/A |
+| 17 | [Joselit Ramírez](http://twitter.com/search?q=Joselit+Ram%c3%adrez) | N/A |
+| 18 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
+| 19 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
+| 20 | [CLAP](http://twitter.com/search?q=CLAP) | N/A |
+| 21 | [Musi-k Fest](http://twitter.com/search?q=Musi-k+Fest) | N/A |
+| 22 | [Jorge Tuero](http://twitter.com/search?q=Jorge+Tuero) | N/A |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [Mojado](http://twitter.com/search?q=Mojado) | N/A |
+| 25 | [Día Nacional del Niño Indígena](http://twitter.com/search?q=D%c3%ada+Nacional+del+Ni%c3%b1o+Ind%c3%adgena) | N/A |
+| 26 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 27 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 28 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
+| 29 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 30 | [Estatuto de Roma](http://twitter.com/search?q=Estatuto+de+Roma) | N/A |
+| 31 | [Elorza](http://twitter.com/search?q=Elorza) | N/A |
+| 32 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 33 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 34 | [Mikaela](http://twitter.com/search?q=Mikaela) | N/A |
-| 35 | [Joselit Ramírez](http://twitter.com/search?q=Joselit+Ram%c3%adrez) | N/A |
+| 34 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 35 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
 | 36 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
-| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 38 | [Nueva Esparta](http://twitter.com/search?q=Nueva+Esparta) | N/A |
-| 39 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
-| 40 | [Tito Salas](http://twitter.com/search?q=Tito+Salas) | N/A |
-| 41 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 42 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 43 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 44 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 37 | [Nueva Esparta](http://twitter.com/search?q=Nueva+Esparta) | N/A |
+| 38 | [Tito Salas](http://twitter.com/search?q=Tito+Salas) | N/A |
+| 39 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 40 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 41 | [Delsa Solorzano](http://twitter.com/search?q=Delsa+Solorzano) | N/A |
+| 42 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 43 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 44 | [Bota](http://twitter.com/search?q=Bota) | N/A |
 | 45 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
-| 46 | [El TSJ](http://twitter.com/search?q=El+TSJ) | N/A |
+| 46 | [Mikaela](http://twitter.com/search?q=Mikaela) | N/A |
 | 47 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 48 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 49 | [Bota](http://twitter.com/search?q=Bota) | N/A |
+| 48 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 49 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 
 
 

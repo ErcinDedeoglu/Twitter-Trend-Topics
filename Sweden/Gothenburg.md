@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-18 21:16:46 UTC`
+📆 Last Updated: `2023-03-18 22:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
 | 2 | [Mjällby](http://twitter.com/search?q=Mj%c3%a4llby) | N/A |
 | 3 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 4 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 5 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 6 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 7 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 4 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 5 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 6 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 7 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
 | 8 | [Gävle](http://twitter.com/search?q=G%c3%a4vle) | N/A |
-| 9 | [Momarken](http://twitter.com/search?q=Momarken) | N/A |
-| 10 | [Lindbäck](http://twitter.com/search?q=Lindb%c3%a4ck) | N/A |
-| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 12 | [Borgman](http://twitter.com/search?q=Borgman) | N/A |
-| 13 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 14 | [Let's Dance](http://twitter.com/search?q=Let%27s+Dance) | N/A |
-| 15 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
-| 16 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
-| 17 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 18 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 19 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
-| 20 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 21 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 22 | [Foodora](http://twitter.com/search?q=Foodora) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 25 | [Strandvallen](http://twitter.com/search?q=Strandvallen) | N/A |
-| 26 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
-| 27 | [Ejdsell](http://twitter.com/search?q=Ejdsell) | N/A |
-| 28 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
-| 29 | [Adjei](http://twitter.com/search?q=Adjei) | N/A |
-| 30 | [Norge](http://twitter.com/search?q=Norge) | N/A |
-| 31 | [Karlskoga](http://twitter.com/search?q=Karlskoga) | N/A |
-| 32 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 33 | [Vagic](http://twitter.com/search?q=Vagic) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Bajen](http://twitter.com/search?q=Bajen) | N/A |
-| 36 | [Besara](http://twitter.com/search?q=Besara) | N/A |
-| 37 | [Pinas](http://twitter.com/search?q=Pinas) | N/A |
-| 38 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
-| 39 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 40 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 41 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 42 | [Emanuel Ksiazkiewicz](http://twitter.com/search?q=Emanuel+Ksiazkiewicz) | N/A |
-| 43 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 44 | [Hovet](http://twitter.com/search?q=Hovet) | N/A |
-| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 46 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 48 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
-| 49 | [Karin Pettersson](http://twitter.com/search?q=Karin+Pettersson) | N/A |
-| 50 | [tekie](http://twitter.com/search?q=tekie) | N/A |
+| 9 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 10 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 11 | [Momarken](http://twitter.com/search?q=Momarken) | N/A |
+| 12 | [Lindbäck](http://twitter.com/search?q=Lindb%c3%a4ck) | N/A |
+| 13 | [borgman](http://twitter.com/search?q=borgman) | N/A |
+| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 15 | [Let's Dance](http://twitter.com/search?q=Let%27s+Dance) | N/A |
+| 16 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 17 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 18 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 19 | [Foodora](http://twitter.com/search?q=Foodora) | N/A |
+| 20 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 21 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
+| 22 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
+| 23 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 24 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 25 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 26 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 27 | [adjei](http://twitter.com/search?q=adjei) | N/A |
+| 28 | [Norge](http://twitter.com/search?q=Norge) | N/A |
+| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 30 | [Strandvallen](http://twitter.com/search?q=Strandvallen) | N/A |
+| 31 | [Ejdsell](http://twitter.com/search?q=Ejdsell) | N/A |
+| 32 | [Vagic](http://twitter.com/search?q=Vagic) | N/A |
+| 33 | [Hovet](http://twitter.com/search?q=Hovet) | N/A |
+| 34 | [Besara](http://twitter.com/search?q=Besara) | N/A |
+| 35 | [Pinas](http://twitter.com/search?q=Pinas) | N/A |
+| 36 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
+| 37 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 38 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 39 | [Emanuel Ksiazkiewicz](http://twitter.com/search?q=Emanuel+Ksiazkiewicz) | N/A |
+| 40 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 41 | [Alcén](http://twitter.com/search?q=Alc%c3%a9n) | N/A |
+| 42 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 44 | [Bajen](http://twitter.com/search?q=Bajen) | N/A |
+| 45 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 46 | [Karin Pettersson](http://twitter.com/search?q=Karin+Pettersson) | N/A |
+| 47 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
+| 48 | [Haag](http://twitter.com/search?q=Haag) | N/A |
+| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 50 | [Dovin](http://twitter.com/search?q=Dovin) | N/A |
 
 
 

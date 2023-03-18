@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-18 21:17:14 UTC`
+📆 Last Updated: `2023-03-18 22:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 2 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 5 | [#ANIMEImpulseSD2023](http://twitter.com/search?q=%23ANIMEImpulseSD2023) | N/A |
+| 1 | [#ANIMEImpulseSD2023](http://twitter.com/search?q=%23ANIMEImpulseSD2023) | N/A |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [Go Aztecs](http://twitter.com/search?q=Go+Aztecs) | N/A |
+| 4 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 5 | [Waco](http://twitter.com/search?q=Waco) | N/A |
 | 6 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 7 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 8 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
-| 9 | [#SDSU](http://twitter.com/search?q=%23SDSU) | N/A |
-| 10 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 11 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 7 | [#SDSU](http://twitter.com/search?q=%23SDSU) | N/A |
+| 8 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 9 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 10 | [Lock](http://twitter.com/search?q=Lock) | N/A |
+| 11 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 | 12 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 13 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
-| 14 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 15 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 16 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 17 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 18 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 19 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 20 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 21 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 22 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
-| 23 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 24 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 25 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 13 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 14 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 15 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
+| 16 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 17 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 18 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 19 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 20 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 21 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 22 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 23 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 24 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
+| 25 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
 | 26 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
-| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 27 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
 | 28 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 29 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 30 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 31 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 33 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 34 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 35 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 29 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
+| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 31 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 32 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
+| 33 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 34 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
+| 35 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
 | 36 | [Dook](http://twitter.com/search?q=Dook) | N/A |
-| 37 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 38 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 39 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 40 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 41 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 42 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
-| 43 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 44 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 45 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 46 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 47 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
-| 48 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 49 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 50 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 37 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 38 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 39 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
+| 40 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 41 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
+| 42 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 43 | [Olivier Nkamhoua](http://twitter.com/search?q=Olivier+Nkamhoua) | N/A |
+| 44 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 45 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
+| 46 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
+| 47 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 48 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 49 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 50 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
 
 
 
