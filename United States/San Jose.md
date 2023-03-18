@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-18 03:16:48 UTC`
+📆 Last Updated: `2023-03-18 04:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 2 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 2 | [Urias](http://twitter.com/search?q=Urias) | N/A |
 | 3 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 4 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 4 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
 | 5 | [Austin Barnes](http://twitter.com/search?q=Austin+Barnes) | N/A |
-| 6 | [The Warriors](http://twitter.com/search?q=The+Warriors) | N/A |
-| 7 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 9 | [#WBCBaseball](http://twitter.com/search?q=%23WBCBaseball) | N/A |
-| 10 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 11 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 12 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
-| 13 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 14 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 15 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 17 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 18 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 19 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 20 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 21 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 22 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 23 | [Drue](http://twitter.com/search?q=Drue) | N/A |
-| 24 | [#stpaddysday](http://twitter.com/search?q=%23stpaddysday) | N/A |
-| 25 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 26 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 27 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 28 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 6 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 7 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
+| 8 | [#WBCBaseball](http://twitter.com/search?q=%23WBCBaseball) | N/A |
+| 9 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 10 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
+| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 12 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
+| 13 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 14 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 15 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 16 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 17 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
+| 18 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 19 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 20 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 21 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 22 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 23 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 24 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 26 | [Drue](http://twitter.com/search?q=Drue) | N/A |
+| 27 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 28 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 29 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
-| 30 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 31 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 30 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 31 | [#Destiny2](http://twitter.com/search?q=%23Destiny2) | N/A |
 | 32 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 33 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 33 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 34 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 35 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 36 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 37 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 38 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
-| 39 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 40 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 41 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 42 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
-| 43 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 44 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
-| 45 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
-| 46 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 47 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
-| 48 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 49 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 50 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
+| 35 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 36 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 38 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 39 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 40 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 41 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 42 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 43 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 44 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 45 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 46 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 47 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 48 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 49 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 50 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
 
 
 

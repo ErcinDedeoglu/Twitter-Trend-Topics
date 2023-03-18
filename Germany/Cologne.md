@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-18 03:16:16 UTC`
+📆 Last Updated: `2023-03-18 04:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gaixbinance](http://twitter.com/search?q=%23gaixbinance) | N/A |
-| 2 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 3 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 2 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
+| 3 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
 | 4 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 5 | [#BMGSVW](http://twitter.com/search?q=%23BMGSVW) | N/A |
+| 5 | [#bmgsvw](http://twitter.com/search?q=%23bmgsvw) | N/A |
 | 6 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 7 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 8 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 7 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 8 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
 | 9 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
 | 10 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 11 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 12 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 13 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 11 | [COLA](http://twitter.com/search?q=COLA) | N/A |
+| 12 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
+| 13 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
 | 14 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 15 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 16 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 17 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 18 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 19 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 20 | [parlament](http://twitter.com/search?q=parlament) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 17 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 18 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 19 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 20 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 | 21 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
 | 22 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
-| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 23 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 24 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 | 25 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 26 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 27 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 28 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 29 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 30 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 31 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
-| 32 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 33 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 34 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
-| 35 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 36 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
+| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 28 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 29 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
+| 30 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 31 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 32 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
+| 33 | [istgh](http://twitter.com/search?q=istgh) | N/A |
+| 34 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 35 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 36 | [postdocs](http://twitter.com/search?q=postdocs) | N/A |
 | 37 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 38 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 39 | [IStGH](http://twitter.com/search?q=IStGH) | N/A |
-| 40 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
-| 41 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 42 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 43 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 44 | ['frühling'](http://twitter.com/search?q=%27fr%c3%bchling%27) | N/A |
+| 38 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 39 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
+| 40 | ['frühling'](http://twitter.com/search?q=%27fr%c3%bchling%27) | N/A |
+| 41 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 42 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 43 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
+| 44 | [hansa](http://twitter.com/search?q=hansa) | N/A |
 | 45 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 46 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 47 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
-| 48 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
-| 49 | [Direktkandidaten](http://twitter.com/search?q=Direktkandidaten) | N/A |
-| 50 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 46 | [häuptling](http://twitter.com/search?q=h%c3%a4uptling) | N/A |
+| 47 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 48 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 49 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 50 | [grundmandatsklausel](http://twitter.com/search?q=grundmandatsklausel) | N/A |
 
 
 

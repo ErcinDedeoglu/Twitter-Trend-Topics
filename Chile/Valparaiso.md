@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-18 03:16:08 UTC`
+📆 Last Updated: `2023-03-18 04:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CasadoConHijos](http://twitter.com/search?q=%23CasadoConHijos) | N/A |
-| 2 | [#LollaCL2023](http://twitter.com/search?q=%23LollaCL2023) | N/A |
-| 3 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 4 | [#MarceloRiosEnTVN](http://twitter.com/search?q=%23MarceloRiosEnTVN) | N/A |
-| 5 | [#podemoshablarchv](http://twitter.com/search?q=%23podemoshablarchv) | N/A |
-| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 7 | [IMEI](http://twitter.com/search?q=IMEI) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [#LollaCL2023](http://twitter.com/search?q=%23LollaCL2023) | N/A |
+| 2 | [#MarceloRiosEnTVN](http://twitter.com/search?q=%23MarceloRiosEnTVN) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 5 | [#CasadoConHijos](http://twitter.com/search?q=%23CasadoConHijos) | N/A |
+| 6 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [IMEI](http://twitter.com/search?q=IMEI) | N/A |
 | 9 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 10 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 11 | [Jorge Edwards](http://twitter.com/search?q=Jorge+Edwards) | N/A |
-| 12 | [Claudia Cancino](http://twitter.com/search?q=Claudia+Cancino) | N/A |
-| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 14 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
-| 15 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 16 | [Fonasa](http://twitter.com/search?q=Fonasa) | N/A |
-| 17 | [Corretja](http://twitter.com/search?q=Corretja) | N/A |
-| 18 | [Kena](http://twitter.com/search?q=Kena) | N/A |
-| 19 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
-| 20 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
-| 21 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 22 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
-| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 24 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
-| 25 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 26 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 27 | [Gendarmería](http://twitter.com/search?q=Gendarmer%c3%ada) | N/A |
-| 28 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
+| 11 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 12 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 13 | [Jorge Edwards](http://twitter.com/search?q=Jorge+Edwards) | N/A |
+| 14 | [Claudia Cancino](http://twitter.com/search?q=Claudia+Cancino) | N/A |
+| 15 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 16 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
+| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 18 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 19 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 20 | [Fonasa](http://twitter.com/search?q=Fonasa) | N/A |
+| 21 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
+| 22 | [Kena](http://twitter.com/search?q=Kena) | N/A |
+| 23 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 24 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 25 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 27 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
+| 28 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 29 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
 | 30 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 31 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
-| 32 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
-| 33 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 34 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 36 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 37 | [Beatriz Hevia](http://twitter.com/search?q=Beatriz+Hevia) | N/A |
-| 38 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 39 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 40 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
-| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 42 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 43 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 44 | [El Bosque](http://twitter.com/search?q=El+Bosque) | N/A |
-| 45 | [Isapre](http://twitter.com/search?q=Isapre) | N/A |
+| 31 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 32 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
+| 33 | [Gendarmería](http://twitter.com/search?q=Gendarmer%c3%ada) | N/A |
+| 34 | [Corretja](http://twitter.com/search?q=Corretja) | N/A |
+| 35 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 36 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
+| 37 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 38 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 40 | [Beatriz Hevia](http://twitter.com/search?q=Beatriz+Hevia) | N/A |
+| 41 | [El Bosque](http://twitter.com/search?q=El+Bosque) | N/A |
+| 42 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 43 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 44 | [Conan Gray](http://twitter.com/search?q=Conan+Gray) | N/A |
+| 45 | [Pisagua](http://twitter.com/search?q=Pisagua) | N/A |
 | 46 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 47 | [Conan Gray](http://twitter.com/search?q=Conan+Gray) | N/A |
-| 48 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 49 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 48 | [18-O](http://twitter.com/search?q=18-O) | N/A |
 
 
 

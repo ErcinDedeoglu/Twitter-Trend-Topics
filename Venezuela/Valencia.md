@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-18 03:16:09 UTC`
+📆 Last Updated: `2023-03-18 04:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,13 +16,13 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#17Mar](http://twitter.com/search?q=%2317Mar) | N/A |
-| 2 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 2 | [#BastaDeImposiciónImperial](http://twitter.com/search?q=%23BastaDeImposici%c3%b3nImperial) | N/A |
 | 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 4 | [#BastaDeImposiciónImperial](http://twitter.com/search?q=%23BastaDeImposici%c3%b3nImperial) | N/A |
-| 5 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 4 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 6 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
-| 7 | [Arozarena](http://twitter.com/search?q=Arozarena) | N/A |
-| 8 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 7 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 8 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
 | 9 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
 | 10 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 11 | [Jorge Tuero](http://twitter.com/search?q=Jorge+Tuero) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 13 | [Yadier](http://twitter.com/search?q=Yadier) | Yadier is a Spanish name derived from the Hebrew name Yedidya, meaning “beloved of God”. It is also a popular name among Puerto Ricans and other Latin Americans. |
 | 14 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 15 | [#ElBloqueoEsCriminal](http://twitter.com/search?q=%23ElBloqueoEsCriminal) | N/A |
-| 16 | [Mikaela](http://twitter.com/search?q=Mikaela) | N/A |
-| 17 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [CLAP](http://twitter.com/search?q=CLAP) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 23 | [Estatuto de Roma](http://twitter.com/search?q=Estatuto+de+Roma) | N/A |
-| 24 | [Mojado](http://twitter.com/search?q=Mojado) | N/A |
-| 25 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 27 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 28 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 30 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 31 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
-| 32 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 33 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 34 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 35 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 36 | [Mario Silva](http://twitter.com/search?q=Mario+Silva) | N/A |
-| 37 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 38 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 39 | [Neisser](http://twitter.com/search?q=Neisser) | N/A |
-| 40 | [Héctor Cabrera](http://twitter.com/search?q=H%c3%a9ctor+Cabrera) | N/A |
-| 41 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
-| 42 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 43 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 44 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
-| 45 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
-| 46 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 47 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 48 | [Emperador](http://twitter.com/search?q=Emperador) | N/A |
-| 49 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 50 | [Vicente Campo Elías](http://twitter.com/search?q=Vicente+Campo+El%c3%adas) | N/A |
+| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [Mikaela](http://twitter.com/search?q=Mikaela) | N/A |
+| 19 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 20 | [CLAP](http://twitter.com/search?q=CLAP) | N/A |
+| 21 | [Estatuto de Roma](http://twitter.com/search?q=Estatuto+de+Roma) | N/A |
+| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 23 | [Mojado](http://twitter.com/search?q=Mojado) | N/A |
+| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 26 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 27 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 28 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 29 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 30 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 31 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 32 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 33 | [Héctor Cabrera](http://twitter.com/search?q=H%c3%a9ctor+Cabrera) | N/A |
+| 34 | [Neisser](http://twitter.com/search?q=Neisser) | N/A |
+| 35 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 36 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
+| 37 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
+| 38 | [Mario Silva](http://twitter.com/search?q=Mario+Silva) | N/A |
+| 39 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
+| 40 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 41 | [Emperador](http://twitter.com/search?q=Emperador) | N/A |
+| 42 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 43 | [Vicente Campo Elías](http://twitter.com/search?q=Vicente+Campo+El%c3%adas) | N/A |
+| 44 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 45 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 46 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
+| 47 | [Homero](http://twitter.com/search?q=Homero) | N/A |
+| 48 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
+| 49 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 50 | [Bota](http://twitter.com/search?q=Bota) | N/A |
 
 
 

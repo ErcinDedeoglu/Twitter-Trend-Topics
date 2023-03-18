@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-18 03:16:49 UTC`
+📆 Last Updated: `2023-03-18 04:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Argentina
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 3 | [Tan Biónica](http://twitter.com/search?q=Tan+Bi%c3%b3nica) | N/A |
-| 4 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [#HappyAgusDay](http://twitter.com/search?q=%23HappyAgusDay) | N/A |
-| 7 | [#FelizCumpleFrodo](http://twitter.com/search?q=%23FelizCumpleFrodo) | N/A |
-| 8 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
-| 9 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 10 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 11 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 12 | [#Lollapalooza](http://twitter.com/search?q=%23Lollapalooza) | N/A |
-| 13 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 14 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
-| 15 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 16 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 17 | [Flow](http://twitter.com/search?q=Flow) | N/A |
-| 18 | [ROMI A LA FINAL](http://twitter.com/search?q=ROMI+A+LA+FINAL) | N/A |
-| 19 | [Festeje](http://twitter.com/search?q=Festeje) | N/A |
-| 20 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 21 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
-| 22 | [#Racing](http://twitter.com/search?q=%23Racing) | N/A |
-| 23 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 24 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 25 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
-| 26 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 27 | [Luna Diale](http://twitter.com/search?q=Luna+Diale) | N/A |
-| 28 | [Nanu](http://twitter.com/search?q=Nanu) | N/A |
-| 29 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 30 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 31 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
-| 32 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 33 | [Nardoni](http://twitter.com/search?q=Nardoni) | N/A |
-| 34 | [Munua](http://twitter.com/search?q=Munua) | N/A |
-| 35 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 36 | [Papu](http://twitter.com/search?q=Papu) | N/A |
-| 37 | [REVIVIÓ LA MÚSICA](http://twitter.com/search?q=REVIVI%c3%93+LA+M%c3%9aSICA) | N/A |
-| 38 | [Machuca](http://twitter.com/search?q=Machuca) | N/A |
-| 39 | [Gordillo](http://twitter.com/search?q=Gordillo) | N/A |
-| 40 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 41 | [Maxi Romero](http://twitter.com/search?q=Maxi+Romero) | N/A |
-| 42 | [Cigarettes](http://twitter.com/search?q=Cigarettes) | N/A |
-| 43 | [Chanito](http://twitter.com/search?q=Chanito) | N/A |
-| 44 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 45 | [3 HORAS](http://twitter.com/search?q=3+HORAS) | N/A |
-| 46 | [Obsesionario](http://twitter.com/search?q=Obsesionario) | N/A |
-| 47 | [Enrique Iglesias](http://twitter.com/search?q=Enrique+Iglesias) | N/A |
-| 48 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
-| 49 | [Aued](http://twitter.com/search?q=Aued) | N/A |
-| 50 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 3 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 4 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 6 | [#FelizCumpleFrodo](http://twitter.com/search?q=%23FelizCumpleFrodo) | N/A |
+| 7 | [#HappyAgusDay](http://twitter.com/search?q=%23HappyAgusDay) | N/A |
+| 8 | [Tan Biónica](http://twitter.com/search?q=Tan+Bi%c3%b3nica) | N/A |
+| 9 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 10 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 11 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 12 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 13 | [#ElRefugioPerruno](http://twitter.com/search?q=%23ElRefugioPerruno) | N/A |
+| 14 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 15 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 16 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
+| 17 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
+| 18 | [#Lollapalooza](http://twitter.com/search?q=%23Lollapalooza) | N/A |
+| 19 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 20 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 21 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 22 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 23 | [Felices 3](http://twitter.com/search?q=Felices+3) | N/A |
+| 24 | [ROMI A LA FINAL](http://twitter.com/search?q=ROMI+A+LA+FINAL) | N/A |
+| 25 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
+| 26 | [Líderes](http://twitter.com/search?q=L%c3%adderes) | N/A |
+| 27 | [Flow](http://twitter.com/search?q=Flow) | N/A |
+| 28 | [Insua](http://twitter.com/search?q=Insua) | N/A |
+| 29 | [Festeje](http://twitter.com/search?q=Festeje) | N/A |
+| 30 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
+| 31 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
+| 32 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 33 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 34 | [Nanu](http://twitter.com/search?q=Nanu) | N/A |
+| 35 | [3 Meses](http://twitter.com/search?q=3+Meses) | N/A |
+| 36 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 37 | [luna diale](http://twitter.com/search?q=luna+diale) | N/A |
+| 38 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 39 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
+| 40 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 41 | [Munua](http://twitter.com/search?q=Munua) | N/A |
+| 42 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 43 | [Nardoni](http://twitter.com/search?q=Nardoni) | N/A |
+| 44 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 45 | [REVIVIÓ LA MÚSICA](http://twitter.com/search?q=REVIVI%c3%93+LA+M%c3%9aSICA) | N/A |
+| 46 | [Papu](http://twitter.com/search?q=Papu) | N/A |
+| 47 | [3 HORAS](http://twitter.com/search?q=3+HORAS) | N/A |
+| 48 | [Machuca](http://twitter.com/search?q=Machuca) | N/A |
+| 49 | [Gordillo](http://twitter.com/search?q=Gordillo) | N/A |
+| 50 | [Cigarettes](http://twitter.com/search?q=Cigarettes) | N/A |
 
 
 

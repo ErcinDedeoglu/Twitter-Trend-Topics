@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norfolk
 
-📆 Last Updated: `2023-03-18 03:16:46 UTC`
+📆 Last Updated: `2023-03-18 04:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
-| 2 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 3 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 4 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 5 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 6 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 7 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 9 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 11 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 12 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 13 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 14 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
-| 15 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 16 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 17 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 18 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
-| 19 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 20 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
-| 21 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
-| 22 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 23 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
-| 24 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 25 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 26 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
-| 27 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
-| 28 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 29 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 30 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 31 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 32 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
-| 33 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 34 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 35 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 36 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
-| 37 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 38 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 39 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 40 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 41 | [Yadier](http://twitter.com/search?q=Yadier) | Yadier is a Spanish name derived from the Hebrew name Yedidya, meaning “beloved of God”. It is also a popular name among Puerto Ricans and other Latin Americans. |
-| 42 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
-| 43 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 44 | [Boilermakers](http://twitter.com/search?q=Boilermakers) | N/A |
-| 45 | [Rusical](http://twitter.com/search?q=Rusical) | N/A |
-| 46 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 47 | [West Lafayette](http://twitter.com/search?q=West+Lafayette) | N/A |
-| 48 | [Fairly Ridiculous](http://twitter.com/search?q=Fairly+Ridiculous) | N/A |
-| 49 | [Fair Dick](http://twitter.com/search?q=Fair+Dick) | N/A |
+| 1 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 2 | [St Patrick's Day](http://twitter.com/search?q=St+Patrick%27s+Day) | N/A |
+| 3 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 4 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 5 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 6 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 7 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 8 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 11 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 12 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
+| 13 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 14 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 15 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 16 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 17 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 18 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 19 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 20 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 21 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 22 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 23 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 24 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 25 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 26 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 27 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 28 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
+| 29 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 30 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 31 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
+| 32 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
+| 33 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 34 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 35 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
+| 36 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
+| 37 | [DeAndre Williams](http://twitter.com/search?q=DeAndre+Williams) | N/A |
+| 38 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
+| 39 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 40 | [FAU vs FDU](http://twitter.com/search?q=FAU+vs+FDU) | N/A |
+| 41 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
+| 42 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 43 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
+| 44 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 45 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
+| 46 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 47 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 48 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
+| 49 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-18 03:16:00 UTC`
+📆 Last Updated: `2023-03-18 04:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,49 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 2 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 1 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 2 | [Reese](http://twitter.com/search?q=Reese) | N/A |
 | 3 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 4 | [#GoLeafsGo](http://twitter.com/search?q=%23GoLeafsGo) | N/A |
+| 4 | [#furnalequinox2023](http://twitter.com/search?q=%23furnalequinox2023) | N/A |
 | 5 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 6 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 8 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 10 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 11 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 12 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 13 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 14 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
-| 15 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
-| 16 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
-| 17 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 6 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 7 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 10 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
+| 11 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 12 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 13 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 14 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 15 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 16 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
+| 17 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 18 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 19 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 20 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 19 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 20 | [Canes](http://twitter.com/search?q=Canes) | N/A |
 | 21 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
-| 22 | [St. Pats](http://twitter.com/search?q=St.+Pats) | N/A |
-| 23 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 24 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 25 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 26 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
-| 27 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 28 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 29 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
-| 30 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 31 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 32 | [Globe and Mail](http://twitter.com/search?q=Globe+and+Mail) | N/A |
-| 33 | [Commander](http://twitter.com/search?q=Commander) | N/A |
+| 22 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 23 | [St. Pats](http://twitter.com/search?q=St.+Pats) | N/A |
+| 24 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 25 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
+| 26 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 27 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 28 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
+| 29 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 30 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
+| 31 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 32 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 33 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 34 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 35 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 36 | [Fife](http://twitter.com/search?q=Fife) | N/A |
-| 37 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 38 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 39 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 40 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 41 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 42 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 43 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 44 | [#CARvsTOR](http://twitter.com/search?q=%23CARvsTOR) | N/A |
-| 45 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 46 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 47 | [#LeafsNation](http://twitter.com/search?q=%23LeafsNation) | N/A |
-| 48 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 35 | [Globe and Mail](http://twitter.com/search?q=Globe+and+Mail) | N/A |
+| 36 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 37 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 38 | [Butts](http://twitter.com/search?q=Butts) | N/A |
+| 39 | [Fife](http://twitter.com/search?q=Fife) | N/A |
+| 40 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 41 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 42 | [#GoLeafsGo](http://twitter.com/search?q=%23GoLeafsGo) | N/A |
+| 43 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
 
 
 

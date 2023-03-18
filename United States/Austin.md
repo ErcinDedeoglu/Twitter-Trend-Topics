@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-18 03:16:41 UTC`
+📆 Last Updated: `2023-03-18 04:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United States](</United States>)
 | 4 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
 | 5 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 8 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 9 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 10 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 11 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 12 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 13 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 14 | [#Destiny2](http://twitter.com/search?q=%23Destiny2) | N/A |
-| 15 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 16 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 17 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 18 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 19 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 21 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
-| 22 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 23 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 24 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 25 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 26 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 27 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
-| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 29 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 30 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 31 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
-| 32 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 33 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
-| 34 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
-| 35 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 36 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
-| 37 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 38 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 39 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
-| 40 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
-| 41 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 42 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 43 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 44 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
-| 45 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 46 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 47 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 48 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 49 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
-| 50 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 7 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 8 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 9 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 10 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 12 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 13 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 14 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 15 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 16 | [#Destiny2](http://twitter.com/search?q=%23Destiny2) | N/A |
+| 17 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 18 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 19 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 20 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 21 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 22 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 23 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 25 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 26 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 27 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 28 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 29 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 30 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 31 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 32 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 33 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 35 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 36 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 37 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 38 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
+| 39 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 40 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
+| 41 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 42 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
+| 43 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 44 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 45 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
+| 46 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 47 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
+| 48 | [DeAndre Williams](http://twitter.com/search?q=DeAndre+Williams) | N/A |
+| 49 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 50 | [FAU vs FDU](http://twitter.com/search?q=FAU+vs+FDU) | N/A |
 
 
 

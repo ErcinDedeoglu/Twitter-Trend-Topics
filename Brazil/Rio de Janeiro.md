@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-18 03:16:11 UTC`
+📆 Last Updated: `2023-03-18 04:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 3 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 4 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 5 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
+| 1 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
+| 2 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 3 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
+| 4 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 6 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
-| 7 | [Di Ferrero](http://twitter.com/search?q=Di+Ferrero) | Di Ferrero is a Brazilian singer, songwriter, and actor. He is best known as the lead singer of the Brazilian rock band NX Zero. The name Di Ferrero comes from his full name, Diego Ferreira. In English, it translates to "of Ferreira". |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 10 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
-| 11 | [Indereço](http://twitter.com/search?q=Indere%c3%a7o) | N/A |
-| 12 | [#TourCedoOuTarde](http://twitter.com/search?q=%23TourCedoOuTarde) | N/A |
-| 13 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 14 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
-| 15 | [EU SÓ REZO PRA FICAR BEM](http://twitter.com/search?q=EU+S%c3%93+REZO+PRA+FICAR+BEM) | N/A |
-| 16 | [Mentiras e Fracassos](http://twitter.com/search?q=Mentiras+e+Fracassos) | N/A |
-| 17 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
-| 18 | [gee rocha](http://twitter.com/search?q=gee+rocha) | N/A |
-| 19 | [Razões e Emoções](http://twitter.com/search?q=Raz%c3%b5es+e+Emo%c3%a7%c3%b5es) | N/A |
-| 20 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
-| 21 | [EU TE FIZ FELIZ](http://twitter.com/search?q=EU+TE+FIZ+FELIZ) | N/A |
-| 22 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
-| 23 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 24 | [Mariana Rios](http://twitter.com/search?q=Mariana+Rios) | N/A |
-| 25 | [EU SEI QUE VAI](http://twitter.com/search?q=EU+SEI+QUE+VAI) | N/A |
-| 26 | [APERTA O RESTART](http://twitter.com/search?q=APERTA+O+RESTART) | N/A |
-| 27 | [Alface e Amanda](http://twitter.com/search?q=Alface+e+Amanda) | N/A |
-| 28 | [lincoln lau](http://twitter.com/search?q=lincoln+lau) | N/A |
-| 29 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
-| 30 | [PELA ÚLTIMA VEZ](http://twitter.com/search?q=PELA+%c3%9aLTIMA+VEZ) | N/A |
-| 31 | [Ligação](http://twitter.com/search?q=Liga%c3%a7%c3%a3o) | N/A |
-| 32 | [raffa](http://twitter.com/search?q=raffa) | N/A |
-| 33 | [BAILA KEY](http://twitter.com/search?q=BAILA+KEY) | N/A |
-| 34 | [Cartas](http://twitter.com/search?q=Cartas) | N/A |
-| 35 | [pedro sampaio](http://twitter.com/search?q=pedro+sampaio) | N/A |
-| 36 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
-| 37 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
-| 38 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 39 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 40 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 41 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 42 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
-| 43 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 44 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
-| 45 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 46 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
-| 47 | [sense8](http://twitter.com/search?q=sense8) | N/A |
-| 48 | [Flávio Gomes](http://twitter.com/search?q=Fl%c3%a1vio+Gomes) | N/A |
-| 49 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 50 | [Forfun](http://twitter.com/search?q=Forfun) | N/A |
+| 7 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 8 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
+| 9 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 10 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 11 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 12 | [Di Ferrero](http://twitter.com/search?q=Di+Ferrero) | Di Ferrero is a Brazilian singer, songwriter, and actor. He is best known as the lead singer of the Brazilian rock band NX Zero. The name Di Ferrero comes from his full name, Diego Ferreira. In English, it translates to "of Ferreira". |
+| 13 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
+| 14 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 15 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 16 | [THE MAN](http://twitter.com/search?q=THE+MAN) | N/A |
+| 17 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
+| 18 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 19 | [Indereço](http://twitter.com/search?q=Indere%c3%a7o) | N/A |
+| 20 | [YOU BELONG WITH ME](http://twitter.com/search?q=YOU+BELONG+WITH+ME) | N/A |
+| 21 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 22 | [#TourCedoOuTarde](http://twitter.com/search?q=%23TourCedoOuTarde) | N/A |
+| 23 | [READY FOR IT](http://twitter.com/search?q=READY+FOR+IT) | N/A |
+| 24 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 25 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
+| 26 | [Só Rezo](http://twitter.com/search?q=S%c3%b3+Rezo) | N/A |
+| 27 | [Mentiras e Fracassos](http://twitter.com/search?q=Mentiras+e+Fracassos) | N/A |
+| 28 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 29 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
+| 30 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 31 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 32 | [LOVE STORY](http://twitter.com/search?q=LOVE+STORY) | N/A |
+| 33 | [APERTA O RESTART](http://twitter.com/search?q=APERTA+O+RESTART) | N/A |
+| 34 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
+| 35 | [EU TE FIZ FELIZ](http://twitter.com/search?q=EU+TE+FIZ+FELIZ) | N/A |
+| 36 | [EU SEI QUE VAI](http://twitter.com/search?q=EU+SEI+QUE+VAI) | N/A |
+| 37 | [Mariana Rios](http://twitter.com/search?q=Mariana+Rios) | N/A |
+| 38 | [gee rocha](http://twitter.com/search?q=gee+rocha) | N/A |
+| 39 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 40 | [Razões e Emoções](http://twitter.com/search?q=Raz%c3%b5es+e+Emo%c3%a7%c3%b5es) | N/A |
+| 41 | [Lincoln Lau](http://twitter.com/search?q=Lincoln+Lau) | N/A |
+| 42 | [cowboy like me](http://twitter.com/search?q=cowboy+like+me) | N/A |
+| 43 | [Fearless](http://twitter.com/search?q=Fearless) | N/A |
+| 44 | [PELA ÚLTIMA VEZ](http://twitter.com/search?q=PELA+%c3%9aLTIMA+VEZ) | N/A |
+| 45 | [Alface e Amanda](http://twitter.com/search?q=Alface+e+Amanda) | N/A |
+| 46 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 47 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 48 | [YOU NEED TO CALM DOWN](http://twitter.com/search?q=YOU+NEED+TO+CALM+DOWN) | N/A |
+| 49 | [Ligação](http://twitter.com/search?q=Liga%c3%a7%c3%a3o) | N/A |
+| 50 | [getaway car](http://twitter.com/search?q=getaway+car) | N/A |
 
 
 
