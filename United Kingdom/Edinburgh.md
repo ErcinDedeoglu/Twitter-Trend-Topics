@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-18 04:16:46 UTC`
+📆 Last Updated: `2023-03-18 05:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Murray Foote](http://twitter.com/search?q=Murray+Foote) | N/A |
-| 2 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
-| 7 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 8 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 9 | [#BadBoyRishi](http://twitter.com/search?q=%23BadBoyRishi) | N/A |
-| 10 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 11 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 12 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 13 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 14 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
-| 15 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
-| 18 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 19 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 20 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 21 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 22 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 23 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 24 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 25 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 26 | [Commander](http://twitter.com/search?q=Commander) | N/A |
-| 27 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 28 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 29 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 30 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 31 | [Bridgen](http://twitter.com/search?q=Bridgen) | N/A |
-| 32 | [Jonjo](http://twitter.com/search?q=Jonjo) | N/A |
-| 33 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 34 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 35 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 36 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
-| 37 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 38 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 39 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 40 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 41 | [SNP HQ](http://twitter.com/search?q=SNP+HQ) | N/A |
-| 42 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 43 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
-| 44 | [#bwfc](http://twitter.com/search?q=%23bwfc) | N/A |
-| 45 | [#Gogglebox](http://twitter.com/search?q=%23Gogglebox) | N/A |
-| 46 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 47 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 48 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 49 | [#1000MSebring](http://twitter.com/search?q=%231000MSebring) | N/A |
+| 1 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 2 | [SNP HQ](http://twitter.com/search?q=SNP+HQ) | N/A |
+| 3 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 4 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 5 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
+| 6 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 7 | [#RedNoseDay](http://twitter.com/search?q=%23RedNoseDay) | N/A |
+| 8 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 9 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 10 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 15 | [#NFONEW](http://twitter.com/search?q=%23NFONEW) | N/A |
+| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 17 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 18 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 19 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 20 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 21 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
+| 22 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 23 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 25 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 26 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 27 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 28 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 29 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 30 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 31 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 32 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 35 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
+| 36 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
+| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 38 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 39 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 40 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 41 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 43 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 44 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 45 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 46 | [St George](http://twitter.com/search?q=St+George) | N/A |
+| 47 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 48 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 49 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 50 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
 
 
 

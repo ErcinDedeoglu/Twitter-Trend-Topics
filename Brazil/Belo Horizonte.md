@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-18 04:16:53 UTC`
+📆 Last Updated: `2023-03-18 05:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kalil](http://twitter.com/search?q=Kalil) | N/A |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
-| 4 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 5 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
-| 6 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 7 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 8 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 9 | [Di Ferrero](http://twitter.com/search?q=Di+Ferrero) | Di Ferrero is a Brazilian singer, songwriter, and actor. He is best known as the lead singer of the Brazilian rock band NX Zero. The name Di Ferrero comes from his full name, Diego Ferreira. In English, it translates to "of Ferreira". |
-| 10 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
-| 11 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 12 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
-| 13 | [THE MAN](http://twitter.com/search?q=THE+MAN) | N/A |
-| 14 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
-| 15 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 16 | [Indereço](http://twitter.com/search?q=Indere%c3%a7o) | N/A |
-| 17 | [YOU BELONG WITH ME](http://twitter.com/search?q=YOU+BELONG+WITH+ME) | N/A |
-| 18 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 19 | [#TourCedoOuTarde](http://twitter.com/search?q=%23TourCedoOuTarde) | N/A |
-| 20 | [READY FOR IT](http://twitter.com/search?q=READY+FOR+IT) | N/A |
-| 21 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 22 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
-| 23 | [Só Rezo](http://twitter.com/search?q=S%c3%b3+Rezo) | N/A |
-| 24 | [Mentiras e Fracassos](http://twitter.com/search?q=Mentiras+e+Fracassos) | N/A |
-| 25 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 26 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
-| 27 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 28 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 29 | [LOVE STORY](http://twitter.com/search?q=LOVE+STORY) | N/A |
-| 30 | [APERTA O RESTART](http://twitter.com/search?q=APERTA+O+RESTART) | N/A |
-| 31 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
-| 32 | [EU TE FIZ FELIZ](http://twitter.com/search?q=EU+TE+FIZ+FELIZ) | N/A |
-| 33 | [EU SEI QUE VAI](http://twitter.com/search?q=EU+SEI+QUE+VAI) | N/A |
-| 34 | [Mariana Rios](http://twitter.com/search?q=Mariana+Rios) | N/A |
-| 35 | [gee rocha](http://twitter.com/search?q=gee+rocha) | N/A |
-| 36 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
-| 37 | [Razões e Emoções](http://twitter.com/search?q=Raz%c3%b5es+e+Emo%c3%a7%c3%b5es) | N/A |
-| 38 | [Lincoln Lau](http://twitter.com/search?q=Lincoln+Lau) | N/A |
-| 39 | [cowboy like me](http://twitter.com/search?q=cowboy+like+me) | N/A |
-| 40 | [Fearless](http://twitter.com/search?q=Fearless) | N/A |
-| 41 | [PELA ÚLTIMA VEZ](http://twitter.com/search?q=PELA+%c3%9aLTIMA+VEZ) | N/A |
-| 42 | [Alface e Amanda](http://twitter.com/search?q=Alface+e+Amanda) | N/A |
-| 43 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
-| 44 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 45 | [YOU NEED TO CALM DOWN](http://twitter.com/search?q=YOU+NEED+TO+CALM+DOWN) | N/A |
-| 46 | [Ligação](http://twitter.com/search?q=Liga%c3%a7%c3%a3o) | N/A |
-| 47 | [dorothea](http://twitter.com/search?q=dorothea) | N/A |
-| 48 | [Cartas](http://twitter.com/search?q=Cartas) | N/A |
-| 49 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
-| 50 | [getaway car](http://twitter.com/search?q=getaway+car) | N/A |
+| 2 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 7 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
+| 8 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 9 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 10 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 11 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 12 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 13 | [getaway car](http://twitter.com/search?q=getaway+car) | N/A |
+| 14 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 15 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
+| 16 | [Di Ferrero](http://twitter.com/search?q=Di+Ferrero) | Di Ferrero is a Brazilian singer, songwriter, and actor. He is best known as the lead singer of the Brazilian rock band NX Zero. The name Di Ferrero comes from his full name, Diego Ferreira. In English, it translates to "of Ferreira". |
+| 17 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
+| 18 | [Maxi Kleber](http://twitter.com/search?q=Maxi+Kleber) | N/A |
+| 19 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 20 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 21 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 22 | [O VESTIDO](http://twitter.com/search?q=O+VESTIDO) | N/A |
+| 23 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
+| 24 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 25 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 26 | [THE MAN](http://twitter.com/search?q=THE+MAN) | N/A |
+| 27 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 28 | [YOU BELONG WITH ME](http://twitter.com/search?q=YOU+BELONG+WITH+ME) | N/A |
+| 29 | [INVISIBLE STRING](http://twitter.com/search?q=INVISIBLE+STRING) | N/A |
+| 30 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 31 | [Indereço](http://twitter.com/search?q=Indere%c3%a7o) | N/A |
+| 32 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 33 | [back to december](http://twitter.com/search?q=back+to+december) | N/A |
+| 34 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 35 | [LOOK WHAT YOU MADE](http://twitter.com/search?q=LOOK+WHAT+YOU+MADE) | N/A |
+| 36 | [READY FOR IT](http://twitter.com/search?q=READY+FOR+IT) | N/A |
+| 37 | [DON'T BLAME ME](http://twitter.com/search?q=DON%27T+BLAME+ME) | N/A |
+| 38 | [#TourCedoOuTarde](http://twitter.com/search?q=%23TourCedoOuTarde) | N/A |
+| 39 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
+| 40 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 41 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 42 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 43 | [don’t blame](http://twitter.com/search?q=don%e2%80%99t+blame) | N/A |
+| 44 | [Mentiras e Fracassos](http://twitter.com/search?q=Mentiras+e+Fracassos) | N/A |
+| 45 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
+| 46 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
+| 47 | [my tears ricochet](http://twitter.com/search?q=my+tears+ricochet) | N/A |
+| 48 | [LOVE STORY](http://twitter.com/search?q=LOVE+STORY) | N/A |
+| 49 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 50 | [APERTA O RESTART](http://twitter.com/search?q=APERTA+O+RESTART) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-18 04:16:52 UTC`
+📆 Last Updated: `2023-03-18 05:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Ecuador](</Ecuador>)
 | ------- | ------------ | ------------ |
 | 1 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
 | 2 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 3 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 6 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 5 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 7 | [El Triunfo](http://twitter.com/search?q=El+Triunfo) | N/A |
-| 8 | [Johanna](http://twitter.com/search?q=Johanna) | N/A |
-| 9 | [Rausch](http://twitter.com/search?q=Rausch) | N/A |
-| 10 | [Junior Roldán](http://twitter.com/search?q=Junior+Rold%c3%a1n) | N/A |
-| 11 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
-| 12 | [#HijoBobo](http://twitter.com/search?q=%23HijoBobo) | N/A |
-| 13 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
-| 14 | [Orense](http://twitter.com/search?q=Orense) | N/A |
-| 15 | [Minda](http://twitter.com/search?q=Minda) | N/A |
-| 16 | [Gualaceo](http://twitter.com/search?q=Gualaceo) | N/A |
-| 17 | [HATER SONG X A BRAVO](http://twitter.com/search?q=HATER+SONG+X+A+BRAVO) | N/A |
-| 18 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
-| 19 | [Robert Burbano](http://twitter.com/search?q=Robert+Burbano) | N/A |
-| 20 | [Jorge Andrade Cantos](http://twitter.com/search?q=Jorge+Andrade+Cantos) | N/A |
-| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 22 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 23 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 24 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 25 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
-| 26 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
-| 27 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 28 | [Azogues](http://twitter.com/search?q=Azogues) | N/A |
-| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 30 | [Nelsa Curbelo](http://twitter.com/search?q=Nelsa+Curbelo) | N/A |
-| 31 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 32 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 33 | [Sólido](http://twitter.com/search?q=S%c3%b3lido) | N/A |
-| 34 | [Fecha 3](http://twitter.com/search?q=Fecha+3) | N/A |
-| 35 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
-| 36 | [Wayusa](http://twitter.com/search?q=Wayusa) | N/A |
+| 8 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 9 | [Junior Roldán](http://twitter.com/search?q=Junior+Rold%c3%a1n) | N/A |
+| 10 | [#Orense](http://twitter.com/search?q=%23Orense) | N/A |
+| 11 | [Rausch](http://twitter.com/search?q=Rausch) | N/A |
+| 12 | [Johanna](http://twitter.com/search?q=Johanna) | N/A |
+| 13 | [#LassoEcuadorNoTeAguantaMas](http://twitter.com/search?q=%23LassoEcuadorNoTeAguantaMas) | N/A |
+| 14 | [#HijoBobo](http://twitter.com/search?q=%23HijoBobo) | N/A |
+| 15 | [Robert Burbano](http://twitter.com/search?q=Robert+Burbano) | N/A |
+| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 17 | [Marlon Mejía](http://twitter.com/search?q=Marlon+Mej%c3%ada) | N/A |
+| 18 | [HATER SONG X A BRAVO](http://twitter.com/search?q=HATER+SONG+X+A+BRAVO) | N/A |
+| 19 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 20 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 21 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 22 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
+| 23 | [Tomson Minda](http://twitter.com/search?q=Tomson+Minda) | N/A |
+| 24 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 25 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 26 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
+| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 30 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 31 | [Nelsa Curbelo](http://twitter.com/search?q=Nelsa+Curbelo) | N/A |
+| 32 | [Fecha 3](http://twitter.com/search?q=Fecha+3) | N/A |
+| 33 | [sólido](http://twitter.com/search?q=s%c3%b3lido) | N/A |
+| 34 | [Azogues](http://twitter.com/search?q=Azogues) | N/A |
+| 35 | [Wayusa](http://twitter.com/search?q=Wayusa) | N/A |
+| 36 | [Jorge Andrade Cantos](http://twitter.com/search?q=Jorge+Andrade+Cantos) | N/A |
 | 37 | [Giovanni Ponce](http://twitter.com/search?q=Giovanni+Ponce) | N/A |
-| 38 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 39 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 40 | [Banecuador](http://twitter.com/search?q=Banecuador) | N/A |
-| 41 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 42 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
-| 43 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 44 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
-| 45 | [Diplomado](http://twitter.com/search?q=Diplomado) | N/A |
-| 46 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
-| 47 | [Guasmo Sur](http://twitter.com/search?q=Guasmo+Sur) | N/A |
-| 48 | [Habeas Corpus](http://twitter.com/search?q=Habeas+Corpus) | N/A |
-| 49 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 50 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
+| 40 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 41 | [Banecuador](http://twitter.com/search?q=Banecuador) | N/A |
+| 42 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 43 | [Guasmo Sur](http://twitter.com/search?q=Guasmo+Sur) | N/A |
+| 44 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
+| 45 | [Habeas Corpus](http://twitter.com/search?q=Habeas+Corpus) | N/A |
+| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 47 | [diplomado](http://twitter.com/search?q=diplomado) | N/A |
+| 48 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 49 | [Lolo Miño](http://twitter.com/search?q=Lolo+Mi%c3%b1o) | N/A |
+| 50 | [Antonio Valencia](http://twitter.com/search?q=Antonio+Valencia) | N/A |
 
 
 

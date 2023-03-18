@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-18 04:17:30 UTC`
+📆 Last Updated: `2023-03-18 05:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Argentina
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 4 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 4 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 5 | [ENCHANTED](http://twitter.com/search?q=ENCHANTED) | N/A |
 | 6 | [#FelizCumpleFrodo](http://twitter.com/search?q=%23FelizCumpleFrodo) | N/A |
 | 7 | [#HappyAgusDay](http://twitter.com/search?q=%23HappyAgusDay) | N/A |
-| 8 | [Tan Biónica](http://twitter.com/search?q=Tan+Bi%c3%b3nica) | N/A |
-| 9 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 10 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 11 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 12 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 13 | [#ElRefugioPerruno](http://twitter.com/search?q=%23ElRefugioPerruno) | N/A |
-| 14 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 15 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 16 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
-| 17 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
-| 18 | [#Lollapalooza](http://twitter.com/search?q=%23Lollapalooza) | N/A |
-| 19 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 20 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
-| 21 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 22 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 23 | [Felices 3](http://twitter.com/search?q=Felices+3) | N/A |
-| 24 | [ROMI A LA FINAL](http://twitter.com/search?q=ROMI+A+LA+FINAL) | N/A |
-| 25 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
-| 26 | [Líderes](http://twitter.com/search?q=L%c3%adderes) | N/A |
-| 27 | [Flow](http://twitter.com/search?q=Flow) | N/A |
-| 28 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 29 | [Festeje](http://twitter.com/search?q=Festeje) | N/A |
-| 30 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
-| 31 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
-| 32 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 33 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 34 | [Nanu](http://twitter.com/search?q=Nanu) | N/A |
-| 35 | [3 Meses](http://twitter.com/search?q=3+Meses) | N/A |
-| 36 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 37 | [luna diale](http://twitter.com/search?q=luna+diale) | N/A |
-| 38 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 39 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
-| 40 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 41 | [Munua](http://twitter.com/search?q=Munua) | N/A |
-| 42 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 43 | [Nardoni](http://twitter.com/search?q=Nardoni) | N/A |
-| 44 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 45 | [REVIVIÓ LA MÚSICA](http://twitter.com/search?q=REVIVI%c3%93+LA+M%c3%9aSICA) | N/A |
-| 46 | [Papu](http://twitter.com/search?q=Papu) | N/A |
-| 47 | [3 HORAS](http://twitter.com/search?q=3+HORAS) | N/A |
-| 48 | [Machuca](http://twitter.com/search?q=Machuca) | N/A |
-| 49 | [Gordillo](http://twitter.com/search?q=Gordillo) | N/A |
-| 50 | [Cigarettes](http://twitter.com/search?q=Cigarettes) | N/A |
+| 8 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 9 | [Tan Biónica](http://twitter.com/search?q=Tan+Bi%c3%b3nica) | N/A |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 12 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 13 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 14 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 15 | [#ElRefugioPerruno](http://twitter.com/search?q=%23ElRefugioPerruno) | N/A |
+| 16 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 17 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 18 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 19 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
+| 20 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
+| 21 | [#LollaAR](http://twitter.com/search?q=%23LollaAR) | N/A |
+| 22 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 23 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 24 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 25 | [Felices 3](http://twitter.com/search?q=Felices+3) | N/A |
+| 26 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 27 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 28 | [3 MESES](http://twitter.com/search?q=3+MESES) | N/A |
+| 29 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 30 | [Líderes](http://twitter.com/search?q=L%c3%adderes) | N/A |
+| 31 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 32 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
+| 33 | [ROMI A LA FINAL](http://twitter.com/search?q=ROMI+A+LA+FINAL) | N/A |
+| 34 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 35 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
+| 36 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
+| 37 | [Nanu](http://twitter.com/search?q=Nanu) | N/A |
+| 38 | [Festeje](http://twitter.com/search?q=Festeje) | N/A |
+| 39 | [Insua](http://twitter.com/search?q=Insua) | N/A |
+| 40 | [Flow](http://twitter.com/search?q=Flow) | N/A |
+| 41 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
+| 42 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 43 | [Munua](http://twitter.com/search?q=Munua) | N/A |
+| 44 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 45 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 46 | [Luna Diale](http://twitter.com/search?q=Luna+Diale) | N/A |
+| 47 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 48 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 49 | [Machuca](http://twitter.com/search?q=Machuca) | N/A |
+| 50 | [Tove](http://twitter.com/search?q=Tove) | N/A |
 
 
 

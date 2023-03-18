@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-03-18 04:16:50 UTC`
+📆 Last Updated: `2023-03-18 05:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
-| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 5 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 6 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 7 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 8 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
-| 9 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
-| 10 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
-| 11 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 12 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 13 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 14 | [#BatallaYSupervivencia](http://twitter.com/search?q=%23BatallaYSupervivencia) | N/A |
-| 15 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
-| 16 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
-| 17 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
-| 18 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 19 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 20 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
-| 21 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 22 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 23 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
-| 24 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 25 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 26 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 27 | [Urías](http://twitter.com/search?q=Ur%c3%adas) | N/A |
-| 28 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 29 | [LOVE STORY](http://twitter.com/search?q=LOVE+STORY) | N/A |
-| 30 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
-| 31 | [Juegazo](http://twitter.com/search?q=Juegazo) | N/A |
-| 32 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 33 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 34 | [Partidazo](http://twitter.com/search?q=Partidazo) | N/A |
-| 35 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
-| 36 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
-| 37 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
-| 38 | [hayley](http://twitter.com/search?q=hayley) | N/A |
-| 39 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 40 | [EL DE LA H](http://twitter.com/search?q=EL+DE+LA+H) | N/A |
-| 41 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 42 | [Semis](http://twitter.com/search?q=Semis) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 4 | [ENCHANTED](http://twitter.com/search?q=ENCHANTED) | N/A |
+| 5 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
+| 6 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 7 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 8 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
+| 9 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 10 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 11 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 12 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 13 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 14 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
+| 15 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 16 | [#BatallaYSupervivencia](http://twitter.com/search?q=%23BatallaYSupervivencia) | N/A |
+| 17 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
+| 18 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
+| 19 | [Béisbol](http://twitter.com/search?q=B%c3%a9isbol) | N/A |
+| 20 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 21 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
+| 22 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 23 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 24 | [Baeza](http://twitter.com/search?q=Baeza) | N/A |
+| 25 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 26 | [WILLOW](http://twitter.com/search?q=WILLOW) | N/A |
+| 27 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 28 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 29 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 30 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 31 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 32 | [MI CANCIÓN](http://twitter.com/search?q=MI+CANCI%c3%93N) | N/A |
+| 33 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
+| 34 | [Maxi Araujo](http://twitter.com/search?q=Maxi+Araujo) | N/A |
+| 35 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
+| 36 | [DON'T BLAME ME](http://twitter.com/search?q=DON%27T+BLAME+ME) | N/A |
+| 37 | [Cerdo](http://twitter.com/search?q=Cerdo) | N/A |
+| 38 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 39 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
+| 40 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 41 | [LOVE STORY](http://twitter.com/search?q=LOVE+STORY) | N/A |
+| 42 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
 | 43 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
-| 44 | [Benjamín Gil](http://twitter.com/search?q=Benjam%c3%adn+Gil) | N/A |
-| 45 | [Huevo](http://twitter.com/search?q=Huevo) | N/A |
-| 46 | [YURIDIA](http://twitter.com/search?q=YURIDIA) | N/A |
-| 47 | [Jesús Murillo Karam](http://twitter.com/search?q=Jes%c3%bas+Murillo+Karam) | N/A |
-| 48 | [Hernán](http://twitter.com/search?q=Hern%c3%a1n) | Hernán is a Spanish name derived from the Germanic name Hernan, which means "army man". It is also a variant of the name Fernando, which means "brave and daring". |
-| 49 | [MI CANCIÓN](http://twitter.com/search?q=MI+CANCI%c3%93N) | N/A |
-| 50 | [Luz del Mundo](http://twitter.com/search?q=Luz+del+Mundo) | N/A |
+| 44 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 45 | [Juegazo](http://twitter.com/search?q=Juegazo) | N/A |
+| 46 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
+| 47 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 48 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 49 | [NELSON X YURIDIA](http://twitter.com/search?q=NELSON+X+YURIDIA) | N/A |
+| 50 | [Partidazo](http://twitter.com/search?q=Partidazo) | N/A |
 
 
 

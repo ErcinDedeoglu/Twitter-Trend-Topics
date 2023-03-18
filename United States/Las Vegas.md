@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Vegas
 
-📆 Last Updated: `2023-03-18 04:17:24 UTC`
+📆 Last Updated: `2023-03-18 05:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 2 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 3 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 4 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 5 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 8 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
-| 9 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
-| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 11 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 12 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 13 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 14 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 15 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 16 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 17 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 18 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 19 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
-| 20 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 21 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
-| 22 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 23 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
-| 24 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
-| 25 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 26 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
-| 27 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 28 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
-| 29 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 30 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 31 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
-| 32 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 33 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
-| 34 | [DeAndre Williams](http://twitter.com/search?q=DeAndre+Williams) | N/A |
-| 35 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 36 | [FAU vs FDU](http://twitter.com/search?q=FAU+vs+FDU) | N/A |
-| 37 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 38 | [CRUEL SUMMER](http://twitter.com/search?q=CRUEL+SUMMER) | N/A |
-| 39 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
-| 40 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
-| 41 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 42 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
-| 43 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 44 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 45 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
-| 46 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
-| 47 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
-| 48 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 49 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 50 | [DONT BLAME ME](http://twitter.com/search?q=DONT+BLAME+ME) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 3 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 4 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 5 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 6 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 8 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
+| 9 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 10 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 11 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 12 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 13 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
+| 14 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 15 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 16 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 17 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 18 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 19 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 20 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
+| 21 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
+| 22 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 23 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 24 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 25 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 26 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 27 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 28 | [INVISIBLE STRING](http://twitter.com/search?q=INVISIBLE+STRING) | N/A |
+| 29 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 30 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 31 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
+| 32 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 33 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 34 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 35 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 36 | [JaKobe Coles](http://twitter.com/search?q=JaKobe+Coles) | N/A |
+| 37 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 38 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 39 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 40 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
+| 41 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 42 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 43 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
+| 44 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 45 | [Thanks AD](http://twitter.com/search?q=Thanks+AD) | N/A |
+| 46 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
+| 47 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 48 | [Bobby Hurley](http://twitter.com/search?q=Bobby+Hurley) | N/A |
+| 49 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 50 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
 
 
 

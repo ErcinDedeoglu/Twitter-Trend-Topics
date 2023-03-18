@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-18 04:17:28 UTC`
+📆 Last Updated: `2023-03-18 05:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 2 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 3 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 4 | [Sengun](http://twitter.com/search?q=Sengun) | Sengun is a Japanese term that refers to the Imperial Japanese Army during World War II. It literally translates to "war-supporting army" and was used to describe the Japanese military forces that fought in the war. |
-| 5 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 3 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 4 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 5 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
 | 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 7 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 8 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 9 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 10 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 12 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 13 | [#Destiny2](http://twitter.com/search?q=%23Destiny2) | N/A |
-| 14 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 15 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 16 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 17 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 18 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 19 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 20 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 21 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 7 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 8 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 9 | [St Patrick's Day](http://twitter.com/search?q=St+Patrick%27s+Day) | N/A |
+| 10 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 11 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 12 | [#Destiny2](http://twitter.com/search?q=%23Destiny2) | N/A |
+| 13 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 14 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 15 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 16 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 17 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 18 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 20 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
+| 21 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
 | 22 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 23 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 23 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 24 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 25 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
 | 26 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 27 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 28 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 29 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 30 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 31 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 32 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 33 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
-| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 35 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
-| 36 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 37 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
-| 38 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 39 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
-| 40 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 41 | [MISS AMERICANA](http://twitter.com/search?q=MISS+AMERICANA) | N/A |
-| 42 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 43 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
-| 44 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 45 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
-| 46 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 47 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
-| 48 | [DeAndre Williams](http://twitter.com/search?q=DeAndre+Williams) | N/A |
-| 49 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 50 | [FAU vs FDU](http://twitter.com/search?q=FAU+vs+FDU) | N/A |
+| 27 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 28 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
+| 29 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
+| 30 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 31 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 32 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 33 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 34 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 35 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 36 | [INVISIBLE STRING](http://twitter.com/search?q=INVISIBLE+STRING) | N/A |
+| 37 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 38 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 39 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
+| 40 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 41 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 42 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 43 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 44 | [JaKobe Coles](http://twitter.com/search?q=JaKobe+Coles) | N/A |
+| 45 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 46 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 47 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 48 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
+| 49 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 50 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
 
 
 
