@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-18 16:17:43 UTC`
+📆 Last Updated: `2023-03-18 17:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Canada
 | ------- | ------------ | ------------ |
 | 1 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 3 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 6 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 7 | [Johnston](http://twitter.com/search?q=Johnston) | N/A |
-| 8 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 10 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 12 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 13 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 14 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 15 | [#TrudeauNationalDisgrace](http://twitter.com/search?q=%23TrudeauNationalDisgrace) | N/A |
-| 16 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 17 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 18 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 19 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 20 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 21 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 22 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 24 | [Kleven](http://twitter.com/search?q=Kleven) | N/A |
-| 25 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 26 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 27 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 28 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 29 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 30 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 31 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 32 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 33 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
-| 34 | [Harper](http://twitter.com/search?q=Harper) | N/A |
-| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 36 | [St. Pats](http://twitter.com/search?q=St.+Pats) | N/A |
-| 37 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 38 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 40 | [zach aston](http://twitter.com/search?q=zach+aston) | N/A |
-| 41 | [Globe](http://twitter.com/search?q=Globe) | N/A |
-| 42 | [Coyne](http://twitter.com/search?q=Coyne) | N/A |
-| 43 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 44 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 45 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 46 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 47 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 48 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 49 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 50 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 6 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 7 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 8 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 9 | [Johnston](http://twitter.com/search?q=Johnston) | N/A |
+| 10 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 11 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 12 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 13 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 14 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 15 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 16 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 17 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 18 | [#SOUTOT](http://twitter.com/search?q=%23SOUTOT) | N/A |
+| 19 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 20 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 21 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 22 | [Veronica Hardy](http://twitter.com/search?q=Veronica+Hardy) | N/A |
+| 23 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 24 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 25 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 26 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 27 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
+| 28 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 29 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 30 | [Juliana Miller](http://twitter.com/search?q=Juliana+Miller) | N/A |
+| 31 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 32 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 33 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 34 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 35 | [Butts](http://twitter.com/search?q=Butts) | N/A |
+| 36 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 37 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 38 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 39 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 40 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 41 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 43 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
+| 44 | [Harper](http://twitter.com/search?q=Harper) | N/A |
+| 45 | [St. Pats](http://twitter.com/search?q=St.+Pats) | N/A |
+| 46 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 47 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 49 | [zach aston](http://twitter.com/search?q=zach+aston) | N/A |
+| 50 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
 
 
 

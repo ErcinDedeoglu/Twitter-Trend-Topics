@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-18 16:17:07 UTC`
+📆 Last Updated: `2023-03-18 17:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
+| 1 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
 | 2 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 3 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
-| 4 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 5 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 6 | [#FRAvWAL](http://twitter.com/search?q=%23FRAvWAL) | N/A |
-| 7 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
-| 8 | [#GuinnessSixNations](http://twitter.com/search?q=%23GuinnessSixNations) | N/A |
-| 9 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 10 | [Ben Healy](http://twitter.com/search?q=Ben+Healy) | N/A |
-| 11 | [#GrandSlam](http://twitter.com/search?q=%23GrandSlam) | N/A |
-| 12 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 13 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 14 | [lá fhéile pádraig](http://twitter.com/search?q=l%c3%a1+fh%c3%a9ile+p%c3%a1draig) | N/A |
-| 15 | [Meath](http://twitter.com/search?q=Meath) | N/A |
-| 16 | [Sally Rooney](http://twitter.com/search?q=Sally+Rooney) | N/A |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 19 | [Offaly](http://twitter.com/search?q=Offaly) | N/A |
-| 20 | [Tipperary](http://twitter.com/search?q=Tipperary) | N/A |
-| 21 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 22 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
-| 23 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [Shels](http://twitter.com/search?q=Shels) | N/A |
-| 26 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 27 | [Doug](http://twitter.com/search?q=Doug) | N/A |
-| 28 | [C'mon Ireland](http://twitter.com/search?q=C%27mon+Ireland) | N/A |
-| 29 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 30 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 31 | [Navan](http://twitter.com/search?q=Navan) | N/A |
-| 32 | [Temple Bar](http://twitter.com/search?q=Temple+Bar) | N/A |
-| 33 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 34 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 35 | [century of peace building](http://twitter.com/search?q=century+of+peace+building) | N/A |
-| 36 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
-| 37 | [Liam Kearns](http://twitter.com/search?q=Liam+Kearns) | N/A |
-| 38 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 39 | [Clarke](http://twitter.com/search?q=Clarke) | N/A |
-| 40 | [Tolka Park](http://twitter.com/search?q=Tolka+Park) | N/A |
-| 41 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 42 | [Scots](http://twitter.com/search?q=Scots) | N/A |
-| 43 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 44 | [Shelbourne](http://twitter.com/search?q=Shelbourne) | N/A |
-| 45 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 46 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 47 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 48 | [mallet](http://twitter.com/search?q=mallet) | N/A |
+| 3 | [#SixNations2023](http://twitter.com/search?q=%23SixNations2023) | N/A |
+| 4 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
+| 5 | [#TeamOfUs](http://twitter.com/search?q=%23TeamOfUs) | N/A |
+| 6 | [#GrandSlam](http://twitter.com/search?q=%23GrandSlam) | N/A |
+| 7 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 9 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 10 | [C'mon Ireland](http://twitter.com/search?q=C%27mon+Ireland) | N/A |
+| 11 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 12 | [Meath](http://twitter.com/search?q=Meath) | N/A |
+| 13 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 14 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 15 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 16 | [Navan](http://twitter.com/search?q=Navan) | N/A |
+| 17 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 18 | [lá fhéile pádraig](http://twitter.com/search?q=l%c3%a1+fh%c3%a9ile+p%c3%a1draig) | N/A |
+| 19 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 20 | [Sally Rooney](http://twitter.com/search?q=Sally+Rooney) | N/A |
+| 21 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 22 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 23 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 25 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 26 | [Ben Healy](http://twitter.com/search?q=Ben+Healy) | N/A |
+| 27 | [Offaly](http://twitter.com/search?q=Offaly) | N/A |
+| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 30 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 31 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
+| 32 | [Tolka Park](http://twitter.com/search?q=Tolka+Park) | N/A |
+| 33 | [Shels](http://twitter.com/search?q=Shels) | N/A |
+| 34 | [Doug](http://twitter.com/search?q=Doug) | N/A |
+| 35 | [Liam Kearns](http://twitter.com/search?q=Liam+Kearns) | N/A |
+| 36 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 37 | [century of peace building](http://twitter.com/search?q=century+of+peace+building) | N/A |
+| 38 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 39 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 40 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 41 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
+| 42 | [Tipperary](http://twitter.com/search?q=Tipperary) | N/A |
+| 43 | [Clarke](http://twitter.com/search?q=Clarke) | N/A |
+| 44 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 45 | [Shelbourne](http://twitter.com/search?q=Shelbourne) | N/A |
+| 46 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 47 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 48 | [Antrim](http://twitter.com/search?q=Antrim) | N/A |
 | 49 | [White House](http://twitter.com/search?q=White+House) | N/A |
 | 50 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hermosillo
 
-📆 Last Updated: `2023-03-18 16:17:00 UTC`
+📆 Last Updated: `2023-03-18 17:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 3 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 4 | [#ExpropiaciónPetrolera](http://twitter.com/search?q=%23Expropiaci%c3%b3nPetrolera) | N/A |
-| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 6 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
+| 3 | [#ExpropiaciónPetrolera](http://twitter.com/search?q=%23Expropiaci%c3%b3nPetrolera) | N/A |
+| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 5 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
+| 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 7 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 8 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 9 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
-| 10 | [Lázaro Cárdenas del Río](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas+del+R%c3%ado) | N/A |
-| 11 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 12 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
-| 13 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 8 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
+| 9 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 10 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 11 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
+| 12 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 13 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
 | 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 15 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
-| 16 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 17 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 15 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 16 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 17 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
 | 18 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 19 | [El 18](http://twitter.com/search?q=El+18) | N/A |
-| 20 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 19 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 20 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
 | 21 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
 | 22 | [Hoy 18](http://twitter.com/search?q=Hoy+18) | N/A |
-| 23 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 24 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
-| 25 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 27 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 28 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
-| 29 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 30 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 31 | [Ford Maverick](http://twitter.com/search?q=Ford+Maverick) | N/A |
-| 32 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 33 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 34 | [En 1938](http://twitter.com/search?q=En+1938) | N/A |
-| 35 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
+| 23 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
+| 24 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
+| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 26 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 27 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
+| 28 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 29 | [El 18](http://twitter.com/search?q=El+18) | N/A |
+| 30 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 31 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 32 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 33 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 34 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 35 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
 | 36 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 37 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
-| 38 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 39 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 40 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
-| 41 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 42 | [sergio pitol](http://twitter.com/search?q=sergio+pitol) | N/A |
-| 43 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 44 | [Excélsior](http://twitter.com/search?q=Exc%c3%a9lsior) | N/A |
-| 45 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 46 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 47 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 48 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
-| 49 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 50 | [Semifinales](http://twitter.com/search?q=Semifinales) | N/A |
+| 37 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 38 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 39 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 40 | [En 1938](http://twitter.com/search?q=En+1938) | N/A |
+| 41 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
+| 42 | [Ford Maverick](http://twitter.com/search?q=Ford+Maverick) | N/A |
+| 43 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 44 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
+| 45 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 46 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
+| 47 | [Semifinales](http://twitter.com/search?q=Semifinales) | N/A |
+| 48 | [Gurría](http://twitter.com/search?q=Gurr%c3%ada) | N/A |
+| 49 | [The Cars](http://twitter.com/search?q=The+Cars) | N/A |
+| 50 | [Assad](http://twitter.com/search?q=Assad) | N/A |
 
 
 

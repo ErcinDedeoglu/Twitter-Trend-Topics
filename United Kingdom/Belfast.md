@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-18 16:16:58 UTC`
+📆 Last Updated: `2023-03-18 17:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FRAvWAL](http://twitter.com/search?q=%23FRAvWAL) | N/A |
-| 2 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
-| 3 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
-| 4 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 5 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 6 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 7 | [Starfelt](http://twitter.com/search?q=Starfelt) | Starfelt is a term used to describe a feeling of being deeply moved or inspired by something. It is often used to describe the feeling of awe and wonder that comes from looking up at the night sky and seeing the stars. |
-| 8 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
-| 9 | [#SixNations2023](http://twitter.com/search?q=%23SixNations2023) | N/A |
-| 10 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
-| 11 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
-| 12 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 13 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 14 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
-| 15 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 16 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
-| 19 | [Tom Ince](http://twitter.com/search?q=Tom+Ince) | N/A |
-| 20 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
+| 1 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 2 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 3 | [#FRAvWAL](http://twitter.com/search?q=%23FRAvWAL) | N/A |
+| 4 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
+| 5 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 6 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 7 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
+| 8 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 9 | [#SOUTOT](http://twitter.com/search?q=%23SOUTOT) | N/A |
+| 10 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
+| 11 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 12 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 13 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 14 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 15 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 16 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 17 | [Starfelt](http://twitter.com/search?q=Starfelt) | Starfelt is a term used to describe a feeling of being deeply moved or inspired by something. It is often used to describe the feeling of awe and wonder that comes from looking up at the night sky and seeing the stars. |
+| 18 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
+| 19 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
+| 20 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
 | 21 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
-| 22 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 23 | [Major Dundee](http://twitter.com/search?q=Major+Dundee) | N/A |
-| 24 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
-| 25 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 26 | [Cantwell](http://twitter.com/search?q=Cantwell) | N/A |
-| 27 | [Youan](http://twitter.com/search?q=Youan) | N/A |
-| 28 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 29 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
-| 30 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
-| 31 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 32 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
-| 33 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
-| 34 | [Firpo](http://twitter.com/search?q=Firpo) | Firpo is a Spanish surname derived from the Latin word ferpus, meaning "iron-clad". It is also a nickname for someone who is strong and brave. In English, Firpo can be translated to mean "ironclad" or "strong and brave". |
-| 35 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 36 | [Rudy Gestede](http://twitter.com/search?q=Rudy+Gestede) | N/A |
-| 37 | [Kinghorn](http://twitter.com/search?q=Kinghorn) | N/A |
-| 38 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 39 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 40 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
-| 41 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 42 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 43 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 44 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 45 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 46 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 47 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 48 | [Sarabia](http://twitter.com/search?q=Sarabia) | Sarabia is a Spanish surname derived from the Arabic word sarab, which means "mirage". It is also the name of a small town in Spain. In English, Sarabia can be translated to mean "mirage". |
-| 49 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 22 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 23 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 24 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 25 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
+| 26 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 27 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 28 | [Charlie Austin](http://twitter.com/search?q=Charlie+Austin) | N/A |
+| 29 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 30 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
+| 31 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 34 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
+| 35 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 36 | [Firpo](http://twitter.com/search?q=Firpo) | Firpo is a Spanish surname derived from the Latin word ferpus, meaning "iron-clad". It is also a nickname for someone who is strong and brave. In English, Firpo can be translated to mean "ironclad" or "strong and brave". |
+| 37 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
+| 38 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 39 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
+| 40 | [sakala](http://twitter.com/search?q=sakala) | N/A |
+| 41 | [Rasmus](http://twitter.com/search?q=Rasmus) | N/A |
+| 42 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 43 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 44 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 45 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
+| 46 | [Tom Ince](http://twitter.com/search?q=Tom+Ince) | N/A |
+| 47 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 48 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 49 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
 
 
 

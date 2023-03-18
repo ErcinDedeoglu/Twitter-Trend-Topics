@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Honolulu
 
-📆 Last Updated: `2023-03-18 16:17:36 UTC`
+📆 Last Updated: `2023-03-18 17:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 2 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 1 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 2 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
 | 3 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 4 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
-| 5 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 6 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
-| 7 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 9 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 11 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 12 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 14 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 15 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 16 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
-| 17 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 18 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 19 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 20 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 21 | [Duke -3.5](http://twitter.com/search?q=Duke+-3.5) | N/A |
-| 22 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 23 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 24 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 25 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
-| 26 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 27 | [Qevin](http://twitter.com/search?q=Qevin) | N/A |
-| 28 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 29 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 30 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 31 | [Boarders](http://twitter.com/search?q=Boarders) | N/A |
-| 32 | [Colin Cowherd](http://twitter.com/search?q=Colin+Cowherd) | N/A |
-| 33 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
-| 34 | [Mr. Speaker](http://twitter.com/search?q=Mr.+Speaker) | N/A |
-| 35 | [Protections](http://twitter.com/search?q=Protections) | N/A |
-| 36 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
-| 37 | [Volunteered](http://twitter.com/search?q=Volunteered) | N/A |
-| 38 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 39 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 40 | [Peacefully](http://twitter.com/search?q=Peacefully) | N/A |
-| 41 | [Texas -5.5](http://twitter.com/search?q=Texas+-5.5) | N/A |
-| 42 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 43 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 44 | [Misdemeanor](http://twitter.com/search?q=Misdemeanor) | N/A |
-| 45 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
-| 46 | [Page 2](http://twitter.com/search?q=Page+2) | N/A |
-| 47 | [Joey Galloway](http://twitter.com/search?q=Joey+Galloway) | N/A |
-| 48 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 5 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
+| 6 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 7 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 8 | [Veronica Hardy](http://twitter.com/search?q=Veronica+Hardy) | N/A |
+| 9 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 10 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 11 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 12 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 13 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
+| 14 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 15 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 16 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 17 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 18 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 19 | [Juliana Miller](http://twitter.com/search?q=Juliana+Miller) | N/A |
+| 20 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 21 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 22 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 23 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 24 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 25 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 26 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 27 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 28 | [Qevin](http://twitter.com/search?q=Qevin) | N/A |
+| 29 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 30 | [Theo Walcott](http://twitter.com/search?q=Theo+Walcott) | N/A |
+| 31 | [Volunteered](http://twitter.com/search?q=Volunteered) | N/A |
+| 32 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 33 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 34 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
+| 35 | [Duke -3.5](http://twitter.com/search?q=Duke+-3.5) | N/A |
+| 36 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 37 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 38 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 39 | [Mr. Speaker](http://twitter.com/search?q=Mr.+Speaker) | N/A |
+| 40 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 41 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 42 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
+| 43 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 44 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 45 | [Boarders](http://twitter.com/search?q=Boarders) | N/A |
+| 46 | [Cowherd](http://twitter.com/search?q=Cowherd) | N/A |
+| 47 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
+| 48 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
 
 
 

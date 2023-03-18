@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-03-18 16:16:56 UTC`
+📆 Last Updated: `2023-03-18 17:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dcfc](http://twitter.com/search?q=%23dcfc) | N/A |
-| 2 | [#partofthepride](http://twitter.com/search?q=%23partofthepride) | N/A |
-| 3 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 4 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 5 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
-| 6 | [#Spireites](http://twitter.com/search?q=%23Spireites) | N/A |
-| 7 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 8 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 9 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 10 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 11 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 12 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 13 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 14 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 15 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 16 | [game off](http://twitter.com/search?q=game+off) | N/A |
-| 17 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 18 | [RIP Craig](http://twitter.com/search?q=RIP+Craig) | N/A |
-| 19 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 20 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
-| 21 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 22 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 23 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 24 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 25 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 26 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 27 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 28 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 1 | [#ConteOut](http://twitter.com/search?q=%23ConteOut) | N/A |
+| 2 | [Buendia](http://twitter.com/search?q=Buendia) | Buendia is a Spanish surname derived from the town of Buendía in the province of Cuenca, Spain. In English, it means "from Buendía". |
+| 3 | [Che Adams](http://twitter.com/search?q=Che+Adams) | Che Adams is a professional footballer who plays as a forward for Southampton in the Premier League. He began his career with Ilkeston Town before joining Sheffield United in 2014. He has also played for Birmingham City and Leeds United. The name Che Adams is derived from his middle name, Cheikhou, which means "God's gift" in the Wolof language of Senegal. |
+| 4 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 5 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 6 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 7 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 8 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 9 | [Unai Emery](http://twitter.com/search?q=Unai+Emery) | Unai Emery is the name of a Spanish football manager and former player. He is currently the head coach of Arsenal Football Club in the English Premier League. The name Unai Emery is derived from the Basque language and means "the one who has courage". |
+| 10 | [RED CARD](http://twitter.com/search?q=RED+CARD) | N/A |
+| 11 | [Skipp](http://twitter.com/search?q=Skipp) | Skipp is a slang term used to refer to someone who is in charge or in control of a situation. It can also be used to refer to someone who is a leader or has authority. In English, it can be used as an informal way of saying "boss" or "leader". |
+| 12 | [Sarabia](http://twitter.com/search?q=Sarabia) | Sarabia is a Spanish surname derived from the Arabic word sarab, which means "mirage". It is also the name of a small town in Spain. In English, Sarabia can be translated to mean "mirage". |
+| 13 | [Cunha](http://twitter.com/search?q=Cunha) | N/A |
+| 14 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
+| 15 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 16 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 17 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
+| 18 | [Gomes](http://twitter.com/search?q=Gomes) | N/A |
+| 19 | [#pufc](http://twitter.com/search?q=%23pufc) | N/A |
+| 20 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
+| 21 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 22 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 23 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 24 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 25 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 26 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
+| 27 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 28 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
 | 29 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 30 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 31 | [Starfelt](http://twitter.com/search?q=Starfelt) | Starfelt is a term used to describe a feeling of being deeply moved or inspired by something. It is often used to describe the feeling of awe and wonder that comes from looking up at the night sky and seeing the stars. |
-| 32 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
-| 33 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
-| 34 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 30 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 31 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 32 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 33 | [Starfelt](http://twitter.com/search?q=Starfelt) | Starfelt is a term used to describe a feeling of being deeply moved or inspired by something. It is often used to describe the feeling of awe and wonder that comes from looking up at the night sky and seeing the stars. |
+| 34 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
 | 35 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 36 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
-| 37 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 38 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
-| 39 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
-| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 41 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
-| 42 | [Tom Ince](http://twitter.com/search?q=Tom+Ince) | N/A |
-| 43 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
-| 44 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 45 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 46 | [Major Dundee](http://twitter.com/search?q=Major+Dundee) | N/A |
-| 47 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
-| 48 | [Youan](http://twitter.com/search?q=Youan) | N/A |
-| 49 | [Cantwell](http://twitter.com/search?q=Cantwell) | N/A |
+| 36 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
+| 37 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 38 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 39 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 40 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 41 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 42 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
+| 43 | [Charlie Austin](http://twitter.com/search?q=Charlie+Austin) | N/A |
+| 44 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 45 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 46 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
+| 47 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
+| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 49 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
 
 
 

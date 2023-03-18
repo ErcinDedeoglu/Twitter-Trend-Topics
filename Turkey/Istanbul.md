@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-18 16:17:33 UTC`
+📆 Last Updated: `2023-03-18 17:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [AFtorbada ReisBalkonda](http://twitter.com/search?q=AFtorbada+ReisBalkonda) | N/A |
-| 2 | [EzgiDemirtaş Evleniyor](http://twitter.com/search?q=EzgiDemirta%c5%9f+Evleniyor) | N/A |
-| 3 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
-| 4 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
-| 5 | [Selo](http://twitter.com/search?q=Selo) | N/A |
-| 6 | [Ertuğrul Altun23](http://twitter.com/search?q=Ertu%c4%9frul+Altun23) | N/A |
+| 1 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 2 | [Selo](http://twitter.com/search?q=Selo) | N/A |
+| 3 | [Ertuğrul Altun23](http://twitter.com/search?q=Ertu%c4%9frul+Altun23) | N/A |
+| 4 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 5 | [#snKocaAtamaNerede](http://twitter.com/search?q=%23snKocaAtamaNerede) | N/A |
+| 6 | [#BJKvİST](http://twitter.com/search?q=%23BJKv%c4%b0ST) | N/A |
 | 7 | [ErtanDevrim DergiÇekimi](http://twitter.com/search?q=ErtanDevrim+Dergi%c3%87ekimi) | N/A |
 | 8 | [#2000LerKararlı](http://twitter.com/search?q=%232000LerKararl%c4%b1) | N/A |
 | 9 | [#Samandağ](http://twitter.com/search?q=%23Samanda%c4%9f) | N/A |
-| 10 | [#snKocaAtamaNerede](http://twitter.com/search?q=%23snKocaAtamaNerede) | N/A |
-| 11 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
-| 12 | [#18MartÇanakkaleZaferi](http://twitter.com/search?q=%2318Mart%c3%87anakkaleZaferi) | N/A |
-| 13 | [#Kabinedeunikarari](http://twitter.com/search?q=%23Kabinedeunikarari) | N/A |
-| 14 | [Başarılar Beşiktaş'ım](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
-| 15 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 16 | [EhliyetimiVer OyumuAl](http://twitter.com/search?q=EhliyetimiVer+OyumuAl) | N/A |
-| 17 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 19 | [BaşakveÇağrıİle SenBenO](http://twitter.com/search?q=Ba%c5%9fakve%c3%87a%c4%9fr%c4%b1%c4%b0le+SenBenO) | N/A |
-| 20 | [Cherif Ndiaye](http://twitter.com/search?q=Cherif+Ndiaye) | N/A |
-| 21 | [Kalbimizdesiniz EnKay](http://twitter.com/search?q=Kalbimizdesiniz+EnKay) | N/A |
-| 22 | [Altay Bayındır](http://twitter.com/search?q=Altay+Bay%c4%b1nd%c4%b1r) | N/A |
-| 23 | [Emre Akbaba](http://twitter.com/search?q=Emre+Akbaba) | N/A |
-| 24 | [Sisi](http://twitter.com/search?q=Sisi) | N/A |
-| 25 | [Ertan Saban](http://twitter.com/search?q=Ertan+Saban) | N/A |
-| 26 | [Cansız](http://twitter.com/search?q=Cans%c4%b1z) | N/A |
-| 27 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
-| 28 | [Şehitleri Anma Günü](http://twitter.com/search?q=%c5%9eehitleri+Anma+G%c3%bcn%c3%bc) | N/A |
-| 29 | [Milyonlar](http://twitter.com/search?q=Milyonlar) | N/A |
-| 30 | [Türk Devletleri Teşkilatı](http://twitter.com/search?q=T%c3%bcrk+Devletleri+Te%c5%9fkilat%c4%b1) | N/A |
-| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 32 | [Kur'an-ı Kerim](http://twitter.com/search?q=Kur%27an-%c4%b1+Kerim) | Kur'an-ı Kerim is the Islamic holy book, also known as the Quran. It is the central religious text of Islam, believed by Muslims to be a revelation from God. The literal meaning of Kur'an-ı Kerim in English is "The Noble Quran". |
-| 33 | [Daha İslami](http://twitter.com/search?q=Daha+%c4%b0slami) | N/A |
-| 34 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 35 | [ERDOĞAN EZE EZE KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+EZE+EZE+KAZANACAK) | N/A |
-| 36 | [Enver Paşa](http://twitter.com/search?q=Enver+Pa%c5%9fa) | N/A |
-| 37 | [Mısır](http://twitter.com/search?q=M%c4%b1s%c4%b1r) | N/A |
-| 38 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
-| 39 | [Fatiha](http://twitter.com/search?q=Fatiha) | N/A |
-| 40 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 41 | [Diyanet](http://twitter.com/search?q=Diyanet) | N/A |
-| 42 | [Yıl Dönümü](http://twitter.com/search?q=Y%c4%b1l+D%c3%b6n%c3%bcm%c3%bc) | N/A |
-| 43 | [Depremin 40](http://twitter.com/search?q=Depremin+40) | N/A |
-| 44 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
-| 45 | [Teoman](http://twitter.com/search?q=Teoman) | N/A |
-| 46 | [Şehitlerimizi](http://twitter.com/search?q=%c5%9eehitlerimizi) | N/A |
-| 47 | [Peygamber](http://twitter.com/search?q=Peygamber) | N/A |
-| 48 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 49 | [Gazilerimizi](http://twitter.com/search?q=Gazilerimizi) | N/A |
-| 50 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
+| 10 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 11 | [Salih](http://twitter.com/search?q=Salih) | Salih is an Arabic name that means "righteous" or "pious". |
+| 12 | [#SkandallarORTADA](http://twitter.com/search?q=%23SkandallarORTADA) | N/A |
+| 13 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 14 | [EhliyetimiVer OyumuAl](http://twitter.com/search?q=EhliyetimiVer+OyumuAl) | N/A |
+| 15 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 16 | [ANKA-3](http://twitter.com/search?q=ANKA-3) | N/A |
+| 17 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
+| 18 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
+| 19 | [Başarılar Beşiktaş'ım](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
+| 20 | [AFtorbada ReisBalkonda](http://twitter.com/search?q=AFtorbada+ReisBalkonda) | N/A |
+| 21 | [EzgiDemirtaş Evleniyor](http://twitter.com/search?q=EzgiDemirta%c5%9f+Evleniyor) | N/A |
+| 22 | [Rosier](http://twitter.com/search?q=Rosier) | Rosier is a French word meaning "rosebush" or "rose garden". It can also refer to a person who is fond of roses. |
+| 23 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
+| 24 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 25 | [BaşakveÇağrıİle SenBenO](http://twitter.com/search?q=Ba%c5%9fakve%c3%87a%c4%9fr%c4%b1%c4%b0le+SenBenO) | N/A |
+| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 27 | [Atatürk Atatürk](http://twitter.com/search?q=Atat%c3%bcrk+Atat%c3%bcrk) | N/A |
+| 28 | [Cherif Ndiaye](http://twitter.com/search?q=Cherif+Ndiaye) | N/A |
+| 29 | [Altay Bayındır](http://twitter.com/search?q=Altay+Bay%c4%b1nd%c4%b1r) | N/A |
+| 30 | [Emre Akbaba](http://twitter.com/search?q=Emre+Akbaba) | N/A |
+| 31 | [Kalbimizdesiniz EnKay](http://twitter.com/search?q=Kalbimizdesiniz+EnKay) | N/A |
+| 32 | [Ertan Saban](http://twitter.com/search?q=Ertan+Saban) | N/A |
+| 33 | [Cansız](http://twitter.com/search?q=Cans%c4%b1z) | N/A |
+| 34 | [Sisi](http://twitter.com/search?q=Sisi) | N/A |
+| 35 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
+| 36 | [Şehitleri Anma Günü](http://twitter.com/search?q=%c5%9eehitleri+Anma+G%c3%bcn%c3%bc) | N/A |
+| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 38 | [Depremin 40](http://twitter.com/search?q=Depremin+40) | N/A |
+| 39 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 40 | [Türk Devletleri Teşkilatı](http://twitter.com/search?q=T%c3%bcrk+Devletleri+Te%c5%9fkilat%c4%b1) | N/A |
+| 41 | [Milli Muharip Uçak](http://twitter.com/search?q=Milli+Muharip+U%c3%a7ak) | N/A |
+| 42 | [Mustafa Kemal](http://twitter.com/search?q=Mustafa+Kemal) | N/A |
+| 43 | [İslami](http://twitter.com/search?q=%c4%b0slami) | N/A |
+| 44 | [Fatiha](http://twitter.com/search?q=Fatiha) | N/A |
+| 45 | [ERDOĞAN EZE EZE KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+EZE+EZE+KAZANACAK) | N/A |
+| 46 | [Enver Paşa](http://twitter.com/search?q=Enver+Pa%c5%9fa) | N/A |
+| 47 | [Teoman](http://twitter.com/search?q=Teoman) | N/A |
+| 48 | [Milyonlar](http://twitter.com/search?q=Milyonlar) | N/A |
+| 49 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
+| 50 | [Kur'an-ı Kerim](http://twitter.com/search?q=Kur%27an-%c4%b1+Kerim) | Kur'an-ı Kerim is the Islamic holy book, also known as the Quran. It is the central religious text of Islam, believed by Muslims to be a revelation from God. The literal meaning of Kur'an-ı Kerim in English is "The Noble Quran". |
 
 
 

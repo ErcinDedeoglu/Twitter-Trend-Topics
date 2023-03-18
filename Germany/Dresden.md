@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-18 16:17:09 UTC`
+📆 Last Updated: `2023-03-18 17:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCAS04](http://twitter.com/search?q=%23FCAS04) | N/A |
-| 2 | [#TSGBSC](http://twitter.com/search?q=%23TSGBSC) | N/A |
-| 3 | [#VfBWOB](http://twitter.com/search?q=%23VfBWOB) | N/A |
-| 4 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 5 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 6 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 7 | [balanta](http://twitter.com/search?q=balanta) | N/A |
-| 8 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 9 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 10 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 11 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 12 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 15 | [daniel schlager](http://twitter.com/search?q=daniel+schlager) | N/A |
-| 16 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 17 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 18 | [Karazor](http://twitter.com/search?q=Karazor) | N/A |
-| 19 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 20 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 21 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 22 | [Augsburger](http://twitter.com/search?q=Augsburger) | N/A |
-| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 24 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 25 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 26 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 27 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 28 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 29 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 30 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 31 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 32 | [Konferenz](http://twitter.com/search?q=Konferenz) | N/A |
-| 33 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 34 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 35 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 36 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 37 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 38 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
-| 39 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
-| 40 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 41 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 42 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 43 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 44 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 45 | [IStGH](http://twitter.com/search?q=IStGH) | N/A |
-| 46 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
-| 47 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 48 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 49 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 1 | [#VFBWOB](http://twitter.com/search?q=%23VFBWOB) | N/A |
+| 2 | [#FCAS04](http://twitter.com/search?q=%23FCAS04) | N/A |
+| 3 | [#TSGBSC](http://twitter.com/search?q=%23TSGBSC) | N/A |
+| 4 | [#BOCRBL](http://twitter.com/search?q=%23BOCRBL) | N/A |
+| 5 | [Flanken](http://twitter.com/search?q=Flanken) | N/A |
+| 6 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 7 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 8 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 9 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
+| 10 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
+| 11 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 12 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 13 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 14 | [Überzahl](http://twitter.com/search?q=%c3%9cberzahl) | N/A |
+| 15 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 16 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
+| 17 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 18 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 19 | [Konferenz](http://twitter.com/search?q=Konferenz) | N/A |
+| 20 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 21 | [Strafraum](http://twitter.com/search?q=Strafraum) | N/A |
+| 22 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 23 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 24 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
+| 25 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
+| 26 | [Balkon](http://twitter.com/search?q=Balkon) | N/A |
+| 27 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 28 | [Aufstieg](http://twitter.com/search?q=Aufstieg) | N/A |
+| 29 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
+| 30 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 31 | [Garten](http://twitter.com/search?q=Garten) | N/A |
+| 32 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 33 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
+| 34 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 35 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 36 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 37 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 38 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
+| 39 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 40 | [#HSVKSV](http://twitter.com/search?q=%23HSVKSV) | N/A |
+| 41 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
+| 42 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
+| 43 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 44 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
+| 45 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
+| 46 | [#b1803](http://twitter.com/search?q=%23b1803) | N/A |
+| 47 | [#sgffcm](http://twitter.com/search?q=%23sgffcm) | N/A |
+| 48 | [#Märzrevolution](http://twitter.com/search?q=%23M%c3%a4rzrevolution) | N/A |
+| 49 | [#nurderHSV](http://twitter.com/search?q=%23nurderHSV) | N/A |
 
 
 

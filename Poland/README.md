@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-18 16:17:47 UTC`
+📆 Last Updated: `2023-03-18 17:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Poland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 2 | [#JAGZAG](http://twitter.com/search?q=%23JAGZAG) | N/A |
-| 3 | [#JarekOddajKPO](http://twitter.com/search?q=%23JarekOddajKPO) | N/A |
-| 4 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 5 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
-| 6 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 2 | [#JarekOddajKPO](http://twitter.com/search?q=%23JarekOddajKPO) | N/A |
+| 3 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 4 | [#JAGZAG](http://twitter.com/search?q=%23JAGZAG) | N/A |
+| 5 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 6 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
 | 7 | [#ŚLĄSTM](http://twitter.com/search?q=%23%c5%9aL%c4%84STM) | N/A |
-| 8 | [Gual](http://twitter.com/search?q=Gual) | N/A |
+| 8 | [Basel](http://twitter.com/search?q=Basel) | N/A |
 | 9 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
-| 10 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 11 | [Exposito](http://twitter.com/search?q=Exposito) | N/A |
-| 12 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
-| 13 | [Jan Urban](http://twitter.com/search?q=Jan+Urban) | N/A |
-| 14 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
-| 15 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
-| 16 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
-| 17 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
-| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 19 | [Krychowiaka](http://twitter.com/search?q=Krychowiaka) | N/A |
-| 20 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
-| 21 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
-| 22 | [glika](http://twitter.com/search?q=glika) | N/A |
-| 23 | [Mularczyka](http://twitter.com/search?q=Mularczyka) | N/A |
-| 24 | [Podolski](http://twitter.com/search?q=Podolski) | N/A |
-| 25 | [Olek](http://twitter.com/search?q=Olek) | N/A |
-| 26 | [kownackiego](http://twitter.com/search?q=kownackiego) | N/A |
-| 27 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 28 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 29 | [piątka](http://twitter.com/search?q=pi%c4%85tka) | N/A |
-| 30 | [Gaula](http://twitter.com/search?q=Gaula) | N/A |
-| 31 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
-| 32 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
-| 33 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
-| 34 | [Stali](http://twitter.com/search?q=Stali) | N/A |
-| 35 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 36 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
-| 37 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 38 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 39 | [Hagi](http://twitter.com/search?q=Hagi) | N/A |
-| 40 | [Poldi](http://twitter.com/search?q=Poldi) | N/A |
-| 41 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 10 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
+| 11 | [Jan Urban](http://twitter.com/search?q=Jan+Urban) | N/A |
+| 12 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
+| 13 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
+| 16 | [Krychowiaka](http://twitter.com/search?q=Krychowiaka) | N/A |
+| 17 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 18 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
+| 19 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
+| 20 | [Podolski](http://twitter.com/search?q=Podolski) | N/A |
+| 21 | [glika](http://twitter.com/search?q=glika) | N/A |
+| 22 | [Gual](http://twitter.com/search?q=Gual) | N/A |
+| 23 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
+| 24 | [Mularczyka](http://twitter.com/search?q=Mularczyka) | N/A |
+| 25 | [kownackiego](http://twitter.com/search?q=kownackiego) | N/A |
+| 26 | [Planica](http://twitter.com/search?q=Planica) | N/A |
+| 27 | [exposito](http://twitter.com/search?q=exposito) | N/A |
+| 28 | [Oliwiera](http://twitter.com/search?q=Oliwiera) | N/A |
+| 29 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 30 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
+| 31 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
+| 32 | [piątka](http://twitter.com/search?q=pi%c4%85tka) | N/A |
+| 33 | [Poldi](http://twitter.com/search?q=Poldi) | N/A |
+| 34 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 35 | [Gaula](http://twitter.com/search?q=Gaula) | N/A |
+| 36 | [Do Rzeczy](http://twitter.com/search?q=Do+Rzeczy) | N/A |
+| 37 | [Ministerstwo Przemysłu](http://twitter.com/search?q=Ministerstwo+Przemys%c5%82u) | N/A |
+| 38 | [Hagi](http://twitter.com/search?q=Hagi) | N/A |
+| 39 | [Miziołek](http://twitter.com/search?q=Mizio%c5%82ek) | N/A |
+| 40 | [Edward](http://twitter.com/search?q=Edward) | N/A |
+| 41 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
 | 42 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
-| 43 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
-| 44 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 45 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 46 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 47 | [Janusz Kowalski](http://twitter.com/search?q=Janusz+Kowalski) | N/A |
-| 48 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 49 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
-| 50 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 43 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 44 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
+| 45 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 46 | [Kielcach](http://twitter.com/search?q=Kielcach) | N/A |
+| 47 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 48 | [Buczek](http://twitter.com/search?q=Buczek) | N/A |
+| 49 | [Janusz Kowalski](http://twitter.com/search?q=Janusz+Kowalski) | N/A |
+| 50 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
 
 
 
