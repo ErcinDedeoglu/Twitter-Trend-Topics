@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-03-18 19:16:34 UTC`
+📆 Last Updated: `2023-03-18 20:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Annamalai](http://twitter.com/search?q=Annamalai) | N/A |
-| 2 | [#ARRahman](http://twitter.com/search?q=%23ARRahman) | N/A |
-| 3 | [#AskArmaan](http://twitter.com/search?q=%23AskArmaan) | N/A |
-| 4 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
-| 5 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
-| 6 | [#ATKMBBFC](http://twitter.com/search?q=%23ATKMBBFC) | N/A |
-| 7 | [#RCBvGG](http://twitter.com/search?q=%23RCBvGG) | N/A |
-| 8 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 9 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 12 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 13 | [HARSHAD CHOPDA WON IGA 2023](http://twitter.com/search?q=HARSHAD+CHOPDA+WON+IGA+2023) | N/A |
-| 14 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 15 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
-| 16 | [TEJASSWI GRACING ELLE CARNIVAL](http://twitter.com/search?q=TEJASSWI+GRACING+ELLE+CARNIVAL) | N/A |
-| 17 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 18 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 20 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 21 | [KKUNDRRA GRACING ICONIC AWARDS](http://twitter.com/search?q=KKUNDRRA+GRACING+ICONIC+AWARDS) | N/A |
-| 22 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 23 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 24 | [Deepti S & Punam R](http://twitter.com/search?q=Deepti+S+%26+Punam+R) | N/A |
-| 25 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 26 | [Multan](http://twitter.com/search?q=Multan) | N/A |
-| 27 | [Sushant Stirs Emotion](http://twitter.com/search?q=Sushant+Stirs+Emotion) | N/A |
-| 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 29 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 30 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 31 | [BEKAABOO ON COLORS](http://twitter.com/search?q=BEKAABOO+ON+COLORS) | N/A |
-| 32 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 33 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 34 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 35 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 36 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 37 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 38 | [HANDSOME PRATIK IN IGA](http://twitter.com/search?q=HANDSOME+PRATIK+IN+IGA) | N/A |
-| 39 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 40 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 41 | [Roy Krishna](http://twitter.com/search?q=Roy+Krishna) | N/A |
-| 42 | [काला टीका](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9f%e0%a5%80%e0%a4%95%e0%a4%be) | N/A |
-| 43 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 44 | [Vishal Kaith](http://twitter.com/search?q=Vishal+Kaith) | N/A |
-| 45 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 46 | [Encounter](http://twitter.com/search?q=Encounter) | N/A |
-| 47 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 48 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 49 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 50 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
+| 1 | [#ARRahman](http://twitter.com/search?q=%23ARRahman) | N/A |
+| 2 | [#AskArmaan](http://twitter.com/search?q=%23AskArmaan) | N/A |
+| 3 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 4 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 5 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
+| 6 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
+| 7 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 8 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
+| 9 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
+| 10 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 13 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 16 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 17 | [TEJASSWI GRACING ELLE CARNIVAL](http://twitter.com/search?q=TEJASSWI+GRACING+ELLE+CARNIVAL) | N/A |
+| 18 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 20 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 22 | [HARSHAD CHOPDA WON IGA 2023](http://twitter.com/search?q=HARSHAD+CHOPDA+WON+IGA+2023) | N/A |
+| 23 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 24 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
+| 25 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 26 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 27 | [KKUNDRRA GRACING ICONIC AWARDS](http://twitter.com/search?q=KKUNDRRA+GRACING+ICONIC+AWARDS) | N/A |
+| 28 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 29 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 31 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 32 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 33 | [Sushant Stirs Emotion](http://twitter.com/search?q=Sushant+Stirs+Emotion) | N/A |
+| 34 | [Deepti S & Punam R](http://twitter.com/search?q=Deepti+S+%26+Punam+R) | N/A |
+| 35 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 36 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 37 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 38 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 39 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 40 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 41 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 42 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 43 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
+| 44 | [काला टीका](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9f%e0%a5%80%e0%a4%95%e0%a4%be) | N/A |
+| 45 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 46 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 47 | [#ATKMBBFC](http://twitter.com/search?q=%23ATKMBBFC) | N/A |
+| 48 | [#RCBvGG](http://twitter.com/search?q=%23RCBvGG) | N/A |
+| 49 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 50 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
 
 
 

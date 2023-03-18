@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-18 19:16:10 UTC`
+📆 Last Updated: `2023-03-18 20:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MacronDestitution](http://twitter.com/search?q=%23MacronDestitution) | N/A |
-| 2 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 3 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
-| 4 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 5 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
-| 6 | [#TFCLOSC](http://twitter.com/search?q=%23TFCLOSC) | N/A |
-| 7 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 8 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
-| 11 | [#FRAPDG](http://twitter.com/search?q=%23FRAPDG) | N/A |
-| 12 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 13 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 14 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 15 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
-| 16 | [Grand Chelem](http://twitter.com/search?q=Grand+Chelem) | N/A |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 19 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 20 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
-| 21 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 22 | [Weah](http://twitter.com/search?q=Weah) | N/A |
-| 23 | [Rouault](http://twitter.com/search?q=Rouault) | N/A |
-| 24 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 25 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 26 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 27 | [Assassiné](http://twitter.com/search?q=Assassin%c3%a9) | N/A |
-| 28 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 29 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 30 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 31 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 32 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 33 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 34 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 35 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 36 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
-| 37 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 38 | [Penaud](http://twitter.com/search?q=Penaud) | N/A |
-| 39 | [Disasi](http://twitter.com/search?q=Disasi) | N/A |
-| 40 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 41 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 42 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 43 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
-| 44 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
-| 45 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 46 | [Gallois](http://twitter.com/search?q=Gallois) | N/A |
-| 47 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 48 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
-| 49 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
-| 50 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
+| 2 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
+| 3 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 6 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 7 | [#FCGBNO](http://twitter.com/search?q=%23FCGBNO) | N/A |
+| 8 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
+| 9 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 11 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 12 | [#TFCLOSC](http://twitter.com/search?q=%23TFCLOSC) | N/A |
+| 13 | [Pitu](http://twitter.com/search?q=Pitu) | N/A |
+| 14 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 15 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 19 | [Talisca](http://twitter.com/search?q=Talisca) | Talisca is a Portuguese name derived from the Latin word talis, meaning “such” or “so much.” It is also a surname in some parts of Portugal. In English, it can be translated to mean “so much” or “so great.” |
+| 20 | [Bakwa](http://twitter.com/search?q=Bakwa) | N/A |
+| 21 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 22 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
+| 23 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 26 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 27 | [Grand Chelem](http://twitter.com/search?q=Grand+Chelem) | N/A |
+| 28 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 30 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 31 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 32 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
+| 33 | [Choisy](http://twitter.com/search?q=Choisy) | N/A |
+| 34 | [Rouault](http://twitter.com/search?q=Rouault) | N/A |
+| 35 | [Weah](http://twitter.com/search?q=Weah) | N/A |
+| 36 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 37 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 38 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 39 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
+| 40 | [Assassiné](http://twitter.com/search?q=Assassin%c3%a9) | N/A |
+| 41 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 42 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
+| 43 | [Disasi](http://twitter.com/search?q=Disasi) | N/A |
+| 44 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
+| 45 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
+| 46 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 47 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 48 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 49 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 50 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 
 
 

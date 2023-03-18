@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-18 19:16:41 UTC`
+📆 Last Updated: `2023-03-18 20:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 2 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 3 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 4 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 6 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 7 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
-| 8 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 9 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 10 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 12 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 13 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 14 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 15 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
-| 16 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
-| 17 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 18 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 19 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 20 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 21 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 22 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 23 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 24 | [Jake Hadley](http://twitter.com/search?q=Jake+Hadley) | N/A |
-| 25 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 26 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 27 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 28 | [Uros](http://twitter.com/search?q=Uros) | N/A |
-| 29 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 30 | [TWill](http://twitter.com/search?q=TWill) | N/A |
-| 31 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 32 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 33 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 34 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 35 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 36 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 37 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 38 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 39 | [Lerone Murphy](http://twitter.com/search?q=Lerone+Murphy) | N/A |
-| 40 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 41 | [Veronica Hardy](http://twitter.com/search?q=Veronica+Hardy) | N/A |
-| 42 | [Gabriel Santos](http://twitter.com/search?q=Gabriel+Santos) | N/A |
-| 43 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 44 | [Terrance Williams](http://twitter.com/search?q=Terrance+Williams) | N/A |
-| 45 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 46 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 47 | [Hartenstein](http://twitter.com/search?q=Hartenstein) | N/A |
-| 48 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
-| 49 | [Memorial Magic](http://twitter.com/search?q=Memorial+Magic) | N/A |
-| 50 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 2 | [#NewYorkForever](http://twitter.com/search?q=%23NewYorkForever) | N/A |
+| 3 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 4 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 5 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 7 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 8 | [Mitchell Robinson](http://twitter.com/search?q=Mitchell+Robinson) | Mitchell Robinson is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected in the second round of the 2018 NBA draft. His name is derived from his father's middle name, Mitchell. |
+| 9 | [#atmosnyc](http://twitter.com/search?q=%23atmosnyc) | N/A |
+| 10 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 11 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 12 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 13 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 14 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 15 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 16 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 17 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
+| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 19 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 20 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 24 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 25 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
+| 26 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 27 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 28 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 29 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 30 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 31 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 32 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 33 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 34 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 35 | [Sam Patterson](http://twitter.com/search?q=Sam+Patterson) | N/A |
+| 36 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 37 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 38 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 39 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
+| 40 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 41 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 42 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 43 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 44 | [Ellis Simms](http://twitter.com/search?q=Ellis+Simms) | N/A |
+| 45 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 46 | [Goddard](http://twitter.com/search?q=Goddard) | N/A |
+| 47 | [Uros](http://twitter.com/search?q=Uros) | N/A |
+| 48 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 49 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 50 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
 
 
 

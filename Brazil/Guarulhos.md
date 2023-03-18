@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-18 19:16:08 UTC`
+📆 Last Updated: `2023-03-18 20:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
-| 3 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 4 | [minho](http://twitter.com/search?q=minho) | N/A |
-| 5 | [São José](http://twitter.com/search?q=S%c3%a3o+Jos%c3%a9) | N/A |
-| 6 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 7 | [#ForaAmanda](http://twitter.com/search?q=%23ForaAmanda) | N/A |
-| 8 | [my tears ricochet](http://twitter.com/search?q=my+tears+ricochet) | N/A |
-| 9 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
-| 10 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 11 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 14 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 15 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 16 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 17 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 18 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 19 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 20 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 21 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 22 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 23 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 24 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
-| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 26 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 27 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 28 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 29 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 30 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 31 | [Uma Linda Mulher](http://twitter.com/search?q=Uma+Linda+Mulher) | N/A |
-| 32 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 33 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 34 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 35 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 36 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 38 | [Marco Reus](http://twitter.com/search?q=Marco+Reus) | N/A |
-| 39 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 40 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 41 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 42 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 43 | [Klara](http://twitter.com/search?q=Klara) | N/A |
-| 44 | [Flamengo de Guarulhos](http://twitter.com/search?q=Flamengo+de+Guarulhos) | N/A |
-| 45 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
-| 46 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 47 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 48 | [Jhonny](http://twitter.com/search?q=Jhonny) | N/A |
-| 49 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 50 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 1 | [O Haaland](http://twitter.com/search?q=O+Haaland) | N/A |
+| 2 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 3 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 4 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 5 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 6 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 7 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 9 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 10 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 11 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 12 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 14 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 15 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 16 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
+| 17 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 18 | [São José](http://twitter.com/search?q=S%c3%a3o+Jos%c3%a9) | N/A |
+| 19 | [minho](http://twitter.com/search?q=minho) | N/A |
+| 20 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 21 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 22 | [#ForaAmanda](http://twitter.com/search?q=%23ForaAmanda) | N/A |
+| 23 | [my tears ricochet](http://twitter.com/search?q=my+tears+ricochet) | N/A |
+| 24 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
+| 25 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 26 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 27 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 28 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 31 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 32 | [Jhonny](http://twitter.com/search?q=Jhonny) | N/A |
+| 33 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 35 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
+| 36 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 37 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 38 | [Alexsander](http://twitter.com/search?q=Alexsander) | N/A |
+| 39 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 40 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 42 | [#XouDaXuxaNoVIVA](http://twitter.com/search?q=%23XouDaXuxaNoVIVA) | N/A |
+| 43 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
+| 44 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 45 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 46 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 47 | [Fernando Diniz](http://twitter.com/search?q=Fernando+Diniz) | N/A |
+| 48 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
+| 49 | [Menezes](http://twitter.com/search?q=Menezes) | N/A |
+| 50 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
 
 
 

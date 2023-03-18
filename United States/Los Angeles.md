@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-18 19:16:40 UTC`
+📆 Last Updated: `2023-03-18 20:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 2 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 3 | [#ANIMEImpulseSD2023](http://twitter.com/search?q=%23ANIMEImpulseSD2023) | N/A |
-| 4 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
-| 5 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 6 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 7 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 8 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 10 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 11 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 12 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 13 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 14 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
-| 15 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 17 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 18 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
-| 19 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
-| 20 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 21 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 22 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 23 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 24 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 25 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 26 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 27 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 28 | [Jake Hadley](http://twitter.com/search?q=Jake+Hadley) | N/A |
-| 29 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 30 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 31 | [Uros](http://twitter.com/search?q=Uros) | N/A |
-| 32 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 33 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 34 | [TWill](http://twitter.com/search?q=TWill) | N/A |
-| 35 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 36 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 37 | [Jalen Brunson](http://twitter.com/search?q=Jalen+Brunson) | Jalen Brunson is an American professional basketball player who currently plays for the Dallas Mavericks of the National Basketball Association (NBA). His name is a combination of his father's first name, John, and his mother's first name, Lenora. |
-| 38 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 39 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 40 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 41 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 42 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 43 | [Lerone Murphy](http://twitter.com/search?q=Lerone+Murphy) | N/A |
-| 44 | [Veronica Hardy](http://twitter.com/search?q=Veronica+Hardy) | N/A |
-| 45 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 46 | [Gabriel Santos](http://twitter.com/search?q=Gabriel+Santos) | N/A |
-| 47 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 48 | [Terrance Williams](http://twitter.com/search?q=Terrance+Williams) | N/A |
-| 49 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 50 | [Hartenstein](http://twitter.com/search?q=Hartenstein) | N/A |
+| 2 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 3 | [#SDSU](http://twitter.com/search?q=%23SDSU) | N/A |
+| 4 | [#ANIMEImpulseSD2023](http://twitter.com/search?q=%23ANIMEImpulseSD2023) | N/A |
+| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 6 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
+| 7 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 8 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 9 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
+| 10 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 11 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 12 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
+| 13 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 14 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 15 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 16 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 17 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 18 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 19 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 21 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 22 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 26 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 27 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 28 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 29 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 30 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 31 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 32 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 33 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
+| 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 35 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 36 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 37 | [Sam Patterson](http://twitter.com/search?q=Sam+Patterson) | N/A |
+| 38 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 39 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 40 | [Plavsic](http://twitter.com/search?q=Plavsic) | N/A |
+| 41 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 42 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 43 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 44 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 45 | [Ellis Simms](http://twitter.com/search?q=Ellis+Simms) | N/A |
+| 46 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 47 | [Goddard](http://twitter.com/search?q=Goddard) | N/A |
+| 48 | [Uros](http://twitter.com/search?q=Uros) | N/A |
+| 49 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 50 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 
 
 

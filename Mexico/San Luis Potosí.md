@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-03-18 19:16:03 UTC`
+📆 Last Updated: `2023-03-18 20:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 3 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
-| 4 | [#ExpropiaciónPetrolera](http://twitter.com/search?q=%23Expropiaci%c3%b3nPetrolera) | N/A |
-| 5 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 6 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
-| 7 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 2 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
+| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 4 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
+| 5 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 6 | [#ExpropiaciónPetrolera](http://twitter.com/search?q=%23Expropiaci%c3%b3nPetrolera) | N/A |
+| 7 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 8 | [SKABECHE DAY](http://twitter.com/search?q=SKABECHE+DAY) | N/A |
-| 9 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 10 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 11 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 12 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
-| 13 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
-| 14 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 15 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 16 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 17 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 18 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 19 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
-| 20 | [El 18](http://twitter.com/search?q=El+18) | N/A |
-| 21 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 22 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 23 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 24 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 25 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 26 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 27 | [Hoy 18](http://twitter.com/search?q=Hoy+18) | N/A |
-| 28 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 29 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
-| 30 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 11 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
+| 12 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 13 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 14 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
+| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 16 | [Simpatizantes](http://twitter.com/search?q=Simpatizantes) | N/A |
+| 17 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 18 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
+| 19 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 20 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 21 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 22 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
+| 23 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 24 | [El 18](http://twitter.com/search?q=El+18) | N/A |
+| 25 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 26 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 27 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 28 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
+| 29 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 30 | [Charles](http://twitter.com/search?q=Charles) | N/A |
 | 31 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 32 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 33 | [Ferriz](http://twitter.com/search?q=Ferriz) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
 | 34 | [Presidente de México](http://twitter.com/search?q=Presidente+de+M%c3%a9xico) | N/A |
-| 35 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 36 | [Cerdo](http://twitter.com/search?q=Cerdo) | N/A |
-| 37 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 35 | [Viva AMLO](http://twitter.com/search?q=Viva+AMLO) | N/A |
+| 36 | [Ferriz](http://twitter.com/search?q=Ferriz) | N/A |
+| 37 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
 | 38 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
-| 39 | [Reynosa](http://twitter.com/search?q=Reynosa) | N/A |
-| 40 | [Eras Tour](http://twitter.com/search?q=Eras+Tour) | N/A |
+| 39 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 40 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
 | 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 42 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 43 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 44 | [#VivaTecatePalNorte](http://twitter.com/search?q=%23VivaTecatePalNorte) | N/A |
-| 45 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 42 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 43 | [Reynosa](http://twitter.com/search?q=Reynosa) | N/A |
+| 44 | [Cerdo](http://twitter.com/search?q=Cerdo) | N/A |
+| 45 | [Eras Tour](http://twitter.com/search?q=Eras+Tour) | N/A |
 | 46 | [#MarchaDelArdor](http://twitter.com/search?q=%23MarchaDelArdor) | N/A |
-| 47 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 47 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 48 | [#Ecuador](http://twitter.com/search?q=%23Ecuador) | N/A |
-| 49 | [#18DeMarzo](http://twitter.com/search?q=%2318DeMarzo) | N/A |
 
 
 

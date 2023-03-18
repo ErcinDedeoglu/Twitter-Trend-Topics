@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-18 19:16:52 UTC`
+📆 Last Updated: `2023-03-18 20:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Switzerland
 | 2 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
 | 3 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
 | 4 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 5 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 6 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 7 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 8 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 9 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 10 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
+| 5 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 6 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 7 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 8 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
+| 9 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 10 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
 | 11 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 12 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 14 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 15 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
-| 16 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 17 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 18 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 20 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 21 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 22 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 24 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 25 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 26 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 28 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 29 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 30 | [Bürokratie](http://twitter.com/search?q=B%c3%bcrokratie) | N/A |
-| 31 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 32 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 33 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 34 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 35 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 36 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 37 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 38 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
-| 39 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
-| 40 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
-| 41 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 42 | [Regulierungen](http://twitter.com/search?q=Regulierungen) | N/A |
-| 43 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 44 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 45 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 46 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 47 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 48 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 49 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 50 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 12 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 13 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
+| 16 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 18 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
+| 19 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 20 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 21 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 22 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 24 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 25 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 26 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 27 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 28 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 29 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 30 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 31 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 32 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 33 | [Taten](http://twitter.com/search?q=Taten) | N/A |
+| 34 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 35 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
+| 36 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
+| 37 | [Regulierungen](http://twitter.com/search?q=Regulierungen) | N/A |
+| 38 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 39 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 41 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 42 | [Diskurs](http://twitter.com/search?q=Diskurs) | N/A |
+| 43 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
+| 44 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 45 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 46 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
+| 47 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 48 | [Signal](http://twitter.com/search?q=Signal) | N/A |
+| 49 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 50 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
 
 
 

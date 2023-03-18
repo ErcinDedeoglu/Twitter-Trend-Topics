@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-18 19:16:17 UTC`
+📆 Last Updated: `2023-03-18 20:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PKBKahiji](http://twitter.com/search?q=%23PKBKahiji) | N/A |
-| 2 | [#PRUNGGUSMUHAIMIN](http://twitter.com/search?q=%23PRUNGGUSMUHAIMIN) | N/A |
-| 3 | [#JabarNgahiji](http://twitter.com/search?q=%23JabarNgahiji) | N/A |
-| 4 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 5 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 6 | [Prabowo Lebih Baik](http://twitter.com/search?q=Prabowo+Lebih+Baik) | Prabowo Lebih Baik is a slogan used by supporters of Indonesian presidential candidate Prabowo Subianto in the 2019 election. It translates to "Prabowo is Better" in English. |
-| 7 | [Prabowo Presidennya](http://twitter.com/search?q=Prabowo+Presidennya) | N/A |
-| 8 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
-| 9 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 10 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 13 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
-| 14 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 15 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 16 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 17 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 18 | [Hendra Setiawan](http://twitter.com/search?q=Hendra+Setiawan) | N/A |
-| 19 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 20 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 22 | [FajRi](http://twitter.com/search?q=FajRi) | FajRi is an Arabic word that means dawn or sunrise. In English, it can be used to refer to the beginning of a new day or a new era. |
-| 23 | [Seokjin](http://twitter.com/search?q=Seokjin) | N/A |
-| 24 | [Happy Graduation](http://twitter.com/search?q=Happy+Graduation) | N/A |
-| 25 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 26 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 27 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
-| 28 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
-| 29 | [#사쿠라_아름답게_피어나다](http://twitter.com/search?q=%23%ec%82%ac%ec%bf%a0%eb%9d%bc_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b2%8c_%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4) | N/A |
-| 30 | [#BedFriendEP5](http://twitter.com/search?q=%23BedFriendEP5) | N/A |
-| 31 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
-| 32 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 33 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
-| 34 | [#ASAHI](http://twitter.com/search?q=%23ASAHI) | N/A |
-| 35 | [#YOSHI](http://twitter.com/search?q=%23YOSHI) | N/A |
-| 36 | [#BiroJomblo](http://twitter.com/search?q=%23BiroJomblo) | N/A |
-| 37 | [#JIHOON](http://twitter.com/search?q=%23JIHOON) | N/A |
-| 38 | [#CHOIHYUNSUK](http://twitter.com/search?q=%23CHOIHYUNSUK) | N/A |
-| 39 | [#JINAN_RESOLVED](http://twitter.com/search?q=%23JINAN_RESOLVED) | N/A |
-| 40 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
-| 41 | [#JUNKYU](http://twitter.com/search?q=%23JUNKYU) | N/A |
-| 42 | [#bwscomehome](http://twitter.com/search?q=%23bwscomehome) | N/A |
-| 43 | [#HARUTO](http://twitter.com/search?q=%23HARUTO) | N/A |
-| 44 | [#HELLO_TOUR_IN_JAKARTA](http://twitter.com/search?q=%23HELLO_TOUR_IN_JAKARTA) | N/A |
-| 45 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
-| 46 | [#TREASUREinJKT](http://twitter.com/search?q=%23TREASUREinJKT) | N/A |
-| 47 | [#TREASUREINJAKARTA](http://twitter.com/search?q=%23TREASUREINJAKARTA) | N/A |
-| 48 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
-| 49 | [#LALISA](http://twitter.com/search?q=%23LALISA) | N/A |
-| 50 | [#TaxiDriver2](http://twitter.com/search?q=%23TaxiDriver2) | N/A |
+| 1 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
+| 2 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 3 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 4 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
+| 5 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
+| 6 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 7 | [#PrungGusMuhaimin](http://twitter.com/search?q=%23PrungGusMuhaimin) | N/A |
+| 8 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
+| 9 | [#JINAN_RESOLVED](http://twitter.com/search?q=%23JINAN_RESOLVED) | N/A |
+| 10 | [yukgabung kerenin indonesia](http://twitter.com/search?q=yukgabung+kerenin+indonesia) | N/A |
+| 11 | [ngobrolin urusangue dibandung](http://twitter.com/search?q=ngobrolin+urusangue+dibandung) | N/A |
+| 12 | [serunya milenialgenz prabowo](http://twitter.com/search?q=serunya+milenialgenz+prabowo) | N/A |
+| 13 | [PKB KAHIJI JABAR NGAHIJI](http://twitter.com/search?q=PKB+KAHIJI+JABAR+NGAHIJI) | N/A |
+| 14 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
+| 15 | [ReLis](http://twitter.com/search?q=ReLis) | N/A |
+| 16 | [Pergantian](http://twitter.com/search?q=Pergantian) | N/A |
+| 17 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 18 | [tontonan hari ramadan](http://twitter.com/search?q=tontonan+hari+ramadan) | N/A |
+| 19 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 20 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 21 | [prabowo pilihan rakyat](http://twitter.com/search?q=prabowo+pilihan+rakyat) | N/A |
+| 22 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 23 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
+| 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 25 | [prabowo for indonesia](http://twitter.com/search?q=prabowo+for+indonesia) | N/A |
+| 26 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 29 | [Prabowo Lebih Baik](http://twitter.com/search?q=Prabowo+Lebih+Baik) | Prabowo Lebih Baik is a slogan used by supporters of Indonesian presidential candidate Prabowo Subianto in the 2019 election. It translates to "Prabowo is Better" in English. |
+| 30 | [Prabowo Presidennya](http://twitter.com/search?q=Prabowo+Presidennya) | N/A |
+| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 32 | [Boti](http://twitter.com/search?q=Boti) | N/A |
+| 33 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 34 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 36 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 37 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 38 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
+| 39 | [Happy Graduation](http://twitter.com/search?q=Happy+Graduation) | N/A |
+| 40 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 41 | [Erha](http://twitter.com/search?q=Erha) | N/A |
+| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 43 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 44 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 45 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 46 | [Hendra](http://twitter.com/search?q=Hendra) | N/A |
+| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 49 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 50 | [Jantung](http://twitter.com/search?q=Jantung) | N/A |
 
 
 

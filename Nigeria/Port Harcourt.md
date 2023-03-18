@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-18 19:16:26 UTC`
+📆 Last Updated: `2023-03-18 20:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 1 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 2 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 3 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
-| 4 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 5 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 6 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
-| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 8 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 4 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 5 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
+| 6 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 7 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 8 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
 | 9 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 10 | [#HealingstreamsLiveDay2](http://twitter.com/search?q=%23HealingstreamsLiveDay2) | N/A |
-| 11 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 13 | [#GRVIsComing](http://twitter.com/search?q=%23GRVIsComing) | N/A |
-| 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 15 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 16 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 17 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 18 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
-| 19 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
-| 20 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
-| 21 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 22 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 23 | [My Governor](http://twitter.com/search?q=My+Governor) | N/A |
-| 24 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
-| 25 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
-| 26 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 27 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 28 | [Tessy](http://twitter.com/search?q=Tessy) | N/A |
-| 29 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 30 | [Ijeoma](http://twitter.com/search?q=Ijeoma) | N/A |
-| 31 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 32 | [House of Assembly](http://twitter.com/search?q=House+of+Assembly) | N/A |
-| 33 | [Yes Father](http://twitter.com/search?q=Yes+Father) | N/A |
-| 34 | [Dapo Abiodun](http://twitter.com/search?q=Dapo+Abiodun) | N/A |
-| 35 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
-| 36 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
-| 37 | [Father Alia](http://twitter.com/search?q=Father+Alia) | N/A |
-| 38 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 39 | [Teslim](http://twitter.com/search?q=Teslim) | N/A |
-| 40 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 41 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 42 | [Bashir](http://twitter.com/search?q=Bashir) | N/A |
-| 43 | [East](http://twitter.com/search?q=East) | N/A |
-| 44 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
-| 45 | [Ward Prowse](http://twitter.com/search?q=Ward+Prowse) | N/A |
-| 46 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
-| 47 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
-| 48 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
+| 10 | [#CongratulationSanwoolu](http://twitter.com/search?q=%23CongratulationSanwoolu) | N/A |
+| 11 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
+| 12 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 13 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 14 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 15 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
+| 16 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 17 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 18 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 19 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 20 | [Chelsea and 10th](http://twitter.com/search?q=Chelsea+and+10th) | N/A |
+| 21 | [#HealingstreamsLiveDay2](http://twitter.com/search?q=%23HealingstreamsLiveDay2) | N/A |
+| 22 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 23 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 24 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 25 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 26 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 28 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 29 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 30 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
+| 31 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 32 | [Chukwuemeka](http://twitter.com/search?q=Chukwuemeka) | Chukwuemeka is a Nigerian name that means "God has done great things". |
+| 33 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 34 | [Coach](http://twitter.com/search?q=Coach) | N/A |
+| 35 | [Noni](http://twitter.com/search?q=Noni) | N/A |
+| 36 | [Conor](http://twitter.com/search?q=Conor) | N/A |
+| 37 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 38 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 39 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
+| 40 | [10th FC](http://twitter.com/search?q=10th+FC) | N/A |
+| 41 | [Ijeoma](http://twitter.com/search?q=Ijeoma) | N/A |
+| 42 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
+| 43 | [Benue](http://twitter.com/search?q=Benue) | N/A |
+| 44 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 45 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
+| 46 | [My Governor](http://twitter.com/search?q=My+Governor) | N/A |
+| 47 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
+| 48 | [Toyin](http://twitter.com/search?q=Toyin) | N/A |
 
 
 
