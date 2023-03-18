@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-18 15:16:36 UTC`
+📆 Last Updated: `2023-03-18 16:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 3 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 4 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 5 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
-| 6 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 7 | [Fred e Aline](http://twitter.com/search?q=Fred+e+Aline) | N/A |
-| 8 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
-| 9 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
-| 10 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 11 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
-| 12 | [CHOI SAN](http://twitter.com/search?q=CHOI+SAN) | N/A |
-| 13 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 14 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 15 | [São José](http://twitter.com/search?q=S%c3%a3o+Jos%c3%a9) | N/A |
-| 16 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 17 | [44 MÚSICAS](http://twitter.com/search?q=44+M%c3%9aSICAS) | N/A |
-| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 19 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
-| 20 | [ma long](http://twitter.com/search?q=ma+long) | N/A |
-| 21 | [dia de flu](http://twitter.com/search?q=dia+de+flu) | N/A |
-| 22 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
-| 23 | [Hugo Calderano](http://twitter.com/search?q=Hugo+Calderano) | N/A |
-| 24 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 25 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 26 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 27 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 28 | [Pocah](http://twitter.com/search?q=Pocah) | N/A |
-| 29 | [Indereco](http://twitter.com/search?q=Indereco) | N/A |
-| 30 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 31 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
-| 32 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 33 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 34 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
-| 35 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 36 | [my tears ricochet](http://twitter.com/search?q=my+tears+ricochet) | N/A |
-| 37 | [Getaway Car](http://twitter.com/search?q=Getaway+Car) | N/A |
-| 38 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
-| 39 | [DPVAT](http://twitter.com/search?q=DPVAT) | N/A |
-| 40 | [out of the woods](http://twitter.com/search?q=out+of+the+woods) | N/A |
-| 41 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 42 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 43 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 44 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
-| 45 | [Luan City](http://twitter.com/search?q=Luan+City) | N/A |
-| 46 | [paula fernandes](http://twitter.com/search?q=paula+fernandes) | N/A |
-| 47 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
-| 48 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 49 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 1 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 2 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [Flamengo de Guarulhos](http://twitter.com/search?q=Flamengo+de+Guarulhos) | N/A |
+| 5 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 6 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 7 | [#f2nobandsports](http://twitter.com/search?q=%23f2nobandsports) | N/A |
+| 8 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 9 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
+| 10 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 11 | [#사쿠라_아름답게_피어나다](http://twitter.com/search?q=%23%ec%82%ac%ec%bf%a0%eb%9d%bc_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b2%8c_%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4) | N/A |
+| 12 | [Iwasa](http://twitter.com/search?q=Iwasa) | N/A |
+| 13 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 14 | [Aniversário da Amandex Pijamex](http://twitter.com/search?q=Anivers%c3%a1rio+da+Amandex+Pijamex) | N/A |
+| 15 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
+| 16 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 17 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 18 | [Fred e Aline](http://twitter.com/search?q=Fred+e+Aline) | N/A |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
+| 21 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 24 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
+| 25 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 26 | [Parabéns Yuri](http://twitter.com/search?q=Parab%c3%a9ns+Yuri) | N/A |
+| 27 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 28 | [choi san](http://twitter.com/search?q=choi+san) | N/A |
+| 29 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 30 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 31 | [São José](http://twitter.com/search?q=S%c3%a3o+Jos%c3%a9) | N/A |
+| 32 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 33 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
+| 34 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 35 | [Ma Long](http://twitter.com/search?q=Ma+Long) | N/A |
+| 36 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 37 | [Indereco](http://twitter.com/search?q=Indereco) | N/A |
+| 38 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 39 | [Queima](http://twitter.com/search?q=Queima) | N/A |
+| 40 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 41 | [Pocah](http://twitter.com/search?q=Pocah) | N/A |
+| 42 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 43 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 44 | [44 MÚSICAS](http://twitter.com/search?q=44+M%c3%9aSICAS) | N/A |
+| 45 | [Imposto](http://twitter.com/search?q=Imposto) | N/A |
+| 46 | [Dia de Flu](http://twitter.com/search?q=Dia+de+Flu) | N/A |
+| 47 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
+| 48 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 49 | [my tears ricochet](http://twitter.com/search?q=my+tears+ricochet) | N/A |
 
 
 

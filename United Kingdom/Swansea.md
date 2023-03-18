@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-18 15:16:29 UTC`
+📆 Last Updated: `2023-03-18 16:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
-| 2 | [#FRAvWAL](http://twitter.com/search?q=%23FRAvWAL) | N/A |
-| 3 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
-| 4 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 5 | [#SixNations2023](http://twitter.com/search?q=%23SixNations2023) | N/A |
-| 6 | [#bcafc](http://twitter.com/search?q=%23bcafc) | N/A |
-| 7 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
-| 8 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
-| 9 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 10 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
-| 11 | [Cantwell](http://twitter.com/search?q=Cantwell) | N/A |
-| 12 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 13 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
-| 14 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 16 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 17 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 18 | [Kinghorn](http://twitter.com/search?q=Kinghorn) | N/A |
-| 19 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 20 | [Rudy Gestede](http://twitter.com/search?q=Rudy+Gestede) | N/A |
-| 21 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 22 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 23 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 24 | [Liam Kelly](http://twitter.com/search?q=Liam+Kelly) | N/A |
-| 25 | [Starting XI](http://twitter.com/search?q=Starting+XI) | N/A |
-| 26 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 27 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 28 | [Start KDB](http://twitter.com/search?q=Start+KDB) | N/A |
-| 29 | [Lundstram](http://twitter.com/search?q=Lundstram) | N/A |
-| 30 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
-| 31 | [goldson](http://twitter.com/search?q=goldson) | N/A |
-| 32 | [Fir Park](http://twitter.com/search?q=Fir+Park) | N/A |
-| 33 | [Elyounoussi](http://twitter.com/search?q=Elyounoussi) | N/A |
-| 34 | [Andy Cook](http://twitter.com/search?q=Andy+Cook) | N/A |
-| 35 | [Iversen](http://twitter.com/search?q=Iversen) | N/A |
-| 36 | [Tavernier](http://twitter.com/search?q=Tavernier) | Tavernier is a French surname derived from the Old French word tavernier, meaning "innkeeper". It is also an occupational name for someone who owned or ran an inn or tavern. |
-| 37 | [Gomes](http://twitter.com/search?q=Gomes) | N/A |
-| 38 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 39 | [Super Saturday](http://twitter.com/search?q=Super+Saturday) | N/A |
-| 40 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 41 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 42 | [Ryan Kent](http://twitter.com/search?q=Ryan+Kent) | Ryan Kent is a name of English origin. It is derived from the Old English given name "Rigani" which means "kingly". The name Ryan is also associated with the Irish surname "O'Ceann" which means "descendant of Ceann". |
-| 43 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 44 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 45 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 46 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 47 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
-| 48 | [Yilmaz](http://twitter.com/search?q=Yilmaz) | N/A |
-| 49 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 1 | [#FRAvWAL](http://twitter.com/search?q=%23FRAvWAL) | N/A |
+| 2 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 3 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
+| 4 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 5 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 6 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 7 | [Starfelt](http://twitter.com/search?q=Starfelt) | Starfelt is a term used to describe a feeling of being deeply moved or inspired by something. It is often used to describe the feeling of awe and wonder that comes from looking up at the night sky and seeing the stars. |
+| 8 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
+| 9 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
+| 10 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
+| 11 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 12 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 13 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 14 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 15 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
+| 16 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
+| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 18 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
+| 19 | [Tom Ince](http://twitter.com/search?q=Tom+Ince) | N/A |
+| 20 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 21 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 22 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 23 | [Major Dundee](http://twitter.com/search?q=Major+Dundee) | N/A |
+| 24 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
+| 25 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 26 | [Cantwell](http://twitter.com/search?q=Cantwell) | N/A |
+| 27 | [Youan](http://twitter.com/search?q=Youan) | N/A |
+| 28 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 29 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
+| 30 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 31 | [Firpo](http://twitter.com/search?q=Firpo) | Firpo is a Spanish surname derived from the Latin word ferpus, meaning "iron-clad". It is also a nickname for someone who is strong and brave. In English, Firpo can be translated to mean "ironclad" or "strong and brave". |
+| 32 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
+| 33 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 34 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
+| 35 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 36 | [Rudy Gestede](http://twitter.com/search?q=Rudy+Gestede) | N/A |
+| 37 | [Kinghorn](http://twitter.com/search?q=Kinghorn) | N/A |
+| 38 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 39 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
+| 40 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 41 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 42 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 43 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 44 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 45 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 46 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 47 | [Sarabia](http://twitter.com/search?q=Sarabia) | Sarabia is a Spanish surname derived from the Arabic word sarab, which means "mirage". It is also the name of a small town in Spain. In English, Sarabia can be translated to mean "mirage". |
+| 48 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 49 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 
 
 

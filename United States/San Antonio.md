@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-18 15:17:11 UTC`
+📆 Last Updated: `2023-03-18 16:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 5 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 6 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 9 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 10 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 11 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 12 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 14 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
-| 15 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 16 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 17 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 18 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 19 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 20 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 21 | [Boarders](http://twitter.com/search?q=Boarders) | N/A |
+| 2 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 3 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 4 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 6 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 7 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 8 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
+| 9 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 10 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 11 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 13 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 14 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 15 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 16 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 17 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 18 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 19 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 20 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 21 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
 | 22 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 23 | [Duke -3.5](http://twitter.com/search?q=Duke+-3.5) | N/A |
-| 24 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 25 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 26 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 27 | [good burger 2](http://twitter.com/search?q=good+burger+2) | N/A |
-| 28 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 29 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 30 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
-| 31 | [Arrested](http://twitter.com/search?q=Arrested) | N/A |
-| 32 | [Protections](http://twitter.com/search?q=Protections) | N/A |
-| 33 | [Colin Cowherd](http://twitter.com/search?q=Colin+Cowherd) | N/A |
-| 34 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
-| 35 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
-| 36 | [Page 2](http://twitter.com/search?q=Page+2) | N/A |
-| 37 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 38 | [Peacefully](http://twitter.com/search?q=Peacefully) | N/A |
-| 39 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 40 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 41 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 42 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 43 | [CHOI SAN](http://twitter.com/search?q=CHOI+SAN) | N/A |
-| 44 | [Volunteered](http://twitter.com/search?q=Volunteered) | N/A |
-| 45 | [Misdemeanor](http://twitter.com/search?q=Misdemeanor) | N/A |
-| 46 | [Fear the LORD](http://twitter.com/search?q=Fear+the+LORD) | N/A |
+| 23 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 24 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 25 | [Duke -3.5](http://twitter.com/search?q=Duke+-3.5) | N/A |
+| 26 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 27 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 28 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 29 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
+| 30 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 31 | [Qevin](http://twitter.com/search?q=Qevin) | N/A |
+| 32 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 33 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
+| 34 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 35 | [Boarders](http://twitter.com/search?q=Boarders) | N/A |
+| 36 | [Colin Cowherd](http://twitter.com/search?q=Colin+Cowherd) | N/A |
+| 37 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
+| 38 | [Mr. Speaker](http://twitter.com/search?q=Mr.+Speaker) | N/A |
+| 39 | [Protections](http://twitter.com/search?q=Protections) | N/A |
+| 40 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
+| 41 | [Volunteered](http://twitter.com/search?q=Volunteered) | N/A |
+| 42 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 43 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 44 | [Peacefully](http://twitter.com/search?q=Peacefully) | N/A |
+| 45 | [Texas -5.5](http://twitter.com/search?q=Texas+-5.5) | N/A |
+| 46 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
 | 47 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 48 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
-| 49 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 50 | [IT'S GAME DAY](http://twitter.com/search?q=IT%27S+GAME+DAY) | N/A |
+| 48 | [Misdemeanor](http://twitter.com/search?q=Misdemeanor) | N/A |
+| 49 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
+| 50 | [Page 2](http://twitter.com/search?q=Page+2) | N/A |
 
 
 

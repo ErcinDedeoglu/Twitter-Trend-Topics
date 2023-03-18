@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-18 15:17:09 UTC`
+📆 Last Updated: `2023-03-18 16:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 3 | [#GOHUSKIESWOOOOO](http://twitter.com/search?q=%23GOHUSKIESWOOOOO) | N/A |
-| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 5 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 6 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 7 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
-| 8 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 9 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 10 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 11 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
-| 12 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 13 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
-| 14 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 15 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
-| 16 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 4 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 5 | [TAKE OUR NATION BACK](http://twitter.com/search?q=TAKE+OUR+NATION+BACK) | N/A |
+| 6 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 7 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 8 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 9 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 11 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 12 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 14 | [Stollen](http://twitter.com/search?q=Stollen) | Stollen is a traditional German Christmas cake or bread made with dried fruit, nuts, and spices. It is usually shaped like a log and covered with powdered sugar or icing sugar. The name comes from the German word "stollen," which means "to carry." In English, it is sometimes referred to as a Christmas loaf or fruitcake. |
+| 15 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 16 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
 | 17 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 18 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 19 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 20 | [Boarders](http://twitter.com/search?q=Boarders) | N/A |
-| 21 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 18 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 19 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 20 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 21 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
 | 22 | [Duke -3.5](http://twitter.com/search?q=Duke+-3.5) | N/A |
-| 23 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 24 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
-| 25 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 26 | [good burger 2](http://twitter.com/search?q=good+burger+2) | N/A |
-| 27 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 28 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 29 | [Arrested](http://twitter.com/search?q=Arrested) | N/A |
-| 30 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
-| 31 | [Protections](http://twitter.com/search?q=Protections) | N/A |
-| 32 | [Colin Cowherd](http://twitter.com/search?q=Colin+Cowherd) | N/A |
-| 33 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
-| 34 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
-| 35 | [Page 2](http://twitter.com/search?q=Page+2) | N/A |
-| 36 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 37 | [Peacefully](http://twitter.com/search?q=Peacefully) | N/A |
-| 38 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 39 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 40 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 41 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 42 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 43 | [CHOI SAN](http://twitter.com/search?q=CHOI+SAN) | N/A |
-| 44 | [Volunteered](http://twitter.com/search?q=Volunteered) | N/A |
-| 45 | [Martyr](http://twitter.com/search?q=Martyr) | N/A |
-| 46 | [Misdemeanor](http://twitter.com/search?q=Misdemeanor) | N/A |
-| 47 | [Fear the LORD](http://twitter.com/search?q=Fear+the+LORD) | N/A |
-| 48 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 49 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
+| 23 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 24 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 25 | [Inciting](http://twitter.com/search?q=Inciting) | N/A |
+| 26 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 27 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 28 | [Qevin](http://twitter.com/search?q=Qevin) | N/A |
+| 29 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
+| 30 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 31 | [Boarders](http://twitter.com/search?q=Boarders) | N/A |
+| 32 | [Mr. Speaker](http://twitter.com/search?q=Mr.+Speaker) | N/A |
+| 33 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
+| 34 | [Volunteered](http://twitter.com/search?q=Volunteered) | N/A |
+| 35 | [Protections](http://twitter.com/search?q=Protections) | N/A |
+| 36 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
+| 37 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 38 | [Colin Cowherd](http://twitter.com/search?q=Colin+Cowherd) | N/A |
+| 39 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 40 | [Peacefully](http://twitter.com/search?q=Peacefully) | N/A |
+| 41 | [Texas -5.5](http://twitter.com/search?q=Texas+-5.5) | N/A |
+| 42 | [Page 2](http://twitter.com/search?q=Page+2) | N/A |
+| 43 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 44 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 45 | [Misdemeanor](http://twitter.com/search?q=Misdemeanor) | N/A |
+| 46 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
+| 47 | [Joey Galloway](http://twitter.com/search?q=Joey+Galloway) | N/A |
+| 48 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 49 | [Erick](http://twitter.com/search?q=Erick) | N/A |
 
 
 
