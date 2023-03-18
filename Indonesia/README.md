@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-18 06:17:55 UTC`
+📆 Last Updated: `2023-03-18 07:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Indonesia
 | ------- | ------------ | ------------ |
 | 1 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
 | 2 | [#PRUNGGUSMUHAIMIN](http://twitter.com/search?q=%23PRUNGGUSMUHAIMIN) | N/A |
-| 3 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
-| 4 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 5 | [JABAR NGAHIJI](http://twitter.com/search?q=JABAR+NGAHIJI) | N/A |
-| 6 | [#VidioCumaSeribu](http://twitter.com/search?q=%23VidioCumaSeribu) | N/A |
-| 7 | [#BanggaPakaiLokal](http://twitter.com/search?q=%23BanggaPakaiLokal) | N/A |
+| 3 | [PKB KAHIJI JABAR NGAHIJI](http://twitter.com/search?q=PKB+KAHIJI+JABAR+NGAHIJI) | N/A |
+| 4 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
+| 5 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 6 | [#BanggaPakaiLokal](http://twitter.com/search?q=%23BanggaPakaiLokal) | N/A |
+| 7 | [#VidioCumaSeribu](http://twitter.com/search?q=%23VidioCumaSeribu) | N/A |
 | 8 | [Tontonan Hari Ramadan](http://twitter.com/search?q=Tontonan+Hari+Ramadan) | N/A |
 | 9 | [Boti](http://twitter.com/search?q=Boti) | N/A |
 | 10 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
-| 11 | [politik baik gerindra](http://twitter.com/search?q=politik+baik+gerindra) | N/A |
-| 12 | [rakyat nyamanpilih prabowo](http://twitter.com/search?q=rakyat+nyamanpilih+prabowo) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [kandidat menteri](http://twitter.com/search?q=kandidat+menteri) | N/A |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [prabowo hatinya tulus](http://twitter.com/search?q=prabowo+hatinya+tulus) | N/A |
+| 13 | [rakyat nyamanpilih prabowo](http://twitter.com/search?q=rakyat+nyamanpilih+prabowo) | N/A |
+| 14 | [politik baik gerindra](http://twitter.com/search?q=politik+baik+gerindra) | N/A |
 | 15 | [prabowo pilihan rakyat](http://twitter.com/search?q=prabowo+pilihan+rakyat) | N/A |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
-| 18 | [prabowo hatinya tulus](http://twitter.com/search?q=prabowo+hatinya+tulus) | N/A |
-| 19 | [prabowo for indonesia](http://twitter.com/search?q=prabowo+for+indonesia) | N/A |
-| 20 | [Terima Kasih Kerja](http://twitter.com/search?q=Terima+Kasih+Kerja) | N/A |
-| 21 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 22 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 23 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
-| 24 | [Bencong](http://twitter.com/search?q=Bencong) | N/A |
+| 16 | [kandidat menteri](http://twitter.com/search?q=kandidat+menteri) | N/A |
+| 17 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 18 | [prabowo for indonesia](http://twitter.com/search?q=prabowo+for+indonesia) | N/A |
+| 19 | [Terima Kasih Kerja](http://twitter.com/search?q=Terima+Kasih+Kerja) | N/A |
+| 20 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
+| 21 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
+| 22 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 23 | [MC LEE](http://twitter.com/search?q=MC+LEE) | N/A |
+| 24 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 25 | [Erha](http://twitter.com/search?q=Erha) | N/A |
-| 26 | [selamat hari perawat nasional](http://twitter.com/search?q=selamat+hari+perawat+nasional) | N/A |
-| 27 | [park jimin is coming](http://twitter.com/search?q=park+jimin+is+coming) | N/A |
-| 28 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 29 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 30 | [Terima Kasih Erigo](http://twitter.com/search?q=Terima+Kasih+Erigo) | N/A |
-| 31 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 32 | [Semoga Sukses Selalu](http://twitter.com/search?q=Semoga+Sukses+Selalu) | N/A |
-| 33 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
-| 34 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 36 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
-| 37 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
-| 38 | [ReLis](http://twitter.com/search?q=ReLis) | N/A |
-| 39 | [prifad](http://twitter.com/search?q=prifad) | N/A |
-| 40 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 41 | [Klausul](http://twitter.com/search?q=Klausul) | N/A |
-| 42 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 43 | [hai cheng](http://twitter.com/search?q=hai+cheng) | N/A |
-| 44 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 45 | [Kajati](http://twitter.com/search?q=Kajati) | N/A |
-| 46 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 47 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
-| 48 | [Semua Bisa Berobat](http://twitter.com/search?q=Semua+Bisa+Berobat) | N/A |
-| 49 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
-| 50 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 26 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
+| 27 | [selamat hari perawat nasional](http://twitter.com/search?q=selamat+hari+perawat+nasional) | N/A |
+| 28 | [park jimin is coming](http://twitter.com/search?q=park+jimin+is+coming) | N/A |
+| 29 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 30 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 31 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 32 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 33 | [Terima Kasih Erigo](http://twitter.com/search?q=Terima+Kasih+Erigo) | N/A |
+| 34 | [Semoga Sukses Selalu](http://twitter.com/search?q=Semoga+Sukses+Selalu) | N/A |
+| 35 | [Bencong](http://twitter.com/search?q=Bencong) | N/A |
+| 36 | [prifad](http://twitter.com/search?q=prifad) | N/A |
+| 37 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
+| 38 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
+| 39 | [Tono](http://twitter.com/search?q=Tono) | N/A |
+| 40 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
+| 41 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 42 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 43 | [PIJAR BELAJAR](http://twitter.com/search?q=PIJAR+BELAJAR) | N/A |
+| 44 | [Semua Bisa Berobat](http://twitter.com/search?q=Semua+Bisa+Berobat) | N/A |
+| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 46 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 47 | [Relis](http://twitter.com/search?q=Relis) | N/A |
+| 48 | [kerasa](http://twitter.com/search?q=kerasa) | N/A |
+| 49 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 50 | [syariah solusi ketidakadilan](http://twitter.com/search?q=syariah+solusi+ketidakadilan) | N/A |
 
 
 
