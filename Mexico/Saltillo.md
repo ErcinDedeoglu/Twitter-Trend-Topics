@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-18 07:15:58 UTC`
+📆 Last Updated: `2023-03-18 08:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [#YoutubeCorrupt](http://twitter.com/search?q=%23YoutubeCorrupt) | N/A |
-| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 5 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
-| 6 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 4 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 5 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 6 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
 | 7 | [#WelcomeBackMcLeeKnow](http://twitter.com/search?q=%23WelcomeBackMcLeeKnow) | N/A |
-| 8 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 9 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
-| 10 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 11 | [#여긴_리노의_나라야](http://twitter.com/search?q=%23%ec%97%ac%ea%b8%b4_%eb%a6%ac%eb%85%b8%ec%9d%98_%eb%82%98%eb%9d%bc%ec%95%bc) | N/A |
-| 12 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 13 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 8 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 9 | [#여긴_리노의_나라야](http://twitter.com/search?q=%23%ec%97%ac%ea%b8%b4_%eb%a6%ac%eb%85%b8%ec%9d%98_%eb%82%98%eb%9d%bc%ec%95%bc) | N/A |
+| 10 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 11 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 12 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
+| 13 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
 | 14 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
 | 15 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
 | 16 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
 | 17 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 18 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 19 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
-| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 21 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
-| 22 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
-| 23 | [Baeza](http://twitter.com/search?q=Baeza) | N/A |
+| 18 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 19 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 20 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
+| 21 | [ALL TOO WELL](http://twitter.com/search?q=ALL+TOO+WELL) | N/A |
+| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 23 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
 | 24 | [Béisbol](http://twitter.com/search?q=B%c3%a9isbol) | N/A |
 | 25 | [Cerdo](http://twitter.com/search?q=Cerdo) | N/A |
 | 26 | [MI CANCIÓN](http://twitter.com/search?q=MI+CANCI%c3%93N) | N/A |
-| 27 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
+| 27 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
 | 28 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 29 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 29 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
 | 30 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
 | 31 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
 | 32 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 33 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
-| 34 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 35 | [Magaly Martínez](http://twitter.com/search?q=Magaly+Mart%c3%adnez) | N/A |
-| 36 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 37 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
-| 38 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 39 | [Semifinales](http://twitter.com/search?q=Semifinales) | N/A |
-| 40 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 33 | [Baeza](http://twitter.com/search?q=Baeza) | N/A |
+| 34 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 35 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 36 | [Magaly Martínez](http://twitter.com/search?q=Magaly+Mart%c3%adnez) | N/A |
+| 37 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 38 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 39 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
+| 40 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
 | 41 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 42 | [Assad](http://twitter.com/search?q=Assad) | N/A |
-| 43 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
-| 44 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 45 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 46 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 47 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
+| 42 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 43 | [Assad](http://twitter.com/search?q=Assad) | N/A |
+| 44 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
+| 45 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 46 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 47 | [Lover](http://twitter.com/search?q=Lover) | N/A |
 | 48 | [Juegazo](http://twitter.com/search?q=Juegazo) | N/A |
+| 49 | [Semifinales](http://twitter.com/search?q=Semifinales) | N/A |
 
 
 

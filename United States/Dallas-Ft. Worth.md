@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-18 07:16:33 UTC`
+📆 Last Updated: `2023-03-18 08:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
 | 3 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 | 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 5 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 6 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 7 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 11 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 12 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 13 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 14 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
-| 15 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
-| 16 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
-| 17 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 18 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 19 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 20 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 21 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
-| 22 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
-| 23 | [#tjpwGP23](http://twitter.com/search?q=%23tjpwGP23) | N/A |
-| 24 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 25 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
-| 26 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 27 | [44 SONGS](http://twitter.com/search?q=44+SONGS) | N/A |
-| 28 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
-| 29 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 30 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 31 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
-| 32 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 33 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
-| 34 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
-| 35 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 36 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 37 | [MIKAEL](http://twitter.com/search?q=MIKAEL) | N/A |
-| 38 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 39 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 40 | [INVISIBLE STRING](http://twitter.com/search?q=INVISIBLE+STRING) | N/A |
-| 41 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
-| 42 | [Long Live](http://twitter.com/search?q=Long+Live) | N/A |
-| 43 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 44 | [BDSP](http://twitter.com/search?q=BDSP) | N/A |
-| 45 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
-| 46 | [Thanks AD](http://twitter.com/search?q=Thanks+AD) | N/A |
-| 47 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 48 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 49 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 50 | [ILLICIT AFFAIRS](http://twitter.com/search?q=ILLICIT+AFFAIRS) | N/A |
+| 5 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 6 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 8 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 9 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 10 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 11 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
+| 12 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
+| 13 | [MARJORIE](http://twitter.com/search?q=MARJORIE) | N/A |
+| 14 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 15 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 16 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 17 | [#tjpwGP23](http://twitter.com/search?q=%23tjpwGP23) | N/A |
+| 18 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
+| 19 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 20 | [BETTY](http://twitter.com/search?q=BETTY) | N/A |
+| 21 | [44 SONGS](http://twitter.com/search?q=44+SONGS) | N/A |
+| 22 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 23 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 24 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 25 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 26 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
+| 27 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 28 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 29 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
+| 30 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 31 | [MIKAEL](http://twitter.com/search?q=MIKAEL) | N/A |
+| 32 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
+| 33 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 34 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 35 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 36 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 37 | [BDSP](http://twitter.com/search?q=BDSP) | N/A |
+| 38 | [INVISIBLE STRING](http://twitter.com/search?q=INVISIBLE+STRING) | N/A |
+| 39 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
+| 40 | [Long Live](http://twitter.com/search?q=Long+Live) | N/A |
+| 41 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 42 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 43 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 44 | [Mirrorball](http://twitter.com/search?q=Mirrorball) | N/A |
+| 45 | [ILLICIT AFFAIRS](http://twitter.com/search?q=ILLICIT+AFFAIRS) | N/A |
+| 46 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 47 | [Miss Americana](http://twitter.com/search?q=Miss+Americana) | N/A |
+| 48 | [JaKobe Coles](http://twitter.com/search?q=JaKobe+Coles) | N/A |
+| 49 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 50 | [Salina](http://twitter.com/search?q=Salina) | N/A |
 
 
 
