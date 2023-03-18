@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-18 11:16:07 UTC`
+📆 Last Updated: `2023-03-18 12:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#stablztoken](http://twitter.com/search?q=%23stablztoken) | N/A |
-| 2 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 3 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 4 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
+| 1 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 2 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 3 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
+| 4 | [#stablztoken](http://twitter.com/search?q=%23stablztoken) | N/A |
 | 5 | [#gaixbinance](http://twitter.com/search?q=%23gaixbinance) | N/A |
 | 6 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
 | 7 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 8 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 9 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 10 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 13 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 14 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 8 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
+| 9 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 12 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 13 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 14 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
 | 15 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
 | 16 | [Malle](http://twitter.com/search?q=Malle) | N/A |
 | 17 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 18 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 19 | [Mittermeier](http://twitter.com/search?q=Mittermeier) | N/A |
-| 20 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 18 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 19 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 20 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
 | 21 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 22 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 22 | [Guido Westerwelle](http://twitter.com/search?q=Guido+Westerwelle) | N/A |
 | 23 | ['Collagen'](http://twitter.com/search?q=%27Collagen%27) | N/A |
 | 24 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
 | 25 | [Union](http://twitter.com/search?q=Union) | N/A |
 | 26 | [IStGH](http://twitter.com/search?q=IStGH) | N/A |
 | 27 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
-| 28 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 29 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 30 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 31 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 32 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 33 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 28 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
+| 29 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 30 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 31 | [Mittermeier](http://twitter.com/search?q=Mittermeier) | N/A |
+| 32 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 33 | [Bildnis](http://twitter.com/search?q=Bildnis) | N/A |
 | 34 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 35 | [Blut](http://twitter.com/search?q=Blut) | N/A |
-| 36 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 37 | [Heute vor 175 Jahren](http://twitter.com/search?q=Heute+vor+175+Jahren) | N/A |
-| 38 | [Theo Lingen](http://twitter.com/search?q=Theo+Lingen) | N/A |
-| 39 | [Bildnis](http://twitter.com/search?q=Bildnis) | N/A |
-| 40 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 41 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 42 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 43 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 44 | [März 1848](http://twitter.com/search?q=M%c3%a4rz+1848) | N/A |
-| 45 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 46 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 47 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
-| 48 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
-| 49 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 35 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 36 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 37 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 38 | [Heute vor 175 Jahren](http://twitter.com/search?q=Heute+vor+175+Jahren) | N/A |
+| 39 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 40 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 41 | [März 1848](http://twitter.com/search?q=M%c3%a4rz+1848) | N/A |
+| 42 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 43 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 44 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
+| 45 | [CHOI SAN](http://twitter.com/search?q=CHOI+SAN) | N/A |
+| 46 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
+| 47 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
+| 48 | [Direktkandidaten](http://twitter.com/search?q=Direktkandidaten) | N/A |
+| 49 | [PRAYERS FOR HAD](http://twitter.com/search?q=PRAYERS+FOR+HAD) | N/A |
 
 
 

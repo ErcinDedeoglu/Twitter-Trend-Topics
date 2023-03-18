@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-03-18 11:16:19 UTC`
+📆 Last Updated: `2023-03-18 12:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 2 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 3 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
-| 4 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 5 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 1 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
+| 2 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
+| 3 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 4 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 5 | [MOMO](http://twitter.com/search?q=MOMO) | MOMO is an acronym for "Mobile Money", which is a type of digital payment system that allows users to transfer money and make payments using their mobile phones. It is popular in many countries, particularly in Africa and Asia. |
 | 6 | [#ENHYPEN_JAY](http://twitter.com/search?q=%23ENHYPEN_JAY) | N/A |
 | 7 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 8 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 9 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
-| 10 | [BINI GWEN OUR SUPERMODEL](http://twitter.com/search?q=BINI+GWEN+OUR+SUPERMODEL) | N/A |
-| 11 | [Kasilag](http://twitter.com/search?q=Kasilag) | N/A |
-| 12 | [PARK JONGSEONG](http://twitter.com/search?q=PARK+JONGSEONG) | N/A |
-| 13 | [THE FUTURE IS VIBRENT](http://twitter.com/search?q=THE+FUTURE+IS+VIBRENT) | N/A |
-| 14 | [RTM OST IS BACK](http://twitter.com/search?q=RTM+OST+IS+BACK) | N/A |
-| 15 | [Newsto KoYan With Jane](http://twitter.com/search?q=Newsto+KoYan+With+Jane) | N/A |
-| 16 | [NADINE INSPIRATION AHEAD](http://twitter.com/search?q=NADINE+INSPIRATION+AHEAD) | N/A |
-| 17 | [WELCOME TO SG ALEXA](http://twitter.com/search?q=WELCOME+TO+SG+ALEXA) | N/A |
-| 18 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 19 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 20 | [ZACHAM AMING BARKADA](http://twitter.com/search?q=ZACHAM+AMING+BARKADA) | N/A |
-| 21 | [TCOB ROBXINE eLOVEnthSARY](http://twitter.com/search?q=TCOB+ROBXINE+eLOVEnthSARY) | N/A |
-| 22 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 23 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 24 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 25 | [Cabatac](http://twitter.com/search?q=Cabatac) | N/A |
-| 26 | [JAYS](http://twitter.com/search?q=JAYS) | N/A |
-| 27 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
-| 28 | [Pangs](http://twitter.com/search?q=Pangs) | N/A |
-| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 30 | [I'M SO PROUD OF YOU](http://twitter.com/search?q=I%27M+SO+PROUD+OF+YOU) | N/A |
-| 31 | [Myla](http://twitter.com/search?q=Myla) | N/A |
-| 32 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
-| 33 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 34 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 35 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 36 | [DALAMPASIGAN 1ST ANNIVERSARY](http://twitter.com/search?q=DALAMPASIGAN+1ST+ANNIVERSARY) | N/A |
-| 37 | [DAVID WiLTELCOM ANNIVERSARY](http://twitter.com/search?q=DAVID+WiLTELCOM+ANNIVERSARY) | N/A |
-| 38 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 39 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 40 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
-| 41 | [Finals](http://twitter.com/search?q=Finals) | N/A |
-| 42 | [MOONBIN](http://twitter.com/search?q=MOONBIN) | N/A |
-| 43 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
-| 44 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 45 | [MIKAEL](http://twitter.com/search?q=MIKAEL) | N/A |
-| 46 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 47 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 49 | [KDLEX HEADLINER BILLBOARD](http://twitter.com/search?q=KDLEX+HEADLINER+BILLBOARD) | N/A |
-| 50 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
+| 8 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
+| 9 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 10 | [Newsto KoYan With Jane](http://twitter.com/search?q=Newsto+KoYan+With+Jane) | N/A |
+| 11 | [BINI GWEN OUR SUPERMODEL](http://twitter.com/search?q=BINI+GWEN+OUR+SUPERMODEL) | N/A |
+| 12 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
+| 13 | [Edward](http://twitter.com/search?q=Edward) | N/A |
+| 14 | [rtm ost is back](http://twitter.com/search?q=rtm+ost+is+back) | N/A |
+| 15 | [Kasilag](http://twitter.com/search?q=Kasilag) | N/A |
+| 16 | [THE FUTURE IS VIBRENT](http://twitter.com/search?q=THE+FUTURE+IS+VIBRENT) | N/A |
+| 17 | [barda mvtrailer](http://twitter.com/search?q=barda+mvtrailer) | N/A |
+| 18 | [NADINE INSPIRATION AHEAD](http://twitter.com/search?q=NADINE+INSPIRATION+AHEAD) | N/A |
+| 19 | [ZACHAM AMING BARKADA](http://twitter.com/search?q=ZACHAM+AMING+BARKADA) | N/A |
+| 20 | [TCOB ROBXINE eLOVEnthSARY](http://twitter.com/search?q=TCOB+ROBXINE+eLOVEnthSARY) | N/A |
+| 21 | [PARK JONGSEONG](http://twitter.com/search?q=PARK+JONGSEONG) | N/A |
+| 22 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
+| 23 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 24 | [WELCOME TO SG ALEXA](http://twitter.com/search?q=WELCOME+TO+SG+ALEXA) | N/A |
+| 25 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 26 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 27 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 28 | [jays](http://twitter.com/search?q=jays) | N/A |
+| 29 | [Hyunsik](http://twitter.com/search?q=Hyunsik) | N/A |
+| 30 | [Cabatac](http://twitter.com/search?q=Cabatac) | N/A |
+| 31 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
+| 32 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 33 | [Super Red](http://twitter.com/search?q=Super+Red) | N/A |
+| 34 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
+| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 36 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 37 | [I'M SO PROUD OF YOU](http://twitter.com/search?q=I%27M+SO+PROUD+OF+YOU) | N/A |
+| 38 | [Pangs](http://twitter.com/search?q=Pangs) | N/A |
+| 39 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
+| 40 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
+| 41 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 42 | [ARA GALANG](http://twitter.com/search?q=ARA+GALANG) | N/A |
+| 43 | [Finals](http://twitter.com/search?q=Finals) | N/A |
+| 44 | [DAVID WiLTELCOM ANNIVERSARY](http://twitter.com/search?q=DAVID+WiLTELCOM+ANNIVERSARY) | N/A |
+| 45 | [moonbin](http://twitter.com/search?q=moonbin) | N/A |
+| 46 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 47 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
+| 48 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
+| 49 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 50 | [DALAMPASIGAN 1ST ANNIVERSARY](http://twitter.com/search?q=DALAMPASIGAN+1ST+ANNIVERSARY) | N/A |
 
 
 

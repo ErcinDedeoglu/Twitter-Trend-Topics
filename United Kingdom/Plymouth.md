@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Plymouth
 
-📆 Last Updated: `2023-03-18 11:15:55 UTC`
+📆 Last Updated: `2023-03-18 12:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 1 | [Blair](http://twitter.com/search?q=Blair) | N/A |
 | 2 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 3 | [#weekendvibes](http://twitter.com/search?q=%23weekendvibes) | N/A |
-| 4 | [#ToryCriminals](http://twitter.com/search?q=%23ToryCriminals) | N/A |
-| 5 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 6 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 7 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 8 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 9 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
-| 10 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 11 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
-| 12 | [RIP Craig](http://twitter.com/search?q=RIP+Craig) | N/A |
+| 3 | [#ToryCriminals](http://twitter.com/search?q=%23ToryCriminals) | N/A |
+| 4 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 5 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 6 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 7 | [#ComicRelief](http://twitter.com/search?q=%23ComicRelief) | N/A |
+| 8 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 9 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 10 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
+| 11 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 12 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
 | 13 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 14 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 15 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 16 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 17 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 18 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
-| 19 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 20 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 21 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 22 | [Guardian and BBC](http://twitter.com/search?q=Guardian+and+BBC) | N/A |
-| 23 | [Andrew Mitchell](http://twitter.com/search?q=Andrew+Mitchell) | N/A |
-| 24 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 25 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 26 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 27 | [Andrew Bridgen](http://twitter.com/search?q=Andrew+Bridgen) | Andrew Bridgen is a British Conservative Party politician who has been the Member of Parliament (MP) for North West Leicestershire since 2010. He is a prominent Brexiteer and has been an outspoken critic of the European Union. |
-| 28 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 29 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 30 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
-| 31 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
-| 32 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
-| 33 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
-| 34 | [Hansard](http://twitter.com/search?q=Hansard) | N/A |
-| 35 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 36 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 37 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 38 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 39 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 40 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 41 | [Lenny Henry](http://twitter.com/search?q=Lenny+Henry) | N/A |
-| 42 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
-| 43 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 44 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
-| 45 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 46 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 47 | [SNP HQ](http://twitter.com/search?q=SNP+HQ) | N/A |
-| 48 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 14 | [RIP Craig](http://twitter.com/search?q=RIP+Craig) | N/A |
+| 15 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 16 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 17 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 18 | [Andrew Mitchell](http://twitter.com/search?q=Andrew+Mitchell) | N/A |
+| 19 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
+| 20 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 21 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 22 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
+| 23 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
+| 24 | [Guardian and BBC](http://twitter.com/search?q=Guardian+and+BBC) | N/A |
+| 25 | [Andrew Bridgen](http://twitter.com/search?q=Andrew+Bridgen) | Andrew Bridgen is a British Conservative Party politician who has been the Member of Parliament (MP) for North West Leicestershire since 2010. He is a prominent Brexiteer and has been an outspoken critic of the European Union. |
+| 26 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 27 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
+| 28 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
+| 29 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 30 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 31 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 32 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 33 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 34 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 35 | [Eras](http://twitter.com/search?q=Eras) | N/A |
+| 36 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
+| 37 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
+| 38 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
+| 39 | [Hansard](http://twitter.com/search?q=Hansard) | N/A |
+| 40 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 41 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 42 | [Lenny Henry](http://twitter.com/search?q=Lenny+Henry) | N/A |
+| 43 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 44 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
+| 45 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
+| 46 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-18 11:16:22 UTC`
+📆 Last Updated: `2023-03-18 12:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
 | 2 | [#LagosDecides2023](http://twitter.com/search?q=%23LagosDecides2023) | N/A |
-| 3 | [No LP](http://twitter.com/search?q=No+LP) | N/A |
-| 4 | [Situation Report](http://twitter.com/search?q=Situation+Report) | N/A |
+| 3 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 4 | [No LP](http://twitter.com/search?q=No+LP) | N/A |
 | 5 | [#NigeriaDecide2023](http://twitter.com/search?q=%23NigeriaDecide2023) | N/A |
-| 6 | [#ElectionDay](http://twitter.com/search?q=%23ElectionDay) | N/A |
+| 6 | [Situation Report](http://twitter.com/search?q=Situation+Report) | N/A |
 | 7 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 8 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
-| 9 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
-| 10 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
-| 11 | [Ago Palace](http://twitter.com/search?q=Ago+Palace) | N/A |
-| 12 | [Kate Henshaw](http://twitter.com/search?q=Kate+Henshaw) | N/A |
-| 13 | [49 SANs](http://twitter.com/search?q=49+SANs) | N/A |
-| 14 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
-| 15 | [Cast](http://twitter.com/search?q=Cast) | N/A |
-| 16 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
-| 17 | [Voted](http://twitter.com/search?q=Voted) | N/A |
-| 18 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 8 | [Ago Palace](http://twitter.com/search?q=Ago+Palace) | N/A |
+| 9 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
+| 10 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
+| 11 | [Kate Henshaw](http://twitter.com/search?q=Kate+Henshaw) | N/A |
+| 12 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 13 | [Casted](http://twitter.com/search?q=Casted) | N/A |
+| 14 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
+| 15 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
+| 16 | [49 SANs](http://twitter.com/search?q=49+SANs) | N/A |
+| 17 | [Voters](http://twitter.com/search?q=Voters) | N/A |
+| 18 | [Amuwo Odofin](http://twitter.com/search?q=Amuwo+Odofin) | N/A |
 | 19 | [Omoni Oboli](http://twitter.com/search?q=Omoni+Oboli) | N/A |
-| 20 | [Amuwo Odofin](http://twitter.com/search?q=Amuwo+Odofin) | N/A |
-| 21 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
-| 22 | [Alimosho](http://twitter.com/search?q=Alimosho) | N/A |
-| 23 | [Voting](http://twitter.com/search?q=Voting) | N/A |
-| 24 | [Security](http://twitter.com/search?q=Security) | N/A |
-| 25 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 26 | [Ajah](http://twitter.com/search?q=Ajah) | N/A |
-| 27 | [Fadeyi](http://twitter.com/search?q=Fadeyi) | N/A |
-| 28 | [Uncle Sola](http://twitter.com/search?q=Uncle+Sola) | N/A |
-| 29 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
-| 30 | [House of Assembly](http://twitter.com/search?q=House+of+Assembly) | N/A |
-| 31 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
-| 32 | [Omo Agege](http://twitter.com/search?q=Omo+Agege) | N/A |
-| 33 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 34 | [Bayelsa](http://twitter.com/search?q=Bayelsa) | N/A |
-| 35 | [Mason](http://twitter.com/search?q=Mason) | N/A |
-| 36 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 37 | [Violence](http://twitter.com/search?q=Violence) | N/A |
-| 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 39 | [Oluomo](http://twitter.com/search?q=Oluomo) | N/A |
-| 40 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
-| 41 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 42 | [Nigeria Police](http://twitter.com/search?q=Nigeria+Police) | N/A |
-| 43 | [Fanta](http://twitter.com/search?q=Fanta) | N/A |
-| 44 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 45 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 46 | [Vote APC](http://twitter.com/search?q=Vote+APC) | N/A |
-| 47 | [Chukwudi](http://twitter.com/search?q=Chukwudi) | N/A |
-| 48 | [#INEC](http://twitter.com/search?q=%23INEC) | N/A |
+| 20 | [Voting](http://twitter.com/search?q=Voting) | N/A |
+| 21 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
+| 22 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
+| 23 | [Ajah](http://twitter.com/search?q=Ajah) | N/A |
+| 24 | [The APC](http://twitter.com/search?q=The+APC) | N/A |
+| 25 | [Isolo](http://twitter.com/search?q=Isolo) | N/A |
+| 26 | [Okota](http://twitter.com/search?q=Okota) | N/A |
+| 27 | [Security](http://twitter.com/search?q=Security) | N/A |
+| 28 | [Victory](http://twitter.com/search?q=Victory) | N/A |
+| 29 | [Aguda](http://twitter.com/search?q=Aguda) | N/A |
+| 30 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 31 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 32 | [Alimosho](http://twitter.com/search?q=Alimosho) | N/A |
+| 33 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
+| 34 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
+| 35 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
+| 36 | [Oshodi](http://twitter.com/search?q=Oshodi) | N/A |
+| 37 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
+| 38 | [Uncle Sola](http://twitter.com/search?q=Uncle+Sola) | N/A |
+| 39 | [House of Assembly](http://twitter.com/search?q=House+of+Assembly) | N/A |
+| 40 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
+| 41 | [The Police](http://twitter.com/search?q=The+Police) | N/A |
+| 42 | [Omo Agege](http://twitter.com/search?q=Omo+Agege) | N/A |
+| 43 | [Fadeyi](http://twitter.com/search?q=Fadeyi) | N/A |
+| 44 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 45 | [Violence](http://twitter.com/search?q=Violence) | N/A |
+| 46 | [Nigerian Police](http://twitter.com/search?q=Nigerian+Police) | N/A |
+| 47 | [Ajegunle](http://twitter.com/search?q=Ajegunle) | N/A |
+| 48 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
 
 
 

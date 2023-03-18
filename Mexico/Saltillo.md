@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-18 11:15:59 UTC`
+📆 Last Updated: `2023-03-18 12:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,52 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
 | 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 4 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 5 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
-| 6 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 7 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 8 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 4 | [#justiciaparanormalizbeth](http://twitter.com/search?q=%23justiciaparanormalizbeth) | N/A |
+| 5 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 6 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
+| 7 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 8 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
 | 9 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
-| 10 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 11 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 10 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 11 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
 | 12 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 13 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 14 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
-| 15 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
-| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [Urías](http://twitter.com/search?q=Ur%c3%adas) | N/A |
-| 18 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 13 | [inmoral](http://twitter.com/search?q=inmoral) | N/A |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 15 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 16 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
+| 17 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 18 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
 | 19 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 20 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 21 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 20 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 21 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
 | 22 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
 | 24 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 25 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
+| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 26 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 27 | [Lázaro Cárdenas Batel](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas+Batel) | N/A |
 | 28 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 29 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 29 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
 | 30 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 | 31 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
 | 32 | [Semifinales](http://twitter.com/search?q=Semifinales) | N/A |
 | 33 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 34 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 35 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 36 | [javier assad](http://twitter.com/search?q=javier+assad) | N/A |
-| 37 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 38 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 39 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 40 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 41 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 42 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
-| 43 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 44 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
-| 45 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 46 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 47 | [welcome to the qsmp](http://twitter.com/search?q=welcome+to+the+qsmp) | N/A |
-| 48 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 34 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 35 | [javier assad](http://twitter.com/search?q=javier+assad) | N/A |
+| 36 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 37 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 38 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 39 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 41 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
+| 42 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 43 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
+| 44 | [celac](http://twitter.com/search?q=celac) | N/A |
+| 45 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 46 | [samaritana](http://twitter.com/search?q=samaritana) | N/A |
+| 47 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 48 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 49 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
 
 
 
