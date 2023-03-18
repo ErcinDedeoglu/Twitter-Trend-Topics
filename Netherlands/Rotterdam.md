@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-18 10:16:29 UTC`
+📆 Last Updated: `2023-03-18 11:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#tomegbers](http://twitter.com/search?q=%23tomegbers) | N/A |
-| 3 | [#KhalidenSophie](http://twitter.com/search?q=%23KhalidenSophie) | N/A |
-| 4 | [#azlaz](http://twitter.com/search?q=%23azlaz) | N/A |
+| 1 | [#tomegbers](http://twitter.com/search?q=%23tomegbers) | N/A |
+| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 4 | [#KhalidenSophie](http://twitter.com/search?q=%23KhalidenSophie) | N/A |
 | 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [#stapbudget](http://twitter.com/search?q=%23stapbudget) | N/A |
-| 8 | [Adri Duivesteijn](http://twitter.com/search?q=Adri+Duivesteijn) | N/A |
-| 9 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 10 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 11 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 12 | [BBB-kiezer](http://twitter.com/search?q=BBB-kiezer) | N/A |
-| 13 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 14 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 15 | [Karolien](http://twitter.com/search?q=Karolien) | N/A |
-| 16 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 17 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 18 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 19 | [Internationaal Strafhof](http://twitter.com/search?q=Internationaal+Strafhof) | N/A |
-| 20 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 21 | [Melkert](http://twitter.com/search?q=Melkert) | N/A |
-| 22 | [Boekestijn](http://twitter.com/search?q=Boekestijn) | N/A |
-| 23 | [Wijsheid](http://twitter.com/search?q=Wijsheid) | N/A |
-| 24 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 25 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 28 | [Beatrijs Ritsema](http://twitter.com/search?q=Beatrijs+Ritsema) | N/A |
-| 29 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 30 | [cda-leider hoekstra](http://twitter.com/search?q=cda-leider+hoekstra) | N/A |
-| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 32 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 33 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 34 | [Fout in Rotterdams](http://twitter.com/search?q=Fout+in+Rotterdams) | N/A |
-| 35 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 36 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 37 | [Asha](http://twitter.com/search?q=Asha) | N/A |
-| 38 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 39 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 40 | [wieffer](http://twitter.com/search?q=wieffer) | N/A |
-| 41 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 42 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 43 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 44 | [Antarctica](http://twitter.com/search?q=Antarctica) | N/A |
-| 45 | [Canon](http://twitter.com/search?q=Canon) | N/A |
-| 46 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 47 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 48 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 49 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
-| 50 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 7 | [#verkiezingsuitslagen](http://twitter.com/search?q=%23verkiezingsuitslagen) | N/A |
+| 8 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 9 | [Neelie Kroes](http://twitter.com/search?q=Neelie+Kroes) | N/A |
+| 10 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 11 | [Lager](http://twitter.com/search?q=Lager) | N/A |
+| 12 | [Karolien](http://twitter.com/search?q=Karolien) | N/A |
+| 13 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 14 | [Adri Duivesteijn](http://twitter.com/search?q=Adri+Duivesteijn) | N/A |
+| 15 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 16 | [BBB-kiezer](http://twitter.com/search?q=BBB-kiezer) | N/A |
+| 17 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 18 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 19 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 20 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 21 | [Wijsheid](http://twitter.com/search?q=Wijsheid) | N/A |
+| 22 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 23 | [San Remo](http://twitter.com/search?q=San+Remo) | N/A |
+| 24 | [Frits Barend](http://twitter.com/search?q=Frits+Barend) | N/A |
+| 25 | [melkert](http://twitter.com/search?q=melkert) | N/A |
+| 26 | [Internationaal Strafhof](http://twitter.com/search?q=Internationaal+Strafhof) | N/A |
+| 27 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 28 | [Boekestijn](http://twitter.com/search?q=Boekestijn) | N/A |
+| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 30 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
+| 31 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 32 | [Beatrijs Ritsema](http://twitter.com/search?q=Beatrijs+Ritsema) | N/A |
+| 33 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 34 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 35 | [cda-leider hoekstra](http://twitter.com/search?q=cda-leider+hoekstra) | N/A |
+| 36 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 37 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 38 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 39 | [Fout in Rotterdams](http://twitter.com/search?q=Fout+in+Rotterdams) | N/A |
+| 40 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 41 | [Asha](http://twitter.com/search?q=Asha) | N/A |
+| 42 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 44 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 45 | [Antarctica](http://twitter.com/search?q=Antarctica) | N/A |
+| 46 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 47 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
+| 48 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 49 | [Kroeger](http://twitter.com/search?q=Kroeger) | N/A |
+| 50 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
 
 
 

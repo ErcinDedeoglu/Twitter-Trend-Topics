@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-18 10:17:02 UTC`
+📆 Last Updated: `2023-03-18 11:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Guatemala
 | ------- | ------------ | ------------ |
 | 1 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [NELSON X YURIDIA](http://twitter.com/search?q=NELSON+X+YURIDIA) | N/A |
+| 3 | [nelson x yuridia](http://twitter.com/search?q=nelson+x+yuridia) | N/A |
 | 4 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
 | 5 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
@@ -31,7 +31,7 @@ This is top 50 for Guatemala
 | 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 17 | [#SiempreConectado](http://twitter.com/search?q=%23SiempreConectado) | N/A |
+| 17 | [#siempreconectado](http://twitter.com/search?q=%23siempreconectado) | N/A |
 | 18 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
 | 19 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
 | 20 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Guatemala
 | 36 | [Ferxxo 81](http://twitter.com/search?q=Ferxxo+81) | N/A |
 | 37 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 39 | [JOSÉ MADERO](http://twitter.com/search?q=JOS%c3%89+MADERO) | N/A |
+| 39 | [José madero](http://twitter.com/search?q=Jos%c3%a9+madero) | N/A |
 | 40 | [Andy](http://twitter.com/search?q=Andy) | N/A |
 | 41 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
 | 42 | [Falla](http://twitter.com/search?q=Falla) | N/A |

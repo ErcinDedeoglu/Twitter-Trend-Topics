@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-18 10:16:19 UTC`
+📆 Last Updated: `2023-03-18 11:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,9 +21,9 @@ This is top 50 for [Colombia](</Colombia>)
 | 4 | [#porfavornomas](http://twitter.com/search?q=%23porfavornomas) | N/A |
 | 5 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 6 | [#ReformaLaboral](http://twitter.com/search?q=%23ReformaLaboral) | N/A |
-| 7 | [jarlan](http://twitter.com/search?q=jarlan) | N/A |
-| 8 | [#asívalasalud](http://twitter.com/search?q=%23as%c3%advalasalud) | N/A |
-| 9 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
+| 7 | [#asívalasalud](http://twitter.com/search?q=%23as%c3%advalasalud) | N/A |
+| 8 | [#TheErasTourTS](http://twitter.com/search?q=%23TheErasTourTS) | N/A |
+| 9 | [Jarlan](http://twitter.com/search?q=Jarlan) | N/A |
 | 10 | [#trabajemosen](http://twitter.com/search?q=%23trabajemosen) | N/A |
 | 11 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 12 | [Sebastián Gómez](http://twitter.com/search?q=Sebasti%c3%a1n+G%c3%b3mez) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for [Colombia](</Colombia>)
 | 23 | [Francia](http://twitter.com/search?q=Francia) | N/A |
 | 24 | [Jefferson Duque](http://twitter.com/search?q=Jefferson+Duque) | N/A |
 | 25 | [Berlín](http://twitter.com/search?q=Berl%c3%adn) | N/A |
-| 26 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [tatay](http://twitter.com/search?q=tatay) | N/A |
-| 29 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 30 | [Migel](http://twitter.com/search?q=Migel) | N/A |
-| 31 | [Upegui](http://twitter.com/search?q=Upegui) | N/A |
-| 32 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 33 | [dorlan](http://twitter.com/search?q=dorlan) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 36 | [Leyva](http://twitter.com/search?q=Leyva) | N/A |
-| 37 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
-| 38 | [hernán ramírez villegas](http://twitter.com/search?q=hern%c3%a1n+ram%c3%adrez+villegas) | N/A |
-| 39 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 40 | [Juan Carlos Osorio](http://twitter.com/search?q=Juan+Carlos+Osorio) | N/A |
-| 41 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
-| 42 | [Myke Towers](http://twitter.com/search?q=Myke+Towers) | N/A |
-| 43 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 44 | [Estatuto de Roma](http://twitter.com/search?q=Estatuto+de+Roma) | N/A |
-| 45 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 46 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 47 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 48 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
-| 49 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 26 | [tatay](http://twitter.com/search?q=tatay) | N/A |
+| 27 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 28 | [migel](http://twitter.com/search?q=migel) | N/A |
+| 29 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 30 | [dorlan](http://twitter.com/search?q=dorlan) | N/A |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [Upegui](http://twitter.com/search?q=Upegui) | N/A |
+| 34 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 35 | [Leyva](http://twitter.com/search?q=Leyva) | N/A |
+| 36 | [3MEN2 KBRN](http://twitter.com/search?q=3MEN2+KBRN) | N/A |
+| 37 | [hernán ramírez villegas](http://twitter.com/search?q=hern%c3%a1n+ram%c3%adrez+villegas) | N/A |
+| 38 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 39 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 40 | [Myke Towers](http://twitter.com/search?q=Myke+Towers) | N/A |
+| 41 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 42 | [Estatuto de Roma](http://twitter.com/search?q=Estatuto+de+Roma) | N/A |
+| 43 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 44 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 45 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 46 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 47 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 48 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 49 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 50 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 
 
 

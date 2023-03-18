@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-18 10:16:52 UTC`
+📆 Last Updated: `2023-03-18 11:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ひろがるホロライブDAY1](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY1) | N/A |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 5 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 6 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 7 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 8 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
-| 9 | [#tjpwGP23](http://twitter.com/search?q=%23tjpwGP23) | N/A |
-| 10 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
-| 11 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 12 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 2 | [#ひろがるホロライブDAY1](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY1) | N/A |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
+| 6 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 7 | [#Wordle637](http://twitter.com/search?q=%23Wordle637) | N/A |
+| 8 | [#tjpwGP23](http://twitter.com/search?q=%23tjpwGP23) | N/A |
+| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 10 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 11 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 12 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
 | 13 | [Good Burger 2](http://twitter.com/search?q=Good+Burger+2) | N/A |
-| 14 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 15 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 16 | [#Wordle637](http://twitter.com/search?q=%23Wordle637) | N/A |
-| 17 | [44 SONGS](http://twitter.com/search?q=44+SONGS) | N/A |
-| 18 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 19 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 20 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 21 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
-| 22 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
+| 14 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 15 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 16 | [Maxi Kleber](http://twitter.com/search?q=Maxi+Kleber) | N/A |
+| 17 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 18 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 19 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
+| 20 | [Kenan](http://twitter.com/search?q=Kenan) | N/A |
+| 21 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 22 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
 | 23 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 24 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 25 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
-| 26 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 27 | [BDSP](http://twitter.com/search?q=BDSP) | N/A |
-| 28 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 29 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
-| 30 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 31 | [Painter](http://twitter.com/search?q=Painter) | N/A |
-| 32 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 24 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 25 | [BDSP](http://twitter.com/search?q=BDSP) | N/A |
+| 26 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 27 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 28 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 29 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 30 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 31 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 32 | [Salina](http://twitter.com/search?q=Salina) | N/A |
 | 33 | [Long Live](http://twitter.com/search?q=Long+Live) | N/A |
-| 34 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 35 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 36 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 37 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 38 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 34 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 35 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 36 | [Miss Americana](http://twitter.com/search?q=Miss+Americana) | N/A |
+| 37 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 38 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
 | 39 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 40 | [Salina](http://twitter.com/search?q=Salina) | N/A |
-| 41 | [Miss Americana](http://twitter.com/search?q=Miss+Americana) | N/A |
-| 42 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 43 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
-| 44 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
-| 45 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 46 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 47 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
-| 48 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
-| 49 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 50 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
+| 40 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
+| 41 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 42 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 43 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
+| 44 | [Rampage](http://twitter.com/search?q=Rampage) | N/A |
+| 45 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 46 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 47 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 48 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 49 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 50 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
 
 
 

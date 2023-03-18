@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-18 10:17:05 UTC`
+📆 Last Updated: `2023-03-18 11:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Portugal
 | 11 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
 | 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 14 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 15 | [vamos caralho](http://twitter.com/search?q=vamos+caralho) | N/A |
-| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 14 | [vamos caralho](http://twitter.com/search?q=vamos+caralho) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 17 | [Richie](http://twitter.com/search?q=Richie) | N/A |
-| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 18 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
 | 19 | [Diogo leite](http://twitter.com/search?q=Diogo+leite) | N/A |
-| 20 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
-| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 22 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 22 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
 | 23 | [Pedro Gonçalves](http://twitter.com/search?q=Pedro+Gon%c3%a7alves) | N/A |
-| 24 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 25 | [Tribunal Penal Internacional](http://twitter.com/search?q=Tribunal+Penal+Internacional) | N/A |
-| 26 | [Rúben Neves](http://twitter.com/search?q=R%c3%baben+Neves) | N/A |
-| 27 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
-| 28 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 29 | [Fábio Vieira](http://twitter.com/search?q=F%c3%a1bio+Vieira) | N/A |
-| 30 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 31 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 32 | [roberto martínez](http://twitter.com/search?q=roberto+mart%c3%adnez) | N/A |
-| 33 | [Diogo Jota](http://twitter.com/search?q=Diogo+Jota) | N/A |
-| 34 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 35 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 36 | [#wrcnasporttv](http://twitter.com/search?q=%23wrcnasporttv) | N/A |
-| 37 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 38 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 39 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
-| 40 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
-| 41 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 42 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 44 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 45 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 46 | [gonçalo inácio](http://twitter.com/search?q=gon%c3%a7alo+in%c3%a1cio) | N/A |
-| 47 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 48 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 49 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 50 | [#CanYamanForChildren](http://twitter.com/search?q=%23CanYamanForChildren) | N/A |
+| 24 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 25 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 26 | [Fábio Vieira](http://twitter.com/search?q=F%c3%a1bio+Vieira) | N/A |
+| 27 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 28 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 29 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 30 | [Diogo Jota](http://twitter.com/search?q=Diogo+Jota) | N/A |
+| 31 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 32 | [Tribunal Penal Internacional](http://twitter.com/search?q=Tribunal+Penal+Internacional) | N/A |
+| 33 | [#wrcnasporttv](http://twitter.com/search?q=%23wrcnasporttv) | N/A |
+| 34 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 35 | [Rúben Neves](http://twitter.com/search?q=R%c3%baben+Neves) | N/A |
+| 36 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 37 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
+| 38 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 39 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
+| 40 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 41 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 42 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 43 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 44 | [gonçalo inácio](http://twitter.com/search?q=gon%c3%a7alo+in%c3%a1cio) | N/A |
+| 45 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 46 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
+| 47 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 48 | [#CanYamanForChildren](http://twitter.com/search?q=%23CanYamanForChildren) | N/A |
+| 49 | [William Carvalho](http://twitter.com/search?q=William+Carvalho) | N/A |
+| 50 | [Sónia](http://twitter.com/search?q=S%c3%b3nia) | N/A |
 
 
 
