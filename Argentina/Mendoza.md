@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-18 01:43:16 UTC`
+📆 Last Updated: `2023-03-18 02:33:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 2 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 3 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 4 | [Tan Biónica](http://twitter.com/search?q=Tan+Bi%c3%b3nica) | N/A |
-| 5 | [#Lollapalooza](http://twitter.com/search?q=%23Lollapalooza) | N/A |
-| 6 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 7 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 8 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
-| 9 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
-| 10 | [Luna Diale](http://twitter.com/search?q=Luna+Diale) | N/A |
-| 11 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 3 | [Tan Biónica](http://twitter.com/search?q=Tan+Bi%c3%b3nica) | N/A |
+| 4 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 5 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
+| 6 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 7 | [#Lollapalooza](http://twitter.com/search?q=%23Lollapalooza) | N/A |
+| 8 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 9 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 10 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
+| 11 | [Insua](http://twitter.com/search?q=Insua) | N/A |
 | 12 | [Flow](http://twitter.com/search?q=Flow) | N/A |
-| 13 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 14 | [REVIVIÓ LA MÚSICA](http://twitter.com/search?q=REVIVI%c3%93+LA+M%c3%9aSICA) | N/A |
-| 15 | [Aued](http://twitter.com/search?q=Aued) | N/A |
-| 16 | [Papu](http://twitter.com/search?q=Papu) | N/A |
-| 17 | [Festeje](http://twitter.com/search?q=Festeje) | N/A |
-| 18 | [Enrique Iglesias](http://twitter.com/search?q=Enrique+Iglesias) | N/A |
-| 19 | [Maxi Romero](http://twitter.com/search?q=Maxi+Romero) | N/A |
-| 20 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 21 | [Chanito](http://twitter.com/search?q=Chanito) | N/A |
+| 13 | [#Racing](http://twitter.com/search?q=%23Racing) | N/A |
+| 14 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
+| 15 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 16 | [Festeje](http://twitter.com/search?q=Festeje) | N/A |
+| 17 | [Luna Diale](http://twitter.com/search?q=Luna+Diale) | N/A |
+| 18 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 19 | [ROMI A LA FINAL](http://twitter.com/search?q=ROMI+A+LA+FINAL) | N/A |
+| 20 | [Matías Rojas](http://twitter.com/search?q=Mat%c3%adas+Rojas) | N/A |
+| 21 | [Nanu](http://twitter.com/search?q=Nanu) | N/A |
 | 22 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 23 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
-| 24 | [Nardoni](http://twitter.com/search?q=Nardoni) | N/A |
-| 25 | [Trueno](http://twitter.com/search?q=Trueno) | N/A |
-| 26 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 27 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 28 | [Iría](http://twitter.com/search?q=Ir%c3%ada) | N/A |
-| 29 | [#integracionharrie](http://twitter.com/search?q=%23integracionharrie) | N/A |
-| 30 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 31 | [Marilina](http://twitter.com/search?q=Marilina) | N/A |
-| 32 | [#Ferro](http://twitter.com/search?q=%23Ferro) | N/A |
-| 33 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
-| 34 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
-| 35 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
-| 36 | [tinder](http://twitter.com/search?q=tinder) | N/A |
-| 37 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 38 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 41 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 42 | [ESTO ES REAL](http://twitter.com/search?q=ESTO+ES+REAL) | N/A |
-| 43 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 44 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 45 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 46 | [Tove](http://twitter.com/search?q=Tove) | N/A |
-| 47 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 48 | [Temperley](http://twitter.com/search?q=Temperley) | N/A |
-| 49 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 23 | [Aued](http://twitter.com/search?q=Aued) | N/A |
+| 24 | [REVIVIÓ LA MÚSICA](http://twitter.com/search?q=REVIVI%c3%93+LA+M%c3%9aSICA) | N/A |
+| 25 | [Papu](http://twitter.com/search?q=Papu) | N/A |
+| 26 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 27 | [Maxi Romero](http://twitter.com/search?q=Maxi+Romero) | N/A |
+| 28 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 29 | [Nardoni](http://twitter.com/search?q=Nardoni) | N/A |
+| 30 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 31 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 32 | [Chanito](http://twitter.com/search?q=Chanito) | N/A |
+| 33 | [Enrique Iglesias](http://twitter.com/search?q=Enrique+Iglesias) | N/A |
+| 34 | [Cigarettes](http://twitter.com/search?q=Cigarettes) | N/A |
+| 35 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 36 | [Gordillo](http://twitter.com/search?q=Gordillo) | N/A |
+| 37 | [3 HORAS](http://twitter.com/search?q=3+HORAS) | N/A |
+| 38 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
+| 39 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
+| 40 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
+| 41 | [Obsesionario](http://twitter.com/search?q=Obsesionario) | N/A |
+| 42 | [tinder](http://twitter.com/search?q=tinder) | N/A |
+| 43 | [Trueno](http://twitter.com/search?q=Trueno) | N/A |
+| 44 | [Iría](http://twitter.com/search?q=Ir%c3%ada) | N/A |
+| 45 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 46 | [#Ferro](http://twitter.com/search?q=%23Ferro) | N/A |
+| 47 | [Marilina](http://twitter.com/search?q=Marilina) | N/A |
+| 48 | [#LOLArgentina](http://twitter.com/search?q=%23LOLArgentina) | N/A |
+| 49 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
 
 
 

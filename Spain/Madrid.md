@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-18 01:43:26 UTC`
+📆 Last Updated: `2023-03-18 02:33:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,54 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
 | 2 | [#ElDesafíoFinal](http://twitter.com/search?q=%23ElDesaf%c3%adoFinal) | N/A |
-| 3 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
-| 4 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 5 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 6 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 7 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 8 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 9 | [Ana Guerra](http://twitter.com/search?q=Ana+Guerra) | N/A |
-| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 11 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
-| 12 | [#LaReuniónSecreta](http://twitter.com/search?q=%23LaReuni%c3%b3nSecreta) | N/A |
-| 13 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
-| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 15 | [Juande](http://twitter.com/search?q=Juande) | N/A |
-| 16 | [Málaga](http://twitter.com/search?q=M%c3%a1laga) | N/A |
-| 17 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 18 | [Plano](http://twitter.com/search?q=Plano) | N/A |
-| 19 | [De Frutos](http://twitter.com/search?q=De+Frutos) | N/A |
-| 20 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
-| 21 | [Jorge Lorenzo](http://twitter.com/search?q=Jorge+Lorenzo) | N/A |
-| 22 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
-| 23 | [#RealValladolidAthletic](http://twitter.com/search?q=%23RealValladolidAthletic) | N/A |
-| 24 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 25 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
-| 26 | [Rubén Castro](http://twitter.com/search?q=Rub%c3%a9n+Castro) | N/A |
-| 27 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 28 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
-| 29 | [Gravity Falls](http://twitter.com/search?q=Gravity+Falls) | N/A |
-| 30 | [Jorge Edwards](http://twitter.com/search?q=Jorge+Edwards) | N/A |
-| 31 | [Pellicer](http://twitter.com/search?q=Pellicer) | N/A |
-| 32 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
-| 33 | [Blade Runner](http://twitter.com/search?q=Blade+Runner) | N/A |
-| 34 | [Zorrilla](http://twitter.com/search?q=Zorrilla) | N/A |
-| 35 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
-| 36 | [Dani García](http://twitter.com/search?q=Dani+Garc%c3%ada) | N/A |
-| 37 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 38 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 39 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 40 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 41 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
-| 42 | [Don Jaime](http://twitter.com/search?q=Don+Jaime) | N/A |
-| 43 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 44 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 45 | [#ResidentReseñasOca](http://twitter.com/search?q=%23ResidentRese%c3%b1asOca) | N/A |
-| 46 | [#ShazamFuryOfTheGods](http://twitter.com/search?q=%23ShazamFuryOfTheGods) | N/A |
-| 47 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
+| 3 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 7 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 8 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
+| 9 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 10 | [#PasapalabraBote](http://twitter.com/search?q=%23PasapalabraBote) | N/A |
+| 11 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 12 | [#euforiatv3](http://twitter.com/search?q=%23euforiatv3) | N/A |
+| 13 | [#SVGala3](http://twitter.com/search?q=%23SVGala3) | N/A |
+| 14 | [#DiadelComicydelTebeo](http://twitter.com/search?q=%23DiadelComicydelTebeo) | N/A |
+| 15 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 16 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 17 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 18 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 19 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 20 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
+| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 22 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
+| 23 | [Bryan Gil](http://twitter.com/search?q=Bryan+Gil) | Bryan Gil is a Spanish professional footballer who plays as a winger for Real Madrid. He is known for his speed, dribbling ability, and crossing. His name is often used as a slang term in Spanish to describe someone who is fast and skillful. |
+| 24 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 25 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 26 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
+| 27 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
+| 28 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 29 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 30 | [Gabri Veiga](http://twitter.com/search?q=Gabri+Veiga) | Gabri Veiga is a Portuguese name. It is derived from the Hebrew name Gabriel, which means "God is my strength". |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 33 | [Fabián](http://twitter.com/search?q=Fabi%c3%a1n) | N/A |
+| 34 | [David García](http://twitter.com/search?q=David+Garc%c3%ada) | N/A |
+| 35 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 36 | [Ana Guerra](http://twitter.com/search?q=Ana+Guerra) | N/A |
+| 37 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 38 | [Eugenia Santana](http://twitter.com/search?q=Eugenia+Santana) | N/A |
+| 39 | [Rafa Castaño](http://twitter.com/search?q=Rafa+Casta%c3%b1o) | N/A |
+| 40 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 41 | [Rafael Amargo](http://twitter.com/search?q=Rafael+Amargo) | N/A |
+| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 43 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 44 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 45 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 47 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 48 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 49 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 50 | [Málaga](http://twitter.com/search?q=M%c3%a1laga) | N/A |
 
 
 

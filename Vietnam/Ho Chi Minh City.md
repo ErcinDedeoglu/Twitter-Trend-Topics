@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-18 01:43:37 UTC`
+📆 Last Updated: `2023-03-18 02:33:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 1 | [#วิงค์ไวท์xอิงล็อต](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8cx%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
 | 2 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
 | 3 | [#SetMeFree_Pt2_OutToday](http://twitter.com/search?q=%23SetMeFree_Pt2_OutToday) | N/A |
-| 4 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 4 | [#Builduremotion](http://twitter.com/search?q=%23Builduremotion) | N/A |
 | 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 6 | [#J97_6Msubscribers](http://twitter.com/search?q=%23J97_6Msubscribers) | N/A |
-| 7 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 7 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 8 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 9 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 11 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 12 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 13 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 14 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
+| 9 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 10 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 11 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 13 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
+| 14 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
 | 15 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
-| 16 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
+| 16 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
 | 17 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 18 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 19 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 20 | [space id](http://twitter.com/search?q=space+id) | N/A |
-| 21 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 18 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
+| 19 | [space id](http://twitter.com/search?q=space+id) | N/A |
+| 20 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 21 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
 | 22 | [Seop](http://twitter.com/search?q=Seop) | N/A |
 | 23 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 24 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 25 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 26 | [Vietnam Airlines](http://twitter.com/search?q=Vietnam+Airlines) | N/A |
-| 27 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 28 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
-| 29 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 30 | [Tổng](http://twitter.com/search?q=T%e1%bb%95ng) | N/A |
-| 31 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 32 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 33 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 34 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
-| 35 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 36 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 37 | [Quốc](http://twitter.com/search?q=Qu%e1%bb%91c) | N/A |
-| 38 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 39 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
-| 40 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
-| 41 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 42 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
-| 43 | [Mong](http://twitter.com/search?q=Mong) | N/A |
-| 44 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
-| 45 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
-| 48 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 49 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 50 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 24 | [Vietnam Airlines](http://twitter.com/search?q=Vietnam+Airlines) | N/A |
+| 25 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
+| 26 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 27 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 28 | [giàu](http://twitter.com/search?q=gi%c3%a0u) | N/A |
+| 29 | [Tưởng](http://twitter.com/search?q=T%c6%b0%e1%bb%9fng) | N/A |
+| 30 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 31 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
+| 32 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 33 | [Quốc](http://twitter.com/search?q=Qu%e1%bb%91c) | N/A |
+| 34 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 35 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 37 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 38 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 39 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 40 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 41 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
+| 42 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 43 | [Da Nang](http://twitter.com/search?q=Da+Nang) | N/A |
+| 44 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 45 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 46 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 47 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 48 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 49 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 50 | [babiu](http://twitter.com/search?q=babiu) | N/A |
 
 
 

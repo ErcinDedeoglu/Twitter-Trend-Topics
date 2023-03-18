@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-18 01:43:51 UTC`
+📆 Last Updated: `2023-03-18 02:33:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
-| 2 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 3 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 1 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 2 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 3 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
 | 4 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 5 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 6 | [Drue](http://twitter.com/search?q=Drue) | N/A |
-| 7 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 8 | [Guardian](http://twitter.com/search?q=Guardian) | N/A |
-| 9 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 10 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 11 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 12 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
-| 13 | [#SpringCUE](http://twitter.com/search?q=%23SpringCUE) | N/A |
-| 14 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 15 | [Corporate](http://twitter.com/search?q=Corporate) | N/A |
+| 5 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
+| 6 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 7 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 8 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 9 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
+| 10 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 11 | [Drue](http://twitter.com/search?q=Drue) | N/A |
+| 12 | [#stpaddysday](http://twitter.com/search?q=%23stpaddysday) | N/A |
+| 13 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 15 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
 | 16 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 17 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 18 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
-| 19 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 20 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 21 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 22 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 23 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 24 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 25 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 26 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 27 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
-| 28 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
-| 29 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
-| 30 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
-| 31 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 32 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 33 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
-| 34 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 35 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 36 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
-| 37 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 38 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 39 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
-| 40 | [Rusical](http://twitter.com/search?q=Rusical) | N/A |
-| 41 | [Fairly Ridiculous](http://twitter.com/search?q=Fairly+Ridiculous) | N/A |
-| 42 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 43 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 44 | [Sean Moore](http://twitter.com/search?q=Sean+Moore) | N/A |
-| 45 | [Boilermakers](http://twitter.com/search?q=Boilermakers) | N/A |
-| 46 | [Go FDU](http://twitter.com/search?q=Go+FDU) | N/A |
-| 47 | [Congrats FDU](http://twitter.com/search?q=Congrats+FDU) | N/A |
-| 48 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 49 | [Fair Dick](http://twitter.com/search?q=Fair+Dick) | N/A |
-| 50 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
+| 17 | [Guardian](http://twitter.com/search?q=Guardian) | N/A |
+| 18 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 19 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 20 | [Leprechaun](http://twitter.com/search?q=Leprechaun) | N/A |
+| 21 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 22 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 23 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 24 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
+| 25 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
+| 26 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 27 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 28 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
+| 29 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 30 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
+| 31 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 32 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 33 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 34 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 35 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 36 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
+| 37 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 38 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
+| 39 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
+| 40 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 41 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
+| 42 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 43 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 44 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 45 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
+| 46 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 47 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
+| 48 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 49 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 50 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
 
 
 

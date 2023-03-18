@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-03-18 01:44:03 UTC`
+📆 Last Updated: `2023-03-18 02:33:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for United States
 | ------- | ------------ | ------------ |
 | 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
 | 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 3 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
 | 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 | 6 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
 | 7 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
-| 8 | [#CAIGPT](http://twitter.com/search?q=%23CAIGPT) | N/A |
-| 9 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
-| 10 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
-| 11 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
-| 12 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 13 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 14 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 15 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
-| 16 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 17 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 18 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
-| 19 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 20 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 21 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
-| 22 | [Rusical](http://twitter.com/search?q=Rusical) | N/A |
-| 23 | [Fairly Ridiculous](http://twitter.com/search?q=Fairly+Ridiculous) | N/A |
-| 24 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 25 | [Sean Moore](http://twitter.com/search?q=Sean+Moore) | N/A |
-| 26 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 27 | [Fair Dick](http://twitter.com/search?q=Fair+Dick) | N/A |
-| 28 | [Boilermakers](http://twitter.com/search?q=Boilermakers) | N/A |
-| 29 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 30 | [Go FDU](http://twitter.com/search?q=Go+FDU) | N/A |
-| 31 | [Congrats FDU](http://twitter.com/search?q=Congrats+FDU) | N/A |
-| 32 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
-| 33 | [West Lafayette](http://twitter.com/search?q=West+Lafayette) | N/A |
-| 34 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 35 | [St. Peter](http://twitter.com/search?q=St.+Peter) | N/A |
-| 36 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 37 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 38 | [Salina](http://twitter.com/search?q=Salina) | N/A |
-| 39 | [16 FDU](http://twitter.com/search?q=16+FDU) | N/A |
-| 40 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
-| 41 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 42 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 43 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
-| 44 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 45 | [Goliath](http://twitter.com/search?q=Goliath) | N/A |
-| 46 | [The FDU](http://twitter.com/search?q=The+FDU) | N/A |
-| 47 | [No. 16](http://twitter.com/search?q=No.+16) | N/A |
-| 48 | [FDU Knights](http://twitter.com/search?q=FDU+Knights) | N/A |
-| 49 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
-| 50 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 8 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 9 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 10 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 11 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
+| 12 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
+| 13 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
+| 14 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 15 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
+| 16 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
+| 17 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 18 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 19 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 20 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
+| 21 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 22 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 23 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
+| 24 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 25 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 26 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 27 | [Fairly Ridiculous](http://twitter.com/search?q=Fairly+Ridiculous) | N/A |
+| 28 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 29 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 30 | [Rusical](http://twitter.com/search?q=Rusical) | N/A |
+| 31 | [Boilermakers](http://twitter.com/search?q=Boilermakers) | N/A |
+| 32 | [West Lafayette](http://twitter.com/search?q=West+Lafayette) | N/A |
+| 33 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 34 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 35 | [Fair Dick](http://twitter.com/search?q=Fair+Dick) | N/A |
+| 36 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
+| 37 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 38 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 39 | [St. Peter](http://twitter.com/search?q=St.+Peter) | N/A |
+| 40 | [Sean Moore](http://twitter.com/search?q=Sean+Moore) | N/A |
+| 41 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 42 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 43 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 44 | [Congrats FDU](http://twitter.com/search?q=Congrats+FDU) | N/A |
+| 45 | [Go FDU](http://twitter.com/search?q=Go+FDU) | N/A |
+| 46 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
+| 47 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 48 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 49 | [16 FDU](http://twitter.com/search?q=16+FDU) | N/A |
+| 50 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
 
 
 

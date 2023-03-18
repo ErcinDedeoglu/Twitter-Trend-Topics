@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-18 01:43:54 UTC`
+📆 Last Updated: `2023-03-18 02:33:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 2 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 3 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 4 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 5 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 6 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 7 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 1 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 2 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 3 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 4 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 5 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
+| 6 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 7 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 10 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 11 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
-| 12 | [#CAIGPT](http://twitter.com/search?q=%23CAIGPT) | N/A |
-| 13 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
-| 14 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
-| 15 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
-| 16 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 17 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 18 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 19 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
-| 20 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 21 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 22 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
-| 23 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 24 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 25 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
-| 26 | [Rusical](http://twitter.com/search?q=Rusical) | N/A |
-| 27 | [Fairly Ridiculous](http://twitter.com/search?q=Fairly+Ridiculous) | N/A |
-| 28 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 29 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 30 | [Sean Moore](http://twitter.com/search?q=Sean+Moore) | N/A |
-| 31 | [Boilermakers](http://twitter.com/search?q=Boilermakers) | N/A |
-| 32 | [Fair Dick](http://twitter.com/search?q=Fair+Dick) | N/A |
-| 33 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 34 | [Go FDU](http://twitter.com/search?q=Go+FDU) | N/A |
-| 35 | [Congrats FDU](http://twitter.com/search?q=Congrats+FDU) | N/A |
-| 36 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
-| 37 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 38 | [West Lafayette](http://twitter.com/search?q=West+Lafayette) | N/A |
-| 39 | [St. Peter](http://twitter.com/search?q=St.+Peter) | N/A |
-| 40 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 41 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 42 | [Salina](http://twitter.com/search?q=Salina) | N/A |
-| 43 | [16 FDU](http://twitter.com/search?q=16+FDU) | N/A |
-| 44 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
-| 45 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 46 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 47 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
-| 48 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 49 | [Goliath](http://twitter.com/search?q=Goliath) | N/A |
+| 9 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 11 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 12 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 13 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 14 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 15 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
+| 16 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 17 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
+| 18 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
+| 19 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 20 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
+| 21 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 22 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 23 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 24 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
+| 25 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 26 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
+| 27 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 28 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 29 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 30 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 31 | [Fairly Ridiculous](http://twitter.com/search?q=Fairly+Ridiculous) | N/A |
+| 32 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 33 | [Rusical](http://twitter.com/search?q=Rusical) | N/A |
+| 34 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 35 | [Boilermakers](http://twitter.com/search?q=Boilermakers) | N/A |
+| 36 | [West Lafayette](http://twitter.com/search?q=West+Lafayette) | N/A |
+| 37 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 38 | [Fair Dick](http://twitter.com/search?q=Fair+Dick) | N/A |
+| 39 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
+| 40 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 41 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 42 | [St. Peter](http://twitter.com/search?q=St.+Peter) | N/A |
+| 43 | [Go FDU](http://twitter.com/search?q=Go+FDU) | N/A |
+| 44 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 45 | [Sean Moore](http://twitter.com/search?q=Sean+Moore) | N/A |
+| 46 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 47 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 48 | [Congrats FDU](http://twitter.com/search?q=Congrats+FDU) | N/A |
+| 49 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
 
 
 

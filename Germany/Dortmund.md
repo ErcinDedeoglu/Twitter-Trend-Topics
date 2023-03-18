@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-18 01:43:23 UTC`
+📆 Last Updated: `2023-03-18 02:33:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [Germany](</Germany>)
 | 8 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
 | 9 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 | 10 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 11 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 12 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 11 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 12 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
 | 13 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 14 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
 | 15 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 16 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 17 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 18 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 16 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 17 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 18 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
 | 19 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 20 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 21 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 22 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
-| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 24 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 25 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 26 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 27 | [Younes](http://twitter.com/search?q=Younes) | N/A |
-| 28 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 29 | [Malika](http://twitter.com/search?q=Malika) | N/A |
-| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 31 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
+| 20 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 21 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
+| 22 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 23 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 28 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
+| 29 | [Vagnoman](http://twitter.com/search?q=Vagnoman) | N/A |
+| 30 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 31 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
 | 32 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 33 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 34 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 35 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 36 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
-| 37 | [umstyling](http://twitter.com/search?q=umstyling) | N/A |
-| 38 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
-| 39 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 40 | [IStGH](http://twitter.com/search?q=IStGH) | N/A |
-| 41 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
-| 42 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 43 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 44 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 45 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 46 | ['Frühling'](http://twitter.com/search?q=%27Fr%c3%bchling%27) | N/A |
-| 47 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 48 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
-| 49 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 33 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
+| 34 | [IStGH](http://twitter.com/search?q=IStGH) | N/A |
+| 35 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 36 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
+| 37 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 38 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 39 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 40 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 41 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 42 | [Arbeiterkind](http://twitter.com/search?q=Arbeiterkind) | N/A |
+| 43 | ['frühling'](http://twitter.com/search?q=%27fr%c3%bchling%27) | N/A |
+| 44 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 45 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 46 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
+| 47 | [hansa](http://twitter.com/search?q=hansa) | N/A |
+| 48 | [Häuptling](http://twitter.com/search?q=H%c3%a4uptling) | N/A |
+| 49 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
 
 
 
