@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-18 13:19:24 UTC`
+📆 Last Updated: `2023-03-18 14:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ReLis](http://twitter.com/search?q=ReLis) | N/A |
+| 1 | [RELIS](http://twitter.com/search?q=RELIS) | N/A |
 | 2 | [#JINAN_RESOLVED](http://twitter.com/search?q=%23JINAN_RESOLVED) | N/A |
-| 3 | [#MalingBLBI](http://twitter.com/search?q=%23MalingBLBI) | N/A |
-| 4 | [Rehan](http://twitter.com/search?q=Rehan) | N/A |
-| 5 | [#PRUNGGUSMUHAIMIN](http://twitter.com/search?q=%23PRUNGGUSMUHAIMIN) | N/A |
-| 6 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
-| 7 | [#JabarNgahiji](http://twitter.com/search?q=%23JabarNgahiji) | N/A |
+| 3 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 4 | [#PRUNGGUSMUHAIMIN](http://twitter.com/search?q=%23PRUNGGUSMUHAIMIN) | N/A |
+| 5 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
+| 6 | [#bwscomehome](http://twitter.com/search?q=%23bwscomehome) | N/A |
+| 7 | [#PKBKahiji](http://twitter.com/search?q=%23PKBKahiji) | N/A |
 | 8 | [momo](http://twitter.com/search?q=momo) | N/A |
-| 9 | [YukGabung Kerenin Indonesia](http://twitter.com/search?q=YukGabung+Kerenin+Indonesia) | N/A |
-| 10 | [Serunya MilenialGenZ Prabowo](http://twitter.com/search?q=Serunya+MilenialGenZ+Prabowo) | N/A |
-| 11 | [ngobrolin urusangue dibandung](http://twitter.com/search?q=ngobrolin+urusangue+dibandung) | N/A |
-| 12 | [Siwei](http://twitter.com/search?q=Siwei) | N/A |
-| 13 | [Yaqiong](http://twitter.com/search?q=Yaqiong) | N/A |
+| 9 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 10 | [siwei](http://twitter.com/search?q=siwei) | N/A |
+| 11 | [Yaqiong](http://twitter.com/search?q=Yaqiong) | N/A |
+| 12 | [Happy Graduation](http://twitter.com/search?q=Happy+Graduation) | N/A |
+| 13 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
 | 14 | [YaSi](http://twitter.com/search?q=YaSi) | N/A |
-| 15 | [Happy Graduation](http://twitter.com/search?q=Happy+Graduation) | N/A |
-| 16 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 17 | [hendi prio santoso](http://twitter.com/search?q=hendi+prio+santoso) | N/A |
-| 18 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 19 | [WHAT A RALLY](http://twitter.com/search?q=WHAT+A+RALLY) | N/A |
-| 20 | [Akane](http://twitter.com/search?q=Akane) | N/A |
-| 21 | [WR 1](http://twitter.com/search?q=WR+1) | N/A |
-| 22 | [Penipuan](http://twitter.com/search?q=Penipuan) | N/A |
-| 23 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
-| 24 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 25 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 26 | [CHOI SAN](http://twitter.com/search?q=CHOI+SAN) | N/A |
-| 27 | [Adeknya](http://twitter.com/search?q=Adeknya) | N/A |
-| 28 | [WHAT A MATCH](http://twitter.com/search?q=WHAT+A+MATCH) | N/A |
-| 29 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 30 | [Inka](http://twitter.com/search?q=Inka) | N/A |
-| 31 | [Bakauheni Harbour City](http://twitter.com/search?q=Bakauheni+Harbour+City) | N/A |
-| 32 | [JUNGWOO](http://twitter.com/search?q=JUNGWOO) | JUNGWOO is a Korean name that means "righteous and noble". |
-| 33 | [FEARNADA with LE SSERAFIM](http://twitter.com/search?q=FEARNADA+with+LE+SSERAFIM) | N/A |
-| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 35 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
-| 36 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
-| 37 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 38 | [Street Kidz](http://twitter.com/search?q=Street+Kidz) | N/A |
-| 39 | [have fun](http://twitter.com/search?q=have+fun) | N/A |
-| 40 | [Boti](http://twitter.com/search?q=Boti) | N/A |
-| 41 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 42 | [Nusantara](http://twitter.com/search?q=Nusantara) | N/A |
-| 43 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 44 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
-| 45 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 46 | [Taurus](http://twitter.com/search?q=Taurus) | N/A |
-| 47 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 48 | [Bencong](http://twitter.com/search?q=Bencong) | N/A |
-| 49 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
+| 15 | [Akane](http://twitter.com/search?q=Akane) | N/A |
+| 16 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 17 | [what a rally](http://twitter.com/search?q=what+a+rally) | N/A |
+| 18 | [WR 1](http://twitter.com/search?q=WR+1) | N/A |
+| 19 | [Penipuan](http://twitter.com/search?q=Penipuan) | N/A |
+| 20 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 21 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
+| 22 | [Wang Chang](http://twitter.com/search?q=Wang+Chang) | N/A |
+| 23 | [Adeknya](http://twitter.com/search?q=Adeknya) | N/A |
+| 24 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 25 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 26 | [WHAT A MATCH](http://twitter.com/search?q=WHAT+A+MATCH) | N/A |
+| 27 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
+| 28 | [Inka](http://twitter.com/search?q=Inka) | N/A |
+| 29 | [BTOB SEMINAR AT MELODY COMPANY](http://twitter.com/search?q=BTOB+SEMINAR+AT+MELODY+COMPANY) | N/A |
+| 30 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
+| 31 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 32 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 33 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 34 | [Street Kidz](http://twitter.com/search?q=Street+Kidz) | N/A |
+| 35 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 36 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 37 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 38 | [Bencong](http://twitter.com/search?q=Bencong) | N/A |
+| 39 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
+| 40 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
+| 41 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
+| 42 | [#BiroJomblo](http://twitter.com/search?q=%23BiroJomblo) | N/A |
+| 43 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
+| 44 | [#PaintTheTownxJEFF](http://twitter.com/search?q=%23PaintTheTownxJEFF) | N/A |
+| 45 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
+| 46 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
+| 47 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
+| 48 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
+| 49 | [#UN1TYDreamersFestival](http://twitter.com/search?q=%23UN1TYDreamersFestival) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-18 13:19:20 UTC`
+📆 Last Updated: `2023-03-18 14:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 2 | [#KhalidenSophie](http://twitter.com/search?q=%23KhalidenSophie) | N/A |
 | 3 | [#verkiezingsuitslagen](http://twitter.com/search?q=%23verkiezingsuitslagen) | N/A |
 | 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [#stapbudget](http://twitter.com/search?q=%23stapbudget) | N/A |
-| 6 | [Neelie Kroes](http://twitter.com/search?q=Neelie+Kroes) | N/A |
+| 5 | [Teeven](http://twitter.com/search?q=Teeven) | N/A |
+| 6 | [#stapbudget](http://twitter.com/search?q=%23stapbudget) | N/A |
 | 7 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 8 | [Adri Duivesteijn](http://twitter.com/search?q=Adri+Duivesteijn) | N/A |
-| 9 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 10 | [carpaccio](http://twitter.com/search?q=carpaccio) | N/A |
-| 11 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 12 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 13 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 14 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 15 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 16 | [Frits Barend](http://twitter.com/search?q=Frits+Barend) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Internationaal Strafhof](http://twitter.com/search?q=Internationaal+Strafhof) | N/A |
-| 19 | [Melkert](http://twitter.com/search?q=Melkert) | N/A |
-| 20 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 21 | [Lager](http://twitter.com/search?q=Lager) | N/A |
-| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 23 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 24 | [Boekestijn](http://twitter.com/search?q=Boekestijn) | N/A |
-| 25 | [cda-leider hoekstra](http://twitter.com/search?q=cda-leider+hoekstra) | N/A |
-| 26 | [karolien](http://twitter.com/search?q=karolien) | N/A |
-| 27 | [momo](http://twitter.com/search?q=momo) | N/A |
-| 28 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 29 | [Beatrijs Ritsema](http://twitter.com/search?q=Beatrijs+Ritsema) | N/A |
-| 30 | [fout in rotterdams](http://twitter.com/search?q=fout+in+rotterdams) | N/A |
-| 31 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 32 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 33 | [Diva](http://twitter.com/search?q=Diva) | N/A |
-| 34 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
-| 35 | [BBB-kiezer](http://twitter.com/search?q=BBB-kiezer) | N/A |
-| 36 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 37 | [Wijsheid](http://twitter.com/search?q=Wijsheid) | N/A |
-| 38 | [van der wal](http://twitter.com/search?q=van+der+wal) | N/A |
-| 39 | [Fred Teeven](http://twitter.com/search?q=Fred+Teeven) | N/A |
-| 40 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 41 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 42 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 43 | [Antarctica](http://twitter.com/search?q=Antarctica) | N/A |
+| 8 | [Neelie Kroes](http://twitter.com/search?q=Neelie+Kroes) | N/A |
+| 9 | [Adri Duivesteijn](http://twitter.com/search?q=Adri+Duivesteijn) | N/A |
+| 10 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 11 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 12 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 13 | [Carpaccio](http://twitter.com/search?q=Carpaccio) | N/A |
+| 14 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 15 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 16 | [frits barend](http://twitter.com/search?q=frits+barend) | N/A |
+| 17 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 21 | [Melkert](http://twitter.com/search?q=Melkert) | N/A |
+| 22 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 23 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 24 | [Lager](http://twitter.com/search?q=Lager) | N/A |
+| 25 | [Internationaal Strafhof](http://twitter.com/search?q=Internationaal+Strafhof) | N/A |
+| 26 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 28 | [BBB-kiezer](http://twitter.com/search?q=BBB-kiezer) | N/A |
+| 29 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 30 | [Diva](http://twitter.com/search?q=Diva) | N/A |
+| 31 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 32 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 33 | [Beatrijs Ritsema](http://twitter.com/search?q=Beatrijs+Ritsema) | N/A |
+| 34 | [Boekestijn](http://twitter.com/search?q=Boekestijn) | N/A |
+| 35 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 36 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 37 | [van der wal](http://twitter.com/search?q=van+der+wal) | N/A |
+| 38 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 39 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 40 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 41 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
+| 42 | [antarctica](http://twitter.com/search?q=antarctica) | N/A |
+| 43 | [Canon](http://twitter.com/search?q=Canon) | N/A |
 | 44 | [Asha](http://twitter.com/search?q=Asha) | N/A |
-| 45 | [amsterdammers](http://twitter.com/search?q=amsterdammers) | N/A |
-| 46 | [Canon](http://twitter.com/search?q=Canon) | N/A |
-| 47 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 48 | [geertruida](http://twitter.com/search?q=geertruida) | N/A |
-| 49 | [Yoeri](http://twitter.com/search?q=Yoeri) | N/A |
+| 45 | [Yoeri](http://twitter.com/search?q=Yoeri) | N/A |
+| 46 | [Volkskrant](http://twitter.com/search?q=Volkskrant) | N/A |
+| 47 | [De BBB](http://twitter.com/search?q=De+BBB) | N/A |
+| 48 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 49 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
 
 
 

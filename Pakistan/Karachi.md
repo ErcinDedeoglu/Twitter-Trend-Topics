@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-18 13:19:43 UTC`
+📆 Last Updated: `2023-03-18 14:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#چلو_چلو_اسلام_آباد_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af_%da%86%d9%84%d9%88) | N/A |
-| 2 | [#ZamanPark_under_attack](http://twitter.com/search?q=%23ZamanPark_under_attack) | N/A |
-| 3 | [#جب_سب_مٹ_جائےگا_تب_نکلوگے](http://twitter.com/search?q=%23%d8%ac%d8%a8_%d8%b3%d8%a8_%d9%85%d9%b9_%d8%ac%d8%a7%d8%a6%db%92%da%af%d8%a7_%d8%aa%d8%a8_%d9%86%da%a9%d9%84%d9%88%da%af%db%92) | N/A |
-| 4 | [#چلو_چلو_عمران_کے_ساتھ](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%da%a9%db%92_%d8%b3%d8%a7%d8%aa%da%be) | N/A |
+| 1 | [#ZamanPark_under_attack](http://twitter.com/search?q=%23ZamanPark_under_attack) | N/A |
+| 2 | [#چلو_چلو_اسلام_آباد_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af_%da%86%d9%84%d9%88) | N/A |
+| 3 | [#PMRamzanPackage](http://twitter.com/search?q=%23PMRamzanPackage) | N/A |
+| 4 | [#جب_سب_مٹ_جائےگا_تب_نکلوگے](http://twitter.com/search?q=%23%d8%ac%d8%a8_%d8%b3%d8%a8_%d9%85%d9%b9_%d8%ac%d8%a7%d8%a6%db%92%da%af%d8%a7_%d8%aa%d8%a8_%d9%86%da%a9%d9%84%d9%88%da%af%db%92) | N/A |
 | 5 | [#ChiefJusticeOfPakistan](http://twitter.com/search?q=%23ChiefJusticeOfPakistan) | N/A |
-| 6 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 7 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
-| 8 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 9 | [G-11](http://twitter.com/search?q=G-11) | N/A |
-| 10 | [PEMRA](http://twitter.com/search?q=PEMRA) | N/A |
-| 11 | [Shibli Faraz](http://twitter.com/search?q=Shibli+Faraz) | N/A |
-| 12 | [mian yasin](http://twitter.com/search?q=mian+yasin) | N/A |
+| 6 | [PEMRA](http://twitter.com/search?q=PEMRA) | N/A |
+| 7 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 8 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
+| 11 | [Judicial Complex](http://twitter.com/search?q=Judicial+Complex) | N/A |
+| 12 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
 | 13 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
-| 14 | [Salman Irshad](http://twitter.com/search?q=Salman+Irshad) | N/A |
-| 15 | [Tough](http://twitter.com/search?q=Tough) | N/A |
-| 16 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 17 | [Jati Umrah](http://twitter.com/search?q=Jati+Umrah) | N/A |
-| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 19 | [Tahir baig](http://twitter.com/search?q=Tahir+baig) | N/A |
-| 20 | [Murree Brewery](http://twitter.com/search?q=Murree+Brewery) | N/A |
-| 21 | [Amir Jamal](http://twitter.com/search?q=Amir+Jamal) | N/A |
-| 22 | [Planted](http://twitter.com/search?q=Planted) | N/A |
-| 23 | [Petrol](http://twitter.com/search?q=Petrol) | N/A |
-| 24 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
-| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 26 | [Dairy Milk](http://twitter.com/search?q=Dairy+Milk) | N/A |
-| 27 | [KitKat](http://twitter.com/search?q=KitKat) | N/A |
-| 28 | [Bilawal House](http://twitter.com/search?q=Bilawal+House) | N/A |
-| 29 | [Muneeb](http://twitter.com/search?q=Muneeb) | N/A |
-| 30 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
-| 31 | [mansoor](http://twitter.com/search?q=mansoor) | N/A |
-| 32 | [Faisalabad](http://twitter.com/search?q=Faisalabad) | N/A |
-| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 34 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 35 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 36 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 37 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
-| 38 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 39 | [Where is IK](http://twitter.com/search?q=Where+is+IK) | N/A |
-| 40 | [Tery](http://twitter.com/search?q=Tery) | N/A |
-| 41 | [Bani Gala](http://twitter.com/search?q=Bani+Gala) | N/A |
-| 42 | [Now or Never](http://twitter.com/search?q=Now+or+Never) | N/A |
-| 43 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 44 | [Honey](http://twitter.com/search?q=Honey) | N/A |
-| 45 | [Hinda](http://twitter.com/search?q=Hinda) | N/A |
-| 46 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 47 | [London](http://twitter.com/search?q=London) | N/A |
-| 48 | [IK and PTI](http://twitter.com/search?q=IK+and+PTI) | N/A |
-| 49 | [Ghar](http://twitter.com/search?q=Ghar) | N/A |
-| 50 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 14 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 15 | [IG Punjab](http://twitter.com/search?q=IG+Punjab) | N/A |
+| 16 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 17 | [G-11](http://twitter.com/search?q=G-11) | N/A |
+| 18 | [Khan Sahab](http://twitter.com/search?q=Khan+Sahab) | N/A |
+| 19 | [#تم_ہٹاؤ_ہم_لائینگے_عمران](http://twitter.com/search?q=%23%d8%aa%d9%85_%db%81%d9%b9%d8%a7%d8%a4_%db%81%d9%85_%d9%84%d8%a7%d8%a6%db%8c%d9%86%da%af%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 20 | [#دہشت_گرد_فتنہ_گرفتار_کرو](http://twitter.com/search?q=%23%d8%af%db%81%d8%b4%d8%aa_%da%af%d8%b1%d8%af_%d9%81%d8%aa%d9%86%db%81_%da%af%d8%b1%d9%81%d8%aa%d8%a7%d8%b1_%da%a9%d8%b1%d9%88) | N/A |
+| 21 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
+| 22 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
+| 23 | [#بول_کوبولنےدو](http://twitter.com/search?q=%23%d8%a8%d9%88%d9%84_%da%a9%d9%88%d8%a8%d9%88%d9%84%d9%86%db%92%d8%af%d9%88) | N/A |
+| 24 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
+| 25 | [#PakistanUnderFasicsm](http://twitter.com/search?q=%23PakistanUnderFasicsm) | N/A |
+| 26 | [#KarachiStandsWithMQMP](http://twitter.com/search?q=%23KarachiStandsWithMQMP) | N/A |
+| 27 | [#چیف_جسٹس_جاگ_جاؤ](http://twitter.com/search?q=%23%da%86%db%8c%d9%81_%d8%ac%d8%b3%d9%b9%d8%b3_%d8%ac%d8%a7%da%af_%d8%ac%d8%a7%d8%a4) | N/A |
+| 28 | [#TarazuEmpowersWomen](http://twitter.com/search?q=%23TarazuEmpowersWomen) | N/A |
+| 29 | [#Islamabad](http://twitter.com/search?q=%23Islamabad) | Islamabad is the capital city of Pakistan. It is located in the Pothohar Plateau in the north of the country, within the Islamabad Capital Territory. The name Islamabad is derived from two words, Islam and abad, meaning "City of Islam". |
+| 30 | [#PSLFinal](http://twitter.com/search?q=%23PSLFinal) | N/A |
+| 31 | [#عمران_خان_کی_جان_کو_خطرہ](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%da%a9%db%8c_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%ae%d8%b7%d8%b1%db%81) | N/A |
+| 32 | [#ریاست_یا_عمران](http://twitter.com/search?q=%23%d8%b1%db%8c%d8%a7%d8%b3%d8%aa_%db%8c%d8%a7_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 33 | [#زمان_پارک](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9) | N/A |
+| 34 | [#شہداکاخون_عمران_کےسر](http://twitter.com/search?q=%23%d8%b4%db%81%d8%af%d8%a7%da%a9%d8%a7%d8%ae%d9%88%d9%86_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%da%a9%db%92%d8%b3%d8%b1) | N/A |
+| 35 | [#BanPTI](http://twitter.com/search?q=%23BanPTI) | N/A |
+| 36 | [#SupremeCourtOfPakistan](http://twitter.com/search?q=%23SupremeCourtOfPakistan) | N/A |
+| 37 | [#BagheJinnahPohncho](http://twitter.com/search?q=%23BagheJinnahPohncho) | N/A |
 
 
 

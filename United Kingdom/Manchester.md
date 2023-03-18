@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-03-18 13:19:02 UTC`
+📆 Last Updated: `2023-03-18 14:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
-| 2 | [#ldconf](http://twitter.com/search?q=%23ldconf) | N/A |
-| 3 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 4 | [#LW2023](http://twitter.com/search?q=%23LW2023) | N/A |
-| 5 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 7 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 8 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 9 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 10 | [#ToryCriminals](http://twitter.com/search?q=%23ToryCriminals) | N/A |
-| 11 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
-| 12 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 13 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
-| 14 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 15 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 16 | [Liam Kelly](http://twitter.com/search?q=Liam+Kelly) | N/A |
-| 17 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
-| 18 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 19 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 20 | [Flower of Scotland](http://twitter.com/search?q=Flower+of+Scotland) | N/A |
-| 21 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
-| 22 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 23 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 24 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 25 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
-| 26 | [Fir Park](http://twitter.com/search?q=Fir+Park) | N/A |
-| 27 | [RIP Craig](http://twitter.com/search?q=RIP+Craig) | N/A |
-| 28 | [momo](http://twitter.com/search?q=momo) | N/A |
-| 29 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 30 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 31 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
-| 32 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 33 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 34 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 35 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 36 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 37 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 38 | [Andrew Mitchell](http://twitter.com/search?q=Andrew+Mitchell) | N/A |
-| 39 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 40 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 41 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 42 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 43 | [Guardian and BBC](http://twitter.com/search?q=Guardian+and+BBC) | N/A |
-| 44 | [Andrew Bridgen](http://twitter.com/search?q=Andrew+Bridgen) | Andrew Bridgen is a British Conservative Party politician who has been the Member of Parliament (MP) for North West Leicestershire since 2010. He is a prominent Brexiteer and has been an outspoken critic of the European Union. |
-| 45 | [Texan](http://twitter.com/search?q=Texan) | N/A |
-| 46 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 47 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 48 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
-| 49 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
+| 1 | [#bbcaq](http://twitter.com/search?q=%23bbcaq) | N/A |
+| 2 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 3 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 4 | [#LDConf](http://twitter.com/search?q=%23LDConf) | N/A |
+| 5 | [Daily Quordle 418](http://twitter.com/search?q=Daily+Quordle+418) | N/A |
+| 6 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 7 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
+| 8 | [#LW2023](http://twitter.com/search?q=%23LW2023) | N/A |
+| 9 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 11 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 12 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 13 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 14 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 15 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
+| 16 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
+| 17 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 18 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 19 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
+| 20 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 21 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 22 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 23 | [Cantwell](http://twitter.com/search?q=Cantwell) | N/A |
+| 24 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 25 | [Liam Kelly](http://twitter.com/search?q=Liam+Kelly) | N/A |
+| 26 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 27 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
+| 28 | [Lundstram](http://twitter.com/search?q=Lundstram) | N/A |
+| 29 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 30 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
+| 31 | [Tavernier](http://twitter.com/search?q=Tavernier) | Tavernier is a French surname derived from the Old French word tavernier, meaning "innkeeper". It is also an occupational name for someone who owned or ran an inn or tavern. |
+| 32 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 33 | [Fir Park](http://twitter.com/search?q=Fir+Park) | N/A |
+| 34 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 35 | [Ryan Kent](http://twitter.com/search?q=Ryan+Kent) | Ryan Kent is a name of English origin. It is derived from the Old English given name "Rigani" which means "kingly". The name Ryan is also associated with the Irish surname "O'Ceann" which means "descendant of Ceann". |
+| 36 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 37 | [Flower of Scotland](http://twitter.com/search?q=Flower+of+Scotland) | N/A |
+| 38 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 39 | [Super Saturday](http://twitter.com/search?q=Super+Saturday) | N/A |
+| 40 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
+| 41 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
+| 42 | [yilmaz](http://twitter.com/search?q=yilmaz) | N/A |
+| 43 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 44 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 45 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 46 | [Kinghorn](http://twitter.com/search?q=Kinghorn) | N/A |
+| 47 | [Andrew Mitchell](http://twitter.com/search?q=Andrew+Mitchell) | N/A |
+| 48 | [RIP Craig](http://twitter.com/search?q=RIP+Craig) | N/A |
+| 49 | [Scotland v Italy](http://twitter.com/search?q=Scotland+v+Italy) | N/A |
 
 
 

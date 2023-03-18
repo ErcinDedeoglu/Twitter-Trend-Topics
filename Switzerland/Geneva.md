@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-18 13:19:22 UTC`
+📆 Last Updated: `2023-03-18 14:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
 | 3 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
 | 4 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 5 | [#ucldraw](http://twitter.com/search?q=%23ucldraw) | N/A |
+| 5 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
 | 6 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 7 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 8 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 9 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 10 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 11 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 12 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 10 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 11 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 12 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
 | 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 14 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
 | 15 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 16 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 17 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 18 | [Finma](http://twitter.com/search?q=Finma) | N/A |
-| 19 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 16 | [finma](http://twitter.com/search?q=finma) | N/A |
+| 17 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 18 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 19 | [Argument](http://twitter.com/search?q=Argument) | N/A |
 | 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 21 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 21 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
 | 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 23 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 24 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 25 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 26 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 23 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 24 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 25 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 26 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
 | 27 | [Borne](http://twitter.com/search?q=Borne) | N/A |
 | 28 | [Krise](http://twitter.com/search?q=Krise) | N/A |
 | 29 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 30 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 31 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 32 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 33 | [Bürokratie](http://twitter.com/search?q=B%c3%bcrokratie) | N/A |
-| 34 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 35 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 36 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 38 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 39 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 30 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 31 | [Taten](http://twitter.com/search?q=Taten) | N/A |
+| 32 | [Bürokratie](http://twitter.com/search?q=B%c3%bcrokratie) | N/A |
+| 33 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 34 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
+| 35 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 36 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 37 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 38 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 39 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
 | 40 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 41 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 43 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
-| 44 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
-| 45 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 46 | [Sozialismus](http://twitter.com/search?q=Sozialismus) | N/A |
-| 47 | [chinesen](http://twitter.com/search?q=chinesen) | N/A |
-| 48 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
+| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 42 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 43 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 44 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 45 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 46 | [gemeinde](http://twitter.com/search?q=gemeinde) | N/A |
+| 47 | [Sozialismus](http://twitter.com/search?q=Sozialismus) | N/A |
+| 48 | [dido](http://twitter.com/search?q=dido) | N/A |
 
 
 

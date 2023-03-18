@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-18 13:19:16 UTC`
+📆 Last Updated: `2023-03-18 14:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 2 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 3 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
-| 4 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
-| 5 | [#Palmashow](http://twitter.com/search?q=%23Palmashow) | N/A |
-| 6 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
-| 7 | [Concorde](http://twitter.com/search?q=Concorde) | N/A |
-| 8 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 9 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 10 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
-| 11 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 12 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 13 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 14 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 15 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 16 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 17 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 18 | [Louis XVI](http://twitter.com/search?q=Louis+XVI) | N/A |
-| 19 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 20 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 21 | [Bayrou](http://twitter.com/search?q=Bayrou) | N/A |
-| 22 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 23 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [Garen](http://twitter.com/search?q=Garen) | N/A |
-| 26 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 27 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 28 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 29 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 30 | [Courson](http://twitter.com/search?q=Courson) | N/A |
-| 31 | [Commune](http://twitter.com/search?q=Commune) | N/A |
-| 32 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 33 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 34 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 35 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 36 | [Godku](http://twitter.com/search?q=Godku) | N/A |
-| 37 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
-| 38 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 39 | [Michel Debré](http://twitter.com/search?q=Michel+Debr%c3%a9) | N/A |
-| 40 | [Gabrielle](http://twitter.com/search?q=Gabrielle) | N/A |
-| 41 | [3h15](http://twitter.com/search?q=3h15) | N/A |
-| 42 | [Johannes Boe](http://twitter.com/search?q=Johannes+Boe) | N/A |
-| 43 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 44 | [Copé](http://twitter.com/search?q=Cop%c3%a9) | N/A |
-| 45 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
-| 46 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 47 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 48 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 49 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 50 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 1 | [#FRAPDG](http://twitter.com/search?q=%23FRAPDG) | N/A |
+| 2 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 3 | [François](http://twitter.com/search?q=Fran%c3%a7ois) | N/A |
+| 4 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 5 | [#beINLIGUE2](http://twitter.com/search?q=%23beINLIGUE2) | N/A |
+| 6 | [#HACASSE](http://twitter.com/search?q=%23HACASSE) | N/A |
+| 7 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
+| 8 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
+| 9 | [Garen](http://twitter.com/search?q=Garen) | N/A |
+| 10 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 11 | [Halles](http://twitter.com/search?q=Halles) | N/A |
+| 12 | [Godku](http://twitter.com/search?q=Godku) | N/A |
+| 13 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
+| 14 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 15 | [Commune](http://twitter.com/search?q=Commune) | N/A |
+| 16 | [Nicolas Mathieu](http://twitter.com/search?q=Nicolas+Mathieu) | N/A |
+| 17 | [Michel Debré](http://twitter.com/search?q=Michel+Debr%c3%a9) | N/A |
+| 18 | [Bayrou](http://twitter.com/search?q=Bayrou) | N/A |
+| 19 | [3h15](http://twitter.com/search?q=3h15) | N/A |
+| 20 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 21 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 22 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
+| 23 | [le 18](http://twitter.com/search?q=le+18) | N/A |
+| 24 | [modem](http://twitter.com/search?q=modem) | N/A |
+| 25 | [imaginez](http://twitter.com/search?q=imaginez) | N/A |
+| 26 | [Valls](http://twitter.com/search?q=Valls) | N/A |
+| 27 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 28 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 29 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 30 | [Samedi 18](http://twitter.com/search?q=Samedi+18) | N/A |
+| 31 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
+| 32 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 33 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 34 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 35 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
+| 36 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
+| 37 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
+| 38 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
+| 39 | [#myheroacademia](http://twitter.com/search?q=%23myheroacademia) | N/A |
+| 40 | [#TFCLOSC](http://twitter.com/search?q=%23TFCLOSC) | N/A |
+| 41 | [#FRAvWAL](http://twitter.com/search?q=%23FRAvWAL) | N/A |
+| 42 | [#18mars](http://twitter.com/search?q=%2318mars) | N/A |
+| 43 | [#ParionsSportAvecLeXV](http://twitter.com/search?q=%23ParionsSportAvecLeXV) | N/A |
+| 44 | [#Milansanremo](http://twitter.com/search?q=%23Milansanremo) | N/A |
+| 45 | [#DokkanBattle](http://twitter.com/search?q=%23DokkanBattle) | N/A |
+| 46 | [#RCLSCO](http://twitter.com/search?q=%23RCLSCO) | N/A |
+| 47 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 48 | [#saccageaparis](http://twitter.com/search?q=%23saccageaparis) | N/A |
+| 49 | [#GiletsJaunes](http://twitter.com/search?q=%23GiletsJaunes) | N/A |
+| 50 | [#recyclage](http://twitter.com/search?q=%23recyclage) | N/A |
 
 
 

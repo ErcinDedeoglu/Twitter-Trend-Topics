@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-18 13:20:03 UTC`
+📆 Last Updated: `2023-03-18 14:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ReLis](http://twitter.com/search?q=ReLis) | N/A |
-| 2 | [#JINAN_RESOLVED](http://twitter.com/search?q=%23JINAN_RESOLVED) | N/A |
-| 3 | [#MalingBLBI](http://twitter.com/search?q=%23MalingBLBI) | N/A |
-| 4 | [Rehan](http://twitter.com/search?q=Rehan) | N/A |
-| 5 | [#PRUNGGUSMUHAIMIN](http://twitter.com/search?q=%23PRUNGGUSMUHAIMIN) | N/A |
-| 6 | [#JabarNgahiji](http://twitter.com/search?q=%23JabarNgahiji) | N/A |
-| 7 | [momo](http://twitter.com/search?q=momo) | N/A |
-| 8 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
-| 9 | [YukGabung Kerenin Indonesia](http://twitter.com/search?q=YukGabung+Kerenin+Indonesia) | N/A |
-| 10 | [Serunya MilenialGenZ Prabowo](http://twitter.com/search?q=Serunya+MilenialGenZ+Prabowo) | N/A |
-| 11 | [ngobrolin urusangue dibandung](http://twitter.com/search?q=ngobrolin+urusangue+dibandung) | N/A |
-| 12 | [Siwei](http://twitter.com/search?q=Siwei) | N/A |
+| 1 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
+| 2 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
+| 3 | [#사쿠라_아름답게_피어나다](http://twitter.com/search?q=%23%ec%82%ac%ec%bf%a0%eb%9d%bc_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b2%8c_%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4) | N/A |
+| 4 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
+| 5 | [#JINAN_RESOLVED](http://twitter.com/search?q=%23JINAN_RESOLVED) | N/A |
+| 6 | [ReLis](http://twitter.com/search?q=ReLis) | N/A |
+| 7 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 8 | [#PRUNGGUSMUHAIMIN](http://twitter.com/search?q=%23PRUNGGUSMUHAIMIN) | N/A |
+| 9 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 10 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 11 | [Jantung](http://twitter.com/search?q=Jantung) | N/A |
+| 12 | [Happy Graduation](http://twitter.com/search?q=Happy+Graduation) | N/A |
 | 13 | [Yaqiong](http://twitter.com/search?q=Yaqiong) | N/A |
 | 14 | [YaSi](http://twitter.com/search?q=YaSi) | N/A |
-| 15 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 16 | [Happy Graduation](http://twitter.com/search?q=Happy+Graduation) | N/A |
-| 17 | [Akane](http://twitter.com/search?q=Akane) | N/A |
-| 18 | [hendi prio santoso](http://twitter.com/search?q=hendi+prio+santoso) | N/A |
-| 19 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 20 | [WHAT A RALLY](http://twitter.com/search?q=WHAT+A+RALLY) | N/A |
+| 15 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 16 | [Akane](http://twitter.com/search?q=Akane) | N/A |
+| 17 | [siwei](http://twitter.com/search?q=siwei) | N/A |
+| 18 | [WHAT A MATCH](http://twitter.com/search?q=WHAT+A+MATCH) | N/A |
+| 19 | [what a rally](http://twitter.com/search?q=what+a+rally) | N/A |
+| 20 | [Hendra](http://twitter.com/search?q=Hendra) | N/A |
 | 21 | [WR 1](http://twitter.com/search?q=WR+1) | N/A |
 | 22 | [Penipuan](http://twitter.com/search?q=Penipuan) | N/A |
-| 23 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
-| 24 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 25 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 26 | [CHOI SAN](http://twitter.com/search?q=CHOI+SAN) | N/A |
-| 27 | [Adeknya](http://twitter.com/search?q=Adeknya) | N/A |
-| 28 | [WHAT A MATCH](http://twitter.com/search?q=WHAT+A+MATCH) | N/A |
-| 29 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 30 | [Inka](http://twitter.com/search?q=Inka) | N/A |
-| 31 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 32 | [Bakauheni Harbour City](http://twitter.com/search?q=Bakauheni+Harbour+City) | N/A |
-| 33 | [FEARNADA with LE SSERAFIM](http://twitter.com/search?q=FEARNADA+with+LE+SSERAFIM) | N/A |
-| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 35 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
-| 36 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
-| 37 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 38 | [Street Kidz](http://twitter.com/search?q=Street+Kidz) | N/A |
-| 39 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
-| 40 | [Boti](http://twitter.com/search?q=Boti) | N/A |
-| 41 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 42 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 43 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
-| 44 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 45 | [Taurus](http://twitter.com/search?q=Taurus) | N/A |
-| 46 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 47 | [Bencong](http://twitter.com/search?q=Bencong) | N/A |
-| 48 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
-| 49 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 50 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
+| 23 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 24 | [Wang Chang](http://twitter.com/search?q=Wang+Chang) | N/A |
+| 25 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 26 | [Adeknya](http://twitter.com/search?q=Adeknya) | N/A |
+| 27 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 28 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 29 | [Inka](http://twitter.com/search?q=Inka) | N/A |
+| 30 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
+| 31 | [BTOB SEMINAR AT MELODY COMPANY](http://twitter.com/search?q=BTOB+SEMINAR+AT+MELODY+COMPANY) | N/A |
+| 32 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
+| 33 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 34 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 35 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 36 | [Babah](http://twitter.com/search?q=Babah) | N/A |
+| 37 | [Street Kidz](http://twitter.com/search?q=Street+Kidz) | N/A |
+| 38 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 39 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 40 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 41 | [Bencong](http://twitter.com/search?q=Bencong) | N/A |
+| 42 | [#bwscomehome](http://twitter.com/search?q=%23bwscomehome) | N/A |
+| 43 | [#PKBKahiji](http://twitter.com/search?q=%23PKBKahiji) | N/A |
+| 44 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
+| 45 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
+| 46 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
+| 47 | [#BiroJomblo](http://twitter.com/search?q=%23BiroJomblo) | N/A |
+| 48 | [#PaintTheTownxJEFF](http://twitter.com/search?q=%23PaintTheTownxJEFF) | N/A |
+| 49 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
+| 50 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
 
 
 

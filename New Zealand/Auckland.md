@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-18 13:19:49 UTC`
+📆 Last Updated: `2023-03-18 14:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,15 +28,15 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 11 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 | 12 | [Orewa](http://twitter.com/search?q=Orewa) | N/A |
 | 13 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
-| 14 | [Henry Nicholls](http://twitter.com/search?q=Henry+Nicholls) | N/A |
+| 14 | [henry nicholls](http://twitter.com/search?q=henry+nicholls) | N/A |
 | 15 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
 | 16 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 17 | [Sam Neill](http://twitter.com/search?q=Sam+Neill) | N/A |
 | 18 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
 | 19 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 20 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
+| 20 | [eden park](http://twitter.com/search?q=eden+park) | N/A |
 | 21 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
-| 22 | [pompey](http://twitter.com/search?q=pompey) | N/A |
+| 22 | [Pompey](http://twitter.com/search?q=Pompey) | N/A |
 | 23 | [bay of plenty](http://twitter.com/search?q=bay+of+plenty) | N/A |
 | 24 | [whakatane](http://twitter.com/search?q=whakatane) | N/A |
 | 25 | [Blair](http://twitter.com/search?q=Blair) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 36 | [todd muller](http://twitter.com/search?q=todd+muller) | N/A |
 | 37 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 38 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 39 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 40 | [Out in the City](http://twitter.com/search?q=Out+in+the+City) | N/A |
-| 41 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 42 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 43 | [Basin](http://twitter.com/search?q=Basin) | N/A |
+| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 39 | [out in the city](http://twitter.com/search?q=out+in+the+city) | N/A |
+| 40 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 41 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 42 | [Basin](http://twitter.com/search?q=Basin) | N/A |
+| 43 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 | 44 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
 | 45 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 46 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
 | 47 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 48 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 49 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 50 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 48 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 49 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 50 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
 
 
 

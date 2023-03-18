@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Acapulco
 
-📆 Last Updated: `2023-03-18 13:19:04 UTC`
+📆 Last Updated: `2023-03-18 14:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 3 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 5 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
 | 6 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 7 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 8 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 9 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
-| 10 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 11 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 12 | [enchanted](http://twitter.com/search?q=enchanted) | N/A |
-| 13 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 14 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
-| 15 | [URÍAS](http://twitter.com/search?q=UR%c3%8dAS) | N/A |
-| 16 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
-| 19 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 20 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 21 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 22 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 25 | [Asesina](http://twitter.com/search?q=Asesina) | N/A |
-| 26 | [Lázaro Cárdenas Batel](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas+Batel) | N/A |
-| 27 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 28 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
-| 29 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 30 | [momo](http://twitter.com/search?q=momo) | N/A |
-| 31 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
-| 32 | [Semifinales](http://twitter.com/search?q=Semifinales) | N/A |
-| 33 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 8 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
+| 9 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 10 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 11 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 12 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 14 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
+| 15 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 16 | [URÍAS](http://twitter.com/search?q=UR%c3%8dAS) | N/A |
+| 17 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 18 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 19 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
+| 20 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
+| 21 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
+| 22 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 23 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 25 | [Maverick](http://twitter.com/search?q=Maverick) | N/A |
+| 26 | [ASESINA](http://twitter.com/search?q=ASESINA) | N/A |
+| 27 | [El 18](http://twitter.com/search?q=El+18) | N/A |
+| 28 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
+| 29 | [Lázaro Cárdenas Batel](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas+Batel) | N/A |
+| 30 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 31 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
+| 32 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 33 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
 | 34 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 35 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 36 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 37 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 38 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
-| 39 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 40 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
-| 41 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 42 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 43 | [welcome to the qsmp](http://twitter.com/search?q=welcome+to+the+qsmp) | N/A |
-| 44 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
+| 35 | [Faby](http://twitter.com/search?q=Faby) | N/A |
+| 36 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 37 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 38 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 39 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 40 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 41 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 42 | [Omar Núñez](http://twitter.com/search?q=Omar+N%c3%ba%c3%b1ez) | N/A |
+| 43 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 44 | [semifinales](http://twitter.com/search?q=semifinales) | N/A |
 | 45 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 46 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 47 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
+| 46 | [The Archer](http://twitter.com/search?q=The+Archer) | N/A |
+| 47 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
 | 48 | [samaritana](http://twitter.com/search?q=samaritana) | N/A |
 
 

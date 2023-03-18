@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-18 13:19:12 UTC`
+📆 Last Updated: `2023-03-18 14:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 2 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [momo](http://twitter.com/search?q=momo) | N/A |
-| 5 | [#TenisDeMesaNaESPN](http://twitter.com/search?q=%23TenisDeMesaNaESPN) | N/A |
-| 6 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
-| 7 | [Ma Long](http://twitter.com/search?q=Ma+Long) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 3 | [momo](http://twitter.com/search?q=momo) | N/A |
+| 4 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
+| 5 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 6 | [Ma Long](http://twitter.com/search?q=Ma+Long) | N/A |
+| 7 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
 | 8 | [CHOI SAN](http://twitter.com/search?q=CHOI+SAN) | N/A |
-| 9 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
-| 10 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
-| 11 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 12 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
-| 13 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
-| 14 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 15 | [44 MÚSICAS](http://twitter.com/search?q=44+M%c3%9aSICAS) | N/A |
-| 16 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
-| 17 | [Hugo Calderano](http://twitter.com/search?q=Hugo+Calderano) | N/A |
-| 18 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 19 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 20 | [Dia de Flu](http://twitter.com/search?q=Dia+de+Flu) | N/A |
+| 9 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
+| 10 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
+| 11 | [#TenisDeMesaNaESPN](http://twitter.com/search?q=%23TenisDeMesaNaESPN) | N/A |
+| 12 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
+| 13 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
+| 14 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 15 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 16 | [São José](http://twitter.com/search?q=S%c3%a3o+Jos%c3%a9) | N/A |
+| 17 | [Dia de Flu](http://twitter.com/search?q=Dia+de+Flu) | N/A |
+| 18 | [44 MÚSICAS](http://twitter.com/search?q=44+M%c3%9aSICAS) | N/A |
+| 19 | [Hugo Calderano](http://twitter.com/search?q=Hugo+Calderano) | N/A |
+| 20 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
 | 21 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 22 | [my tears ricochet](http://twitter.com/search?q=my+tears+ricochet) | N/A |
-| 23 | [Indereco](http://twitter.com/search?q=Indereco) | N/A |
-| 24 | [out of the woods](http://twitter.com/search?q=out+of+the+woods) | N/A |
-| 25 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 26 | [Getaway Car](http://twitter.com/search?q=Getaway+Car) | N/A |
-| 27 | [DPVAT](http://twitter.com/search?q=DPVAT) | N/A |
-| 28 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
-| 29 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
-| 30 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 31 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
-| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 33 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
-| 34 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
-| 35 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
-| 36 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 37 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
-| 38 | [Paula Fernandes](http://twitter.com/search?q=Paula+Fernandes) | N/A |
-| 39 | [Inflação](http://twitter.com/search?q=Infla%c3%a7%c3%a3o) | N/A |
-| 40 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 41 | [Pilhado](http://twitter.com/search?q=Pilhado) | N/A |
-| 42 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
-| 43 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 44 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 45 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 46 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
+| 22 | [Jinni](http://twitter.com/search?q=Jinni) | N/A |
+| 23 | [my tears ricochet](http://twitter.com/search?q=my+tears+ricochet) | N/A |
+| 24 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 25 | [Indereco](http://twitter.com/search?q=Indereco) | N/A |
+| 26 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 27 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 28 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 29 | [out of the woods](http://twitter.com/search?q=out+of+the+woods) | N/A |
+| 30 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
+| 31 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 32 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 33 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 34 | [DPVAT](http://twitter.com/search?q=DPVAT) | N/A |
+| 35 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
+| 36 | [Getaway Car](http://twitter.com/search?q=Getaway+Car) | N/A |
+| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 38 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
+| 39 | [paula fernandes](http://twitter.com/search?q=paula+fernandes) | N/A |
+| 40 | [Lincoln Lau](http://twitter.com/search?q=Lincoln+Lau) | N/A |
+| 41 | [TOLERATE IT](http://twitter.com/search?q=TOLERATE+IT) | N/A |
+| 42 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 43 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
+| 44 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
+| 45 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 46 | [The Archer](http://twitter.com/search?q=The+Archer) | N/A |
+| 47 | [Inflação](http://twitter.com/search?q=Infla%c3%a7%c3%a3o) | N/A |
+| 48 | [TIS THE DAMN SEASON](http://twitter.com/search?q=TIS+THE+DAMN+SEASON) | N/A |
+| 49 | [Pilhado](http://twitter.com/search?q=Pilhado) | N/A |
+| 50 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
 
 
 

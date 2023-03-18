@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-03-18 13:19:36 UTC`
+📆 Last Updated: `2023-03-18 14:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 2 | [#NigerianElections2023](http://twitter.com/search?q=%23NigerianElections2023) | N/A |
-| 3 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 4 | [#NigeriaDecide2023](http://twitter.com/search?q=%23NigeriaDecide2023) | N/A |
-| 5 | [Okota](http://twitter.com/search?q=Okota) | N/A |
-| 6 | [Situation Report](http://twitter.com/search?q=Situation+Report) | N/A |
-| 7 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 8 | [No LP](http://twitter.com/search?q=No+LP) | N/A |
-| 9 | [#INEC](http://twitter.com/search?q=%23INEC) | N/A |
-| 10 | [Ago Palace](http://twitter.com/search?q=Ago+Palace) | N/A |
-| 11 | [#ElectionDay](http://twitter.com/search?q=%23ElectionDay) | N/A |
-| 12 | [Arisetv](http://twitter.com/search?q=Arisetv) | N/A |
-| 13 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 14 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 15 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 16 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
-| 17 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
-| 18 | [Kate Henshaw](http://twitter.com/search?q=Kate+Henshaw) | N/A |
-| 19 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
+| 3 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 4 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
+| 5 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 6 | [#NigeriaDecide2023](http://twitter.com/search?q=%23NigeriaDecide2023) | N/A |
+| 7 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 8 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 9 | [Okota](http://twitter.com/search?q=Okota) | N/A |
+| 10 | [Situation Report](http://twitter.com/search?q=Situation+Report) | N/A |
+| 11 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 12 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
+| 13 | [No LP](http://twitter.com/search?q=No+LP) | N/A |
+| 14 | [Ago Palace](http://twitter.com/search?q=Ago+Palace) | N/A |
+| 15 | [#ElectionDay](http://twitter.com/search?q=%23ElectionDay) | N/A |
+| 16 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
+| 17 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 18 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 19 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
 | 20 | [The APC](http://twitter.com/search?q=The+APC) | N/A |
-| 21 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
-| 22 | [Casted](http://twitter.com/search?q=Casted) | N/A |
-| 23 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
-| 24 | [Amuwo Odofin](http://twitter.com/search?q=Amuwo+Odofin) | N/A |
-| 25 | [omoni oboli](http://twitter.com/search?q=omoni+oboli) | N/A |
-| 26 | [Voters](http://twitter.com/search?q=Voters) | N/A |
-| 27 | [49 SANs](http://twitter.com/search?q=49+SANs) | N/A |
-| 28 | [Voting](http://twitter.com/search?q=Voting) | N/A |
-| 29 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 30 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
-| 31 | [Alimosho](http://twitter.com/search?q=Alimosho) | N/A |
-| 32 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 33 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 34 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
-| 35 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 36 | [Ebonyi](http://twitter.com/search?q=Ebonyi) | N/A |
-| 37 | [Ajah](http://twitter.com/search?q=Ajah) | N/A |
-| 38 | [Isolo](http://twitter.com/search?q=Isolo) | N/A |
-| 39 | [Aguda](http://twitter.com/search?q=Aguda) | N/A |
-| 40 | [Security](http://twitter.com/search?q=Security) | N/A |
-| 41 | [Sangotedo](http://twitter.com/search?q=Sangotedo) | N/A |
-| 42 | [The Police](http://twitter.com/search?q=The+Police) | N/A |
-| 43 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 44 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
-| 45 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
-| 46 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
-| 47 | [Oshodi](http://twitter.com/search?q=Oshodi) | N/A |
-| 48 | [Channels](http://twitter.com/search?q=Channels) | N/A |
-| 49 | [Violence](http://twitter.com/search?q=Violence) | N/A |
-| 50 | [Victory](http://twitter.com/search?q=Victory) | N/A |
+| 21 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
+| 22 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
+| 23 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 24 | [Polling](http://twitter.com/search?q=Polling) | N/A |
+| 25 | [thanksgiving](http://twitter.com/search?q=thanksgiving) | N/A |
+| 26 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
+| 27 | [Omoni Oboli](http://twitter.com/search?q=Omoni+Oboli) | N/A |
+| 28 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
+| 29 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 30 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 31 | [Casted](http://twitter.com/search?q=Casted) | N/A |
+| 32 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
+| 33 | [Kate Henshaw](http://twitter.com/search?q=Kate+Henshaw) | N/A |
+| 34 | [Voting](http://twitter.com/search?q=Voting) | N/A |
+| 35 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
+| 36 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
+| 37 | [Amuwo Odofin](http://twitter.com/search?q=Amuwo+Odofin) | N/A |
+| 38 | [Voters](http://twitter.com/search?q=Voters) | N/A |
+| 39 | [Omo Igbo](http://twitter.com/search?q=Omo+Igbo) | N/A |
+| 40 | [49 SANs](http://twitter.com/search?q=49+SANs) | N/A |
+| 41 | [Ebonyi](http://twitter.com/search?q=Ebonyi) | N/A |
+| 42 | [Wale](http://twitter.com/search?q=Wale) | N/A |
+| 43 | [Alimosho](http://twitter.com/search?q=Alimosho) | N/A |
+| 44 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
+| 45 | [isolo](http://twitter.com/search?q=isolo) | N/A |
+| 46 | [House of Assembly](http://twitter.com/search?q=House+of+Assembly) | N/A |
+| 47 | [Aguda](http://twitter.com/search?q=Aguda) | N/A |
+| 48 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
+| 49 | [Abba](http://twitter.com/search?q=Abba) | N/A |
+| 50 | [Sangotedo](http://twitter.com/search?q=Sangotedo) | N/A |
 
 
 
