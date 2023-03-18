@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calgary
 
-📆 Last Updated: `2023-03-18 00:27:42 UTC`
+📆 Last Updated: `2023-03-18 01:43:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 2 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
-| 3 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 6 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 7 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 8 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 9 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 10 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
-| 11 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 12 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 13 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
-| 14 | [St. Pats](http://twitter.com/search?q=St.+Pats) | N/A |
-| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 16 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 17 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 18 | [Globe](http://twitter.com/search?q=Globe) | N/A |
-| 19 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 20 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
-| 21 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 22 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
-| 23 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
-| 24 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 25 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 26 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 27 | [Commander](http://twitter.com/search?q=Commander) | N/A |
-| 28 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 29 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 30 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 31 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 32 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 33 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
-| 34 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 5 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 6 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
+| 7 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 8 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
+| 9 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 10 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 11 | [Puljujarvi](http://twitter.com/search?q=Puljujarvi) | N/A |
+| 12 | [#CARvsTOR](http://twitter.com/search?q=%23CARvsTOR) | N/A |
+| 13 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 14 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 15 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 16 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
+| 17 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 18 | [St. Pats](http://twitter.com/search?q=St.+Pats) | N/A |
+| 19 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 20 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
+| 21 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 22 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 24 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 25 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 26 | [Globe](http://twitter.com/search?q=Globe) | N/A |
+| 27 | [#stpaddysday](http://twitter.com/search?q=%23stpaddysday) | N/A |
+| 28 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 29 | [Commander](http://twitter.com/search?q=Commander) | N/A |
+| 30 | [St Patty](http://twitter.com/search?q=St+Patty) | N/A |
+| 31 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 32 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 33 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 34 | [Butts](http://twitter.com/search?q=Butts) | N/A |
 | 35 | [Fife](http://twitter.com/search?q=Fife) | N/A |
-| 36 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 37 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 38 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 39 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 40 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 41 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
-| 42 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 43 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 44 | [#furnalequinox2023](http://twitter.com/search?q=%23furnalequinox2023) | N/A |
+| 36 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 37 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 38 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 39 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 40 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 41 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 42 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 43 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 44 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 45 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 46 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 47 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 48 | [#CanWNT](http://twitter.com/search?q=%23CanWNT) | N/A |
+| 49 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
 
 
 

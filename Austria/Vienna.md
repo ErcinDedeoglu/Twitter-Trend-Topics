@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-18 00:27:54 UTC`
+📆 Last Updated: `2023-03-18 01:43:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,38 +32,38 @@ This is top 50 for [Austria](</Austria>)
 | 15 | [Karas](http://twitter.com/search?q=Karas) | N/A |
 | 16 | [Akzent](http://twitter.com/search?q=Akzent) | N/A |
 | 17 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 18 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 19 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 20 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
-| 21 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
-| 22 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 23 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
-| 24 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
-| 25 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 26 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
-| 27 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 28 | [ÖVPler](http://twitter.com/search?q=%c3%96VPler) | N/A |
+| 18 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 19 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
+| 20 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
+| 21 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 22 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
+| 23 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
+| 24 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
+| 25 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 26 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 27 | [ÖVPler](http://twitter.com/search?q=%c3%96VPler) | N/A |
+| 28 | [Programm](http://twitter.com/search?q=Programm) | N/A |
 | 29 | [Brüssel](http://twitter.com/search?q=Br%c3%bcssel) | N/A |
-| 30 | [Hitlergruß](http://twitter.com/search?q=Hitlergru%c3%9f) | N/A |
+| 30 | [hitlergruß](http://twitter.com/search?q=hitlergru%c3%9f) | N/A |
 | 31 | [Studium](http://twitter.com/search?q=Studium) | N/A |
 | 32 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
 | 33 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
 | 34 | [Arbeiterkinder](http://twitter.com/search?q=Arbeiterkinder) | N/A |
-| 35 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 36 | [ÖVP NÖ](http://twitter.com/search?q=%c3%96VP+N%c3%96) | N/A |
-| 37 | [St. Pölten](http://twitter.com/search?q=St.+P%c3%b6lten) | N/A |
-| 38 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 39 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
-| 40 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
-| 41 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 42 | [Schüssel](http://twitter.com/search?q=Sch%c3%bcssel) | N/A |
-| 43 | [Eiernockerl](http://twitter.com/search?q=Eiernockerl) | N/A |
-| 44 | [Speisenangebot](http://twitter.com/search?q=Speisenangebot) | N/A |
-| 45 | [Pakt](http://twitter.com/search?q=Pakt) | N/A |
+| 35 | [övp nö](http://twitter.com/search?q=%c3%b6vp+n%c3%b6) | N/A |
+| 36 | [St. Pölten](http://twitter.com/search?q=St.+P%c3%b6lten) | N/A |
+| 37 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 38 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
+| 39 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 40 | [Eiernockerl](http://twitter.com/search?q=Eiernockerl) | N/A |
+| 41 | [speisenangebot](http://twitter.com/search?q=speisenangebot) | N/A |
+| 42 | [Pakt](http://twitter.com/search?q=Pakt) | N/A |
+| 43 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 44 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 45 | [Schüssel](http://twitter.com/search?q=Sch%c3%bcssel) | N/A |
 | 46 | [Machterhalt](http://twitter.com/search?q=Machterhalt) | N/A |
-| 47 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 48 | [Liederbuch](http://twitter.com/search?q=Liederbuch) | N/A |
-| 49 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 47 | [Liederbuch](http://twitter.com/search?q=Liederbuch) | N/A |
+| 48 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 49 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
 | 50 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
 
 

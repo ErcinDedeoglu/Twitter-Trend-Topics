@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-18 00:28:32 UTC`
+📆 Last Updated: `2023-03-18 01:43:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for Jordan
 | 10 | [المحكمه الجناييه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
 | 11 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
 | 12 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 13 | [#البزنس101](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b3101) | N/A |
-| 14 | [عمو مجدي](http://twitter.com/search?q=%d8%b9%d9%85%d9%88+%d9%85%d8%ac%d8%af%d9%8a) | N/A |
+| 13 | [عمو مجدي](http://twitter.com/search?q=%d8%b9%d9%85%d9%88+%d9%85%d8%ac%d8%af%d9%8a) | N/A |
+| 14 | [#البزنس101](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b3101) | N/A |
 | 15 | [الرييس الروسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |
 | 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 17 | [الجميد الكركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%af+%d8%a7%d9%84%d9%83%d8%b1%d9%83%d9%8a) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Jordan
 | 45 | [وسط البلد](http://twitter.com/search?q=%d9%88%d8%b3%d8%b7+%d8%a7%d9%84%d8%a8%d9%84%d8%af) | N/A |
 | 46 | [الفصل الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 | 47 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 48 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 49 | [الكره الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
-| 50 | [حسام](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85) | N/A |
+| 48 | [الكره الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
+| 49 | [حسام](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85) | N/A |
+| 50 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
 
 
 

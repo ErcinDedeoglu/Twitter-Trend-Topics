@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-18 00:28:31 UTC`
+📆 Last Updated: `2023-03-18 01:43:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Israel
 | ------- | ------------ | ------------ |
 | 1 | [שבת שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c%d7%95%d7%9d) | שבת שלום is a Hebrew phrase meaning "have a peaceful Sabbath". It is a common greeting used on the Jewish Sabbath. |
 | 2 | [נדב ארגמן](http://twitter.com/search?q=%d7%a0%d7%93%d7%91+%d7%90%d7%a8%d7%92%d7%9e%d7%9f) | N/A |
-| 3 | [טליה איינהורן](http://twitter.com/search?q=%d7%98%d7%9c%d7%99%d7%94+%d7%90%d7%99%d7%99%d7%a0%d7%94%d7%95%d7%a8%d7%9f) | N/A |
-| 4 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
-| 5 | [צו מעצר](http://twitter.com/search?q=%d7%a6%d7%95+%d7%9e%d7%a2%d7%a6%d7%a8) | N/A |
-| 6 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 7 | [הילה קורח](http://twitter.com/search?q=%d7%94%d7%99%d7%9c%d7%94+%d7%a7%d7%95%d7%a8%d7%97) | N/A |
-| 8 | [דנה רון](http://twitter.com/search?q=%d7%93%d7%a0%d7%94+%d7%a8%d7%95%d7%9f) | N/A |
-| 9 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 3 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 4 | [טליה איינהורן](http://twitter.com/search?q=%d7%98%d7%9c%d7%99%d7%94+%d7%90%d7%99%d7%99%d7%a0%d7%94%d7%95%d7%a8%d7%9f) | N/A |
+| 5 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 6 | [צו מעצר](http://twitter.com/search?q=%d7%a6%d7%95+%d7%9e%d7%a2%d7%a6%d7%a8) | N/A |
+| 7 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 8 | [הילה קורח](http://twitter.com/search?q=%d7%94%d7%99%d7%9c%d7%94+%d7%a7%d7%95%d7%a8%d7%97) | N/A |
+| 9 | [דנה רון](http://twitter.com/search?q=%d7%93%d7%a0%d7%94+%d7%a8%d7%95%d7%9f) | N/A |
 | 10 | [מי עשה](http://twitter.com/search?q=%d7%9e%d7%99+%d7%a2%d7%a9%d7%94) | N/A |
 | 11 | [יום שישי](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
 | 12 | [מי כתב](http://twitter.com/search?q=%d7%9e%d7%99+%d7%9b%d7%aa%d7%91) | N/A |
 | 13 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 14 | [אפרת גוש](http://twitter.com/search?q=%d7%90%d7%a4%d7%a8%d7%aa+%d7%92%d7%95%d7%a9) | N/A |
 | 15 | [ימי חופש](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%97%d7%95%d7%a4%d7%a9) | N/A |
-| 16 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 17 | [תג מחיר](http://twitter.com/search?q=%d7%aa%d7%92+%d7%9e%d7%97%d7%99%d7%a8) | N/A |
-| 18 | [מרתון ירושלים](http://twitter.com/search?q=%d7%9e%d7%a8%d7%aa%d7%95%d7%9f+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 19 | [של לוין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
-| 20 | [איש חינוך](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
-| 21 | [של ברקת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a8%d7%a7%d7%aa) | N/A |
-| 22 | [כתובת גרפיטי](http://twitter.com/search?q=%d7%9b%d7%aa%d7%95%d7%91%d7%aa+%d7%92%d7%a8%d7%a4%d7%99%d7%98%d7%99) | N/A |
-| 23 | [לו תיק](http://twitter.com/search?q=%d7%9c%d7%95+%d7%aa%d7%99%d7%a7) | N/A |
-| 24 | [רונן צור](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%a6%d7%95%d7%a8) | N/A |
-| 25 | [גז פלפל](http://twitter.com/search?q=%d7%92%d7%96+%d7%a4%d7%9c%d7%a4%d7%9c) | N/A |
-| 26 | [בעת השבעה](http://twitter.com/search?q=%d7%91%d7%a2%d7%aa+%d7%94%d7%a9%d7%91%d7%a2%d7%94) | N/A |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [ש נעים](http://twitter.com/search?q=%d7%a9+%d7%a0%d7%a2%d7%99%d7%9d) | N/A |
-| 29 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
-| 30 | [רוח המחאה](http://twitter.com/search?q=%d7%a8%d7%95%d7%97+%d7%94%d7%9e%d7%97%d7%90%d7%94) | N/A |
+| 16 | [תג מחיר](http://twitter.com/search?q=%d7%aa%d7%92+%d7%9e%d7%97%d7%99%d7%a8) | N/A |
+| 17 | [מרתון ירושלים](http://twitter.com/search?q=%d7%9e%d7%a8%d7%aa%d7%95%d7%9f+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 18 | [של לוין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 19 | [איש חינוך](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
+| 20 | [של ברקת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a8%d7%a7%d7%aa) | N/A |
+| 21 | [כתובת גרפיטי](http://twitter.com/search?q=%d7%9b%d7%aa%d7%95%d7%91%d7%aa+%d7%92%d7%a8%d7%a4%d7%99%d7%98%d7%99) | N/A |
+| 22 | [לו תיק](http://twitter.com/search?q=%d7%9c%d7%95+%d7%aa%d7%99%d7%a7) | N/A |
+| 23 | [גז פלפל](http://twitter.com/search?q=%d7%92%d7%96+%d7%a4%d7%9c%d7%a4%d7%9c) | N/A |
+| 24 | [בעת השבעה](http://twitter.com/search?q=%d7%91%d7%a2%d7%aa+%d7%94%d7%a9%d7%91%d7%a2%d7%94) | N/A |
+| 25 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [ש נעים](http://twitter.com/search?q=%d7%a9+%d7%a0%d7%a2%d7%99%d7%9d) | N/A |
+| 28 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
+| 29 | [רוח המחאה](http://twitter.com/search?q=%d7%a8%d7%95%d7%97+%d7%94%d7%9e%d7%97%d7%90%d7%94) | N/A |
+| 30 | [רונן צור](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%a6%d7%95%d7%a8) | N/A |
 | 31 | [דני דנון](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%93%d7%a0%d7%95%d7%9f) | N/A |
 | 32 | [ראש שב](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%a9%d7%91) | N/A |
 | 33 | [פשע שנאה](http://twitter.com/search?q=%d7%a4%d7%a9%d7%a2+%d7%a9%d7%a0%d7%90%d7%94) | N/A |
 | 34 | [אהוד אולמרט](http://twitter.com/search?q=%d7%90%d7%94%d7%95%d7%93+%d7%90%d7%95%d7%9c%d7%9e%d7%a8%d7%98) | N/A |
 | 35 | [של דריה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%a8%d7%99%d7%94) | N/A |
-| 36 | [טרור יהודי](http://twitter.com/search?q=%d7%98%d7%a8%d7%95%d7%a8+%d7%99%d7%94%d7%95%d7%93%d7%99) | N/A |
-| 37 | [של שישי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
-| 38 | [פרובוקציה של](http://twitter.com/search?q=%d7%a4%d7%a8%d7%95%d7%91%d7%95%d7%a7%d7%a6%d7%99%d7%94+%d7%a9%d7%9c) | N/A |
-| 39 | [זאב שניר](http://twitter.com/search?q=%d7%96%d7%90%d7%91+%d7%a9%d7%a0%d7%99%d7%a8) | N/A |
-| 40 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 41 | [ויקהל פקודי](http://twitter.com/search?q=%d7%95%d7%99%d7%a7%d7%94%d7%9c+%d7%a4%d7%a7%d7%95%d7%93%d7%99) | N/A |
-| 42 | [קנצלר גרמניה](http://twitter.com/search?q=%d7%a7%d7%a0%d7%a6%d7%9c%d7%a8+%d7%92%d7%a8%d7%9e%d7%a0%d7%99%d7%94) | N/A |
-| 43 | [של סילמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%99%d7%9c%d7%9e%d7%9f) | N/A |
-| 44 | [שנים של](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99%d7%9d+%d7%a9%d7%9c) | N/A |
-| 45 | [ניר ברקת](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%a8%d7%a7%d7%aa) | N/A |
-| 46 | [אליטה משרתת](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%98%d7%94+%d7%9e%d7%a9%d7%a8%d7%aa%d7%aa) | N/A |
-| 47 | [איילון דרום](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%95%d7%9f+%d7%93%d7%a8%d7%95%d7%9d) | N/A |
-| 48 | [#جنين](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%8a%d9%86) | N/A |
-| 49 | [שום אבן](http://twitter.com/search?q=%d7%a9%d7%95%d7%9d+%d7%90%d7%91%d7%9f) | N/A |
-| 50 | [של יאיר נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 36 | [של שישי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
+| 37 | [פרובוקציה של](http://twitter.com/search?q=%d7%a4%d7%a8%d7%95%d7%91%d7%95%d7%a7%d7%a6%d7%99%d7%94+%d7%a9%d7%9c) | N/A |
+| 38 | [זאב שניר](http://twitter.com/search?q=%d7%96%d7%90%d7%91+%d7%a9%d7%a0%d7%99%d7%a8) | N/A |
+| 39 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 40 | [ויקהל פקודי](http://twitter.com/search?q=%d7%95%d7%99%d7%a7%d7%94%d7%9c+%d7%a4%d7%a7%d7%95%d7%93%d7%99) | N/A |
+| 41 | [קנצלר גרמניה](http://twitter.com/search?q=%d7%a7%d7%a0%d7%a6%d7%9c%d7%a8+%d7%92%d7%a8%d7%9e%d7%a0%d7%99%d7%94) | N/A |
+| 42 | [של סילמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%99%d7%9c%d7%9e%d7%9f) | N/A |
+| 43 | [שנים של](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99%d7%9d+%d7%a9%d7%9c) | N/A |
+| 44 | [ניר ברקת](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%a8%d7%a7%d7%aa) | N/A |
+| 45 | [אליטה משרתת](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%98%d7%94+%d7%9e%d7%a9%d7%a8%d7%aa%d7%aa) | N/A |
+| 46 | [איילון דרום](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%95%d7%9f+%d7%93%d7%a8%d7%95%d7%9d) | N/A |
+| 47 | [#جنين](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%8a%d9%86) | N/A |
+| 48 | [שום אבן](http://twitter.com/search?q=%d7%a9%d7%95%d7%9d+%d7%90%d7%91%d7%9f) | N/A |
+| 49 | [של יאיר נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 50 | [עמיחי שיקלי](http://twitter.com/search?q=%d7%a2%d7%9e%d7%99%d7%97%d7%99+%d7%a9%d7%99%d7%a7%d7%9c%d7%99) | N/A |
 
 
 

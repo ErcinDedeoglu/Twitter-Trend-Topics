@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-18 00:27:46 UTC`
+📆 Last Updated: `2023-03-18 01:43:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
-| 2 | [Urías](http://twitter.com/search?q=Ur%c3%adas) | N/A |
-| 3 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 4 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 5 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
-| 6 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
-| 7 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
-| 8 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 9 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
-| 10 | [#enhorabuenafestival](http://twitter.com/search?q=%23enhorabuenafestival) | N/A |
-| 11 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 12 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [MAXO](http://twitter.com/search?q=MAXO) | N/A |
-| 15 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 16 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 17 | [Misael Corona](http://twitter.com/search?q=Misael+Corona) | N/A |
+| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 3 | [Javier Assad](http://twitter.com/search?q=Javier+Assad) | N/A |
+| 4 | [Urías](http://twitter.com/search?q=Ur%c3%adas) | N/A |
+| 5 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 6 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
+| 7 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 8 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 9 | [WILBUR](http://twitter.com/search?q=WILBUR) | N/A |
+| 10 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 11 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
+| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 13 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
+| 14 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
+| 15 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
+| 16 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 18 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
-| 19 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
-| 20 | [Julito](http://twitter.com/search?q=Julito) | N/A |
-| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 19 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 20 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 21 | [#enhorabuenafestival](http://twitter.com/search?q=%23enhorabuenafestival) | N/A |
+| 22 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
 | 23 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
-| 24 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
-| 25 | [#85AñosExpropiaciónPetrolera](http://twitter.com/search?q=%2385A%c3%b1osExpropiaci%c3%b3nPetrolera) | N/A |
-| 26 | [Venga México](http://twitter.com/search?q=Venga+M%c3%a9xico) | N/A |
-| 27 | [#ClasicoMundialdeBeisbol2023](http://twitter.com/search?q=%23ClasicoMundialdeBeisbol2023) | N/A |
-| 28 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 29 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 30 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 31 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 32 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
-| 33 | [Gabo](http://twitter.com/search?q=Gabo) | N/A |
-| 34 | [Hacercan](http://twitter.com/search?q=Hacercan) | N/A |
-| 35 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
-| 36 | [Pancho Villa](http://twitter.com/search?q=Pancho+Villa) | N/A |
-| 37 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 38 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 39 | [Amanda Miguel](http://twitter.com/search?q=Amanda+Miguel) | N/A |
+| 24 | [#MexicoDeMiSangre](http://twitter.com/search?q=%23MexicoDeMiSangre) | N/A |
+| 25 | [Telemundo](http://twitter.com/search?q=Telemundo) | N/A |
+| 26 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 27 | [Venga México](http://twitter.com/search?q=Venga+M%c3%a9xico) | N/A |
+| 28 | [MAXO](http://twitter.com/search?q=MAXO) | N/A |
+| 29 | [Mendieta](http://twitter.com/search?q=Mendieta) | N/A |
+| 30 | [Jesús Corona](http://twitter.com/search?q=Jes%c3%bas+Corona) | N/A |
+| 31 | [Julito](http://twitter.com/search?q=Julito) | N/A |
+| 32 | [Paty Chapoy](http://twitter.com/search?q=Paty+Chapoy) | N/A |
+| 33 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 34 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 35 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 36 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 37 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
+| 38 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 39 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
 | 40 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
-| 41 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 42 | [Resident Evil](http://twitter.com/search?q=Resident+Evil) | N/A |
-| 43 | [CELAC](http://twitter.com/search?q=CELAC) | CELAC stands for the Community of Latin American and Caribbean States. It is an intergovernmental organization that was created in 2011 to promote regional integration and cooperation among its 33 member states. The organization's mission is to strengthen political dialogue, economic integration, and social inclusion in the region. In English, CELAC stands for the Community of Latin American and Caribbean States. |
-| 44 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 45 | [Sábado 18](http://twitter.com/search?q=S%c3%a1bado+18) | N/A |
-| 46 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 47 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
-| 48 | [Irapuato](http://twitter.com/search?q=Irapuato) | N/A |
-| 49 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
+| 41 | [Hacercan](http://twitter.com/search?q=Hacercan) | N/A |
+| 42 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
+| 43 | [Pancho Villa](http://twitter.com/search?q=Pancho+Villa) | N/A |
+| 44 | [Amanda Miguel](http://twitter.com/search?q=Amanda+Miguel) | N/A |
+| 45 | [Gabo](http://twitter.com/search?q=Gabo) | N/A |
+| 46 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
+| 47 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
+| 48 | [#MexicoBaseball](http://twitter.com/search?q=%23MexicoBaseball) | N/A |
+| 49 | [#85AñosExpropiaciónPetrolera](http://twitter.com/search?q=%2385A%c3%b1osExpropiaci%c3%b3nPetrolera) | N/A |
+| 50 | [#PorElRescateDeLaSoberanía](http://twitter.com/search?q=%23PorElRescateDeLaSoberan%c3%ada) | N/A |
 
 
 

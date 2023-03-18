@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-03-18 00:28:22 UTC`
+📆 Last Updated: `2023-03-18 01:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
-| 2 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 3 | [Wolfpack](http://twitter.com/search?q=Wolfpack) | N/A |
-| 4 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 5 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 6 | [NCAA Tournament](http://twitter.com/search?q=NCAA+Tournament) | N/A |
-| 7 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
-| 8 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 10 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 11 | [#CAIGPT](http://twitter.com/search?q=%23CAIGPT) | N/A |
-| 12 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 13 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 14 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 15 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 16 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 17 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 18 | [#GlendaleTSTheErasTour](http://twitter.com/search?q=%23GlendaleTSTheErasTour) | N/A |
-| 19 | [#StablzToken](http://twitter.com/search?q=%23StablzToken) | N/A |
-| 20 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 23 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
-| 24 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
-| 25 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 26 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 27 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 28 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
-| 29 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 30 | [Jacob Toppin](http://twitter.com/search?q=Jacob+Toppin) | N/A |
-| 31 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 32 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 33 | [Iona](http://twitter.com/search?q=Iona) | N/A |
-| 34 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 35 | [Javy](http://twitter.com/search?q=Javy) | N/A |
-| 36 | [Byard](http://twitter.com/search?q=Byard) | N/A |
-| 37 | [Cancel Spring Training](http://twitter.com/search?q=Cancel+Spring+Training) | N/A |
-| 38 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 39 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 40 | [Antonio Reeves](http://twitter.com/search?q=Antonio+Reeves) | N/A |
-| 41 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 42 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
-| 43 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
-| 44 | [Eddie Rosario](http://twitter.com/search?q=Eddie+Rosario) | N/A |
-| 45 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
-| 46 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 47 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 48 | [Oscar Tshiebwe](http://twitter.com/search?q=Oscar+Tshiebwe) | Oscar Tshiebwe is the name of a professional basketball player from the Democratic Republic of Congo. His name is derived from the French phrase "Oscar Tshiebwe," which translates to "the one who is strong." |
-| 49 | [St. Paddy](http://twitter.com/search?q=St.+Paddy) | N/A |
-| 50 | [Jost](http://twitter.com/search?q=Jost) | N/A |
+| 1 | [Oscar Tshiebwe](http://twitter.com/search?q=Oscar+Tshiebwe) | Oscar Tshiebwe is the name of a professional basketball player from the Democratic Republic of Congo. His name is derived from the French phrase "Oscar Tshiebwe," which translates to "the one who is strong." |
+| 2 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 3 | [Keatts](http://twitter.com/search?q=Keatts) | N/A |
+| 4 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 5 | [Cats](http://twitter.com/search?q=Cats) | N/A |
+| 6 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 7 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 8 | [Pack](http://twitter.com/search?q=Pack) | N/A |
+| 9 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 10 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 11 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 13 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 14 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 15 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 16 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 17 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 18 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 19 | [#CAIGPT](http://twitter.com/search?q=%23CAIGPT) | N/A |
+| 20 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
+| 21 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
+| 22 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
+| 23 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 24 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 25 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
+| 26 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 27 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 28 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
+| 29 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 30 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 31 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
+| 32 | [Rusical](http://twitter.com/search?q=Rusical) | N/A |
+| 33 | [Fairly Ridiculous](http://twitter.com/search?q=Fairly+Ridiculous) | N/A |
+| 34 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 35 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 36 | [Sean Moore](http://twitter.com/search?q=Sean+Moore) | N/A |
+| 37 | [Boilermakers](http://twitter.com/search?q=Boilermakers) | N/A |
+| 38 | [Fair Dick](http://twitter.com/search?q=Fair+Dick) | N/A |
+| 39 | [Go FDU](http://twitter.com/search?q=Go+FDU) | N/A |
+| 40 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 41 | [Congrats FDU](http://twitter.com/search?q=Congrats+FDU) | N/A |
+| 42 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
+| 43 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 44 | [West Lafayette](http://twitter.com/search?q=West+Lafayette) | N/A |
+| 45 | [St. Peter](http://twitter.com/search?q=St.+Peter) | N/A |
+| 46 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 47 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 48 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 49 | [16 FDU](http://twitter.com/search?q=16+FDU) | N/A |
+| 50 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
 
 
 

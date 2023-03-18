@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-18 00:27:52 UTC`
+📆 Last Updated: `2023-03-18 01:43:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 2 | [#MardoSertão](http://twitter.com/search?q=%23MardoSert%c3%a3o) | N/A |
-| 3 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 4 | [#CAIGPT](http://twitter.com/search?q=%23CAIGPT) | N/A |
+| 1 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 2 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
+| 3 | [Indereço](http://twitter.com/search?q=Indere%c3%a7o) | N/A |
+| 4 | [#MardoSertão](http://twitter.com/search?q=%23MardoSert%c3%a3o) | N/A |
 | 5 | [BAILA KEY](http://twitter.com/search?q=BAILA+KEY) | N/A |
-| 6 | [Tertulinho](http://twitter.com/search?q=Tertulinho) | N/A |
-| 7 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
-| 8 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
-| 9 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 10 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 11 | [Faz o X](http://twitter.com/search?q=Faz+o+X) | N/A |
-| 12 | [#sentaDONASelfies](http://twitter.com/search?q=%23sentaDONASelfies) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [#DAYnaRedeTV](http://twitter.com/search?q=%23DAYnaRedeTV) | N/A |
-| 15 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 16 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 17 | [pedro sampaio](http://twitter.com/search?q=pedro+sampaio) | N/A |
-| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 6 | [lincoln lau](http://twitter.com/search?q=lincoln+lau) | N/A |
+| 7 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 8 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 9 | [raffa](http://twitter.com/search?q=raffa) | N/A |
+| 10 | [#CAIGPT](http://twitter.com/search?q=%23CAIGPT) | N/A |
+| 11 | [#sentaDONASelfies](http://twitter.com/search?q=%23sentaDONASelfies) | N/A |
+| 12 | [Tertulinho](http://twitter.com/search?q=Tertulinho) | N/A |
+| 13 | [pedro sampaio](http://twitter.com/search?q=pedro+sampaio) | N/A |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 15 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 16 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
+| 17 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 18 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
 | 19 | [Flávio Gomes](http://twitter.com/search?q=Fl%c3%a1vio+Gomes) | N/A |
-| 20 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 21 | [Sônia](http://twitter.com/search?q=S%c3%b4nia) | N/A |
-| 22 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 23 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
-| 24 | [Deodora](http://twitter.com/search?q=Deodora) | N/A |
-| 25 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 26 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 27 | [Minas](http://twitter.com/search?q=Minas) | N/A |
+| 20 | [Pilhado](http://twitter.com/search?q=Pilhado) | N/A |
+| 21 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
+| 22 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
+| 23 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 24 | [DPVAT](http://twitter.com/search?q=DPVAT) | N/A |
+| 25 | [Faz o X](http://twitter.com/search?q=Faz+o+X) | N/A |
+| 26 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
+| 27 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
 | 28 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 29 | [DPVAT](http://twitter.com/search?q=DPVAT) | N/A |
-| 30 | [Timbó](http://twitter.com/search?q=Timb%c3%b3) | N/A |
-| 31 | [Eloá](http://twitter.com/search?q=Elo%c3%a1) | N/A |
-| 32 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
-| 33 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 34 | [Candoca](http://twitter.com/search?q=Candoca) | N/A |
-| 35 | [Lucas Leiva](http://twitter.com/search?q=Lucas+Leiva) | N/A |
-| 36 | [Famosos](http://twitter.com/search?q=Famosos) | N/A |
-| 37 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 38 | [Pilhado](http://twitter.com/search?q=Pilhado) | N/A |
-| 39 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 40 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
-| 41 | [Zé Paulino](http://twitter.com/search?q=Z%c3%a9+Paulino) | N/A |
-| 42 | [Canta Pedra](http://twitter.com/search?q=Canta+Pedra) | N/A |
-| 43 | [Naveen](http://twitter.com/search?q=Naveen) | N/A |
-| 44 | [Haia](http://twitter.com/search?q=Haia) | N/A |
-| 45 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
-| 46 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 47 | [Bouba](http://twitter.com/search?q=Bouba) | N/A |
-| 48 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
-| 49 | [Flavinho](http://twitter.com/search?q=Flavinho) | N/A |
+| 29 | [Minas](http://twitter.com/search?q=Minas) | N/A |
+| 30 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 31 | [CAROL GATTAZ](http://twitter.com/search?q=CAROL+GATTAZ) | N/A |
+| 32 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 33 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 34 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 35 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 36 | [Timbó](http://twitter.com/search?q=Timb%c3%b3) | N/A |
+| 37 | [Inflação](http://twitter.com/search?q=Infla%c3%a7%c3%a3o) | N/A |
+| 38 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 39 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 40 | [Sônia](http://twitter.com/search?q=S%c3%b4nia) | N/A |
+| 41 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 42 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 43 | [Buddy Daddies](http://twitter.com/search?q=Buddy+Daddies) | N/A |
+| 44 | [Leonor](http://twitter.com/search?q=Leonor) | N/A |
+| 45 | [Deodora](http://twitter.com/search?q=Deodora) | N/A |
+| 46 | [Candoca](http://twitter.com/search?q=Candoca) | N/A |
+| 47 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 48 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
+| 49 | [Bouba](http://twitter.com/search?q=Bouba) | N/A |
 
 
 

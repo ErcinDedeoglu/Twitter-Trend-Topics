@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-18 00:28:31 UTC`
+📆 Last Updated: `2023-03-18 01:43:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Prabowo For Indonesia](http://twitter.com/search?q=Prabowo+For+Indonesia) | N/A |
-| 2 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 3 | [#VidioCumaSeribu](http://twitter.com/search?q=%23VidioCumaSeribu) | N/A |
-| 4 | [Tontonan Hari Ramadan](http://twitter.com/search?q=Tontonan+Hari+Ramadan) | N/A |
-| 5 | [Syariah Solusi Ketidakadilan](http://twitter.com/search?q=Syariah+Solusi+Ketidakadilan) | N/A |
-| 6 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 1 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
+| 2 | [#MauMudahBerobat](http://twitter.com/search?q=%23MauMudahBerobat) | N/A |
+| 3 | [Semua Bisa Berobat](http://twitter.com/search?q=Semua+Bisa+Berobat) | N/A |
+| 4 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 5 | [#VidioCumaSeribu](http://twitter.com/search?q=%23VidioCumaSeribu) | N/A |
+| 6 | [Tontonan Hari Ramadan](http://twitter.com/search?q=Tontonan+Hari+Ramadan) | N/A |
 | 7 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 8 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 8 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 9 | [Khilafah Ajaran Rasulullah](http://twitter.com/search?q=Khilafah+Ajaran+Rasulullah) | N/A |
-| 10 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 10 | [RUU Kesehatan](http://twitter.com/search?q=RUU+Kesehatan) | N/A |
 | 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 12 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 13 | [politik baik gerindra](http://twitter.com/search?q=politik+baik+gerindra) | N/A |
-| 14 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 15 | [kandidat menteri](http://twitter.com/search?q=kandidat+menteri) | N/A |
-| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 18 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 19 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
-| 20 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 21 | [Semoga Sukses Selalu](http://twitter.com/search?q=Semoga+Sukses+Selalu) | N/A |
-| 22 | [selamat hari perawat nasional](http://twitter.com/search?q=selamat+hari+perawat+nasional) | N/A |
-| 23 | [Relis](http://twitter.com/search?q=Relis) | N/A |
-| 24 | [Terima Kasih Erigo](http://twitter.com/search?q=Terima+Kasih+Erigo) | N/A |
-| 25 | [mental yupi](http://twitter.com/search?q=mental+yupi) | N/A |
-| 26 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 27 | [PriFad](http://twitter.com/search?q=PriFad) | N/A |
-| 28 | [The Daddies](http://twitter.com/search?q=The+Daddies) | N/A |
-| 29 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 30 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 31 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
-| 32 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
-| 33 | [Erha](http://twitter.com/search?q=Erha) | N/A |
-| 34 | [REHAN](http://twitter.com/search?q=REHAN) | N/A |
-| 35 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 36 | [b. tahu isi](http://twitter.com/search?q=b.+tahu+isi) | N/A |
-| 37 | [SET ME FREE 1ST SLAY](http://twitter.com/search?q=SET+ME+FREE+1ST+SLAY) | N/A |
-| 38 | [Jakarta Lumpur](http://twitter.com/search?q=Jakarta+Lumpur) | N/A |
-| 39 | [Huruf R](http://twitter.com/search?q=Huruf+R) | N/A |
-| 40 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
-| 41 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 42 | [Hari Desa Asri Nusantara](http://twitter.com/search?q=Hari+Desa+Asri+Nusantara) | N/A |
-| 43 | [WE MISS ILICHIL](http://twitter.com/search?q=WE+MISS+ILICHIL) | N/A |
-| 44 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
-| 45 | [erick thohir gercep](http://twitter.com/search?q=erick+thohir+gercep) | N/A |
-| 46 | [Gempa](http://twitter.com/search?q=Gempa) | N/A |
-| 47 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 48 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 49 | [NPURE](http://twitter.com/search?q=NPURE) | N/A |
-| 50 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
+| 12 | [Syariah Solusi Ketidakadilan](http://twitter.com/search?q=Syariah+Solusi+Ketidakadilan) | N/A |
+| 13 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 14 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
+| 15 | [prabowo hatinya tulus](http://twitter.com/search?q=prabowo+hatinya+tulus) | N/A |
+| 16 | [politik baik gerindra](http://twitter.com/search?q=politik+baik+gerindra) | N/A |
+| 17 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 18 | [Prabowo For Indonesia](http://twitter.com/search?q=Prabowo+For+Indonesia) | N/A |
+| 19 | [kandidat menteri](http://twitter.com/search?q=kandidat+menteri) | N/A |
+| 20 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 22 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 23 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 24 | [Erha](http://twitter.com/search?q=Erha) | N/A |
+| 25 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 26 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
+| 27 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 28 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 29 | [selamat hari perawat nasional](http://twitter.com/search?q=selamat+hari+perawat+nasional) | N/A |
+| 30 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 31 | [Semoga Sukses Selalu](http://twitter.com/search?q=Semoga+Sukses+Selalu) | N/A |
+| 32 | [Terima Kasih Erigo](http://twitter.com/search?q=Terima+Kasih+Erigo) | N/A |
+| 33 | [Relis](http://twitter.com/search?q=Relis) | N/A |
+| 34 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
+| 35 | [mental yupi](http://twitter.com/search?q=mental+yupi) | N/A |
+| 36 | [PriFad](http://twitter.com/search?q=PriFad) | N/A |
+| 37 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
+| 38 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 39 | [Maneh](http://twitter.com/search?q=Maneh) | N/A |
+| 40 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
+| 41 | [REHAN](http://twitter.com/search?q=REHAN) | N/A |
+| 42 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 43 | [b. tahu isi](http://twitter.com/search?q=b.+tahu+isi) | N/A |
+| 44 | [SET ME FREE 1ST SLAY](http://twitter.com/search?q=SET+ME+FREE+1ST+SLAY) | N/A |
+| 45 | [JAKARTA LUMPUR](http://twitter.com/search?q=JAKARTA+LUMPUR) | N/A |
+| 46 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 47 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
+| 48 | [Kemenkes](http://twitter.com/search?q=Kemenkes) | N/A |
+| 49 | [we miss ilichil](http://twitter.com/search?q=we+miss+ilichil) | N/A |
+| 50 | [Hari Desa Asri Nusantara](http://twitter.com/search?q=Hari+Desa+Asri+Nusantara) | N/A |
 
 
 

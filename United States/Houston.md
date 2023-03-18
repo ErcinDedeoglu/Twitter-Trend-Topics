@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-18 00:28:23 UTC`
+📆 Last Updated: `2023-03-18 01:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 2 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
-| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 5 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
-| 6 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 7 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 8 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 9 | [#SicEm](http://twitter.com/search?q=%23SicEm) | N/A |
-| 10 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 11 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 12 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 13 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 14 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
-| 15 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 16 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 17 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 18 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 19 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 20 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 21 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 22 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 23 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 24 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 25 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 26 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 27 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 28 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 29 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 30 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 31 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
-| 32 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
-| 33 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
-| 34 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 35 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 36 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 37 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 38 | [Jacob Toppin](http://twitter.com/search?q=Jacob+Toppin) | N/A |
-| 39 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 40 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 41 | [Iona](http://twitter.com/search?q=Iona) | N/A |
-| 42 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 43 | [Javy](http://twitter.com/search?q=Javy) | N/A |
-| 44 | [Byard](http://twitter.com/search?q=Byard) | N/A |
-| 45 | [Cancel Spring Training](http://twitter.com/search?q=Cancel+Spring+Training) | N/A |
-| 46 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 47 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 48 | [Antonio Reeves](http://twitter.com/search?q=Antonio+Reeves) | N/A |
-| 49 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 50 | [Destiny](http://twitter.com/search?q=Destiny) | N/A |
+| 2 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 3 | [#ThankYewJJ](http://twitter.com/search?q=%23ThankYewJJ) | N/A |
+| 4 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 6 | [#TFF2023](http://twitter.com/search?q=%23TFF2023) | N/A |
+| 7 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 8 | [Daniels](http://twitter.com/search?q=Daniels) | N/A |
+| 9 | [St. Patty](http://twitter.com/search?q=St.+Patty) | N/A |
+| 10 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 11 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
+| 12 | [#stpaddysday](http://twitter.com/search?q=%23stpaddysday) | N/A |
+| 13 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 14 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 15 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 16 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 17 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 18 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 19 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 20 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 21 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
+| 22 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 23 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 24 | [Tobin Anderson](http://twitter.com/search?q=Tobin+Anderson) | N/A |
+| 25 | [Purdon't](http://twitter.com/search?q=Purdon%27t) | N/A |
+| 26 | [Fairleigh](http://twitter.com/search?q=Fairleigh) | N/A |
+| 27 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 28 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 29 | [Big 10](http://twitter.com/search?q=Big+10) | N/A |
+| 30 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 31 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 32 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
+| 33 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 34 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 35 | [Teaneck](http://twitter.com/search?q=Teaneck) | N/A |
+| 36 | [Rusical](http://twitter.com/search?q=Rusical) | N/A |
+| 37 | [Fairly Ridiculous](http://twitter.com/search?q=Fairly+Ridiculous) | N/A |
+| 38 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 39 | [Sean Moore](http://twitter.com/search?q=Sean+Moore) | N/A |
+| 40 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 41 | [Fair Dick](http://twitter.com/search?q=Fair+Dick) | N/A |
+| 42 | [Boilermakers](http://twitter.com/search?q=Boilermakers) | N/A |
+| 43 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 44 | [Go FDU](http://twitter.com/search?q=Go+FDU) | N/A |
+| 45 | [Congrats FDU](http://twitter.com/search?q=Congrats+FDU) | N/A |
+| 46 | [Matt Ramos](http://twitter.com/search?q=Matt+Ramos) | N/A |
+| 47 | [West Lafayette](http://twitter.com/search?q=West+Lafayette) | N/A |
+| 48 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 49 | [St. Peter](http://twitter.com/search?q=St.+Peter) | N/A |
+| 50 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
 
 
 
