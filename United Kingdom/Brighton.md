@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brighton
 
-📆 Last Updated: `2023-03-18 18:16:23 UTC`
+📆 Last Updated: `2023-03-18 19:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 2 | [#SCOvITA](http://twitter.com/search?q=%23SCOvITA) | N/A |
-| 3 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
-| 4 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 5 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 6 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 7 | [Rasmus](http://twitter.com/search?q=Rasmus) | N/A |
-| 8 | [Molineux](http://twitter.com/search?q=Molineux) | Molineux is a football stadium in Wolverhampton, England. It is the home ground of Wolverhampton Wanderers Football Club, and has been since 1889. The name Molineux comes from the original owner of the land, Benjamin Molineux. The name is derived from the French word moulin, meaning "mill". |
-| 9 | [Ward-Prowse](http://twitter.com/search?q=Ward-Prowse) | N/A |
-| 10 | [#AVLBOU](http://twitter.com/search?q=%23AVLBOU) | N/A |
-| 11 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 12 | [Che Adams](http://twitter.com/search?q=Che+Adams) | Che Adams is a professional footballer who plays as a forward for Southampton in the Premier League. He began his career with Ilkeston Town before joining Sheffield United in 2014. He has also played for Birmingham City and Leeds United. The name Che Adams is derived from his middle name, Cheikhou, which means "God's gift" in the Wolof language of Senegal. |
-| 13 | [James Ward](http://twitter.com/search?q=James+Ward) | James Ward is a surname of English origin. It is derived from the Old French personal name "Gautier", which was brought to England by the Normans in the 11th century. The name means "strong in battle" or "brave warrior". |
-| 14 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 15 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 16 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 17 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 18 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
+| 1 | [#WOLLEE](http://twitter.com/search?q=%23WOLLEE) | N/A |
+| 2 | [#Haaland](http://twitter.com/search?q=%23Haaland) | N/A |
+| 3 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 4 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 5 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 6 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 7 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
+| 8 | [Charlie Austin](http://twitter.com/search?q=Charlie+Austin) | N/A |
+| 9 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 10 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
+| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 12 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 13 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 14 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
+| 15 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 16 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 17 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 18 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 19 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 20 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 22 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 23 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 24 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 26 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 27 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 28 | [Peyper](http://twitter.com/search?q=Peyper) | N/A |
-| 29 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 30 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
-| 31 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 32 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 33 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 34 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 35 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 36 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 37 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 38 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 39 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
-| 40 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 41 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 42 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 43 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 44 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 45 | [Jake Hadley](http://twitter.com/search?q=Jake+Hadley) | N/A |
-| 46 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 47 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
-| 48 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 49 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 20 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 21 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 22 | [Steward](http://twitter.com/search?q=Steward) | N/A |
+| 23 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 24 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 25 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 27 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 28 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 29 | [Peyper](http://twitter.com/search?q=Peyper) | N/A |
+| 30 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 31 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 32 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 33 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 35 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 37 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
+| 38 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 39 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 40 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
+| 41 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 42 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 43 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
+| 44 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 45 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 46 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 47 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 48 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 49 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
 
 
 

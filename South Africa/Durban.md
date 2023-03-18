@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-18 18:16:52 UTC`
+📆 Last Updated: `2023-03-18 19:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 5 | [#SingleAndMingle](http://twitter.com/search?q=%23SingleAndMingle) | N/A |
-| 6 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
-| 7 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 8 | [#XRepo](http://twitter.com/search?q=%23XRepo) | N/A |
-| 9 | [Temba Bavuma](http://twitter.com/search?q=Temba+Bavuma) | N/A |
-| 10 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
-| 11 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 12 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 13 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 15 | [Kwinika](http://twitter.com/search?q=Kwinika) | N/A |
-| 16 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 17 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
-| 18 | [Orlando Pirates](http://twitter.com/search?q=Orlando+Pirates) | N/A |
-| 19 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 20 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 21 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 22 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 23 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 24 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 25 | [PARTY WITH KHOSI](http://twitter.com/search?q=PARTY+WITH+KHOSI) | N/A |
-| 26 | [SuperSport United](http://twitter.com/search?q=SuperSport+United) | N/A |
-| 27 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 28 | [Cairo](http://twitter.com/search?q=Cairo) | N/A |
-| 29 | [East London](http://twitter.com/search?q=East+London) | N/A |
-| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 31 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 32 | [NELISA THE HOST](http://twitter.com/search?q=NELISA+THE+HOST) | N/A |
-| 33 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 34 | [Black Label](http://twitter.com/search?q=Black+Label) | N/A |
-| 35 | [THABANG TO THE FINALS](http://twitter.com/search?q=THABANG+TO+THE+FINALS) | N/A |
-| 36 | [TBANGERS PIN FOR THABANG](http://twitter.com/search?q=TBANGERS+PIN+FOR+THABANG) | N/A |
-| 37 | [RULANATION](http://twitter.com/search?q=RULANATION) | N/A |
-| 38 | [#DStvPrem](http://twitter.com/search?q=%23DStvPrem) | N/A |
-| 39 | [#OnceAlways](http://twitter.com/search?q=%23OnceAlways) | N/A |
-| 40 | [#UseYourCashOnline](http://twitter.com/search?q=%23UseYourCashOnline) | N/A |
-| 41 | [#GigaNathi](http://twitter.com/search?q=%23GigaNathi) | N/A |
-| 42 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 43 | [#OTT4Me](http://twitter.com/search?q=%23OTT4Me) | N/A |
-| 44 | [#CAFCL](http://twitter.com/search?q=%23CAFCL) | N/A |
-| 45 | [#ItsWithin](http://twitter.com/search?q=%23ItsWithin) | N/A |
-| 46 | [#ShutdownSA](http://twitter.com/search?q=%23ShutdownSA) | N/A |
-| 47 | [#NelisaMsila𓃵](http://twitter.com/search?q=%23NelisaMsila%f0%93%83%b5) | N/A |
-| 48 | [#RealMarulaOnlyAmarula](http://twitter.com/search?q=%23RealMarulaOnlyAmarula) | N/A |
-| 49 | [#TheSpiritOfAfrica](http://twitter.com/search?q=%23TheSpiritOfAfrica) | N/A |
+| 2 | [#QueensOfTheNight](http://twitter.com/search?q=%23QueensOfTheNight) | N/A |
+| 3 | [#Umndeni](http://twitter.com/search?q=%23Umndeni) | N/A |
+| 4 | [Kwinika](http://twitter.com/search?q=Kwinika) | N/A |
+| 5 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 6 | [Bavuma](http://twitter.com/search?q=Bavuma) | N/A |
+| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 8 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 9 | [#Amakhosi4Life](http://twitter.com/search?q=%23Amakhosi4Life) | N/A |
+| 10 | [#DStvPrem](http://twitter.com/search?q=%23DStvPrem) | N/A |
+| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 12 | [Maritzburg](http://twitter.com/search?q=Maritzburg) | N/A |
+| 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 16 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 19 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 20 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 21 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 22 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 23 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 24 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 25 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 26 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 27 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 28 | [PARTY WITH KHOSI](http://twitter.com/search?q=PARTY+WITH+KHOSI) | N/A |
+| 29 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 30 | [Arthur Zwane](http://twitter.com/search?q=Arthur+Zwane) | N/A |
+| 31 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 32 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 33 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 34 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 35 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 36 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
+| 37 | [Cairo](http://twitter.com/search?q=Cairo) | N/A |
+| 38 | [Supersport](http://twitter.com/search?q=Supersport) | N/A |
+| 39 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 40 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 41 | [East London](http://twitter.com/search?q=East+London) | N/A |
+| 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 43 | [THABANG TO THE FINALS](http://twitter.com/search?q=THABANG+TO+THE+FINALS) | N/A |
+| 44 | [NELISA THE HOST](http://twitter.com/search?q=NELISA+THE+HOST) | N/A |
+| 45 | [TBANGERS PIN FOR THABANG](http://twitter.com/search?q=TBANGERS+PIN+FOR+THABANG) | N/A |
+| 46 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
+| 47 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 48 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
+| 49 | [#SingleAndMingle](http://twitter.com/search?q=%23SingleAndMingle) | N/A |
 
 
 

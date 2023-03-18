@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-18 18:16:44 UTC`
+📆 Last Updated: `2023-03-18 19:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Australia](</Australia>)
 | 11 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 12 | [Corica](http://twitter.com/search?q=Corica) | N/A |
 | 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Sheezel](http://twitter.com/search?q=Sheezel) | N/A |
-| 15 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 16 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 17 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 18 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
-| 19 | [Victoria Police](http://twitter.com/search?q=Victoria+Police) | N/A |
-| 20 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 22 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
-| 23 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 14 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 15 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 16 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
+| 17 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 18 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
+| 19 | [Sheezel](http://twitter.com/search?q=Sheezel) | N/A |
+| 20 | [Victoria Police](http://twitter.com/search?q=Victoria+Police) | N/A |
+| 21 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
 | 24 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
 | 25 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 26 | [Keating](http://twitter.com/search?q=Keating) | N/A |
-| 27 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 28 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 29 | [Sydney FC](http://twitter.com/search?q=Sydney+FC) | N/A |
-| 30 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 31 | [Mr brightside](http://twitter.com/search?q=Mr+brightside) | N/A |
-| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 33 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 34 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 35 | [Shinzo](http://twitter.com/search?q=Shinzo) | N/A |
-| 36 | [Liam Jones](http://twitter.com/search?q=Liam+Jones) | N/A |
-| 37 | [Bailey Smith](http://twitter.com/search?q=Bailey+Smith) | N/A |
-| 38 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 39 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
-| 40 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 41 | [Naarm](http://twitter.com/search?q=Naarm) | N/A |
-| 42 | [Sam Neill](http://twitter.com/search?q=Sam+Neill) | N/A |
-| 43 | [Reece Walsh](http://twitter.com/search?q=Reece+Walsh) | N/A |
-| 44 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 45 | [jeremy howe](http://twitter.com/search?q=jeremy+howe) | N/A |
-| 46 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
-| 47 | [xerri](http://twitter.com/search?q=xerri) | N/A |
-| 48 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 49 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 27 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 28 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 29 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 30 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 31 | [Sydney FC](http://twitter.com/search?q=Sydney+FC) | N/A |
+| 32 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 33 | [Mr Brightside](http://twitter.com/search?q=Mr+Brightside) | N/A |
+| 34 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 35 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 36 | [Shinzo](http://twitter.com/search?q=Shinzo) | N/A |
+| 37 | [Liam Jones](http://twitter.com/search?q=Liam+Jones) | N/A |
+| 38 | [bailey smith](http://twitter.com/search?q=bailey+smith) | N/A |
+| 39 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 40 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
+| 41 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 42 | [Naarm](http://twitter.com/search?q=Naarm) | N/A |
+| 43 | [Sam Neill](http://twitter.com/search?q=Sam+Neill) | N/A |
+| 44 | [reece walsh](http://twitter.com/search?q=reece+walsh) | N/A |
+| 45 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 46 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 47 | [jeremy howe](http://twitter.com/search?q=jeremy+howe) | N/A |
+| 48 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
+| 49 | [xerri](http://twitter.com/search?q=xerri) | N/A |
 
 
 

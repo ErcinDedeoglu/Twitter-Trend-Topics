@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-18 18:17:11 UTC`
+📆 Last Updated: `2023-03-18 19:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for Austria
 | 12 | [Landesregierung](http://twitter.com/search?q=Landesregierung) | N/A |
 | 13 | [Kern](http://twitter.com/search?q=Kern) | N/A |
 | 14 | [#FPOE](http://twitter.com/search?q=%23FPOE) | N/A |
-| 15 | [NEOS](http://twitter.com/search?q=NEOS) | N/A |
-| 16 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 17 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 15 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 16 | [Neos](http://twitter.com/search?q=Neos) | N/A |
+| 17 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
 | 18 | [St. Pölten](http://twitter.com/search?q=St.+P%c3%b6lten) | N/A |
-| 19 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 20 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 21 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 22 | [Arbeitsübereinkommen](http://twitter.com/search?q=Arbeits%c3%bcbereinkommen) | N/A |
-| 23 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 26 | [Karas](http://twitter.com/search?q=Karas) | N/A |
-| 27 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
-| 28 | [Hitlergruß](http://twitter.com/search?q=Hitlergru%c3%9f) | N/A |
-| 29 | [Falle](http://twitter.com/search?q=Falle) | N/A |
+| 19 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 20 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 22 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 23 | [Arbeitsübereinkommen](http://twitter.com/search?q=Arbeits%c3%bcbereinkommen) | N/A |
+| 24 | [Hitlergruß](http://twitter.com/search?q=Hitlergru%c3%9f) | N/A |
+| 25 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 26 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 27 | [Programm](http://twitter.com/search?q=Programm) | N/A |
+| 28 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
+| 29 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
 | 30 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 31 | [Schüssel](http://twitter.com/search?q=Sch%c3%bcssel) | N/A |
-| 32 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 33 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 34 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 35 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 36 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
-| 37 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
-| 38 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
-| 39 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 40 | [Pause](http://twitter.com/search?q=Pause) | N/A |
-| 41 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
-| 42 | [Pakt](http://twitter.com/search?q=Pakt) | N/A |
+| 31 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 32 | [Karas](http://twitter.com/search?q=Karas) | N/A |
+| 33 | [Schüssel](http://twitter.com/search?q=Sch%c3%bcssel) | N/A |
+| 34 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 35 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
+| 36 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
+| 37 | [Speisen](http://twitter.com/search?q=Speisen) | N/A |
+| 38 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
+| 39 | [Pakt](http://twitter.com/search?q=Pakt) | N/A |
+| 40 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 41 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
+| 42 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
 | 43 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
-| 44 | [Integration](http://twitter.com/search?q=Integration) | N/A |
-| 45 | [Trotteln](http://twitter.com/search?q=Trotteln) | N/A |
-| 46 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 47 | [Schwarzen](http://twitter.com/search?q=Schwarzen) | N/A |
-| 48 | [Blauen](http://twitter.com/search?q=Blauen) | N/A |
-| 49 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 50 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
+| 44 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 45 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 46 | [Integration](http://twitter.com/search?q=Integration) | N/A |
+| 47 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
+| 48 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
+| 49 | [Schwarz-Blau](http://twitter.com/search?q=Schwarz-Blau) | N/A |
+| 50 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-03-18 18:16:31 UTC`
+📆 Last Updated: `2023-03-18 19:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 3 | [#GuerraContraLaCorrupción](http://twitter.com/search?q=%23GuerraContraLaCorrupci%c3%b3n) | N/A |
 | 4 | [#BastaDeImposiciónImperial](http://twitter.com/search?q=%23BastaDeImposici%c3%b3nImperial) | N/A |
-| 5 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 5 | [#PJEn1000Parroquias](http://twitter.com/search?q=%23PJEn1000Parroquias) | N/A |
 | 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [#PJEn1000Parroquias](http://twitter.com/search?q=%23PJEn1000Parroquias) | N/A |
-| 8 | [#PJYCaprilesTeEscuchan](http://twitter.com/search?q=%23PJYCaprilesTeEscuchan) | N/A |
+| 7 | [#PJYCaprilesTeEscuchan](http://twitter.com/search?q=%23PJYCaprilesTeEscuchan) | N/A |
+| 8 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 9 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
 | 10 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 11 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 12 | [Sunacrip](http://twitter.com/search?q=Sunacrip) | N/A |
-| 13 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 14 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 11 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 13 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 14 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 15 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 16 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
 | 17 | [Jorge Tuero](http://twitter.com/search?q=Jorge+Tuero) | N/A |
-| 18 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 19 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 20 | [Clap](http://twitter.com/search?q=Clap) | N/A |
-| 21 | [Joselit Ramírez](http://twitter.com/search?q=Joselit+Ram%c3%adrez) | N/A |
-| 22 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
-| 23 | [Musi-k Fest](http://twitter.com/search?q=Musi-k+Fest) | N/A |
-| 24 | [Mojado](http://twitter.com/search?q=Mojado) | N/A |
-| 25 | [La Melodía Perfecta](http://twitter.com/search?q=La+Melod%c3%ada+Perfecta) | N/A |
-| 26 | [Día Nacional del Niño Indígena](http://twitter.com/search?q=D%c3%ada+Nacional+del+Ni%c3%b1o+Ind%c3%adgena) | N/A |
-| 27 | [Estatuto de Roma](http://twitter.com/search?q=Estatuto+de+Roma) | N/A |
-| 28 | [Elorza](http://twitter.com/search?q=Elorza) | N/A |
-| 29 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
-| 30 | [Tito Salas](http://twitter.com/search?q=Tito+Salas) | N/A |
-| 31 | [Mikaela](http://twitter.com/search?q=Mikaela) | N/A |
-| 32 | [Verónica](http://twitter.com/search?q=Ver%c3%b3nica) | N/A |
-| 33 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 34 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 35 | [Liqui Liqui](http://twitter.com/search?q=Liqui+Liqui) | N/A |
-| 36 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
-| 37 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 38 | [En Margarita](http://twitter.com/search?q=En+Margarita) | N/A |
-| 39 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 40 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 41 | [Neisser](http://twitter.com/search?q=Neisser) | N/A |
-| 42 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
-| 43 | [Nueva Esparta](http://twitter.com/search?q=Nueva+Esparta) | N/A |
-| 44 | [Mario Silva](http://twitter.com/search?q=Mario+Silva) | N/A |
-| 45 | [Gulfstream Park](http://twitter.com/search?q=Gulfstream+Park) | N/A |
-| 46 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 47 | [Arozarena](http://twitter.com/search?q=Arozarena) | N/A |
-| 48 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 49 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 18 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 19 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 20 | [Joselit Ramírez](http://twitter.com/search?q=Joselit+Ram%c3%adrez) | N/A |
+| 21 | [Clap](http://twitter.com/search?q=Clap) | N/A |
+| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 23 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
+| 24 | [Musi-k Fest](http://twitter.com/search?q=Musi-k+Fest) | N/A |
+| 25 | [Sunacrip](http://twitter.com/search?q=Sunacrip) | N/A |
+| 26 | [Mojado](http://twitter.com/search?q=Mojado) | N/A |
+| 27 | [Día Nacional del Niño Indígena](http://twitter.com/search?q=D%c3%ada+Nacional+del+Ni%c3%b1o+Ind%c3%adgena) | N/A |
+| 28 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
+| 29 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 30 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 31 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
+| 32 | [Elorza](http://twitter.com/search?q=Elorza) | N/A |
+| 33 | [Tito Salas](http://twitter.com/search?q=Tito+Salas) | N/A |
+| 34 | [Estatuto de Roma](http://twitter.com/search?q=Estatuto+de+Roma) | N/A |
+| 35 | [The Eras Tour](http://twitter.com/search?q=The+Eras+Tour) | N/A |
+| 36 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 37 | [Mikaela](http://twitter.com/search?q=Mikaela) | N/A |
+| 38 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
+| 39 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 40 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 41 | [Nueva Esparta](http://twitter.com/search?q=Nueva+Esparta) | N/A |
+| 42 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 43 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
+| 44 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 45 | [La Carlota](http://twitter.com/search?q=La+Carlota) | N/A |
+| 46 | [Mario Silva](http://twitter.com/search?q=Mario+Silva) | N/A |
+| 47 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 48 | [Bota](http://twitter.com/search?q=Bota) | N/A |
+| 49 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 
 
 

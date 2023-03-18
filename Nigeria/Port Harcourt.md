@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-18 18:16:52 UTC`
+📆 Last Updated: `2023-03-18 19:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
-| 2 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 3 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 4 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 5 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 6 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 7 | [Chude](http://twitter.com/search?q=Chude) | N/A |
-| 8 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 1 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 2 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 3 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
+| 4 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
+| 5 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 6 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
+| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 8 | [Chude](http://twitter.com/search?q=Chude) | N/A |
 | 9 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 10 | [#SanwoIsWinning](http://twitter.com/search?q=%23SanwoIsWinning) | N/A |
-| 11 | [#BBTitansxFlutterwave](http://twitter.com/search?q=%23BBTitansxFlutterwave) | N/A |
-| 12 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
-| 13 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
-| 14 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
-| 15 | [My Governor](http://twitter.com/search?q=My+Governor) | N/A |
-| 16 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 17 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
-| 18 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
-| 19 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 20 | [House of Assembly](http://twitter.com/search?q=House+of+Assembly) | N/A |
-| 21 | [Ward Prowse](http://twitter.com/search?q=Ward+Prowse) | N/A |
-| 22 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 23 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 24 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 25 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 26 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
-| 27 | [Tessy](http://twitter.com/search?q=Tessy) | N/A |
-| 28 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
-| 29 | [Yes Father](http://twitter.com/search?q=Yes+Father) | N/A |
+| 10 | [#HealingstreamsLiveDay2](http://twitter.com/search?q=%23HealingstreamsLiveDay2) | N/A |
+| 11 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 13 | [#GRVIsComing](http://twitter.com/search?q=%23GRVIsComing) | N/A |
+| 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 15 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 16 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 17 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 18 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
+| 19 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
+| 20 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
+| 21 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 22 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 23 | [My Governor](http://twitter.com/search?q=My+Governor) | N/A |
+| 24 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
+| 25 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
+| 26 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 27 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 28 | [Tessy](http://twitter.com/search?q=Tessy) | N/A |
+| 29 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
 | 30 | [Ijeoma](http://twitter.com/search?q=Ijeoma) | N/A |
-| 31 | [Teslim](http://twitter.com/search?q=Teslim) | N/A |
-| 32 | [East](http://twitter.com/search?q=East) | N/A |
-| 33 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 34 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
-| 35 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
-| 36 | [Dapo](http://twitter.com/search?q=Dapo) | N/A |
-| 37 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 38 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
-| 39 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 40 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 41 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 42 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
-| 43 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
-| 44 | [My Polling Unit](http://twitter.com/search?q=My+Polling+Unit) | N/A |
-| 45 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
-| 46 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
-| 47 | [thanksgiving](http://twitter.com/search?q=thanksgiving) | N/A |
-| 48 | [Omituntun 2.0](http://twitter.com/search?q=Omituntun+2.0) | N/A |
+| 31 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 32 | [House of Assembly](http://twitter.com/search?q=House+of+Assembly) | N/A |
+| 33 | [Yes Father](http://twitter.com/search?q=Yes+Father) | N/A |
+| 34 | [Dapo Abiodun](http://twitter.com/search?q=Dapo+Abiodun) | N/A |
+| 35 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
+| 36 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
+| 37 | [Father Alia](http://twitter.com/search?q=Father+Alia) | N/A |
+| 38 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 39 | [Teslim](http://twitter.com/search?q=Teslim) | N/A |
+| 40 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 41 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 42 | [Bashir](http://twitter.com/search?q=Bashir) | N/A |
+| 43 | [East](http://twitter.com/search?q=East) | N/A |
+| 44 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
+| 45 | [Ward Prowse](http://twitter.com/search?q=Ward+Prowse) | N/A |
+| 46 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
+| 47 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
+| 48 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
 
 
 

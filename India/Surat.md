@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-03-18 18:16:59 UTC`
+📆 Last Updated: `2023-03-18 19:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
-| 2 | [#AskArmaan](http://twitter.com/search?q=%23AskArmaan) | N/A |
-| 3 | [#RCBvGG](http://twitter.com/search?q=%23RCBvGG) | N/A |
+| 1 | [#AskArmaan](http://twitter.com/search?q=%23AskArmaan) | N/A |
+| 2 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
+| 3 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
 | 4 | [#ATKMBBFC](http://twitter.com/search?q=%23ATKMBBFC) | N/A |
-| 5 | [#AimOfSantRampalJi](http://twitter.com/search?q=%23AimOfSantRampalJi) | #AimOfSantRampalJi is a hashtag used to promote the teachings of Sant Rampal Ji Maharaj, an Indian spiritual leader. The aim of Sant Rampal Ji Maharaj is to spread the message of truth and peace through his teachings and to help people lead a better life. In English, this hashtag translates to "The Aim of Sant Rampal Ji Maharaj". |
-| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 7 | [Mohun Bagan Super Giants](http://twitter.com/search?q=Mohun+Bagan+Super+Giants) | N/A |
-| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 9 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
-| 10 | [Mahindra Percussion Festival](http://twitter.com/search?q=Mahindra+Percussion+Festival) | N/A |
+| 5 | [#RCBvGG](http://twitter.com/search?q=%23RCBvGG) | N/A |
+| 6 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 7 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 10 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
 | 11 | [HARSHAD CHOPDA WON IGA 2023](http://twitter.com/search?q=HARSHAD+CHOPDA+WON+IGA+2023) | N/A |
-| 12 | [Deepti S & Punam R](http://twitter.com/search?q=Deepti+S+%26+Punam+R) | N/A |
-| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 14 | [KKUNDRRA GRACING ICONIC AWARDS](http://twitter.com/search?q=KKUNDRRA+GRACING+ICONIC+AWARDS) | N/A |
-| 15 | [Sushant Stirs Emotion](http://twitter.com/search?q=Sushant+Stirs+Emotion) | N/A |
-| 16 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 17 | [BEKAABOO ON COLORS](http://twitter.com/search?q=BEKAABOO+ON+COLORS) | N/A |
-| 18 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 19 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 20 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 21 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 23 | [HANDSOME PRATIK IN IGA](http://twitter.com/search?q=HANDSOME+PRATIK+IN+IGA) | N/A |
-| 24 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 25 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 26 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 27 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 28 | [Vishal Kaith](http://twitter.com/search?q=Vishal+Kaith) | N/A |
-| 29 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 30 | [काला टीका](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9f%e0%a5%80%e0%a4%95%e0%a4%be) | N/A |
-| 31 | [Roy Krishna](http://twitter.com/search?q=Roy+Krishna) | N/A |
-| 32 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 33 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 34 | [Multan](http://twitter.com/search?q=Multan) | N/A |
-| 35 | [Sant Rampal Ji Maharaj Ji](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+Ji) | N/A |
-| 36 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 37 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
-| 38 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 39 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 40 | [मानव समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 41 | [Peepal](http://twitter.com/search?q=Peepal) | N/A |
-| 42 | [Chris Gayle](http://twitter.com/search?q=Chris+Gayle) | N/A |
-| 43 | [वारिस पंजाब](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac) | N/A |
-| 44 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 45 | [Law Minister](http://twitter.com/search?q=Law+Minister) | N/A |
-| 46 | [Pols](http://twitter.com/search?q=Pols) | N/A |
-| 47 | [दहेज जैसी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%9c%e0%a5%88%e0%a4%b8%e0%a5%80) | N/A |
-| 48 | [मुक्त समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 49 | [हिन्दू मुस्लिम सिख ईसाई](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%96+%e0%a4%88%e0%a4%b8%e0%a4%be%e0%a4%88) | N/A |
+| 12 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 13 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
+| 14 | [TEJASSWI GRACING ELLE CARNIVAL](http://twitter.com/search?q=TEJASSWI+GRACING+ELLE+CARNIVAL) | N/A |
+| 15 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 16 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 19 | [KKUNDRRA GRACING ICONIC AWARDS](http://twitter.com/search?q=KKUNDRRA+GRACING+ICONIC+AWARDS) | N/A |
+| 20 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 21 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 22 | [Deepti S & Punam R](http://twitter.com/search?q=Deepti+S+%26+Punam+R) | N/A |
+| 23 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 24 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 25 | [Sushant Stirs Emotion](http://twitter.com/search?q=Sushant+Stirs+Emotion) | N/A |
+| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 27 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 28 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 29 | [BEKAABOO ON COLORS](http://twitter.com/search?q=BEKAABOO+ON+COLORS) | N/A |
+| 30 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 31 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 32 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 33 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 34 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 35 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 36 | [HANDSOME PRATIK IN IGA](http://twitter.com/search?q=HANDSOME+PRATIK+IN+IGA) | N/A |
+| 37 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 38 | [Roy Krishna](http://twitter.com/search?q=Roy+Krishna) | N/A |
+| 39 | [काला टीका](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9f%e0%a5%80%e0%a4%95%e0%a4%be) | N/A |
+| 40 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 41 | [Vishal Kaith](http://twitter.com/search?q=Vishal+Kaith) | N/A |
+| 42 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 43 | [Encounter](http://twitter.com/search?q=Encounter) | N/A |
+| 44 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 45 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 46 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 47 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
+| 48 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 49 | [#AimOfSantRampalJi](http://twitter.com/search?q=%23AimOfSantRampalJi) | #AimOfSantRampalJi is a hashtag used to promote the teachings of Sant Rampal Ji Maharaj, an Indian spiritual leader. The aim of Sant Rampal Ji Maharaj is to spread the message of truth and peace through his teachings and to help people lead a better life. In English, this hashtag translates to "The Aim of Sant Rampal Ji Maharaj". |
 
 
 
