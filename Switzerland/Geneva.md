@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-18 09:17:14 UTC`
+📆 Last Updated: `2023-03-18 10:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 2 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 3 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 4 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 2 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 3 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
+| 4 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 5 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 6 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 7 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 8 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 9 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 11 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
-| 12 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 6 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 7 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 8 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 12 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
 | 13 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 14 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 15 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 16 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 17 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 18 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 19 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 20 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 21 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 23 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
-| 24 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 25 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
-| 26 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 28 | [Druck](http://twitter.com/search?q=Druck) | N/A |
-| 29 | [Finma](http://twitter.com/search?q=Finma) | N/A |
-| 30 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 31 | [Cola](http://twitter.com/search?q=Cola) | N/A |
-| 32 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 33 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 34 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 35 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
-| 36 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
-| 37 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 38 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 39 | [Brigitte](http://twitter.com/search?q=Brigitte) | N/A |
-| 40 | [Stufe](http://twitter.com/search?q=Stufe) | N/A |
-| 41 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 42 | [Schweizer](http://twitter.com/search?q=Schweizer) | N/A |
-| 43 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 44 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 45 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 46 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 47 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 48 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 14 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 15 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 16 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 17 | [Finma](http://twitter.com/search?q=Finma) | N/A |
+| 18 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 19 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 20 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 21 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 22 | [West](http://twitter.com/search?q=West) | N/A |
+| 23 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 24 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 25 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 26 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
+| 27 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 28 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 29 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 33 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 35 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 36 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
+| 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 38 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 39 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 40 | [Cola](http://twitter.com/search?q=Cola) | N/A |
+| 41 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 42 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 43 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 44 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 45 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
+| 46 | [Regulierungen](http://twitter.com/search?q=Regulierungen) | N/A |
+| 47 | [Brigitte](http://twitter.com/search?q=Brigitte) | N/A |
+| 48 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
 
 
 

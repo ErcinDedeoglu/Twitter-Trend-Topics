@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-03-18 09:17:00 UTC`
+📆 Last Updated: `2023-03-18 10:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [#YoutubeCorrupt](http://twitter.com/search?q=%23YoutubeCorrupt) | N/A |
-| 4 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 5 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
-| 6 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
-| 7 | [#WelcomeBackMcLeeKnow](http://twitter.com/search?q=%23WelcomeBackMcLeeKnow) | N/A |
-| 8 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 9 | [#여긴_리노의_나라야](http://twitter.com/search?q=%23%ec%97%ac%ea%b8%b4_%eb%a6%ac%eb%85%b8%ec%9d%98_%eb%82%98%eb%9d%bc%ec%95%bc) | N/A |
-| 10 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 11 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
-| 12 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 13 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
-| 14 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 15 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
-| 16 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 17 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 18 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 19 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 20 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
-| 21 | [Cerdo](http://twitter.com/search?q=Cerdo) | N/A |
-| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 23 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
-| 24 | [MI CANCIÓN](http://twitter.com/search?q=MI+CANCI%c3%93N) | N/A |
-| 25 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 26 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 27 | [Folklore](http://twitter.com/search?q=Folklore) | N/A |
-| 28 | [Béisbol](http://twitter.com/search?q=B%c3%a9isbol) | N/A |
-| 29 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 30 | [THE ARCHER](http://twitter.com/search?q=THE+ARCHER) | N/A |
-| 31 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 32 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 33 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
-| 34 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
-| 35 | [NO ESTOY SOPORTANDO](http://twitter.com/search?q=NO+ESTOY+SOPORTANDO) | N/A |
-| 36 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 37 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 38 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 39 | [Semifinales](http://twitter.com/search?q=Semifinales) | N/A |
-| 40 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 41 | [#NormaLizbeth](http://twitter.com/search?q=%23NormaLizbeth) | N/A |
-| 42 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
+| 3 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [#JusticiaParaNormaLizbeth](http://twitter.com/search?q=%23JusticiaParaNormaLizbeth) | N/A |
+| 6 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 7 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 8 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 9 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 10 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
+| 11 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 12 | [#ひろがるホロライブDAY1](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY1) | N/A |
+| 13 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 14 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 15 | [Inmoral](http://twitter.com/search?q=Inmoral) | N/A |
+| 16 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
+| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 18 | [Urías](http://twitter.com/search?q=Ur%c3%adas) | N/A |
+| 19 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 20 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 21 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
+| 22 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 23 | [Fito Olivares](http://twitter.com/search?q=Fito+Olivares) | N/A |
+| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 25 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 26 | [Asesina](http://twitter.com/search?q=Asesina) | N/A |
+| 27 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 28 | [Lázaro Cárdenas Batel](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas+Batel) | N/A |
+| 29 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 30 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 31 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 32 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 33 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 34 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 35 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 36 | [Semifinales](http://twitter.com/search?q=Semifinales) | N/A |
+| 37 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 38 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 39 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 40 | [Teotihuacán](http://twitter.com/search?q=Teotihuac%c3%a1n) | N/A |
+| 41 | [Javier Assad](http://twitter.com/search?q=Javier+Assad) | N/A |
+| 42 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 43 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 44 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
+| 45 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 46 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
+| 47 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 48 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
+| 49 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
 
 
 

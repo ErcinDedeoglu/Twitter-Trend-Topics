@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-18 09:17:07 UTC`
+📆 Last Updated: `2023-03-18 10:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
 | 2 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 3 | [Sally Rooney](http://twitter.com/search?q=Sally+Rooney) | N/A |
-| 4 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
-| 5 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
-| 6 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 7 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
-| 8 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
-| 9 | [#GrandSlam](http://twitter.com/search?q=%23GrandSlam) | N/A |
-| 10 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 11 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
-| 12 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 13 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 15 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 16 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
-| 17 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 21 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 22 | [Hewick](http://twitter.com/search?q=Hewick) | N/A |
-| 23 | [Doug](http://twitter.com/search?q=Doug) | N/A |
-| 24 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 3 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
+| 4 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 5 | [Sally Rooney](http://twitter.com/search?q=Sally+Rooney) | N/A |
+| 6 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
+| 7 | [Lá Fhéile Pádraig](http://twitter.com/search?q=L%c3%a1+Fh%c3%a9ile+P%c3%a1draig) | N/A |
+| 8 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 9 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
+| 10 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 11 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 12 | [#ARSSCP](http://twitter.com/search?q=%23ARSSCP) | N/A |
+| 13 | [#TeamOfUs](http://twitter.com/search?q=%23TeamOfUs) | N/A |
+| 14 | [Ireland v England](http://twitter.com/search?q=Ireland+v+England) | N/A |
+| 15 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 16 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 17 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 18 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
+| 19 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 21 | [Doug](http://twitter.com/search?q=Doug) | N/A |
+| 22 | [Irishness](http://twitter.com/search?q=Irishness) | N/A |
+| 23 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
+| 24 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
 | 25 | [Temple Bar](http://twitter.com/search?q=Temple+Bar) | N/A |
-| 26 | [century of peace building](http://twitter.com/search?q=century+of+peace+building) | N/A |
-| 27 | [Fergal](http://twitter.com/search?q=Fergal) | N/A |
-| 28 | [Irishness](http://twitter.com/search?q=Irishness) | N/A |
+| 26 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 27 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 28 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
 | 29 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 30 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 31 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
-| 32 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 33 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 34 | [Gareth](http://twitter.com/search?q=Gareth) | N/A |
+| 30 | [century of peace building](http://twitter.com/search?q=century+of+peace+building) | N/A |
+| 31 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
+| 32 | [Fergal](http://twitter.com/search?q=Fergal) | N/A |
+| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 34 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
 | 35 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 36 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 38 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 39 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
-| 40 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 42 | [Mallet](http://twitter.com/search?q=Mallet) | N/A |
-| 43 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 44 | [Ryan Tubridy](http://twitter.com/search?q=Ryan+Tubridy) | N/A |
-| 45 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 46 | [Slainte](http://twitter.com/search?q=Slainte) | N/A |
-| 47 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 48 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
-| 49 | [Danny Boy](http://twitter.com/search?q=Danny+Boy) | N/A |
-| 50 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 36 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 37 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 40 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 41 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 42 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 43 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
+| 44 | [Emerald Isle](http://twitter.com/search?q=Emerald+Isle) | N/A |
+| 45 | [Mallet](http://twitter.com/search?q=Mallet) | N/A |
+| 46 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
+| 47 | [Varadkar](http://twitter.com/search?q=Varadkar) | N/A |
+| 48 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
+| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 50 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
 
 
 

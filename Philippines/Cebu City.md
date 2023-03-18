@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-18 09:17:24 UTC`
+📆 Last Updated: `2023-03-18 10:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 2 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
-| 3 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 4 | [Kasilag](http://twitter.com/search?q=Kasilag) | N/A |
-| 5 | [Pangs](http://twitter.com/search?q=Pangs) | N/A |
-| 6 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 7 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 8 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 9 | [#BTOB_5thFanMeeting_D1](http://twitter.com/search?q=%23BTOB_5thFanMeeting_D1) | N/A |
-| 10 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 11 | [DALAMPASIGAN 1ST ANNIVERSARY](http://twitter.com/search?q=DALAMPASIGAN+1ST+ANNIVERSARY) | N/A |
-| 12 | [THE FUTURE IS VIBRENT](http://twitter.com/search?q=THE+FUTURE+IS+VIBRENT) | N/A |
-| 13 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
-| 14 | [DAVID WiLTELCOM ANNIVERSARY](http://twitter.com/search?q=DAVID+WiLTELCOM+ANNIVERSARY) | N/A |
-| 15 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 16 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 17 | [MOMMY JANELLA SALVADOR](http://twitter.com/search?q=MOMMY+JANELLA+SALVADOR) | N/A |
-| 18 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 20 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 21 | [MIKAEL](http://twitter.com/search?q=MIKAEL) | N/A |
-| 22 | [mc lee](http://twitter.com/search?q=mc+lee) | N/A |
-| 23 | [KDLEX HEADLINER BILLBOARD](http://twitter.com/search?q=KDLEX+HEADLINER+BILLBOARD) | N/A |
-| 24 | [Rusical](http://twitter.com/search?q=Rusical) | N/A |
-| 25 | [MY TEARS RICOCHET](http://twitter.com/search?q=MY+TEARS+RICOCHET) | N/A |
-| 26 | [ALDENxEB EatBulagaSaturday](http://twitter.com/search?q=ALDENxEB+EatBulagaSaturday) | N/A |
-| 27 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 28 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
-| 29 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 30 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 31 | [hai cheng](http://twitter.com/search?q=hai+cheng) | N/A |
-| 32 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 33 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
-| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 35 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 36 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
-| 37 | [#Circle1stWin](http://twitter.com/search?q=%23Circle1stWin) | N/A |
-| 38 | [#WildTonight1MonSpotify](http://twitter.com/search?q=%23WildTonight1MonSpotify) | N/A |
-| 39 | [#OPPOInspirationAhead](http://twitter.com/search?q=%23OPPOInspirationAhead) | N/A |
-| 40 | [#MCGIJoyfulHearts](http://twitter.com/search?q=%23MCGIJoyfulHearts) | N/A |
-| 41 | [#ONEW1stWin](http://twitter.com/search?q=%23ONEW1stWin) | N/A |
-| 42 | [#DavidLicaucoInDavao](http://twitter.com/search?q=%23DavidLicaucoInDavao) | N/A |
-| 43 | [#JanellaAtUniLoveBabyFair](http://twitter.com/search?q=%23JanellaAtUniLoveBabyFair) | N/A |
-| 44 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 45 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
-| 46 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
-| 47 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 48 | [#LuckyLikeThat_황현진](http://twitter.com/search?q=%23LuckyLikeThat_%ed%99%a9%ed%98%84%ec%a7%84) | N/A |
-| 49 | [#ShowtimeBataKoTo](http://twitter.com/search?q=%23ShowtimeBataKoTo) | N/A |
-| 50 | [#ALDENonEatBulaga](http://twitter.com/search?q=%23ALDENonEatBulaga) | N/A |
+| 1 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
+| 2 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
+| 3 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 4 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 5 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 6 | [Kasilag](http://twitter.com/search?q=Kasilag) | N/A |
+| 7 | [#ENHYPEN_JAY](http://twitter.com/search?q=%23ENHYPEN_JAY) | N/A |
+| 8 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
+| 9 | [WELCOME TO SG ALEXA](http://twitter.com/search?q=WELCOME+TO+SG+ALEXA) | N/A |
+| 10 | [THE FUTURE IS VIBRENT](http://twitter.com/search?q=THE+FUTURE+IS+VIBRENT) | N/A |
+| 11 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 12 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 13 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 14 | [Pangs](http://twitter.com/search?q=Pangs) | N/A |
+| 15 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 16 | [BINI GWEN OUR SUPERMODEL](http://twitter.com/search?q=BINI+GWEN+OUR+SUPERMODEL) | N/A |
+| 17 | [NADINE INSPIRATION AHEAD](http://twitter.com/search?q=NADINE+INSPIRATION+AHEAD) | N/A |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 20 | [JAYS](http://twitter.com/search?q=JAYS) | N/A |
+| 21 | [DALAMPASIGAN 1ST ANNIVERSARY](http://twitter.com/search?q=DALAMPASIGAN+1ST+ANNIVERSARY) | N/A |
+| 22 | [Park Jongseong](http://twitter.com/search?q=Park+Jongseong) | N/A |
+| 23 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 24 | [DAVID WiLTELCOM ANNIVERSARY](http://twitter.com/search?q=DAVID+WiLTELCOM+ANNIVERSARY) | N/A |
+| 25 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 26 | [MOONBIN](http://twitter.com/search?q=MOONBIN) | N/A |
+| 27 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 28 | [TIM MCGRAW](http://twitter.com/search?q=TIM+MCGRAW) | N/A |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 31 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
+| 32 | [MIKAEL](http://twitter.com/search?q=MIKAEL) | N/A |
+| 33 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 34 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
+| 35 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 36 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 37 | [KDLEX HEADLINER BILLBOARD](http://twitter.com/search?q=KDLEX+HEADLINER+BILLBOARD) | N/A |
+| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 39 | [CHAMPAGNE PROBLEMS](http://twitter.com/search?q=CHAMPAGNE+PROBLEMS) | N/A |
+| 40 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 41 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 42 | [ALDENxEB EatBulagaSaturday](http://twitter.com/search?q=ALDENxEB+EatBulagaSaturday) | N/A |
+| 43 | [marjorie](http://twitter.com/search?q=marjorie) | N/A |
+| 44 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 45 | [#OPPOInspirationAhead](http://twitter.com/search?q=%23OPPOInspirationAhead) | N/A |
+| 46 | [#SkinCoSGOpening](http://twitter.com/search?q=%23SkinCoSGOpening) | N/A |
+| 47 | [#ひろがるホロライブDAY1](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY1) | N/A |
+| 48 | [#BTOB_5thFanMeeting_D1](http://twitter.com/search?q=%23BTOB_5thFanMeeting_D1) | N/A |
+| 49 | [#BiniGwenxParcinq](http://twitter.com/search?q=%23BiniGwenxParcinq) | N/A |
+| 50 | [#WildTonight1MonSpotify](http://twitter.com/search?q=%23WildTonight1MonSpotify) | N/A |
 
 
 
