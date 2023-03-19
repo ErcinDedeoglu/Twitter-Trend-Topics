@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-18 23:17:23 UTC`
+📆 Last Updated: `2023-03-19 00:30:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Fr8208](http://twitter.com/search?q=%23Fr8208) | N/A |
-| 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 3 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 4 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 5 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
-| 6 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 7 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 8 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 9 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 10 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 11 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 12 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 13 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 14 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 15 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 16 | [Gunnar Nelson](http://twitter.com/search?q=Gunnar+Nelson) | N/A |
-| 17 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 18 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 19 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 20 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
-| 21 | [Maia](http://twitter.com/search?q=Maia) | N/A |
-| 22 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
-| 23 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 24 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 25 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 26 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
-| 27 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 28 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
-| 29 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 30 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 31 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
-| 32 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 33 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
-| 34 | [gumi](http://twitter.com/search?q=gumi) | N/A |
-| 35 | [Dook](http://twitter.com/search?q=Dook) | N/A |
-| 36 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 37 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
-| 38 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
-| 39 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 40 | [Udeh](http://twitter.com/search?q=Udeh) | N/A |
-| 41 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 42 | [Fultz](http://twitter.com/search?q=Fultz) | N/A |
-| 43 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
-| 44 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 45 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 46 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 47 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
-| 48 | [Ranboo](http://twitter.com/search?q=Ranboo) | N/A |
-| 49 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 50 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 1 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 2 | [#WeAreTheA](http://twitter.com/search?q=%23WeAreTheA) | N/A |
+| 3 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 4 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 5 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
+| 6 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 7 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 8 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 9 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 10 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 11 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 12 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 13 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 14 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 15 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
+| 16 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 17 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 18 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 19 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 20 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 21 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
+| 22 | [Razorbacks](http://twitter.com/search?q=Razorbacks) | N/A |
+| 23 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 24 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
+| 25 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 26 | [#KUbball](http://twitter.com/search?q=%23KUbball) | N/A |
+| 27 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 28 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 29 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
+| 30 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 31 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 32 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
+| 33 | [Hemric](http://twitter.com/search?q=Hemric) | N/A |
+| 34 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 35 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 36 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 37 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
+| 38 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 39 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
+| 40 | [Davonte Davis](http://twitter.com/search?q=Davonte+Davis) | N/A |
+| 41 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 42 | [Martin Perez](http://twitter.com/search?q=Martin+Perez) | N/A |
+| 43 | [Sweet Sixteen](http://twitter.com/search?q=Sweet+Sixteen) | N/A |
+| 44 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
+| 45 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
+| 46 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 47 | [Ricky Council](http://twitter.com/search?q=Ricky+Council) | N/A |
+| 48 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 49 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 50 | [Aaron Brooks](http://twitter.com/search?q=Aaron+Brooks) | N/A |
 
 
 

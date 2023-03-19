@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sapporo
 
-📆 Last Updated: `2023-03-18 23:17:05 UTC`
+📆 Last Updated: `2023-03-19 00:30:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 2 | [#ボクらの時代](http://twitter.com/search?q=%23%e3%83%9c%e3%82%af%e3%82%89%e3%81%ae%e6%99%82%e4%bb%a3) | N/A |
-| 3 | [#アンジーラジオ](http://twitter.com/search?q=%23%e3%82%a2%e3%83%b3%e3%82%b8%e3%83%bc%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
-| 4 | [#日曜報道THEPRIME](http://twitter.com/search?q=%23%e6%97%a5%e6%9b%9c%e5%a0%b1%e9%81%93THEPRIME) | N/A |
-| 5 | [#高市大臣の罷免を防げ](http://twitter.com/search?q=%23%e9%ab%98%e5%b8%82%e5%a4%a7%e8%87%a3%e3%81%ae%e7%bd%b7%e5%85%8d%e3%82%92%e9%98%b2%e3%81%92) | N/A |
-| 6 | [審議拒否](http://twitter.com/search?q=%e5%af%a9%e8%ad%b0%e6%8b%92%e5%90%a6) | N/A |
-| 7 | [ゲイジー](http://twitter.com/search?q=%e3%82%b2%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
-| 8 | [ミュージックの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%83%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 9 | [国会軽視](http://twitter.com/search?q=%e5%9b%bd%e4%bc%9a%e8%bb%bd%e8%a6%96) | N/A |
-| 10 | [フィジエフ](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%b8%e3%82%a8%e3%83%95) | N/A |
-| 11 | [ゆめタウン](http://twitter.com/search?q=%e3%82%86%e3%82%81%e3%82%bf%e3%82%a6%e3%83%b3) | N/A |
-| 12 | [とうさんといっしょ](http://twitter.com/search?q=%e3%81%a8%e3%81%86%e3%81%95%e3%82%93%e3%81%a8%e3%81%84%e3%81%a3%e3%81%97%e3%82%87) | N/A |
-| 13 | [タラスズ](http://twitter.com/search?q=%e3%82%bf%e3%83%a9%e3%82%b9%e3%82%ba) | N/A |
-| 14 | [メタハラ](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%8f%e3%83%a9) | N/A |
-| 15 | [第422回](http://twitter.com/search?q=%e7%ac%ac422%e5%9b%9e) | N/A |
-| 16 | [セブンスギアス](http://twitter.com/search?q=%e3%82%bb%e3%83%96%e3%83%b3%e3%82%b9%e3%82%ae%e3%82%a2%e3%82%b9) | N/A |
-| 17 | [ズラタン](http://twitter.com/search?q=%e3%82%ba%e3%83%a9%e3%82%bf%e3%83%b3) | N/A |
-| 18 | [ハルマル](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%83%9e%e3%83%ab) | ハルマル (harumaru) is a Japanese word that means "spring". It is often used to describe the season of spring, when nature comes alive and the weather becomes warmer. |
-| 19 | [ビッグサイト](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 20 | [ハーランド](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | ハーランド (Hārando) is a Japanese word that means "harbor". It is used to refer to a place where ships can dock and unload cargo. |
-| 21 | [カメラ発明記念日](http://twitter.com/search?q=%e3%82%ab%e3%83%a1%e3%83%a9%e7%99%ba%e6%98%8e%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
-| 22 | [ウディネーゼ](http://twitter.com/search?q=%e3%82%a6%e3%83%87%e3%82%a3%e3%83%8d%e3%83%bc%e3%82%bc) | N/A |
-| 23 | [趣味の園芸](http://twitter.com/search?q=%e8%b6%a3%e5%91%b3%e3%81%ae%e5%9c%92%e8%8a%b8) | N/A |
-| 24 | [グリーンサム](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%b3%e3%82%b5%e3%83%a0) | N/A |
-| 25 | [番組継続](http://twitter.com/search?q=%e7%95%aa%e7%b5%84%e7%b6%99%e7%b6%9a) | N/A |
-| 26 | [イーウィヤ](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%a6%e3%82%a3%e3%83%a4) | N/A |
-| 27 | [ブラジル2部](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%b8%e3%83%ab2%e9%83%a8) | N/A |
-| 28 | [あでぃしょ](http://twitter.com/search?q=%e3%81%82%e3%81%a7%e3%81%83%e3%81%97%e3%82%87) | あでぃしょ is a Japanese onomatopoeia that is used to describe the sound of something being cut or sliced. In English, it could be translated as "snip" or "snip-snip". |
-| 29 | [ギャラガー](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%a9%e3%82%ac%e3%83%bc) | ギャラガー is a Japanese arcade game released in 1988 by Namco. It is a vertical scrolling shooter game in which the player controls a spaceship to battle against aliens. In English, the title translates to "Galaga". |
-| 30 | [クリバリ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%90%e3%83%aa) | N/A |
-| 31 | [稲垣吾郎](http://twitter.com/search?q=%e7%a8%b2%e5%9e%a3%e5%90%be%e9%83%8e) | N/A |
-| 32 | [カラスコ](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%82%b9%e3%82%b3) | N/A |
-| 33 | [西田敏行](http://twitter.com/search?q=%e8%a5%bf%e7%94%b0%e6%95%8f%e8%a1%8c) | N/A |
-| 34 | [岸部一徳](http://twitter.com/search?q=%e5%b2%b8%e9%83%a8%e4%b8%80%e5%be%b3) | N/A |
-| 35 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
-| 36 | [メンフィス](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%95%e3%82%a3%e3%82%b9) | N/A |
-| 37 | [カニちゃん](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | カニちゃん is a nickname for the Japanese red king crab, which is a type of large crab found in the waters around Japan. In English, it can be translated to "Crab-chan". |
-| 38 | [高市さん罷免](http://twitter.com/search?q=%e9%ab%98%e5%b8%82%e3%81%95%e3%82%93%e7%bd%b7%e5%85%8d) | N/A |
-| 39 | [ハーマー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%9e%e3%83%bc) | ハーマー (Hāmā) is a Japanese word for hammer. It is used to refer to a tool used for pounding or striking. In English, it can be translated as "hammer". |
-| 40 | [フェルスタッペン](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%83%e3%83%9a%e3%83%b3) | N/A |
-| 41 | [阪神大賞典](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e5%a4%a7%e8%b3%9e%e5%85%b8) | N/A |
-| 42 | [セキュリティクリアランス](http://twitter.com/search?q=%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%82%af%e3%83%aa%e3%82%a2%e3%83%a9%e3%83%b3%e3%82%b9) | N/A |
-| 43 | [ジョレンテ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%ac%e3%83%b3%e3%83%86) | N/A |
-| 44 | [ピオーリ](http://twitter.com/search?q=%e3%83%94%e3%82%aa%e3%83%bc%e3%83%aa) | N/A |
-| 45 | [ハヴァーツ](http://twitter.com/search?q=%e3%83%8f%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%84) | ハヴァーツ (Havarts) is a Japanese brand of clothing and accessories. The name is derived from the English word "heart" and is meant to represent the idea of expressing one's feelings through fashion. In English, Havarts can be translated to mean "expressing your heart through fashion". |
-| 46 | [バロトゥレ](http://twitter.com/search?q=%e3%83%90%e3%83%ad%e3%83%88%e3%82%a5%e3%83%ac) | N/A |
-| 47 | [トナーリ](http://twitter.com/search?q=%e3%83%88%e3%83%8a%e3%83%bc%e3%83%aa) | N/A |
-| 48 | [フェリックス](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 49 | [松岡大起](http://twitter.com/search?q=%e6%9d%be%e5%b2%a1%e5%a4%a7%e8%b5%b7) | N/A |
-| 50 | [高市早苗大臣](http://twitter.com/search?q=%e9%ab%98%e5%b8%82%e6%97%a9%e8%8b%97%e5%a4%a7%e8%87%a3) | N/A |
+| 1 | [パフォーマンス](http://twitter.com/search?q=%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b9) | N/A |
+| 2 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
+| 3 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
+| 4 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
+| 5 | [#nitiasa](http://twitter.com/search?q=%23nitiasa) | #nitiasa is a hashtag used on Twitter in Japan. It stands for "Night Time Information Sharing Association" and is used to share information about nightlife events, such as concerts, clubs, and bars. |
+| 6 | [#ひろプリ](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%83%97%e3%83%aa) | #ひろプリ is a hashtag used on Twitter in Japan to refer to the popular manga and anime series, "Hiroshima Prefecture". It is used to discuss the series, share fan art, and connect with other fans. In English, it translates to "#HiroshimaPrefecture". |
+| 7 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
+| 8 | [#サンデーモーニング](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%83%87%e3%83%bc%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0) | N/A |
+| 9 | [ヒーローガール](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%ac%e3%83%bc%e3%83%ab) | ヒーローガール (Hi-ro-ga-ru) is a Japanese term for a female superhero. It is used to refer to female characters who possess superhuman abilities and use them to fight crime or protect the public. In English, it can be translated as "Heroine" or "Female Superhero". |
+| 10 | [ツムリちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 11 | [スカイランド](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 12 | [坂本監督](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e7%9b%a3%e7%9d%a3) | 坂本監督 is a Japanese term that refers to a director or manager of a team or organization. It literally translates to "Sakamoto Director". The term is often used in the context of sports teams, where the director is responsible for overseeing the team's performance and making decisions about strategy and personnel. |
+| 13 | [審議拒否](http://twitter.com/search?q=%e5%af%a9%e8%ad%b0%e6%8b%92%e5%90%a6) | N/A |
+| 14 | [ウスマン](http://twitter.com/search?q=%e3%82%a6%e3%82%b9%e3%83%9e%e3%83%b3) | N/A |
+| 15 | [ウィング](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 16 | [桃井タロウ](http://twitter.com/search?q=%e6%a1%83%e4%ba%95%e3%82%bf%e3%83%ad%e3%82%a6) | 桃井タロウ is a Japanese manga series written and illustrated by Taro Momoi. It follows the story of a young man named Taro Momoi, who is sent to a strange world where he must fight monsters and find his way back home. The title of the series is a play on words, as "桃井" (Momoi) can also be read as "peach well". In English, the title could be translated as "Taro Momoi of the Peach Well". |
+| 17 | [エドワーズ](http://twitter.com/search?q=%e3%82%a8%e3%83%89%e3%83%af%e3%83%bc%e3%82%ba) | N/A |
+| 18 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 19 | [景和くん](http://twitter.com/search?q=%e6%99%af%e5%92%8c%e3%81%8f%e3%82%93) | N/A |
+| 20 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
+| 21 | [ベネズエラ](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%82%ba%e3%82%a8%e3%83%a9) | N/A |
+| 22 | [指紋認証](http://twitter.com/search?q=%e6%8c%87%e7%b4%8b%e8%aa%8d%e8%a8%bc) | N/A |
+| 23 | [生身アクション](http://twitter.com/search?q=%e7%94%9f%e8%ba%ab%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 24 | [スカンジナビア半島](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%b3%e3%82%b8%e3%83%8a%e3%83%93%e3%82%a2%e5%8d%8a%e5%b3%b6) | N/A |
+| 25 | [ミュージックの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%83%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
+| 26 | [恥ずかしがり屋](http://twitter.com/search?q=%e6%81%a5%e3%81%9a%e3%81%8b%e3%81%97%e3%81%8c%e3%82%8a%e5%b1%8b) | N/A |
+| 27 | [ソラ・ハレワタール](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%83%bb%e3%83%8f%e3%83%ac%e3%83%af%e3%82%bf%e3%83%bc%e3%83%ab) | N/A |
+| 28 | [ジーンさん](http://twitter.com/search?q=%e3%82%b8%e3%83%bc%e3%83%b3%e3%81%95%e3%82%93) | N/A |
+| 29 | [ビッグサイト](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 30 | [国会軽視](http://twitter.com/search?q=%e5%9b%bd%e4%bc%9a%e8%bb%bd%e8%a6%96) | N/A |
+| 31 | [ヒーローの出番](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%81%ae%e5%87%ba%e7%95%aa) | N/A |
+| 32 | [ゲイジー](http://twitter.com/search?q=%e3%82%b2%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
+| 33 | [ゆめタウン](http://twitter.com/search?q=%e3%82%86%e3%82%81%e3%82%bf%e3%82%a6%e3%83%b3) | N/A |
+| 34 | [西暦元年](http://twitter.com/search?q=%e8%a5%bf%e6%9a%a6%e5%85%83%e5%b9%b4) | N/A |
+| 35 | [高市さん罷免](http://twitter.com/search?q=%e9%ab%98%e5%b8%82%e3%81%95%e3%82%93%e7%bd%b7%e5%85%8d) | N/A |
+| 36 | [戦国ゲーム](http://twitter.com/search?q=%e6%88%a6%e5%9b%bd%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 37 | [男の子プリキュア](http://twitter.com/search?q=%e7%94%b7%e3%81%ae%e5%ad%90%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
+| 38 | [素面アクション](http://twitter.com/search?q=%e7%b4%a0%e9%9d%a2%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 39 | [ぷいきゅあ](http://twitter.com/search?q=%e3%81%b7%e3%81%84%e3%81%8d%e3%82%85%e3%81%82) | ぷいきゅあ is a Japanese onomatopoeia that is used to describe the sound of something being cut or sliced. In English, it could be translated as "snip" or "snip-snip". |
+| 40 | [レグルスモン](http://twitter.com/search?q=%e3%83%ac%e3%82%b0%e3%83%ab%e3%82%b9%e3%83%a2%e3%83%b3) | N/A |
+| 41 | [プリキュアの時間](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2%e3%81%ae%e6%99%82%e9%96%93) | N/A |
+| 42 | [ニラムさん](http://twitter.com/search?q=%e3%83%8b%e3%83%a9%e3%83%a0%e3%81%95%e3%82%93) | N/A |
+| 43 | [フィジエフ](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%b8%e3%82%a8%e3%83%95) | N/A |
+| 44 | [スーパーヒーロータイム](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
+| 45 | [チラミさん](http://twitter.com/search?q=%e3%83%81%e3%83%a9%e3%83%9f%e3%81%95%e3%82%93) | N/A |
+| 46 | [グリーンサム](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%b3%e3%82%b5%e3%83%a0) | N/A |
+| 47 | [浮世英寿](http://twitter.com/search?q=%e6%b5%ae%e4%b8%96%e8%8b%b1%e5%af%bf) | N/A |
+| 48 | [八雲栄守](http://twitter.com/search?q=%e5%85%ab%e9%9b%b2%e6%a0%84%e5%ae%88) | N/A |
+| 49 | [プリキュアリアタイ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%aa%e3%82%a2%e3%82%bf%e3%82%a4) | N/A |
+| 50 | [アメリカ打線](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e6%89%93%e7%b7%9a) | N/A |
 
 
 

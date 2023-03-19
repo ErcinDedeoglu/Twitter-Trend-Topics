@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-18 23:17:29 UTC`
+📆 Last Updated: `2023-03-19 00:30:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 2 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 3 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 4 | [#NewYorkForever](http://twitter.com/search?q=%23NewYorkForever) | N/A |
-| 5 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 6 | [Hart](http://twitter.com/search?q=Hart) | N/A |
-| 7 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 8 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 10 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 11 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 12 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 13 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 14 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 15 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 16 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
-| 17 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 18 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 19 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 20 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 21 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 22 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 23 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 24 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 25 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 26 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 27 | [Gunnar Nelson](http://twitter.com/search?q=Gunnar+Nelson) | N/A |
-| 28 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 29 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 30 | [Go Vols](http://twitter.com/search?q=Go+Vols) | N/A |
-| 31 | [Rocky Top](http://twitter.com/search?q=Rocky+Top) | N/A |
-| 32 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
-| 33 | [Maia](http://twitter.com/search?q=Maia) | N/A |
-| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 35 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 36 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 37 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 38 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
-| 39 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 40 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 41 | [Scheyer](http://twitter.com/search?q=Scheyer) | Scheyer is a German surname. It is derived from the Middle High German word "scheier", which means "shy". In English, the name Scheyer can be translated to mean "shy one". |
-| 42 | [Mark Mitchell](http://twitter.com/search?q=Mark+Mitchell) | N/A |
-| 43 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
-| 44 | [gumi](http://twitter.com/search?q=gumi) | N/A |
-| 45 | [Dook](http://twitter.com/search?q=Dook) | N/A |
-| 46 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 47 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
-| 48 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
-| 49 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 50 | [Udeh](http://twitter.com/search?q=Udeh) | N/A |
+| 1 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
+| 2 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 3 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 4 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 5 | [#Knicks](http://twitter.com/search?q=%23Knicks) | N/A |
+| 6 | [#NewYorkForever](http://twitter.com/search?q=%23NewYorkForever) | N/A |
+| 7 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 8 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 9 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 10 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 11 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 12 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 13 | [Hart](http://twitter.com/search?q=Hart) | N/A |
+| 14 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 15 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 16 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 17 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 18 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 19 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 20 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 21 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 22 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 23 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
+| 24 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 25 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 26 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 27 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 28 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 29 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 30 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
+| 31 | [Razorbacks](http://twitter.com/search?q=Razorbacks) | N/A |
+| 32 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
+| 33 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 34 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 35 | [Hemric](http://twitter.com/search?q=Hemric) | N/A |
+| 36 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 37 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
+| 38 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 39 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
+| 40 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 41 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 42 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 43 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
+| 44 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
+| 45 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 46 | [Davonte Davis](http://twitter.com/search?q=Davonte+Davis) | N/A |
+| 47 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 48 | [Martin Perez](http://twitter.com/search?q=Martin+Perez) | N/A |
+| 49 | [Sweet Sixteen](http://twitter.com/search?q=Sweet+Sixteen) | N/A |
+| 50 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
 
 
 

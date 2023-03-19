@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-18 23:17:36 UTC`
+📆 Last Updated: `2023-03-19 00:30:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Germany
 | 1 | [#dudw](http://twitter.com/search?q=%23dudw) | N/A |
 | 2 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
 | 3 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 4 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 5 | [#VfBWOB](http://twitter.com/search?q=%23VfBWOB) | N/A |
+| 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 5 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
 | 6 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 7 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 8 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 9 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 10 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 11 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
+| 7 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 8 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 9 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 10 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 11 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
 | 12 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
 | 13 | [Malle](http://twitter.com/search?q=Malle) | N/A |
 | 14 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 17 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 18 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 19 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 20 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 21 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 15 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 18 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
+| 19 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 20 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 21 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
 | 22 | [Selke](http://twitter.com/search?q=Selke) | N/A |
-| 23 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 23 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
 | 24 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 25 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
+| 25 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
 | 26 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 27 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 28 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 29 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
-| 30 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 27 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
+| 28 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 29 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
+| 30 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
 | 31 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
 | 32 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 33 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 35 | [Punsch](http://twitter.com/search?q=Punsch) | N/A |
-| 36 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
-| 37 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
-| 38 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
-| 39 | [Baumgart](http://twitter.com/search?q=Baumgart) | N/A |
-| 40 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 41 | [Klement](http://twitter.com/search?q=Klement) | N/A |
-| 42 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 43 | [Orangemorange](http://twitter.com/search?q=Orangemorange) | N/A |
-| 44 | [Flanken](http://twitter.com/search?q=Flanken) | N/A |
-| 45 | [LORENA](http://twitter.com/search?q=LORENA) | N/A |
-| 46 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 47 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
-| 48 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
-| 49 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 50 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 33 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
+| 34 | [Punsch](http://twitter.com/search?q=Punsch) | N/A |
+| 35 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
+| 36 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
+| 37 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
+| 38 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 39 | [Klement](http://twitter.com/search?q=Klement) | N/A |
+| 40 | [Orangemorange](http://twitter.com/search?q=Orangemorange) | N/A |
+| 41 | [Flanken](http://twitter.com/search?q=Flanken) | N/A |
+| 42 | [LORENA](http://twitter.com/search?q=LORENA) | N/A |
+| 43 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 44 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 45 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
+| 46 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
+| 47 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 48 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 49 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
+| 50 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
 
 
 

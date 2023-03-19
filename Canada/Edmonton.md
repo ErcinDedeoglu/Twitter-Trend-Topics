@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-18 23:16:38 UTC`
+📆 Last Updated: `2023-03-19 00:29:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,48 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 2 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 3 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 4 | [James Reimer](http://twitter.com/search?q=James+Reimer) | N/A |
-| 5 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 6 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 7 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 8 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 9 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 10 | [LGBTQIA](http://twitter.com/search?q=LGBTQIA) | N/A |
-| 11 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 12 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 13 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
-| 14 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 15 | [Pionk](http://twitter.com/search?q=Pionk) | N/A |
-| 16 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 17 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 18 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 19 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 22 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 24 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 25 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 26 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 27 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 28 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 30 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 31 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
-| 32 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 33 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
-| 34 | [Janis](http://twitter.com/search?q=Janis) | N/A |
-| 35 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 36 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 37 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 38 | [#TorontoComicCon](http://twitter.com/search?q=%23TorontoComicCon) | N/A |
-| 39 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 40 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 42 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 44 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 45 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 46 | [#FE2023](http://twitter.com/search?q=%23FE2023) | N/A |
+| 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 5 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 6 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 7 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 8 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
+| 9 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 10 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 11 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 12 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 13 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 14 | [Jake McCabe](http://twitter.com/search?q=Jake+McCabe) | N/A |
+| 15 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 16 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 17 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 18 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 19 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 20 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 21 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 22 | [Go Leafs Go](http://twitter.com/search?q=Go+Leafs+Go) | N/A |
+| 23 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 25 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 26 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 27 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 30 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 31 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 32 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 33 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 34 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 35 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 36 | [#SellSnyderVerseToNetflix](http://twitter.com/search?q=%23SellSnyderVerseToNetflix) | N/A |
+| 37 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 38 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 40 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 41 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
+| 42 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 43 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 44 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 45 | [#TorontoComicCon](http://twitter.com/search?q=%23TorontoComicCon) | N/A |
 
 
 

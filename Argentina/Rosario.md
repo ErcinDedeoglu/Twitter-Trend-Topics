@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-18 23:16:50 UTC`
+📆 Last Updated: `2023-03-19 00:30:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 1 | [Goltz](http://twitter.com/search?q=Goltz) | N/A |
 | 2 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 3 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
-| 4 | [UN MILLÓN DE PRIMOS](http://twitter.com/search?q=UN+MILL%c3%93N+DE+PRIMOS) | N/A |
-| 5 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
-| 6 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 7 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
-| 8 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 9 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 10 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 11 | [Jane's Addiction](http://twitter.com/search?q=Jane%27s+Addiction) | N/A |
-| 12 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 14 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 15 | [Cell](http://twitter.com/search?q=Cell) | N/A |
-| 16 | [Molinas](http://twitter.com/search?q=Molinas) | Molinas is a Spanish surname. It is derived from the Latin word "molinus," which means "mill." The name likely originated as an occupational surname for someone who worked in or owned a mill. |
-| 17 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
-| 18 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 19 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 3 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
+| 4 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 5 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
+| 6 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 7 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
+| 8 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 9 | [Gorosito](http://twitter.com/search?q=Gorosito) | N/A |
+| 10 | [UN MILLÓN DE PRIMOS](http://twitter.com/search?q=UN+MILL%c3%93N+DE+PRIMOS) | N/A |
+| 11 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
+| 12 | [Rodrigo Rey](http://twitter.com/search?q=Rodrigo+Rey) | N/A |
+| 13 | [Catupecu](http://twitter.com/search?q=Catupecu) | N/A |
+| 14 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
+| 15 | [EL PRODUCTO](http://twitter.com/search?q=EL+PRODUCTO) | N/A |
+| 16 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 18 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 19 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
 | 20 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
-| 21 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 22 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 23 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 24 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 25 | [Banega](http://twitter.com/search?q=Banega) | N/A |
-| 26 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 27 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 28 | [Sarandí](http://twitter.com/search?q=Sarand%c3%ad) | N/A |
-| 29 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 30 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 31 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 32 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 33 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 35 | [Conan](http://twitter.com/search?q=Conan) | N/A |
-| 36 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 39 | [Yungblud](http://twitter.com/search?q=Yungblud) | N/A |
-| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 42 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 43 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 45 | [Susana](http://twitter.com/search?q=Susana) | N/A |
-| 46 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 47 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
-| 48 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 49 | [#ArgentinaCampeondelMundo](http://twitter.com/search?q=%23ArgentinaCampeondelMundo) | N/A |
+| 21 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 22 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 23 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 24 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 25 | [Cell](http://twitter.com/search?q=Cell) | N/A |
+| 26 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 27 | [Matías Suárez](http://twitter.com/search?q=Mat%c3%adas+Su%c3%a1rez) | N/A |
+| 28 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 29 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 30 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 31 | [Jane's Addiction](http://twitter.com/search?q=Jane%27s+Addiction) | N/A |
+| 32 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
+| 33 | [Freezer](http://twitter.com/search?q=Freezer) | N/A |
+| 34 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 35 | [#Platense](http://twitter.com/search?q=%23Platense) | N/A |
+| 36 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 38 | [Insólito](http://twitter.com/search?q=Ins%c3%b3lito) | N/A |
+| 39 | [Molinas](http://twitter.com/search?q=Molinas) | Molinas is a Spanish surname. It is derived from the Latin word "molinus," which means "mill." The name likely originated as an occupational surname for someone who worked in or owned a mill. |
+| 40 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 41 | [#AllBoys](http://twitter.com/search?q=%23AllBoys) | N/A |
+| 42 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 43 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 44 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 45 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 46 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 47 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 48 | [Sarandí](http://twitter.com/search?q=Sarand%c3%ad) | N/A |
+| 49 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 50 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
 
 
 

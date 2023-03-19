@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-18 23:16:51 UTC`
+📆 Last Updated: `2023-03-19 00:30:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#highleague6](http://twitter.com/search?q=%23highleague6) | N/A |
 | 2 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
 | 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 4 | [#JarekOddajKPO](http://twitter.com/search?q=%23JarekOddajKPO) | N/A |
-| 5 | [#RCZCRA](http://twitter.com/search?q=%23RCZCRA) | N/A |
+| 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 5 | [#JarekOddajKPO](http://twitter.com/search?q=%23JarekOddajKPO) | N/A |
 | 6 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 7 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 8 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 9 | [Ludwiczek](http://twitter.com/search?q=Ludwiczek) | N/A |
-| 10 | [Pashe](http://twitter.com/search?q=Pashe) | N/A |
-| 11 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
-| 12 | [Jóźwiaka](http://twitter.com/search?q=J%c3%b3%c5%bawiaka) | N/A |
-| 13 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
-| 14 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
-| 15 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
-| 16 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
-| 17 | [Daro Lew](http://twitter.com/search?q=Daro+Lew) | N/A |
-| 18 | [Cracovii](http://twitter.com/search?q=Cracovii) | N/A |
-| 19 | [Labryga](http://twitter.com/search?q=Labryga) | N/A |
-| 20 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
-| 21 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 22 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 23 | [Ludwiczka](http://twitter.com/search?q=Ludwiczka) | N/A |
-| 24 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
-| 25 | [Cichy](http://twitter.com/search?q=Cichy) | N/A |
-| 26 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
-| 27 | [Jarosz](http://twitter.com/search?q=Jarosz) | N/A |
-| 28 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
-| 29 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 30 | [Jan Urban](http://twitter.com/search?q=Jan+Urban) | N/A |
-| 31 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
-| 32 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
-| 33 | [Jarka](http://twitter.com/search?q=Jarka) | N/A |
-| 34 | [kownackiego](http://twitter.com/search?q=kownackiego) | N/A |
-| 35 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
-| 36 | [Podolski](http://twitter.com/search?q=Podolski) | N/A |
-| 37 | [Mularczyka](http://twitter.com/search?q=Mularczyka) | N/A |
-| 38 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 39 | [Poldi](http://twitter.com/search?q=Poldi) | N/A |
-| 40 | [Malika](http://twitter.com/search?q=Malika) | N/A |
-| 41 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
-| 42 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 43 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
-| 44 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
-| 45 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
-| 46 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 47 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 48 | [Exposito](http://twitter.com/search?q=Exposito) | N/A |
-| 49 | [Ministerstwo Przemysłu](http://twitter.com/search?q=Ministerstwo+Przemys%c5%82u) | N/A |
+| 7 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 8 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 9 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 10 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
+| 11 | [Pashe](http://twitter.com/search?q=Pashe) | N/A |
+| 12 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
+| 13 | [Jarka](http://twitter.com/search?q=Jarka) | N/A |
+| 14 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
+| 15 | [Daro Lew](http://twitter.com/search?q=Daro+Lew) | N/A |
+| 16 | [Cracovii](http://twitter.com/search?q=Cracovii) | N/A |
+| 17 | [Labryga](http://twitter.com/search?q=Labryga) | N/A |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
+| 20 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
+| 21 | [Jarosz](http://twitter.com/search?q=Jarosz) | N/A |
+| 22 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
+| 23 | [Jan Urban](http://twitter.com/search?q=Jan+Urban) | N/A |
+| 24 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
+| 25 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
+| 26 | [Milanu](http://twitter.com/search?q=Milanu) | N/A |
+| 27 | [Ludwiczek](http://twitter.com/search?q=Ludwiczek) | N/A |
+| 28 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 29 | [kownackiego](http://twitter.com/search?q=kownackiego) | N/A |
+| 30 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
+| 31 | [Fame](http://twitter.com/search?q=Fame) | N/A |
+| 32 | [Jóźwiak](http://twitter.com/search?q=J%c3%b3%c5%bawiak) | N/A |
+| 33 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
+| 34 | [Podolski](http://twitter.com/search?q=Podolski) | N/A |
+| 35 | [poldi](http://twitter.com/search?q=poldi) | N/A |
+| 36 | [Malika](http://twitter.com/search?q=Malika) | N/A |
+| 37 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
+| 38 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 39 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 40 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 41 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 42 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 43 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 44 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 45 | [Exposito](http://twitter.com/search?q=Exposito) | N/A |
+| 46 | [Hagi](http://twitter.com/search?q=Hagi) | N/A |
+| 47 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
+| 48 | [Haribo](http://twitter.com/search?q=Haribo) | N/A |
+| 49 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
 
 
 

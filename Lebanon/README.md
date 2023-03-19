@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-18 23:17:38 UTC`
+📆 Last Updated: `2023-03-19 00:30:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,19 +17,19 @@ This is top 50 for Lebanon
 | ------- | ------------ | ------------ |
 | 1 | [#منتزهات_الوزاني](http://twitter.com/search?q=%23%d9%85%d9%86%d8%aa%d8%b2%d9%87%d8%a7%d8%aa_%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d9%86%d9%8a) | N/A |
 | 2 | [وزير السياحه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d9%87) | N/A |
-| 3 | [#المجهول](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ac%d9%87%d9%88%d9%84) | N/A |
-| 4 | [الشمع الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%b9+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 3 | [الشمع الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%b9+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 4 | [#المجهول](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ac%d9%87%d9%88%d9%84) | N/A |
 | 5 | [الاملاك البحريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%84%d8%a7%d9%83+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
 | 6 | [#كلنا_الدكتور_حسن_مرعي](http://twitter.com/search?q=%23%d9%83%d9%84%d9%86%d8%a7_%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1_%d8%ad%d8%b3%d9%86_%d9%85%d8%b1%d8%b9%d9%8a) | N/A |
 | 7 | [وزارة السياحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad%d8%a9) | N/A |
 | 8 | [بشير خضر](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%ae%d8%b6%d8%b1) | N/A |
 | 9 | [#بعلبك_والقسم_المبين](http://twitter.com/search?q=%23%d8%a8%d8%b9%d9%84%d8%a8%d9%83_%d9%88%d8%a7%d9%84%d9%82%d8%b3%d9%85_%d8%a7%d9%84%d9%85%d8%a8%d9%8a%d9%86) | N/A |
 | 10 | [النواب المسيحيين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%8a%d9%86) | N/A |
-| 11 | [#thestage](http://twitter.com/search?q=%23thestage) | N/A |
-| 12 | [خديجه الكبري](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 13 | [سركيس نعوم](http://twitter.com/search?q=%d8%b3%d8%b1%d9%83%d9%8a%d8%b3+%d9%86%d8%b9%d9%88%d9%85) | N/A |
-| 14 | [النازحين السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 15 | [العدو الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 11 | [العدو الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 12 | [#thestage](http://twitter.com/search?q=%23thestage) | N/A |
+| 13 | [خديجه الكبري](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
+| 14 | [سركيس نعوم](http://twitter.com/search?q=%d8%b3%d8%b1%d9%83%d9%8a%d8%b3+%d9%86%d8%b9%d9%88%d9%85) | N/A |
+| 15 | [النازحين السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
 | 16 | [مار يوسف](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
 | 17 | [بيان التيار](http://twitter.com/search?q=%d8%a8%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%aa%d9%8a%d8%a7%d8%b1) | N/A |
 | 18 | [السيد المسيح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad) | N/A |
@@ -42,9 +42,9 @@ This is top 50 for Lebanon
 | 25 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 26 | [دار الفتوي](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d9%81%d8%aa%d9%88%d9%8a) | N/A |
 | 27 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
-| 28 | [النازح السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 29 | [العدو الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
-| 30 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 28 | [العدو الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
+| 29 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 30 | [النازح السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 31 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
 | 32 | [قصر العدل](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
 | 33 | [الوفد القضايي الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |

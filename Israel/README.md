@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-18 23:17:37 UTC`
+📆 Last Updated: `2023-03-19 00:30:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for Israel
 | 4 | [בלי פייק](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%a4%d7%99%d7%99%d7%a7) | N/A |
 | 5 | [אור עקיבא](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%a2%d7%a7%d7%99%d7%91%d7%90) | N/A |
 | 6 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
-| 7 | [רמי בן יהודה](http://twitter.com/search?q=%d7%a8%d7%9e%d7%99+%d7%91%d7%9f+%d7%99%d7%94%d7%95%d7%93%d7%94) | N/A |
-| 8 | [מול בית כנסת](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%91%d7%99%d7%aa+%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 9 | [ישי הדס](http://twitter.com/search?q=%d7%99%d7%a9%d7%99+%d7%94%d7%93%d7%a1) | N/A |
-| 10 | [נדב ארגמן](http://twitter.com/search?q=%d7%a0%d7%93%d7%91+%d7%90%d7%a8%d7%92%d7%9e%d7%9f) | N/A |
+| 7 | [מול בית כנסת](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%91%d7%99%d7%aa+%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 8 | [ישי הדס](http://twitter.com/search?q=%d7%99%d7%a9%d7%99+%d7%94%d7%93%d7%a1) | N/A |
+| 9 | [נדב ארגמן](http://twitter.com/search?q=%d7%a0%d7%93%d7%91+%d7%90%d7%a8%d7%92%d7%9e%d7%9f) | N/A |
+| 10 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
 | 11 | [צבע אדום](http://twitter.com/search?q=%d7%a6%d7%91%d7%a2+%d7%90%d7%93%d7%95%d7%9d) | N/A |
 | 12 | [כפר אוריה](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%90%d7%95%d7%a8%d7%99%d7%94) | N/A |
-| 13 | [כפר סבא](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a1%d7%91%d7%90) | N/A |
-| 14 | [טליה איינהורן](http://twitter.com/search?q=%d7%98%d7%9c%d7%99%d7%94+%d7%90%d7%99%d7%99%d7%a0%d7%94%d7%95%d7%a8%d7%9f) | N/A |
+| 13 | [רמי בן יהודה](http://twitter.com/search?q=%d7%a8%d7%9e%d7%99+%d7%91%d7%9f+%d7%99%d7%94%d7%95%d7%93%d7%94) | N/A |
+| 14 | [כפר סבא](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a1%d7%91%d7%90) | N/A |
 | 15 | [מזל טוב אביר](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91+%d7%90%d7%91%d7%99%d7%a8) | N/A |
-| 16 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 17 | [חופש התנועה](http://twitter.com/search?q=%d7%97%d7%95%d7%a4%d7%a9+%d7%94%d7%aa%d7%a0%d7%95%d7%a2%d7%94) | N/A |
-| 18 | [רמי גרשון](http://twitter.com/search?q=%d7%a8%d7%9e%d7%99+%d7%92%d7%a8%d7%a9%d7%95%d7%9f) | N/A |
+| 16 | [רמי גרשון](http://twitter.com/search?q=%d7%a8%d7%9e%d7%99+%d7%92%d7%a8%d7%a9%d7%95%d7%9f) | N/A |
+| 17 | [הפועל באר שבע](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%91%d7%90%d7%a8+%d7%a9%d7%91%d7%a2) | N/A |
+| 18 | [זיו אריה](http://twitter.com/search?q=%d7%96%d7%99%d7%95+%d7%90%d7%a8%d7%99%d7%94) | N/A |
 | 19 | [בלי רייטינג](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%a8%d7%99%d7%99%d7%98%d7%99%d7%a0%d7%92) | N/A |
-| 20 | [הפועל באר שבע](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%91%d7%90%d7%a8+%d7%a9%d7%91%d7%a2) | N/A |
-| 21 | [זיו אריה](http://twitter.com/search?q=%d7%96%d7%99%d7%95+%d7%90%d7%a8%d7%99%d7%94) | N/A |
-| 22 | [חווה אלברשטיין](http://twitter.com/search?q=%d7%97%d7%95%d7%95%d7%94+%d7%90%d7%9c%d7%91%d7%a8%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
-| 23 | [צומת כרכור](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%9b%d7%a8%d7%9b%d7%95%d7%a8) | N/A |
-| 24 | [של דריה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%a8%d7%99%d7%94) | N/A |
-| 25 | [כרטיס אדום](http://twitter.com/search?q=%d7%9b%d7%a8%d7%98%d7%99%d7%a1+%d7%90%d7%93%d7%95%d7%9d) | N/A |
-| 26 | [של יריב לוין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
-| 27 | [אחוז קטן](http://twitter.com/search?q=%d7%90%d7%97%d7%95%d7%96+%d7%a7%d7%98%d7%9f) | N/A |
-| 28 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 29 | [רז שלמה](http://twitter.com/search?q=%d7%a8%d7%96+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
-| 30 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
-| 31 | [ר ירושלים](http://twitter.com/search?q=%d7%a8+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 32 | [בית שמש](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%9e%d7%a9) | N/A |
-| 33 | [של מכבי חיפה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%9b%d7%91%d7%99+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 34 | [וש כהן](http://twitter.com/search?q=%d7%95%d7%a9+%d7%9b%d7%94%d7%9f) | N/A |
-| 35 | [הימור שלי](http://twitter.com/search?q=%d7%94%d7%99%d7%9e%d7%95%d7%a8+%d7%a9%d7%9c%d7%99) | N/A |
-| 36 | [מזג אוויר](http://twitter.com/search?q=%d7%9e%d7%96%d7%92+%d7%90%d7%95%d7%95%d7%99%d7%a8) | N/A |
-| 37 | [רון חולדאי](http://twitter.com/search?q=%d7%a8%d7%95%d7%9f+%d7%97%d7%95%d7%9c%d7%93%d7%90%d7%99) | N/A |
-| 38 | [אלף איש](http://twitter.com/search?q=%d7%90%d7%9c%d7%a3+%d7%90%d7%99%d7%a9) | N/A |
-| 39 | [אולפן שישי](http://twitter.com/search?q=%d7%90%d7%95%d7%9c%d7%a4%d7%9f+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
-| 40 | [מול מסגד](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%9e%d7%a1%d7%92%d7%93) | N/A |
-| 41 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 20 | [חווה אלברשטיין](http://twitter.com/search?q=%d7%97%d7%95%d7%95%d7%94+%d7%90%d7%9c%d7%91%d7%a8%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
+| 21 | [צומת כרכור](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%9b%d7%a8%d7%9b%d7%95%d7%a8) | N/A |
+| 22 | [של דריה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%a8%d7%99%d7%94) | N/A |
+| 23 | [כרטיס אדום](http://twitter.com/search?q=%d7%9b%d7%a8%d7%98%d7%99%d7%a1+%d7%90%d7%93%d7%95%d7%9d) | N/A |
+| 24 | [של יריב לוין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 25 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 26 | [רז שלמה](http://twitter.com/search?q=%d7%a8%d7%96+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
+| 27 | [טליה איינהורן](http://twitter.com/search?q=%d7%98%d7%9c%d7%99%d7%94+%d7%90%d7%99%d7%99%d7%a0%d7%94%d7%95%d7%a8%d7%9f) | N/A |
+| 28 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
+| 29 | [בית שמש](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a9%d7%9e%d7%a9) | N/A |
+| 30 | [של מכבי חיפה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%9b%d7%91%d7%99+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 31 | [דגל של](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%a9%d7%9c) | N/A |
+| 32 | [ר ירושלים](http://twitter.com/search?q=%d7%a8+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 33 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 34 | [חופש התנועה](http://twitter.com/search?q=%d7%97%d7%95%d7%a4%d7%a9+%d7%94%d7%aa%d7%a0%d7%95%d7%a2%d7%94) | N/A |
+| 35 | [וש כהן](http://twitter.com/search?q=%d7%95%d7%a9+%d7%9b%d7%94%d7%9f) | N/A |
+| 36 | [הימור שלי](http://twitter.com/search?q=%d7%94%d7%99%d7%9e%d7%95%d7%a8+%d7%a9%d7%9c%d7%99) | N/A |
+| 37 | [מזג אוויר](http://twitter.com/search?q=%d7%9e%d7%96%d7%92+%d7%90%d7%95%d7%95%d7%99%d7%a8) | N/A |
+| 38 | [רון חולדאי](http://twitter.com/search?q=%d7%a8%d7%95%d7%9f+%d7%97%d7%95%d7%9c%d7%93%d7%90%d7%99) | N/A |
+| 39 | [אלימות נגד](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa+%d7%a0%d7%92%d7%93) | N/A |
+| 40 | [אולפן שישי](http://twitter.com/search?q=%d7%90%d7%95%d7%9c%d7%a4%d7%9f+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
+| 41 | [מול מסגד](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%9e%d7%a1%d7%92%d7%93) | N/A |
 | 42 | [תמיר עדי](http://twitter.com/search?q=%d7%aa%d7%9e%d7%99%d7%a8+%d7%a2%d7%93%d7%99) | N/A |
-| 43 | [עם רכב](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a8%d7%9b%d7%91) | N/A |
-| 44 | [פרובוקציה של](http://twitter.com/search?q=%d7%a4%d7%a8%d7%95%d7%91%d7%95%d7%a7%d7%a6%d7%99%d7%94+%d7%a9%d7%9c) | N/A |
-| 45 | [צו מעצר](http://twitter.com/search?q=%d7%a6%d7%95+%d7%9e%d7%a2%d7%a6%d7%a8) | N/A |
-| 46 | [דגל של](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%a9%d7%9c) | N/A |
-| 47 | [פתח תקווה](http://twitter.com/search?q=%d7%a4%d7%aa%d7%97+%d7%aa%d7%a7%d7%95%d7%95%d7%94) | N/A |
-| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [ניר אורבך](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%90%d7%95%d7%a8%d7%91%d7%9a) | N/A |
+| 43 | [פרובוקציה של](http://twitter.com/search?q=%d7%a4%d7%a8%d7%95%d7%91%d7%95%d7%a7%d7%a6%d7%99%d7%94+%d7%a9%d7%9c) | N/A |
+| 44 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 45 | [עם רכב](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a8%d7%9b%d7%91) | N/A |
+| 46 | [צו מעצר](http://twitter.com/search?q=%d7%a6%d7%95+%d7%9e%d7%a2%d7%a6%d7%a8) | N/A |
+| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 48 | [ניר אורבך](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%90%d7%95%d7%a8%d7%91%d7%9a) | N/A |
+| 49 | [פתח תקווה](http://twitter.com/search?q=%d7%a4%d7%aa%d7%97+%d7%aa%d7%a7%d7%95%d7%95%d7%94) | N/A |
 | 50 | [נגד פוטין](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%a4%d7%95%d7%98%d7%99%d7%9f) | N/A |
 
 

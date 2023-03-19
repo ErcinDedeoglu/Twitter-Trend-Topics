@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-18 23:16:39 UTC`
+📆 Last Updated: `2023-03-19 00:29:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 2 | [England](http://twitter.com/search?q=England) | N/A |
-| 3 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 4 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 5 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
-| 6 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 7 | [#Casualty](http://twitter.com/search?q=%23Casualty) | N/A |
-| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 9 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 10 | [Gunnar Nelson](http://twitter.com/search?q=Gunnar+Nelson) | N/A |
-| 11 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 12 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 14 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 15 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 16 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 17 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 1 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 2 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 3 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 4 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
+| 5 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 6 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 7 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
+| 8 | [#Casualty](http://twitter.com/search?q=%23Casualty) | N/A |
+| 9 | [HEADSHOT DEAD](http://twitter.com/search?q=HEADSHOT+DEAD) | N/A |
+| 10 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 11 | [Gunnar Nelson](http://twitter.com/search?q=Gunnar+Nelson) | N/A |
+| 12 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 13 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 14 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 17 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 18 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
 | 19 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
-| 20 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 21 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 22 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 23 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 24 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 25 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 26 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 27 | [Maia](http://twitter.com/search?q=Maia) | N/A |
-| 28 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 29 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 30 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 31 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 32 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
-| 33 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 34 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 35 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 36 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 20 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 21 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
+| 22 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 23 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 24 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 25 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 26 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 27 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 28 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 29 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 30 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 31 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 32 | [Steward](http://twitter.com/search?q=Steward) | N/A |
+| 33 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 34 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 35 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
+| 36 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
 | 37 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 38 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 38 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
 | 39 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 40 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
-| 41 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 42 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 43 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
-| 44 | [Jose](http://twitter.com/search?q=Jose) | N/A |
-| 45 | [Toni Collette](http://twitter.com/search?q=Toni+Collette) | N/A |
-| 46 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 47 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
-| 48 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 40 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 41 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 42 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 43 | [Walters](http://twitter.com/search?q=Walters) | N/A |
+| 44 | [Jack Shore](http://twitter.com/search?q=Jack+Shore) | N/A |
+| 45 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 46 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 47 | [Jose](http://twitter.com/search?q=Jose) | N/A |
+| 48 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
 
 
 
