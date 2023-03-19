@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-19 04:16:58 UTC`
+📆 Last Updated: `2023-03-19 05:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,24 +33,24 @@ This is top 50 for Lebanon
 | 16 | [سركيس نعوم](http://twitter.com/search?q=%d8%b3%d8%b1%d9%83%d9%8a%d8%b3+%d9%86%d8%b9%d9%88%d9%85) | N/A |
 | 17 | [عمران خان](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d8%a7%d9%86+%d8%ae%d8%a7%d9%86) | N/A |
 | 18 | [وليد نصار](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d9%86%d8%b5%d8%a7%d8%b1) | N/A |
-| 19 | [ايا صوفيا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%a7+%d8%b5%d9%88%d9%81%d9%8a%d8%a7) | N/A |
-| 20 | [المحكمه الجناييه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 21 | [وزير الخارجيه التركي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 22 | [مار يوسف](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 23 | [النواب المسيحيين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%8a%d9%86) | N/A |
-| 24 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 25 | [حسن مرعي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%85%d8%b1%d8%b9%d9%8a) | N/A |
+| 19 | [مار يوسف](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 20 | [ايا صوفيا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%a7+%d8%b5%d9%88%d9%81%d9%8a%d8%a7) | N/A |
+| 21 | [النواب المسيحيين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%8a%d9%86) | N/A |
+| 22 | [المحكمه الجناييه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 23 | [وزير الخارجيه التركي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 24 | [حسن مرعي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%85%d8%b1%d8%b9%d9%8a) | N/A |
+| 25 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 26 | [دار الفتوي](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d9%81%d8%aa%d9%88%d9%8a) | N/A |
 | 27 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 28 | [العدو الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
-| 29 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
-| 30 | [النازح السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 31 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 28 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
+| 29 | [النازح السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 30 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 31 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
 | 32 | [قصر العدل](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
 | 33 | [الوفد القضايي الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 34 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
-| 35 | [حسن خليل](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 36 | [وزارة المالية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9) | N/A |
+| 34 | [حسن خليل](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
+| 35 | [وزارة المالية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9) | N/A |
+| 36 | [العدو الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
 | 37 | [النيابه العامه التمييزيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d9%8a%d8%b2%d9%8a%d9%87) | N/A |
 | 38 | [شهر رمضان المبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |

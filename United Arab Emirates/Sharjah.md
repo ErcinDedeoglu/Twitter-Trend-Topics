@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-03-19 04:16:38 UTC`
+📆 Last Updated: `2023-03-19 05:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 7 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
 | 8 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 9 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
-| 10 | [زلاتان](http://twitter.com/search?q=%d8%b2%d9%84%d8%a7%d8%aa%d8%a7%d9%86) | N/A |
+| 9 | [زلاتان](http://twitter.com/search?q=%d8%b2%d9%84%d8%a7%d8%aa%d8%a7%d9%86) | N/A |
+| 10 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
 | 11 | [خالد البلوشي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b4%d9%8a) | N/A |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 14 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 15 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 16 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 17 | [اتحاد كلباء](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d9%83%d9%84%d8%a8%d8%a7%d8%a1) | N/A |
-| 18 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 19 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 20 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 21 | [Multan](http://twitter.com/search?q=Multan) | N/A |
-| 22 | [وزير الخارجيه التركي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 23 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 24 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 25 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 26 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 27 | [مسلم احمد](http://twitter.com/search?q=%d9%85%d8%b3%d9%84%d9%85+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
-| 28 | [Tera](http://twitter.com/search?q=Tera) | N/A |
-| 29 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 30 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 31 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 32 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 33 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 34 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 35 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 36 | [بيرنلي](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a) | بيرنلي (pronounced "birnlee") is an Arabic word meaning "pearl". |
-| 37 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 38 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 39 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 40 | [المباراه القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 41 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
-| 42 | [ماجد المهندس](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d9%85%d9%87%d9%86%d8%af%d8%b3) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [وزارة الاقتصاد](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af) | N/A |
-| 45 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 46 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 47 | [المحكمه الجناييه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 48 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
-| 49 | [القاهرة](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9) | N/A |
-| 50 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 12 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 13 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 15 | [اتحاد كلباء](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d9%83%d9%84%d8%a8%d8%a7%d8%a1) | N/A |
+| 16 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 17 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 18 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 19 | [وزير الخارجيه التركي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 20 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 21 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 22 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 23 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 24 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 25 | [مسلم احمد](http://twitter.com/search?q=%d9%85%d8%b3%d9%84%d9%85+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 26 | [Tera](http://twitter.com/search?q=Tera) | N/A |
+| 27 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 28 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 29 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 30 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 31 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 32 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 33 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
+| 34 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 35 | [بيرنلي](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a) | بيرنلي (pronounced "birnlee") is an Arabic word meaning "pearl". |
+| 36 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 37 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 39 | [المباراه القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 40 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
+| 41 | [ماجد المهندس](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d9%85%d9%87%d9%86%d8%af%d8%b3) | N/A |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 44 | [المحكمه الجناييه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 45 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
+| 46 | [القاهرة](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9) | N/A |
+| 47 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 48 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 49 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 50 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
 
 
 

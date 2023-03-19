@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-03-19 04:16:53 UTC`
+📆 Last Updated: `2023-03-19 05:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SportingKC](http://twitter.com/search?q=%23SportingKC) | N/A |
-| 2 | [#Battlehawks](http://twitter.com/search?q=%23Battlehawks) | N/A |
-| 3 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 4 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 5 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 6 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 8 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 9 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 10 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 11 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 12 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
-| 13 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 14 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 15 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 16 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 17 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 1 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 2 | [#KUbball](http://twitter.com/search?q=%23KUbball) | N/A |
+| 3 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 4 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 6 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 7 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 8 | [#FoodWars](http://twitter.com/search?q=%23FoodWars) | N/A |
+| 9 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 10 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 11 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 12 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 13 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 14 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 15 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 16 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 17 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
 | 18 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
 | 19 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 20 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 21 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 22 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 23 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 20 | [Jason Robertson](http://twitter.com/search?q=Jason+Robertson) | N/A |
+| 21 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 22 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 23 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
 | 24 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
-| 25 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 25 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
 | 26 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 27 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 28 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 29 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 30 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 27 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 28 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 29 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 30 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
 | 31 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
-| 32 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 33 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 34 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 35 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 36 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 37 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 38 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 39 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 40 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 41 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 42 | [USA vs Cuba](http://twitter.com/search?q=USA+vs+Cuba) | N/A |
-| 43 | [Gesta](http://twitter.com/search?q=Gesta) | N/A |
-| 44 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 45 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
-| 46 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 47 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 48 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
-| 49 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 50 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 32 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 33 | [Mazzulla](http://twitter.com/search?q=Mazzulla) | N/A |
+| 34 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 35 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 36 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 37 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 38 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 39 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 40 | [Gesta](http://twitter.com/search?q=Gesta) | N/A |
+| 41 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
+| 42 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 43 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 44 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 45 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
+| 46 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 47 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 48 | [Dotson](http://twitter.com/search?q=Dotson) | Dotson is a surname of English origin. It is derived from the Old English given name Dodde, which was a diminutive form of the name Dodd. The meaning of the name is "son of Dodd". |
+| 49 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 50 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 
 
 

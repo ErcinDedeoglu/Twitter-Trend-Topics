@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-19 04:16:50 UTC`
+📆 Last Updated: `2023-03-19 05:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 2 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 1 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 2 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
 | 3 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
 | 4 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 5 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 6 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 7 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 8 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 9 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 10 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
-| 11 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
-| 12 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
-| 13 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 14 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 15 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 16 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 17 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 18 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 19 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 20 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 21 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 22 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 23 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 24 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 25 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 26 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
-| 27 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 28 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 29 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 30 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 31 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 32 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 33 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 34 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 35 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 36 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 37 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
-| 38 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 39 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 40 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 41 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 42 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 43 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 44 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
-| 45 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 46 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 47 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 48 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 49 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 50 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 5 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 6 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 7 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 8 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
+| 9 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
+| 10 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 11 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 12 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 13 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 14 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 15 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 16 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 17 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 18 | [#FoodWars](http://twitter.com/search?q=%23FoodWars) | N/A |
+| 19 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 20 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 21 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 22 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 23 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 24 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 25 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 26 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 27 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 28 | [Jason Robertson](http://twitter.com/search?q=Jason+Robertson) | N/A |
+| 29 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 30 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 31 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 32 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
+| 33 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
+| 34 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 35 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 36 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 37 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 38 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 39 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
+| 40 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 41 | [Mazzulla](http://twitter.com/search?q=Mazzulla) | N/A |
+| 42 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 43 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 44 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 45 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 46 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 47 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 48 | [Gesta](http://twitter.com/search?q=Gesta) | N/A |
+| 49 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
+| 50 | [Astros](http://twitter.com/search?q=Astros) | N/A |
 
 
 

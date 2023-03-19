@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-19 04:16:25 UTC`
+📆 Last Updated: `2023-03-19 05:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [Papa](http://twitter.com/search?q=Papa) | N/A |
 | 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 5 | [#CoverNight](http://twitter.com/search?q=%23CoverNight) | N/A |
-| 6 | [Paula Gonu](http://twitter.com/search?q=Paula+Gonu) | N/A |
-| 7 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 5 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 6 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
+| 7 | [Paula Gonu](http://twitter.com/search?q=Paula+Gonu) | N/A |
 | 8 | [#AtletiValencia](http://twitter.com/search?q=%23AtletiValencia) | N/A |
-| 9 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
+| 9 | [#CoverNight](http://twitter.com/search?q=%23CoverNight) | N/A |
 | 10 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 11 | [Pedro Solbes](http://twitter.com/search?q=Pedro+Solbes) | N/A |
 | 12 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 13 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 14 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 15 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 16 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 17 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 18 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
+| 13 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 14 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
+| 15 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 16 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 17 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
+| 18 | [Gabri Veiga](http://twitter.com/search?q=Gabri+Veiga) | Gabri Veiga is a Portuguese name. It is derived from the Hebrew name Gabriel, which means "God is my strength". |
 | 19 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 20 | [Gabri Veiga](http://twitter.com/search?q=Gabri+Veiga) | Gabri Veiga is a Portuguese name. It is derived from the Hebrew name Gabriel, which means "God is my strength". |
-| 21 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
-| 22 | [Guillamon](http://twitter.com/search?q=Guillamon) | N/A |
-| 23 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 24 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 25 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 26 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 27 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
-| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 29 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 30 | [Mario Hermoso](http://twitter.com/search?q=Mario+Hermoso) | N/A |
-| 31 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 32 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
-| 33 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 34 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
-| 35 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 36 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
-| 37 | [munuera](http://twitter.com/search?q=munuera) | N/A |
+| 20 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
+| 21 | [Guillamon](http://twitter.com/search?q=Guillamon) | N/A |
+| 22 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 23 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 24 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 25 | [Josefas](http://twitter.com/search?q=Josefas) | N/A |
+| 26 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
+| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 28 | [mario hermoso](http://twitter.com/search?q=mario+hermoso) | N/A |
+| 29 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 30 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
+| 31 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 32 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 33 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 34 | [munuera](http://twitter.com/search?q=munuera) | N/A |
+| 35 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 36 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
+| 37 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
 | 38 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 39 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 40 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
-| 41 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 42 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
-| 43 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 44 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 45 | [felices 104](http://twitter.com/search?q=felices+104) | N/A |
-| 46 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 47 | [Heliodoro](http://twitter.com/search?q=Heliodoro) | N/A |
-| 48 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 39 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
+| 40 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
+| 41 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
+| 42 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
+| 43 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 44 | [Felices 104](http://twitter.com/search?q=Felices+104) | N/A |
+| 45 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 46 | [Heliodoro](http://twitter.com/search?q=Heliodoro) | N/A |
+| 47 | [Corte Penal Internacional](http://twitter.com/search?q=Corte+Penal+Internacional) | N/A |
+| 48 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
 
 
 

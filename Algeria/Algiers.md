@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-19 04:16:35 UTC`
+📆 Last Updated: `2023-03-19 05:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -53,7 +53,7 @@ This is top 50 for [Algeria](</Algeria>)
 | 36 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 37 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 | 38 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 39 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
+| 39 | [brahimi](http://twitter.com/search?q=brahimi) | N/A |
 | 40 | [Delort](http://twitter.com/search?q=Delort) | N/A |
 | 41 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 42 | [الرييس الروسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |

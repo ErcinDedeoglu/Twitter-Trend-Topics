@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-19 04:16:24 UTC`
+📆 Last Updated: `2023-03-19 05:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,29 +23,29 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 6 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
 | 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 8 | [frits barend](http://twitter.com/search?q=frits+barend) | N/A |
-| 9 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 10 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
-| 11 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 14 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 15 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 17 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 18 | [Carpaccio](http://twitter.com/search?q=Carpaccio) | N/A |
-| 19 | [fred teeven](http://twitter.com/search?q=fred+teeven) | N/A |
-| 20 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 21 | [adri duivesteijn](http://twitter.com/search?q=adri+duivesteijn) | N/A |
-| 22 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
-| 23 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 24 | [internationaal strafhof](http://twitter.com/search?q=internationaal+strafhof) | N/A |
-| 25 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 26 | [Khalid](http://twitter.com/search?q=Khalid) | N/A |
-| 27 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 28 | [freek vonk](http://twitter.com/search?q=freek+vonk) | N/A |
-| 29 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 30 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 31 | [Lager](http://twitter.com/search?q=Lager) | N/A |
+| 9 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
+| 10 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 11 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 13 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 14 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 17 | [Carpaccio](http://twitter.com/search?q=Carpaccio) | N/A |
+| 18 | [fred teeven](http://twitter.com/search?q=fred+teeven) | N/A |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [adri duivesteijn](http://twitter.com/search?q=adri+duivesteijn) | N/A |
+| 21 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
+| 22 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 23 | [internationaal strafhof](http://twitter.com/search?q=internationaal+strafhof) | N/A |
+| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 25 | [Khalid](http://twitter.com/search?q=Khalid) | N/A |
+| 26 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 27 | [freek vonk](http://twitter.com/search?q=freek+vonk) | N/A |
+| 28 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 29 | [van aert](http://twitter.com/search?q=van+aert) | N/A |
+| 30 | [Lager](http://twitter.com/search?q=Lager) | N/A |
+| 31 | [Usman](http://twitter.com/search?q=Usman) | N/A |
 | 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 33 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 34 | [Heerlijk](http://twitter.com/search?q=Heerlijk) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 46 | [Rome](http://twitter.com/search?q=Rome) | N/A |
 | 47 | [tavsan](http://twitter.com/search?q=tavsan) | N/A |
 | 48 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 49 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 50 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 49 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
+| 50 | [fc utrecht](http://twitter.com/search?q=fc+utrecht) | N/A |
 
 
 
