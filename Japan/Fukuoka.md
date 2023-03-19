@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fukuoka
 
-📆 Last Updated: `2023-03-19 06:17:23 UTC`
+📆 Last Updated: `2023-03-19 07:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#アビスパ福岡](http://twitter.com/search?q=%23%e3%82%a2%e3%83%93%e3%82%b9%e3%83%91%e7%a6%8f%e5%b2%a1) | N/A |
+| 1 | [#sbhawks](http://twitter.com/search?q=%23sbhawks) | N/A |
 | 2 | [高市さん](http://twitter.com/search?q=%e9%ab%98%e5%b8%82%e3%81%95%e3%82%93) | N/A |
-| 3 | [アニサマ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%82%b5%e3%83%9e) | アニサマ is short for "Anime Song Festival" and it is an annual music festival held in Japan. It features performances by popular Japanese anime singers and bands, as well as other musical acts. The event usually takes place in the summer months and attracts thousands of fans from all over the world. |
-| 4 | [#holo27](http://twitter.com/search?q=%23holo27) | N/A |
-| 5 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 6 | [#CRWIN](http://twitter.com/search?q=%23CRWIN) | N/A |
-| 7 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
-| 8 | [三女神サポカ](http://twitter.com/search?q=%e4%b8%89%e5%a5%b3%e7%a5%9e%e3%82%b5%e3%83%9d%e3%82%ab) | N/A |
-| 9 | [クリスエス](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%82%a8%e3%82%b9) | N/A |
-| 10 | [阪神大賞典](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e5%a4%a7%e8%b3%9e%e5%85%b8) | N/A |
-| 11 | [ラモーヌ](http://twitter.com/search?q=%e3%83%a9%e3%83%a2%e3%83%bc%e3%83%8c) | N/A |
-| 12 | [#ChallengersJP](http://twitter.com/search?q=%23ChallengersJP) | N/A |
-| 13 | [ピスケス杯](http://twitter.com/search?q=%e3%83%94%e3%82%b9%e3%82%b1%e3%82%b9%e6%9d%af) | N/A |
-| 14 | [大分商業](http://twitter.com/search?q=%e5%a4%a7%e5%88%86%e5%95%86%e6%a5%ad) | N/A |
-| 15 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
-| 16 | [ボルドグフーシュ](http://twitter.com/search?q=%e3%83%9c%e3%83%ab%e3%83%89%e3%82%b0%e3%83%95%e3%83%bc%e3%82%b7%e3%83%a5) | ボルドグフーシュ is a type of German beer. It is a dark, malty beer with a slightly sweet flavor. In English, it is known as Bockbier or Bock Beer. |
-| 17 | [コススペ](http://twitter.com/search?q=%e3%82%b3%e3%82%b9%e3%82%b9%e3%83%9a) | コススペ is short for コスプレスペシャル, which means cosplay special. It is a term used to describe events or activities that involve dressing up in costumes and acting out characters from anime, manga, video games, and other popular media. |
-| 18 | [グルサポ](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%82%b5%e3%83%9d) | N/A |
-| 19 | [ダノンティンパニー](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%83%86%e3%82%a3%e3%83%b3%e3%83%91%e3%83%8b%e3%83%bc) | N/A |
-| 20 | [ローシャムパーク](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%a0%e3%83%91%e3%83%bc%e3%82%af) | N/A |
-| 21 | [スプリングS](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b0S) | N/A |
-| 22 | [キタちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 23 | [ジャスティンパレス](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%b3%e3%83%91%e3%83%ac%e3%82%b9) | ジャスティンパレス (Justin Palace) is a Japanese entertainment complex located in Tokyo. It is a popular destination for shopping, dining, and entertainment. The complex includes a variety of restaurants, shops, cinemas, and other attractions. In English, Justin Palace can be translated to mean "Justin's Palace". |
-| 24 | [Bグループ](http://twitter.com/search?q=B%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97) | Bグループ is a term used in Japan to refer to a group of people who are considered to be the most successful and influential in their respective fields. It is often used to refer to business leaders, politicians, celebrities, and other high-profile individuals. In English, it could be translated as "Group B" or "The Elite Group". |
-| 25 | [ディープボンド](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%97%e3%83%9c%e3%83%b3%e3%83%89) | ディープボンド (Deep Bond) is a Japanese term used to describe a strong emotional connection between two people. It is often used to describe the bond between two people who have been friends for a long time, or the bond between family members. In English, it could be translated as "deep connection" or "strong bond". |
-| 26 | [ベネズエラ](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%82%ba%e3%82%a8%e3%83%a9) | N/A |
-| 27 | [ノースザワールド](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%b9%e3%82%b6%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 28 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
-| 29 | [作新学院](http://twitter.com/search?q=%e4%bd%9c%e6%96%b0%e5%ad%a6%e9%99%a2) | N/A |
-| 30 | [アピールプレー](http://twitter.com/search?q=%e3%82%a2%e3%83%94%e3%83%bc%e3%83%ab%e3%83%97%e3%83%ac%e3%83%bc) | N/A |
-| 31 | [グループサポカ](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e3%82%b5%e3%83%9d%e3%82%ab) | N/A |
-| 32 | [玉座交換](http://twitter.com/search?q=%e7%8e%89%e5%ba%a7%e4%ba%a4%e6%8f%9b) | N/A |
-| 33 | [キタサン](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%b5%e3%83%b3) | N/A |
-| 34 | [セブンマジシャン](http://twitter.com/search?q=%e3%82%bb%e3%83%96%e3%83%b3%e3%83%9e%e3%82%b8%e3%82%b7%e3%83%a3%e3%83%b3) | セブンマジシャン (Seven Magicians) is a Japanese light novel series written by Takehaya and illustrated by Poco. It follows the story of seven magicians who are tasked with protecting the world from an ancient evil. The English title of the series is Seven Magicians. |
-| 35 | [仲地くん](http://twitter.com/search?q=%e4%bb%b2%e5%9c%b0%e3%81%8f%e3%82%93) | N/A |
-| 36 | [ボールガイ](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%ab%e3%82%ac%e3%82%a4) | N/A |
-| 37 | [死体蹴りライブ](http://twitter.com/search?q=%e6%ad%bb%e4%bd%93%e8%b9%b4%e3%82%8a%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 38 | [ボール判定](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%ab%e5%88%a4%e5%ae%9a) | N/A |
-| 39 | [散歩日和](http://twitter.com/search?q=%e6%95%a3%e6%ad%a9%e6%97%a5%e5%92%8c) | N/A |
-| 40 | [ブッチーニ](http://twitter.com/search?q=%e3%83%96%e3%83%83%e3%83%81%e3%83%bc%e3%83%8b) | N/A |
-| 41 | [吉村くん](http://twitter.com/search?q=%e5%90%89%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
-| 42 | [ヒメノ様](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e6%a7%98) | N/A |
-| 43 | [ジュエル](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%ab) | ジュエル (jueru) is a Japanese word meaning "jewel". It is used to refer to a precious gem or stone, such as a diamond or ruby. |
-| 44 | [撤収作業](http://twitter.com/search?q=%e6%92%a4%e5%8f%8e%e4%bd%9c%e6%a5%ad) | N/A |
-| 45 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
-| 46 | [FOMARE](http://twitter.com/search?q=FOMARE) | N/A |
-| 47 | [ターナー](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%8a%e3%83%bc) | ターナー is a Japanese word that refers to a person who works with metal, such as a blacksmith or a machinist. In English, it can be translated as "turner". |
-| 48 | [FENNEL](http://twitter.com/search?q=FENNEL) | Fennel is a plant with a mild, anise-like flavor and aroma. It is used in cooking, as a medicinal herb, and as an ornamental plant. In English, fennel can refer to either the plant or its seeds. |
-| 49 | [アウト宣告](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%83%88%e5%ae%a3%e5%91%8a) | N/A |
+| 3 | [ジャスティンパレス](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%b3%e3%83%91%e3%83%ac%e3%82%b9) | ジャスティンパレス (Justin Palace) is a Japanese entertainment complex located in Tokyo. It is a popular destination for shopping, dining, and entertainment. The complex includes a variety of restaurants, shops, cinemas, and other attractions. In English, Justin Palace can be translated to mean "Justin's Palace". |
+| 4 | [阪神大賞典](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e5%a4%a7%e8%b3%9e%e5%85%b8) | N/A |
+| 5 | [アニサマ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%82%b5%e3%83%9e) | アニサマ is short for "Anime Song Festival" and it is an annual music festival held in Japan. It features performances by popular Japanese anime singers and bands, as well as other musical acts. The event usually takes place in the summer months and attracts thousands of fans from all over the world. |
+| 6 | [ディープボンド](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%97%e3%83%9c%e3%83%b3%e3%83%89) | ディープボンド (Deep Bond) is a Japanese term used to describe a strong emotional connection between two people. It is often used to describe the bond between two people who have been friends for a long time, or the bond between family members. In English, it could be translated as "deep connection" or "strong bond". |
+| 7 | [ボルドグフーシュ](http://twitter.com/search?q=%e3%83%9c%e3%83%ab%e3%83%89%e3%82%b0%e3%83%95%e3%83%bc%e3%82%b7%e3%83%a5) | ボルドグフーシュ is a type of German beer. It is a dark, malty beer with a slightly sweet flavor. In English, it is known as Bockbier or Bock Beer. |
+| 8 | [スプリングS](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b0S) | N/A |
+| 9 | [アフリカンゴールド](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%83%aa%e3%82%ab%e3%83%b3%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 10 | [ブレークアップ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af%e3%82%a2%e3%83%83%e3%83%97) | ブレークアップ (Breakup) is a term used to describe the end of a romantic relationship. It is usually used to refer to the end of a long-term relationship, such as a marriage or engagement. |
+| 11 | [ベラジオオペラ](http://twitter.com/search?q=%e3%83%99%e3%83%a9%e3%82%b8%e3%82%aa%e3%82%aa%e3%83%9a%e3%83%a9) | N/A |
+| 12 | [#holo27](http://twitter.com/search?q=%23holo27) | N/A |
+| 13 | [#Q4_LIVEday2](http://twitter.com/search?q=%23Q4_LIVEday2) | N/A |
+| 14 | [セブンマジシャン](http://twitter.com/search?q=%e3%82%bb%e3%83%96%e3%83%b3%e3%83%9e%e3%82%b8%e3%82%b7%e3%83%a3%e3%83%b3) | セブンマジシャン (Seven Magicians) is a Japanese light novel series written by Takehaya and illustrated by Poco. It follows the story of seven magicians who are tasked with protecting the world from an ancient evil. The English title of the series is Seven Magicians. |
+| 15 | [ルメール](http://twitter.com/search?q=%e3%83%ab%e3%83%a1%e3%83%bc%e3%83%ab) | ルメール is a French surname. It is derived from the Germanic name "Rudmer" which means "famous power". In English, the name would be "Rudmer". |
+| 16 | [メタルスピード](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%ab%e3%82%b9%e3%83%94%e3%83%bc%e3%83%89) | N/A |
+| 17 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
+| 18 | [グラニット](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%8b%e3%83%83%e3%83%88) | グラニット is a type of igneous rock that is composed of quartz and feldspar. It is usually light in color and has a granular texture. In English, it is known as granite. |
+| 19 | [ホウオウビスケッツ](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6%e3%83%93%e3%82%b9%e3%82%b1%e3%83%83%e3%83%84) | N/A |
+| 20 | [#CRWIN](http://twitter.com/search?q=%23CRWIN) | N/A |
+| 21 | [スプリングステークス](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%b9%e3%83%86%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
+| 22 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
+| 23 | [三女神サポカ](http://twitter.com/search?q=%e4%b8%89%e5%a5%b3%e7%a5%9e%e3%82%b5%e3%83%9d%e3%82%ab) | N/A |
+| 24 | [クリスエス](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%82%a8%e3%82%b9) | N/A |
+| 25 | [FENNEL](http://twitter.com/search?q=FENNEL) | Fennel is a plant with a mild, anise-like flavor and aroma. It is used in cooking, as a medicinal herb, and as an ornamental plant. In English, fennel can refer to either the plant or its seeds. |
+| 26 | [メロディーレーン](http://twitter.com/search?q=%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%83%ac%e3%83%bc%e3%83%b3) | N/A |
+| 27 | [ラモーヌ](http://twitter.com/search?q=%e3%83%a9%e3%83%a2%e3%83%bc%e3%83%8c) | N/A |
+| 28 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
+| 29 | [プボくん](http://twitter.com/search?q=%e3%83%97%e3%83%9c%e3%81%8f%e3%82%93) | プボくん is a character from the Japanese manga series, "Kochikame". He is a robot created by the main character, Ryotsu Kankichi. His name is a combination of the words "プログラム" (program) and "ボット" (robot). The English translation of his name would be "Program-Bot". |
+| 30 | [オールパルフェ](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%91%e3%83%ab%e3%83%95%e3%82%a7) | N/A |
+| 31 | [アフゴくん](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%82%b4%e3%81%8f%e3%82%93) | N/A |
+| 32 | [横山兄弟](http://twitter.com/search?q=%e6%a8%aa%e5%b1%b1%e5%85%84%e5%bc%9f) | N/A |
+| 33 | [アイアンバローズ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%a2%e3%83%b3%e3%83%90%e3%83%ad%e3%83%bc%e3%82%ba) | N/A |
+| 34 | [サンレイポケット](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%ac%e3%82%a4%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88) | サンレイポケット (Sanray Pocket) is a Japanese brand of clothing and accessories. The name is derived from the words "sun" and "ray", which symbolize the brand's focus on bright, cheerful designs. In English, the name translates to "Sunray Pocket". |
+| 35 | [アイスグリーン](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%b3) | N/A |
+| 36 | [シロニイ](http://twitter.com/search?q=%e3%82%b7%e3%83%ad%e3%83%8b%e3%82%a4) | シロニイ is a Japanese word that means "white rice". It is often used to refer to plain white rice, as opposed to other types of rice such as brown or red. |
+| 37 | [ピスケス杯](http://twitter.com/search?q=%e3%83%94%e3%82%b9%e3%82%b1%e3%82%b9%e6%9d%af) | N/A |
+| 38 | [ジョックロック](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%83%e3%82%af%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 39 | [BTTM](http://twitter.com/search?q=BTTM) | N/A |
+| 40 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
+| 41 | [スズカコテキタイ](http://twitter.com/search?q=%e3%82%b9%e3%82%ba%e3%82%ab%e3%82%b3%e3%83%86%e3%82%ad%e3%82%bf%e3%82%a4) | N/A |
+| 42 | [たかほー](http://twitter.com/search?q=%e3%81%9f%e3%81%8b%e3%81%bb%e3%83%bc) | N/A |
+| 43 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 44 | [大分商業](http://twitter.com/search?q=%e5%a4%a7%e5%88%86%e5%95%86%e6%a5%ad) | N/A |
+| 45 | [死体蹴りライブ](http://twitter.com/search?q=%e6%ad%bb%e4%bd%93%e8%b9%b4%e3%82%8a%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 46 | [ヴァンヤール](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%a4%e3%83%bc%e3%83%ab) | ヴァンヤール (Vanyar) is a race of Elves in J.R.R. Tolkien's Middle-earth legendarium. They are the first and most powerful of the three clans of Elves, and are known for their great beauty and wisdom. In English, the name Vanyar translates to "The Fair Ones". |
+| 47 | [うたかたの恋](http://twitter.com/search?q=%e3%81%86%e3%81%9f%e3%81%8b%e3%81%9f%e3%81%ae%e6%81%8b) | N/A |
+| 48 | [パクスオトマニカ](http://twitter.com/search?q=%e3%83%91%e3%82%af%e3%82%b9%e3%82%aa%e3%83%88%e3%83%9e%e3%83%8b%e3%82%ab) | N/A |
+| 49 | [グルサポ](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%82%b5%e3%83%9d) | N/A |
+| 50 | [Bグループ](http://twitter.com/search?q=B%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97) | Bグループ is a term used in Japan to refer to a group of people who are considered to be the most successful and influential in their respective fields. It is often used to refer to business leaders, politicians, celebrities, and other high-profile individuals. In English, it could be translated as "Group B" or "The Elite Group". |
 
 
 

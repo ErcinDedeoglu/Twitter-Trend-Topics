@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-19 06:17:48 UTC`
+📆 Last Updated: `2023-03-19 07:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for Australia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 2 | [#NRLBulldogsTigers](http://twitter.com/search?q=%23NRLBulldogsTigers) | N/A |
-| 3 | [#AFLHawksDons](http://twitter.com/search?q=%23AFLHawksDons) | N/A |
-| 4 | [#AFLGiantsCrows](http://twitter.com/search?q=%23AFLGiantsCrows) | N/A |
-| 5 | [#AFLSaintsFreo](http://twitter.com/search?q=%23AFLSaintsFreo) | N/A |
-| 6 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
-| 7 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 1 | [#NRLBulldogsTigers](http://twitter.com/search?q=%23NRLBulldogsTigers) | N/A |
+| 2 | [#AFLHawksDons](http://twitter.com/search?q=%23AFLHawksDons) | N/A |
+| 3 | [#AFLSaintsFreo](http://twitter.com/search?q=%23AFLSaintsFreo) | N/A |
+| 4 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 5 | [#godons](http://twitter.com/search?q=%23godons) | N/A |
+| 6 | [#AFLGiantsCrows](http://twitter.com/search?q=%23AFLGiantsCrows) | N/A |
+| 7 | [Tippa](http://twitter.com/search?q=Tippa) | N/A |
 | 8 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 9 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
-| 10 | [Laird](http://twitter.com/search?q=Laird) | N/A |
-| 11 | [Chad Wingard](http://twitter.com/search?q=Chad+Wingard) | N/A |
-| 12 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 13 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 14 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
-| 15 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [Staines](http://twitter.com/search?q=Staines) | N/A |
-| 18 | [Max King](http://twitter.com/search?q=Max+King) | N/A |
-| 19 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
-| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 21 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 22 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
-| 23 | [Rachele](http://twitter.com/search?q=Rachele) | N/A |
-| 24 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 25 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
-| 26 | [Ross Lyon](http://twitter.com/search?q=Ross+Lyon) | N/A |
-| 27 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 28 | [Whitfield](http://twitter.com/search?q=Whitfield) | N/A |
-| 29 | [Langford](http://twitter.com/search?q=Langford) | N/A |
-| 30 | [Toby Greene](http://twitter.com/search?q=Toby+Greene) | N/A |
-| 31 | [Davey](http://twitter.com/search?q=Davey) | N/A |
-| 32 | [Victoria Police](http://twitter.com/search?q=Victoria+Police) | N/A |
-| 33 | [Adam Kingsley](http://twitter.com/search?q=Adam+Kingsley) | N/A |
-| 34 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
-| 35 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 36 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 37 | [Alamoti](http://twitter.com/search?q=Alamoti) | N/A |
-| 38 | [Sloane](http://twitter.com/search?q=Sloane) | N/A |
-| 39 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 40 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 41 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
-| 42 | [Keating](http://twitter.com/search?q=Keating) | N/A |
-| 43 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 44 | [Marles](http://twitter.com/search?q=Marles) | N/A |
-| 45 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
-| 46 | [Sheezel](http://twitter.com/search?q=Sheezel) | N/A |
-| 47 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 48 | [Tom Green](http://twitter.com/search?q=Tom+Green) | N/A |
-| 49 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 50 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 9 | [Walla](http://twitter.com/search?q=Walla) | N/A |
+| 10 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 11 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 12 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
+| 13 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
+| 14 | [Laird](http://twitter.com/search?q=Laird) | N/A |
+| 15 | [Davey](http://twitter.com/search?q=Davey) | N/A |
+| 16 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
+| 17 | [Rachele](http://twitter.com/search?q=Rachele) | N/A |
+| 18 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 19 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
+| 20 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 21 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 22 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 23 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
+| 24 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 25 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 26 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 27 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
+| 28 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
+| 29 | [Insiders](http://twitter.com/search?q=Insiders) | N/A |
+| 30 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
+| 31 | [Marles](http://twitter.com/search?q=Marles) | N/A |
+| 32 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 33 | [#FIRvTHU](http://twitter.com/search?q=%23FIRvTHU) | N/A |
+| 34 | [#MVCvCCM](http://twitter.com/search?q=%23MVCvCCM) | N/A |
+| 35 | [#REDvDRU](http://twitter.com/search?q=%23REDvDRU) | N/A |
+| 36 | [#proudtobeabulldog](http://twitter.com/search?q=%23proudtobeabulldog) | N/A |
+| 37 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
+| 38 | [#LIGvGIA](http://twitter.com/search?q=%23LIGvGIA) | N/A |
+| 39 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 
 
 

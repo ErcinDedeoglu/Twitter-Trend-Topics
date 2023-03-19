@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-19 06:17:39 UTC`
+📆 Last Updated: `2023-03-19 07:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for [Turkey](</Turkey>)
 | 9 | [karşıyaka konak çiğli](http://twitter.com/search?q=kar%c5%9f%c4%b1yaka+konak+%c3%a7i%c4%9fli) | N/A |
 | 10 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
 | 11 | [gaziemir buca bornova bayrakli](http://twitter.com/search?q=gaziemir+buca+bornova+bayrakli) | N/A |
-| 12 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 12 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
 | 13 | [ezgidemirtaş evleniyor](http://twitter.com/search?q=ezgidemirta%c5%9f+evleniyor) | N/A |
 | 14 | [ertandevrim dergiçekimi](http://twitter.com/search?q=ertandevrim+dergi%c3%a7ekimi) | N/A |
-| 15 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 16 | [profiilime kimbakiyor](http://twitter.com/search?q=profiilime+kimbakiyor) | N/A |
-| 17 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 15 | [profiilime kimbakiyor](http://twitter.com/search?q=profiilime+kimbakiyor) | N/A |
+| 16 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 17 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
 | 18 | [ŞEHİTLERİMİZİ](http://twitter.com/search?q=%c5%9eEH%c4%b0TLER%c4%b0M%c4%b0Z%c4%b0) | N/A |
-| 19 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
-| 20 | [ERDOĞAN EZE EZE KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+EZE+EZE+KAZANACAK) | N/A |
-| 21 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
-| 22 | [Milli Muharip Uçak](http://twitter.com/search?q=Milli+Muharip+U%c3%a7ak) | N/A |
-| 23 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 24 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 25 | [AFtorbada ReisBalkonda](http://twitter.com/search?q=AFtorbada+ReisBalkonda) | N/A |
-| 26 | [ANKA-3](http://twitter.com/search?q=ANKA-3) | N/A |
-| 27 | [Daha İslami](http://twitter.com/search?q=Daha+%c4%b0slami) | N/A |
-| 28 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
-| 29 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 30 | [HÜRJET](http://twitter.com/search?q=H%c3%9cRJET) | N/A |
-| 31 | [Muharrem](http://twitter.com/search?q=Muharrem) | N/A |
-| 32 | [Ebubekir](http://twitter.com/search?q=Ebubekir) | N/A |
-| 33 | [TaşeronDosyası NeOldu](http://twitter.com/search?q=Ta%c5%9feronDosyas%c4%b1+NeOldu) | N/A |
-| 34 | [Dünya Şahit Yılmadık](http://twitter.com/search?q=D%c3%bcnya+%c5%9eahit+Y%c4%b1lmad%c4%b1k) | N/A |
-| 35 | [Milyonlar](http://twitter.com/search?q=Milyonlar) | N/A |
-| 36 | [Minnetle](http://twitter.com/search?q=Minnetle) | N/A |
-| 37 | [HastaTutukluluk İşkencedir](http://twitter.com/search?q=HastaTutukluluk+%c4%b0%c5%9fkencedir) | HastaTutukluluk İşkencedir is a Turkish phrase that translates to "Incarceration of the Sick is Torture". It is a slogan used by activists to draw attention to the inhumane treatment of prisoners with mental and physical illnesses. |
-| 38 | [Sisi](http://twitter.com/search?q=Sisi) | N/A |
-| 39 | [ehliyetimiver oyumual](http://twitter.com/search?q=ehliyetimiver+oyumual) | N/A |
-| 40 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 41 | [GAZİLERİMİZI](http://twitter.com/search?q=GAZ%c4%b0LER%c4%b0M%c4%b0ZI) | N/A |
-| 42 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
-| 43 | [Türk Devletleri Teşkilatı](http://twitter.com/search?q=T%c3%bcrk+Devletleri+Te%c5%9fkilat%c4%b1) | N/A |
-| 44 | [Türkan](http://twitter.com/search?q=T%c3%bcrkan) | N/A |
-| 45 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
-| 46 | [Ahmet Oğuz](http://twitter.com/search?q=Ahmet+O%c4%9fuz) | N/A |
-| 47 | [Bugüne İstikrar Yarına Huzur](http://twitter.com/search?q=Bug%c3%bcne+%c4%b0stikrar+Yar%c4%b1na+Huzur) | N/A |
-| 48 | [HEP BİRLİKTE BAŞARIRIZ](http://twitter.com/search?q=HEP+B%c4%b0RL%c4%b0KTE+BA%c5%9eARIRIZ) | N/A |
+| 19 | [ERDOĞAN EZE EZE KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+EZE+EZE+KAZANACAK) | N/A |
+| 20 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 21 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 22 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 23 | [Ekvador'da 6,7](http://twitter.com/search?q=Ekvador%27da+6%2c7) | N/A |
+| 24 | [Milli Muharip Uçak](http://twitter.com/search?q=Milli+Muharip+U%c3%a7ak) | N/A |
+| 25 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 26 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 27 | [AFtorbada ReisBalkonda](http://twitter.com/search?q=AFtorbada+ReisBalkonda) | N/A |
+| 28 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 29 | [Daha İslami](http://twitter.com/search?q=Daha+%c4%b0slami) | N/A |
+| 30 | [ANKA-3](http://twitter.com/search?q=ANKA-3) | N/A |
+| 31 | [HÜRJET](http://twitter.com/search?q=H%c3%9cRJET) | N/A |
+| 32 | [Muharrem](http://twitter.com/search?q=Muharrem) | N/A |
+| 33 | [Ruhları](http://twitter.com/search?q=Ruhlar%c4%b1) | N/A |
+| 34 | [Ebubekir](http://twitter.com/search?q=Ebubekir) | N/A |
+| 35 | [Dünya Şahit Yılmadık](http://twitter.com/search?q=D%c3%bcnya+%c5%9eahit+Y%c4%b1lmad%c4%b1k) | N/A |
+| 36 | [TaşeronDosyası NeOldu](http://twitter.com/search?q=Ta%c5%9feronDosyas%c4%b1+NeOldu) | N/A |
+| 37 | [Minnetle](http://twitter.com/search?q=Minnetle) | N/A |
+| 38 | [Milyonlar](http://twitter.com/search?q=Milyonlar) | N/A |
+| 39 | [HastaTutukluluk İşkencedir](http://twitter.com/search?q=HastaTutukluluk+%c4%b0%c5%9fkencedir) | HastaTutukluluk İşkencedir is a Turkish phrase that translates to "Incarceration of the Sick is Torture". It is a slogan used by activists to draw attention to the inhumane treatment of prisoners with mental and physical illnesses. |
+| 40 | [Sisi](http://twitter.com/search?q=Sisi) | N/A |
+| 41 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 42 | [GAZİLERİMİZI](http://twitter.com/search?q=GAZ%c4%b0LER%c4%b0M%c4%b0ZI) | N/A |
+| 43 | [Ahmet Oğuz](http://twitter.com/search?q=Ahmet+O%c4%9fuz) | N/A |
+| 44 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
+| 45 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
+| 46 | [Türk Devletleri Teşkilatı](http://twitter.com/search?q=T%c3%bcrk+Devletleri+Te%c5%9fkilat%c4%b1) | N/A |
+| 47 | [Türkan](http://twitter.com/search?q=T%c3%bcrkan) | N/A |
+| 48 | [Bugüne İstikrar Yarına Huzur](http://twitter.com/search?q=Bug%c3%bcne+%c4%b0stikrar+Yar%c4%b1na+Huzur) | N/A |
 | 49 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
 | 50 | [Aleykümselam](http://twitter.com/search?q=Aleyk%c3%bcmselam) | N/A |
 

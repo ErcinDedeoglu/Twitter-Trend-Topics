@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-19 06:17:01 UTC`
+📆 Last Updated: `2023-03-19 07:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 2 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
 | 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 5 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
-| 6 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 4 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 5 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 6 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
 | 7 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 8 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
-| 9 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 10 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 11 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 14 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 15 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 8 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 9 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 13 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 14 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 15 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 16 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 17 | [Jason Robertson](http://twitter.com/search?q=Jason+Robertson) | N/A |
-| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 19 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 20 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 17 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 18 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 19 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 20 | [Jason Robertson](http://twitter.com/search?q=Jason+Robertson) | N/A |
 | 21 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
 | 22 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 23 | [Rasmus Andersson](http://twitter.com/search?q=Rasmus+Andersson) | N/A |
-| 24 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 25 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 26 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
-| 27 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 28 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 29 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 30 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 32 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 33 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 34 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 35 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 24 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
+| 25 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 26 | [Andersson](http://twitter.com/search?q=Andersson) | N/A |
+| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 28 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 29 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 30 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 31 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 33 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 34 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 35 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 36 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
 | 37 | [Edler](http://twitter.com/search?q=Edler) | N/A |
-| 38 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 39 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 40 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 41 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 42 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 43 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 44 | [Sens](http://twitter.com/search?q=Sens) | N/A |
-| 45 | [Pionk](http://twitter.com/search?q=Pionk) | N/A |
-| 46 | [Harper](http://twitter.com/search?q=Harper) | N/A |
-| 47 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 48 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 38 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 39 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 40 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 41 | [Sens](http://twitter.com/search?q=Sens) | N/A |
+| 42 | [Pionk](http://twitter.com/search?q=Pionk) | N/A |
+| 43 | [Harper](http://twitter.com/search?q=Harper) | N/A |
+| 44 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 45 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 47 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 48 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
+| 49 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 
 
 

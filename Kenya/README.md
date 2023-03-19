@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-19 06:17:52 UTC`
+📆 Last Updated: `2023-03-19 07:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for Kenya
 | 4 | [Governor Ole Ntutu](http://twitter.com/search?q=Governor+Ole+Ntutu) | N/A |
 | 5 | [#RighttolifeLGBTIQKenya](http://twitter.com/search?q=%23RighttolifeLGBTIQKenya) | N/A |
 | 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 7 | [Ndii](http://twitter.com/search?q=Ndii) | N/A |
+| 7 | [#RailaSpeaks](http://twitter.com/search?q=%23RailaSpeaks) | N/A |
 | 8 | [#TheRainOfElijah](http://twitter.com/search?q=%23TheRainOfElijah) | N/A |
-| 9 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 11 | [#TuskerFest](http://twitter.com/search?q=%23TuskerFest) | N/A |
-| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 13 | [Kericho](http://twitter.com/search?q=Kericho) | N/A |
-| 14 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 17 | [Kasarani](http://twitter.com/search?q=Kasarani) | N/A |
-| 18 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 10 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
+| 11 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 12 | [Kericho](http://twitter.com/search?q=Kericho) | N/A |
+| 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 14 | [Kasarani](http://twitter.com/search?q=Kasarani) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 18 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 19 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 20 | [Usman](http://twitter.com/search?q=Usman) | N/A |
 | 21 | [Nyama](http://twitter.com/search?q=Nyama) | N/A |
 | 22 | [Sherehe](http://twitter.com/search?q=Sherehe) | N/A |
 | 23 | [im bank service guarantee](http://twitter.com/search?q=im+bank+service+guarantee) | N/A |
-| 24 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 25 | [congratulations sc](http://twitter.com/search?q=congratulations+sc) | N/A |
-| 26 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 27 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 28 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 29 | [20 free spins](http://twitter.com/search?q=20+free+spins) | N/A |
-| 30 | [Insurance](http://twitter.com/search?q=Insurance) | N/A |
-| 31 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 32 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 33 | [Chester House](http://twitter.com/search?q=Chester+House) | N/A |
-| 34 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
-| 35 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 36 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
-| 37 | [mukinye eastleigh](http://twitter.com/search?q=mukinye+eastleigh) | N/A |
-| 38 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 39 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 40 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 41 | [Aspen Medical](http://twitter.com/search?q=Aspen+Medical) | N/A |
-| 42 | [State House](http://twitter.com/search?q=State+House) | N/A |
-| 43 | [Cowards](http://twitter.com/search?q=Cowards) | N/A |
-| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 45 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 46 | [dj gostow](http://twitter.com/search?q=dj+gostow) | N/A |
-| 47 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 48 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 49 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 24 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 25 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 26 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 27 | [20 free spins](http://twitter.com/search?q=20+free+spins) | N/A |
+| 28 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 29 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 30 | [Chester House](http://twitter.com/search?q=Chester+House) | N/A |
+| 31 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
+| 32 | [JOAO FELIX](http://twitter.com/search?q=JOAO+FELIX) | N/A |
+| 33 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
+| 34 | [mukinye eastleigh](http://twitter.com/search?q=mukinye+eastleigh) | N/A |
+| 35 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 36 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 37 | [Aspen Medical](http://twitter.com/search?q=Aspen+Medical) | N/A |
+| 38 | [Cowards](http://twitter.com/search?q=Cowards) | N/A |
+| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 40 | [Congratulations SC](http://twitter.com/search?q=Congratulations+SC) | N/A |
+| 41 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
+| 42 | [dj gostow](http://twitter.com/search?q=dj+gostow) | N/A |
+| 43 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 44 | [Isaiah](http://twitter.com/search?q=Isaiah) | N/A |
+| 45 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 46 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 47 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 48 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 49 | [State House](http://twitter.com/search?q=State+House) | N/A |
 | 50 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 
 

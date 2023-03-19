@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-19 06:17:53 UTC`
+📆 Last Updated: `2023-03-19 07:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [#highleague6](http://twitter.com/search?q=%23highleague6) | N/A |
 | 2 | [#thevoicekids](http://twitter.com/search?q=%23thevoicekids) | N/A |
-| 3 | [#JarekOddajKPO](http://twitter.com/search?q=%23JarekOddajKPO) | N/A |
-| 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 3 | [#StopCPK](http://twitter.com/search?q=%23StopCPK) | N/A |
+| 4 | [#JarekOddajKPO](http://twitter.com/search?q=%23JarekOddajKPO) | N/A |
 | 5 | [#RCZCRA](http://twitter.com/search?q=%23RCZCRA) | N/A |
 | 6 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
 | 7 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
-| 8 | [Najman](http://twitter.com/search?q=Najman) | N/A |
-| 9 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
-| 10 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 11 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 12 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
-| 13 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
-| 14 | [daro lew](http://twitter.com/search?q=daro+lew) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [don diego](http://twitter.com/search?q=don+diego) | N/A |
-| 17 | [sroczyński](http://twitter.com/search?q=sroczy%c5%84ski) | N/A |
-| 18 | [Cracovia](http://twitter.com/search?q=Cracovia) | N/A |
-| 19 | [ludwiczek](http://twitter.com/search?q=ludwiczek) | N/A |
-| 20 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
-| 21 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
-| 22 | [Jan Urban](http://twitter.com/search?q=Jan+Urban) | N/A |
-| 23 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
-| 24 | [kownackiego](http://twitter.com/search?q=kownackiego) | N/A |
-| 25 | [Wawelu](http://twitter.com/search?q=Wawelu) | N/A |
-| 26 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
-| 27 | [poldi](http://twitter.com/search?q=poldi) | N/A |
-| 28 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
-| 29 | [labryga](http://twitter.com/search?q=labryga) | N/A |
-| 30 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 31 | [Pasha](http://twitter.com/search?q=Pasha) | N/A |
-| 32 | [Szczęść Boże](http://twitter.com/search?q=Szcz%c4%99%c5%9b%c4%87+Bo%c5%bce) | N/A |
-| 33 | [raków](http://twitter.com/search?q=rak%c3%b3w) | N/A |
-| 34 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 35 | [górnika](http://twitter.com/search?q=g%c3%b3rnika) | N/A |
-| 36 | [Podolski](http://twitter.com/search?q=Podolski) | N/A |
-| 37 | [exposito](http://twitter.com/search?q=exposito) | N/A |
-| 38 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
-| 39 | [hagi](http://twitter.com/search?q=hagi) | N/A |
-| 40 | [Haribo](http://twitter.com/search?q=Haribo) | N/A |
-| 41 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 42 | [mularczyka](http://twitter.com/search?q=mularczyka) | N/A |
-| 43 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
-| 44 | [Fame](http://twitter.com/search?q=Fame) | N/A |
-| 45 | [dorzeczy](http://twitter.com/search?q=dorzeczy) | N/A |
-| 46 | [olecku](http://twitter.com/search?q=olecku) | N/A |
-| 47 | [jagi](http://twitter.com/search?q=jagi) | N/A |
+| 8 | [Niedzieli](http://twitter.com/search?q=Niedzieli) | N/A |
+| 9 | [Wawel](http://twitter.com/search?q=Wawel) | N/A |
+| 10 | [Najman](http://twitter.com/search?q=Najman) | N/A |
+| 11 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 12 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
+| 13 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
+| 14 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 15 | [daro lew](http://twitter.com/search?q=daro+lew) | N/A |
+| 16 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
+| 17 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 18 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 19 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
+| 20 | [don diego](http://twitter.com/search?q=don+diego) | N/A |
+| 21 | [Cracovia](http://twitter.com/search?q=Cracovia) | N/A |
+| 22 | [ludwiczek](http://twitter.com/search?q=ludwiczek) | N/A |
+| 23 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
+| 24 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 27 | [jan urban](http://twitter.com/search?q=jan+urban) | N/A |
+| 28 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
+| 29 | [kownackiego](http://twitter.com/search?q=kownackiego) | N/A |
+| 30 | [ZOMO](http://twitter.com/search?q=ZOMO) | N/A |
+| 31 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
+| 32 | [ORMO](http://twitter.com/search?q=ORMO) | N/A |
+| 33 | [poldi](http://twitter.com/search?q=poldi) | N/A |
+| 34 | [Lwowie](http://twitter.com/search?q=Lwowie) | N/A |
+| 35 | [Józefa](http://twitter.com/search?q=J%c3%b3zefa) | N/A |
+| 36 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 37 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
+| 38 | [Pasha](http://twitter.com/search?q=Pasha) | N/A |
+| 39 | [Ewuniu](http://twitter.com/search?q=Ewuniu) | N/A |
+| 40 | [Labryga](http://twitter.com/search?q=Labryga) | N/A |
+| 41 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 42 | [górnika](http://twitter.com/search?q=g%c3%b3rnika) | N/A |
+| 43 | [podolski](http://twitter.com/search?q=podolski) | N/A |
+| 44 | [exposito](http://twitter.com/search?q=exposito) | N/A |
+| 45 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
+| 46 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
+| 47 | [Haribo](http://twitter.com/search?q=Haribo) | N/A |
 | 48 | [Ministerstwo Przemysłu](http://twitter.com/search?q=Ministerstwo+Przemys%c5%82u) | N/A |
-| 49 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 50 | [tottenhamu](http://twitter.com/search?q=tottenhamu) | N/A |
+| 49 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 50 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
 
 
 
