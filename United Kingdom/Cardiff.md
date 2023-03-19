@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-19 01:46:07 UTC`
+📆 Last Updated: `2023-03-19 03:02:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 6 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 7 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
 | 8 | [HEADSHOT DEAD](http://twitter.com/search?q=HEADSHOT+DEAD) | N/A |
-| 9 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 10 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
-| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 12 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 13 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 14 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 15 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 16 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 9 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 10 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 11 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
+| 12 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 13 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 14 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 15 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 16 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
 | 17 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 18 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 19 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 20 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 18 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 20 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
 | 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 22 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 22 | [Ellis Simms](http://twitter.com/search?q=Ellis+Simms) | N/A |
 | 23 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 24 | [Ellis Simms](http://twitter.com/search?q=Ellis+Simms) | N/A |
-| 25 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
-| 26 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 27 | [Gunnar](http://twitter.com/search?q=Gunnar) | N/A |
-| 28 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 29 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 30 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 31 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 32 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
-| 33 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 34 | [Dolidze](http://twitter.com/search?q=Dolidze) | N/A |
-| 35 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 36 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 37 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 38 | [Mothers Day](http://twitter.com/search?q=Mothers+Day) | N/A |
-| 39 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 40 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 41 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 42 | [Jose](http://twitter.com/search?q=Jose) | N/A |
-| 43 | [Walters](http://twitter.com/search?q=Walters) | N/A |
-| 44 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
-| 45 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 46 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 47 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 48 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 24 | [Pattinson](http://twitter.com/search?q=Pattinson) | N/A |
+| 25 | [Mothers Day](http://twitter.com/search?q=Mothers+Day) | N/A |
+| 26 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 27 | [Jenkins](http://twitter.com/search?q=Jenkins) | N/A |
+| 28 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 29 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 30 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 31 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 32 | [Steward](http://twitter.com/search?q=Steward) | N/A |
+| 33 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 34 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 35 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 36 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 37 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 38 | [Jose](http://twitter.com/search?q=Jose) | N/A |
+| 39 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 40 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 41 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 42 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 43 | [McGregor](http://twitter.com/search?q=McGregor) | McGregor is a Scottish surname derived from the Gaelic MacGriogair, meaning "son of Griogair". It is also a given name, usually derived from the surname. |
+| 44 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 45 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 46 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 47 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
+| 48 | [#Casualty](http://twitter.com/search?q=%23Casualty) | N/A |
 
 
 

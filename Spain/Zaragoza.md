@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-03-19 01:46:25 UTC`
+📆 Last Updated: `2023-03-19 03:02:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 2 | [#CoverNight](http://twitter.com/search?q=%23CoverNight) | N/A |
-| 3 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 2 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 3 | [#CoverNight](http://twitter.com/search?q=%23CoverNight) | N/A |
 | 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 5 | [#XplicaCuentas](http://twitter.com/search?q=%23XplicaCuentas) | N/A |
 | 6 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
 | 7 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 8 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
-| 9 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 10 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 11 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 12 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
-| 13 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
-| 14 | [Guillamon](http://twitter.com/search?q=Guillamon) | N/A |
-| 15 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
-| 16 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 17 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 18 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 8 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 9 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 10 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 11 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
+| 12 | [Guillamon](http://twitter.com/search?q=Guillamon) | N/A |
+| 13 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
+| 14 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 15 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 16 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 17 | [Ponferradina](http://twitter.com/search?q=Ponferradina) | N/A |
+| 18 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
 | 19 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 20 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
-| 21 | [Ponferradina](http://twitter.com/search?q=Ponferradina) | N/A |
-| 22 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
-| 23 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 24 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
-| 25 | [Villalibre](http://twitter.com/search?q=Villalibre) | N/A |
-| 26 | [Mario Hermoso](http://twitter.com/search?q=Mario+Hermoso) | N/A |
-| 27 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
-| 28 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 29 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
-| 30 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 31 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 32 | [Carmena](http://twitter.com/search?q=Carmena) | N/A |
-| 33 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 34 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 35 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 36 | [Juanfran](http://twitter.com/search?q=Juanfran) | N/A |
-| 37 | [Las Palmas](http://twitter.com/search?q=Las+Palmas) | N/A |
-| 38 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 39 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 40 | [Llorente](http://twitter.com/search?q=Llorente) | Llorente is a Spanish surname derived from the name of a place in Spain. It is derived from the Latin word Laurentius, which means "from Laurentum". In English, it can be translated to mean "from Laurentum". |
-| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 42 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
-| 43 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 44 | [Tenerife](http://twitter.com/search?q=Tenerife) | N/A |
-| 45 | [Tete](http://twitter.com/search?q=Tete) | N/A |
-| 46 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 47 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 20 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 21 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 22 | [Antoine](http://twitter.com/search?q=Antoine) | N/A |
+| 23 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
+| 24 | [Carmena](http://twitter.com/search?q=Carmena) | N/A |
+| 25 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
+| 26 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 27 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 28 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 29 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 30 | [Las Palmas](http://twitter.com/search?q=Las+Palmas) | N/A |
+| 31 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
+| 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 33 | [Llorente](http://twitter.com/search?q=Llorente) | Llorente is a Spanish surname derived from the name of a place in Spain. It is derived from the Latin word Laurentius, which means "from Laurentum". In English, it can be translated to mean "from Laurentum". |
+| 34 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 37 | [Tete](http://twitter.com/search?q=Tete) | N/A |
+| 38 | [Tenerife](http://twitter.com/search?q=Tenerife) | N/A |
+| 39 | [Heliodoro](http://twitter.com/search?q=Heliodoro) | N/A |
+| 40 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 41 | [Solbes](http://twitter.com/search?q=Solbes) | N/A |
+| 42 | [#IndianWells](http://twitter.com/search?q=%23IndianWells) | N/A |
+| 43 | [#FelizDiaDelPadre](http://twitter.com/search?q=%23FelizDiaDelPadre) | N/A |
+| 44 | [#AtletiValencia](http://twitter.com/search?q=%23AtletiValencia) | N/A |
+| 45 | [#ufceurosport](http://twitter.com/search?q=%23ufceurosport) | N/A |
+| 46 | [#LaNocheDeCADENA100](http://twitter.com/search?q=%23LaNocheDeCADENA100) | N/A |
+| 47 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
 
 
 

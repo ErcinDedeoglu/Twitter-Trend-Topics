@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-19 01:47:00 UTC`
+📆 Last Updated: `2023-03-19 03:03:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 2 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
-| 3 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 4 | [#ClasicoEnPlaydoit](http://twitter.com/search?q=%23ClasicoEnPlaydoit) | N/A |
-| 5 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
-| 6 | [#EsUnHonorEstarConObrador](http://twitter.com/search?q=%23EsUnHonorEstarConObrador) | N/A |
-| 7 | [Iván Morales](http://twitter.com/search?q=Iv%c3%a1n+Morales) | N/A |
-| 8 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 9 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
-| 10 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 11 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 12 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 13 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
-| 14 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 15 | [Barovero](http://twitter.com/search?q=Barovero) | N/A |
-| 16 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 17 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
-| 18 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 19 | [VAMOS TIGRES](http://twitter.com/search?q=VAMOS+TIGRES) | N/A |
-| 20 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 21 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 1 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 2 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 3 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 4 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
+| 5 | [#EsUnHonorEstarConObrador](http://twitter.com/search?q=%23EsUnHonorEstarConObrador) | N/A |
+| 6 | [#ClasicoEnPlaydoit](http://twitter.com/search?q=%23ClasicoEnPlaydoit) | N/A |
+| 7 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 8 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 9 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
+| 10 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 11 | [Iván Morales](http://twitter.com/search?q=Iv%c3%a1n+Morales) | N/A |
+| 12 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 13 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 14 | [Puro](http://twitter.com/search?q=Puro) | N/A |
+| 15 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 16 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 17 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 18 | [#ExpropiacionPetrolera](http://twitter.com/search?q=%23ExpropiacionPetrolera) | N/A |
+| 19 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
+| 20 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 21 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
 | 22 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 23 | [La Máquina](http://twitter.com/search?q=La+M%c3%a1quina) | N/A |
-| 24 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 25 | [Viva AMLO](http://twitter.com/search?q=Viva+AMLO) | N/A |
-| 26 | [Estadio Universitario](http://twitter.com/search?q=Estadio+Universitario) | N/A |
-| 27 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 28 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 29 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 30 | [Dos Bocas](http://twitter.com/search?q=Dos+Bocas) | N/A |
-| 31 | [SKABECHE DAY](http://twitter.com/search?q=SKABECHE+DAY) | N/A |
-| 32 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 33 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
-| 34 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 35 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
-| 36 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 37 | [Simpatizantes](http://twitter.com/search?q=Simpatizantes) | N/A |
-| 38 | [Andrés Manuel López Obrador](http://twitter.com/search?q=Andr%c3%a9s+Manuel+L%c3%b3pez+Obrador) | N/A |
-| 39 | [America](http://twitter.com/search?q=America) | N/A |
-| 40 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 41 | [Presidente de México](http://twitter.com/search?q=Presidente+de+M%c3%a9xico) | N/A |
-| 42 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 43 | [Mendieta](http://twitter.com/search?q=Mendieta) | N/A |
-| 44 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
-| 45 | [Chente](http://twitter.com/search?q=Chente) | N/A |
-| 46 | [#ExpropiacionPetrolera](http://twitter.com/search?q=%23ExpropiacionPetrolera) | N/A |
-| 47 | [#ClasicoRegio129](http://twitter.com/search?q=%23ClasicoRegio129) | N/A |
-| 48 | [#MarchaDelArdor](http://twitter.com/search?q=%23MarchaDelArdor) | N/A |
-| 49 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 50 | [#VL23](http://twitter.com/search?q=%23VL23) | N/A |
+| 23 | [Barovero](http://twitter.com/search?q=Barovero) | N/A |
+| 24 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 25 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 26 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 27 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 28 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 29 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 30 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 31 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
+| 32 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 33 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 34 | [La Máquina](http://twitter.com/search?q=La+M%c3%a1quina) | N/A |
+| 35 | [Viva AMLO](http://twitter.com/search?q=Viva+AMLO) | N/A |
+| 36 | [Batres](http://twitter.com/search?q=Batres) | N/A |
+| 37 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 38 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 39 | [Dos Bocas](http://twitter.com/search?q=Dos+Bocas) | N/A |
+| 40 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 41 | [Pueblo](http://twitter.com/search?q=Pueblo) | N/A |
+| 42 | [Estadio Universitario](http://twitter.com/search?q=Estadio+Universitario) | N/A |
+| 43 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 44 | [SKABECHE DAY](http://twitter.com/search?q=SKABECHE+DAY) | N/A |
+| 45 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 46 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
+| 47 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
+| 48 | [Andrés Manuel López Obrador](http://twitter.com/search?q=Andr%c3%a9s+Manuel+L%c3%b3pez+Obrador) | N/A |
+| 49 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 50 | [Presidente de México](http://twitter.com/search?q=Presidente+de+M%c3%a9xico) | N/A |
 
 
 

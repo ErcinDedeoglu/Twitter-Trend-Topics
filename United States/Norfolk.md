@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norfolk
 
-📆 Last Updated: `2023-03-19 01:46:52 UTC`
+📆 Last Updated: `2023-03-19 03:03:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 2 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 3 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
-| 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 5 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 6 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 7 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 8 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 9 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 10 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 11 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 12 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 13 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 14 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 15 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 16 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 17 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 18 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 19 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
-| 20 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
-| 21 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 22 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 23 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 24 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 25 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 26 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 27 | [Hemric](http://twitter.com/search?q=Hemric) | N/A |
-| 28 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 29 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
-| 30 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 31 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 32 | [Thiago Almada](http://twitter.com/search?q=Thiago+Almada) | N/A |
-| 33 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 34 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 35 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 36 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 37 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 38 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 39 | [Vito](http://twitter.com/search?q=Vito) | N/A |
-| 40 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
-| 41 | [Razorbacks](http://twitter.com/search?q=Razorbacks) | N/A |
-| 42 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
-| 43 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 44 | [Konquest](http://twitter.com/search?q=Konquest) | N/A |
-| 45 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 46 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 47 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 48 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 49 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
+| 1 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 2 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 3 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 4 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 5 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 7 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 8 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 9 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 10 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 11 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 12 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 13 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 14 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 15 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 16 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
+| 17 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
+| 18 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 19 | [#TeamUSA](http://twitter.com/search?q=%23TeamUSA) | N/A |
+| 20 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 21 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 22 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 23 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 24 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 25 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 26 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 27 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 28 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 29 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 30 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 31 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 32 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 33 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 34 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 35 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 36 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 37 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
+| 38 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 39 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 40 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 41 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 42 | [Thiago Almada](http://twitter.com/search?q=Thiago+Almada) | N/A |
+| 43 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 44 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 45 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
+| 46 | [Konquest](http://twitter.com/search?q=Konquest) | N/A |
+| 47 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
+| 48 | [Sweet Sixteen](http://twitter.com/search?q=Sweet+Sixteen) | N/A |
+| 49 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
 
 
 

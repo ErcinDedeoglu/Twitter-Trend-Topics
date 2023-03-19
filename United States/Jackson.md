@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-03-19 01:46:50 UTC`
+📆 Last Updated: `2023-03-19 03:03:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 2 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
-| 3 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 4 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 5 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 6 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 7 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 8 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 9 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 10 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 11 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 12 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 13 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 14 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 15 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 16 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 17 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 18 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
-| 19 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
-| 20 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 21 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 22 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 23 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 24 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 25 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 26 | [Hemric](http://twitter.com/search?q=Hemric) | N/A |
-| 27 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 28 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 29 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
-| 30 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 31 | [Thiago Almada](http://twitter.com/search?q=Thiago+Almada) | N/A |
-| 32 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 33 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 34 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 35 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 36 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 37 | [Vito](http://twitter.com/search?q=Vito) | N/A |
-| 38 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
-| 39 | [Razorbacks](http://twitter.com/search?q=Razorbacks) | N/A |
-| 40 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
-| 41 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 42 | [Konquest](http://twitter.com/search?q=Konquest) | N/A |
-| 43 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 44 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 45 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 46 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 47 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
-| 48 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
+| 2 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 4 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 5 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 6 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 7 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 8 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 9 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 10 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 11 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 12 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 13 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
+| 14 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
+| 15 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 16 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 17 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 18 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 19 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 20 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 21 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 22 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 23 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 24 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 25 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 26 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 27 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 28 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 29 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 30 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 31 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 32 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 33 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
+| 34 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 35 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 36 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 37 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 38 | [Thiago Almada](http://twitter.com/search?q=Thiago+Almada) | N/A |
+| 39 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 40 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 41 | [Konquest](http://twitter.com/search?q=Konquest) | N/A |
+| 42 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
+| 43 | [Sweet Sixteen](http://twitter.com/search?q=Sweet+Sixteen) | N/A |
+| 44 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 45 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 46 | [Salvy](http://twitter.com/search?q=Salvy) | N/A |
+| 47 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
+| 48 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 
 
 

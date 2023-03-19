@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-19 01:46:42 UTC`
+📆 Last Updated: `2023-03-19 03:02:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,39 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 13 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
 | 14 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
 | 15 | [g-11](http://twitter.com/search?q=g-11) | N/A |
-| 16 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
-| 17 | [tim david](http://twitter.com/search?q=tim+david) | N/A |
+| 16 | [tim david](http://twitter.com/search?q=tim+david) | N/A |
+| 17 | [bushra bibi](http://twitter.com/search?q=bushra+bibi) | N/A |
 | 18 | [Judicial Complex](http://twitter.com/search?q=Judicial+Complex) | N/A |
 | 19 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
 | 20 | [baig](http://twitter.com/search?q=baig) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [PEMRA](http://twitter.com/search?q=PEMRA) | N/A |
+| 21 | [PEMRA](http://twitter.com/search?q=PEMRA) | N/A |
+| 22 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
 | 23 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
 | 24 | [anwar ali](http://twitter.com/search?q=anwar+ali) | N/A |
-| 25 | [RAUF](http://twitter.com/search?q=RAUF) | N/A |
-| 26 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 27 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
-| 28 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 25 | [bol news](http://twitter.com/search?q=bol+news) | N/A |
+| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 27 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 28 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 29 | [Cricket](http://twitter.com/search?q=Cricket) | N/A |
-| 30 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
-| 31 | [Accept](http://twitter.com/search?q=Accept) | N/A |
-| 32 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 33 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 34 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
-| 35 | [Double](http://twitter.com/search?q=Double) | N/A |
-| 36 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 37 | [Hilarious](http://twitter.com/search?q=Hilarious) | N/A |
-| 38 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 39 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 40 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
-| 41 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
-| 42 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 43 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
-| 44 | [Hats](http://twitter.com/search?q=Hats) | N/A |
-| 45 | [RIGHT NOW](http://twitter.com/search?q=RIGHT+NOW) | N/A |
-| 46 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 47 | [I Can](http://twitter.com/search?q=I+Can) | N/A |
-| 48 | [Masha](http://twitter.com/search?q=Masha) | N/A |
-| 49 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 50 | [Bravo](http://twitter.com/search?q=Bravo) | N/A |
+| 30 | [Sath](http://twitter.com/search?q=Sath) | N/A |
+| 31 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 32 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 33 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 34 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 35 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
+| 36 | [America](http://twitter.com/search?q=America) | N/A |
+| 37 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
+| 38 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
+| 39 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
+| 40 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
+| 41 | [Pashtoon](http://twitter.com/search?q=Pashtoon) | N/A |
+| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 43 | [Masha](http://twitter.com/search?q=Masha) | N/A |
+| 44 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 45 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 46 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
+| 47 | [Louder](http://twitter.com/search?q=Louder) | N/A |
+| 48 | [Nani](http://twitter.com/search?q=Nani) | N/A |
 
 
 
