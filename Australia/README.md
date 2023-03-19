@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-19 07:16:34 UTC`
+📆 Last Updated: `2023-03-19 08:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,44 @@ This is top 50 for Australia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NRLBulldogsTigers](http://twitter.com/search?q=%23NRLBulldogsTigers) | N/A |
-| 2 | [#AFLHawksDons](http://twitter.com/search?q=%23AFLHawksDons) | N/A |
-| 3 | [#AFLSaintsFreo](http://twitter.com/search?q=%23AFLSaintsFreo) | N/A |
-| 4 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 5 | [#godons](http://twitter.com/search?q=%23godons) | N/A |
-| 6 | [#AFLGiantsCrows](http://twitter.com/search?q=%23AFLGiantsCrows) | N/A |
-| 7 | [Tippa](http://twitter.com/search?q=Tippa) | N/A |
-| 8 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 9 | [Walla](http://twitter.com/search?q=Walla) | N/A |
-| 10 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 1 | [#AFLSaintsFreo](http://twitter.com/search?q=%23AFLSaintsFreo) | N/A |
+| 2 | [#NRLBulldogsTigers](http://twitter.com/search?q=%23NRLBulldogsTigers) | N/A |
+| 3 | [#AFLHawksDons](http://twitter.com/search?q=%23AFLHawksDons) | N/A |
+| 4 | [#MVCvCCM](http://twitter.com/search?q=%23MVCvCCM) | N/A |
+| 5 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 6 | [#NRLRaidersSharks](http://twitter.com/search?q=%23NRLRaidersSharks) | N/A |
+| 7 | [Wakeham](http://twitter.com/search?q=Wakeham) | N/A |
+| 8 | [Ross Lyon](http://twitter.com/search?q=Ross+Lyon) | N/A |
+| 9 | [Fyfe](http://twitter.com/search?q=Fyfe) | N/A |
+| 10 | [Tippa](http://twitter.com/search?q=Tippa) | N/A |
 | 11 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 12 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
-| 13 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
-| 14 | [Laird](http://twitter.com/search?q=Laird) | N/A |
-| 15 | [Davey](http://twitter.com/search?q=Davey) | N/A |
-| 16 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
-| 17 | [Rachele](http://twitter.com/search?q=Rachele) | N/A |
-| 18 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 19 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
-| 20 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 21 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 22 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 23 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
-| 24 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 25 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 26 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 12 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
+| 13 | [Walla](http://twitter.com/search?q=Walla) | N/A |
+| 14 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 15 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 16 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
+| 17 | [Davey](http://twitter.com/search?q=Davey) | N/A |
+| 18 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
+| 19 | [St Kilda](http://twitter.com/search?q=St+Kilda) | N/A |
+| 20 | [Laird](http://twitter.com/search?q=Laird) | N/A |
+| 21 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 22 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 23 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
+| 24 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 25 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
+| 26 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
 | 27 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
-| 28 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 29 | [Insiders](http://twitter.com/search?q=Insiders) | N/A |
-| 30 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
-| 31 | [Marles](http://twitter.com/search?q=Marles) | N/A |
-| 32 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 28 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 29 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 30 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
+| 31 | [#godons](http://twitter.com/search?q=%23godons) | N/A |
+| 32 | [#AFLGiantsCrows](http://twitter.com/search?q=%23AFLGiantsCrows) | N/A |
 | 33 | [#FIRvTHU](http://twitter.com/search?q=%23FIRvTHU) | N/A |
-| 34 | [#MVCvCCM](http://twitter.com/search?q=%23MVCvCCM) | N/A |
-| 35 | [#REDvDRU](http://twitter.com/search?q=%23REDvDRU) | N/A |
-| 36 | [#proudtobeabulldog](http://twitter.com/search?q=%23proudtobeabulldog) | N/A |
-| 37 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
-| 38 | [#LIGvGIA](http://twitter.com/search?q=%23LIGvGIA) | N/A |
-| 39 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
+| 34 | [#REDvDRU](http://twitter.com/search?q=%23REDvDRU) | N/A |
+| 35 | [#proudtobeabulldog](http://twitter.com/search?q=%23proudtobeabulldog) | N/A |
+| 36 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
+| 37 | [#LIGvGIA](http://twitter.com/search?q=%23LIGvGIA) | N/A |
+| 38 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 
 
 

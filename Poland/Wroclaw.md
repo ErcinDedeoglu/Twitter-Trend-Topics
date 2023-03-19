@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-19 07:15:57 UTC`
+📆 Last Updated: `2023-03-19 08:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [#JarekOddajKPO](http://twitter.com/search?q=%23JarekOddajKPO) | N/A |
 | 5 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 6 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 7 | [Niedzieli](http://twitter.com/search?q=Niedzieli) | N/A |
-| 8 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
-| 9 | [Wawel](http://twitter.com/search?q=Wawel) | N/A |
-| 10 | [Najman](http://twitter.com/search?q=Najman) | N/A |
-| 11 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 12 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
+| 7 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 8 | [Niedzieli](http://twitter.com/search?q=Niedzieli) | N/A |
+| 9 | [Najman](http://twitter.com/search?q=Najman) | N/A |
+| 10 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 11 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
+| 12 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
 | 13 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
-| 14 | [daro lew](http://twitter.com/search?q=daro+lew) | N/A |
-| 15 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
-| 16 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 17 | [don diego](http://twitter.com/search?q=don+diego) | N/A |
-| 18 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 19 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
-| 20 | [Cracovia](http://twitter.com/search?q=Cracovia) | N/A |
-| 21 | [ludwiczek](http://twitter.com/search?q=ludwiczek) | N/A |
-| 22 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 23 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
-| 24 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
-| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 26 | [Szczęść Boże](http://twitter.com/search?q=Szcz%c4%99%c5%9b%c4%87+Bo%c5%bce) | N/A |
+| 14 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 15 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 16 | [daro lew](http://twitter.com/search?q=daro+lew) | N/A |
+| 17 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
+| 18 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 19 | [Jezus Chrystus](http://twitter.com/search?q=Jezus+Chrystus) | N/A |
+| 20 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
+| 21 | [don diego](http://twitter.com/search?q=don+diego) | N/A |
+| 22 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
+| 23 | [Cracovia](http://twitter.com/search?q=Cracovia) | N/A |
+| 24 | [Wawel](http://twitter.com/search?q=Wawel) | N/A |
+| 25 | [ludwiczek](http://twitter.com/search?q=ludwiczek) | N/A |
+| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 27 | [jan urban](http://twitter.com/search?q=jan+urban) | N/A |
 | 28 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
 | 29 | [kownackiego](http://twitter.com/search?q=kownackiego) | N/A |
-| 30 | [ZOMO](http://twitter.com/search?q=ZOMO) | N/A |
+| 30 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
 | 31 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
-| 32 | [ORMO](http://twitter.com/search?q=ORMO) | N/A |
-| 33 | [poldi](http://twitter.com/search?q=poldi) | N/A |
-| 34 | [Lwowie](http://twitter.com/search?q=Lwowie) | N/A |
-| 35 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 36 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
-| 37 | [Pasha](http://twitter.com/search?q=Pasha) | N/A |
-| 38 | [Ewuniu](http://twitter.com/search?q=Ewuniu) | N/A |
+| 32 | [Józefa](http://twitter.com/search?q=J%c3%b3zefa) | N/A |
+| 33 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 34 | [Pasha](http://twitter.com/search?q=Pasha) | N/A |
+| 35 | [Marsa](http://twitter.com/search?q=Marsa) | N/A |
+| 36 | [Udanej](http://twitter.com/search?q=Udanej) | N/A |
+| 37 | [Agnieszko](http://twitter.com/search?q=Agnieszko) | N/A |
+| 38 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
 | 39 | [Labryga](http://twitter.com/search?q=Labryga) | N/A |
-| 40 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 41 | [górnika](http://twitter.com/search?q=g%c3%b3rnika) | N/A |
-| 42 | [podolski](http://twitter.com/search?q=podolski) | N/A |
-| 43 | [exposito](http://twitter.com/search?q=exposito) | N/A |
-| 44 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
-| 45 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
-| 46 | [Haribo](http://twitter.com/search?q=Haribo) | N/A |
+| 40 | [Ewuniu](http://twitter.com/search?q=Ewuniu) | N/A |
+| 41 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 42 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 43 | [Lwowie](http://twitter.com/search?q=Lwowie) | N/A |
+| 44 | [ORMO](http://twitter.com/search?q=ORMO) | N/A |
+| 45 | [górnika](http://twitter.com/search?q=g%c3%b3rnika) | N/A |
+| 46 | [exposito](http://twitter.com/search?q=exposito) | N/A |
 | 47 | [Ministerstwo Przemysłu](http://twitter.com/search?q=Ministerstwo+Przemys%c5%82u) | N/A |
-| 48 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 49 | [Fame](http://twitter.com/search?q=Fame) | N/A |
-| 50 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 48 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
+| 49 | [Haribo](http://twitter.com/search?q=Haribo) | N/A |
+| 50 | [ZOMO](http://twitter.com/search?q=ZOMO) | N/A |
 
 
 

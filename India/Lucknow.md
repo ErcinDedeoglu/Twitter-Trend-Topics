@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-19 07:16:21 UTC`
+📆 Last Updated: `2023-03-19 08:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [India](</India>)
 | 1 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
 | 2 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
 | 3 | [#STSangamam](http://twitter.com/search?q=%23STSangamam) | N/A |
-| 4 | [#EmaarMallofSrinagar](http://twitter.com/search?q=%23EmaarMallofSrinagar) | N/A |
-| 5 | [#हिंदू_नववर्ष_२०८०](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7_%e0%a5%a8%e0%a5%a6%e0%a5%ae%e0%a5%a6) | N/A |
-| 6 | [Justice4 Sushant Singh Rajput](http://twitter.com/search?q=Justice4+Sushant+Singh+Rajput) | Justice4 Sushant Singh Rajput is a hashtag used by supporters of the late actor Sushant Singh Rajput to demand justice for his death. The phrase is used to call for an investigation into the circumstances surrounding his death and to seek accountability from those responsible. In English, it means "seeking justice for Sushant Singh Rajput". |
-| 7 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 8 | [हिंदू राष्ट्र संकल्प](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa) | N/A |
-| 9 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 10 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 11 | [Saurashtra Tamil Sangamam](http://twitter.com/search?q=Saurashtra+Tamil+Sangamam) | N/A |
-| 12 | [Ab To Riha Karo](http://twitter.com/search?q=Ab+To+Riha+Karo) | Ab To Riha Karo is a Hindi phrase which translates to "Let it go now". It is used to express the idea of letting go of something or someone that has been causing pain or distress. |
-| 13 | [Nyay Ki Mang](http://twitter.com/search?q=Nyay+Ki+Mang) | N/A |
-| 14 | [सौराष्ट्र तमिल](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2) | N/A |
+| 4 | [#DelhiPolice](http://twitter.com/search?q=%23DelhiPolice) | N/A |
+| 5 | [3 YRS OF BHULA DUNGA](http://twitter.com/search?q=3+YRS+OF+BHULA+DUNGA) | N/A |
+| 6 | [#EmaarMallofSrinagar](http://twitter.com/search?q=%23EmaarMallofSrinagar) | N/A |
+| 7 | [Justice4 Sushant Singh Rajput](http://twitter.com/search?q=Justice4+Sushant+Singh+Rajput) | Justice4 Sushant Singh Rajput is a hashtag used by supporters of the late actor Sushant Singh Rajput to demand justice for his death. The phrase is used to call for an investigation into the circumstances surrounding his death and to seek accountability from those responsible. In English, it means "seeking justice for Sushant Singh Rajput". |
+| 8 | [#Vizag](http://twitter.com/search?q=%23Vizag) | N/A |
+| 9 | [#JaganannaVidyaDeevena](http://twitter.com/search?q=%23JaganannaVidyaDeevena) | N/A |
+| 10 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 11 | [STYLE ICON PRIYANKA](http://twitter.com/search?q=STYLE+ICON+PRIYANKA) | N/A |
+| 12 | [हिंदू राष्ट्र संकल्प](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa) | N/A |
+| 13 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 14 | [Saurashtra Tamil Sangamam](http://twitter.com/search?q=Saurashtra+Tamil+Sangamam) | N/A |
 | 15 | [Momench](http://twitter.com/search?q=Momench) | N/A |
-| 16 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
-| 17 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 18 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 19 | [Teleprompter](http://twitter.com/search?q=Teleprompter) | N/A |
-| 20 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 21 | [बिहार सरकार](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 22 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 23 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 24 | [Annamalai](http://twitter.com/search?q=Annamalai) | N/A |
-| 25 | [Pols](http://twitter.com/search?q=Pols) | N/A |
-| 26 | [Manish Kashyap](http://twitter.com/search?q=Manish+Kashyap) | N/A |
-| 27 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 28 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 29 | [वारिस पंजाब](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac) | N/A |
-| 30 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 31 | [भारत विरोधी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 16 | [2nd ODI](http://twitter.com/search?q=2nd+ODI) | N/A |
+| 17 | [सौराष्ट्र तमिल](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2) | N/A |
+| 18 | [Ab To Riha Karo](http://twitter.com/search?q=Ab+To+Riha+Karo) | Ab To Riha Karo is a Hindi phrase which translates to "Let it go now". It is used to express the idea of letting go of something or someone that has been causing pain or distress. |
+| 19 | [Nyay Ki Mang](http://twitter.com/search?q=Nyay+Ki+Mang) | N/A |
+| 20 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 21 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
+| 22 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
+| 23 | [Mufa](http://twitter.com/search?q=Mufa) | N/A |
+| 24 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 25 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 26 | [Teleprompter](http://twitter.com/search?q=Teleprompter) | N/A |
+| 27 | [Pols](http://twitter.com/search?q=Pols) | N/A |
+| 28 | [बिजली संकट](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%9f) | N/A |
+| 29 | [बिहार सरकार](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 30 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 31 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
 | 32 | [बागेश्वर धाम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
-| 33 | [Rain](http://twitter.com/search?q=Rain) | N/A |
-| 34 | [Supriya](http://twitter.com/search?q=Supriya) | N/A |
-| 35 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 36 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 37 | [#संतों_की_पीड़ा](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%82%e0%a4%a4%e0%a5%8b%e0%a4%82_%e0%a4%95%e0%a5%80_%e0%a4%aa%e0%a5%80%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 38 | [#KeyToHappiness](http://twitter.com/search?q=%23KeyToHappiness) | N/A |
-| 39 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 40 | [#Vizag](http://twitter.com/search?q=%23Vizag) | N/A |
-| 41 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
-| 42 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
-| 43 | [#DelhiPolice](http://twitter.com/search?q=%23DelhiPolice) | N/A |
-| 44 | [#JaganannaVidyaDeevena](http://twitter.com/search?q=%23JaganannaVidyaDeevena) | N/A |
-| 45 | [#DulquerSalmaan](http://twitter.com/search?q=%23DulquerSalmaan) | N/A |
-| 46 | [#KingOfKotha](http://twitter.com/search?q=%23KingOfKotha) | N/A |
-| 47 | [#NO_transfer_NO_GOVT_REPEAT](http://twitter.com/search?q=%23NO_transfer_NO_GOVT_REPEAT) | N/A |
-| 48 | [#HBDKarthikSubbaraj](http://twitter.com/search?q=%23HBDKarthikSubbaraj) | N/A |
-| 49 | [#3rdG_Teacher_Mange_Transfer](http://twitter.com/search?q=%233rdG_Teacher_Mange_Transfer) | N/A |
-| 50 | [#Visakhapatnam](http://twitter.com/search?q=%23Visakhapatnam) | N/A |
+| 33 | [Annamalai](http://twitter.com/search?q=Annamalai) | N/A |
+| 34 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 35 | [वारिस पंजाब](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac) | N/A |
+| 36 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 37 | [भारत विरोधी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 38 | [Law Minister](http://twitter.com/search?q=Law+Minister) | N/A |
+| 39 | [Rain](http://twitter.com/search?q=Rain) | N/A |
+| 40 | [Supriya](http://twitter.com/search?q=Supriya) | N/A |
+| 41 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 42 | [#DulquerSalmaan](http://twitter.com/search?q=%23DulquerSalmaan) | N/A |
+| 43 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
+| 44 | [#हिंदू_नववर्ष_२०८०](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7_%e0%a5%a8%e0%a5%a6%e0%a5%ae%e0%a5%a6) | N/A |
+| 45 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 46 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 47 | [#KingOfKotha](http://twitter.com/search?q=%23KingOfKotha) | N/A |
+| 48 | [#BharatJodoYatra](http://twitter.com/search?q=%23BharatJodoYatra) | N/A |
+| 49 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 50 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
 
 
 

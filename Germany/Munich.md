@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-19 07:16:00 UTC`
+📆 Last Updated: `2023-03-19 08:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
 | 3 | [#dudw](http://twitter.com/search?q=%23dudw) | N/A |
 | 4 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 5 | [#GAIxBINANCE](http://twitter.com/search?q=%23GAIxBINANCE) | N/A |
-| 6 | [#fcas04](http://twitter.com/search?q=%23fcas04) | N/A |
-| 7 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 5 | [#VFBWOB](http://twitter.com/search?q=%23VFBWOB) | N/A |
+| 6 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 7 | [#HSVKSV](http://twitter.com/search?q=%23HSVKSV) | N/A |
 | 8 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 9 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 10 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 11 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 12 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 13 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 14 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 15 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 16 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 17 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 18 | [Selke](http://twitter.com/search?q=Selke) | N/A |
-| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 20 | [Guten Morgen Auri](http://twitter.com/search?q=Guten+Morgen+Auri) | N/A |
-| 21 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 22 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 23 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
-| 24 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 25 | [Prag](http://twitter.com/search?q=Prag) | N/A |
-| 26 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 27 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 28 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 29 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 30 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 31 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 32 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
-| 33 | [samstag abend](http://twitter.com/search?q=samstag+abend) | N/A |
-| 34 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
-| 35 | [länderspielpause](http://twitter.com/search?q=l%c3%a4nderspielpause) | N/A |
-| 36 | [flanken](http://twitter.com/search?q=flanken) | N/A |
-| 37 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 38 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
-| 39 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
-| 40 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 41 | [Punsch](http://twitter.com/search?q=Punsch) | N/A |
-| 42 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
-| 43 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 44 | [Moin Rübe](http://twitter.com/search?q=Moin+R%c3%bcbe) | N/A |
-| 45 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 46 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
-| 47 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 48 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
-| 49 | [Professur](http://twitter.com/search?q=Professur) | N/A |
-| 50 | [Baumgart](http://twitter.com/search?q=Baumgart) | N/A |
+| 9 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
+| 10 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 11 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 12 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 13 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 14 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 15 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 16 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 17 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
+| 18 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 19 | [Selke](http://twitter.com/search?q=Selke) | N/A |
+| 20 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 21 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
+| 22 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 23 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 24 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 25 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
+| 26 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Prag](http://twitter.com/search?q=Prag) | N/A |
+| 29 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 30 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 31 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
+| 32 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 33 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 34 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 35 | [PostDocs](http://twitter.com/search?q=PostDocs) | N/A |
+| 36 | [samstag abend](http://twitter.com/search?q=samstag+abend) | N/A |
+| 37 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 38 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
+| 39 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 40 | [flanken](http://twitter.com/search?q=flanken) | N/A |
+| 41 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
+| 42 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
+| 43 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
+| 44 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 45 | [Punsch](http://twitter.com/search?q=Punsch) | N/A |
+| 46 | [Wolfgang](http://twitter.com/search?q=Wolfgang) | N/A |
+| 47 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 48 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
+| 49 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 50 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
 
 
 

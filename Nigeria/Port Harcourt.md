@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-19 07:16:14 UTC`
+📆 Last Updated: `2023-03-19 08:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,12 +17,12 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 2 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 3 | [#NigeriaDeservesPeace](http://twitter.com/search?q=%23NigeriaDeservesPeace) | N/A |
-| 4 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
-| 5 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 3 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
+| 4 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 5 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
 | 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 7 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
-| 8 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 8 | [#NigeriaDeservesPeace](http://twitter.com/search?q=%23NigeriaDeservesPeace) | N/A |
 | 9 | [Abia](http://twitter.com/search?q=Abia) | N/A |
 | 10 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 11 | [Usman](http://twitter.com/search?q=Usman) | N/A |
@@ -32,37 +32,37 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 16 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
 | 17 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 18 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
-| 19 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 20 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 18 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
+| 19 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 20 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
 | 21 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 22 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 22 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
+| 23 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
 | 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 26 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
-| 27 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
-| 28 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 29 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
-| 30 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 25 | [DJ Wysei](http://twitter.com/search?q=DJ+Wysei) | N/A |
+| 26 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 27 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 28 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
+| 29 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 30 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
 | 31 | [Situation Report](http://twitter.com/search?q=Situation+Report) | N/A |
-| 32 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
-| 33 | [DJ Wysei](http://twitter.com/search?q=DJ+Wysei) | N/A |
+| 32 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
+| 33 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
 | 34 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 35 | [Ijeoma](http://twitter.com/search?q=Ijeoma) | N/A |
-| 36 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
+| 35 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
+| 36 | [Ijeoma](http://twitter.com/search?q=Ijeoma) | N/A |
 | 37 | [No Lp](http://twitter.com/search?q=No+Lp) | N/A |
-| 38 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
-| 39 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
-| 40 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
+| 38 | [Desmond](http://twitter.com/search?q=Desmond) | N/A |
+| 39 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
+| 40 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
 | 41 | [House of Assembly](http://twitter.com/search?q=House+of+Assembly) | N/A |
-| 42 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
-| 43 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 44 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 45 | [East](http://twitter.com/search?q=East) | N/A |
-| 46 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 47 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 48 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 42 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 43 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
+| 44 | [East](http://twitter.com/search?q=East) | N/A |
+| 45 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
+| 46 | [Olumide](http://twitter.com/search?q=Olumide) | N/A |
+| 47 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 48 | [Ogun](http://twitter.com/search?q=Ogun) | N/A |
 
 
 

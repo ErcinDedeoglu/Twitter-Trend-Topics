@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-19 07:15:48 UTC`
+📆 Last Updated: `2023-03-19 08:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 2 | [José Ramón Peralta](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+Peralta) | N/A |
-| 3 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 4 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 1 | [José Ramón Peralta](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+Peralta) | N/A |
+| 2 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 3 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 4 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
 | 5 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 6 | [Junior Lake](http://twitter.com/search?q=Junior+Lake) | N/A |
 | 7 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 14 | [#elcambiosigue](http://twitter.com/search?q=%23elcambiosigue) | N/A |
 | 15 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
 | 16 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 17 | [Chamos](http://twitter.com/search?q=Chamos) | N/A |
+| 17 | [chamos](http://twitter.com/search?q=chamos) | N/A |
 | 18 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 19 | [Mall](http://twitter.com/search?q=Mall) | N/A |
 | 20 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
@@ -41,9 +41,9 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 24 | [Playmaker](http://twitter.com/search?q=Playmaker) | N/A |
 | 25 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
 | 26 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 27 | [Balaguer](http://twitter.com/search?q=Balaguer) | N/A |
-| 28 | [Venezolano](http://twitter.com/search?q=Venezolano) | N/A |
-| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 27 | [balaguer](http://twitter.com/search?q=balaguer) | N/A |
+| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 29 | [Venezolano](http://twitter.com/search?q=Venezolano) | N/A |
 | 30 | [parque enriquillo](http://twitter.com/search?q=parque+enriquillo) | N/A |
 | 31 | [Héctor Gómez](http://twitter.com/search?q=H%c3%a9ctor+G%c3%b3mez) | N/A |
 | 32 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 47 | [fideicomiso público](http://twitter.com/search?q=fideicomiso+p%c3%bablico) | N/A |
 | 48 | [Davis](http://twitter.com/search?q=Davis) | N/A |
 | 49 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 50 | [Senasa](http://twitter.com/search?q=Senasa) | N/A |
+| 50 | [senasa](http://twitter.com/search?q=senasa) | N/A |
 
 
 

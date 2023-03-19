@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-19 07:16:35 UTC`
+📆 Last Updated: `2023-03-19 08:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,9 +25,9 @@ This is top 50 for Ecuador
 | 8 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
 | 9 | [Pineida](http://twitter.com/search?q=Pineida) | N/A |
 | 10 | [Machala](http://twitter.com/search?q=Machala) | N/A |
-| 11 | [Bonafont](http://twitter.com/search?q=Bonafont) | N/A |
-| 12 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
-| 13 | [Janner](http://twitter.com/search?q=Janner) | N/A |
+| 11 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
+| 12 | [Janner](http://twitter.com/search?q=Janner) | N/A |
+| 13 | [Bonafont](http://twitter.com/search?q=Bonafont) | N/A |
 | 14 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
 | 15 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
 | 16 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
@@ -41,21 +41,21 @@ This is top 50 for Ecuador
 | 24 | [Wachito](http://twitter.com/search?q=Wachito) | N/A |
 | 25 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
 | 26 | [Guayas](http://twitter.com/search?q=Guayas) | N/A |
-| 27 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 28 | [Puerto Bolívar](http://twitter.com/search?q=Puerto+Bol%c3%advar) | N/A |
+| 27 | [Puerto Bolívar](http://twitter.com/search?q=Puerto+Bol%c3%advar) | N/A |
+| 28 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
 | 29 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 30 | [calle sucre](http://twitter.com/search?q=calle+sucre) | N/A |
 | 31 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
 | 32 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 33 | [#mushucruna](http://twitter.com/search?q=%23mushucruna) | N/A |
-| 34 | [Pasaje](http://twitter.com/search?q=Pasaje) | N/A |
-| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 36 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
-| 37 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 38 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 39 | [Celico](http://twitter.com/search?q=Celico) | N/A |
-| 40 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 41 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 33 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
+| 34 | [#mushucruna](http://twitter.com/search?q=%23mushucruna) | N/A |
+| 35 | [Pasaje](http://twitter.com/search?q=Pasaje) | N/A |
+| 36 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 37 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
+| 38 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 39 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 40 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 41 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 42 | [Miguel Parrales](http://twitter.com/search?q=Miguel+Parrales) | N/A |
 | 43 | [beder caicedo](http://twitter.com/search?q=beder+caicedo) | N/A |
 | 44 | [nixon molina](http://twitter.com/search?q=nixon+molina) | N/A |

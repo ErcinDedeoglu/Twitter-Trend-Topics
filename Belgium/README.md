@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-19 07:16:34 UTC`
+📆 Last Updated: `2023-03-19 08:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Belgium
 | ------- | ------------ | ------------ |
 | 1 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 2 | [#kvkclu](http://twitter.com/search?q=%23kvkclu) | N/A |
-| 3 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 4 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 5 | [#MilanSanRemo](http://twitter.com/search?q=%23MilanSanRemo) | N/A |
-| 6 | [#stazwa](http://twitter.com/search?q=%23stazwa) | N/A |
-| 7 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 8 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
-| 9 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 10 | [Perica](http://twitter.com/search?q=Perica) | N/A |
-| 11 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
-| 12 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
-| 13 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 14 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
-| 15 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
+| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 5 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 6 | [#7dag](http://twitter.com/search?q=%237dag) | N/A |
+| 7 | [#MilanoSanremo](http://twitter.com/search?q=%23MilanoSanremo) | N/A |
+| 8 | [#STAZWA](http://twitter.com/search?q=%23STAZWA) | N/A |
+| 9 | [perica](http://twitter.com/search?q=perica) | N/A |
+| 10 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
+| 11 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
+| 12 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 13 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 14 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 15 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
 | 16 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
 | 17 | [heynen](http://twitter.com/search?q=heynen) | N/A |
-| 18 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
-| 19 | [zulte](http://twitter.com/search?q=zulte) | N/A |
-| 20 | [Buchanan](http://twitter.com/search?q=Buchanan) | N/A |
-| 21 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 22 | [yaremchuk](http://twitter.com/search?q=yaremchuk) | N/A |
-| 23 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 24 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 25 | [bodart](http://twitter.com/search?q=bodart) | N/A |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 18 | [Pologne](http://twitter.com/search?q=Pologne) | N/A |
+| 19 | [Geert](http://twitter.com/search?q=Geert) | N/A |
+| 20 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
+| 21 | [Buchanan](http://twitter.com/search?q=Buchanan) | N/A |
+| 22 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 23 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 24 | [Succes](http://twitter.com/search?q=Succes) | N/A |
+| 25 | [Zulte](http://twitter.com/search?q=Zulte) | N/A |
+| 26 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
 | 27 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
-| 28 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 29 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 30 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 31 | [Tresor](http://twitter.com/search?q=Tresor) | N/A |
-| 32 | [odoi](http://twitter.com/search?q=odoi) | N/A |
-| 33 | [kortrijk](http://twitter.com/search?q=kortrijk) | N/A |
-| 34 | [sclessin](http://twitter.com/search?q=sclessin) | N/A |
-| 35 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 37 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 38 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
-| 39 | [vanaken](http://twitter.com/search?q=vanaken) | N/A |
-| 40 | [de lie](http://twitter.com/search?q=de+lie) | N/A |
-| 41 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 42 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 43 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 44 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 45 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 46 | [Meunier](http://twitter.com/search?q=Meunier) | N/A |
-| 47 | [engelse](http://twitter.com/search?q=engelse) | N/A |
-| 48 | [bart de wever](http://twitter.com/search?q=bart+de+wever) | N/A |
-| 49 | [hedebouw](http://twitter.com/search?q=hedebouw) | N/A |
-| 50 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 28 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 29 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 30 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 31 | [Bodart](http://twitter.com/search?q=Bodart) | N/A |
+| 32 | [Vlamingen](http://twitter.com/search?q=Vlamingen) | N/A |
+| 33 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 34 | [Yaremchuk](http://twitter.com/search?q=Yaremchuk) | N/A |
+| 35 | [Laat](http://twitter.com/search?q=Laat) | N/A |
+| 36 | [Tresor](http://twitter.com/search?q=Tresor) | N/A |
+| 37 | [odoi](http://twitter.com/search?q=odoi) | N/A |
+| 38 | [sclessin](http://twitter.com/search?q=sclessin) | N/A |
+| 39 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
+| 42 | [De Lie](http://twitter.com/search?q=De+Lie) | N/A |
+| 43 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 44 | [Stel](http://twitter.com/search?q=Stel) | N/A |
+| 45 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 46 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 47 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 48 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 49 | [Meunier](http://twitter.com/search?q=Meunier) | N/A |
+| 50 | [Engelse](http://twitter.com/search?q=Engelse) | N/A |
 
 
 

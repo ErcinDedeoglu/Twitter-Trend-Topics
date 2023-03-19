@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-03-19 07:16:27 UTC`
+📆 Last Updated: `2023-03-19 08:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#forthecrown](http://twitter.com/search?q=%23forthecrown) | N/A |
 | 2 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 3 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 4 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 5 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
-| 6 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 7 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 8 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 9 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
-| 10 | [#FoodWars](http://twitter.com/search?q=%23FoodWars) | N/A |
-| 11 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 12 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 13 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 14 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 15 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 16 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 17 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 18 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 19 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 20 | [Jason Robertson](http://twitter.com/search?q=Jason+Robertson) | N/A |
-| 21 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
-| 22 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 23 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 24 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
-| 25 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 26 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 27 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 28 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 29 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 3 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 4 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 5 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 6 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 7 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 8 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
+| 9 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 10 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 11 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 12 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
+| 13 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 14 | [#FoodWars](http://twitter.com/search?q=%23FoodWars) | N/A |
+| 15 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 16 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 17 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 18 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
+| 19 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 20 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 21 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 22 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 23 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
+| 24 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
+| 25 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 26 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
+| 27 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 28 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
+| 29 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 | 30 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 31 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
-| 32 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 33 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 34 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 35 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 36 | [Mazzulla](http://twitter.com/search?q=Mazzulla) | N/A |
-| 37 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 38 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 39 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 40 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 41 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 42 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
-| 43 | [Gesta](http://twitter.com/search?q=Gesta) | N/A |
-| 44 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 45 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 46 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
-| 47 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 48 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 49 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 31 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 32 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 33 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 34 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 35 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
+| 36 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 37 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 38 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 39 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 40 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
+| 41 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 42 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 43 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 44 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
+| 45 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 46 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 47 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 48 | [Dotson](http://twitter.com/search?q=Dotson) | Dotson is a surname of English origin. It is derived from the Old English given name Dodde, which was a diminutive form of the name Dodd. The meaning of the name is "son of Dodd". |
+| 49 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
 
 
 

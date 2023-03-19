@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-19 07:16:36 UTC`
+📆 Last Updated: `2023-03-19 08:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,20 +16,20 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [OHANA DENNIS](http://twitter.com/search?q=OHANA+DENNIS) | N/A |
-| 2 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 3 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 4 | [#nelsonisjamie](http://twitter.com/search?q=%23nelsonisjamie) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 7 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
-| 8 | [#YoutubeCorrupt](http://twitter.com/search?q=%23YoutubeCorrupt) | N/A |
+| 2 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 5 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
+| 6 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
+| 7 | [#YoutubeCorrupt](http://twitter.com/search?q=%23YoutubeCorrupt) | N/A |
+| 8 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
 | 9 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 10 | [#GUATEVOTA2023](http://twitter.com/search?q=%23GUATEVOTA2023) | N/A |
-| 11 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 12 | [#EUElecciones2023](http://twitter.com/search?q=%23EUElecciones2023) | N/A |
-| 13 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 14 | [#siempreconectado](http://twitter.com/search?q=%23siempreconectado) | N/A |
-| 15 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
+| 11 | [#EUElecciones2023](http://twitter.com/search?q=%23EUElecciones2023) | N/A |
+| 12 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 13 | [#siempreconectado](http://twitter.com/search?q=%23siempreconectado) | N/A |
+| 14 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
+| 15 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
 | 16 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
 | 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
@@ -41,30 +41,30 @@ This is top 50 for Guatemala
 | 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 26 | [Curruchiche](http://twitter.com/search?q=Curruchiche) | N/A |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 31 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 32 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 33 | [Jesús Nazareno](http://twitter.com/search?q=Jes%c3%bas+Nazareno) | N/A |
-| 34 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 35 | [Roosevelt](http://twitter.com/search?q=Roosevelt) | N/A |
-| 36 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 38 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 39 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 40 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 41 | [aldana](http://twitter.com/search?q=aldana) | N/A |
-| 42 | [Provecho](http://twitter.com/search?q=Provecho) | N/A |
-| 43 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 44 | [Pueblo](http://twitter.com/search?q=Pueblo) | N/A |
-| 45 | [amatitlán](http://twitter.com/search?q=amatitl%c3%a1n) | N/A |
-| 46 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 47 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 48 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 49 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 50 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 27 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 32 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 33 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 34 | [Jesús Nazareno](http://twitter.com/search?q=Jes%c3%bas+Nazareno) | N/A |
+| 35 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 36 | [Roosevelt](http://twitter.com/search?q=Roosevelt) | N/A |
+| 37 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 39 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 40 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 41 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 42 | [aldana](http://twitter.com/search?q=aldana) | N/A |
+| 43 | [Provecho](http://twitter.com/search?q=Provecho) | N/A |
+| 44 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 45 | [Pueblo](http://twitter.com/search?q=Pueblo) | N/A |
+| 46 | [amatitlán](http://twitter.com/search?q=amatitl%c3%a1n) | N/A |
+| 47 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 48 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 49 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 50 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
 
 
 
