@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Moscow
 
-📆 Last Updated: `2023-03-19 00:30:31 UTC`
+📆 Last Updated: `2023-03-19 01:46:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,22 +18,22 @@ This is top 50 for [Russia](</Russia>)
 | 1 | [Гааге](http://twitter.com/search?q=%d0%93%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
 | 2 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
 | 3 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 4 | [#iPhone](http://twitter.com/search?q=%23iPhone) | N/A |
+| 4 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
 | 5 | [#ShadowAndBone](http://twitter.com/search?q=%23ShadowAndBone) | N/A |
 | 6 | [Получается](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f) | N/A |
 | 7 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 8 | [Донбасса](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b0) | N/A |
-| 9 | [Патрика](http://twitter.com/search?q=%d0%9f%d0%b0%d1%82%d1%80%d0%b8%d0%ba%d0%b0) | N/A |
-| 10 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
-| 11 | [Отличная](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%b0%d1%8f) | N/A |
-| 12 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
-| 13 | [короче](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
-| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 15 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
-| 16 | [попробуй](http://twitter.com/search?q=%d0%bf%d0%be%d0%bf%d1%80%d0%be%d0%b1%d1%83%d0%b9) | N/A |
-| 17 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 9 | [патрика](http://twitter.com/search?q=%d0%bf%d0%b0%d1%82%d1%80%d0%b8%d0%ba%d0%b0) | N/A |
+| 10 | [отличная](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%b0%d1%8f) | N/A |
+| 11 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
+| 12 | [короче](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
+| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 14 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 15 | [попробуй](http://twitter.com/search?q=%d0%bf%d0%be%d0%bf%d1%80%d0%be%d0%b1%d1%83%d0%b9) | N/A |
+| 16 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 17 | [#applepronews](http://twitter.com/search?q=%23applepronews) | N/A |
 | 18 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
-| 19 | [Путиным](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
+| 19 | [путиным](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
 | 20 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
 | 21 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
@@ -58,12 +58,12 @@ This is top 50 for [Russia](</Russia>)
 | 41 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
 | 42 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 43 | [кпрф](http://twitter.com/search?q=%d0%ba%d0%bf%d1%80%d1%84) | N/A |
-| 44 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 45 | [дима](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%b0) | N/A |
-| 46 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
-| 47 | [странно](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
-| 48 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
-| 49 | [Ужас](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81) | N/A |
+| 44 | [Дима](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%b0) | N/A |
+| 45 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
+| 46 | [Ужас](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81) | N/A |
+| 47 | [китая](http://twitter.com/search?q=%d0%ba%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
+| 48 | [не могу](http://twitter.com/search?q=%d0%bd%d0%b5+%d0%bc%d0%be%d0%b3%d1%83) | N/A |
+| 49 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-19 00:30:18 UTC`
+📆 Last Updated: `2023-03-19 01:46:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,45 +20,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [serunya milenialgenz prabowo](http://twitter.com/search?q=serunya+milenialgenz+prabowo) | N/A |
 | 4 | [ngobrolin urusangue dibandung](http://twitter.com/search?q=ngobrolin+urusangue+dibandung) | N/A |
 | 5 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
-| 6 | [All Indonesian Final](http://twitter.com/search?q=All+Indonesian+Final) | All Indonesian Final is a term used to describe a tournament or competition in which only Indonesian players are allowed to participate. It is typically used in the context of sports such as badminton, football, and volleyball. The phrase can also be used to refer to any event or competition that is limited to Indonesian participants. |
+| 6 | [PKB KAHIJI JABAR NGAHIJI](http://twitter.com/search?q=PKB+KAHIJI+JABAR+NGAHIJI) | N/A |
 | 7 | [Bahagia Menyambut Ramadhan](http://twitter.com/search?q=Bahagia+Menyambut+Ramadhan) | N/A |
 | 8 | [Jadi Muslim Berkualitas](http://twitter.com/search?q=Jadi+Muslim+Berkualitas) | N/A |
-| 9 | [PKB KAHIJI JABAR NGAHIJI](http://twitter.com/search?q=PKB+KAHIJI+JABAR+NGAHIJI) | N/A |
+| 9 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
 | 10 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
-| 11 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
-| 12 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 11 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 12 | [All Indonesian Final](http://twitter.com/search?q=All+Indonesian+Final) | All Indonesian Final is a term used to describe a tournament or competition in which only Indonesian players are allowed to participate. It is typically used in the context of sports such as badminton, football, and volleyball. The phrase can also be used to refer to any event or competition that is limited to Indonesian participants. |
 | 13 | [Relis](http://twitter.com/search?q=Relis) | N/A |
-| 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 15 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
-| 16 | [tontonan hari ramadan](http://twitter.com/search?q=tontonan+hari+ramadan) | N/A |
-| 17 | [prabowo for indonesia](http://twitter.com/search?q=prabowo+for+indonesia) | N/A |
-| 18 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 19 | [prabowo lebih baik](http://twitter.com/search?q=prabowo+lebih+baik) | N/A |
-| 20 | [prabowo presidennya](http://twitter.com/search?q=prabowo+presidennya) | N/A |
-| 21 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
-| 22 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 14 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 15 | [tontonan hari ramadan](http://twitter.com/search?q=tontonan+hari+ramadan) | N/A |
+| 16 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 17 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 18 | [prabowo for indonesia](http://twitter.com/search?q=prabowo+for+indonesia) | N/A |
+| 19 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 20 | [prabowo lebih baik](http://twitter.com/search?q=prabowo+lebih+baik) | N/A |
+| 21 | [prabowo presidennya](http://twitter.com/search?q=prabowo+presidennya) | N/A |
+| 22 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
 | 23 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 24 | [Boti](http://twitter.com/search?q=Boti) | N/A |
 | 25 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 26 | [Boti](http://twitter.com/search?q=Boti) | N/A |
-| 27 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 28 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 29 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 30 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
-| 31 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 32 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 33 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 34 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 35 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 36 | [Happy Graduation](http://twitter.com/search?q=Happy+Graduation) | N/A |
-| 37 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 38 | [Subuh](http://twitter.com/search?q=Subuh) | N/A |
-| 39 | [Jantung](http://twitter.com/search?q=Jantung) | N/A |
-| 40 | [HAPPY BIRTHDAY SAKURA](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAKURA) | N/A |
-| 41 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 27 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
+| 28 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 30 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
+| 31 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 32 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 33 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 34 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 35 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
+| 36 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 37 | [Morninggg](http://twitter.com/search?q=Morninggg) | N/A |
+| 38 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 39 | [Happy Graduation](http://twitter.com/search?q=Happy+Graduation) | N/A |
+| 40 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 41 | [HAPPY BIRTHDAY SAKURA](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAKURA) | N/A |
 | 42 | [bakauheni harbour city](http://twitter.com/search?q=bakauheni+harbour+city) | N/A |
 | 43 | [terima kasih erigo](http://twitter.com/search?q=terima+kasih+erigo) | N/A |
-| 44 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 44 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 
 
 

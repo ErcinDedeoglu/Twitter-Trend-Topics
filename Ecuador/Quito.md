@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-19 00:30:06 UTC`
+📆 Last Updated: `2023-03-19 01:46:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 2 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 3 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
-| 4 | [Balao](http://twitter.com/search?q=Balao) | N/A |
-| 5 | [Machala](http://twitter.com/search?q=Machala) | N/A |
-| 6 | [Machala](http://twitter.com/search?q=Machala) | N/A |
-| 7 | [Bonafont](http://twitter.com/search?q=Bonafont) | N/A |
-| 8 | [El Oro](http://twitter.com/search?q=El+Oro) | N/A |
-| 9 | [#MushucRuna](http://twitter.com/search?q=%23MushucRuna) | N/A |
-| 10 | [Pinos](http://twitter.com/search?q=Pinos) | N/A |
-| 11 | [#GuayaquilCity](http://twitter.com/search?q=%23GuayaquilCity) | N/A |
-| 12 | [Miguel Parrales](http://twitter.com/search?q=Miguel+Parrales) | N/A |
-| 13 | [Wachito](http://twitter.com/search?q=Wachito) | N/A |
-| 14 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 15 | [Puerto Bolívar](http://twitter.com/search?q=Puerto+Bol%c3%advar) | N/A |
-| 16 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 19 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
-| 20 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 21 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 22 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 23 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 24 | [calle sucre](http://twitter.com/search?q=calle+sucre) | N/A |
-| 25 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 26 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 27 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
-| 28 | [COE Nacional](http://twitter.com/search?q=COE+Nacional) | N/A |
-| 29 | [Azuay](http://twitter.com/search?q=Azuay) | N/A |
-| 30 | [Puná](http://twitter.com/search?q=Pun%c3%a1) | N/A |
-| 31 | [Abogado](http://twitter.com/search?q=Abogado) | N/A |
-| 32 | [Nixon Molina](http://twitter.com/search?q=Nixon+Molina) | N/A |
-| 33 | [junior roldán](http://twitter.com/search?q=junior+rold%c3%a1n) | N/A |
-| 34 | [En Quito](http://twitter.com/search?q=En+Quito) | N/A |
-| 35 | [COE Cantonal](http://twitter.com/search?q=COE+Cantonal) | N/A |
-| 36 | [UEES](http://twitter.com/search?q=UEES) | N/A |
-| 37 | [2.78 longitud](http://twitter.com/search?q=2.78+longitud) | N/A |
-| 38 | [hater song x a bravo](http://twitter.com/search?q=hater+song+x+a+bravo) | N/A |
-| 39 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
-| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 41 | [Epicentro](http://twitter.com/search?q=Epicentro) | N/A |
-| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 43 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
-| 44 | [Renny Jaramillo](http://twitter.com/search?q=Renny+Jaramillo) | N/A |
-| 45 | [tomson minda](http://twitter.com/search?q=tomson+minda) | N/A |
-| 46 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 47 | [6.5 profundidad](http://twitter.com/search?q=6.5+profundidad) | N/A |
-| 48 | [Instituto Geofísico](http://twitter.com/search?q=Instituto+Geof%c3%adsico) | N/A |
-| 49 | [Beder Caicedo](http://twitter.com/search?q=Beder+Caicedo) | N/A |
-| 50 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 1 | [#LigaProBet593](http://twitter.com/search?q=%23LigaProBet593) | N/A |
+| 2 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 3 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 4 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 5 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 6 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 7 | [Pineida](http://twitter.com/search?q=Pineida) | N/A |
+| 8 | [Sornoza](http://twitter.com/search?q=Sornoza) | N/A |
+| 9 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 10 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
+| 11 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
+| 12 | [Janner](http://twitter.com/search?q=Janner) | N/A |
+| 13 | [Portocarrero](http://twitter.com/search?q=Portocarrero) | N/A |
+| 14 | [Balao](http://twitter.com/search?q=Balao) | N/A |
+| 15 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
+| 16 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
+| 17 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
+| 18 | [Lautaro Díaz](http://twitter.com/search?q=Lautaro+D%c3%adaz) | N/A |
+| 19 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 20 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 21 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
+| 22 | [Machala](http://twitter.com/search?q=Machala) | N/A |
+| 23 | [Schunke](http://twitter.com/search?q=Schunke) | N/A |
+| 24 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 25 | [Beder](http://twitter.com/search?q=Beder) | N/A |
+| 26 | [Bonafont](http://twitter.com/search?q=Bonafont) | N/A |
+| 27 | [#GuayaquilCity](http://twitter.com/search?q=%23GuayaquilCity) | N/A |
+| 28 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 29 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
+| 30 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
+| 31 | [Pellerano](http://twitter.com/search?q=Pellerano) | N/A |
+| 32 | [El Oro](http://twitter.com/search?q=El+Oro) | N/A |
+| 33 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 34 | [Guayas](http://twitter.com/search?q=Guayas) | N/A |
+| 35 | [Wachito](http://twitter.com/search?q=Wachito) | N/A |
+| 36 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 37 | [Penal](http://twitter.com/search?q=Penal) | N/A |
+| 38 | [Kitu](http://twitter.com/search?q=Kitu) | N/A |
+| 39 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 40 | [Puerto Bolívar](http://twitter.com/search?q=Puerto+Bol%c3%advar) | N/A |
+| 41 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 42 | [Miguel Parrales](http://twitter.com/search?q=Miguel+Parrales) | N/A |
+| 43 | [Jorge Pinos](http://twitter.com/search?q=Jorge+Pinos) | N/A |
+| 44 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 45 | [calle sucre](http://twitter.com/search?q=calle+sucre) | N/A |
+| 46 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 47 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 48 | [Rodríguez](http://twitter.com/search?q=Rodr%c3%adguez) | N/A |
+| 49 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 50 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
 
 
 

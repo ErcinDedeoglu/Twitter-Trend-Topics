@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-19 00:30:19 UTC`
+📆 Last Updated: `2023-03-19 01:46:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 2 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
 | 3 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 4 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
-| 5 | [#AFLDeesDogs](http://twitter.com/search?q=%23AFLDeesDogs) | N/A |
-| 6 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 7 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 8 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 9 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 10 | [#AFLNorthEagles](http://twitter.com/search?q=%23AFLNorthEagles) | N/A |
-| 11 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 12 | [Marles](http://twitter.com/search?q=Marles) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 15 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 18 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 19 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 20 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 21 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 22 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 23 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 25 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
-| 26 | [Victoria Police](http://twitter.com/search?q=Victoria+Police) | N/A |
-| 27 | [Pine Gap](http://twitter.com/search?q=Pine+Gap) | N/A |
-| 28 | [Sheezel](http://twitter.com/search?q=Sheezel) | N/A |
-| 29 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 30 | [Corica](http://twitter.com/search?q=Corica) | N/A |
-| 31 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 32 | [Keating](http://twitter.com/search?q=Keating) | N/A |
-| 33 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 35 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
-| 38 | [YMCA](http://twitter.com/search?q=YMCA) | N/A |
-| 39 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
-| 40 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 41 | [Mr Brightside](http://twitter.com/search?q=Mr+Brightside) | N/A |
-| 42 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 43 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 44 | [Bailey Smith](http://twitter.com/search?q=Bailey+Smith) | N/A |
-| 45 | [McKenna](http://twitter.com/search?q=McKenna) | N/A |
-| 46 | [Lobb](http://twitter.com/search?q=Lobb) | N/A |
-| 47 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 48 | [Thomas Sewell](http://twitter.com/search?q=Thomas+Sewell) | N/A |
-| 49 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 4 | [#AFLDeesDogs](http://twitter.com/search?q=%23AFLDeesDogs) | N/A |
+| 5 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
+| 6 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
+| 7 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 8 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 9 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 10 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 13 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 16 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
+| 17 | [Marles](http://twitter.com/search?q=Marles) | N/A |
+| 18 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 19 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
+| 20 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 21 | [Victoria Police](http://twitter.com/search?q=Victoria+Police) | N/A |
+| 22 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
+| 23 | [Sheezel](http://twitter.com/search?q=Sheezel) | N/A |
+| 24 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
+| 25 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 26 | [Keating](http://twitter.com/search?q=Keating) | N/A |
+| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 28 | [Corica](http://twitter.com/search?q=Corica) | N/A |
+| 29 | [Pine Gap](http://twitter.com/search?q=Pine+Gap) | N/A |
+| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 31 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
+| 32 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 33 | [Bailey Smith](http://twitter.com/search?q=Bailey+Smith) | N/A |
+| 34 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
+| 35 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
+| 36 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 37 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 38 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 39 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 40 | [YMCA](http://twitter.com/search?q=YMCA) | N/A |
+| 41 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 43 | [Lobb](http://twitter.com/search?q=Lobb) | N/A |
+| 44 | [Thomas Sewell](http://twitter.com/search?q=Thomas+Sewell) | N/A |
+| 45 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 46 | [Sydney FC](http://twitter.com/search?q=Sydney+FC) | N/A |
+| 47 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 48 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 49 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-19 00:30:09 UTC`
+📆 Last Updated: `2023-03-19 01:46:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Argentina](</Argentina>)
 | 2 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
 | 3 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
 | 4 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 5 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
+| 5 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
 | 6 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 7 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
-| 8 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 9 | [Gorosito](http://twitter.com/search?q=Gorosito) | N/A |
-| 10 | [UN MILLÓN DE PRIMOS](http://twitter.com/search?q=UN+MILL%c3%93N+DE+PRIMOS) | N/A |
-| 11 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
-| 12 | [Rodrigo Rey](http://twitter.com/search?q=Rodrigo+Rey) | N/A |
-| 13 | [Catupecu](http://twitter.com/search?q=Catupecu) | N/A |
-| 14 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
-| 15 | [EL PRODUCTO](http://twitter.com/search?q=EL+PRODUCTO) | N/A |
-| 16 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 17 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 18 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 19 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
-| 20 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
-| 21 | [Picco](http://twitter.com/search?q=Picco) | N/A |
-| 22 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 23 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
-| 24 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
-| 25 | [Cell](http://twitter.com/search?q=Cell) | N/A |
-| 26 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 27 | [Matías Suárez](http://twitter.com/search?q=Mat%c3%adas+Su%c3%a1rez) | N/A |
-| 28 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 29 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 30 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 31 | [Jane's Addiction](http://twitter.com/search?q=Jane%27s+Addiction) | N/A |
-| 32 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
-| 33 | [Freezer](http://twitter.com/search?q=Freezer) | N/A |
-| 34 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 35 | [#Platense](http://twitter.com/search?q=%23Platense) | N/A |
-| 36 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 38 | [Insólito](http://twitter.com/search?q=Ins%c3%b3lito) | N/A |
-| 39 | [Molinas](http://twitter.com/search?q=Molinas) | Molinas is a Spanish surname. It is derived from the Latin word "molinus," which means "mill." The name likely originated as an occupational surname for someone who worked in or owned a mill. |
-| 40 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 41 | [#AllBoys](http://twitter.com/search?q=%23AllBoys) | N/A |
-| 42 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 43 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 44 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 45 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 46 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 47 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 48 | [Sarandí](http://twitter.com/search?q=Sarand%c3%ad) | N/A |
-| 49 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 50 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 7 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 8 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
+| 9 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
+| 10 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
+| 11 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 12 | [Diarte](http://twitter.com/search?q=Diarte) | N/A |
+| 13 | [Gorosito](http://twitter.com/search?q=Gorosito) | N/A |
+| 14 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 15 | [UN MILLÓN DE PRIMOS](http://twitter.com/search?q=UN+MILL%c3%93N+DE+PRIMOS) | N/A |
+| 16 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 17 | [Rodrigo Rey](http://twitter.com/search?q=Rodrigo+Rey) | N/A |
+| 18 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
+| 19 | [Purple Disco Machine](http://twitter.com/search?q=Purple+Disco+Machine) | N/A |
+| 20 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 21 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 22 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 23 | [Thiago Almada](http://twitter.com/search?q=Thiago+Almada) | N/A |
+| 24 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 25 | [Catupecu](http://twitter.com/search?q=Catupecu) | N/A |
+| 26 | [EL PRODUCTO](http://twitter.com/search?q=EL+PRODUCTO) | N/A |
+| 27 | [Vegetti](http://twitter.com/search?q=Vegetti) | Vegetti is a type of kitchen tool used to make spaghetti-like strands out of vegetables such as zucchini, carrots, and squash. It is also known as a spiralizer or a vegetable slicer. The name comes from the Italian word for "vegetable spaghetti." |
+| 28 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
+| 29 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 30 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 31 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 32 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 33 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 34 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 35 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 36 | [Cell](http://twitter.com/search?q=Cell) | N/A |
+| 37 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
+| 38 | [Platense](http://twitter.com/search?q=Platense) | N/A |
+| 39 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
+| 40 | [Neris](http://twitter.com/search?q=Neris) | N/A |
+| 41 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 42 | [Matías Suárez](http://twitter.com/search?q=Mat%c3%adas+Su%c3%a1rez) | N/A |
+| 43 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 44 | [#Belgrano](http://twitter.com/search?q=%23Belgrano) | N/A |
+| 45 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 46 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 47 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
+| 48 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 49 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 50 | [Tomba](http://twitter.com/search?q=Tomba) | N/A |
 
 
 

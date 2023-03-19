@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-03-19 00:30:27 UTC`
+📆 Last Updated: `2023-03-19 01:46:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,47 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 5 | [Abia](http://twitter.com/search?q=Abia) | N/A |
 | 6 | [#CongratulationsPeterMbah](http://twitter.com/search?q=%23CongratulationsPeterMbah) | N/A |
 | 7 | [#CongratulationSanwoolu](http://twitter.com/search?q=%23CongratulationSanwoolu) | N/A |
-| 8 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 9 | [DJ Wysei](http://twitter.com/search?q=DJ+Wysei) | N/A |
+| 8 | [DJ Wysei](http://twitter.com/search?q=DJ+Wysei) | N/A |
+| 9 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
 | 10 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 11 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 12 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
-| 13 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 14 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 13 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 14 | [Phyna](http://twitter.com/search?q=Phyna) | N/A |
 | 15 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 16 | [Phyna](http://twitter.com/search?q=Phyna) | N/A |
-| 17 | [#GRVIsComing](http://twitter.com/search?q=%23GRVIsComing) | N/A |
-| 18 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 19 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 20 | [Best Dj](http://twitter.com/search?q=Best+Dj) | N/A |
-| 21 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
-| 22 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 23 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
-| 24 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
-| 25 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
-| 26 | [Ijeoma](http://twitter.com/search?q=Ijeoma) | N/A |
-| 27 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 28 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 29 | [Amaechi](http://twitter.com/search?q=Amaechi) | N/A |
-| 30 | [Dapo Abiodun](http://twitter.com/search?q=Dapo+Abiodun) | N/A |
-| 31 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 32 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 33 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 34 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
-| 35 | [Goodluck Jonathan](http://twitter.com/search?q=Goodluck+Jonathan) | N/A |
-| 36 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 37 | [Chelsea and 10th](http://twitter.com/search?q=Chelsea+and+10th) | N/A |
-| 38 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 39 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 40 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 41 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 42 | [Noni](http://twitter.com/search?q=Noni) | N/A |
-| 43 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 44 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 45 | [Coach](http://twitter.com/search?q=Coach) | N/A |
-| 46 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 47 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
-| 48 | [Tessy](http://twitter.com/search?q=Tessy) | N/A |
-| 49 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 50 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 16 | [#GRVIsComing](http://twitter.com/search?q=%23GRVIsComing) | N/A |
+| 17 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 18 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
+| 19 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
+| 20 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
+| 21 | [Ijeoma](http://twitter.com/search?q=Ijeoma) | N/A |
+| 22 | [Amaechi](http://twitter.com/search?q=Amaechi) | N/A |
+| 23 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
+| 24 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 25 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 26 | [Dapo Abiodun](http://twitter.com/search?q=Dapo+Abiodun) | N/A |
+| 27 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 28 | [Goodluck Jonathan](http://twitter.com/search?q=Goodluck+Jonathan) | N/A |
+| 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 30 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 31 | [Chelsea and 10th](http://twitter.com/search?q=Chelsea+and+10th) | N/A |
+| 32 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 33 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 34 | [Toyin](http://twitter.com/search?q=Toyin) | N/A |
+| 35 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 36 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 37 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 38 | [Makinde](http://twitter.com/search?q=Makinde) | N/A |
+| 39 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
+| 40 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 41 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 42 | [Teslim](http://twitter.com/search?q=Teslim) | N/A |
+| 43 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 44 | [Lagos APC](http://twitter.com/search?q=Lagos+APC) | N/A |
+| 45 | [Bashir](http://twitter.com/search?q=Bashir) | N/A |
+| 46 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 47 | [#FreeChude](http://twitter.com/search?q=%23FreeChude) | N/A |
+| 48 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
 
 
 

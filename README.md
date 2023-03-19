@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-19 00:29:57 UTC`
+📆 Last Updated: `2023-03-19 01:46:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,54 +22,54 @@ This is top 50
 | ------- | ------------ | ------------ |
 | 1 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 2 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 3 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 4 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 5 | [Goltz](http://twitter.com/search?q=Goltz) | N/A |
-| 6 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
-| 7 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 8 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
-| 9 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 10 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 12 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
-| 13 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 14 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 15 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 17 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
-| 18 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 19 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 20 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 21 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
-| 22 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
-| 23 | [ヒーローガール](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%ac%e3%83%bc%e3%83%ab) | ヒーローガール (Hi-ro-ga-ru) is a Japanese term for a female superhero. It is used to refer to female characters who possess superhuman abilities and use them to fight crime or protect the public. In English, it can be translated as "Heroine" or "Female Superhero". |
-| 24 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 25 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
-| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 28 | [ツムリちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 29 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 30 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
-| 31 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 32 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
-| 33 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 34 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 35 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 36 | [スカイランド](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 37 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 38 | [Razorbacks](http://twitter.com/search?q=Razorbacks) | N/A |
-| 39 | [HEADSHOT DEAD](http://twitter.com/search?q=HEADSHOT+DEAD) | N/A |
-| 40 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 41 | [坂本監督](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e7%9b%a3%e7%9d%a3) | 坂本監督 is a Japanese term that refers to a director or manager of a team or organization. It literally translates to "Sakamoto Director". The term is often used in the context of sports teams, where the director is responsible for overseeing the team's performance and making decisions about strategy and personnel. |
-| 42 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 43 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 44 | [ウスマン](http://twitter.com/search?q=%e3%82%a6%e3%82%b9%e3%83%9e%e3%83%b3) | N/A |
-| 45 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
-| 46 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 47 | [桃井タロウ](http://twitter.com/search?q=%e6%a1%83%e4%ba%95%e3%82%bf%e3%83%ad%e3%82%a6) | 桃井タロウ is a Japanese manga series written and illustrated by Taro Momoi. It follows the story of a young man named Taro Momoi, who is sent to a strange world where he must fight monsters and find his way back home. The title of the series is a play on words, as "桃井" (Momoi) can also be read as "peach well". In English, the title could be translated as "Taro Momoi of the Peach Well". |
-| 48 | [審議拒否](http://twitter.com/search?q=%e5%af%a9%e8%ad%b0%e6%8b%92%e5%90%a6) | N/A |
-| 49 | [ウィング](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 50 | [Gunnar Nelson](http://twitter.com/search?q=Gunnar+Nelson) | N/A |
+| 3 | [#キングオージャー](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 4 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 5 | [ヒメノ様](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e6%a7%98) | N/A |
+| 6 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
+| 7 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 8 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 9 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 10 | [#シューイチ](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | N/A |
+| 11 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
+| 12 | [Goltz](http://twitter.com/search?q=Goltz) | N/A |
+| 13 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 14 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 15 | [ベネズエラ](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%82%ba%e3%82%a8%e3%83%a9) | N/A |
+| 16 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 17 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 18 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
+| 19 | [ヒメノちゃん](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [レインボージュルリラ](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc%e3%82%b8%e3%83%a5%e3%83%ab%e3%83%aa%e3%83%a9) | N/A |
+| 22 | [イシャバーナ](http://twitter.com/search?q=%e3%82%a4%e3%82%b7%e3%83%a3%e3%83%90%e3%83%bc%e3%83%8a) | N/A |
+| 23 | [ギラくん](http://twitter.com/search?q=%e3%82%ae%e3%83%a9%e3%81%8f%e3%82%93) | N/A |
+| 24 | [ヤンマ総長](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%9e%e7%b7%8f%e9%95%b7) | N/A |
+| 25 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 26 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 27 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 28 | [セバスチャン](http://twitter.com/search?q=%e3%82%bb%e3%83%90%e3%82%b9%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
+| 29 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
+| 30 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 31 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 32 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 33 | [ツムリちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 34 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 35 | [オープニング](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%8b%e3%83%b3%e3%82%b0) | N/A |
+| 36 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 37 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
+| 38 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 39 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 40 | [推しの死に様](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e6%ad%bb%e3%81%ab%e6%a7%98) | N/A |
+| 41 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 42 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 43 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 44 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
+| 45 | [アルトゥー](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%88%e3%82%a5%e3%83%bc) | N/A |
+| 46 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 47 | [特殊メイク](http://twitter.com/search?q=%e7%89%b9%e6%ae%8a%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
+| 48 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
+| 49 | [ヒメノさま](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e3%81%95%e3%81%be) | N/A |
+| 50 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
 
 
 

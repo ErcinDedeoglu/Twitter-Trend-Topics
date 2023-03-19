@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-19 00:30:22 UTC`
+📆 Last Updated: `2023-03-19 01:46:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
-| 2 | [プリズム](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
-| 3 | [ゆりかもめ](http://twitter.com/search?q=%e3%82%86%e3%82%8a%e3%81%8b%e3%82%82%e3%82%81) | N/A |
-| 4 | [日曜出勤](http://twitter.com/search?q=%e6%97%a5%e6%9b%9c%e5%87%ba%e5%8b%a4) | N/A |
-| 5 | [#Q4_LIVEday2](http://twitter.com/search?q=%23Q4_LIVEday2) | N/A |
-| 6 | [#サンフリ](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%83%95%e3%83%aa) | N/A |
-| 7 | [一般参加](http://twitter.com/search?q=%e4%b8%80%e8%88%ac%e5%8f%82%e5%8a%a0) | N/A |
-| 8 | [春コミ参加](http://twitter.com/search?q=%e6%98%a5%e3%82%b3%e3%83%9f%e5%8f%82%e5%8a%a0) | N/A |
-| 9 | [雨上がり](http://twitter.com/search?q=%e9%9b%a8%e4%b8%8a%e3%81%8c%e3%82%8a) | N/A |
-| 10 | [サーチケ](http://twitter.com/search?q=%e3%82%b5%e3%83%bc%e3%83%81%e3%82%b1) | N/A |
-| 11 | [スプリングS](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b0S) | N/A |
-| 12 | [#朝ラン](http://twitter.com/search?q=%23%e6%9c%9d%e3%83%a9%e3%83%b3) | N/A |
-| 13 | [リストバンド](http://twitter.com/search?q=%e3%83%aa%e3%82%b9%e3%83%88%e3%83%90%e3%83%b3%e3%83%89) | N/A |
-| 14 | [ボルドグフーシュ](http://twitter.com/search?q=%e3%83%9c%e3%83%ab%e3%83%89%e3%82%b0%e3%83%95%e3%83%bc%e3%82%b7%e3%83%a5) | ボルドグフーシュ is a type of German beer. It is a dark, malty beer with a slightly sweet flavor. In English, it is known as Bockbier or Bock Beer. |
-| 15 | [銀魂後祭り](http://twitter.com/search?q=%e9%8a%80%e9%ad%82%e5%be%8c%e7%a5%ad%e3%82%8a) | N/A |
-| 16 | [ツタロック](http://twitter.com/search?q=%e3%83%84%e3%82%bf%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 17 | [高校野球](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e9%87%8e%e7%90%83) | N/A |
-| 18 | [ペッパーミル](http://twitter.com/search?q=%e3%83%9a%e3%83%83%e3%83%91%e3%83%bc%e3%83%9f%e3%83%ab) | N/A |
-| 19 | [国際展示場](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e5%b1%95%e7%a4%ba%e5%a0%b4) | N/A |
-| 20 | [#ABChanZOO](http://twitter.com/search?q=%23ABChanZOO) | N/A |
-| 21 | [セブンマジシャン](http://twitter.com/search?q=%e3%82%bb%e3%83%96%e3%83%b3%e3%83%9e%e3%82%b8%e3%82%b7%e3%83%a3%e3%83%b3) | セブンマジシャン (Seven Magicians) is a Japanese light novel series written by Takehaya and illustrated by Poco. It follows the story of seven magicians who are tasked with protecting the world from an ancient evil. The English title of the series is Seven Magicians. |
-| 22 | [ニャンちゅう](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%81%a1%e3%82%85%e3%81%86) | N/A |
-| 23 | [ズラタン](http://twitter.com/search?q=%e3%82%ba%e3%83%a9%e3%82%bf%e3%83%b3) | N/A |
-| 24 | [ラスティカ](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%83%86%e3%82%a3%e3%82%ab) | N/A |
-| 25 | [ボイス付きログインボーナス開催中](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%82%b9%e4%bb%98%e3%81%8d%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%8a%e3%82%b9%e9%96%8b%e5%82%ac%e4%b8%ad) | N/A |
-| 26 | [幕張メッセ](http://twitter.com/search?q=%e5%b9%95%e5%bc%b5%e3%83%a1%e3%83%83%e3%82%bb) | N/A |
-| 27 | [あでぃしょ](http://twitter.com/search?q=%e3%81%82%e3%81%a7%e3%81%83%e3%81%97%e3%82%87) | あでぃしょ is a Japanese onomatopoeia that is used to describe the sound of something being cut or sliced. In English, it could be translated as "snip" or "snip-snip". |
-| 28 | [ホテルの朝食](http://twitter.com/search?q=%e3%83%9b%e3%83%86%e3%83%ab%e3%81%ae%e6%9c%9d%e9%a3%9f) | N/A |
-| 29 | [ジャスティンパレス](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%b3%e3%83%91%e3%83%ac%e3%82%b9) | ジャスティンパレス (Justin Palace) is a Japanese entertainment complex located in Tokyo. It is a popular destination for shopping, dining, and entertainment. The complex includes a variety of restaurants, shops, cinemas, and other attractions. In English, Justin Palace can be translated to mean "Justin's Palace". |
-| 30 | [フェリックス](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 31 | [休日出勤](http://twitter.com/search?q=%e4%bc%91%e6%97%a5%e5%87%ba%e5%8b%a4) | 休日出勤 (Kyūjitsu Shukkin) is a Japanese term meaning "working on a holiday". It refers to the practice of working on days that are usually considered holidays, such as weekends or national holidays. |
-| 32 | [イーウィヤ](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%a6%e3%82%a3%e3%83%a4) | N/A |
-| 33 | [トプステ](http://twitter.com/search?q=%e3%83%88%e3%83%97%e3%82%b9%e3%83%86) | N/A |
-| 34 | [クリバリ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%90%e3%83%aa) | N/A |
-| 35 | [高市早苗大臣](http://twitter.com/search?q=%e9%ab%98%e5%b8%82%e6%97%a9%e8%8b%97%e5%a4%a7%e8%87%a3) | N/A |
-| 36 | [異例の声明](http://twitter.com/search?q=%e7%95%b0%e4%be%8b%e3%81%ae%e5%a3%b0%e6%98%8e) | N/A |
-| 37 | [ハーランド](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | ハーランド (Hārando) is a Japanese word that means "harbor". It is used to refer to a place where ships can dock and unload cargo. |
-| 38 | [アルバレス](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ac%e3%82%b9) | N/A |
-| 39 | [りんかい線](http://twitter.com/search?q=%e3%82%8a%e3%82%93%e3%81%8b%e3%81%84%e7%b7%9a) | N/A |
-| 40 | [売り子さん](http://twitter.com/search?q=%e5%a3%b2%e3%82%8a%e5%ad%90%e3%81%95%e3%82%93) | N/A |
-| 41 | [大空警察](http://twitter.com/search?q=%e5%a4%a7%e7%a9%ba%e8%ad%a6%e5%af%9f) | N/A |
-| 42 | [ホウオウビスケッツ](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6%e3%83%93%e3%82%b9%e3%82%b1%e3%83%83%e3%83%84) | N/A |
-| 43 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
-| 44 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
-| 45 | [ヒーローガール](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%ac%e3%83%bc%e3%83%ab) | ヒーローガール (Hi-ro-ga-ru) is a Japanese term for a female superhero. It is used to refer to female characters who possess superhuman abilities and use them to fight crime or protect the public. In English, it can be translated as "Heroine" or "Female Superhero". |
-| 46 | [ツムリちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 47 | [スカイランド](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 48 | [坂本監督](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e7%9b%a3%e7%9d%a3) | 坂本監督 is a Japanese term that refers to a director or manager of a team or organization. It literally translates to "Sakamoto Director". The term is often used in the context of sports teams, where the director is responsible for overseeing the team's performance and making decisions about strategy and personnel. |
-| 49 | [審議拒否](http://twitter.com/search?q=%e5%af%a9%e8%ad%b0%e6%8b%92%e5%90%a6) | N/A |
+| 1 | [#Q4_LIVEday2](http://twitter.com/search?q=%23Q4_LIVEday2) | N/A |
+| 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 3 | [ツタロック](http://twitter.com/search?q=%e3%83%84%e3%82%bf%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 4 | [売り子さん](http://twitter.com/search?q=%e5%a3%b2%e3%82%8a%e5%ad%90%e3%81%95%e3%82%93) | N/A |
+| 5 | [#シャニマス5th_day2](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%9e%e3%82%b95th_day2) | N/A |
+| 6 | [ソラ・ハレワタール](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%83%bb%e3%83%8f%e3%83%ac%e3%83%af%e3%82%bf%e3%83%bc%e3%83%ab) | N/A |
+| 7 | [東邦高校](http://twitter.com/search?q=%e6%9d%b1%e9%82%a6%e9%ab%98%e6%a0%a1) | N/A |
+| 8 | [#ゴーストゲーム](http://twitter.com/search?q=%23%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 9 | [チェックアウト](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%e3%82%a2%e3%82%a6%e3%83%88) | N/A |
+| 10 | [東2ホール](http://twitter.com/search?q=%e6%9d%b12%e3%83%9b%e3%83%bc%e3%83%ab) | N/A |
+| 11 | [ヒメノ様](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e6%a7%98) | N/A |
+| 12 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
+| 13 | [ベネズエラ](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%82%ba%e3%82%a8%e3%83%a9) | N/A |
+| 14 | [ヒメノちゃん](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 15 | [レインボージュルリラ](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc%e3%82%b8%e3%83%a5%e3%83%ab%e3%83%aa%e3%83%a9) | N/A |
+| 16 | [イシャバーナ](http://twitter.com/search?q=%e3%82%a4%e3%82%b7%e3%83%a3%e3%83%90%e3%83%bc%e3%83%8a) | N/A |
+| 17 | [ギラくん](http://twitter.com/search?q=%e3%82%ae%e3%83%a9%e3%81%8f%e3%82%93) | N/A |
+| 18 | [ヤンマ総長](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%9e%e7%b7%8f%e9%95%b7) | N/A |
+| 19 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 20 | [セバスチャン](http://twitter.com/search?q=%e3%82%bb%e3%83%90%e3%82%b9%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
+| 21 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
+| 22 | [ツムリちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 23 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 24 | [推しの死に様](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e6%ad%bb%e3%81%ab%e6%a7%98) | N/A |
+| 25 | [アルトゥー](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%88%e3%82%a5%e3%83%bc) | N/A |
+| 26 | [特殊メイク](http://twitter.com/search?q=%e7%89%b9%e6%ae%8a%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
+| 27 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
+| 28 | [ヒメノさま](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e3%81%95%e3%81%be) | N/A |
+| 29 | [審議拒否](http://twitter.com/search?q=%e5%af%a9%e8%ad%b0%e6%8b%92%e5%90%a6) | N/A |
+| 30 | [カグラギ](http://twitter.com/search?q=%e3%82%ab%e3%82%b0%e3%83%a9%e3%82%ae) | N/A |
+| 31 | [Machico](http://twitter.com/search?q=Machico) | N/A |
+| 32 | [高市さん](http://twitter.com/search?q=%e9%ab%98%e5%b8%82%e3%81%95%e3%82%93) | N/A |
+| 33 | [中丸くん](http://twitter.com/search?q=%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
+| 34 | [桃井タロウ](http://twitter.com/search?q=%e6%a1%83%e4%ba%95%e3%82%bf%e3%83%ad%e3%82%a6) | 桃井タロウ is a Japanese manga series written and illustrated by Taro Momoi. It follows the story of a young man named Taro Momoi, who is sent to a strange world where he must fight monsters and find his way back home. The title of the series is a play on words, as "桃井" (Momoi) can also be read as "peach well". In English, the title could be translated as "Taro Momoi of the Peach Well". |
+| 35 | [ヒーローガール](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%ac%e3%83%bc%e3%83%ab) | ヒーローガール (Hi-ro-ga-ru) is a Japanese term for a female superhero. It is used to refer to female characters who possess superhuman abilities and use them to fight crime or protect the public. In English, it can be translated as "Heroine" or "Female Superhero". |
+| 36 | [鳥取城北](http://twitter.com/search?q=%e9%b3%a5%e5%8f%96%e5%9f%8e%e5%8c%97) | N/A |
+| 37 | [男の子プリキュア](http://twitter.com/search?q=%e7%94%b7%e3%81%ae%e5%ad%90%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
+| 38 | [ひーくん](http://twitter.com/search?q=%e3%81%b2%e3%83%bc%e3%81%8f%e3%82%93) | ひーくん is a nickname for the Japanese character Hiiro Kun, who is a popular manga and anime character. In English, it can be translated to "Hiro-kun". |
+| 39 | [フンコロガシ](http://twitter.com/search?q=%e3%83%95%e3%83%b3%e3%82%b3%e3%83%ad%e3%82%ac%e3%82%b7) | N/A |
+| 40 | [アメリカ逆転](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e9%80%86%e8%bb%a2) | N/A |
+| 41 | [カタツムリ](http://twitter.com/search?q=%e3%82%ab%e3%82%bf%e3%83%84%e3%83%a0%e3%83%aa) | N/A |
+| 42 | [坂本監督](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e7%9b%a3%e7%9d%a3) | 坂本監督 is a Japanese term that refers to a director or manager of a team or organization. It literally translates to "Sakamoto Director". The term is often used in the context of sports teams, where the director is responsible for overseeing the team's performance and making decisions about strategy and personnel. |
+| 43 | [ラクレス](http://twitter.com/search?q=%e3%83%a9%e3%82%af%e3%83%ac%e3%82%b9) | N/A |
+| 44 | [福くんさん](http://twitter.com/search?q=%e7%a6%8f%e3%81%8f%e3%82%93%e3%81%95%e3%82%93) | N/A |
+| 45 | [ビッグサイト](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 46 | [ヤンマくん](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%9e%e3%81%8f%e3%82%93) | N/A |
+| 47 | [レーザーブースト](http://twitter.com/search?q=%e3%83%ac%e3%83%bc%e3%82%b6%e3%83%bc%e3%83%96%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
+| 48 | [マカロニボーズ](http://twitter.com/search?q=%e3%83%9e%e3%82%ab%e3%83%ad%e3%83%8b%e3%83%9c%e3%83%bc%e3%82%ba) | N/A |
+| 49 | [ミュージックの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%83%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
 
 
 

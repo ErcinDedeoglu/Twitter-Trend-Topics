@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-19 00:30:26 UTC`
+📆 Last Updated: `2023-03-19 01:46:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
+| 1 | [#BIBLEFLYTOPALMSPRINGS](http://twitter.com/search?q=%23BIBLEFLYTOPALMSPRINGS) | N/A |
 | 2 | [#THAITANIUM23rdXENGFA](http://twitter.com/search?q=%23THAITANIUM23rdXENGFA) | N/A |
 | 3 | [#THAITANIUM23rdXENGFA](http://twitter.com/search?q=%23THAITANIUM23rdXENGFA) | N/A |
-| 4 | [#사쿠라_아름답게_피어나다](http://twitter.com/search?q=%23%ec%82%ac%ec%bf%a0%eb%9d%bc_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b2%8c_%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4) | N/A |
-| 5 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
+| 4 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
+| 5 | [#사쿠라_아름답게_피어나다](http://twitter.com/search?q=%23%ec%82%ac%ec%bf%a0%eb%9d%bc_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b2%8c_%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4) | N/A |
 | 6 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
 | 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [build makes me smile](http://twitter.com/search?q=build+makes+me+smile) | N/A |
-| 9 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 8 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 10 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
 | 11 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 13 | [seop](http://twitter.com/search?q=seop) | N/A |
-| 14 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [Hook](http://twitter.com/search?q=Hook) | N/A |
-| 17 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 18 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 19 | [tổng](http://twitter.com/search?q=t%e1%bb%95ng) | N/A |
-| 20 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 21 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
-| 22 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
-| 23 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
+| 12 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
+| 13 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 14 | [seop](http://twitter.com/search?q=seop) | N/A |
+| 15 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Hook](http://twitter.com/search?q=Hook) | N/A |
+| 18 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 20 | [tổng](http://twitter.com/search?q=t%e1%bb%95ng) | N/A |
+| 21 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 22 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
+| 23 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
 | 24 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 25 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
-| 26 | [binance launchpad](http://twitter.com/search?q=binance+launchpad) | N/A |
-| 27 | [jimin is coming](http://twitter.com/search?q=jimin+is+coming) | N/A |
-| 28 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
-| 29 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
-| 30 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 31 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 32 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 33 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
-| 34 | [America](http://twitter.com/search?q=America) | N/A |
-| 35 | [Token](http://twitter.com/search?q=Token) | N/A |
-| 36 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 37 | [Geng](http://twitter.com/search?q=Geng) | N/A |
-| 38 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
-| 39 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 40 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
-| 41 | [hình](http://twitter.com/search?q=h%c3%acnh) | N/A |
-| 42 | [muốn](http://twitter.com/search?q=mu%e1%bb%91n) | N/A |
-| 43 | [sài gòn](http://twitter.com/search?q=s%c3%a0i+g%c3%b2n) | N/A |
-| 44 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 45 | [vietnam airlines](http://twitter.com/search?q=vietnam+airlines) | N/A |
-| 46 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 47 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 48 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 49 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 25 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 26 | [space id](http://twitter.com/search?q=space+id) | N/A |
+| 27 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
+| 28 | [binance launchpad](http://twitter.com/search?q=binance+launchpad) | N/A |
+| 29 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
+| 30 | [jimin is coming](http://twitter.com/search?q=jimin+is+coming) | N/A |
+| 31 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
+| 32 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
+| 33 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
+| 34 | [Token](http://twitter.com/search?q=Token) | N/A |
+| 35 | [Geng](http://twitter.com/search?q=Geng) | N/A |
+| 36 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 37 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 38 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 39 | [sài gòn](http://twitter.com/search?q=s%c3%a0i+g%c3%b2n) | N/A |
+| 40 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 41 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 42 | [vietnam airlines](http://twitter.com/search?q=vietnam+airlines) | N/A |
+| 43 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 44 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
+| 45 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 46 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 47 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 48 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 49 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
 | 50 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
 
 

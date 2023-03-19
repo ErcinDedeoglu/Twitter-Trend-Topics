@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-03-19 00:30:46 UTC`
+📆 Last Updated: `2023-03-19 01:46:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
-| 2 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
-| 3 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
-| 4 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
-| 5 | [#nitiasa](http://twitter.com/search?q=%23nitiasa) | #nitiasa is a hashtag used on Twitter in Japan. It stands for "Night Time Information Sharing Association" and is used to share information about nightlife events, such as concerts, clubs, and bars. |
-| 6 | [#ひろプリ](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%83%97%e3%83%aa) | #ひろプリ is a hashtag used on Twitter in Japan to refer to the popular manga and anime series, "Hiroshima Prefecture". It is used to discuss the series, share fan art, and connect with other fans. In English, it translates to "#HiroshimaPrefecture". |
-| 7 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
-| 8 | [#サンデーモーニング](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%83%87%e3%83%bc%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0) | N/A |
-| 9 | [ヒーローガール](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%ac%e3%83%bc%e3%83%ab) | ヒーローガール (Hi-ro-ga-ru) is a Japanese term for a female superhero. It is used to refer to female characters who possess superhuman abilities and use them to fight crime or protect the public. In English, it can be translated as "Heroine" or "Female Superhero". |
-| 10 | [ツムリちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 11 | [坂本監督](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e7%9b%a3%e7%9d%a3) | 坂本監督 is a Japanese term that refers to a director or manager of a team or organization. It literally translates to "Sakamoto Director". The term is often used in the context of sports teams, where the director is responsible for overseeing the team's performance and making decisions about strategy and personnel. |
-| 12 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
-| 13 | [スカイランド](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 14 | [生身アクション](http://twitter.com/search?q=%e7%94%9f%e8%ba%ab%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 15 | [審議拒否](http://twitter.com/search?q=%e5%af%a9%e8%ad%b0%e6%8b%92%e5%90%a6) | N/A |
-| 16 | [ウスマン](http://twitter.com/search?q=%e3%82%a6%e3%82%b9%e3%83%9e%e3%83%b3) | N/A |
-| 17 | [桃井タロウ](http://twitter.com/search?q=%e6%a1%83%e4%ba%95%e3%82%bf%e3%83%ad%e3%82%a6) | 桃井タロウ is a Japanese manga series written and illustrated by Taro Momoi. It follows the story of a young man named Taro Momoi, who is sent to a strange world where he must fight monsters and find his way back home. The title of the series is a play on words, as "桃井" (Momoi) can also be read as "peach well". In English, the title could be translated as "Taro Momoi of the Peach Well". |
-| 18 | [ウィング](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 19 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
-| 20 | [エドワーズ](http://twitter.com/search?q=%e3%82%a8%e3%83%89%e3%83%af%e3%83%bc%e3%82%ba) | N/A |
-| 21 | [景和くん](http://twitter.com/search?q=%e6%99%af%e5%92%8c%e3%81%8f%e3%82%93) | N/A |
-| 22 | [ジーンさん](http://twitter.com/search?q=%e3%82%b8%e3%83%bc%e3%83%b3%e3%81%95%e3%82%93) | N/A |
-| 23 | [指紋認証](http://twitter.com/search?q=%e6%8c%87%e7%b4%8b%e8%aa%8d%e8%a8%bc) | N/A |
-| 24 | [ベネズエラ](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%82%ba%e3%82%a8%e3%83%a9) | N/A |
-| 25 | [ケケラさん](http://twitter.com/search?q=%e3%82%b1%e3%82%b1%e3%83%a9%e3%81%95%e3%82%93) | N/A |
-| 26 | [スカンジナビア半島](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%b3%e3%82%b8%e3%83%8a%e3%83%93%e3%82%a2%e5%8d%8a%e5%b3%b6) | N/A |
-| 27 | [福くんさん](http://twitter.com/search?q=%e7%a6%8f%e3%81%8f%e3%82%93%e3%81%95%e3%82%93) | N/A |
-| 28 | [ミュージックの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%83%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 29 | [恥ずかしがり屋](http://twitter.com/search?q=%e6%81%a5%e3%81%9a%e3%81%8b%e3%81%97%e3%81%8c%e3%82%8a%e5%b1%8b) | N/A |
-| 30 | [ソラ・ハレワタール](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%83%bb%e3%83%8f%e3%83%ac%e3%83%af%e3%82%bf%e3%83%bc%e3%83%ab) | N/A |
-| 31 | [ビッグサイト](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 32 | [ヒーローの出番](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%81%ae%e5%87%ba%e7%95%aa) | N/A |
-| 33 | [国会軽視](http://twitter.com/search?q=%e5%9b%bd%e4%bc%9a%e8%bb%bd%e8%a6%96) | N/A |
-| 34 | [ゲイジー](http://twitter.com/search?q=%e3%82%b2%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
-| 35 | [素面アクション](http://twitter.com/search?q=%e7%b4%a0%e9%9d%a2%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 36 | [西暦元年](http://twitter.com/search?q=%e8%a5%bf%e6%9a%a6%e5%85%83%e5%b9%b4) | N/A |
-| 37 | [高市さん罷免](http://twitter.com/search?q=%e9%ab%98%e5%b8%82%e3%81%95%e3%82%93%e7%bd%b7%e5%85%8d) | N/A |
-| 38 | [ゆめタウン](http://twitter.com/search?q=%e3%82%86%e3%82%81%e3%82%bf%e3%82%a6%e3%83%b3) | N/A |
-| 39 | [戦国ゲーム](http://twitter.com/search?q=%e6%88%a6%e5%9b%bd%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
-| 40 | [男の子プリキュア](http://twitter.com/search?q=%e7%94%b7%e3%81%ae%e5%ad%90%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
-| 41 | [レグルスモン](http://twitter.com/search?q=%e3%83%ac%e3%82%b0%e3%83%ab%e3%82%b9%e3%83%a2%e3%83%b3) | N/A |
-| 42 | [プリキュアの時間](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2%e3%81%ae%e6%99%82%e9%96%93) | N/A |
-| 43 | [ニラムさん](http://twitter.com/search?q=%e3%83%8b%e3%83%a9%e3%83%a0%e3%81%95%e3%82%93) | N/A |
-| 44 | [ぷいきゅあ](http://twitter.com/search?q=%e3%81%b7%e3%81%84%e3%81%8d%e3%82%85%e3%81%82) | ぷいきゅあ is a Japanese onomatopoeia that is used to describe the sound of something being cut or sliced. In English, it could be translated as "snip" or "snip-snip". |
-| 45 | [フィジエフ](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%b8%e3%82%a8%e3%83%95) | N/A |
-| 46 | [お前の娯楽](http://twitter.com/search?q=%e3%81%8a%e5%89%8d%e3%81%ae%e5%a8%af%e6%a5%bd) | N/A |
-| 47 | [祢音ちゃん](http://twitter.com/search?q=%e7%a5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 48 | [チラミさん](http://twitter.com/search?q=%e3%83%81%e3%83%a9%e3%83%9f%e3%81%95%e3%82%93) | N/A |
-| 49 | [スーパーヒーロータイム](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
-| 50 | [浮世英寿](http://twitter.com/search?q=%e6%b5%ae%e4%b8%96%e8%8b%b1%e5%af%bf) | N/A |
+| 1 | [#yapcjapan](http://twitter.com/search?q=%23yapcjapan) | N/A |
+| 2 | [#キングオージャー](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 3 | [ヒメノ様](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e6%a7%98) | N/A |
+| 4 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
+| 5 | [#シューイチ](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | N/A |
+| 6 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
+| 7 | [ベネズエラ](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%82%ba%e3%82%a8%e3%83%a9) | N/A |
+| 8 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
+| 9 | [ヒメノちゃん](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 10 | [レインボージュルリラ](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc%e3%82%b8%e3%83%a5%e3%83%ab%e3%83%aa%e3%83%a9) | N/A |
+| 11 | [イシャバーナ](http://twitter.com/search?q=%e3%82%a4%e3%82%b7%e3%83%a3%e3%83%90%e3%83%bc%e3%83%8a) | N/A |
+| 12 | [ギラくん](http://twitter.com/search?q=%e3%82%ae%e3%83%a9%e3%81%8f%e3%82%93) | N/A |
+| 13 | [ヤンマ総長](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%9e%e7%b7%8f%e9%95%b7) | N/A |
+| 14 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 15 | [セバスチャン](http://twitter.com/search?q=%e3%82%bb%e3%83%90%e3%82%b9%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
+| 16 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
+| 17 | [ツムリちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 18 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 19 | [推しの死に様](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e6%ad%bb%e3%81%ab%e6%a7%98) | N/A |
+| 20 | [アルトゥー](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%88%e3%82%a5%e3%83%bc) | N/A |
+| 21 | [特殊メイク](http://twitter.com/search?q=%e7%89%b9%e6%ae%8a%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
+| 22 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
+| 23 | [ヒメノさま](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e3%81%95%e3%81%be) | N/A |
+| 24 | [審議拒否](http://twitter.com/search?q=%e5%af%a9%e8%ad%b0%e6%8b%92%e5%90%a6) | N/A |
+| 25 | [カグラギ](http://twitter.com/search?q=%e3%82%ab%e3%82%b0%e3%83%a9%e3%82%ae) | N/A |
+| 26 | [高市さん](http://twitter.com/search?q=%e9%ab%98%e5%b8%82%e3%81%95%e3%82%93) | N/A |
+| 27 | [中丸くん](http://twitter.com/search?q=%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
+| 28 | [桃井タロウ](http://twitter.com/search?q=%e6%a1%83%e4%ba%95%e3%82%bf%e3%83%ad%e3%82%a6) | 桃井タロウ is a Japanese manga series written and illustrated by Taro Momoi. It follows the story of a young man named Taro Momoi, who is sent to a strange world where he must fight monsters and find his way back home. The title of the series is a play on words, as "桃井" (Momoi) can also be read as "peach well". In English, the title could be translated as "Taro Momoi of the Peach Well". |
+| 29 | [Machico](http://twitter.com/search?q=Machico) | N/A |
+| 30 | [ヒーローガール](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%ac%e3%83%bc%e3%83%ab) | ヒーローガール (Hi-ro-ga-ru) is a Japanese term for a female superhero. It is used to refer to female characters who possess superhuman abilities and use them to fight crime or protect the public. In English, it can be translated as "Heroine" or "Female Superhero". |
+| 31 | [鳥取城北](http://twitter.com/search?q=%e9%b3%a5%e5%8f%96%e5%9f%8e%e5%8c%97) | N/A |
+| 32 | [男の子プリキュア](http://twitter.com/search?q=%e7%94%b7%e3%81%ae%e5%ad%90%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
+| 33 | [ひーくん](http://twitter.com/search?q=%e3%81%b2%e3%83%bc%e3%81%8f%e3%82%93) | ひーくん is a nickname for the Japanese character Hiiro Kun, who is a popular manga and anime character. In English, it can be translated to "Hiro-kun". |
+| 34 | [アメリカ逆転](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e9%80%86%e8%bb%a2) | N/A |
+| 35 | [フンコロガシ](http://twitter.com/search?q=%e3%83%95%e3%83%b3%e3%82%b3%e3%83%ad%e3%82%ac%e3%82%b7) | N/A |
+| 36 | [カタツムリ](http://twitter.com/search?q=%e3%82%ab%e3%82%bf%e3%83%84%e3%83%a0%e3%83%aa) | N/A |
+| 37 | [坂本監督](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e7%9b%a3%e7%9d%a3) | 坂本監督 is a Japanese term that refers to a director or manager of a team or organization. It literally translates to "Sakamoto Director". The term is often used in the context of sports teams, where the director is responsible for overseeing the team's performance and making decisions about strategy and personnel. |
+| 38 | [ラクレス](http://twitter.com/search?q=%e3%83%a9%e3%82%af%e3%83%ac%e3%82%b9) | N/A |
+| 39 | [福くんさん](http://twitter.com/search?q=%e7%a6%8f%e3%81%8f%e3%82%93%e3%81%95%e3%82%93) | N/A |
+| 40 | [ビッグサイト](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 41 | [ヤンマくん](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%9e%e3%81%8f%e3%82%93) | N/A |
+| 42 | [レーザーブースト](http://twitter.com/search?q=%e3%83%ac%e3%83%bc%e3%82%b6%e3%83%bc%e3%83%96%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
+| 43 | [マカロニボーズ](http://twitter.com/search?q=%e3%83%9e%e3%82%ab%e3%83%ad%e3%83%8b%e3%83%9c%e3%83%bc%e3%82%ba) | N/A |
+| 44 | [昆虫ゼリー](http://twitter.com/search?q=%e6%98%86%e8%99%ab%e3%82%bc%e3%83%aa%e3%83%bc) | N/A |
+| 45 | [ミュージックの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%83%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
+| 46 | [生身アクション](http://twitter.com/search?q=%e7%94%9f%e8%ba%ab%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 47 | [スカイランド](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 48 | [岩本くん](http://twitter.com/search?q=%e5%b2%a9%e6%9c%ac%e3%81%8f%e3%82%93) | N/A |
+| 49 | [カマキリ](http://twitter.com/search?q=%e3%82%ab%e3%83%9e%e3%82%ad%e3%83%aa) | N/A |
+| 50 | [ハウステンボス](http://twitter.com/search?q=%e3%83%8f%e3%82%a6%e3%82%b9%e3%83%86%e3%83%b3%e3%83%9c%e3%82%b9) | N/A |
 
 
 

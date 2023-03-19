@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-19 00:30:26 UTC`
+📆 Last Updated: `2023-03-19 01:46:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Thailand](</Thailand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MySchoolPresidentOnStageD1](http://twitter.com/search?q=%23MySchoolPresidentOnStageD1) | N/A |
-| 2 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
-| 3 | [#ALevel66](http://twitter.com/search?q=%23ALevel66) | N/A |
-| 4 | [#THAITANIUM23rdXENGFA](http://twitter.com/search?q=%23THAITANIUM23rdXENGFA) | N/A |
-| 5 | [#ภาคินัย](http://twitter.com/search?q=%23%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%b4%e0%b8%99%e0%b8%b1%e0%b8%a2) | N/A |
-| 6 | [BAMBAM IN KCON2023](http://twitter.com/search?q=BAMBAM+IN+KCON2023) | N/A |
-| 7 | [tenlee sam bai dee bor](http://twitter.com/search?q=tenlee+sam+bai+dee+bor) | N/A |
-| 8 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 9 | [JAMFILM X SEXYLACE](http://twitter.com/search?q=JAMFILM+X+SEXYLACE) | N/A |
-| 10 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
-| 11 | [TRINITY in KK Town](http://twitter.com/search?q=TRINITY+in+KK+Town) | N/A |
-| 12 | [bambam sweet home](http://twitter.com/search?q=bambam+sweet+home) | N/A |
-| 13 | [mon petra](http://twitter.com/search?q=mon+petra) | N/A |
-| 14 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
-| 15 | [bright in japan](http://twitter.com/search?q=bright+in+japan) | N/A |
-| 16 | [bambam gm 18march](http://twitter.com/search?q=bambam+gm+18march) | N/A |
-| 17 | [Win x Japan](http://twitter.com/search?q=Win+x+Japan) | N/A |
-| 18 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
-| 19 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
-| 20 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
-| 21 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 22 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 23 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 2 | [#BIBLEFLYTOPALMSPRINGS](http://twitter.com/search?q=%23BIBLEFLYTOPALMSPRINGS) | N/A |
+| 3 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
+| 4 | [#ALevel66](http://twitter.com/search?q=%23ALevel66) | N/A |
+| 5 | [#THAITANIUM23rdXENGFA](http://twitter.com/search?q=%23THAITANIUM23rdXENGFA) | N/A |
+| 6 | [MARCH19 HAS CHARLOTTE](http://twitter.com/search?q=MARCH19+HAS+CHARLOTTE) | N/A |
+| 7 | [BAMBAM GM 19MARCH](http://twitter.com/search?q=BAMBAM+GM+19MARCH) | N/A |
+| 8 | [TENLEE SAM BAI DEE BOR](http://twitter.com/search?q=TENLEE+SAM+BAI+DEE+BOR) | N/A |
+| 9 | [BAMBAM IN KCON2023](http://twitter.com/search?q=BAMBAM+IN+KCON2023) | N/A |
+| 10 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
+| 11 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
+| 12 | [MORNING​ NOOKPAI](http://twitter.com/search?q=MORNING%e2%80%8b+NOOKPAI) | N/A |
+| 13 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 14 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
+| 15 | [JAMFILM X SEXYLACE](http://twitter.com/search?q=JAMFILM+X+SEXYLACE) | N/A |
+| 16 | [bambam sweet home](http://twitter.com/search?q=bambam+sweet+home) | N/A |
+| 17 | [TRINITY in KK Town](http://twitter.com/search?q=TRINITY+in+KK+Town) | N/A |
+| 18 | [mon petra](http://twitter.com/search?q=mon+petra) | N/A |
+| 19 | [Bright In Japan](http://twitter.com/search?q=Bright+In+Japan) | N/A |
+| 20 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
+| 21 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
+| 22 | [Win x Japan](http://twitter.com/search?q=Win+x+Japan) | N/A |
+| 23 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
+| 24 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
 | 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 26 | [HAPPY BIRTHDAY SAKURA](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAKURA) | N/A |
-| 27 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 28 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 29 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 30 | [#KCON2023THAILAND](http://twitter.com/search?q=%23KCON2023THAILAND) | N/A |
-| 31 | [#BAMBAMKCON2023TH](http://twitter.com/search?q=%23BAMBAMKCON2023TH) | N/A |
-| 32 | [#วิงค์ไวท์xอิงล็อต](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8cx%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 33 | [#welcomebambamtothailand](http://twitter.com/search?q=%23welcomebambamtothailand) | N/A |
-| 34 | [#นิกกี้ก้อย](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b8%81%e0%b8%81%e0%b8%b5%e0%b9%89%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%a2) | N/A |
-| 35 | [#BedFriendEP5](http://twitter.com/search?q=%23BedFriendEP5) | N/A |
-| 36 | [#chompuathitafinalshowfobi2023](http://twitter.com/search?q=%23chompuathitafinalshowfobi2023) | N/A |
-| 37 | [#KohSweetHoneymoonxPeck](http://twitter.com/search?q=%23KohSweetHoneymoonxPeck) | N/A |
-| 38 | [#ฮันนีมูนของดาว702](http://twitter.com/search?q=%23%e0%b8%ae%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b8%a1%e0%b8%b9%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%b2%e0%b8%a7702) | N/A |
-| 39 | [#dek66](http://twitter.com/search?q=%23dek66) | #dek66 is a hashtag used on social media to refer to the 66th episode of the Japanese anime series, Demon Slayer. The hashtag is used to discuss the episode and share fan reactions. |
-| 40 | [#คิดฮอดเตนล์หลาย](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%ae%e0%b8%ad%e0%b8%94%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%a5%e0%b9%8c%e0%b8%ab%e0%b8%a5%e0%b8%b2%e0%b8%a2) | N/A |
-| 41 | [#HeavyXDevyXbb0un](http://twitter.com/search?q=%23HeavyXDevyXbb0un) | N/A |
-| 42 | [#SexyLaceBigEventxJamFilm](http://twitter.com/search?q=%23SexyLaceBigEventxJamFilm) | N/A |
-| 43 | [#โก๋แก่ลันเตาxPeck](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%81%e0%b9%8b%e0%b9%81%e0%b8%81%e0%b9%88%e0%b8%a5%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%95%e0%b8%b2xPeck) | N/A |
-| 44 | [#YoungjaeFanEventXDrDermaPlus](http://twitter.com/search?q=%23YoungjaeFanEventXDrDermaPlus) | N/A |
-| 45 | [#เภตรานฤมิตตอน๑](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a0%e0%b8%95%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%a4%e0%b8%a1%e0%b8%b4%e0%b8%95%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b9%91) | N/A |
-| 46 | [#PainttheTownxTRINITY](http://twitter.com/search?q=%23PainttheTownxTRINITY) | N/A |
-| 47 | [#OhoPOPPYBdayMemories2023](http://twitter.com/search?q=%23OhoPOPPYBdayMemories2023) | N/A |
-| 48 | [#นุ่นสุทธิภา](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%a0%e0%b8%b2) | N/A |
-| 49 | [#MAMIxBossNoeulinHuahin](http://twitter.com/search?q=%23MAMIxBossNoeulinHuahin) | N/A |
-| 50 | [#ShootingStarinJapanD1](http://twitter.com/search?q=%23ShootingStarinJapanD1) | N/A |
+| 26 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
+| 27 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
+| 28 | [Kem Morning](http://twitter.com/search?q=Kem+Morning) | N/A |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 31 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 32 | [Carry Me Out](http://twitter.com/search?q=Carry+Me+Out) | N/A |
+| 33 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 34 | [America](http://twitter.com/search?q=America) | N/A |
+| 35 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 36 | [#ภาคินัย](http://twitter.com/search?q=%23%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%b4%e0%b8%99%e0%b8%b1%e0%b8%a2) | N/A |
+| 37 | [#KCON2023THAILAND](http://twitter.com/search?q=%23KCON2023THAILAND) | N/A |
+| 38 | [#OurSkyyxNeverLetMeGo](http://twitter.com/search?q=%23OurSkyyxNeverLetMeGo) | N/A |
+| 39 | [#BAMBAMKCON2023TH](http://twitter.com/search?q=%23BAMBAMKCON2023TH) | N/A |
+| 40 | [#วิงค์ไวท์xอิงล็อต](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8cx%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 41 | [#welcomebambamtothailand](http://twitter.com/search?q=%23welcomebambamtothailand) | N/A |
+| 42 | [#นิกกี้ก้อย](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b8%81%e0%b8%81%e0%b8%b5%e0%b9%89%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%a2) | N/A |
+| 43 | [#chompuathitafinalshowfobi2023](http://twitter.com/search?q=%23chompuathitafinalshowfobi2023) | N/A |
+| 44 | [#BedFriendEP5](http://twitter.com/search?q=%23BedFriendEP5) | N/A |
+| 45 | [#TayNew_JP_PhotoBook](http://twitter.com/search?q=%23TayNew_JP_PhotoBook) | N/A |
+| 46 | [#KohSweetHoneymoonxPeck](http://twitter.com/search?q=%23KohSweetHoneymoonxPeck) | N/A |
+| 47 | [#dek66](http://twitter.com/search?q=%23dek66) | #dek66 is a hashtag used on social media to refer to the 66th episode of the Japanese anime series, Demon Slayer. The hashtag is used to discuss the episode and share fan reactions. |
+| 48 | [#ฮันนีมูนของดาว702](http://twitter.com/search?q=%23%e0%b8%ae%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b8%a1%e0%b8%b9%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%b2%e0%b8%a7702) | N/A |
+| 49 | [#BlooddonationwithBUILD](http://twitter.com/search?q=%23BlooddonationwithBUILD) | N/A |
+| 50 | [#คิดฮอดเตนล์หลาย](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%ae%e0%b8%ad%e0%b8%94%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%a5%e0%b9%8c%e0%b8%ab%e0%b8%a5%e0%b8%b2%e0%b8%a2) | N/A |
 
 
 

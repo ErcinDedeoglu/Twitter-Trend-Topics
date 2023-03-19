@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-19 00:30:17 UTC`
+📆 Last Updated: `2023-03-19 01:46:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 3 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 1 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 2 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 3 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 4 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
 | 5 | [#GSHC](http://twitter.com/search?q=%23GSHC) | N/A |
-| 6 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 7 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 8 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 6 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 7 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 8 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
 | 9 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 10 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
-| 11 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 10 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 11 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
 | 12 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 13 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 14 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 13 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 14 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 | 15 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 16 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
 | 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 18 | [Dido](http://twitter.com/search?q=Dido) | N/A |
 | 19 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 22 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 23 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 24 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
-| 25 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 27 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 28 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 29 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 30 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 31 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 32 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 33 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 34 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 35 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 36 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 37 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 38 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 39 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 40 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
-| 41 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 42 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 43 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 44 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 45 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 46 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 47 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 48 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 21 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 22 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 23 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 26 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 27 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 29 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 30 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 31 | [Taten](http://twitter.com/search?q=Taten) | N/A |
+| 32 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 33 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 34 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 35 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 36 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 37 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 38 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 39 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
+| 40 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 41 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 42 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 43 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 44 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 45 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 46 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 47 | [Verlust](http://twitter.com/search?q=Verlust) | N/A |
+| 48 | [Krise](http://twitter.com/search?q=Krise) | N/A |
 
 
 

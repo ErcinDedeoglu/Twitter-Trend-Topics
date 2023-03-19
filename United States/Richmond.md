@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-19 00:30:45 UTC`
+📆 Last Updated: `2023-03-19 01:46:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 2 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 3 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 1 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 2 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 3 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
 | 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 5 | [Usman](http://twitter.com/search?q=Usman) | N/A |
 | 6 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 7 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 8 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 9 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 10 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 11 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
+| 7 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 8 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 9 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 10 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 11 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
 | 12 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 13 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 14 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 15 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 16 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 17 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 18 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
-| 19 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 20 | [Razorbacks](http://twitter.com/search?q=Razorbacks) | N/A |
-| 21 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
-| 22 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 23 | [#KUbball](http://twitter.com/search?q=%23KUbball) | N/A |
-| 24 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 25 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 26 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
-| 27 | [Hemric](http://twitter.com/search?q=Hemric) | N/A |
-| 28 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 29 | [Jordan Walsh](http://twitter.com/search?q=Jordan+Walsh) | N/A |
-| 30 | [#ChuckerHat](http://twitter.com/search?q=%23ChuckerHat) | N/A |
-| 31 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 32 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 33 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 34 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 35 | [#woopigsooie](http://twitter.com/search?q=%23woopigsooie) | N/A |
-| 36 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
-| 37 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 38 | [Davonte Davis](http://twitter.com/search?q=Davonte+Davis) | N/A |
-| 39 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 40 | [Martin Perez](http://twitter.com/search?q=Martin+Perez) | N/A |
-| 41 | [Sweet Sixteen](http://twitter.com/search?q=Sweet+Sixteen) | N/A |
-| 42 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
-| 43 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
-| 44 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 45 | [Ricky Council](http://twitter.com/search?q=Ricky+Council) | N/A |
-| 46 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 47 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 48 | [Mika March](http://twitter.com/search?q=Mika+March) | N/A |
-| 49 | [Aaron Brooks](http://twitter.com/search?q=Aaron+Brooks) | N/A |
+| 13 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 14 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 15 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 16 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 17 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 18 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 19 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
+| 20 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
+| 21 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 22 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 23 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
+| 24 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 25 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 26 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 27 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 28 | [Hemric](http://twitter.com/search?q=Hemric) | N/A |
+| 29 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 30 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 31 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
+| 32 | [Thiago Almada](http://twitter.com/search?q=Thiago+Almada) | N/A |
+| 33 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 34 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 35 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 36 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 37 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 38 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 39 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 40 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
+| 41 | [Razorbacks](http://twitter.com/search?q=Razorbacks) | N/A |
+| 42 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
+| 43 | [Konquest](http://twitter.com/search?q=Konquest) | N/A |
+| 44 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 45 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
+| 46 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 47 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
+| 48 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 49 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-19 00:30:02 UTC`
+📆 Last Updated: `2023-03-19 01:46:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Puro](http://twitter.com/search?q=Puro) | N/A |
-| 2 | [#LigaMX](http://twitter.com/search?q=%23LigaMX) | N/A |
-| 3 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 4 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
-| 5 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
-| 6 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 7 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 8 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 9 | [#ExpropiaciónPetrolera](http://twitter.com/search?q=%23Expropiaci%c3%b3nPetrolera) | N/A |
-| 10 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 11 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 12 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 13 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 14 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 15 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 16 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 17 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 18 | [Dos Bocas](http://twitter.com/search?q=Dos+Bocas) | N/A |
-| 19 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 21 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
-| 22 | [Viva AMLO](http://twitter.com/search?q=Viva+AMLO) | N/A |
-| 23 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 25 | [Simpatizantes](http://twitter.com/search?q=Simpatizantes) | N/A |
-| 26 | [Tlaloc](http://twitter.com/search?q=Tlaloc) | N/A |
-| 27 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 28 | [Pole](http://twitter.com/search?q=Pole) | N/A |
-| 29 | [85 Aniversario](http://twitter.com/search?q=85+Aniversario) | N/A |
-| 30 | [Mendieta](http://twitter.com/search?q=Mendieta) | N/A |
-| 31 | [Andrés Manuel López Obrador](http://twitter.com/search?q=Andr%c3%a9s+Manuel+L%c3%b3pez+Obrador) | N/A |
-| 32 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 34 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 2 | [#PorElRescateDeLaSoberanía](http://twitter.com/search?q=%23PorElRescateDeLaSoberan%c3%ada) | N/A |
+| 3 | [Tlalpan](http://twitter.com/search?q=Tlalpan) | N/A |
+| 4 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 5 | [#LigaMX](http://twitter.com/search?q=%23LigaMX) | N/A |
+| 6 | [Pueblo](http://twitter.com/search?q=Pueblo) | N/A |
+| 7 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 8 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
+| 9 | [#ClasicoEnPlaydoit](http://twitter.com/search?q=%23ClasicoEnPlaydoit) | N/A |
+| 10 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 11 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
+| 12 | [Iván Morales](http://twitter.com/search?q=Iv%c3%a1n+Morales) | N/A |
+| 13 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 14 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 15 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 16 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 17 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
+| 18 | [Barovero](http://twitter.com/search?q=Barovero) | N/A |
+| 19 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 20 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 21 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 22 | [VAMOS TIGRES](http://twitter.com/search?q=VAMOS+TIGRES) | N/A |
+| 23 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
+| 24 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 25 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 26 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 27 | [La Máquina](http://twitter.com/search?q=La+M%c3%a1quina) | N/A |
+| 28 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 29 | [Dos Bocas](http://twitter.com/search?q=Dos+Bocas) | N/A |
+| 30 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 31 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 32 | [Estadio Universitario](http://twitter.com/search?q=Estadio+Universitario) | N/A |
+| 33 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 34 | [Viva AMLO](http://twitter.com/search?q=Viva+AMLO) | N/A |
 | 35 | [SKABECHE DAY](http://twitter.com/search?q=SKABECHE+DAY) | N/A |
-| 36 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
-| 37 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
-| 38 | [Ferriz](http://twitter.com/search?q=Ferriz) | N/A |
-| 39 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 40 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 41 | [Chente](http://twitter.com/search?q=Chente) | N/A |
-| 42 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
-| 43 | [Jeddah](http://twitter.com/search?q=Jeddah) | N/A |
-| 44 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 45 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 46 | [#EsUnHonorEstarConObrador](http://twitter.com/search?q=%23EsUnHonorEstarConObrador) | N/A |
-| 47 | [#MarchaDelArdor](http://twitter.com/search?q=%23MarchaDelArdor) | N/A |
-| 48 | [#ClasicoRegio129](http://twitter.com/search?q=%23ClasicoRegio129) | N/A |
-| 49 | [#RebDiabloIV](http://twitter.com/search?q=%23RebDiabloIV) | N/A |
-| 50 | [#ConvoyEnViveLatino](http://twitter.com/search?q=%23ConvoyEnViveLatino) | N/A |
+| 36 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 37 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
+| 38 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 39 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
+| 40 | [Simpatizantes](http://twitter.com/search?q=Simpatizantes) | N/A |
+| 41 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 42 | [America](http://twitter.com/search?q=America) | N/A |
+| 43 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 44 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 45 | [Mendieta](http://twitter.com/search?q=Mendieta) | N/A |
+| 46 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 47 | [Pole Position](http://twitter.com/search?q=Pole+Position) | N/A |
+| 48 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
+| 49 | [Chente](http://twitter.com/search?q=Chente) | N/A |
+| 50 | [#EsUnHonorEstarConObrador](http://twitter.com/search?q=%23EsUnHonorEstarConObrador) | N/A |
 
 
 
