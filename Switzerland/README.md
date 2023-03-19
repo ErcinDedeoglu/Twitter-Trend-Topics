@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-19 17:17:00 UTC`
+📆 Last Updated: `2023-03-19 18:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 3 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
-| 4 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 5 | [#YBFCB](http://twitter.com/search?q=%23YBFCB) | N/A |
-| 6 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 7 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
-| 8 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
-| 9 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 10 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [Swissair](http://twitter.com/search?q=Swissair) | N/A |
-| 13 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 3 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 4 | [#YBFCB](http://twitter.com/search?q=%23YBFCB) | N/A |
+| 5 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 6 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
+| 7 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 8 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
+| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 10 | [Aktie](http://twitter.com/search?q=Aktie) | N/A |
+| 11 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
+| 12 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 13 | [Milliarde](http://twitter.com/search?q=Milliarde) | N/A |
 | 14 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 15 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 16 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 17 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
-| 18 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
-| 19 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
-| 20 | [Optionen](http://twitter.com/search?q=Optionen) | N/A |
-| 21 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 22 | [Verstaatlichung](http://twitter.com/search?q=Verstaatlichung) | N/A |
-| 23 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 15 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 16 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 17 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
+| 18 | [Swissair](http://twitter.com/search?q=Swissair) | N/A |
+| 19 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 20 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 21 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 24 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
 | 25 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
-| 26 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 27 | [Eigenkapital](http://twitter.com/search?q=Eigenkapital) | N/A |
-| 28 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 29 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 30 | [Vabbè](http://twitter.com/search?q=Vabb%c3%a8) | N/A |
-| 31 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 26 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
+| 27 | [Optionen](http://twitter.com/search?q=Optionen) | N/A |
+| 28 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 29 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 30 | [Verstaatlichung](http://twitter.com/search?q=Verstaatlichung) | N/A |
+| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 32 | [Finanzplatz](http://twitter.com/search?q=Finanzplatz) | N/A |
 | 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 34 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 35 | [Finma](http://twitter.com/search?q=Finma) | N/A |
-| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 37 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 38 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 39 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 40 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 41 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 42 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 43 | [Arbeitsplätze](http://twitter.com/search?q=Arbeitspl%c3%a4tze) | N/A |
-| 44 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
-| 45 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 46 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 47 | [moral](http://twitter.com/search?q=moral) | N/A |
-| 48 | [Profil](http://twitter.com/search?q=Profil) | N/A |
-| 49 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
-| 50 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 34 | [Arbeitsplätze](http://twitter.com/search?q=Arbeitspl%c3%a4tze) | N/A |
+| 35 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 36 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 37 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 38 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 39 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 40 | [Finma](http://twitter.com/search?q=Finma) | N/A |
+| 41 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 42 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 43 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 44 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 46 | [Eigenkapital](http://twitter.com/search?q=Eigenkapital) | N/A |
+| 47 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 48 | [Boah](http://twitter.com/search?q=Boah) | N/A |
+| 49 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 50 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 
 
 

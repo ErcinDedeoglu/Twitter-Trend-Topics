@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-19 17:16:56 UTC`
+📆 Last Updated: `2023-03-19 18:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TorinoNapoli](http://twitter.com/search?q=%23TorinoNapoli) | N/A |
-| 2 | [#LazioRoma](http://twitter.com/search?q=%23LazioRoma) | N/A |
-| 3 | [#ForzaNapoliSempre](http://twitter.com/search?q=%23ForzaNapoliSempre) | N/A |
-| 4 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
-| 5 | [#Annunziata](http://twitter.com/search?q=%23Annunziata) | N/A |
-| 6 | [Roccella](http://twitter.com/search?q=Roccella) | N/A |
-| 7 | [Toro](http://twitter.com/search?q=Toro) | N/A |
-| 8 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
-| 9 | [San Giuseppe](http://twitter.com/search?q=San+Giuseppe) | N/A |
-| 10 | [Juric](http://twitter.com/search?q=Juric) | N/A |
-| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 12 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 13 | [Serie B](http://twitter.com/search?q=Serie+B) | N/A |
-| 14 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 15 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 16 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
-| 17 | [Linus](http://twitter.com/search?q=Linus) | N/A |
-| 18 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 19 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 20 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 21 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 22 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 23 | [Bibbiano](http://twitter.com/search?q=Bibbiano) | N/A |
-| 24 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
-| 25 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 26 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 27 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
-| 28 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 29 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 30 | [#FiorentinaLecce](http://twitter.com/search?q=%23FiorentinaLecce) | N/A |
-| 31 | [#Catanzaro](http://twitter.com/search?q=%23Catanzaro) | N/A |
-| 32 | [#DerbyDellaCapitale](http://twitter.com/search?q=%23DerbyDellaCapitale) | N/A |
-| 33 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
-| 34 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
-| 35 | [#festadelpapà](http://twitter.com/search?q=%23festadelpap%c3%a0) | N/A |
-| 36 | [#19Marzo](http://twitter.com/search?q=%2319Marzo) | N/A |
-| 37 | [#GPArabiaSaudita](http://twitter.com/search?q=%23GPArabiaSaudita) | N/A |
-| 38 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
-| 39 | [#orielespace](http://twitter.com/search?q=%23orielespace) | N/A |
-| 40 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 41 | [#badenzzzers](http://twitter.com/search?q=%23badenzzzers) | N/A |
-| 42 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
-| 43 | [#famigliearcobaleno](http://twitter.com/search?q=%23famigliearcobaleno) | N/A |
-| 44 | [#iostocondaniele](http://twitter.com/search?q=%23iostocondaniele) | N/A |
-| 45 | [#LGBT](http://twitter.com/search?q=%23LGBT) | N/A |
-| 46 | [#SerieATIM](http://twitter.com/search?q=%23SerieATIM) | N/A |
-| 47 | [#Pascale](http://twitter.com/search?q=%23Pascale) | N/A |
+| 1 | [#LazioRoma](http://twitter.com/search?q=%23LazioRoma) | N/A |
+| 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 3 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
+| 4 | [#TorinoNapoli](http://twitter.com/search?q=%23TorinoNapoli) | N/A |
+| 5 | [#GPArabiaSaudita](http://twitter.com/search?q=%23GPArabiaSaudita) | N/A |
+| 6 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
+| 7 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 8 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 10 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 11 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 12 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 13 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 15 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 16 | [Juric](http://twitter.com/search?q=Juric) | N/A |
+| 17 | [San Giuseppe](http://twitter.com/search?q=San+Giuseppe) | N/A |
+| 18 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 19 | [Campionato](http://twitter.com/search?q=Campionato) | N/A |
+| 20 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 21 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 22 | [Linus](http://twitter.com/search?q=Linus) | N/A |
+| 23 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 24 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
+| 25 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 26 | [Bibbiano](http://twitter.com/search?q=Bibbiano) | N/A |
+| 27 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
+| 28 | [#Annunziata](http://twitter.com/search?q=%23Annunziata) | N/A |
+| 29 | [#DerbyDellaCapitale](http://twitter.com/search?q=%23DerbyDellaCapitale) | N/A |
+| 30 | [#ForzaNapoliSempre](http://twitter.com/search?q=%23ForzaNapoliSempre) | N/A |
+| 31 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 32 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 33 | [#Roccella](http://twitter.com/search?q=%23Roccella) | N/A |
+| 34 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
+| 35 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
+| 36 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 37 | [#FiorentinaLecce](http://twitter.com/search?q=%23FiorentinaLecce) | N/A |
+| 38 | [#Leclerc](http://twitter.com/search?q=%23Leclerc) | N/A |
+| 39 | [#Catanzaro](http://twitter.com/search?q=%23Catanzaro) | N/A |
+| 40 | [#SerieA](http://twitter.com/search?q=%23SerieA) | N/A |
+| 41 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 42 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
+| 43 | [#TernanaBari](http://twitter.com/search?q=%23TernanaBari) | N/A |
+| 44 | [#badenzzzers](http://twitter.com/search?q=%23badenzzzers) | N/A |
+| 45 | [#festadelpapà](http://twitter.com/search?q=%23festadelpap%c3%a0) | N/A |
+| 46 | [#19Marzo](http://twitter.com/search?q=%2319Marzo) | N/A |
+| 47 | [#Alonso](http://twitter.com/search?q=%23Alonso) | N/A |
+| 48 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
+| 49 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 50 | [#famigliearcobaleno](http://twitter.com/search?q=%23famigliearcobaleno) | N/A |
 
 
 

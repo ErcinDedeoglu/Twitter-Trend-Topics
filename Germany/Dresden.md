@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-19 17:16:19 UTC`
+📆 Last Updated: `2023-03-19 18:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
+| 1 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
 | 2 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
-| 3 | [#schwiegertochtergesucht](http://twitter.com/search?q=%23schwiegertochtergesucht) | N/A |
-| 4 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 6 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 8 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 9 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
-| 10 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 11 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 12 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
-| 13 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 14 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 16 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 19 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 20 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 21 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 22 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 23 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
-| 24 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
-| 25 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 26 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 27 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 28 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 29 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 30 | [kriegsverbrecher](http://twitter.com/search?q=kriegsverbrecher) | N/A |
-| 31 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 32 | [Unis](http://twitter.com/search?q=Unis) | N/A |
-| 33 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
-| 34 | [Trapp](http://twitter.com/search?q=Trapp) | N/A |
-| 35 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 36 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
-| 37 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 38 | [Zieler](http://twitter.com/search?q=Zieler) | N/A |
-| 39 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 40 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 41 | [Professur](http://twitter.com/search?q=Professur) | N/A |
-| 42 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
-| 43 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 44 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
-| 45 | [Kirmes](http://twitter.com/search?q=Kirmes) | N/A |
-| 46 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 47 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
-| 48 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
-| 49 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 4 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
+| 5 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
+| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 7 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 8 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 9 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 10 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 12 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 13 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 14 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 16 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 17 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 18 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 19 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 20 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
+| 21 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
+| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 23 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 25 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 26 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 27 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 28 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 30 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 31 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 34 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 35 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 36 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 37 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 38 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 39 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 40 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 41 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 42 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 43 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
+| 44 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 45 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 46 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
+| 47 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 48 | [Videobeweis](http://twitter.com/search?q=Videobeweis) | N/A |
+| 49 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
 
 
 

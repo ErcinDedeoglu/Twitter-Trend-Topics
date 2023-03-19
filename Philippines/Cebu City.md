@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-19 17:16:31 UTC`
+📆 Last Updated: `2023-03-19 18:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,42 +24,36 @@ This is top 50 for [Philippines](</Philippines>)
 | 7 | [#SPCAtlas2023Day1](http://twitter.com/search?q=%23SPCAtlas2023Day1) | N/A |
 | 8 | [JC IN HIPHOP PINOY BEAT](http://twitter.com/search?q=JC+IN+HIPHOP+PINOY+BEAT) | N/A |
 | 9 | [KEP1ER IS LOVESTRUCK](http://twitter.com/search?q=KEP1ER+IS+LOVESTRUCK) | N/A |
-| 10 | [IANGAT ANG PPOP](http://twitter.com/search?q=IANGAT+ANG+PPOP) | N/A |
-| 11 | [HORI7ON GROUP PHOTO TEASER](http://twitter.com/search?q=HORI7ON+GROUP+PHOTO+TEASER) | N/A |
-| 12 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 13 | [Love Story](http://twitter.com/search?q=Love+Story) | N/A |
-| 14 | [Youngjae](http://twitter.com/search?q=Youngjae) | N/A |
-| 15 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 16 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 10 | [HORI7ON GROUP PHOTO TEASER](http://twitter.com/search?q=HORI7ON+GROUP+PHOTO+TEASER) | N/A |
+| 11 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 13 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 14 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 15 | [Love Story](http://twitter.com/search?q=Love+Story) | N/A |
+| 16 | [Youngjae](http://twitter.com/search?q=Youngjae) | N/A |
 | 17 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 18 | [VIVOREE BENCHRUNWAY DEBUT](http://twitter.com/search?q=VIVOREE+BENCHRUNWAY+DEBUT) | N/A |
-| 19 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 20 | [#BOBBYSOLOSINGLE_D1](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D1) | N/A |
-| 21 | [#AAtlasWeWillReignAgain](http://twitter.com/search?q=%23AAtlasWeWillReignAgain) | N/A |
-| 22 | [#HORI7ON_DASH_D2](http://twitter.com/search?q=%23HORI7ON_DASH_D2) | N/A |
-| 23 | [#D21toLOVESTRUCK](http://twitter.com/search?q=%23D21toLOVESTRUCK) | N/A |
-| 24 | [#SPCIntramurals2023](http://twitter.com/search?q=%23SPCIntramurals2023) | N/A |
-| 25 | [#KnightsShowYourMight](http://twitter.com/search?q=%23KnightsShowYourMight) | N/A |
-| 26 | [#AKBoldAndBright](http://twitter.com/search?q=%23AKBoldAndBright) | N/A |
-| 27 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 28 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 29 | [#PasigLaban](http://twitter.com/search?q=%23PasigLaban) | N/A |
-| 30 | [#ETONCENTRIS](http://twitter.com/search?q=%23ETONCENTRIS) | N/A |
-| 31 | [#PopsterSpace](http://twitter.com/search?q=%23PopsterSpace) | N/A |
-| 32 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 33 | [#HAPEACH_YUJIN_DAY](http://twitter.com/search?q=%23HAPEACH_YUJIN_DAY) | N/A |
-| 34 | [#KawaiRuka21Birthday](http://twitter.com/search?q=%23KawaiRuka21Birthday) | N/A |
-| 35 | [#우리_힙합_맏내_루카_데이](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ed%9e%99%ed%95%a9_%eb%a7%8f%eb%82%b4_%eb%a3%a8%ec%b9%b4_%eb%8d%b0%ec%9d%b4) | N/A |
-| 36 | [#お誕生日おめ河井瑠花](http://twitter.com/search?q=%23%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%8a%e3%82%81%e6%b2%b3%e4%ba%95%e7%91%a0%e8%8a%b1) | N/A |
-| 37 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
-| 38 | [#WILDTONIGHTinDubai](http://twitter.com/search?q=%23WILDTONIGHTinDubai) | N/A |
-| 39 | [#DROWNING](http://twitter.com/search?q=%23DROWNING) | N/A |
-| 40 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
-| 41 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
-| 42 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
-| 43 | [#MySchoolPresidentOnStageD2](http://twitter.com/search?q=%23MySchoolPresidentOnStageD2) | N/A |
-| 44 | [#daigpuppetmaster](http://twitter.com/search?q=%23daigpuppetmaster) | N/A |
-| 45 | [#DavidLicaucoForBENCH](http://twitter.com/search?q=%23DavidLicaucoForBENCH) | N/A |
+| 18 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 19 | [#BOBBYSOLOSINGLE_D1](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D1) | N/A |
+| 20 | [#AAtlasWeWillReignAgain](http://twitter.com/search?q=%23AAtlasWeWillReignAgain) | N/A |
+| 21 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 22 | [#SPCIntramurals2023](http://twitter.com/search?q=%23SPCIntramurals2023) | N/A |
+| 23 | [#KnightsShowYourMight](http://twitter.com/search?q=%23KnightsShowYourMight) | N/A |
+| 24 | [#AKBoldAndBright](http://twitter.com/search?q=%23AKBoldAndBright) | N/A |
+| 25 | [#HORI7ON_DASH_D2](http://twitter.com/search?q=%23HORI7ON_DASH_D2) | N/A |
+| 26 | [#PasigLaban](http://twitter.com/search?q=%23PasigLaban) | N/A |
+| 27 | [#D21toLOVESTRUCK](http://twitter.com/search?q=%23D21toLOVESTRUCK) | N/A |
+| 28 | [#PPOPCOM2023](http://twitter.com/search?q=%23PPOPCOM2023) | N/A |
+| 29 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
+| 30 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 31 | [#ETONCENTRIS](http://twitter.com/search?q=%23ETONCENTRIS) | N/A |
+| 32 | [#HAPEACH_YUJIN_DAY](http://twitter.com/search?q=%23HAPEACH_YUJIN_DAY) | N/A |
+| 33 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
+| 34 | [#WILDTONIGHTinDubai](http://twitter.com/search?q=%23WILDTONIGHTinDubai) | N/A |
+| 35 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
+| 36 | [#DROWNING](http://twitter.com/search?q=%23DROWNING) | N/A |
+| 37 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
+| 38 | [#MySchoolPresidentOnStageD2](http://twitter.com/search?q=%23MySchoolPresidentOnStageD2) | N/A |
+| 39 | [#DaigPuppetMaster](http://twitter.com/search?q=%23DaigPuppetMaster) | N/A |
 
 
 

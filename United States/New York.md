@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-19 17:16:49 UTC`
+📆 Last Updated: `2023-03-19 18:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 2 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 3 | [#UnitedNYCHalf](http://twitter.com/search?q=%23UnitedNYCHalf) | N/A |
-| 4 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 5 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 6 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 7 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 2 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 4 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 5 | [#UnitedNYCHalf](http://twitter.com/search?q=%23UnitedNYCHalf) | N/A |
+| 6 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 7 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 | 8 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 9 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
-| 10 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 11 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 12 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 13 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 14 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
-| 17 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 18 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
-| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 20 | [Jen Psaki](http://twitter.com/search?q=Jen+Psaki) | N/A |
-| 21 | [Martin Brundle](http://twitter.com/search?q=Martin+Brundle) | N/A |
-| 22 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 23 | [Dexter](http://twitter.com/search?q=Dexter) | N/A |
-| 24 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 25 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 27 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 28 | [Tunsil](http://twitter.com/search?q=Tunsil) | N/A |
-| 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 30 | [Hankins](http://twitter.com/search?q=Hankins) | N/A |
-| 31 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 32 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 33 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 34 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
-| 35 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
-| 36 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
-| 37 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 38 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
-| 39 | [Profar](http://twitter.com/search?q=Profar) | N/A |
-| 40 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 41 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 42 | [Colby Jones](http://twitter.com/search?q=Colby+Jones) | N/A |
-| 43 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
-| 44 | [Jost](http://twitter.com/search?q=Jost) | N/A |
-| 45 | [Amari](http://twitter.com/search?q=Amari) | N/A |
-| 46 | [Ceedee](http://twitter.com/search?q=Ceedee) | N/A |
+| 9 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 10 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 11 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
+| 12 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 13 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 14 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 15 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
+| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 18 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 19 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 20 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 21 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 23 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 24 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 25 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 26 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 27 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 28 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 29 | [Dexter](http://twitter.com/search?q=Dexter) | N/A |
+| 30 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
+| 31 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
+| 32 | [Jen Psaki](http://twitter.com/search?q=Jen+Psaki) | N/A |
+| 33 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 34 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 35 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 36 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 38 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 39 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 40 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 41 | [Nunge](http://twitter.com/search?q=Nunge) | N/A |
+| 42 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
+| 43 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 44 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 45 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 46 | [Hankins](http://twitter.com/search?q=Hankins) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-19 17:16:19 UTC`
+📆 Last Updated: `2023-03-19 18:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
+| 1 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
 | 2 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
-| 3 | [#schwiegertochtergesucht](http://twitter.com/search?q=%23schwiegertochtergesucht) | N/A |
-| 4 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 6 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 7 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 8 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
-| 9 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 10 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 11 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
-| 12 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 13 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 19 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 20 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 21 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 22 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
-| 23 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
-| 24 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 25 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 26 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 27 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 28 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 29 | [kriegsverbrecher](http://twitter.com/search?q=kriegsverbrecher) | N/A |
-| 30 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 31 | [Unis](http://twitter.com/search?q=Unis) | N/A |
-| 32 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
-| 33 | [Trapp](http://twitter.com/search?q=Trapp) | N/A |
-| 34 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 35 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
-| 36 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 37 | [Zieler](http://twitter.com/search?q=Zieler) | N/A |
-| 38 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 39 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 40 | [Professur](http://twitter.com/search?q=Professur) | N/A |
-| 41 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
-| 42 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 43 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
-| 44 | [Kirmes](http://twitter.com/search?q=Kirmes) | N/A |
-| 45 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 46 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
-| 47 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
-| 48 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 49 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 4 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
+| 5 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
+| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 7 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 8 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 9 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 10 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 12 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 13 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 16 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 17 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 18 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 19 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
+| 20 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 21 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
+| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 23 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 24 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 25 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 27 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 28 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 31 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 32 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 33 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 35 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 36 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 37 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 38 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
+| 39 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 40 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 41 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
+| 42 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 43 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 44 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 45 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
+| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 47 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 48 | [Unis](http://twitter.com/search?q=Unis) | N/A |
+| 49 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 
 
 

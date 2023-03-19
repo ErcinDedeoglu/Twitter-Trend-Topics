@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-19 17:16:19 UTC`
+📆 Last Updated: `2023-03-19 18:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
+| 1 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
 | 2 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
-| 3 | [#schwiegertochtergesucht](http://twitter.com/search?q=%23schwiegertochtergesucht) | N/A |
-| 4 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 6 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 7 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 8 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
-| 9 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 12 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
-| 13 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 14 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 16 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 19 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 20 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 21 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 22 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
-| 23 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
-| 24 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 25 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 26 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 27 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 28 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 29 | [kriegsverbrecher](http://twitter.com/search?q=kriegsverbrecher) | N/A |
-| 30 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 31 | [Unis](http://twitter.com/search?q=Unis) | N/A |
-| 32 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
-| 33 | [Trapp](http://twitter.com/search?q=Trapp) | N/A |
-| 34 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 35 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
-| 36 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 37 | [Zieler](http://twitter.com/search?q=Zieler) | N/A |
-| 38 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 39 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 40 | [Professur](http://twitter.com/search?q=Professur) | N/A |
-| 41 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
-| 42 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 43 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
-| 44 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
-| 45 | [Kirmes](http://twitter.com/search?q=Kirmes) | N/A |
-| 46 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 47 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
-| 48 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 49 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 4 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
+| 5 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
+| 6 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 7 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 8 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 9 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 10 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 13 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
+| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 15 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 16 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 18 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 20 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 21 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 22 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 23 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
+| 24 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 25 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
+| 26 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 27 | [Partie](http://twitter.com/search?q=Partie) | N/A |
+| 28 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
+| 29 | [#3Worte1Account](http://twitter.com/search?q=%233Worte1Account) | N/A |
+| 30 | [#schwiegertochtergesucht](http://twitter.com/search?q=%23schwiegertochtergesucht) | N/A |
+| 31 | [#MyHomeIsMyCastle](http://twitter.com/search?q=%23MyHomeIsMyCastle) | N/A |
+| 32 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 33 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
+| 34 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 35 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 36 | [#EBSH96](http://twitter.com/search?q=%23EBSH96) | N/A |
+| 37 | [#Formel1](http://twitter.com/search?q=%23Formel1) | N/A |
+| 38 | [#svsfcsp](http://twitter.com/search?q=%23svsfcsp) | N/A |
+| 39 | [#Bayer04](http://twitter.com/search?q=%23Bayer04) | N/A |
+| 40 | [#M05SCF](http://twitter.com/search?q=%23M05SCF) | N/A |
+| 41 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
+| 42 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
+| 43 | [#Münster](http://twitter.com/search?q=%23M%c3%bcnster) | N/A |
+| 44 | [#FCHF95](http://twitter.com/search?q=%23FCHF95) | N/A |
+| 45 | [#Messer](http://twitter.com/search?q=%23Messer) | N/A |
+| 46 | [#immerblaugelb](http://twitter.com/search?q=%23immerblaugelb) | N/A |
+| 47 | [#SperrtHomburg](http://twitter.com/search?q=%23SperrtHomburg) | N/A |
 
 
 

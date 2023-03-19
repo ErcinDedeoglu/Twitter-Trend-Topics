@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-19 17:16:34 UTC`
+📆 Last Updated: `2023-03-19 18:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
-| 2 | [#HealingStreamsGrandFinale](http://twitter.com/search?q=%23HealingStreamsGrandFinale) | N/A |
-| 3 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 4 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 5 | [Victor Osimhen](http://twitter.com/search?q=Victor+Osimhen) | Victor Osimhen is a Nigerian professional footballer who plays as a forward for Lille in the French Ligue 1. His name is derived from the Yoruba language, with "Osimhen" meaning "God has done it". |
-| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 8 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 9 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 10 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 11 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 12 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
-| 13 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 14 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
-| 15 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
-| 16 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
-| 17 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 18 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 19 | [Chude](http://twitter.com/search?q=Chude) | N/A |
-| 20 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 21 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 22 | [Oshimen](http://twitter.com/search?q=Oshimen) | Oshimen is a Japanese term used to describe a person's favorite member of an idol group. It is derived from the words "oshi" (推し) meaning "push" or "support", and "men" (面) meaning "face". In English, it can be translated as "favorite idol". |
-| 23 | [Cyber](http://twitter.com/search?q=Cyber) | N/A |
-| 24 | [Igbos in Lagos](http://twitter.com/search?q=Igbos+in+Lagos) | N/A |
-| 25 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
-| 26 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 27 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 28 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
-| 29 | [Happy Hour](http://twitter.com/search?q=Happy+Hour) | N/A |
-| 30 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
-| 31 | [YEMI CREGX BIRTHDAY EVE](http://twitter.com/search?q=YEMI+CREGX+BIRTHDAY+EVE) | N/A |
-| 32 | [big fool](http://twitter.com/search?q=big+fool) | N/A |
-| 33 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 34 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 35 | [LGAs](http://twitter.com/search?q=LGAs) | N/A |
-| 36 | [Teslim Folarin](http://twitter.com/search?q=Teslim+Folarin) | N/A |
-| 37 | [Omituntun 2.0](http://twitter.com/search?q=Omituntun+2.0) | N/A |
-| 38 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
-| 39 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
-| 40 | [Abba](http://twitter.com/search?q=Abba) | N/A |
-| 41 | [Hausas](http://twitter.com/search?q=Hausas) | N/A |
-| 42 | [Nasarawa](http://twitter.com/search?q=Nasarawa) | N/A |
-| 43 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
-| 44 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 45 | [Tribal](http://twitter.com/search?q=Tribal) | N/A |
-| 46 | [#MUNFUL](http://twitter.com/search?q=%23MUNFUL) | N/A |
-| 47 | [#Chimaroke](http://twitter.com/search?q=%23Chimaroke) | N/A |
-| 48 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
+| 1 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 2 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 3 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 4 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 5 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 6 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 7 | [Cherry Entafield](http://twitter.com/search?q=Cherry+Entafield) | N/A |
+| 8 | [#MUNFUL](http://twitter.com/search?q=%23MUNFUL) | N/A |
+| 9 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
+| 10 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 11 | [#HealingStreamsGrandFinale](http://twitter.com/search?q=%23HealingStreamsGrandFinale) | N/A |
+| 12 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 13 | [Aisha Binani](http://twitter.com/search?q=Aisha+Binani) | N/A |
+| 14 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 15 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 16 | [Governor in Nigeria](http://twitter.com/search?q=Governor+in+Nigeria) | N/A |
+| 17 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 18 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 19 | [Madam Governor](http://twitter.com/search?q=Madam+Governor) | N/A |
+| 20 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 21 | [Victor Osimhen](http://twitter.com/search?q=Victor+Osimhen) | Victor Osimhen is a Nigerian professional footballer who plays as a forward for Lille in the French Ligue 1. His name is derived from the Yoruba language, with "Osimhen" meaning "God has done it". |
+| 22 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 23 | [First Gentleman](http://twitter.com/search?q=First+Gentleman) | N/A |
+| 24 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 25 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 26 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 27 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 28 | [Her Excellency](http://twitter.com/search?q=Her+Excellency) | N/A |
+| 29 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 30 | [Elected](http://twitter.com/search?q=Elected) | N/A |
+| 31 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 32 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 33 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 35 | [Happy Hour](http://twitter.com/search?q=Happy+Hour) | N/A |
+| 36 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 37 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 38 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 39 | [Inconclusive](http://twitter.com/search?q=Inconclusive) | N/A |
+| 40 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 41 | [Igbos in Lagos](http://twitter.com/search?q=Igbos+in+Lagos) | N/A |
+| 42 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 43 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
+| 44 | [Oshimen](http://twitter.com/search?q=Oshimen) | Oshimen is a Japanese term used to describe a person's favorite member of an idol group. It is derived from the words "oshi" (推し) meaning "push" or "support", and "men" (面) meaning "face". In English, it can be translated as "favorite idol". |
+| 45 | [Dapo Abiodun](http://twitter.com/search?q=Dapo+Abiodun) | N/A |
+| 46 | [The North](http://twitter.com/search?q=The+North) | N/A |
+| 47 | [Yola](http://twitter.com/search?q=Yola) | N/A |
+| 48 | [Cyber](http://twitter.com/search?q=Cyber) | N/A |
 
 
 

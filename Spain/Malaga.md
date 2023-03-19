@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-03-19 17:16:22 UTC`
+📆 Last Updated: `2023-03-19 18:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 3 | [Pulido](http://twitter.com/search?q=Pulido) | N/A |
-| 4 | [Zapater](http://twitter.com/search?q=Zapater) | N/A |
-| 5 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 6 | [#HuescaRealZaragoza](http://twitter.com/search?q=%23HuescaRealZaragoza) | N/A |
-| 7 | [#RealSociedadElche](http://twitter.com/search?q=%23RealSociedadElche) | N/A |
-| 8 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 9 | [#KingsLeagueJ11](http://twitter.com/search?q=%23KingsLeagueJ11) | N/A |
-| 10 | [Vamos Nano](http://twitter.com/search?q=Vamos+Nano) | N/A |
-| 11 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
-| 12 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
-| 13 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
-| 14 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 15 | [Obeng](http://twitter.com/search?q=Obeng) | N/A |
-| 16 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
-| 17 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
-| 18 | [Rubiales](http://twitter.com/search?q=Rubiales) | N/A |
-| 19 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 20 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 21 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
-| 22 | [GENIUS DANCER HYUNJIN](http://twitter.com/search?q=GENIUS+DANCER+HYUNJIN) | N/A |
-| 23 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 24 | [Aihen](http://twitter.com/search?q=Aihen) | N/A |
-| 25 | [El Alcoraz](http://twitter.com/search?q=El+Alcoraz) | N/A |
-| 26 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 27 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 28 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
-| 29 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 30 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 31 | [Gorosabel](http://twitter.com/search?q=Gorosabel) | N/A |
-| 32 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 33 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
-| 34 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
+| 1 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
+| 2 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 4 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 5 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 6 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 7 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 8 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 9 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 10 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 11 | [Zapater](http://twitter.com/search?q=Zapater) | N/A |
+| 12 | [Pulido](http://twitter.com/search?q=Pulido) | N/A |
+| 13 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 15 | [#HuescaRealZaragoza](http://twitter.com/search?q=%23HuescaRealZaragoza) | N/A |
+| 16 | [Carpena](http://twitter.com/search?q=Carpena) | N/A |
+| 17 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 18 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 19 | [#KingsLeagueJ11](http://twitter.com/search?q=%23KingsLeagueJ11) | N/A |
+| 20 | [#RealSociedadElche](http://twitter.com/search?q=%23RealSociedadElche) | N/A |
+| 21 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 22 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 23 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 24 | [Vamos Nano](http://twitter.com/search?q=Vamos+Nano) | N/A |
+| 25 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
+| 26 | [Quiles](http://twitter.com/search?q=Quiles) | N/A |
+| 27 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 28 | [Aihen](http://twitter.com/search?q=Aihen) | N/A |
+| 29 | [Celta B](http://twitter.com/search?q=Celta+B) | N/A |
+| 30 | [Depor](http://twitter.com/search?q=Depor) | N/A |
+| 31 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 32 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 33 | [Cultural](http://twitter.com/search?q=Cultural) | N/A |
+| 34 | [El Alcoraz](http://twitter.com/search?q=El+Alcoraz) | N/A |
 | 35 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 36 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 37 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 38 | [Geri](http://twitter.com/search?q=Geri) | N/A |
-| 39 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
-| 40 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
-| 41 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
-| 42 | [Churros](http://twitter.com/search?q=Churros) | N/A |
-| 43 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 44 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 45 | [Father's Day](http://twitter.com/search?q=Father%27s+Day) | N/A |
-| 46 | [Cómo 33](http://twitter.com/search?q=C%c3%b3mo+33) | N/A |
-| 47 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 48 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
-| 49 | [Panda](http://twitter.com/search?q=Panda) | N/A |
-| 50 | [Benito Villamarín](http://twitter.com/search?q=Benito+Villamar%c3%adn) | N/A |
+| 36 | [Obeng](http://twitter.com/search?q=Obeng) | N/A |
+| 37 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
+| 38 | [Eva Hache](http://twitter.com/search?q=Eva+Hache) | N/A |
+| 39 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 40 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
+| 41 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 42 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
+| 43 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 44 | [Villares](http://twitter.com/search?q=Villares) | N/A |
+| 45 | [La F1](http://twitter.com/search?q=La+F1) | N/A |
+| 46 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
+| 47 | [Antoñito](http://twitter.com/search?q=Anto%c3%b1ito) | N/A |
+| 48 | [Reino de León](http://twitter.com/search?q=Reino+de+Le%c3%b3n) | N/A |
+| 49 | [GENIUS DANCER HYUNJIN](http://twitter.com/search?q=GENIUS+DANCER+HYUNJIN) | N/A |
+| 50 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
 
 
 

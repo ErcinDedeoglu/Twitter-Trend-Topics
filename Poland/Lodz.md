@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-19 17:16:16 UTC`
+📆 Last Updated: `2023-03-19 18:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#highleague6](http://twitter.com/search?q=%23highleague6) | N/A |
-| 2 | [#WIDLPO](http://twitter.com/search?q=%23WIDLPO) | N/A |
-| 3 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 4 | [#RCHŁKS](http://twitter.com/search?q=%23RCH%c5%81KS) | N/A |
+| 1 | [#WIDLPO](http://twitter.com/search?q=%23WIDLPO) | N/A |
+| 2 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
+| 3 | [#highleague6](http://twitter.com/search?q=%23highleague6) | N/A |
+| 4 | [Velde](http://twitter.com/search?q=Velde) | N/A |
 | 5 | [Żywcu](http://twitter.com/search?q=%c5%bbywcu) | N/A |
-| 6 | [Feddek](http://twitter.com/search?q=Feddek) | N/A |
-| 7 | [Sebastian Szymański](http://twitter.com/search?q=Sebastian+Szyma%c5%84ski) | N/A |
-| 8 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 9 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
-| 10 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 11 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 12 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 13 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 14 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 15 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
-| 16 | [Jakub Kiwior](http://twitter.com/search?q=Jakub+Kiwior) | Jakub Kiwior is a Polish surname. In English, it translates to "Kiwior of Jacob". |
+| 6 | [#F1PL](http://twitter.com/search?q=%23F1PL) | N/A |
+| 7 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 8 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 10 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
+| 11 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 12 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 13 | [Feddek](http://twitter.com/search?q=Feddek) | N/A |
+| 14 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 15 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 16 | [Marchwiński](http://twitter.com/search?q=Marchwi%c5%84ski) | N/A |
 | 17 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 18 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 19 | [El Clasico](http://twitter.com/search?q=El+Clasico) | N/A |
-| 20 | [Najman](http://twitter.com/search?q=Najman) | N/A |
-| 21 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
-| 22 | [Stefan Kraft](http://twitter.com/search?q=Stefan+Kraft) | N/A |
-| 23 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
-| 24 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 25 | [Gliwicach](http://twitter.com/search?q=Gliwicach) | N/A |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Fannemela](http://twitter.com/search?q=Fannemela) | N/A |
-| 28 | [Raw Air](http://twitter.com/search?q=Raw+Air) | N/A |
-| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 30 | [Dera](http://twitter.com/search?q=Dera) | N/A |
-| 31 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
-| 32 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 33 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
-| 34 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
-| 35 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 36 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
-| 37 | [Flaki](http://twitter.com/search?q=Flaki) | N/A |
-| 38 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 39 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 40 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 41 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 42 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
-| 43 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 44 | [ŁKSu](http://twitter.com/search?q=%c5%81KSu) | N/A |
+| 18 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 19 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 20 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 21 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 22 | [Najman](http://twitter.com/search?q=Najman) | N/A |
+| 23 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 24 | [Stefan Kraft](http://twitter.com/search?q=Stefan+Kraft) | N/A |
+| 25 | [Szymczak](http://twitter.com/search?q=Szymczak) | N/A |
+| 26 | [Maxa](http://twitter.com/search?q=Maxa) | N/A |
+| 27 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
+| 28 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
+| 29 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 30 | [Pereza](http://twitter.com/search?q=Pereza) | N/A |
+| 31 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 32 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
+| 33 | [Fannemela](http://twitter.com/search?q=Fannemela) | N/A |
+| 34 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 35 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 36 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 37 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 38 | [Dera](http://twitter.com/search?q=Dera) | N/A |
+| 39 | [Jakub Kiwior](http://twitter.com/search?q=Jakub+Kiwior) | Jakub Kiwior is a Polish surname. In English, it translates to "Kiwior of Jacob". |
+| 40 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
+| 41 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 42 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 43 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
+| 44 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 45 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
-| 46 | [andersa](http://twitter.com/search?q=andersa) | N/A |
-| 47 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 48 | [daro lew](http://twitter.com/search?q=daro+lew) | N/A |
-| 49 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 46 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 47 | [Pawłowskiego](http://twitter.com/search?q=Paw%c5%82owskiego) | N/A |
+| 48 | [Flaki](http://twitter.com/search?q=Flaki) | N/A |
+| 49 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
 
 
 

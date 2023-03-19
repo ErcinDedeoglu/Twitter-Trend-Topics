@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-19 17:16:15 UTC`
+📆 Last Updated: `2023-03-19 18:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Goltz](http://twitter.com/search?q=Goltz) | N/A |
-| 2 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 3 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 4 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 7 | [#LaPeñaDeMorfi](http://twitter.com/search?q=%23LaPe%c3%b1aDeMorfi) | N/A |
-| 8 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 9 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 10 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 11 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 12 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 13 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 15 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
-| 16 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 17 | [Fabián Ruiz](http://twitter.com/search?q=Fabi%c3%a1n+Ruiz) | N/A |
-| 18 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 19 | [Tan Biónica](http://twitter.com/search?q=Tan+Bi%c3%b3nica) | N/A |
-| 20 | [#JisooDebutMarch31](http://twitter.com/search?q=%23JisooDebutMarch31) | N/A |
-| 21 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 22 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
-| 23 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 24 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 25 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 26 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
-| 27 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 30 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 31 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 32 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 33 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 34 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 35 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 36 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
-| 37 | [UN MILLÓN DE PRIMOS](http://twitter.com/search?q=UN+MILL%c3%93N+DE+PRIMOS) | N/A |
-| 38 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 39 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
-| 40 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 41 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 42 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
-| 43 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 44 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 45 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 46 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 47 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
-| 48 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
-| 49 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 50 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 1 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 2 | [#LaPeñaDeMorfi](http://twitter.com/search?q=%23LaPe%c3%b1aDeMorfi) | N/A |
+| 3 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 4 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 5 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 6 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 7 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 10 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 11 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 12 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 13 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 14 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 15 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 16 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 17 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 18 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 19 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 20 | [Fabián Ruiz](http://twitter.com/search?q=Fabi%c3%a1n+Ruiz) | N/A |
+| 21 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 22 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 23 | [ESTA LLOVIENDO](http://twitter.com/search?q=ESTA+LLOVIENDO) | N/A |
+| 24 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 25 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 26 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 27 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 28 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
+| 29 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 30 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
+| 31 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 32 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 33 | [La Volpe](http://twitter.com/search?q=La+Volpe) | N/A |
+| 34 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 35 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 36 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 37 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 38 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 39 | [Guede](http://twitter.com/search?q=Guede) | N/A |
+| 40 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 41 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
+| 42 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 43 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
+| 44 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 45 | [Bariloche](http://twitter.com/search?q=Bariloche) | N/A |
+| 46 | [Infobae](http://twitter.com/search?q=Infobae) | N/A |
+| 47 | [Rafaela](http://twitter.com/search?q=Rafaela) | N/A |
+| 48 | [La Konga](http://twitter.com/search?q=La+Konga) | N/A |
+| 49 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
 
 
 

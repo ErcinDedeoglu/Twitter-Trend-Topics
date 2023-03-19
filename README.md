@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-19 17:16:04 UTC`
+📆 Last Updated: `2023-03-19 18:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 2 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 3 | [#日向坂で会いましょう](http://twitter.com/search?q=%23%e6%97%a5%e5%90%91%e5%9d%82%e3%81%a7%e4%bc%9a%e3%81%84%e3%81%be%e3%81%97%e3%82%87%e3%81%86) | #日向坂で会いましょう is a Japanese phrase that translates to "Let's meet at Hinatazaka". It is a reference to the popular Japanese idol group Hinatazaka46. |
-| 4 | [丹生ちゃん](http://twitter.com/search?q=%e4%b8%b9%e7%94%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 5 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 6 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
-| 7 | [飛鳥ちゃん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%a1%e3%82%83%e3%82%93) | 飛鳥ちゃん is a nickname for the Japanese actress Asuka Kudo. It is derived from her given name, which can be translated to "flying bird" in English. |
-| 8 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 9 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 12 | [アニメ化](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | アニメ化 (anime-ka) is a Japanese term that means "animation adaptation". It refers to the process of adapting a story or concept into an animated series or film. |
-| 13 | [Mete Kalkavan](http://twitter.com/search?q=Mete+Kalkavan) | Mete Kalkavan is a Turkish phrase that translates to "the brave sailor". It is often used as a term of endearment for someone who is brave and courageous. |
-| 14 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 15 | [GSBtayiniOlumluAçıkla](http://twitter.com/search?q=GSBtayiniOlumluA%c3%a7%c4%b1kla) | N/A |
-| 16 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 17 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
-| 18 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 20 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 21 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 22 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 23 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 24 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 25 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 26 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
-| 27 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
-| 28 | [にぶちゃんセンター](http://twitter.com/search?q=%e3%81%ab%e3%81%b6%e3%81%a1%e3%82%83%e3%82%93%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 29 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 30 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 31 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 32 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 33 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 34 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 35 | [ヒョンジン](http://twitter.com/search?q=%e3%83%92%e3%83%a7%e3%83%b3%e3%82%b8%e3%83%b3) | N/A |
-| 36 | [Osayi](http://twitter.com/search?q=Osayi) | Osayi is a Nigerian name that means "God's gift". It is derived from the Yoruba language. |
-| 37 | [Alanyaspor - Fenerbahçe](http://twitter.com/search?q=Alanyaspor+-+Fenerbah%c3%a7e) | N/A |
-| 38 | [松井先生](http://twitter.com/search?q=%e6%9d%be%e4%ba%95%e5%85%88%e7%94%9f) | N/A |
-| 39 | [Kırmızı](http://twitter.com/search?q=K%c4%b1rm%c4%b1z%c4%b1) | Kırmızı is the Turkish word for "red". |
-| 40 | [上手の若君](http://twitter.com/search?q=%e4%b8%8a%e6%89%8b%e3%81%ae%e8%8b%a5%e5%90%9b) | N/A |
-| 41 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
-| 42 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 43 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 44 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 45 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
-| 46 | [キヴィオル](http://twitter.com/search?q=%e3%82%ad%e3%83%b4%e3%82%a3%e3%82%aa%e3%83%ab) | N/A |
-| 47 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 48 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
-| 49 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
-| 50 | [Toko Ekambi](http://twitter.com/search?q=Toko+Ekambi) | Toko Ekambi is a traditional African dance originating from the Ivory Coast. It is a fast-paced, energetic dance that involves clapping, stomping, and singing. The name "Toko Ekambi" translates to "dance of joy" in English. |
+| 1 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 3 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
+| 4 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 5 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [#ALYvFB](http://twitter.com/search?q=%23ALYvFB) | N/A |
+| 9 | [#MUNFUL](http://twitter.com/search?q=%23MUNFUL) | N/A |
+| 10 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 12 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 13 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 14 | [丹生ちゃん](http://twitter.com/search?q=%e4%b8%b9%e7%94%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 15 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 16 | [Mete Kalkavan](http://twitter.com/search?q=Mete+Kalkavan) | Mete Kalkavan is a Turkish phrase that translates to "the brave sailor". It is often used as a term of endearment for someone who is brave and courageous. |
+| 17 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 18 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 19 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 21 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 22 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 23 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 24 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 25 | [DiplomaDenklik Geleceğimiz](http://twitter.com/search?q=DiplomaDenklik+Gelece%c4%9fimiz) | N/A |
+| 26 | [飛鳥ちゃん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%a1%e3%82%83%e3%82%93) | 飛鳥ちゃん is a nickname for the Japanese actress Asuka Kudo. It is derived from her given name, which can be translated to "flying bird" in English. |
+| 27 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 28 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 29 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 30 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 32 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 33 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
+| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 35 | [アニメ化](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | アニメ化 (anime-ka) is a Japanese term that means "animation adaptation". It refers to the process of adapting a story or concept into an animated series or film. |
+| 36 | [GSBtayiniOlumluAçıkla](http://twitter.com/search?q=GSBtayiniOlumluA%c3%a7%c4%b1kla) | N/A |
+| 37 | [Emre Mor](http://twitter.com/search?q=Emre+Mor) | Emre Mor is a Turkish professional footballer who plays as a winger for Galatasaray. His name is derived from the Turkish words "emre" (meaning "love") and "mor" (meaning "purple"). |
+| 38 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 39 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
+| 40 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 41 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 42 | [ويليان](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%86) | ويليان (pronounced "Villian") is an Arabic name meaning "strong-willed". It is often used as a given name for boys. |
+| 43 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
+| 44 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 45 | [Osayi](http://twitter.com/search?q=Osayi) | Osayi is a Nigerian name that means "God's gift". It is derived from the Yoruba language. |
+| 46 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
+| 47 | [Kırmızı](http://twitter.com/search?q=K%c4%b1rm%c4%b1z%c4%b1) | Kırmızı is the Turkish word for "red". |
+| 48 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 49 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
+| 50 | [DepremŞartlı YapıKayıt](http://twitter.com/search?q=Deprem%c5%9eartl%c4%b1+Yap%c4%b1Kay%c4%b1t) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-19 17:16:40 UTC`
+📆 Last Updated: `2023-03-19 18:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Oman](</Oman>)
 | 10 | [سعيد وزير الثقافه](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%87) | N/A |
 | 11 | [نور الهكمانايت](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%87%d9%83%d9%85%d8%a7%d9%86%d8%a7%d9%8a%d8%aa) | N/A |
 | 12 | [27 يناير 2019](http://twitter.com/search?q=27+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1+2019) | N/A |
-| 13 | [دوري عمانتل](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%b9%d9%85%d8%a7%d9%86%d8%aa%d9%84) | N/A |
-| 14 | [الامانه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 13 | [الامانه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 14 | [دوري عمانتل](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%b9%d9%85%d8%a7%d9%86%d8%aa%d9%84) | N/A |
 | 15 | [الخدمه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 | 16 | [نادي الوحده](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
-| 17 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 18 | [يزن بن هيثم](http://twitter.com/search?q=%d9%8a%d8%b2%d9%86+%d8%a8%d9%86+%d9%87%d9%8a%d8%ab%d9%85) | N/A |
-| 19 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 20 | [المجلس البلدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a) | N/A |
-| 21 | [الشباب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
-| 22 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 23 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 17 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 18 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 19 | [يزن بن هيثم](http://twitter.com/search?q=%d9%8a%d8%b2%d9%86+%d8%a8%d9%86+%d9%87%d9%8a%d8%ab%d9%85) | N/A |
+| 20 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 21 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 22 | [المجلس البلدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a) | N/A |
+| 23 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
 | 24 | [الرويه المستقبليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
-| 25 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 25 | [الدبلوم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 26 | [الامطار المتوقعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d9%82%d8%b9%d9%87) | N/A |
-| 27 | [الدبلوم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 27 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
 | 28 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 29 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
-| 30 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 29 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 30 | [شهر رمضان المبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 31 | [الموتمر الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 32 | [دوري الاضواء](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b6%d9%88%d8%a7%d8%a1) | N/A |
-| 33 | [التوازن المالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b2%d9%86+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
-| 34 | [احمد العويسي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3%d9%8a) | N/A |
-| 35 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 36 | [المكان المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
-| 37 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 38 | [شهر رمضان المبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 39 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 40 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
-| 41 | [الجلسه الحواريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 42 | [الامان الوظيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%88%d8%b8%d9%8a%d9%81%d9%8a) | N/A |
-| 43 | [الاستدامه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 44 | [الاجراءات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 45 | [سينما الرسيل](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d9%85%d8%a7+%d8%a7%d9%84%d8%b1%d8%b3%d9%8a%d9%84) | N/A |
-| 46 | [الموسسات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 47 | [توكل علي](http://twitter.com/search?q=%d8%aa%d9%88%d9%83%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
-| 48 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 49 | [النهج السامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%ac+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
-| 50 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 32 | [الانشطه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b4%d8%b7%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 33 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
+| 34 | [دوري الاضواء](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b6%d9%88%d8%a7%d8%a1) | N/A |
+| 35 | [التوازن المالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b2%d9%86+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
+| 36 | [الثروه الزراعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d8%b1%d9%88%d9%87+%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 37 | [سينما الرسيل](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d9%85%d8%a7+%d8%a7%d9%84%d8%b1%d8%b3%d9%8a%d9%84) | N/A |
+| 38 | [احمد العويسي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3%d9%8a) | N/A |
+| 39 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 40 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 41 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
+| 42 | [الجلسه الحواريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 43 | [المكان المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
+| 44 | [الموسسات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 45 | [الاستدامه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 46 | [الاجراءات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 47 | [وادي المعاول](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%88%d9%84) | N/A |
+| 48 | [اللغه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 49 | [توكل علي](http://twitter.com/search?q=%d8%aa%d9%88%d9%83%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
+| 50 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
 
 
 
