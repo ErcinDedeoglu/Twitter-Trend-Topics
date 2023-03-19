@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-19 03:02:14 UTC`
+📆 Last Updated: `2023-03-19 03:19:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,52 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 2 | [Justin Holl](http://twitter.com/search?q=Justin+Holl) | N/A |
-| 3 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
-| 4 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 5 | [#TorontoComicCon](http://twitter.com/search?q=%23TorontoComicCon) | N/A |
+| 2 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 3 | [Justin Holl](http://twitter.com/search?q=Justin+Holl) | N/A |
+| 4 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 5 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
 | 6 | [Murray](http://twitter.com/search?q=Murray) | N/A |
 | 7 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
 | 8 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 9 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 10 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 11 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 12 | [Sens](http://twitter.com/search?q=Sens) | N/A |
+| 9 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 10 | [Sens](http://twitter.com/search?q=Sens) | N/A |
+| 11 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 12 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 13 | [Usman](http://twitter.com/search?q=Usman) | N/A |
 | 14 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 15 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 16 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 15 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 16 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
 | 17 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 18 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 19 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 20 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 18 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 19 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 20 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
 | 21 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
-| 22 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 22 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
 | 23 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
-| 24 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 25 | [Sogaard](http://twitter.com/search?q=Sogaard) | N/A |
-| 26 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 27 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
-| 28 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 29 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 30 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 24 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 25 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
+| 26 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 27 | [Sogaard](http://twitter.com/search?q=Sogaard) | N/A |
+| 28 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 29 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 30 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
 | 31 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 32 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 32 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 33 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 34 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 35 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 36 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
-| 37 | [Sabbath](http://twitter.com/search?q=Sabbath) | N/A |
-| 38 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 39 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 34 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 35 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 36 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 37 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
+| 38 | [Sabbath](http://twitter.com/search?q=Sabbath) | N/A |
+| 39 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
 | 40 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 41 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 42 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 41 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 42 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
 | 43 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 45 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 46 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 47 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 48 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 49 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 50 | [#TORvsOTT](http://twitter.com/search?q=%23TORvsOTT) | N/A |
+| 44 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 45 | [#TORvsOTT](http://twitter.com/search?q=%23TORvsOTT) | N/A |
+| 46 | [#FlamesDJ](http://twitter.com/search?q=%23FlamesDJ) | N/A |
+| 47 | [#IMFC](http://twitter.com/search?q=%23IMFC) | N/A |
 
 
 

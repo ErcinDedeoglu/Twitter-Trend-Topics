@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-19 03:03:08 UTC`
+📆 Last Updated: `2023-03-19 03:20:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 2 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
-| 3 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 4 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 5 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
-| 6 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 7 | [Funk](http://twitter.com/search?q=Funk) | N/A |
-| 8 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 9 | [Nittany Lions](http://twitter.com/search?q=Nittany+Lions) | N/A |
-| 10 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 11 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 12 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 13 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
-| 14 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 15 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 16 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 17 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 18 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 19 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 20 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 21 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 22 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
-| 23 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
-| 24 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 25 | [#TeamUSA](http://twitter.com/search?q=%23TeamUSA) | N/A |
-| 26 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 27 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 28 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 29 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 30 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 31 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 32 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 33 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 34 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 35 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 36 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 37 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 38 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 39 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 40 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 1 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
+| 2 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 3 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 4 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
+| 5 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 6 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 7 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
+| 8 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 9 | [Funk](http://twitter.com/search?q=Funk) | N/A |
+| 10 | [Nittany Lions](http://twitter.com/search?q=Nittany+Lions) | N/A |
+| 11 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 12 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 13 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 14 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 15 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 16 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 17 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 18 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 19 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 20 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 21 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 22 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 23 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 24 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 25 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 26 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 27 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 28 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
+| 29 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 30 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 31 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 32 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 33 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 34 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 35 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
+| 36 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 37 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 38 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 39 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 40 | [Pens](http://twitter.com/search?q=Pens) | N/A |
 | 41 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 42 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 43 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 44 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
-| 45 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 46 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 47 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 48 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 49 | [Thiago Almada](http://twitter.com/search?q=Thiago+Almada) | N/A |
-| 50 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 42 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 43 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 44 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 45 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 46 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 47 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 48 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 49 | [USA vs Cuba](http://twitter.com/search?q=USA+vs+Cuba) | N/A |
+| 50 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
 
 
 

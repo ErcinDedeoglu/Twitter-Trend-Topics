@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-19 03:03:07 UTC`
+📆 Last Updated: `2023-03-19 03:20:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 2 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 2 | [#NoQuitInNY](http://twitter.com/search?q=%23NoQuitInNY) | N/A |
 | 3 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
-| 4 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 5 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
-| 6 | [Vito](http://twitter.com/search?q=Vito) | N/A |
-| 7 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 8 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 9 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 10 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 11 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 4 | [#RBNY](http://twitter.com/search?q=%23RBNY) | N/A |
+| 5 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 6 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
+| 7 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 8 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
+| 9 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 10 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 11 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
 | 12 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 13 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 14 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 15 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 17 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 18 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 19 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 20 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 21 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 22 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 23 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 24 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 13 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 14 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 15 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 16 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 17 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 18 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 19 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 20 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 21 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 22 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 23 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 24 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
 | 25 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 26 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 27 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 26 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 27 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
 | 28 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 29 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 29 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
 | 30 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 31 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 32 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 33 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
-| 34 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 35 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 36 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 37 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 38 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 39 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 40 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 41 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 42 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 43 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 44 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 45 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 46 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 47 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 48 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 49 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 50 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 31 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
+| 32 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 33 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 34 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 35 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 36 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 37 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 38 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 39 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 40 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
+| 41 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 42 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 43 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 44 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 45 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 46 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 47 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 48 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 49 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 50 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
 
 
 

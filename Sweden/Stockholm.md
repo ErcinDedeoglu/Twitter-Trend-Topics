@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-19 03:02:37 UTC`
+📆 Last Updated: `2023-03-19 03:20:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mjällby](http://twitter.com/search?q=Mj%c3%a4llby) | N/A |
-| 2 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 3 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 4 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 5 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 1 | [mjällby](http://twitter.com/search?q=mj%c3%a4llby) | N/A |
+| 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 3 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 4 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 5 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 6 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 8 | [momarken](http://twitter.com/search?q=momarken) | N/A |
+| 7 | [momarken](http://twitter.com/search?q=momarken) | N/A |
+| 8 | [Usman](http://twitter.com/search?q=Usman) | N/A |
 | 9 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 10 | [skål](http://twitter.com/search?q=sk%c3%a5l) | N/A |
-| 11 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 12 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
+| 10 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 11 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
+| 12 | [skål](http://twitter.com/search?q=sk%c3%a5l) | N/A |
 | 13 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 15 | [Borgman](http://twitter.com/search?q=Borgman) | N/A |
-| 16 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 17 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
-| 18 | [Strandvallen](http://twitter.com/search?q=Strandvallen) | N/A |
-| 19 | [Foodora](http://twitter.com/search?q=Foodora) | N/A |
+| 14 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 15 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
+| 16 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 17 | [Strandvallen](http://twitter.com/search?q=Strandvallen) | N/A |
+| 18 | [Foodora](http://twitter.com/search?q=Foodora) | N/A |
+| 19 | [Borgman](http://twitter.com/search?q=Borgman) | N/A |
 | 20 | [Ejdsell](http://twitter.com/search?q=Ejdsell) | N/A |
-| 21 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 21 | [vagic](http://twitter.com/search?q=vagic) | N/A |
 | 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 23 | [vagic](http://twitter.com/search?q=vagic) | N/A |
-| 24 | [Adjei](http://twitter.com/search?q=Adjei) | N/A |
+| 23 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 24 | [adjei](http://twitter.com/search?q=adjei) | N/A |
 | 25 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
 | 26 | [Norge](http://twitter.com/search?q=Norge) | N/A |
 | 27 | [besara](http://twitter.com/search?q=besara) | N/A |
 | 28 | [Pinas](http://twitter.com/search?q=Pinas) | N/A |
 | 29 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
-| 30 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 31 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 32 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
+| 30 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 31 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 32 | [svenska cupen](http://twitter.com/search?q=svenska+cupen) | N/A |
 | 33 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
 | 34 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
 | 35 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 36 | [Let's Dance](http://twitter.com/search?q=Let%27s+Dance) | N/A |
+| 36 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 38 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 38 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
 | 39 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 40 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 41 | [Ove Molin](http://twitter.com/search?q=Ove+Molin) | N/A |
-| 42 | [dovin](http://twitter.com/search?q=dovin) | N/A |
-| 43 | [blekinge](http://twitter.com/search?q=blekinge) | N/A |
-| 44 | [karin pettersson](http://twitter.com/search?q=karin+pettersson) | N/A |
-| 45 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
-| 46 | [#screenshotsaturday](http://twitter.com/search?q=%23screenshotsaturday) | N/A |
-| 47 | [Bajen](http://twitter.com/search?q=Bajen) | N/A |
-| 48 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 49 | [otto rosengren](http://twitter.com/search?q=otto+rosengren) | N/A |
-| 50 | [wikegård](http://twitter.com/search?q=wikeg%c3%a5rd) | N/A |
+| 40 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 41 | [Let's Dance](http://twitter.com/search?q=Let%27s+Dance) | N/A |
+| 42 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
+| 43 | [ove molin](http://twitter.com/search?q=ove+molin) | N/A |
+| 44 | [Haag](http://twitter.com/search?q=Haag) | N/A |
+| 45 | [Bajen](http://twitter.com/search?q=Bajen) | N/A |
+| 46 | [dovin](http://twitter.com/search?q=dovin) | N/A |
+| 47 | [karin pettersson](http://twitter.com/search?q=karin+pettersson) | N/A |
+| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 49 | [blekinge](http://twitter.com/search?q=blekinge) | N/A |
+| 50 | [#screenshotsaturday](http://twitter.com/search?q=%23screenshotsaturday) | N/A |
 
 
 

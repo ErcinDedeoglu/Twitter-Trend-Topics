@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-19 03:02:39 UTC`
+📆 Last Updated: `2023-03-19 03:20:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Unaa Evos](http://twitter.com/search?q=Unaa+Evos) | N/A |
+| 1 | [#UnaaInuKehidupan](http://twitter.com/search?q=%23UnaaInuKehidupan) | N/A |
 | 2 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
-| 3 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 4 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
-| 5 | [#PrungGusMuhaimin](http://twitter.com/search?q=%23PrungGusMuhaimin) | N/A |
-| 6 | [#BIBLEFLYTOPALMSPRINGS](http://twitter.com/search?q=%23BIBLEFLYTOPALMSPRINGS) | N/A |
-| 7 | [yukgabung kerenin indonesia](http://twitter.com/search?q=yukgabung+kerenin+indonesia) | N/A |
-| 8 | [ngobrolin urusangue dibandung](http://twitter.com/search?q=ngobrolin+urusangue+dibandung) | N/A |
-| 9 | [serunya milenialgenz prabowo](http://twitter.com/search?q=serunya+milenialgenz+prabowo) | N/A |
-| 10 | [Mrt Haji Nawi](http://twitter.com/search?q=Mrt+Haji+Nawi) | N/A |
+| 3 | [yukgabung kerenin indonesia](http://twitter.com/search?q=yukgabung+kerenin+indonesia) | N/A |
+| 4 | [serunya milenialgenz prabowo](http://twitter.com/search?q=serunya+milenialgenz+prabowo) | N/A |
+| 5 | [ngobrolin urusangue dibandung](http://twitter.com/search?q=ngobrolin+urusangue+dibandung) | N/A |
+| 6 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
+| 7 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
+| 8 | [#PrungGusMuhaimin](http://twitter.com/search?q=%23PrungGusMuhaimin) | N/A |
+| 9 | [Mrt Haji Nawi](http://twitter.com/search?q=Mrt+Haji+Nawi) | N/A |
+| 10 | [Sangcok](http://twitter.com/search?q=Sangcok) | N/A |
 | 11 | [PKB KAHIJI JABAR NGAHIJI](http://twitter.com/search?q=PKB+KAHIJI+JABAR+NGAHIJI) | N/A |
-| 12 | [Bahagia Menyambut Ramadhan](http://twitter.com/search?q=Bahagia+Menyambut+Ramadhan) | N/A |
-| 13 | [Jadi Muslim Berkualitas](http://twitter.com/search?q=Jadi+Muslim+Berkualitas) | N/A |
-| 14 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
-| 15 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 16 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 17 | [Sangcok](http://twitter.com/search?q=Sangcok) | N/A |
-| 18 | [tontonan hari ramadan](http://twitter.com/search?q=tontonan+hari+ramadan) | N/A |
-| 19 | [Relis](http://twitter.com/search?q=Relis) | N/A |
-| 20 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 21 | [Safe Flight Bible Go To USA](http://twitter.com/search?q=Safe+Flight+Bible+Go+To+USA) | N/A |
-| 22 | [Piscok](http://twitter.com/search?q=Piscok) | N/A |
-| 23 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
-| 24 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 25 | [All Indonesian Final](http://twitter.com/search?q=All+Indonesian+Final) | All Indonesian Final is a term used to describe a tournament or competition in which only Indonesian players are allowed to participate. It is typically used in the context of sports such as badminton, football, and volleyball. The phrase can also be used to refer to any event or competition that is limited to Indonesian participants. |
-| 26 | [prabowo lebih baik](http://twitter.com/search?q=prabowo+lebih+baik) | N/A |
-| 27 | [prabowo presidennya](http://twitter.com/search?q=prabowo+presidennya) | N/A |
-| 28 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
-| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 31 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 32 | [Boti](http://twitter.com/search?q=Boti) | N/A |
-| 33 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
-| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 35 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
-| 36 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 37 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 38 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 39 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 40 | [arctic monkeys](http://twitter.com/search?q=arctic+monkeys) | N/A |
-| 41 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
-| 42 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 43 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 44 | [Happy Graduation](http://twitter.com/search?q=Happy+Graduation) | N/A |
-| 45 | [Kelas 6](http://twitter.com/search?q=Kelas+6) | N/A |
-| 46 | [HAPPY BIRTHDAY SAKURA](http://twitter.com/search?q=HAPPY+BIRTHDAY+SAKURA) | N/A |
-| 47 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 48 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
-| 49 | [Hidan](http://twitter.com/search?q=Hidan) | N/A |
+| 12 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 13 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
+| 14 | [Safe Flight Bible Go To USA](http://twitter.com/search?q=Safe+Flight+Bible+Go+To+USA) | N/A |
+| 15 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 16 | [tontonan hari ramadan](http://twitter.com/search?q=tontonan+hari+ramadan) | N/A |
+| 17 | [Relis](http://twitter.com/search?q=Relis) | N/A |
+| 18 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 19 | [All Indonesian Final](http://twitter.com/search?q=All+Indonesian+Final) | All Indonesian Final is a term used to describe a tournament or competition in which only Indonesian players are allowed to participate. It is typically used in the context of sports such as badminton, football, and volleyball. The phrase can also be used to refer to any event or competition that is limited to Indonesian participants. |
+| 20 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 21 | [prabowo lebih baik](http://twitter.com/search?q=prabowo+lebih+baik) | N/A |
+| 22 | [prabowo presidennya](http://twitter.com/search?q=prabowo+presidennya) | N/A |
+| 23 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 24 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
+| 25 | [Piscok](http://twitter.com/search?q=Piscok) | N/A |
+| 26 | [Nakes](http://twitter.com/search?q=Nakes) | N/A |
+| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 28 | [Rehan](http://twitter.com/search?q=Rehan) | N/A |
+| 29 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
+| 30 | [Boti](http://twitter.com/search?q=Boti) | N/A |
+| 31 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 32 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 33 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 34 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 35 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 36 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
+| 37 | [Surabaya](http://twitter.com/search?q=Surabaya) | N/A |
+| 38 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 39 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 40 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 41 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 42 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
+| 43 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 44 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
+| 45 | [Happy Graduation](http://twitter.com/search?q=Happy+Graduation) | N/A |
+| 46 | [Kelas 6](http://twitter.com/search?q=Kelas+6) | N/A |
+| 47 | [Hidan](http://twitter.com/search?q=Hidan) | N/A |
+| 48 | [Alif](http://twitter.com/search?q=Alif) | N/A |
+| 49 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
 
 
 

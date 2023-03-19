@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-19 03:03:02 UTC`
+📆 Last Updated: `2023-03-19 03:20:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 2 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 1 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 2 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
 | 3 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 4 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
-| 5 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
-| 6 | [Tre Donaldson](http://twitter.com/search?q=Tre+Donaldson) | N/A |
-| 7 | [Legacy Arena](http://twitter.com/search?q=Legacy+Arena) | N/A |
-| 8 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 10 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
-| 11 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 12 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 13 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 14 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 15 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 16 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 17 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 18 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 19 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
-| 20 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
-| 21 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 22 | [#TeamUSA](http://twitter.com/search?q=%23TeamUSA) | N/A |
-| 23 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 24 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 25 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 26 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 27 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 28 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 29 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 30 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 31 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 32 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 33 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 34 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 35 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 36 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 37 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 38 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 39 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 40 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 41 | [Eric Musselman](http://twitter.com/search?q=Eric+Musselman) | N/A |
-| 42 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 43 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 44 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 45 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 46 | [Thiago Almada](http://twitter.com/search?q=Thiago+Almada) | N/A |
-| 47 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 48 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 49 | [Josh Williams](http://twitter.com/search?q=Josh+Williams) | N/A |
-| 50 | [Konquest](http://twitter.com/search?q=Konquest) | N/A |
+| 4 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
+| 5 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
+| 6 | [War Eagle](http://twitter.com/search?q=War+Eagle) | N/A |
+| 7 | [Tre Donaldson](http://twitter.com/search?q=Tre+Donaldson) | N/A |
+| 8 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 9 | [Legacy Arena](http://twitter.com/search?q=Legacy+Arena) | N/A |
+| 10 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 11 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 12 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 13 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 14 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 15 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 16 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 17 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 18 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 19 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 20 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 21 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 22 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 23 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 24 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 25 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 26 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
+| 27 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
+| 28 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 29 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 30 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 31 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 32 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 33 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 34 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
+| 35 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 36 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 37 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 38 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 39 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 40 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 41 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 42 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 43 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 44 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 45 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 46 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 47 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 48 | [USA vs Cuba](http://twitter.com/search?q=USA+vs+Cuba) | N/A |
+| 49 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 50 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
 
 
 

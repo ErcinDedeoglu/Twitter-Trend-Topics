@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-19 03:03:18 UTC`
+📆 Last Updated: `2023-03-19 03:20:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,43 @@ This is top 50 for Pakistan
 | 11 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
 | 12 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
 | 13 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 14 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 15 | [g-11](http://twitter.com/search?q=g-11) | N/A |
-| 16 | [bushra bibi](http://twitter.com/search?q=bushra+bibi) | N/A |
-| 17 | [tim david](http://twitter.com/search?q=tim+david) | N/A |
+| 14 | [abdullah shafique](http://twitter.com/search?q=abdullah+shafique) | N/A |
+| 15 | [tim david](http://twitter.com/search?q=tim+david) | N/A |
+| 16 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
+| 17 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
 | 18 | [Judicial Complex](http://twitter.com/search?q=Judicial+Complex) | N/A |
-| 19 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
-| 20 | [baig](http://twitter.com/search?q=baig) | N/A |
-| 21 | [PEMRA](http://twitter.com/search?q=PEMRA) | N/A |
-| 22 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 23 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 24 | [anwar ali](http://twitter.com/search?q=anwar+ali) | N/A |
-| 25 | [bol news](http://twitter.com/search?q=bol+news) | N/A |
-| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 27 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 19 | [baig](http://twitter.com/search?q=baig) | N/A |
+| 20 | [Pemra](http://twitter.com/search?q=Pemra) | N/A |
+| 21 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 22 | [anwar ali](http://twitter.com/search?q=anwar+ali) | N/A |
+| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 24 | [RAUF](http://twitter.com/search?q=RAUF) | N/A |
+| 25 | [G-11](http://twitter.com/search?q=G-11) | N/A |
+| 26 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 27 | [Sath](http://twitter.com/search?q=Sath) | N/A |
 | 28 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 29 | [Cricket](http://twitter.com/search?q=Cricket) | N/A |
-| 30 | [Sath](http://twitter.com/search?q=Sath) | N/A |
-| 31 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 32 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 33 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 34 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
-| 35 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 36 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
-| 37 | [America](http://twitter.com/search?q=America) | N/A |
-| 38 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
-| 39 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
-| 40 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 41 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
-| 42 | [Pashtoon](http://twitter.com/search?q=Pashtoon) | N/A |
-| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 44 | [Masha](http://twitter.com/search?q=Masha) | N/A |
-| 45 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 46 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 47 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 48 | [Louder](http://twitter.com/search?q=Louder) | N/A |
-| 49 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 29 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 30 | [Pakistan Cricket](http://twitter.com/search?q=Pakistan+Cricket) | N/A |
+| 31 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 33 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
+| 34 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 35 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
+| 36 | [Ahan](http://twitter.com/search?q=Ahan) | N/A |
+| 37 | [Niazi](http://twitter.com/search?q=Niazi) | N/A |
+| 38 | [America](http://twitter.com/search?q=America) | N/A |
+| 39 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 40 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 41 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
+| 42 | [Dono](http://twitter.com/search?q=Dono) | N/A |
+| 43 | [Idiot](http://twitter.com/search?q=Idiot) | N/A |
+| 44 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 45 | [Impossible](http://twitter.com/search?q=Impossible) | N/A |
+| 46 | [Pashtoon](http://twitter.com/search?q=Pashtoon) | N/A |
+| 47 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
+| 48 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
+| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 50 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
 
 
 

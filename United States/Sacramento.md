@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-19 03:03:09 UTC`
+📆 Last Updated: `2023-03-19 03:20:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 2 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 3 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 4 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 5 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 6 | [AND STILL](http://twitter.com/search?q=AND+STILL) | N/A |
-| 7 | [#LuxiemImpulse](http://twitter.com/search?q=%23LuxiemImpulse) | N/A |
-| 8 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
-| 9 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 2 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 3 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 4 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 5 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 6 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 7 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
+| 8 | [#LuxiemImpulse](http://twitter.com/search?q=%23LuxiemImpulse) | N/A |
+| 9 | [Adem Bona](http://twitter.com/search?q=Adem+Bona) | N/A |
 | 10 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
-| 11 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 11 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
 | 12 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 13 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 14 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 15 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 16 | [Ivy League](http://twitter.com/search?q=Ivy+League) | N/A |
-| 17 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 18 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 19 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 20 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 21 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 23 | [Magic](http://twitter.com/search?q=Magic) | N/A |
-| 24 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 25 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 26 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 27 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 28 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 29 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
-| 30 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 31 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 32 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 33 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 34 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 35 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 13 | [Justin Gaethje](http://twitter.com/search?q=Justin+Gaethje) | N/A |
+| 14 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 15 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 16 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 17 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 18 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 19 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 20 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 21 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 22 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 23 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 25 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 26 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 27 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 28 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 29 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 30 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 31 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 32 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 33 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 34 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 35 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
 | 36 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 37 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
+| 37 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 | 38 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 39 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 40 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 41 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 42 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 43 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 44 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 45 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 46 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 47 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 48 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 49 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 50 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 39 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
+| 40 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 41 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 42 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 43 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 44 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 45 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 46 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
+| 47 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 48 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 49 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 50 | [Houston](http://twitter.com/search?q=Houston) | N/A |
 
 
 

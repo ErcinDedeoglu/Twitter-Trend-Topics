@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-19 03:03:15 UTC`
+📆 Last Updated: `2023-03-19 03:20:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Guatemala
 | ------- | ------------ | ------------ |
 | 1 | [OHANA DENNIS 4EVER](http://twitter.com/search?q=OHANA+DENNIS+4EVER) | N/A |
 | 2 | [nelson x yuridia](http://twitter.com/search?q=nelson+x+yuridia) | N/A |
-| 3 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 6 | [#YoutubeCorrupt](http://twitter.com/search?q=%23YoutubeCorrupt) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
+| 5 | [#YoutubeCorrupt](http://twitter.com/search?q=%23YoutubeCorrupt) | N/A |
+| 6 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 7 | [#SetMeFreePt2IsComing](http://twitter.com/search?q=%23SetMeFreePt2IsComing) | N/A |
-| 8 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 9 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 10 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
-| 11 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
-| 12 | [#10KMuniGuate](http://twitter.com/search?q=%2310KMuniGuate) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
-| 16 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 17 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 8 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
+| 9 | [#10KMuniGuate](http://twitter.com/search?q=%2310KMuniGuate) | N/A |
+| 10 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
+| 13 | [#GUATEVOTA2023](http://twitter.com/search?q=%23GUATEVOTA2023) | N/A |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 15 | [#siempreconectado](http://twitter.com/search?q=%23siempreconectado) | N/A |
+| 16 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 17 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 18 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 20 | [Pancha](http://twitter.com/search?q=Pancha) | N/A |
-| 21 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 22 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
-| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 24 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 26 | [Curruchiche](http://twitter.com/search?q=Curruchiche) | N/A |
-| 27 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 28 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 29 | [David](http://twitter.com/search?q=David) | N/A |
-| 30 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 31 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 19 | [Melendi](http://twitter.com/search?q=Melendi) | N/A |
+| 20 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 22 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 23 | [Curruchiche](http://twitter.com/search?q=Curruchiche) | N/A |
+| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 25 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
+| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 27 | [Pancha](http://twitter.com/search?q=Pancha) | N/A |
+| 28 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [David](http://twitter.com/search?q=David) | N/A |
 | 32 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 33 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 33 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 34 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 35 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
-| 36 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 37 | [Provecho](http://twitter.com/search?q=Provecho) | N/A |
-| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 39 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 40 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 42 | [Maldita](http://twitter.com/search?q=Maldita) | N/A |
-| 43 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 44 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 47 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 48 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 49 | [fundaterror](http://twitter.com/search?q=fundaterror) | N/A |
-| 50 | [Merced](http://twitter.com/search?q=Merced) | N/A |
+| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 36 | [Jesús Nazareno](http://twitter.com/search?q=Jes%c3%bas+Nazareno) | N/A |
+| 37 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 38 | [Roosevelt](http://twitter.com/search?q=Roosevelt) | N/A |
+| 39 | [Coco Chanel](http://twitter.com/search?q=Coco+Chanel) | N/A |
+| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 41 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 42 | [Provecho](http://twitter.com/search?q=Provecho) | N/A |
+| 43 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 44 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 46 | [Aldana](http://twitter.com/search?q=Aldana) | N/A |
+| 47 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 48 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 49 | [Pueblo](http://twitter.com/search?q=Pueblo) | N/A |
+| 50 | [Zacapa](http://twitter.com/search?q=Zacapa) | N/A |
 
 
 

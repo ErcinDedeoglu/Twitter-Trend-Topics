@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-19 03:02:32 UTC`
+📆 Last Updated: `2023-03-19 03:20:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
-| 2 | [#dudw](http://twitter.com/search?q=%23dudw) | N/A |
+| 2 | [#DudW](http://twitter.com/search?q=%23DudW) | N/A |
 | 3 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 4 | [#stablztoken](http://twitter.com/search?q=%23stablztoken) | N/A |
+| 4 | [#gaixbinance](http://twitter.com/search?q=%23gaixbinance) | N/A |
 | 5 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 6 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 7 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 8 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 9 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 10 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 11 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 12 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 13 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 14 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 15 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 6 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 7 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 8 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 9 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
+| 10 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 11 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 12 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 13 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 16 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
 | 17 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 18 | [Selke](http://twitter.com/search?q=Selke) | N/A |
-| 19 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 20 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 21 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 22 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 18 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 19 | [Selke](http://twitter.com/search?q=Selke) | N/A |
+| 20 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 21 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 22 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 | 23 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
 | 24 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
 | 25 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
 | 26 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
 | 27 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
 | 28 | [Punsch](http://twitter.com/search?q=Punsch) | N/A |
-| 29 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
-| 30 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
+| 29 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
+| 30 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
 | 31 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
-| 32 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 33 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
-| 34 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
-| 35 | [Flanken](http://twitter.com/search?q=Flanken) | N/A |
-| 36 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
-| 37 | [baumgart](http://twitter.com/search?q=baumgart) | N/A |
-| 38 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
+| 32 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
+| 33 | [flanken](http://twitter.com/search?q=flanken) | N/A |
+| 34 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
+| 35 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 36 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
+| 37 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 38 | [wehrle](http://twitter.com/search?q=wehrle) | N/A |
 | 39 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
-| 40 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
-| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 42 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 43 | [IStGH](http://twitter.com/search?q=IStGH) | N/A |
-| 44 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 40 | [Straßenschilder](http://twitter.com/search?q=Stra%c3%9fenschilder) | N/A |
+| 41 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 42 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 43 | [Professur](http://twitter.com/search?q=Professur) | N/A |
+| 44 | [Baumgart](http://twitter.com/search?q=Baumgart) | N/A |
 | 45 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 46 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 47 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 48 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 49 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 46 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 47 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 48 | [IStGH](http://twitter.com/search?q=IStGH) | N/A |
+| 49 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
 
 
 
