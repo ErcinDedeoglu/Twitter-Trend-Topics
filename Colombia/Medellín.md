@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-03-19 10:16:44 UTC`
+📆 Last Updated: `2023-03-19 11:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,8 +25,8 @@ This is top 50 for [Colombia](</Colombia>)
 | 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 9 | [#laligaxwin](http://twitter.com/search?q=%23laligaxwin) | N/A |
 | 10 | [berdugo](http://twitter.com/search?q=berdugo) | N/A |
-| 11 | [Berlín](http://twitter.com/search?q=Berl%c3%adn) | N/A |
-| 12 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 11 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 12 | [Berlín](http://twitter.com/search?q=Berl%c3%adn) | N/A |
 | 13 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
 | 14 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
 | 15 | [Stiglitz](http://twitter.com/search?q=Stiglitz) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Colombia](</Colombia>)
 | 21 | [De La Rosa](http://twitter.com/search?q=De+La+Rosa) | N/A |
 | 22 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
 | 23 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
-| 24 | [jefferson lerma](http://twitter.com/search?q=jefferson+lerma) | N/A |
-| 25 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 26 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 28 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
-| 29 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 30 | [Bustamante](http://twitter.com/search?q=Bustamante) | N/A |
-| 31 | [Fabry](http://twitter.com/search?q=Fabry) | N/A |
-| 32 | [Doom](http://twitter.com/search?q=Doom) | N/A |
-| 33 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 34 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 35 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 36 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 37 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 38 | [Bolillo](http://twitter.com/search?q=Bolillo) | N/A |
-| 39 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 40 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 41 | [barboza](http://twitter.com/search?q=barboza) | N/A |
-| 42 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
-| 43 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
-| 44 | [mantilla](http://twitter.com/search?q=mantilla) | N/A |
-| 45 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
-| 46 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 47 | [revista semana](http://twitter.com/search?q=revista+semana) | N/A |
-| 48 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 49 | [deossa](http://twitter.com/search?q=deossa) | N/A |
-| 50 | [jarlan](http://twitter.com/search?q=jarlan) | N/A |
+| 24 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 25 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 26 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 27 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 28 | [Bustamante](http://twitter.com/search?q=Bustamante) | N/A |
+| 29 | [Fabry](http://twitter.com/search?q=Fabry) | N/A |
+| 30 | [Doom](http://twitter.com/search?q=Doom) | N/A |
+| 31 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 32 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 33 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 34 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 35 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 36 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 37 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 38 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 39 | [barboza](http://twitter.com/search?q=barboza) | N/A |
+| 40 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
+| 41 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
+| 42 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 43 | [pasto](http://twitter.com/search?q=pasto) | N/A |
+| 44 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 45 | [revista semana](http://twitter.com/search?q=revista+semana) | N/A |
+| 46 | [deossa](http://twitter.com/search?q=deossa) | N/A |
+| 47 | [jarlan](http://twitter.com/search?q=jarlan) | N/A |
+| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 49 | [Jefferson Lerma](http://twitter.com/search?q=Jefferson+Lerma) | N/A |
+| 50 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
 
 
 

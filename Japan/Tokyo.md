@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-19 10:17:03 UTC`
+📆 Last Updated: `2023-03-19 11:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#鉄腕DASH](http://twitter.com/search?q=%23%e9%89%84%e8%85%95DASH) | #鉄腕DASH is a Japanese manga series written and illustrated by Tetsuo Hara. It follows the story of a young man named Kenshiro, who is the successor to an ancient martial art known as Hokuto Shinken. The title of the series translates to "Iron Arm Dash" in English, referring to Kenshiro's superhuman strength and speed. |
-| 2 | [キャンサー](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b5%e3%83%bc) | N/A |
-| 3 | [銀魂最高](http://twitter.com/search?q=%e9%8a%80%e9%ad%82%e6%9c%80%e9%ab%98) | N/A |
-| 4 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
-| 5 | [ライビュ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5) | ライビュ is a Japanese word that means "lively". It is often used to describe someone or something that is energetic and full of life. |
+| 1 | [#三パシ有機体](http://twitter.com/search?q=%23%e4%b8%89%e3%83%91%e3%82%b7%e6%9c%89%e6%a9%9f%e4%bd%93) | N/A |
+| 2 | [#KHセカンドブレス](http://twitter.com/search?q=%23KH%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e3%83%96%e3%83%ac%e3%82%b9) | N/A |
+| 3 | [トキラン](http://twitter.com/search?q=%e3%83%88%e3%82%ad%e3%83%a9%e3%83%b3) | N/A |
+| 4 | [モーニング娘](http://twitter.com/search?q=%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e5%a8%98) | N/A |
+| 5 | [ハルカミライ](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%82%ab%e3%83%9f%e3%83%a9%e3%82%a4) | ハルカミライ is a Japanese pop song by the band Gen Hoshino. The title translates to "Spring Breeze" in English. The song is about the joy of being able to experience the beauty of spring and all its wonders. |
 | 6 | [差し入れ](http://twitter.com/search?q=%e5%b7%ae%e3%81%97%e5%85%a5%e3%82%8c) | N/A |
-| 7 | [kiss me](http://twitter.com/search?q=kiss+me) | N/A |
-| 8 | [#ミーグリ](http://twitter.com/search?q=%23%e3%83%9f%e3%83%bc%e3%82%b0%e3%83%aa) | N/A |
-| 9 | [#BiSH宇都宮](http://twitter.com/search?q=%23BiSH%e5%ae%87%e9%83%bd%e5%ae%ae) | N/A |
-| 10 | [#barakanbeat](http://twitter.com/search?q=%23barakanbeat) | N/A |
-| 11 | [TOEIC](http://twitter.com/search?q=TOEIC) | N/A |
-| 12 | [#Afterword](http://twitter.com/search?q=%23Afterword) | N/A |
-| 13 | [スカイハイ](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%8f%e3%82%a4) | N/A |
-| 14 | [ネタバレ禁止](http://twitter.com/search?q=%e3%83%8d%e3%82%bf%e3%83%90%e3%83%ac%e7%a6%81%e6%ad%a2) | N/A |
-| 15 | [PB更新](http://twitter.com/search?q=PB%e6%9b%b4%e6%96%b0) | N/A |
-| 16 | [日比谷公園](http://twitter.com/search?q=%e6%97%a5%e6%af%94%e8%b0%b7%e5%85%ac%e5%9c%92) | N/A |
-| 17 | [FENNEL](http://twitter.com/search?q=FENNEL) | Fennel is a plant with a mild, anise-like flavor and aroma. It is used in cooking, as a medicinal herb, and as an ornamental plant. In English, fennel can refer to either the plant or its seeds. |
-| 18 | [智弁和歌山](http://twitter.com/search?q=%e6%99%ba%e5%bc%81%e5%92%8c%e6%ad%8c%e5%b1%b1) | N/A |
-| 19 | [アニサマ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%82%b5%e3%83%9e) | アニサマ is short for "Anime Song Festival" and it is an annual music festival held in Japan. It features performances by popular Japanese anime singers and bands, as well as other musical acts. The event usually takes place in the summer months and attracts thousands of fans from all over the world. |
-| 20 | [ダブルヒガシ](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%83%92%e3%82%ac%e3%82%b7) | N/A |
-| 21 | [松ナビー](http://twitter.com/search?q=%e6%9d%be%e3%83%8a%e3%83%93%e3%83%bc) | N/A |
-| 22 | [マキバオー](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%90%e3%82%aa%e3%83%bc) | N/A |
-| 23 | [ジャスティンパレス](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%b3%e3%83%91%e3%83%ac%e3%82%b9) | ジャスティンパレス (Justin Palace) is a Japanese entertainment complex located in Tokyo. It is a popular destination for shopping, dining, and entertainment. The complex includes a variety of restaurants, shops, cinemas, and other attractions. In English, Justin Palace can be translated to mean "Justin's Palace". |
-| 24 | [阪神大賞典](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e5%a4%a7%e8%b3%9e%e5%85%b8) | N/A |
-| 25 | [岸田内閣](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e5%86%85%e9%96%a3) | N/A |
-| 26 | [ジョックロック](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%83%e3%82%af%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 27 | [ナラティブ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%86%e3%82%a3%e3%83%96) | N/A |
-| 28 | [ディープボンド](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%97%e3%83%9c%e3%83%b3%e3%83%89) | ディープボンド (Deep Bond) is a Japanese term used to describe a strong emotional connection between two people. It is often used to describe the bond between two people who have been friends for a long time, or the bond between family members. In English, it could be translated as "deep connection" or "strong bond". |
-| 29 | [アフリカンゴールド](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%83%aa%e3%82%ab%e3%83%b3%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 30 | [ゾルタン](http://twitter.com/search?q=%e3%82%be%e3%83%ab%e3%82%bf%e3%83%b3) | N/A |
-| 31 | [ボルドグフーシュ](http://twitter.com/search?q=%e3%83%9c%e3%83%ab%e3%83%89%e3%82%b0%e3%83%95%e3%83%bc%e3%82%b7%e3%83%a5) | ボルドグフーシュ is a type of German beer. It is a dark, malty beer with a slightly sweet flavor. In English, it is known as Bockbier or Bock Beer. |
-| 32 | [ボールガイ](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%ab%e3%82%ac%e3%82%a4) | N/A |
-| 33 | [スプリングS](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b0S) | N/A |
-| 34 | [新聞世論調査](http://twitter.com/search?q=%e6%96%b0%e8%81%9e%e4%b8%96%e8%ab%96%e8%aa%bf%e6%9f%bb) | N/A |
-| 35 | [ストレージバングル](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%ac%e3%83%bc%e3%82%b8%e3%83%90%e3%83%b3%e3%82%b0%e3%83%ab) | N/A |
-| 36 | [SMS認証](http://twitter.com/search?q=SMS%e8%aa%8d%e8%a8%bc) | N/A |
-| 37 | [ブレークアップ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af%e3%82%a2%e3%83%83%e3%83%97) | ブレークアップ (Breakup) is a term used to describe the end of a romantic relationship. It is usually used to refer to the end of a long-term relationship, such as a marriage or engagement. |
-| 38 | [英明高校](http://twitter.com/search?q=%e8%8b%b1%e6%98%8e%e9%ab%98%e6%a0%a1) | N/A |
-| 39 | [ダブヒガ](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%92%e3%82%ac) | N/A |
-| 40 | [王様ランキング](http://twitter.com/search?q=%e7%8e%8b%e6%a7%98%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
-| 41 | [ベラジオオペラ](http://twitter.com/search?q=%e3%83%99%e3%83%a9%e3%82%b8%e3%82%aa%e3%82%aa%e3%83%9a%e3%83%a9) | N/A |
-| 42 | [フェンネル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%b3%e3%83%8d%e3%83%ab) | フェンネル (Fenneru) is a type of Japanese drum used in traditional music and festivals. It is made from a hollowed-out log and covered with animal skin. The sound it produces is deep and resonant. In English, it is sometimes referred to as a log drum. |
-| 43 | [アフター](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%82%bf%e3%83%bc) | N/A |
-| 44 | [マスターズ千葉](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba%e5%8d%83%e8%91%89) | N/A |
-| 45 | [タラちゃんの声](http://twitter.com/search?q=%e3%82%bf%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e5%a3%b0) | N/A |
-| 46 | [高松宮記念](http://twitter.com/search?q=%e9%ab%98%e6%9d%be%e5%ae%ae%e8%a8%98%e5%bf%b5) | 高松宮記念 is a memorial event held in Takamatsu, Kagawa Prefecture, Japan. It is held annually on April 22nd to commemorate the establishment of Takamatsu Castle by the first lord of the Sanuki Province, Ikoma Takatoshi. The event includes a parade of people dressed in traditional costumes and a variety of performances. In English, it is known as the Takamatsu Castle Memorial Festival. |
-| 47 | [グラニット](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%8b%e3%83%83%e3%83%88) | グラニット is a type of igneous rock that is composed of quartz and feldspar. It is usually light in color and has a granular texture. In English, it is known as granite. |
-| 48 | [ユメノホノオ](http://twitter.com/search?q=%e3%83%a6%e3%83%a1%e3%83%8e%e3%83%9b%e3%83%8e%e3%82%aa) | N/A |
-| 49 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
-| 50 | [Masters Tokyo](http://twitter.com/search?q=Masters+Tokyo) | Masters Tokyo is a professional golf tournament held annually in Japan. It is part of the Japan Golf Tour and is one of the most prestigious tournaments on the tour. The event was first held in 1972 and has been held every year since then. The tournament's name comes from its original sponsor, MasterCard, which has been associated with the event since its inception. In English, Masters Tokyo translates to "MasterCard Tokyo Golf Tournament". |
+| 7 | [ダブヒガ](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%92%e3%82%ac) | N/A |
+| 8 | [フォーリミ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%83%9f) | N/A |
+| 9 | [べーちゃん](http://twitter.com/search?q=%e3%81%b9%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 10 | [#SixTONES_慣声の法則](http://twitter.com/search?q=%23SixTONES_%e6%85%a3%e5%a3%b0%e3%81%ae%e6%b3%95%e5%89%87) | N/A |
+| 11 | [イレネー記念](http://twitter.com/search?q=%e3%82%a4%e3%83%ac%e3%83%8d%e3%83%bc%e8%a8%98%e5%bf%b5) | N/A |
+| 12 | [XAIさん](http://twitter.com/search?q=XAI%e3%81%95%e3%82%93) | N/A |
+| 13 | [空知先生](http://twitter.com/search?q=%e7%a9%ba%e7%9f%a5%e5%85%88%e7%94%9f) | N/A |
+| 14 | [アフリカンゴールド](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%83%aa%e3%82%ab%e3%83%b3%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 15 | [QU4RTZ](http://twitter.com/search?q=QU4RTZ) | QU4RTZ is a type of mineral composed of silicon dioxide. It is the second most abundant mineral on Earth's surface and is found in many different types of rocks. In English, QU4RTZ means quartz. |
+| 16 | [ヒプステ](http://twitter.com/search?q=%e3%83%92%e3%83%97%e3%82%b9%e3%83%86) | N/A |
+| 17 | [ディープボンド](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%97%e3%83%9c%e3%83%b3%e3%83%89) | ディープボンド (Deep Bond) is a Japanese term used to describe a strong emotional connection between two people. It is often used to describe the bond between two people who have been friends for a long time, or the bond between family members. In English, it could be translated as "deep connection" or "strong bond". |
+| 18 | [#abcEQIDEN](http://twitter.com/search?q=%23abcEQIDEN) | N/A |
+| 19 | [#どうする家康](http://twitter.com/search?q=%23%e3%81%a9%e3%81%86%e3%81%99%e3%82%8b%e5%ae%b6%e5%ba%b7) | #どうする家康 is a hashtag used on Twitter in Japan. It is a phrase that means "What will Ieyasu do?" and is used to refer to the famous Japanese warlord, Tokugawa Ieyasu. The phrase is often used in humorous contexts, as a way of asking what someone should do in a difficult situation. |
+| 20 | [藤井六冠](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e5%85%ad%e5%86%a0) | N/A |
+| 21 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
+| 22 | [Crow Song](http://twitter.com/search?q=Crow+Song) | N/A |
+| 23 | [藤井聡太](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e8%81%a1%e5%a4%aa) | N/A |
+| 24 | [ルカ加入](http://twitter.com/search?q=%e3%83%ab%e3%82%ab%e5%8a%a0%e5%85%a5) | N/A |
+| 25 | [源氏の末裔](http://twitter.com/search?q=%e6%ba%90%e6%b0%8f%e3%81%ae%e6%9c%ab%e8%a3%94) | N/A |
+| 26 | [SMS認証](http://twitter.com/search?q=SMS%e8%aa%8d%e8%a8%bc) | N/A |
+| 27 | [渡辺棋王](http://twitter.com/search?q=%e6%b8%a1%e8%be%ba%e6%a3%8b%e7%8e%8b) | N/A |
+| 28 | [サヨナラノツバサ](http://twitter.com/search?q=%e3%82%b5%e3%83%a8%e3%83%8a%e3%83%a9%e3%83%8e%e3%83%84%e3%83%90%e3%82%b5) | N/A |
+| 29 | [FENNEL](http://twitter.com/search?q=FENNEL) | Fennel is a plant with a mild, anise-like flavor and aroma. It is used in cooking, as a medicinal herb, and as an ornamental plant. In English, fennel can refer to either the plant or its seeds. |
+| 30 | [棋王奪取](http://twitter.com/search?q=%e6%a3%8b%e7%8e%8b%e5%a5%aa%e5%8f%96) | N/A |
+| 31 | [特殊演出](http://twitter.com/search?q=%e7%89%b9%e6%ae%8a%e6%bc%94%e5%87%ba) | 特殊演出 (tèshū yǎnchū) is a Chinese phrase that translates to "special performance" in English. It typically refers to a unique or extraordinary performance, such as a one-time show or event. |
+| 32 | [ジェイク](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%a4%e3%82%af) | ジェイク is a Japanese given name, and it is usually written in katakana. It is derived from the English name "Jake" and can be translated to mean "supplanter" or "one who follows". |
+| 33 | [斑鳩ルカ](http://twitter.com/search?q=%e6%96%91%e9%b3%a9%e3%83%ab%e3%82%ab) | N/A |
+| 34 | [渡辺名人](http://twitter.com/search?q=%e6%b8%a1%e8%be%ba%e5%90%8d%e4%ba%ba) | N/A |
+| 35 | [徳川家康](http://twitter.com/search?q=%e5%be%b3%e5%b7%9d%e5%ae%b6%e5%ba%b7) | N/A |
+| 36 | [六冠達成](http://twitter.com/search?q=%e5%85%ad%e5%86%a0%e9%81%94%e6%88%90) | N/A |
+| 37 | [Bad Apple](http://twitter.com/search?q=Bad+Apple) | "Bad Apple" is a Japanese song composed by Jun Maeda and sung by Nomico. It is a popular song in the Touhou Project video game series. The song's title is a play on words, as the Japanese phrase "bad apple" (warui ringo) can mean either a rotten apple or an outcast. The lyrics of the song describe someone who feels like an outsider and is struggling to find acceptance. |
+| 38 | [智弁和歌山](http://twitter.com/search?q=%e6%99%ba%e5%bc%81%e5%92%8c%e6%ad%8c%e5%b1%b1) | N/A |
+| 39 | [アニサマ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%82%b5%e3%83%9e) | アニサマ is short for "Anime Song Festival" and it is an annual music festival held in Japan. It features performances by popular Japanese anime singers and bands, as well as other musical acts. The event usually takes place in the summer months and attracts thousands of fans from all over the world. |
+| 40 | [岸田内閣](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e5%86%85%e9%96%a3) | N/A |
+| 41 | [松ナビー](http://twitter.com/search?q=%e6%9d%be%e3%83%8a%e3%83%93%e3%83%bc) | N/A |
+| 42 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
+| 43 | [初見クリア](http://twitter.com/search?q=%e5%88%9d%e8%a6%8b%e3%82%af%e3%83%aa%e3%82%a2) | 初見クリア is a Japanese phrase that literally translates to "first-time clear". It is used to describe the completion of a game or challenge on the first try, without any prior knowledge or experience. |
+| 44 | [ダブルヒガシ](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%83%92%e3%82%ac%e3%82%b7) | N/A |
+| 45 | [藤井くん](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e3%81%8f%e3%82%93) | N/A |
+| 46 | [史上2人目](http://twitter.com/search?q=%e5%8f%b2%e4%b8%8a2%e4%ba%ba%e7%9b%ae) | N/A |
+| 47 | [マキバオー](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%90%e3%82%aa%e3%83%bc) | N/A |
+| 48 | [スキル無し](http://twitter.com/search?q=%e3%82%b9%e3%82%ad%e3%83%ab%e7%84%a1%e3%81%97) | N/A |
+| 49 | [ビフォーアフター](http://twitter.com/search?q=%e3%83%93%e3%83%95%e3%82%a9%e3%83%bc%e3%82%a2%e3%83%95%e3%82%bf%e3%83%bc) | N/A |
+| 50 | [スマイルシンフォニア](http://twitter.com/search?q=%e3%82%b9%e3%83%9e%e3%82%a4%e3%83%ab%e3%82%b7%e3%83%b3%e3%83%95%e3%82%a9%e3%83%8b%e3%82%a2) | N/A |
 
 
 

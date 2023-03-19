@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-19 10:16:56 UTC`
+📆 Last Updated: `2023-03-19 11:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,33 +19,34 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 3 | [Pepes](http://twitter.com/search?q=Pepes) | N/A |
 | 4 | [#19Marzo](http://twitter.com/search?q=%2319Marzo) | N/A |
-| 5 | [Pepitas](http://twitter.com/search?q=Pepitas) | N/A |
-| 6 | [IV Domingo de Cuaresma](http://twitter.com/search?q=IV+Domingo+de+Cuaresma) | N/A |
-| 7 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 8 | [Hoy 19](http://twitter.com/search?q=Hoy+19) | N/A |
-| 9 | [Antonio Maestre](http://twitter.com/search?q=Antonio+Maestre) | N/A |
-| 10 | [Jn 9](http://twitter.com/search?q=Jn+9) | N/A |
+| 5 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 6 | [Pepitas](http://twitter.com/search?q=Pepitas) | N/A |
+| 7 | [Antonio Maestre](http://twitter.com/search?q=Antonio+Maestre) | N/A |
+| 8 | [Jn 9](http://twitter.com/search?q=Jn+9) | N/A |
+| 9 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 10 | [Hoy 19](http://twitter.com/search?q=Hoy+19) | N/A |
 | 11 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 12 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 13 | [Santo](http://twitter.com/search?q=Santo) | N/A |
-| 14 | [El 19](http://twitter.com/search?q=El+19) | N/A |
-| 15 | [Carmena](http://twitter.com/search?q=Carmena) | N/A |
-| 16 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 17 | [Felicitats](http://twitter.com/search?q=Felicitats) | N/A |
+| 12 | [IV Domingo de Cuaresma](http://twitter.com/search?q=IV+Domingo+de+Cuaresma) | N/A |
+| 13 | [Julio Iglesias](http://twitter.com/search?q=Julio+Iglesias) | N/A |
+| 14 | [Santo](http://twitter.com/search?q=Santo) | N/A |
+| 15 | [El 19](http://twitter.com/search?q=El+19) | N/A |
+| 16 | [Carmena](http://twitter.com/search?q=Carmena) | N/A |
+| 17 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
 | 18 | [Domingo 19](http://twitter.com/search?q=Domingo+19) | N/A |
-| 19 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 20 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
-| 23 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 24 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 25 | [#19demarzo](http://twitter.com/search?q=%2319demarzo) | N/A |
-| 26 | [#PrimaveraRadio3](http://twitter.com/search?q=%23PrimaveraRadio3) | N/A |
-| 27 | [#CCubicos317](http://twitter.com/search?q=%23CCubicos317) | N/A |
-| 28 | [#APOYOROCIO19M](http://twitter.com/search?q=%23APOYOROCIO19M) | N/A |
-| 29 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
-| 30 | [#YoMeRebelo19M](http://twitter.com/search?q=%23YoMeRebelo19M) | N/A |
-| 31 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 19 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 20 | [Felicitats](http://twitter.com/search?q=Felicitats) | N/A |
+| 21 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 22 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 23 | [#19demarzo](http://twitter.com/search?q=%2319demarzo) | N/A |
+| 24 | [#PrimaveraRadio3](http://twitter.com/search?q=%23PrimaveraRadio3) | N/A |
+| 25 | [#APOYOROCIO19M](http://twitter.com/search?q=%23APOYOROCIO19M) | N/A |
+| 26 | [#CCubicos317](http://twitter.com/search?q=%23CCubicos317) | N/A |
+| 27 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
+| 28 | [#fathersday](http://twitter.com/search?q=%23fathersday) | N/A |
+| 29 | [#YoMeRebelo19M](http://twitter.com/search?q=%23YoMeRebelo19M) | N/A |
+| 30 | [#ElClásico](http://twitter.com/search?q=%23ElCl%c3%a1sico) | N/A |
+| 31 | [#PorLosTuyos](http://twitter.com/search?q=%23PorLosTuyos) | N/A |
+| 32 | [#YOVOTOPODEMOS](http://twitter.com/search?q=%23YOVOTOPODEMOS) | N/A |
 
 
 

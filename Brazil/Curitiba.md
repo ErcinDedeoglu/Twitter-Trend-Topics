@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-19 10:16:46 UTC`
+📆 Last Updated: `2023-03-19 11:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 2 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 3 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
-| 4 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 5 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 6 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 7 | [Nx zero](http://twitter.com/search?q=Nx+zero) | N/A |
-| 8 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 9 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 10 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 11 | [#premierleaguenaespn](http://twitter.com/search?q=%23premierleaguenaespn) | N/A |
-| 12 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 13 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 2 | [Mateus](http://twitter.com/search?q=Mateus) | N/A |
+| 3 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 4 | [#Froggies](http://twitter.com/search?q=%23Froggies) | N/A |
+| 5 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 6 | [Temido](http://twitter.com/search?q=Temido) | N/A |
+| 7 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 8 | [Nx zero](http://twitter.com/search?q=Nx+zero) | N/A |
+| 9 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 10 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
+| 11 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 12 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 13 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
 | 14 | [#LUNATICSTOKEN](http://twitter.com/search?q=%23LUNATICSTOKEN) | N/A |
 | 15 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 17 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
-| 18 | [#BrasileirãoMusical](http://twitter.com/search?q=%23Brasileir%c3%a3oMusical) | N/A |
-| 19 | [Luan City](http://twitter.com/search?q=Luan+City) | N/A |
-| 20 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 21 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
-| 24 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
-| 25 | [priscilla no altas horas](http://twitter.com/search?q=priscilla+no+altas+horas) | N/A |
-| 26 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
-| 27 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 28 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 30 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 31 | [indereco](http://twitter.com/search?q=indereco) | N/A |
-| 32 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 33 | [matheus dias](http://twitter.com/search?q=matheus+dias) | N/A |
-| 34 | [Alina](http://twitter.com/search?q=Alina) | N/A |
-| 35 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
-| 36 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 16 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 18 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 19 | [#BrasileirãoMusical](http://twitter.com/search?q=%23Brasileir%c3%a3oMusical) | N/A |
+| 20 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
+| 21 | [#selfiesforpilantra](http://twitter.com/search?q=%23selfiesforpilantra) | N/A |
+| 22 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 23 | [Luan City](http://twitter.com/search?q=Luan+City) | N/A |
+| 24 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
+| 25 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 27 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
+| 28 | [priscilla no altas horas](http://twitter.com/search?q=priscilla+no+altas+horas) | N/A |
+| 29 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
+| 30 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 32 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 33 | [indereco](http://twitter.com/search?q=indereco) | N/A |
+| 34 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 35 | [matheus dias](http://twitter.com/search?q=matheus+dias) | N/A |
+| 36 | [Alina](http://twitter.com/search?q=Alina) | N/A |
 | 37 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 38 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 39 | [Até o Haaland](http://twitter.com/search?q=At%c3%a9+o+Haaland) | N/A |
-| 40 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 41 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 42 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 38 | [GANSO](http://twitter.com/search?q=GANSO) | N/A |
+| 39 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 40 | [vitor roque](http://twitter.com/search?q=vitor+roque) | N/A |
+| 41 | [Até o Haaland](http://twitter.com/search?q=At%c3%a9+o+Haaland) | N/A |
+| 42 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
 | 43 | [samuel xavier](http://twitter.com/search?q=samuel+xavier) | N/A |
-| 44 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 45 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 47 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 48 | [Sonhei](http://twitter.com/search?q=Sonhei) | N/A |
-| 49 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 50 | [Billie](http://twitter.com/search?q=Billie) | N/A |
+| 44 | [Sonhei](http://twitter.com/search?q=Sonhei) | N/A |
+| 45 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 46 | [Viva São José](http://twitter.com/search?q=Viva+S%c3%a3o+Jos%c3%a9) | N/A |
+| 47 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 48 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 49 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 50 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
 
 
 

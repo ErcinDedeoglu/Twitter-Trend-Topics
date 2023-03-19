@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-19 10:17:30 UTC`
+📆 Last Updated: `2023-03-19 11:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [United States](</United States>)
 | 6 | [Usman](http://twitter.com/search?q=Usman) | N/A |
 | 7 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
 | 8 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 9 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 9 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 10 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
 | 11 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
 | 12 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 13 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 14 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 15 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 16 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 17 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
-| 18 | [#Wordle638](http://twitter.com/search?q=%23Wordle638) | N/A |
-| 19 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
+| 13 | [Bad Apple](http://twitter.com/search?q=Bad+Apple) | "Bad Apple" is a Japanese song composed by Jun Maeda and sung by Nomico. It is a popular song in the Touhou Project video game series. The song's title is a play on words, as the Japanese phrase "bad apple" (warui ringo) can mean either a rotten apple or an outcast. The lyrics of the song describe someone who feels like an outsider and is struggling to find acceptance. |
+| 14 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 15 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
+| 16 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 17 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 18 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 19 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
 | 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 21 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 22 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 23 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 24 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 25 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 21 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
+| 22 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 23 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 24 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 25 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
 | 26 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 27 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 28 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
-| 29 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 30 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
-| 31 | [Visited](http://twitter.com/search?q=Visited) | N/A |
-| 32 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 33 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 34 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 35 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 36 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 37 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 38 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 39 | [GRAND SLAM](http://twitter.com/search?q=GRAND+SLAM) | N/A |
-| 40 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 41 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 42 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 43 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 44 | [Normani](http://twitter.com/search?q=Normani) | N/A |
-| 45 | [Coco Jones](http://twitter.com/search?q=Coco+Jones) | N/A |
-| 46 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 47 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 48 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 49 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 50 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 27 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
+| 28 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 29 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
+| 30 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 31 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 32 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 33 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
+| 34 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 35 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 36 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 37 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 38 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 39 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 40 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 41 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 42 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 43 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 44 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 45 | [Normani](http://twitter.com/search?q=Normani) | N/A |
+| 46 | [Coco Jones](http://twitter.com/search?q=Coco+Jones) | N/A |
+| 47 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 48 | [Stephen King](http://twitter.com/search?q=Stephen+King) | N/A |
+| 49 | [Vash](http://twitter.com/search?q=Vash) | N/A |
+| 50 | [Lara](http://twitter.com/search?q=Lara) | N/A |
 
 
 

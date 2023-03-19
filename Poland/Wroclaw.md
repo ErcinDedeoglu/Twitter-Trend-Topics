@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-19 10:16:50 UTC`
+📆 Last Updated: `2023-03-19 11:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
 | 2 | [#highleague6](http://twitter.com/search?q=%23highleague6) | N/A |
-| 3 | [#thevoicekids](http://twitter.com/search?q=%23thevoicekids) | N/A |
-| 4 | [Pawliczak](http://twitter.com/search?q=Pawliczak) | N/A |
-| 5 | [#JarekOddajKPO](http://twitter.com/search?q=%23JarekOddajKPO) | N/A |
-| 6 | [#StopCPK](http://twitter.com/search?q=%23StopCPK) | N/A |
-| 7 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 8 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
-| 9 | [Kanady](http://twitter.com/search?q=Kanady) | N/A |
-| 10 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 11 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 12 | [Emy Klinec](http://twitter.com/search?q=Emy+Klinec) | N/A |
-| 13 | [Najman](http://twitter.com/search?q=Najman) | N/A |
-| 14 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 15 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
-| 16 | [El Clasico](http://twitter.com/search?q=El+Clasico) | N/A |
-| 17 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
-| 18 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 19 | [Cześć Piotr](http://twitter.com/search?q=Cze%c5%9b%c4%87+Piotr) | N/A |
-| 20 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
-| 21 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
-| 22 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
-| 23 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 24 | [wyrazy](http://twitter.com/search?q=wyrazy) | N/A |
-| 25 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
-| 26 | [Błogosławionej](http://twitter.com/search?q=B%c5%82ogos%c5%82awionej) | N/A |
-| 27 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 28 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
-| 29 | [Yuki Ito](http://twitter.com/search?q=Yuki+Ito) | N/A |
-| 30 | [kownackiego](http://twitter.com/search?q=kownackiego) | N/A |
-| 31 | [TikToku](http://twitter.com/search?q=TikToku) | N/A |
-| 32 | [Polsacie](http://twitter.com/search?q=Polsacie) | N/A |
-| 33 | [Maty](http://twitter.com/search?q=Maty) | N/A |
-| 34 | [Daro](http://twitter.com/search?q=Daro) | N/A |
-| 35 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
-| 36 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
-| 37 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
-| 38 | [Działa](http://twitter.com/search?q=Dzia%c5%82a) | N/A |
-| 39 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 40 | [Agnieszko](http://twitter.com/search?q=Agnieszko) | N/A |
-| 41 | [Wawel](http://twitter.com/search?q=Wawel) | N/A |
-| 42 | [Lwowie](http://twitter.com/search?q=Lwowie) | N/A |
-| 43 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 44 | [Cracovia](http://twitter.com/search?q=Cracovia) | N/A |
-| 45 | [Jan Urban](http://twitter.com/search?q=Jan+Urban) | N/A |
-| 46 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 47 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
-| 48 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
-| 49 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
-| 50 | [Pasha](http://twitter.com/search?q=Pasha) | N/A |
+| 3 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 4 | [#thevoicekids](http://twitter.com/search?q=%23thevoicekids) | N/A |
+| 5 | [Dera](http://twitter.com/search?q=Dera) | N/A |
+| 6 | [Pawliczak](http://twitter.com/search?q=Pawliczak) | N/A |
+| 7 | [#JarekOddajKPO](http://twitter.com/search?q=%23JarekOddajKPO) | N/A |
+| 8 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 9 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 10 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 11 | [Yuki Ito](http://twitter.com/search?q=Yuki+Ito) | N/A |
+| 12 | [Ema Klinec](http://twitter.com/search?q=Ema+Klinec) | N/A |
+| 13 | [Kanady](http://twitter.com/search?q=Kanady) | N/A |
+| 14 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 15 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
+| 16 | [TikToku](http://twitter.com/search?q=TikToku) | N/A |
+| 17 | [Najman](http://twitter.com/search?q=Najman) | N/A |
+| 18 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 19 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
+| 20 | [El Clasico](http://twitter.com/search?q=El+Clasico) | N/A |
+| 21 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
+| 22 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
+| 23 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 24 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 25 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
+| 26 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 27 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 28 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
+| 29 | [Błogosławionej](http://twitter.com/search?q=B%c5%82ogos%c5%82awionej) | N/A |
+| 30 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
+| 31 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
+| 32 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
+| 33 | [Kasia](http://twitter.com/search?q=Kasia) | N/A |
+| 34 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
+| 35 | [Daro](http://twitter.com/search?q=Daro) | N/A |
+| 36 | [Cracovia](http://twitter.com/search?q=Cracovia) | N/A |
+| 37 | [Wawelu](http://twitter.com/search?q=Wawelu) | N/A |
+| 38 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 39 | [Ludwiczek](http://twitter.com/search?q=Ludwiczek) | N/A |
+| 40 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
+| 41 | [Pasha](http://twitter.com/search?q=Pasha) | N/A |
+| 42 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
+| 43 | [Labryga](http://twitter.com/search?q=Labryga) | N/A |
+| 44 | [Haribo](http://twitter.com/search?q=Haribo) | N/A |
+| 45 | [Ministerstwo Przemysłu](http://twitter.com/search?q=Ministerstwo+Przemys%c5%82u) | N/A |
+| 46 | [Jan Urban](http://twitter.com/search?q=Jan+Urban) | N/A |
+| 47 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 48 | [Fame](http://twitter.com/search?q=Fame) | N/A |
+| 49 | [jagi](http://twitter.com/search?q=jagi) | N/A |
+| 50 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
 
 
 

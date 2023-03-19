@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-19 10:17:39 UTC`
+📆 Last Updated: `2023-03-19 11:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,49 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
-| 2 | [#34MOrdersOnOwlet](http://twitter.com/search?q=%2334MOrdersOnOwlet) | N/A |
-| 3 | [Willimor Freedom](http://twitter.com/search?q=Willimor+Freedom) | N/A |
-| 4 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 5 | [#ShowSomeLovetoMum](http://twitter.com/search?q=%23ShowSomeLovetoMum) | N/A |
+| 2 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 3 | [#34MOrdersOnOwlet](http://twitter.com/search?q=%2334MOrdersOnOwlet) | N/A |
+| 4 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 5 | [Willimor Freedom](http://twitter.com/search?q=Willimor+Freedom) | N/A |
 | 6 | [#SundayService](http://twitter.com/search?q=%23SundayService) | N/A |
-| 7 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
-| 8 | [Olumide](http://twitter.com/search?q=Olumide) | N/A |
-| 9 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
-| 10 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 11 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
-| 12 | [#NigeriaDeservesPeace](http://twitter.com/search?q=%23NigeriaDeservesPeace) | N/A |
-| 13 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
-| 14 | [Congratulations Hon](http://twitter.com/search?q=Congratulations+Hon) | N/A |
-| 15 | [Agreement is Agreement](http://twitter.com/search?q=Agreement+is+Agreement) | N/A |
-| 16 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 17 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 18 | [Chude](http://twitter.com/search?q=Chude) | N/A |
-| 19 | [Desmond](http://twitter.com/search?q=Desmond) | N/A |
-| 20 | [PHYNA X JUNKYARD](http://twitter.com/search?q=PHYNA+X+JUNKYARD) | N/A |
-| 21 | [Dapo](http://twitter.com/search?q=Dapo) | N/A |
-| 22 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 23 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
-| 24 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
-| 25 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
-| 26 | [thanksgiving](http://twitter.com/search?q=thanksgiving) | N/A |
-| 27 | [Badagry](http://twitter.com/search?q=Badagry) | N/A |
-| 28 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
-| 29 | [Biafran](http://twitter.com/search?q=Biafran) | N/A |
+| 7 | [#ShowSomeLovetoMum](http://twitter.com/search?q=%23ShowSomeLovetoMum) | N/A |
+| 8 | [Agreement is Agreement](http://twitter.com/search?q=Agreement+is+Agreement) | N/A |
+| 9 | [#MotheringSunday](http://twitter.com/search?q=%23MotheringSunday) | N/A |
+| 10 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
+| 11 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 12 | [congratulations hon](http://twitter.com/search?q=congratulations+hon) | N/A |
+| 13 | [Olumide](http://twitter.com/search?q=Olumide) | N/A |
+| 14 | [BIG FOOL](http://twitter.com/search?q=BIG+FOOL) | N/A |
+| 15 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 16 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 17 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 18 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 19 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
+| 20 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
+| 21 | [PHYNA X JUNKYARD](http://twitter.com/search?q=PHYNA+X+JUNKYARD) | N/A |
+| 22 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
+| 23 | [Amaechi](http://twitter.com/search?q=Amaechi) | N/A |
+| 24 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
+| 25 | [Dapo](http://twitter.com/search?q=Dapo) | N/A |
+| 26 | [biafran](http://twitter.com/search?q=biafran) | N/A |
+| 27 | [SS and SE](http://twitter.com/search?q=SS+and+SE) | N/A |
+| 28 | [Nnamdi Kanu](http://twitter.com/search?q=Nnamdi+Kanu) | N/A |
+| 29 | [thanksgiving](http://twitter.com/search?q=thanksgiving) | N/A |
 | 30 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
-| 31 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 32 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 33 | [Fulanis](http://twitter.com/search?q=Fulanis) | N/A |
-| 34 | [Amaechi](http://twitter.com/search?q=Amaechi) | N/A |
-| 35 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 36 | [Abba](http://twitter.com/search?q=Abba) | N/A |
-| 37 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
-| 38 | [Nnamdi Kanu](http://twitter.com/search?q=Nnamdi+Kanu) | N/A |
-| 39 | [Eastern](http://twitter.com/search?q=Eastern) | N/A |
-| 40 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
-| 41 | [#worship](http://twitter.com/search?q=%23worship) | N/A |
+| 31 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 32 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 33 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
+| 34 | [LGAs](http://twitter.com/search?q=LGAs) | N/A |
+| 35 | [Badagry](http://twitter.com/search?q=Badagry) | N/A |
+| 36 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
+| 37 | [Fulanis](http://twitter.com/search?q=Fulanis) | N/A |
+| 38 | [Tribalism](http://twitter.com/search?q=Tribalism) | N/A |
+| 39 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 40 | [Abba](http://twitter.com/search?q=Abba) | N/A |
+| 41 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
+| 42 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 43 | [#worship](http://twitter.com/search?q=%23worship) | N/A |
+| 44 | [#nigeriadeservespeace](http://twitter.com/search?q=%23nigeriadeservespeace) | N/A |
 
 
 

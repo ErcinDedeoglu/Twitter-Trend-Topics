@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-19 10:17:25 UTC`
+📆 Last Updated: `2023-03-19 11:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#AEWHouseRules](http://twitter.com/search?q=%23AEWHouseRules) | N/A |
 | 2 | [#allforcincy](http://twitter.com/search?q=%23allforcincy) | N/A |
 | 3 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
-| 4 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 5 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 6 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 7 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 8 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 9 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 10 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 11 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 12 | [#Wordle638](http://twitter.com/search?q=%23Wordle638) | N/A |
-| 13 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
-| 14 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
-| 15 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 16 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 17 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 4 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 5 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 6 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 7 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 8 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 9 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 10 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
+| 11 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 12 | [Bad Apple](http://twitter.com/search?q=Bad+Apple) | "Bad Apple" is a Japanese song composed by Jun Maeda and sung by Nomico. It is a popular song in the Touhou Project video game series. The song's title is a play on words, as the Japanese phrase "bad apple" (warui ringo) can mean either a rotten apple or an outcast. The lyrics of the song describe someone who feels like an outsider and is struggling to find acceptance. |
+| 13 | [#MCRSYDNEY](http://twitter.com/search?q=%23MCRSYDNEY) | N/A |
+| 14 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
+| 15 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 16 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 17 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
 | 18 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 19 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 20 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 21 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 22 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 23 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
-| 24 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 25 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
-| 26 | [Visited](http://twitter.com/search?q=Visited) | N/A |
-| 27 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 28 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 29 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 30 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 31 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 32 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 33 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 34 | [GRAND SLAM](http://twitter.com/search?q=GRAND+SLAM) | N/A |
-| 35 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 36 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 37 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 38 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 39 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 40 | [Normani](http://twitter.com/search?q=Normani) | N/A |
-| 41 | [Coco Jones](http://twitter.com/search?q=Coco+Jones) | N/A |
-| 42 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 43 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 44 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 45 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 46 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 47 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 48 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 49 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
-| 50 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 20 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
+| 21 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 22 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 23 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 24 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 25 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
+| 26 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
+| 27 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 28 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
+| 29 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 30 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 31 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 32 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 33 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
+| 34 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 35 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 36 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 37 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 38 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 39 | [Normani](http://twitter.com/search?q=Normani) | N/A |
+| 40 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 41 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 42 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 43 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 44 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 45 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
+| 46 | [Coco Jones](http://twitter.com/search?q=Coco+Jones) | N/A |
+| 47 | [Stephen King](http://twitter.com/search?q=Stephen+King) | N/A |
+| 48 | [Vash](http://twitter.com/search?q=Vash) | N/A |
+| 49 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 50 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
 
 
 

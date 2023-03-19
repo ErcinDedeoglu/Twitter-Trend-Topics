@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-03-19 10:17:12 UTC`
+📆 Last Updated: `2023-03-19 11:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [South Africa](</South Africa>)
 | 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 4 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 5 | [#giganathi](http://twitter.com/search?q=%23giganathi) | N/A |
-| 6 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
-| 7 | [#McCafeMotivationalMonday](http://twitter.com/search?q=%23McCafeMotivationalMonday) | N/A |
-| 8 | [party with khosi](http://twitter.com/search?q=party+with+khosi) | N/A |
+| 5 | [#McCafeMotivationalMonday](http://twitter.com/search?q=%23McCafeMotivationalMonday) | N/A |
+| 6 | [#giganathi](http://twitter.com/search?q=%23giganathi) | N/A |
+| 7 | [party with khosi](http://twitter.com/search?q=party+with+khosi) | N/A |
+| 8 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
 | 9 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
-| 10 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 10 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
 | 11 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 12 | [Bonang](http://twitter.com/search?q=Bonang) | N/A |
-| 13 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 14 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 12 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 13 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 14 | [KHOSI WILL BE VICTORIOUS](http://twitter.com/search?q=KHOSI+WILL+BE+VICTORIOUS) | N/A |
 | 15 | [nelisa the host](http://twitter.com/search?q=nelisa+the+host) | N/A |
-| 16 | [Kwinika](http://twitter.com/search?q=Kwinika) | N/A |
-| 17 | [Bosasa](http://twitter.com/search?q=Bosasa) | N/A |
-| 18 | [nelisa x strictlysoul](http://twitter.com/search?q=nelisa+x+strictlysoul) | N/A |
-| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 20 | [meet x greet juicy jay](http://twitter.com/search?q=meet+x+greet+juicy+jay) | N/A |
-| 21 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 22 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 23 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 16 | [Smeg](http://twitter.com/search?q=Smeg) | N/A |
+| 17 | [Kwinika](http://twitter.com/search?q=Kwinika) | N/A |
+| 18 | [THABANG IS GRATEFUL AFRICA](http://twitter.com/search?q=THABANG+IS+GRATEFUL+AFRICA) | N/A |
+| 19 | [Bonang](http://twitter.com/search?q=Bonang) | N/A |
+| 20 | [nelisa x strictlysoul](http://twitter.com/search?q=nelisa+x+strictlysoul) | N/A |
+| 21 | [meet x greet juicy jay](http://twitter.com/search?q=meet+x+greet+juicy+jay) | N/A |
+| 22 | [THABANG THE GAMER](http://twitter.com/search?q=THABANG+THE+GAMER) | N/A |
+| 23 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 25 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 25 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
 | 26 | [Cloete Murray](http://twitter.com/search?q=Cloete+Murray) | N/A |
 | 27 | [TBANGERS PIN FOR THABANG](http://twitter.com/search?q=TBANGERS+PIN+FOR+THABANG) | N/A |
-| 28 | [KHOSI WILL BE VICTORIOUS](http://twitter.com/search?q=KHOSI+WILL+BE+VICTORIOUS) | N/A |
-| 29 | [Temba Bavuma](http://twitter.com/search?q=Temba+Bavuma) | N/A |
-| 30 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
-| 31 | [Maritzburg](http://twitter.com/search?q=Maritzburg) | N/A |
-| 32 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 33 | [groove with tsatsii](http://twitter.com/search?q=groove+with+tsatsii) | N/A |
-| 34 | [THABANG TO THE FINALS](http://twitter.com/search?q=THABANG+TO+THE+FINALS) | N/A |
-| 35 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 36 | [Kuli](http://twitter.com/search?q=Kuli) | N/A |
-| 37 | [SuperSport United](http://twitter.com/search?q=SuperSport+United) | N/A |
-| 38 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 39 | [Smeg](http://twitter.com/search?q=Smeg) | N/A |
-| 40 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 41 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 42 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 43 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 44 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 45 | [yumbs](http://twitter.com/search?q=yumbs) | N/A |
-| 46 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
-| 47 | [Du Preez](http://twitter.com/search?q=Du+Preez) | N/A |
+| 28 | [Temba Bavuma](http://twitter.com/search?q=Temba+Bavuma) | N/A |
+| 29 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
+| 30 | [Bosasa](http://twitter.com/search?q=Bosasa) | N/A |
+| 31 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 32 | [Maritzburg](http://twitter.com/search?q=Maritzburg) | N/A |
+| 33 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 34 | [groove with tsatsii](http://twitter.com/search?q=groove+with+tsatsii) | N/A |
+| 35 | [THABANG TO THE FINALS](http://twitter.com/search?q=THABANG+TO+THE+FINALS) | N/A |
+| 36 | [SuperSport United](http://twitter.com/search?q=SuperSport+United) | N/A |
+| 37 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 38 | [Kuli](http://twitter.com/search?q=Kuli) | N/A |
+| 39 | [Du Preez](http://twitter.com/search?q=Du+Preez) | N/A |
+| 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 41 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 42 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 43 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 44 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
+| 45 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 46 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 47 | [yumbs](http://twitter.com/search?q=yumbs) | N/A |
 | 48 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 49 | [Wydad](http://twitter.com/search?q=Wydad) | Wydad is a Moroccan football club based in Casablanca. The name Wydad means "love" or "affection" in Arabic. |
-| 50 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
+| 49 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
+| 50 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 
 
 

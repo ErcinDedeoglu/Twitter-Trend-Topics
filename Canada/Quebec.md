@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-19 10:16:35 UTC`
+📆 Last Updated: `2023-03-19 11:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Canada](</Canada>)
 | 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 8 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 9 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 10 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 11 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 13 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 14 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 10 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 11 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 12 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 13 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 15 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 16 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 16 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
 | 17 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 18 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 19 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 18 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 19 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
 | 20 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 21 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 22 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 23 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 21 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 22 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 23 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
 | 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 25 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 26 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 27 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 28 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 29 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 32 | [pionk](http://twitter.com/search?q=pionk) | N/A |
+| 25 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 26 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 27 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 30 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 31 | [Pionk](http://twitter.com/search?q=Pionk) | N/A |
+| 32 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
 | 33 | [alex kerfoot](http://twitter.com/search?q=alex+kerfoot) | N/A |
-| 34 | [Harper](http://twitter.com/search?q=Harper) | N/A |
-| 35 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 36 | [lane hutson](http://twitter.com/search?q=lane+hutson) | N/A |
-| 37 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 34 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 35 | [VETTORI](http://twitter.com/search?q=VETTORI) | N/A |
+| 36 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 37 | [lane hutson](http://twitter.com/search?q=lane+hutson) | N/A |
 | 38 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
 | 39 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
-| 40 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
-| 41 | [Sens](http://twitter.com/search?q=Sens) | N/A |
-| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 43 | [St Paddy](http://twitter.com/search?q=St+Paddy) | N/A |
-| 44 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 45 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 46 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 47 | [edler](http://twitter.com/search?q=edler) | N/A |
-| 48 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 49 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 40 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 41 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 42 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 43 | [edler](http://twitter.com/search?q=edler) | N/A |
+| 44 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 45 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 46 | [Sens](http://twitter.com/search?q=Sens) | N/A |
+| 47 | [Johnston](http://twitter.com/search?q=Johnston) | N/A |
+| 48 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 49 | [Fringe](http://twitter.com/search?q=Fringe) | N/A |
 
 
 

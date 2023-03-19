@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-19 10:16:43 UTC`
+📆 Last Updated: `2023-03-19 11:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 2 | [#vamoscolocolo](http://twitter.com/search?q=%23vamoscolocolo) | N/A |
-| 3 | [#LollaCL2023](http://twitter.com/search?q=%23LollaCL2023) | N/A |
-| 4 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 5 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 6 | [#CierreDeFronteras](http://twitter.com/search?q=%23CierreDeFronteras) | N/A |
-| 7 | [#cslvsccxtntsports](http://twitter.com/search?q=%23cslvsccxtntsports) | N/A |
+| 1 | [#LollaCL2023](http://twitter.com/search?q=%23LollaCL2023) | N/A |
+| 2 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 3 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
+| 4 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 5 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 6 | [#cslvsccxtntsports](http://twitter.com/search?q=%23cslvsccxtntsports) | N/A |
+| 7 | [#CierreDeFronteras](http://twitter.com/search?q=%23CierreDeFronteras) | N/A |
 | 8 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
 | 9 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 10 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 11 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 12 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 10 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
+| 11 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 12 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
 | 13 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 14 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 15 | [oroz](http://twitter.com/search?q=oroz) | N/A |
-| 16 | [Requena](http://twitter.com/search?q=Requena) | N/A |
-| 17 | [Moya](http://twitter.com/search?q=Moya) | N/A |
-| 18 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 19 | [René](http://twitter.com/search?q=Ren%c3%a9) | N/A |
-| 20 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 21 | [huachipato](http://twitter.com/search?q=huachipato) | N/A |
-| 22 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 25 | [Billie](http://twitter.com/search?q=Billie) | N/A |
+| 14 | [REQUENA](http://twitter.com/search?q=REQUENA) | N/A |
+| 15 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 16 | [oroz](http://twitter.com/search?q=oroz) | N/A |
+| 17 | [moya](http://twitter.com/search?q=moya) | N/A |
+| 18 | [René](http://twitter.com/search?q=Ren%c3%a9) | N/A |
+| 19 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 20 | [Billie](http://twitter.com/search?q=Billie) | N/A |
+| 21 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 24 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
+| 25 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
 | 26 | [IMEI](http://twitter.com/search?q=IMEI) | N/A |
-| 27 | [nelson acosta](http://twitter.com/search?q=nelson+acosta) | N/A |
-| 28 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
+| 27 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 28 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 29 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 30 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
-| 31 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 32 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 33 | [vamos venezuela](http://twitter.com/search?q=vamos+venezuela) | N/A |
+| 30 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 31 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
+| 32 | [VAMOS VENEZUELA](http://twitter.com/search?q=VAMOS+VENEZUELA) | N/A |
+| 33 | [bolados](http://twitter.com/search?q=bolados) | N/A |
 | 34 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 35 | [Robotech](http://twitter.com/search?q=Robotech) | N/A |
-| 36 | [Tove](http://twitter.com/search?q=Tove) | N/A |
-| 37 | [Jorge Edwards](http://twitter.com/search?q=Jorge+Edwards) | N/A |
-| 38 | [leo gil](http://twitter.com/search?q=leo+gil) | N/A |
-| 39 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 40 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 41 | [Paqui](http://twitter.com/search?q=Paqui) | N/A |
-| 42 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 43 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 44 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 35 | [Tove](http://twitter.com/search?q=Tove) | N/A |
+| 36 | [leo gil](http://twitter.com/search?q=leo+gil) | N/A |
+| 37 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 38 | [Robotech](http://twitter.com/search?q=Robotech) | N/A |
+| 39 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 40 | [Paqui](http://twitter.com/search?q=Paqui) | N/A |
+| 41 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 42 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
+| 43 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
+| 44 | [Jorge Edwards](http://twitter.com/search?q=Jorge+Edwards) | N/A |
 | 45 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
 | 46 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 47 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 48 | [Cuchara](http://twitter.com/search?q=Cuchara) | N/A |
-| 49 | [bouzat](http://twitter.com/search?q=bouzat) | N/A |
+| 47 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 48 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 49 | [lautaro de buin](http://twitter.com/search?q=lautaro+de+buin) | N/A |
 
 
 
