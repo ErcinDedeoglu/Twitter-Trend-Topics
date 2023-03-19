@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-19 08:16:26 UTC`
+📆 Last Updated: `2023-03-19 09:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,49 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NRLBulldogsTigers](http://twitter.com/search?q=%23NRLBulldogsTigers) | N/A |
-| 2 | [#AFLHawksDons](http://twitter.com/search?q=%23AFLHawksDons) | N/A |
-| 3 | [#AFLSaintsFreo](http://twitter.com/search?q=%23AFLSaintsFreo) | N/A |
-| 4 | [#MVCvCCM](http://twitter.com/search?q=%23MVCvCCM) | N/A |
-| 5 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 6 | [Wakeham](http://twitter.com/search?q=Wakeham) | N/A |
-| 7 | [Fyfe](http://twitter.com/search?q=Fyfe) | N/A |
-| 8 | [Tippa](http://twitter.com/search?q=Tippa) | N/A |
-| 9 | [Walla](http://twitter.com/search?q=Walla) | N/A |
-| 10 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 11 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 12 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
-| 13 | [Ross Lyon](http://twitter.com/search?q=Ross+Lyon) | N/A |
-| 14 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
-| 15 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
-| 16 | [Davey](http://twitter.com/search?q=Davey) | N/A |
-| 17 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
-| 18 | [Laird](http://twitter.com/search?q=Laird) | N/A |
-| 19 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 20 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 21 | [Rankine](http://twitter.com/search?q=Rankine) | N/A |
-| 22 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 23 | [St Kilda](http://twitter.com/search?q=St+Kilda) | N/A |
-| 24 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
-| 25 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 26 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
-| 27 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 28 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 29 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 30 | [#NRLRaidersSharks](http://twitter.com/search?q=%23NRLRaidersSharks) | N/A |
-| 31 | [#GoDons](http://twitter.com/search?q=%23GoDons) | N/A |
-| 32 | [#AFLGiantsCrows](http://twitter.com/search?q=%23AFLGiantsCrows) | N/A |
-| 33 | [#FIRvTHU](http://twitter.com/search?q=%23FIRvTHU) | N/A |
-| 34 | [#REDvDRU](http://twitter.com/search?q=%23REDvDRU) | N/A |
-| 35 | [#proudtobeabulldog](http://twitter.com/search?q=%23proudtobeabulldog) | N/A |
-| 36 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
-| 37 | [#LIGvGIA](http://twitter.com/search?q=%23LIGvGIA) | N/A |
-| 38 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
+| 1 | [#AFLSaintsFreo](http://twitter.com/search?q=%23AFLSaintsFreo) | N/A |
+| 2 | [#NRLRaidersSharks](http://twitter.com/search?q=%23NRLRaidersSharks) | N/A |
+| 3 | [#NRLBulldogsTigers](http://twitter.com/search?q=%23NRLBulldogsTigers) | N/A |
+| 4 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 5 | [#MVCvCCM](http://twitter.com/search?q=%23MVCvCCM) | N/A |
+| 6 | [Ross Lyon](http://twitter.com/search?q=Ross+Lyon) | N/A |
+| 7 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 8 | [Fyfe](http://twitter.com/search?q=Fyfe) | N/A |
+| 9 | [Wakeham](http://twitter.com/search?q=Wakeham) | N/A |
+| 10 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
+| 11 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
+| 12 | [Health Centre](http://twitter.com/search?q=Health+Centre) | N/A |
+| 13 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 14 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 15 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 16 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
+| 17 | [Tippa](http://twitter.com/search?q=Tippa) | N/A |
+| 18 | [Walla](http://twitter.com/search?q=Walla) | N/A |
+| 19 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 20 | [St Kilda](http://twitter.com/search?q=St+Kilda) | N/A |
+| 21 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
+| 22 | [Laird](http://twitter.com/search?q=Laird) | N/A |
+| 23 | [Davey](http://twitter.com/search?q=Davey) | N/A |
+| 24 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 25 | [Round 1](http://twitter.com/search?q=Round+1) | N/A |
+| 26 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 27 | [Crows](http://twitter.com/search?q=Crows) | N/A |
+| 28 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 29 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 30 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 31 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 32 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
+| 33 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
+| 34 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
+| 35 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
+| 36 | [#AFLHawksDons](http://twitter.com/search?q=%23AFLHawksDons) | N/A |
+| 37 | [#AustralianIdol](http://twitter.com/search?q=%23AustralianIdol) | N/A |
+| 38 | [#GoDons](http://twitter.com/search?q=%23GoDons) | N/A |
+| 39 | [#proudtobeabulldog](http://twitter.com/search?q=%23proudtobeabulldog) | N/A |
+| 40 | [#FIRvTHU](http://twitter.com/search?q=%23FIRvTHU) | N/A |
+| 41 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
+| 42 | [#LIGvGIA](http://twitter.com/search?q=%23LIGvGIA) | N/A |
+| 43 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 
 
 

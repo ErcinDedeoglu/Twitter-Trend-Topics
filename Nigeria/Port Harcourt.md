@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-19 08:16:34 UTC`
+📆 Last Updated: `2023-03-19 09:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,44 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 2 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 3 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
-| 4 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 5 | [#ElectionResults](http://twitter.com/search?q=%23ElectionResults) | N/A |
-| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 8 | [#NigeriaDeservesPeace](http://twitter.com/search?q=%23NigeriaDeservesPeace) | N/A |
-| 9 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 10 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 11 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 12 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 13 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 16 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 17 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 18 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
-| 19 | [Chude](http://twitter.com/search?q=Chude) | N/A |
-| 20 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 21 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 22 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 23 | [Gbadebo Rhodes](http://twitter.com/search?q=Gbadebo+Rhodes) | N/A |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [DJ Wysei](http://twitter.com/search?q=DJ+Wysei) | N/A |
-| 26 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 27 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 28 | [ROCK IT LIKE YVONNE](http://twitter.com/search?q=ROCK+IT+LIKE+YVONNE) | N/A |
-| 29 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
-| 30 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
-| 31 | [Situation Report](http://twitter.com/search?q=Situation+Report) | N/A |
-| 32 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
-| 33 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 34 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 35 | [Oyo State](http://twitter.com/search?q=Oyo+State) | N/A |
-| 36 | [Ijeoma](http://twitter.com/search?q=Ijeoma) | N/A |
-| 37 | [No Lp](http://twitter.com/search?q=No+Lp) | N/A |
-| 38 | [Desmond](http://twitter.com/search?q=Desmond) | N/A |
-| 39 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
-| 40 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
-| 41 | [House of Assembly](http://twitter.com/search?q=House+of+Assembly) | N/A |
-| 42 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 43 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
-| 44 | [East](http://twitter.com/search?q=East) | N/A |
-| 45 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
-| 46 | [Olumide](http://twitter.com/search?q=Olumide) | N/A |
-| 47 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 48 | [Ogun](http://twitter.com/search?q=Ogun) | N/A |
+| 1 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
+| 2 | [Willimor Freedom](http://twitter.com/search?q=Willimor+Freedom) | N/A |
+| 3 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 4 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
+| 5 | [#ShowSomeLovetoMum](http://twitter.com/search?q=%23ShowSomeLovetoMum) | N/A |
+| 6 | [#sundayservice](http://twitter.com/search?q=%23sundayservice) | N/A |
+| 7 | [#NigeriaDeservesPeace](http://twitter.com/search?q=%23NigeriaDeservesPeace) | N/A |
+| 8 | [Olumide](http://twitter.com/search?q=Olumide) | N/A |
+| 9 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
+| 10 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 11 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 12 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 13 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
+| 14 | [Dapo](http://twitter.com/search?q=Dapo) | N/A |
+| 15 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
+| 16 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
+| 17 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
+| 18 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
+| 19 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 20 | [Badagry](http://twitter.com/search?q=Badagry) | N/A |
+| 21 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 22 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
+| 23 | [Biafran](http://twitter.com/search?q=Biafran) | N/A |
+| 24 | [Fulanis](http://twitter.com/search?q=Fulanis) | N/A |
+| 25 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
+| 26 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 27 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 28 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 29 | [Eastern](http://twitter.com/search?q=Eastern) | N/A |
+| 30 | [Amaechi](http://twitter.com/search?q=Amaechi) | N/A |
+| 31 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
+| 32 | [Abba](http://twitter.com/search?q=Abba) | N/A |
+| 33 | [Nnamdi Kanu](http://twitter.com/search?q=Nnamdi+Kanu) | N/A |
+| 34 | [Otti](http://twitter.com/search?q=Otti) | N/A |
+| 35 | [Toyin](http://twitter.com/search?q=Toyin) | N/A |
+| 36 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 37 | [thanksgiving](http://twitter.com/search?q=thanksgiving) | N/A |
+| 38 | [#MotheringSunday](http://twitter.com/search?q=%23MotheringSunday) | N/A |
 
 
 

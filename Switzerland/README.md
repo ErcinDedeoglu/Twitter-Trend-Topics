@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-19 08:16:57 UTC`
+📆 Last Updated: `2023-03-19 09:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Faschismus](http://twitter.com/search?q=Faschismus) | N/A |
-| 2 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 3 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 4 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 5 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 6 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 7 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 8 | [Coucou](http://twitter.com/search?q=Coucou) | N/A |
-| 9 | [#dudw](http://twitter.com/search?q=%23dudw) | N/A |
-| 10 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 11 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 12 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 13 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
-| 14 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 15 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 16 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 17 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 18 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
-| 19 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
-| 20 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 3 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 4 | [Coucou](http://twitter.com/search?q=Coucou) | N/A |
+| 5 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 6 | [#dudw](http://twitter.com/search?q=%23dudw) | N/A |
+| 7 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 8 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 9 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
+| 10 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 11 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 12 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 13 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 14 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 15 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 16 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 17 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 18 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 20 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 22 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
-| 23 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 24 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 25 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 28 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 29 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
-| 30 | [Schweizer](http://twitter.com/search?q=Schweizer) | N/A |
-| 31 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 32 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 33 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 34 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 37 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 38 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 39 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 40 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 41 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 42 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
-| 43 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 44 | [Ecke](http://twitter.com/search?q=Ecke) | N/A |
-| 45 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 46 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 47 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 48 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 49 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 50 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 23 | [Titel](http://twitter.com/search?q=Titel) | N/A |
+| 24 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 25 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 27 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 28 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 29 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 30 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 31 | [Schweizer](http://twitter.com/search?q=Schweizer) | N/A |
+| 32 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 33 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 34 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 35 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 36 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 37 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 39 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 40 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 41 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 42 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
+| 43 | [Moral](http://twitter.com/search?q=Moral) | N/A |
+| 44 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 45 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 46 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 47 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
+| 48 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 49 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 50 | [Ecke](http://twitter.com/search?q=Ecke) | N/A |
 
 
 

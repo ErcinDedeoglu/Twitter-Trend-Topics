@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-03-19 08:16:48 UTC`
+📆 Last Updated: `2023-03-19 09:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
 | 3 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
 | 4 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 5 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 5 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
 | 6 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 7 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 8 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
-| 9 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 10 | [#FoodWars](http://twitter.com/search?q=%23FoodWars) | N/A |
-| 11 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 12 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 13 | [#CanYouPleaseQuit](http://twitter.com/search?q=%23CanYouPleaseQuit) | N/A |
-| 14 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 7 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 8 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 9 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
+| 10 | [#Wordle638](http://twitter.com/search?q=%23Wordle638) | N/A |
+| 11 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 12 | [#CanYouPleaseQuit](http://twitter.com/search?q=%23CanYouPleaseQuit) | N/A |
+| 13 | [#DreamcatcherinOakland](http://twitter.com/search?q=%23DreamcatcherinOakland) | N/A |
+| 14 | [#FoodWars](http://twitter.com/search?q=%23FoodWars) | N/A |
 | 15 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
 | 16 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
-| 17 | [#Wordle638](http://twitter.com/search?q=%23Wordle638) | N/A |
+| 17 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
 | 18 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 19 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 20 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 19 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 20 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
 | 21 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 22 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 23 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
-| 24 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 25 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
-| 26 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 22 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 23 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 24 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
+| 25 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 26 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 | 27 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
-| 28 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 29 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 30 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 31 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 32 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 33 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 34 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
-| 35 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 36 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 37 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 38 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 39 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
-| 40 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 41 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 42 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 28 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 29 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 30 | [bojangles](http://twitter.com/search?q=bojangles) | N/A |
+| 31 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 32 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 33 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 34 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 35 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 36 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 37 | [Normani](http://twitter.com/search?q=Normani) | N/A |
+| 38 | [Dotson](http://twitter.com/search?q=Dotson) | Dotson is a surname of English origin. It is derived from the Old English given name Dodde, which was a diminutive form of the name Dodd. The meaning of the name is "son of Dodd". |
+| 39 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 40 | [Coco Jones](http://twitter.com/search?q=Coco+Jones) | N/A |
+| 41 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 42 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
 | 43 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 44 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 45 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 46 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 47 | [Dotson](http://twitter.com/search?q=Dotson) | Dotson is a surname of English origin. It is derived from the Old English given name Dodde, which was a diminutive form of the name Dodd. The meaning of the name is "son of Dodd". |
-| 48 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 49 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 50 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
+| 44 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 45 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 46 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 47 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 48 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
+| 49 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 50 | [Reba](http://twitter.com/search?q=Reba) | N/A |
 
 
 
