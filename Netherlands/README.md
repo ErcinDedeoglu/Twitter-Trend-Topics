@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-19 22:18:00 UTC`
+📆 Last Updated: `2023-03-19 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
-| 2 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 4 | [#vitpsv](http://twitter.com/search?q=%23vitpsv) | N/A |
-| 5 | [#grohee](http://twitter.com/search?q=%23grohee) | N/A |
-| 6 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
-| 7 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 8 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 9 | [#tweaz](http://twitter.com/search?q=%23tweaz) | N/A |
-| 10 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 12 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 13 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 2 | [#studiovoetbal](http://twitter.com/search?q=%23studiovoetbal) | N/A |
+| 3 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 4 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 5 | [#vitpsv](http://twitter.com/search?q=%23vitpsv) | N/A |
+| 6 | [#grohee](http://twitter.com/search?q=%23grohee) | N/A |
+| 7 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
+| 8 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 9 | [Vaart](http://twitter.com/search?q=Vaart) | N/A |
+| 10 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 11 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 13 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
 | 14 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 15 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 16 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 17 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
-| 18 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 19 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 20 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 15 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 16 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 17 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 18 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 19 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
+| 20 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
 | 21 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 22 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 23 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 22 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 23 | [Arena](http://twitter.com/search?q=Arena) | N/A |
 | 24 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 25 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 26 | [Spekman](http://twitter.com/search?q=Spekman) | N/A |
-| 27 | [Lukkien](http://twitter.com/search?q=Lukkien) | N/A |
-| 28 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 29 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
-| 30 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
+| 25 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 26 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 27 | [Spekman](http://twitter.com/search?q=Spekman) | N/A |
+| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 29 | [Lukkien](http://twitter.com/search?q=Lukkien) | N/A |
+| 30 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
 | 31 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 32 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 33 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 34 | [Willems](http://twitter.com/search?q=Willems) | N/A |
-| 35 | [Nienke](http://twitter.com/search?q=Nienke) | N/A |
-| 36 | [Vaart](http://twitter.com/search?q=Vaart) | N/A |
-| 37 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 38 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
-| 39 | [Hancko](http://twitter.com/search?q=Hancko) | N/A |
-| 40 | [Marioepol](http://twitter.com/search?q=Marioepol) | N/A |
-| 41 | [Trusten](http://twitter.com/search?q=Trusten) | N/A |
+| 32 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | N/A |
+| 33 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
+| 34 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 35 | [Willems](http://twitter.com/search?q=Willems) | N/A |
+| 36 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
+| 37 | [Nienke](http://twitter.com/search?q=Nienke) | N/A |
+| 38 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 39 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
+| 40 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 41 | [Marioepol](http://twitter.com/search?q=Marioepol) | N/A |
 | 42 | [Ajacieden](http://twitter.com/search?q=Ajacieden) | N/A |
 | 43 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 44 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
-| 45 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 46 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 48 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 49 | [Pieter Omtzigt](http://twitter.com/search?q=Pieter+Omtzigt) | N/A |
-| 50 | [Geertruida](http://twitter.com/search?q=Geertruida) | N/A |
+| 44 | [Hancko](http://twitter.com/search?q=Hancko) | N/A |
+| 45 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
+| 46 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
+| 47 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 48 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 49 | [Hugo Borst](http://twitter.com/search?q=Hugo+Borst) | N/A |
+| 50 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
 
 
 

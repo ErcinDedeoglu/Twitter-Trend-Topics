@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-19 22:18:02 UTC`
+📆 Last Updated: `2023-03-19 23:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,14 +42,14 @@ This is top 50 for Singapore
 | 25 | [kiara onjourneyofhope](http://twitter.com/search?q=kiara+onjourneyofhope) | N/A |
 | 26 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
 | 27 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 31 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 32 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 33 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 34 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 35 | [Balaji](http://twitter.com/search?q=Balaji) | N/A |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 30 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 31 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 32 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 33 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 34 | [Balaji](http://twitter.com/search?q=Balaji) | N/A |
+| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 36 | [Reddy](http://twitter.com/search?q=Reddy) | N/A |
 | 37 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 38 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
@@ -57,14 +57,14 @@ This is top 50 for Singapore
 | 40 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 | 41 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 43 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 44 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 45 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 46 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 47 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 48 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 49 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 50 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 43 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 44 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 45 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 46 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
+| 47 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 48 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 49 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 50 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
 
 
 

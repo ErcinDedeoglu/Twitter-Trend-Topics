@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-19 22:17:19 UTC`
+📆 Last Updated: `2023-03-19 23:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for [Latvia](</Latvia>)
 | 11 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
 | 12 | [Laikam](http://twitter.com/search?q=Laikam) | N/A |
 | 13 | [Staķis](http://twitter.com/search?q=Sta%c4%b7is) | N/A |
-| 14 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
-| 15 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
-| 16 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
-| 17 | [Zinu](http://twitter.com/search?q=Zinu) | N/A |
-| 18 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 20 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 21 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
-| 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 23 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 24 | [Pievienojos](http://twitter.com/search?q=Pievienojos) | N/A |
-| 25 | [#colic](http://twitter.com/search?q=%23colic) | N/A |
-| 26 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
-| 27 | [Kādu](http://twitter.com/search?q=K%c4%81du) | N/A |
-| 28 | [pirms](http://twitter.com/search?q=pirms) | N/A |
-| 29 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
-| 30 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
-| 31 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
-| 32 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 34 | [Droši](http://twitter.com/search?q=Dro%c5%a1i) | N/A |
-| 35 | [Kapēc](http://twitter.com/search?q=Kap%c4%93c) | N/A |
-| 36 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
-| 37 | [#UnrealEngine](http://twitter.com/search?q=%23UnrealEngine) | N/A |
-| 38 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 39 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 40 | [Kādi](http://twitter.com/search?q=K%c4%81di) | N/A |
+| 14 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
+| 15 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 16 | [Zinu](http://twitter.com/search?q=Zinu) | N/A |
+| 17 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 18 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 19 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
+| 20 | [Pievienojos](http://twitter.com/search?q=Pievienojos) | N/A |
+| 21 | [#colic](http://twitter.com/search?q=%23colic) | N/A |
+| 22 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 23 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
+| 24 | [kādu](http://twitter.com/search?q=k%c4%81du) | N/A |
+| 25 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 26 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
+| 27 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
+| 28 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
+| 29 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 31 | [Droši](http://twitter.com/search?q=Dro%c5%a1i) | N/A |
+| 32 | [Kapēc](http://twitter.com/search?q=Kap%c4%93c) | N/A |
+| 33 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
+| 34 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
+| 35 | [#UnrealEngine](http://twitter.com/search?q=%23UnrealEngine) | N/A |
+| 36 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 37 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 38 | [Kādi](http://twitter.com/search?q=K%c4%81di) | N/A |
+| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 40 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
 | 41 | [Mans](http://twitter.com/search?q=Mans) | N/A |
 | 42 | [Earth](http://twitter.com/search?q=Earth) | N/A |
 | 43 | [Ceru](http://twitter.com/search?q=Ceru) | N/A |
 | 44 | [German](http://twitter.com/search?q=German) | N/A |
 | 45 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 46 | [liepāju](http://twitter.com/search?q=liep%c4%81ju) | N/A |
-| 47 | [Atkal](http://twitter.com/search?q=Atkal) | N/A |
-| 48 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 49 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 50 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
+| 47 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 48 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
+| 49 | [vajag](http://twitter.com/search?q=vajag) | N/A |
+| 50 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-03-19 22:17:54 UTC`
+📆 Last Updated: `2023-03-19 23:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [クラシコ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b7%e3%82%b3) | クラシコ is a Japanese word that means "classico," or classic. It is used to describe something that has a timeless, traditional style or quality. |
-| 2 | [アセンシオ](http://twitter.com/search?q=%e3%82%a2%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%aa) | アセンシオ is a Japanese word that means "ascension" or "elevation". It is often used to refer to spiritual or physical ascension, such as the ascension of a person to a higher level of consciousness or the elevation of an object to a higher position. |
-| 3 | [ベンゼマ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%82%bc%e3%83%9e) | N/A |
-| 4 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
-| 5 | [無料100連](http://twitter.com/search?q=%e7%84%a1%e6%96%99100%e9%80%a3) | 無料100連 is a type of lottery game in Japan. It translates to "Free 100 Draws" and is a lottery game where players can win prizes by drawing 100 times for free. |
+| 1 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
+| 2 | [無料100連](http://twitter.com/search?q=%e7%84%a1%e6%96%99100%e9%80%a3) | 無料100連 is a type of lottery game in Japan. It translates to "Free 100 Draws" and is a lottery game where players can win prizes by drawing 100 times for free. |
+| 3 | [ダイヤ改正](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a4%e6%94%b9%e6%ad%a3) | N/A |
+| 4 | [クラシコ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b7%e3%82%b3) | クラシコ is a Japanese word that means "classico," or classic. It is used to describe something that has a timeless, traditional style or quality. |
+| 5 | [ベンゼマ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%82%bc%e3%83%9e) | N/A |
 | 6 | [ビートルジュース](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%88%e3%83%ab%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%b9) | N/A |
-| 7 | [丹生ちゃん](http://twitter.com/search?q=%e4%b8%b9%e7%94%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 8 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
-| 9 | [ロドリゴ](http://twitter.com/search?q=%e3%83%ad%e3%83%89%e3%83%aa%e3%82%b4) | ロドリゴ is a Spanish name. It is derived from the Latin name Rodericus, which means "famous power". In English, it can be translated to mean "famous ruler". |
-| 10 | [セルジロベルト](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%82%b8%e3%83%ad%e3%83%99%e3%83%ab%e3%83%88) | N/A |
-| 11 | [カルバハル](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%83%90%e3%83%8f%e3%83%ab) | N/A |
-| 12 | [アラウホ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%a6%e3%83%9b) | N/A |
-| 13 | [ブスケツ](http://twitter.com/search?q=%e3%83%96%e3%82%b9%e3%82%b1%e3%83%84) | N/A |
-| 14 | [#f1jp](http://twitter.com/search?q=%23f1jp) | N/A |
-| 15 | [#おは戦50320mg](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650320mg) | N/A |
-| 16 | [#ohayomorning](http://twitter.com/search?q=%23ohayomorning) | N/A |
-| 17 | [パレデス](http://twitter.com/search?q=%e3%83%91%e3%83%ac%e3%83%87%e3%82%b9) | N/A |
-| 18 | [セバージョス](http://twitter.com/search?q=%e3%82%bb%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%82%b9) | N/A |
-| 19 | [カマヴィンガ](http://twitter.com/search?q=%e3%82%ab%e3%83%9e%e3%83%b4%e3%82%a3%e3%83%b3%e3%82%ac) | N/A |
-| 20 | [ヴィニシウス](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%8b%e3%82%b7%e3%82%a6%e3%82%b9) | N/A |
-| 21 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
-| 22 | [#HappyHyunjinDay](http://twitter.com/search?q=%23HappyHyunjinDay) | N/A |
-| 23 | [キエーザ](http://twitter.com/search?q=%e3%82%ad%e3%82%a8%e3%83%bc%e3%82%b6) | N/A |
-| 24 | [飛鳥ちゃん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%a1%e3%82%83%e3%82%93) | 飛鳥ちゃん is a nickname for the Japanese actress Asuka Kudo. It is derived from her given name, which can be translated to "flying bird" in English. |
-| 25 | [コスティッチ](http://twitter.com/search?q=%e3%82%b3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%83%e3%83%81) | N/A |
-| 26 | [#日向坂で会いましょう](http://twitter.com/search?q=%23%e6%97%a5%e5%90%91%e5%9d%82%e3%81%a7%e4%bc%9a%e3%81%84%e3%81%be%e3%81%97%e3%82%87%e3%81%86) | #日向坂で会いましょう is a Japanese phrase that translates to "Let's meet at Hinatazaka". It is a reference to the popular Japanese idol group Hinatazaka46. |
-| 27 | [バレッラ](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%83%e3%83%a9) | N/A |
-| 28 | [シーズンダブル](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e3%83%80%e3%83%96%e3%83%ab) | シーズンダブル (Season Double) is a term used in Japanese baseball to refer to a player who has achieved 20 or more home runs and 20 or more stolen bases in the same season. It is considered an impressive feat of athleticism and skill. |
-| 29 | [バルセロナ](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%82%bb%e3%83%ad%e3%83%8a) | N/A |
-| 30 | [若アニメ化](http://twitter.com/search?q=%e8%8b%a5%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
-| 31 | [リミ武器](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e6%ad%a6%e5%99%a8) | N/A |
-| 32 | [メンディ](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%87%e3%82%a3) | N/A |
-| 33 | [地下鉄サリン事件](http://twitter.com/search?q=%e5%9c%b0%e4%b8%8b%e9%89%84%e3%82%b5%e3%83%aa%e3%83%b3%e4%ba%8b%e4%bb%b6) | N/A |
-| 34 | [フレンキー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
-| 35 | [レヴァンドフスキ](http://twitter.com/search?q=%e3%83%ac%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%89%e3%83%95%e3%82%b9%e3%82%ad) | N/A |
-| 36 | [クルトワ](http://twitter.com/search?q=%e3%82%af%e3%83%ab%e3%83%88%e3%83%af) | N/A |
-| 37 | [チュアメニ](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%82%a2%e3%83%a1%e3%83%8b) | N/A |
-| 38 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
-| 39 | [アンチェロッティ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%81%e3%82%a7%e3%83%ad%e3%83%83%e3%83%86%e3%82%a3) | N/A |
-| 40 | [福田雄一](http://twitter.com/search?q=%e7%a6%8f%e7%94%b0%e9%9b%84%e4%b8%80) | N/A |
-| 41 | [ガッティ](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%83%86%e3%82%a3) | N/A |
-| 42 | [ファジョーリ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%b8%e3%83%a7%e3%83%bc%e3%83%aa) | N/A |
-| 43 | [デンベレ](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%83%99%e3%83%ac) | デンベレ is a Japanese word that means "to be embarrassed or ashamed". It is often used to describe feeling embarrassed or ashamed of one's own actions. |
-| 44 | [カンプノウ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%97%e3%83%8e%e3%82%a6) | N/A |
-| 45 | [第423回](http://twitter.com/search?q=%e7%ac%ac423%e5%9b%9e) | N/A |
-| 46 | [ブロードウェイミュージカル](http://twitter.com/search?q=%e3%83%96%e3%83%ad%e3%83%bc%e3%83%89%e3%82%a6%e3%82%a7%e3%82%a4%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%ab%e3%83%ab) | N/A |
-| 47 | [ファティ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%86%e3%82%a3) | N/A |
-| 48 | [福田監督](http://twitter.com/search?q=%e7%a6%8f%e7%94%b0%e7%9b%a3%e7%9d%a3) | N/A |
-| 49 | [クレディ・スイス買収](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%83%87%e3%82%a3%e3%83%bb%e3%82%b9%e3%82%a4%e3%82%b9%e8%b2%b7%e5%8f%8e) | N/A |
-| 50 | [にぶちゃんセンター](http://twitter.com/search?q=%e3%81%ab%e3%81%b6%e3%81%a1%e3%82%83%e3%82%93%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 7 | [アセンシオ](http://twitter.com/search?q=%e3%82%a2%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%aa) | アセンシオ is a Japanese word that means "ascension" or "elevation". It is often used to refer to spiritual or physical ascension, such as the ascension of a person to a higher level of consciousness or the elevation of an object to a higher position. |
+| 8 | [丹生ちゃん](http://twitter.com/search?q=%e4%b8%b9%e7%94%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 9 | [地下鉄サリン事件](http://twitter.com/search?q=%e5%9c%b0%e4%b8%8b%e9%89%84%e3%82%b5%e3%83%aa%e3%83%b3%e4%ba%8b%e4%bb%b6) | N/A |
+| 10 | [一郎さん](http://twitter.com/search?q=%e4%b8%80%e9%83%8e%e3%81%95%e3%82%93) | N/A |
+| 11 | [#おは戦50320mg](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650320mg) | N/A |
+| 12 | [#山口一郎](http://twitter.com/search?q=%23%e5%b1%b1%e5%8f%a3%e4%b8%80%e9%83%8e) | N/A |
+| 13 | [アラウホ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%a6%e3%83%9b) | N/A |
+| 14 | [若アニメ化](http://twitter.com/search?q=%e8%8b%a5%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
+| 15 | [カルバハル](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%83%90%e3%83%8f%e3%83%ab) | N/A |
+| 16 | [ロドリゴ](http://twitter.com/search?q=%e3%83%ad%e3%83%89%e3%83%aa%e3%82%b4) | ロドリゴ is a Spanish name. It is derived from the Latin name Rodericus, which means "famous power". In English, it can be translated to mean "famous ruler". |
+| 17 | [リミ武器](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e6%ad%a6%e5%99%a8) | N/A |
+| 18 | [#HappyHyunjinDay](http://twitter.com/search?q=%23HappyHyunjinDay) | N/A |
+| 19 | [#サカナクション](http://twitter.com/search?q=%23%e3%82%b5%e3%82%ab%e3%83%8a%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 20 | [飛鳥ちゃん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%a1%e3%82%83%e3%82%93) | 飛鳥ちゃん is a nickname for the Japanese actress Asuka Kudo. It is derived from her given name, which can be translated to "flying bird" in English. |
+| 21 | [ブスケツ](http://twitter.com/search?q=%e3%83%96%e3%82%b9%e3%82%b1%e3%83%84) | N/A |
+| 22 | [#ohayomorning](http://twitter.com/search?q=%23ohayomorning) | N/A |
+| 23 | [プリントゴッコ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88%e3%82%b4%e3%83%83%e3%82%b3) | N/A |
+| 24 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
+| 25 | [セルジロベルト](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%82%b8%e3%83%ad%e3%83%99%e3%83%ab%e3%83%88) | N/A |
+| 26 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
+| 27 | [ヴィニシウス](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%8b%e3%82%b7%e3%82%a6%e3%82%b9) | N/A |
+| 28 | [芋ぴっぴ](http://twitter.com/search?q=%e8%8a%8b%e3%81%b4%e3%81%a3%e3%81%b4) | N/A |
+| 29 | [週の始まり](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
+| 30 | [福田雄一](http://twitter.com/search?q=%e7%a6%8f%e7%94%b0%e9%9b%84%e4%b8%80) | N/A |
+| 31 | [セバージョス](http://twitter.com/search?q=%e3%82%bb%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%82%b9) | N/A |
+| 32 | [パレデス](http://twitter.com/search?q=%e3%83%91%e3%83%ac%e3%83%87%e3%82%b9) | N/A |
+| 33 | [電車のダイヤ](http://twitter.com/search?q=%e9%9b%bb%e8%bb%8a%e3%81%ae%e3%83%80%e3%82%a4%e3%83%a4) | N/A |
+| 34 | [上手の若君](http://twitter.com/search?q=%e4%b8%8a%e6%89%8b%e3%81%ae%e8%8b%a5%e5%90%9b) | N/A |
+| 35 | [トットちゃん](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%88%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 36 | [カマヴィンガ](http://twitter.com/search?q=%e3%82%ab%e3%83%9e%e3%83%b4%e3%82%a3%e3%83%b3%e3%82%ac) | N/A |
+| 37 | [フレンキー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
+| 38 | [電卓の日](http://twitter.com/search?q=%e9%9b%bb%e5%8d%93%e3%81%ae%e6%97%a5) | N/A |
+| 39 | [第423回](http://twitter.com/search?q=%e7%ac%ac423%e5%9b%9e) | N/A |
+| 40 | [福田監督](http://twitter.com/search?q=%e7%a6%8f%e7%94%b0%e7%9b%a3%e7%9d%a3) | N/A |
+| 41 | [SSR4](http://twitter.com/search?q=SSR4) | N/A |
+| 42 | [コスティッチ](http://twitter.com/search?q=%e3%82%b3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%83%e3%83%81) | N/A |
+| 43 | [iniの投稿動画](http://twitter.com/search?q=ini%e3%81%ae%e6%8a%95%e7%a8%bf%e5%8b%95%e7%94%bb) | Ini no Toukou Douga is a Japanese term that refers to videos posted on the internet. It is often used to refer to videos posted on social media sites such as YouTube, NicoNico Douga, and other video sharing sites. The term literally translates to "posting video" in English. |
+| 44 | [休みの人](http://twitter.com/search?q=%e4%bc%91%e3%81%bf%e3%81%ae%e4%ba%ba) | N/A |
+| 45 | [グラブル100連](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%96%e3%83%ab100%e9%80%a3) | N/A |
+| 46 | [バルセロナ](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%82%bb%e3%83%ad%e3%83%8a) | N/A |
+| 47 | [クレディ・スイス買収](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%83%87%e3%82%a3%e3%83%bb%e3%82%b9%e3%82%a4%e3%82%b9%e8%b2%b7%e5%8f%8e) | N/A |
+| 48 | [ドル供給強化](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e4%be%9b%e7%b5%a6%e5%bc%b7%e5%8c%96) | N/A |
+| 49 | [日米欧の6中銀](http://twitter.com/search?q=%e6%97%a5%e7%b1%b3%e6%ac%a7%e3%81%ae6%e4%b8%ad%e9%8a%80) | N/A |
+| 50 | [キエーザ](http://twitter.com/search?q=%e3%82%ad%e3%82%a8%e3%83%bc%e3%82%b6) | N/A |
 
 
 
