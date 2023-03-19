@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-19 09:17:09 UTC`
+📆 Last Updated: `2023-03-19 10:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 2 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 3 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 4 | [#forthecrown](http://twitter.com/search?q=%23forthecrown) | N/A |
-| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 6 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 7 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 8 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 9 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 10 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 11 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 12 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
-| 13 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 14 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 15 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 16 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 17 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
-| 18 | [#Wordle638](http://twitter.com/search?q=%23Wordle638) | N/A |
-| 19 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 20 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 21 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
-| 22 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 23 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 24 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 1 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 2 | [#forthecrown](http://twitter.com/search?q=%23forthecrown) | N/A |
+| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 4 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 5 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 6 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 7 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 8 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 9 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 11 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
+| 12 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
+| 13 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 14 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 15 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 16 | [#Wordle638](http://twitter.com/search?q=%23Wordle638) | N/A |
+| 17 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
+| 18 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
+| 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 20 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 21 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 22 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 23 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 24 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
 | 25 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 26 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 27 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 28 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 29 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
-| 30 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 31 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 32 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
-| 33 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 34 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 35 | [bojangles](http://twitter.com/search?q=bojangles) | N/A |
-| 36 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 37 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 38 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
-| 39 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 40 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 41 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 42 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 43 | [Normani](http://twitter.com/search?q=Normani) | N/A |
-| 44 | [Dotson](http://twitter.com/search?q=Dotson) | Dotson is a surname of English origin. It is derived from the Old English given name Dodde, which was a diminutive form of the name Dodd. The meaning of the name is "son of Dodd". |
-| 45 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 46 | [Coco Jones](http://twitter.com/search?q=Coco+Jones) | N/A |
-| 47 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 26 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 27 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
+| 28 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 29 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
+| 30 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 31 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 32 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 33 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 34 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 35 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 36 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
+| 37 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 38 | [GRAND SLAM](http://twitter.com/search?q=GRAND+SLAM) | N/A |
+| 39 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 40 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 41 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 42 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 43 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 44 | [Normani](http://twitter.com/search?q=Normani) | N/A |
+| 45 | [Coco Jones](http://twitter.com/search?q=Coco+Jones) | N/A |
+| 46 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 47 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
 | 48 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 49 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 50 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 49 | [Lara](http://twitter.com/search?q=Lara) | N/A |
 
 
 

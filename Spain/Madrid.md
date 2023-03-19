@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-19 09:16:46 UTC`
+📆 Last Updated: `2023-03-19 10:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,38 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carmena](http://twitter.com/search?q=Carmena) | N/A |
+| 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 2 | [#FelizDiaDelPadre](http://twitter.com/search?q=%23FelizDiaDelPadre) | N/A |
 | 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 4 | [Pepes](http://twitter.com/search?q=Pepes) | N/A |
-| 5 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 6 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 7 | [#19demarzo](http://twitter.com/search?q=%2319demarzo) | N/A |
-| 8 | [#19Marzo](http://twitter.com/search?q=%2319Marzo) | N/A |
-| 9 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
-| 10 | [Pepitas](http://twitter.com/search?q=Pepitas) | N/A |
-| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 12 | [foulquier](http://twitter.com/search?q=foulquier) | N/A |
-| 13 | [Paula Gonu](http://twitter.com/search?q=Paula+Gonu) | N/A |
-| 14 | [Jn 9](http://twitter.com/search?q=Jn+9) | N/A |
-| 15 | [IV Domingo de Cuaresma](http://twitter.com/search?q=IV+Domingo+de+Cuaresma) | N/A |
-| 16 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 17 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 18 | [Pedro Solbes](http://twitter.com/search?q=Pedro+Solbes) | N/A |
-| 19 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 20 | [Roma Gallardo](http://twitter.com/search?q=Roma+Gallardo) | N/A |
-| 21 | [Domingo de Laetare](http://twitter.com/search?q=Domingo+de+Laetare) | N/A |
-| 22 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 23 | [Hoy 19](http://twitter.com/search?q=Hoy+19) | N/A |
-| 24 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 25 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 26 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 27 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 28 | [Maguiro](http://twitter.com/search?q=Maguiro) | N/A |
-| 29 | [Gabri Veiga](http://twitter.com/search?q=Gabri+Veiga) | Gabri Veiga is a Portuguese name. It is derived from the Hebrew name Gabriel, which means "God is my strength". |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 32 | [carles pérez](http://twitter.com/search?q=carles+p%c3%a9rez) | N/A |
-| 33 | [Guillamon](http://twitter.com/search?q=Guillamon) | N/A |
-| 34 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
-| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 36 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 37 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
-| 38 | [Laura Valenzuela](http://twitter.com/search?q=Laura+Valenzuela) | N/A |
-| 39 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 40 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 41 | [felices 104](http://twitter.com/search?q=felices+104) | N/A |
-| 42 | [Mario Hermoso](http://twitter.com/search?q=Mario+Hermoso) | N/A |
-| 43 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 44 | [Los Salesianos](http://twitter.com/search?q=Los+Salesianos) | N/A |
-| 45 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 46 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 47 | [Munuera](http://twitter.com/search?q=Munuera) | N/A |
-| 48 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
-| 49 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
-| 50 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 5 | [#19Marzo](http://twitter.com/search?q=%2319Marzo) | N/A |
+| 6 | [#19demarzo](http://twitter.com/search?q=%2319demarzo) | N/A |
+| 7 | [#PrimaveraRadio3](http://twitter.com/search?q=%23PrimaveraRadio3) | N/A |
+| 8 | [Pepitas](http://twitter.com/search?q=Pepitas) | N/A |
+| 9 | [IV Domingo de Cuaresma](http://twitter.com/search?q=IV+Domingo+de+Cuaresma) | N/A |
+| 10 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 11 | [Hoy 19](http://twitter.com/search?q=Hoy+19) | N/A |
+| 12 | [Antonio Maestre](http://twitter.com/search?q=Antonio+Maestre) | N/A |
+| 13 | [Jn 9](http://twitter.com/search?q=Jn+9) | N/A |
+| 14 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
+| 15 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 16 | [Santo](http://twitter.com/search?q=Santo) | N/A |
+| 17 | [El 19](http://twitter.com/search?q=El+19) | N/A |
+| 18 | [Carmena](http://twitter.com/search?q=Carmena) | N/A |
+| 19 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 20 | [Felicitats](http://twitter.com/search?q=Felicitats) | N/A |
+| 21 | [Domingo 19](http://twitter.com/search?q=Domingo+19) | N/A |
+| 22 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 23 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
+| 26 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 27 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 28 | [#CCubicos317](http://twitter.com/search?q=%23CCubicos317) | N/A |
+| 29 | [#APOYOROCIO19M](http://twitter.com/search?q=%23APOYOROCIO19M) | N/A |
+| 30 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
+| 31 | [#YoMeRebelo19M](http://twitter.com/search?q=%23YoMeRebelo19M) | N/A |
+| 32 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
 
 
 

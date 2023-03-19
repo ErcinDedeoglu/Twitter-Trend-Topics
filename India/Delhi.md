@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-19 09:17:16 UTC`
+📆 Last Updated: `2023-03-19 10:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 2 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 3 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 4 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 5 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 6 | [#SuryakumarYadav](http://twitter.com/search?q=%23SuryakumarYadav) | #SuryakumarYadav is the name of an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. He is known for his aggressive batting style and is considered one of the most promising young batsmen in India. |
-| 7 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 8 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 9 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 10 | [#Vizag](http://twitter.com/search?q=%23Vizag) | N/A |
-| 11 | [#DelhiPolice](http://twitter.com/search?q=%23DelhiPolice) | N/A |
-| 12 | [3 YRS OF BHULA DUNGA](http://twitter.com/search?q=3+YRS+OF+BHULA+DUNGA) | N/A |
-| 13 | [#STSangamam](http://twitter.com/search?q=%23STSangamam) | N/A |
-| 14 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 15 | [Justice4 Sushant Singh Rajput](http://twitter.com/search?q=Justice4+Sushant+Singh+Rajput) | Justice4 Sushant Singh Rajput is a hashtag used by supporters of the late actor Sushant Singh Rajput to demand justice for his death. The phrase is used to call for an investigation into the circumstances surrounding his death and to seek accountability from those responsible. In English, it means "seeking justice for Sushant Singh Rajput". |
-| 16 | [Sanju Samson](http://twitter.com/search?q=Sanju+Samson) | N/A |
-| 17 | [STYLE ICON PRIYANKA](http://twitter.com/search?q=STYLE+ICON+PRIYANKA) | N/A |
-| 18 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 19 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 20 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
-| 21 | [हिंदू राष्ट्र संकल्प](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa) | N/A |
-| 22 | [Ishan](http://twitter.com/search?q=Ishan) | N/A |
-| 23 | [Momench](http://twitter.com/search?q=Momench) | N/A |
-| 24 | [Saurashtra Tamil Sangamam](http://twitter.com/search?q=Saurashtra+Tamil+Sangamam) | N/A |
-| 25 | [नेहा राठौर](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%b0) | N/A |
-| 26 | [Ab To Riha Karo](http://twitter.com/search?q=Ab+To+Riha+Karo) | Ab To Riha Karo is a Hindi phrase which translates to "Let it go now". It is used to express the idea of letting go of something or someone that has been causing pain or distress. |
-| 27 | [Nyay Ki Mang](http://twitter.com/search?q=Nyay+Ki+Mang) | N/A |
-| 28 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 29 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
-| 30 | [ब्राह्मण समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 31 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
-| 32 | [बिजली संकट](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%9f) | N/A |
-| 33 | [Mufa](http://twitter.com/search?q=Mufa) | N/A |
-| 34 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 35 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 36 | [Pols](http://twitter.com/search?q=Pols) | N/A |
-| 37 | [Teleprompter](http://twitter.com/search?q=Teleprompter) | N/A |
-| 38 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 39 | [बागेश्वर धाम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
-| 40 | [वारिस पंजाब](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac) | N/A |
-| 41 | [Law Minister](http://twitter.com/search?q=Law+Minister) | N/A |
-| 42 | [#RohitSharma](http://twitter.com/search?q=%23RohitSharma) | #RohitSharma is a hashtag used to refer to the Indian cricketer Rohit Sharma. He is a right-handed batsman and occasional right-arm off break bowler who plays for the Indian national cricket team. |
-| 43 | [#जयगुरुदेव_ध्वजा_फहराएं](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5_%e0%a4%a7%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%be_%e0%a4%ab%e0%a4%b9%e0%a4%b0%e0%a4%be%e0%a4%8f%e0%a4%82) | N/A |
-| 44 | [#JaganannaVidyaDeevena](http://twitter.com/search?q=%23JaganannaVidyaDeevena) | N/A |
-| 45 | [#DulquerSalmaan](http://twitter.com/search?q=%23DulquerSalmaan) | N/A |
-| 46 | [#2ndODI](http://twitter.com/search?q=%232ndODI) | N/A |
-| 47 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
-| 48 | [#BharatJodoYatra](http://twitter.com/search?q=%23BharatJodoYatra) | N/A |
-| 49 | [#KingOfKotha](http://twitter.com/search?q=%23KingOfKotha) | N/A |
-| 50 | [#Visakhapatnam](http://twitter.com/search?q=%23Visakhapatnam) | N/A |
+| 1 | [बिजली विभाग](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 2 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 3 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
+| 4 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
+| 5 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 6 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 7 | [#MrsChatterjeeWinsHearts](http://twitter.com/search?q=%23MrsChatterjeeWinsHearts) | N/A |
+| 8 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 9 | [#SuryakumarYadav](http://twitter.com/search?q=%23SuryakumarYadav) | #SuryakumarYadav is the name of an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. He is known for his aggressive batting style and is considered one of the most promising young batsmen in India. |
+| 10 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 11 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 12 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 13 | [Nathan Ellis](http://twitter.com/search?q=Nathan+Ellis) | N/A |
+| 14 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 15 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 16 | [3 YRS OF BHULA DUNGA](http://twitter.com/search?q=3+YRS+OF+BHULA+DUNGA) | N/A |
+| 17 | [Sanju Samson](http://twitter.com/search?q=Sanju+Samson) | N/A |
+| 18 | [Justice4 Sushant Singh Rajput](http://twitter.com/search?q=Justice4+Sushant+Singh+Rajput) | Justice4 Sushant Singh Rajput is a hashtag used by supporters of the late actor Sushant Singh Rajput to demand justice for his death. The phrase is used to call for an investigation into the circumstances surrounding his death and to seek accountability from those responsible. In English, it means "seeking justice for Sushant Singh Rajput". |
+| 19 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
+| 20 | [STYLE ICON PRIYANKA](http://twitter.com/search?q=STYLE+ICON+PRIYANKA) | N/A |
+| 21 | [Boult](http://twitter.com/search?q=Boult) | N/A |
+| 22 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 23 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
+| 24 | [Rani Mukherjee](http://twitter.com/search?q=Rani+Mukherjee) | N/A |
+| 25 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
+| 26 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 27 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 28 | [Momench](http://twitter.com/search?q=Momench) | N/A |
+| 29 | [नेहा राठौर](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%b0) | N/A |
+| 30 | [Saurashtra Tamil Sangamam](http://twitter.com/search?q=Saurashtra+Tamil+Sangamam) | N/A |
+| 31 | [हिंदू राष्ट्र संकल्प](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa) | N/A |
+| 32 | [बिहार सरकार](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 33 | [Ab To Riha Karo](http://twitter.com/search?q=Ab+To+Riha+Karo) | Ab To Riha Karo is a Hindi phrase which translates to "Let it go now". It is used to express the idea of letting go of something or someone that has been causing pain or distress. |
+| 34 | [Nyay Ki Mang](http://twitter.com/search?q=Nyay+Ki+Mang) | N/A |
+| 35 | [Ishan](http://twitter.com/search?q=Ishan) | N/A |
+| 36 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 37 | [बिजली संकट](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%9f) | N/A |
+| 38 | [ब्राह्मण समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 39 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 40 | [Waris Punjab](http://twitter.com/search?q=Waris+Punjab) | N/A |
+| 41 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 42 | [Teleprompter](http://twitter.com/search?q=Teleprompter) | N/A |
+| 43 | [Mufa](http://twitter.com/search?q=Mufa) | N/A |
+| 44 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 45 | [Pols](http://twitter.com/search?q=Pols) | N/A |
+| 46 | [Rain](http://twitter.com/search?q=Rain) | N/A |
+| 47 | [बागेश्वर धाम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
+| 48 | [#PricelessPlanetCoalition](http://twitter.com/search?q=%23PricelessPlanetCoalition) | N/A |
+| 49 | [#DelhiPolice](http://twitter.com/search?q=%23DelhiPolice) | N/A |
+| 50 | [#जयगुरुदेव_ध्वजा_फहराएं](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5_%e0%a4%a7%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%be_%e0%a4%ab%e0%a4%b9%e0%a4%b0%e0%a4%be%e0%a4%8f%e0%a4%82) | N/A |
 
 
 

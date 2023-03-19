@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-19 09:16:57 UTC`
+📆 Last Updated: `2023-03-19 10:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,45 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
-| 2 | [Willimor Freedom](http://twitter.com/search?q=Willimor+Freedom) | N/A |
-| 3 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 4 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
+| 2 | [#34MOrdersOnOwlet](http://twitter.com/search?q=%2334MOrdersOnOwlet) | N/A |
+| 3 | [Willimor Freedom](http://twitter.com/search?q=Willimor+Freedom) | N/A |
+| 4 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
 | 5 | [#ShowSomeLovetoMum](http://twitter.com/search?q=%23ShowSomeLovetoMum) | N/A |
-| 6 | [#sundayservice](http://twitter.com/search?q=%23sundayservice) | N/A |
-| 7 | [#NigeriaDeservesPeace](http://twitter.com/search?q=%23NigeriaDeservesPeace) | N/A |
+| 6 | [#SundayService](http://twitter.com/search?q=%23SundayService) | N/A |
+| 7 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
 | 8 | [Olumide](http://twitter.com/search?q=Olumide) | N/A |
 | 9 | [#MotheringSunday](http://twitter.com/search?q=%23MotheringSunday) | N/A |
-| 10 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
-| 11 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 12 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 13 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 14 | [Dapo](http://twitter.com/search?q=Dapo) | N/A |
-| 15 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
-| 16 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
-| 17 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 18 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
-| 19 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 20 | [Badagry](http://twitter.com/search?q=Badagry) | N/A |
-| 21 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 22 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
-| 23 | [Biafran](http://twitter.com/search?q=Biafran) | N/A |
-| 24 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
-| 25 | [Chude](http://twitter.com/search?q=Chude) | N/A |
-| 26 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 27 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 28 | [Fulani](http://twitter.com/search?q=Fulani) | N/A |
-| 29 | [Eastern](http://twitter.com/search?q=Eastern) | N/A |
-| 30 | [Amaechi](http://twitter.com/search?q=Amaechi) | N/A |
-| 31 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
-| 32 | [Abba](http://twitter.com/search?q=Abba) | N/A |
-| 33 | [Otti](http://twitter.com/search?q=Otti) | N/A |
-| 34 | [Toyin](http://twitter.com/search?q=Toyin) | N/A |
-| 35 | [Nnamdi Kanu](http://twitter.com/search?q=Nnamdi+Kanu) | N/A |
-| 36 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 37 | [thanksgiving](http://twitter.com/search?q=thanksgiving) | N/A |
+| 10 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 11 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
+| 12 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 13 | [Congratulations Hon](http://twitter.com/search?q=Congratulations+Hon) | N/A |
+| 14 | [Agreement is Agreement](http://twitter.com/search?q=Agreement+is+Agreement) | N/A |
+| 15 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 16 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
+| 17 | [Desmond](http://twitter.com/search?q=Desmond) | N/A |
+| 18 | [PHYNA X JUNKYARD](http://twitter.com/search?q=PHYNA+X+JUNKYARD) | N/A |
+| 19 | [Dapo](http://twitter.com/search?q=Dapo) | N/A |
+| 20 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 21 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
+| 22 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
+| 23 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
+| 24 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
+| 25 | [Badagry](http://twitter.com/search?q=Badagry) | N/A |
+| 26 | [thanksgiving](http://twitter.com/search?q=thanksgiving) | N/A |
+| 27 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
+| 28 | [Biafran](http://twitter.com/search?q=Biafran) | N/A |
+| 29 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
+| 30 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 31 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 32 | [Fulanis](http://twitter.com/search?q=Fulanis) | N/A |
+| 33 | [Amaechi](http://twitter.com/search?q=Amaechi) | N/A |
+| 34 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 35 | [Abba](http://twitter.com/search?q=Abba) | N/A |
+| 36 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
+| 37 | [Nnamdi Kanu](http://twitter.com/search?q=Nnamdi+Kanu) | N/A |
+| 38 | [Eastern](http://twitter.com/search?q=Eastern) | N/A |
+| 39 | [#NigeriaDeservesPeace](http://twitter.com/search?q=%23NigeriaDeservesPeace) | N/A |
+| 40 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
 
 
 

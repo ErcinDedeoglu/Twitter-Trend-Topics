@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-03-19 09:17:12 UTC`
+📆 Last Updated: `2023-03-19 10:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 3 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 4 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 5 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 6 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 7 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
-| 8 | [#Wordle638](http://twitter.com/search?q=%23Wordle638) | N/A |
-| 9 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 10 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 11 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
-| 12 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 13 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 14 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 15 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 16 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 17 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 18 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 19 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
-| 20 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 21 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 22 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
-| 23 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 24 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 25 | [bojangles](http://twitter.com/search?q=bojangles) | N/A |
-| 26 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 27 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 28 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 29 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 30 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 31 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 32 | [Normani](http://twitter.com/search?q=Normani) | N/A |
-| 33 | [Dotson](http://twitter.com/search?q=Dotson) | Dotson is a surname of English origin. It is derived from the Old English given name Dodde, which was a diminutive form of the name Dodd. The meaning of the name is "son of Dodd". |
-| 34 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 35 | [Coco Jones](http://twitter.com/search?q=Coco+Jones) | N/A |
-| 36 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 37 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 3 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
+| 4 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 5 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 6 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 7 | [#Wordle638](http://twitter.com/search?q=%23Wordle638) | N/A |
+| 8 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
+| 9 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
+| 10 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 11 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 12 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 13 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 14 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 15 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 16 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
+| 17 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 18 | [tim mcgraw](http://twitter.com/search?q=tim+mcgraw) | N/A |
+| 19 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 20 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
+| 21 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 22 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 23 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 24 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 25 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 26 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 27 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
+| 28 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 29 | [GRAND SLAM](http://twitter.com/search?q=GRAND+SLAM) | N/A |
+| 30 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 31 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 32 | [Reba](http://twitter.com/search?q=Reba) | N/A |
+| 33 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 34 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 35 | [Normani](http://twitter.com/search?q=Normani) | N/A |
+| 36 | [Coco Jones](http://twitter.com/search?q=Coco+Jones) | N/A |
+| 37 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
 | 38 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
-| 39 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 40 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 41 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 42 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 43 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 44 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 45 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 46 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
-| 47 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 48 | [Maxine](http://twitter.com/search?q=Maxine) | N/A |
+| 39 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 40 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 41 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 42 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
+| 43 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 44 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
+| 45 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 46 | [Vash](http://twitter.com/search?q=Vash) | N/A |
+| 47 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 48 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
 
 
 
