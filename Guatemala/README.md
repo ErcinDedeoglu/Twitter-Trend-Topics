@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-19 12:18:28 UTC`
+📆 Last Updated: `2023-03-19 13:20:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,39 +30,39 @@ This is top 50 for Guatemala
 | 13 | [#siempreconectado](http://twitter.com/search?q=%23siempreconectado) | N/A |
 | 14 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
 | 15 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 16 | [interpol](http://twitter.com/search?q=interpol) | N/A |
+| 16 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 19 | [Yuridia](http://twitter.com/search?q=Yuridia) | N/A |
 | 20 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
 | 21 | [Sinaloa](http://twitter.com/search?q=Sinaloa) | Sinaloa is a state in northwestern Mexico. It is known for its beaches, mountains, and desert landscapes. The name Sinaloa comes from the Nahuatl language and means "place of the sinaloac people". |
-| 22 | [Pancha](http://twitter.com/search?q=Pancha) | N/A |
-| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
-| 26 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 27 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
-| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 31 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 32 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 33 | [Jesús Nazareno](http://twitter.com/search?q=Jes%c3%bas+Nazareno) | N/A |
-| 34 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 35 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 36 | [Roosevelt](http://twitter.com/search?q=Roosevelt) | N/A |
-| 37 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 39 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 40 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 41 | [aldana](http://twitter.com/search?q=aldana) | N/A |
-| 42 | [Provecho](http://twitter.com/search?q=Provecho) | N/A |
-| 43 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 44 | [Pueblo](http://twitter.com/search?q=Pueblo) | N/A |
-| 45 | [amatitlán](http://twitter.com/search?q=amatitl%c3%a1n) | N/A |
-| 46 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 47 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 48 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 22 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 23 | [Pancha](http://twitter.com/search?q=Pancha) | N/A |
+| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
+| 27 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 28 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 32 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 34 | [Jesús Nazareno](http://twitter.com/search?q=Jes%c3%bas+Nazareno) | N/A |
+| 35 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 36 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 37 | [Roosevelt](http://twitter.com/search?q=Roosevelt) | N/A |
+| 38 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 40 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 41 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 42 | [Aldana](http://twitter.com/search?q=Aldana) | N/A |
+| 43 | [Provecho](http://twitter.com/search?q=Provecho) | N/A |
+| 44 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 45 | [Pueblo](http://twitter.com/search?q=Pueblo) | N/A |
+| 46 | [amatitlán](http://twitter.com/search?q=amatitl%c3%a1n) | N/A |
+| 47 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 48 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
 | 49 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
 | 50 | [Pana](http://twitter.com/search?q=Pana) | N/A |
 

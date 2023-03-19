@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-19 12:17:54 UTC`
+📆 Last Updated: `2023-03-19 13:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
 | 3 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
 | 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 5 | [#dudw](http://twitter.com/search?q=%23dudw) | N/A |
-| 6 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 5 | [#EBSH96](http://twitter.com/search?q=%23EBSH96) | N/A |
+| 6 | [#dudw](http://twitter.com/search?q=%23dudw) | N/A |
 | 7 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
 | 8 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
 | 9 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 10 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 11 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 12 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 13 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 14 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 15 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 16 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
-| 17 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 18 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 10 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 11 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 12 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 13 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
+| 14 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 15 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 16 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
+| 17 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 18 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
 | 19 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 20 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 21 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
-| 22 | [samstag abend](http://twitter.com/search?q=samstag+abend) | N/A |
-| 23 | [Öko-Partei](http://twitter.com/search?q=%c3%96ko-Partei) | N/A |
-| 24 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 25 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
+| 20 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
+| 21 | [INSA](http://twitter.com/search?q=INSA) | N/A |
+| 22 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
+| 23 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 24 | [samstag abend](http://twitter.com/search?q=samstag+abend) | N/A |
+| 25 | [Kirmes](http://twitter.com/search?q=Kirmes) | N/A |
 | 26 | [Unis](http://twitter.com/search?q=Unis) | N/A |
-| 27 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 28 | [Professur](http://twitter.com/search?q=Professur) | N/A |
-| 29 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 30 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 31 | [Kirmes](http://twitter.com/search?q=Kirmes) | N/A |
-| 32 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 33 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
-| 34 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
-| 35 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 36 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 37 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 38 | [Punsch](http://twitter.com/search?q=Punsch) | N/A |
-| 39 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 40 | [INSA](http://twitter.com/search?q=INSA) | N/A |
-| 41 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 27 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
+| 28 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 29 | [Professur](http://twitter.com/search?q=Professur) | N/A |
+| 30 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
+| 31 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 32 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 33 | [Punsch](http://twitter.com/search?q=Punsch) | N/A |
+| 34 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 35 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 36 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 37 | [Mittelbau](http://twitter.com/search?q=Mittelbau) | N/A |
+| 38 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
+| 39 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 40 | [Garten](http://twitter.com/search?q=Garten) | N/A |
+| 41 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
 | 42 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 43 | [Gurke](http://twitter.com/search?q=Gurke) | N/A |
-| 44 | [Mittelbau](http://twitter.com/search?q=Mittelbau) | N/A |
-| 45 | [Friedenspartei](http://twitter.com/search?q=Friedenspartei) | N/A |
-| 46 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
-| 47 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 48 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 49 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 50 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 43 | [Täterbeschreibung](http://twitter.com/search?q=T%c3%a4terbeschreibung) | N/A |
+| 44 | [Selke](http://twitter.com/search?q=Selke) | N/A |
+| 45 | [elfmeter](http://twitter.com/search?q=elfmeter) | N/A |
+| 46 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 47 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 48 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 49 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 50 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
 
 
 

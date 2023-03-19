@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-19 12:18:26 UTC`
+📆 Last Updated: `2023-03-19 13:20:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Canada
 | 1 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 2 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
 | 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 5 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 6 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 8 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 9 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 10 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 11 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 12 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 13 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 14 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 15 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 16 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 4 | [Sherrie](http://twitter.com/search?q=Sherrie) | N/A |
+| 5 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 7 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 9 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 10 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
+| 11 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 13 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 14 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 15 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 16 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 17 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 18 | [Rate 1-10](http://twitter.com/search?q=Rate+1-10) | N/A |
-| 19 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 20 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 21 | [SO PRETTY](http://twitter.com/search?q=SO+PRETTY) | N/A |
-| 22 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 23 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 24 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 25 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 26 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 27 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 28 | [VETTORI](http://twitter.com/search?q=VETTORI) | N/A |
-| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 30 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 31 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 33 | [So Bad](http://twitter.com/search?q=So+Bad) | N/A |
-| 34 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 35 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 36 | [Pionk](http://twitter.com/search?q=Pionk) | N/A |
-| 37 | [Harper](http://twitter.com/search?q=Harper) | N/A |
-| 38 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 39 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 40 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 41 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
-| 42 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
-| 43 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 18 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 19 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 20 | [Rate 1-10](http://twitter.com/search?q=Rate+1-10) | N/A |
+| 21 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 22 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 23 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 24 | [SO PRETTY](http://twitter.com/search?q=SO+PRETTY) | N/A |
+| 25 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
+| 26 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 27 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 28 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 29 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 30 | [VETTORI](http://twitter.com/search?q=VETTORI) | N/A |
+| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 32 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 33 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 34 | [SO BAD](http://twitter.com/search?q=SO+BAD) | N/A |
+| 35 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 37 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 38 | [pionk](http://twitter.com/search?q=pionk) | N/A |
+| 39 | [Harper](http://twitter.com/search?q=Harper) | N/A |
+| 40 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 41 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 42 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 43 | [Saint Patrick](http://twitter.com/search?q=Saint+Patrick) | N/A |
+| 44 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 45 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 46 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 47 | [Sens](http://twitter.com/search?q=Sens) | N/A |
-| 48 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 49 | [edler](http://twitter.com/search?q=edler) | N/A |
-| 50 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
+| 46 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 47 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 48 | [edler](http://twitter.com/search?q=edler) | N/A |
+| 49 | [Sens](http://twitter.com/search?q=Sens) | N/A |
+| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 
 
 

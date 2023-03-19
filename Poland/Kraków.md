@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-19 12:17:51 UTC`
+📆 Last Updated: `2023-03-19 13:19:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#highleague6](http://twitter.com/search?q=%23highleague6) | N/A |
 | 2 | [#WARLGD](http://twitter.com/search?q=%23WARLGD) | N/A |
-| 3 | [#woronicza17](http://twitter.com/search?q=%23woronicza17) | N/A |
+| 3 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
 | 4 | [#thevoicekids](http://twitter.com/search?q=%23thevoicekids) | N/A |
-| 5 | [#KonkursBetclic](http://twitter.com/search?q=%23KonkursBetclic) | N/A |
-| 6 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
-| 7 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 8 | [Dera](http://twitter.com/search?q=Dera) | N/A |
-| 9 | [Yuki Ito](http://twitter.com/search?q=Yuki+Ito) | N/A |
-| 10 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
-| 11 | [TikToku](http://twitter.com/search?q=TikToku) | N/A |
-| 12 | [Kanady](http://twitter.com/search?q=Kanady) | N/A |
-| 13 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 14 | [El Clasico](http://twitter.com/search?q=El+Clasico) | N/A |
-| 15 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 16 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
+| 5 | [Kajetan Szmyt](http://twitter.com/search?q=Kajetan+Szmyt) | N/A |
+| 6 | [Maloca](http://twitter.com/search?q=Maloca) | N/A |
+| 7 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 8 | [#jarekoddajkpo](http://twitter.com/search?q=%23jarekoddajkpo) | N/A |
+| 9 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 10 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 11 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 12 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 13 | [Dera](http://twitter.com/search?q=Dera) | N/A |
+| 14 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 15 | [TikToku](http://twitter.com/search?q=TikToku) | N/A |
+| 16 | [Widzew - Lech](http://twitter.com/search?q=Widzew+-+Lech) | N/A |
 | 17 | [Najman](http://twitter.com/search?q=Najman) | N/A |
-| 18 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 19 | [Ema Klinec](http://twitter.com/search?q=Ema+Klinec) | N/A |
-| 20 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
-| 21 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 18 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
+| 19 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 20 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 21 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
 | 22 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 23 | [Widzew - Lech](http://twitter.com/search?q=Widzew+-+Lech) | N/A |
-| 24 | [Śląsku](http://twitter.com/search?q=%c5%9al%c4%85sku) | N/A |
+| 23 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 24 | [El Clasico](http://twitter.com/search?q=El+Clasico) | N/A |
 | 25 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
-| 26 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 27 | [Michniewicza](http://twitter.com/search?q=Michniewicza) | N/A |
-| 28 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
-| 29 | [michalkiewicz](http://twitter.com/search?q=michalkiewicz) | N/A |
-| 30 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
-| 31 | [Kownackiego](http://twitter.com/search?q=Kownackiego) | N/A |
+| 26 | [Ema Klinec](http://twitter.com/search?q=Ema+Klinec) | N/A |
+| 27 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
+| 28 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
+| 29 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 30 | [Kownackiego](http://twitter.com/search?q=Kownackiego) | N/A |
+| 31 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
 | 32 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 33 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
-| 34 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
-| 35 | [Pawliczak](http://twitter.com/search?q=Pawliczak) | N/A |
-| 36 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
+| 34 | [Azji](http://twitter.com/search?q=Azji) | N/A |
+| 35 | [Kaczynski](http://twitter.com/search?q=Kaczynski) | N/A |
+| 36 | [Pawliczak](http://twitter.com/search?q=Pawliczak) | N/A |
 | 37 | [Daro Lew](http://twitter.com/search?q=Daro+Lew) | N/A |
 | 38 | [Wawelu](http://twitter.com/search?q=Wawelu) | N/A |
-| 39 | [Kaczynski](http://twitter.com/search?q=Kaczynski) | N/A |
-| 40 | [cracovia](http://twitter.com/search?q=cracovia) | N/A |
-| 41 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 42 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
-| 43 | [ludwiczek](http://twitter.com/search?q=ludwiczek) | N/A |
-| 44 | [Labryga](http://twitter.com/search?q=Labryga) | N/A |
-| 45 | [Haribo](http://twitter.com/search?q=Haribo) | N/A |
-| 46 | [kowalczyka](http://twitter.com/search?q=kowalczyka) | N/A |
-| 47 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
-| 48 | [Ministerstwo Przemysłu](http://twitter.com/search?q=Ministerstwo+Przemys%c5%82u) | N/A |
-| 49 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 39 | [Yuki Ito](http://twitter.com/search?q=Yuki+Ito) | N/A |
+| 40 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 41 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
+| 42 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
+| 43 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
+| 44 | [ludwiczek](http://twitter.com/search?q=ludwiczek) | N/A |
+| 45 | [Labryga](http://twitter.com/search?q=Labryga) | N/A |
+| 46 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
+| 47 | [Haribo](http://twitter.com/search?q=Haribo) | N/A |
+| 48 | [Michniewicza](http://twitter.com/search?q=Michniewicza) | N/A |
+| 49 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
 | 50 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
 
 

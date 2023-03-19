@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-19 12:18:05 UTC`
+📆 Last Updated: `2023-03-19 13:19:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
 | 2 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 3 | [VIVOREE BENCHRUNWAY DEBUT](http://twitter.com/search?q=VIVOREE+BENCHRUNWAY+DEBUT) | N/A |
-| 4 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 3 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 4 | [VIVOREE BENCHRUNWAY DEBUT](http://twitter.com/search?q=VIVOREE+BENCHRUNWAY+DEBUT) | N/A |
 | 5 | [#DaigPuppetMaster](http://twitter.com/search?q=%23DaigPuppetMaster) | N/A |
-| 6 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 7 | [#TVKPH5Click](http://twitter.com/search?q=%23TVKPH5Click) | N/A |
-| 8 | [#MySchoolPresidentOnStageD2](http://twitter.com/search?q=%23MySchoolPresidentOnStageD2) | N/A |
+| 6 | [#TVKPH5Click](http://twitter.com/search?q=%23TVKPH5Click) | N/A |
+| 7 | [#TheClashParesKontraPares](http://twitter.com/search?q=%23TheClashParesKontraPares) | N/A |
+| 8 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 9 | [JOIN PPOPCOM2023](http://twitter.com/search?q=JOIN+PPOPCOM2023) | N/A |
-| 10 | [SHOTARO](http://twitter.com/search?q=SHOTARO) | N/A |
-| 11 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 12 | [JC 360 LISTENING PARTY](http://twitter.com/search?q=JC+360+LISTENING+PARTY) | N/A |
-| 13 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 14 | [BENCHRunway WithFRANCINE](http://twitter.com/search?q=BENCHRunway+WithFRANCINE) | N/A |
-| 15 | [JJONG MILLION VIEWS](http://twitter.com/search?q=JJONG+MILLION+VIEWS) | N/A |
-| 16 | [DAVID AT FASHION WEEK](http://twitter.com/search?q=DAVID+AT+FASHION+WEEK) | N/A |
-| 17 | [CHAEYOUNG](http://twitter.com/search?q=CHAEYOUNG) | CHAEYOUNG is a Korean name meaning “beautiful and radiant”. It is composed of two characters: CHAE (beautiful) and YOUNG (radiant). |
-| 18 | [WARD REINALYN KUMUNIVERSARY](http://twitter.com/search?q=WARD+REINALYN+KUMUNIVERSARY) | N/A |
-| 19 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
-| 20 | [Tzuyu](http://twitter.com/search?q=Tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Chinese characters for "jade" and "beauty". In English, her name means "beautiful jade". |
-| 21 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 22 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 23 | [Inkigayo](http://twitter.com/search?q=Inkigayo) | N/A |
-| 24 | [DONBELLE X DIREK MAE CRUZ](http://twitter.com/search?q=DONBELLE+X+DIREK+MAE+CRUZ) | N/A |
-| 25 | [Cebu](http://twitter.com/search?q=Cebu) | N/A |
-| 26 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
-| 27 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 28 | [KaDAILY ALEXA IN SINGAPORE](http://twitter.com/search?q=KaDAILY+ALEXA+IN+SINGAPORE) | N/A |
-| 29 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 30 | [#ETONCENTRIS](http://twitter.com/search?q=%23ETONCENTRIS) | N/A |
-| 31 | [#PPOPCOMsaETON](http://twitter.com/search?q=%23PPOPCOMsaETON) | N/A |
-| 32 | [#PPOPRISE](http://twitter.com/search?q=%23PPOPRISE) | N/A |
-| 33 | [#EXPÉRGO_ComebackLive](http://twitter.com/search?q=%23EXP%c3%89RGO_ComebackLive) | N/A |
-| 34 | [#DAVIDxBenchFW](http://twitter.com/search?q=%23DAVIDxBenchFW) | N/A |
-| 35 | [#BTOB_5THFanMeeting_D2](http://twitter.com/search?q=%23BTOB_5THFanMeeting_D2) | N/A |
-| 36 | [#EXPÉRGO_D1](http://twitter.com/search?q=%23EXP%c3%89RGO_D1) | N/A |
-| 37 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
-| 38 | [#DavidLicaucoForBENCH](http://twitter.com/search?q=%23DavidLicaucoForBENCH) | N/A |
-| 39 | [#VivaPPOPFest](http://twitter.com/search?q=%23VivaPPOPFest) | N/A |
-| 40 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 41 | [#DaigKayoNgLolaKo](http://twitter.com/search?q=%23DaigKayoNgLolaKo) | N/A |
-| 42 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 43 | [#BENCHFashionWeekSS2023](http://twitter.com/search?q=%23BENCHFashionWeekSS2023) | N/A |
-| 44 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
-| 45 | [#AlamatHereAtGlorietta](http://twitter.com/search?q=%23AlamatHereAtGlorietta) | N/A |
-| 46 | [#TWOgetherWithRadiants](http://twitter.com/search?q=%23TWOgetherWithRadiants) | N/A |
-| 47 | [#WILDTONIGHTinDubai](http://twitter.com/search?q=%23WILDTONIGHTinDubai) | N/A |
-| 48 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
-| 49 | [#FreenBeckyFanBoomMNL](http://twitter.com/search?q=%23FreenBeckyFanBoomMNL) | N/A |
+| 10 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 11 | [SHOTARO](http://twitter.com/search?q=SHOTARO) | N/A |
+| 12 | [NMIXX LIVE ON YOUTUBE](http://twitter.com/search?q=NMIXX+LIVE+ON+YOUTUBE) | N/A |
+| 13 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 14 | [ALAMAT BACK AT PPOPFEST](http://twitter.com/search?q=ALAMAT+BACK+AT+PPOPFEST) | N/A |
+| 15 | [CHAEYOUNG](http://twitter.com/search?q=CHAEYOUNG) | CHAEYOUNG is a Korean name meaning “beautiful and radiant”. It is composed of two characters: CHAE (beautiful) and YOUNG (radiant). |
+| 16 | [JC 360 LISTENING PARTY](http://twitter.com/search?q=JC+360+LISTENING+PARTY) | N/A |
+| 17 | [Minseok](http://twitter.com/search?q=Minseok) | N/A |
+| 18 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 19 | [BENCHRunway WithFRANCINE](http://twitter.com/search?q=BENCHRunway+WithFRANCINE) | N/A |
+| 20 | [Peniel](http://twitter.com/search?q=Peniel) | N/A |
+| 21 | [JJONG MILLION VIEWS](http://twitter.com/search?q=JJONG+MILLION+VIEWS) | N/A |
+| 22 | [WARD REINALYN KUMUNIVERSARY](http://twitter.com/search?q=WARD+REINALYN+KUMUNIVERSARY) | N/A |
+| 23 | [UAAP](http://twitter.com/search?q=UAAP) | N/A |
+| 24 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 25 | [DAVID AT FASHION WEEK](http://twitter.com/search?q=DAVID+AT+FASHION+WEEK) | N/A |
+| 26 | [Tzuyu](http://twitter.com/search?q=Tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Chinese characters for "jade" and "beauty". In English, her name means "beautiful jade". |
+| 27 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 28 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
+| 29 | [DONBELLE X DIREK MAE CRUZ](http://twitter.com/search?q=DONBELLE+X+DIREK+MAE+CRUZ) | N/A |
+| 30 | [Yuuri](http://twitter.com/search?q=Yuuri) | N/A |
+| 31 | [Cebu](http://twitter.com/search?q=Cebu) | N/A |
+| 32 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
+| 33 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 34 | [KaDAILY ALEXA IN SINGAPORE](http://twitter.com/search?q=KaDAILY+ALEXA+IN+SINGAPORE) | N/A |
+| 35 | [#ETONCENTRIS](http://twitter.com/search?q=%23ETONCENTRIS) | N/A |
+| 36 | [#PPOPCOMsaETON](http://twitter.com/search?q=%23PPOPCOMsaETON) | N/A |
+| 37 | [#PPOPRISE](http://twitter.com/search?q=%23PPOPRISE) | N/A |
+| 38 | [#MySchoolPresidentOnStageD2](http://twitter.com/search?q=%23MySchoolPresidentOnStageD2) | N/A |
+| 39 | [#visarsociety](http://twitter.com/search?q=%23visarsociety) | N/A |
+| 40 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
+| 41 | [#EXPÉRGO_ComebackLive](http://twitter.com/search?q=%23EXP%c3%89RGO_ComebackLive) | N/A |
+| 42 | [#btob_5thfanmeeting_d2](http://twitter.com/search?q=%23btob_5thfanmeeting_d2) | N/A |
+| 43 | [#EXPÉRGO_D1](http://twitter.com/search?q=%23EXP%c3%89RGO_D1) | N/A |
+| 44 | [#DAVIDxBenchFW](http://twitter.com/search?q=%23DAVIDxBenchFW) | N/A |
+| 45 | [#VivaPPOPFest](http://twitter.com/search?q=%23VivaPPOPFest) | N/A |
+| 46 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
+| 47 | [#TWOgetherWithRadiants](http://twitter.com/search?q=%23TWOgetherWithRadiants) | N/A |
+| 48 | [#DaigKayoNgLolaKo](http://twitter.com/search?q=%23DaigKayoNgLolaKo) | N/A |
+| 49 | [#DavidLicaucoForBENCH](http://twitter.com/search?q=%23DavidLicaucoForBENCH) | N/A |
 
 
 

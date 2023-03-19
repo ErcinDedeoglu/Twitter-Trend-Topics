@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-19 12:18:06 UTC`
+📆 Last Updated: `2023-03-19 13:19:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BUILDXFLOUR](http://twitter.com/search?q=%23BUILDXFLOUR) | N/A |
-| 2 | [BUILD WORLD FLOUR](http://twitter.com/search?q=BUILD+WORLD+FLOUR) | N/A |
-| 3 | [#BIBLEFLYTOPALMSPRINGS](http://twitter.com/search?q=%23BIBLEFLYTOPALMSPRINGS) | N/A |
-| 4 | [#BearbearyXOHMPawat](http://twitter.com/search?q=%23BearbearyXOHMPawat) | N/A |
-| 5 | [#BlooddonationwithBUILD](http://twitter.com/search?q=%23BlooddonationwithBUILD) | N/A |
+| 1 | [#BIBLEFLYTOPALMSPRINGS](http://twitter.com/search?q=%23BIBLEFLYTOPALMSPRINGS) | N/A |
+| 2 | [#BUILDXFLOUR](http://twitter.com/search?q=%23BUILDXFLOUR) | N/A |
+| 3 | [BUILD WORLD FLOUR](http://twitter.com/search?q=BUILD+WORLD+FLOUR) | N/A |
+| 4 | [#BlooddonationwithBUILD](http://twitter.com/search?q=%23BlooddonationwithBUILD) | N/A |
+| 5 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
 | 6 | [#THAITANIUM23rdXENGFA](http://twitter.com/search?q=%23THAITANIUM23rdXENGFA) | N/A |
-| 7 | [build makes me smile](http://twitter.com/search?q=build+makes+me+smile) | N/A |
+| 7 | [BUILD MAKES ME SMILE](http://twitter.com/search?q=BUILD+MAKES+ME+SMILE) | N/A |
 | 8 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
 | 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 10 | [WASD](http://twitter.com/search?q=WASD) | N/A |
 | 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 13 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 14 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 12 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 15 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
 | 16 | [Hook](http://twitter.com/search?q=Hook) | N/A |
 | 17 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 18 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
 | 19 | [Ấn Độ](http://twitter.com/search?q=%e1%ba%a4n+%c4%90%e1%bb%99) | N/A |
 | 20 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 21 | [sài gòn](http://twitter.com/search?q=s%c3%a0i+g%c3%b2n) | N/A |
-| 22 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 21 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 22 | [sài gòn](http://twitter.com/search?q=s%c3%a0i+g%c3%b2n) | N/A |
 | 23 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 24 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 26 | [Tổng](http://twitter.com/search?q=T%e1%bb%95ng) | N/A |
-| 27 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
-| 28 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
-| 29 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 30 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
-| 31 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 33 | [Vietnam Airlines](http://twitter.com/search?q=Vietnam+Airlines) | N/A |
-| 34 | [Babiu](http://twitter.com/search?q=Babiu) | N/A |
-| 35 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
-| 36 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
-| 37 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 38 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 39 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 40 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 41 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 42 | [5,000 ZETA Points](http://twitter.com/search?q=5%2c000+ZETA+Points) | N/A |
+| 24 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [Tổng](http://twitter.com/search?q=T%e1%bb%95ng) | N/A |
+| 28 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 29 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 30 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 31 | [BLUS](http://twitter.com/search?q=BLUS) | N/A |
+| 32 | [NFT Aggregators](http://twitter.com/search?q=NFT+Aggregators) | N/A |
+| 33 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
+| 34 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 35 | [Vietnam Airlines](http://twitter.com/search?q=Vietnam+Airlines) | N/A |
+| 36 | [Babiu](http://twitter.com/search?q=Babiu) | N/A |
+| 37 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
+| 38 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 39 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 40 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 41 | [5,000 ZETA Points](http://twitter.com/search?q=5%2c000+ZETA+Points) | N/A |
+| 42 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
 | 43 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 44 | [Zalo](http://twitter.com/search?q=Zalo) | N/A |
+| 44 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
 | 45 | [P'Mile](http://twitter.com/search?q=P%27Mile) | N/A |
 | 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 47 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
-| 48 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 47 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 48 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 49 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 50 | [Hình](http://twitter.com/search?q=H%c3%acnh) | N/A |
+| 50 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
 
 
 

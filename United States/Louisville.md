@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-19 12:18:21 UTC`
+📆 Last Updated: `2023-03-19 13:19:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,47 @@ This is top 50 for [United States](</United States>)
 | 2 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
 | 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 4 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 5 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 6 | [#GoCards](http://twitter.com/search?q=%23GoCards) | N/A |
-| 7 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 8 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 9 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 10 | [Bad Apple](http://twitter.com/search?q=Bad+Apple) | "Bad Apple" is a Japanese song composed by Jun Maeda and sung by Nomico. It is a popular song in the Touhou Project video game series. The song's title is a play on words, as the Japanese phrase "bad apple" (warui ringo) can mean either a rotten apple or an outcast. The lyrics of the song describe someone who feels like an outsider and is struggling to find acceptance. |
-| 11 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 12 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
-| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 14 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 15 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 16 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 17 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 18 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 19 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
-| 20 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 21 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
-| 22 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 23 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 24 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 25 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 26 | [Visited](http://twitter.com/search?q=Visited) | N/A |
-| 27 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 28 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 29 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 30 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 5 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 7 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
+| 8 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 9 | [Bad Apple](http://twitter.com/search?q=Bad+Apple) | "Bad Apple" is a Japanese song composed by Jun Maeda and sung by Nomico. It is a popular song in the Touhou Project video game series. The song's title is a play on words, as the Japanese phrase "bad apple" (warui ringo) can mean either a rotten apple or an outcast. The lyrics of the song describe someone who feels like an outsider and is struggling to find acceptance. |
+| 10 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
+| 11 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 12 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
+| 13 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 14 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 15 | [Hololive](http://twitter.com/search?q=Hololive) | N/A |
+| 16 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
+| 17 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 18 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 19 | [Betty White](http://twitter.com/search?q=Betty+White) | N/A |
+| 20 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 22 | [Maxine](http://twitter.com/search?q=Maxine) | N/A |
+| 23 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 24 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 25 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 26 | [Elise](http://twitter.com/search?q=Elise) | N/A |
+| 27 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
+| 28 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
+| 29 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 30 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
 | 31 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 32 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 33 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 34 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 32 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 33 | [HELL YEA](http://twitter.com/search?q=HELL+YEA) | N/A |
+| 34 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 | 35 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 36 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 37 | [Hillary Clinton](http://twitter.com/search?q=Hillary+Clinton) | N/A |
-| 38 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 39 | [Protesting](http://twitter.com/search?q=Protesting) | N/A |
-| 40 | [Stephen King](http://twitter.com/search?q=Stephen+King) | N/A |
-| 41 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 42 | [Normani](http://twitter.com/search?q=Normani) | N/A |
-| 43 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 44 | [Vash](http://twitter.com/search?q=Vash) | N/A |
-| 45 | [Tim McGraw](http://twitter.com/search?q=Tim+McGraw) | N/A |
-| 46 | [#MenOnlyListenWhen](http://twitter.com/search?q=%23MenOnlyListenWhen) | N/A |
-| 47 | [#MCRSYDNEY](http://twitter.com/search?q=%23MCRSYDNEY) | N/A |
+| 36 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 37 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 38 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 39 | [Stephen King](http://twitter.com/search?q=Stephen+King) | N/A |
+| 40 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
+| 41 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 42 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 43 | [Hillary Clinton](http://twitter.com/search?q=Hillary+Clinton) | N/A |
+| 44 | [Randy Quaid](http://twitter.com/search?q=Randy+Quaid) | N/A |
+| 45 | [Protesting](http://twitter.com/search?q=Protesting) | N/A |
 
 
 

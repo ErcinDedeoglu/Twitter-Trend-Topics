@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-03-19 12:17:58 UTC`
+📆 Last Updated: `2023-03-19 13:19:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MySchoolPresidentOnStageD2](http://twitter.com/search?q=%23MySchoolPresidentOnStageD2) | N/A |
-| 2 | [Ultramilk](http://twitter.com/search?q=Ultramilk) | N/A |
-| 3 | [Cimory](http://twitter.com/search?q=Cimory) | N/A |
-| 4 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
-| 5 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 6 | [#BearbearyXOHMPawat](http://twitter.com/search?q=%23BearbearyXOHMPawat) | N/A |
-| 7 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 8 | [#kafsakafsi](http://twitter.com/search?q=%23kafsakafsi) | N/A |
-| 9 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 10 | [JJUNIJJUN IS FOREVER](http://twitter.com/search?q=JJUNIJJUN+IS+FOREVER) | N/A |
-| 11 | [Telur](http://twitter.com/search?q=Telur) | N/A |
-| 12 | [Raffi](http://twitter.com/search?q=Raffi) | N/A |
-| 13 | [Reverence](http://twitter.com/search?q=Reverence) | N/A |
-| 14 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 15 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 16 | [MC JJUNIJJUN DAY](http://twitter.com/search?q=MC+JJUNIJJUN+DAY) | MC JJUNIJJUN DAY is an annual event held in South Korea to celebrate the birthday of the popular K-pop artist MC JJUNIJJUN. The event is usually held on August 7th and includes a variety of activities such as fan meetings, special performances, and giveaways. The name of the event is derived from the artist's stage name, which is a combination of his real name (Jun) and his nickname (JJUNI). In English, MC JJUNIJJUN DAY translates to "MC JJUNIJJUN's Birthday Celebration". |
-| 17 | [Sate](http://twitter.com/search?q=Sate) | N/A |
+| 1 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
+| 2 | [#MySchoolPresidentOnStageD2](http://twitter.com/search?q=%23MySchoolPresidentOnStageD2) | N/A |
+| 3 | [unaa evos](http://twitter.com/search?q=unaa+evos) | N/A |
+| 4 | [suka duka uni unaa](http://twitter.com/search?q=suka+duka+uni+unaa) | N/A |
+| 5 | [#PakaiMolis](http://twitter.com/search?q=%23PakaiMolis) | N/A |
+| 6 | [#masjidbsibakauheni](http://twitter.com/search?q=%23masjidbsibakauheni) | N/A |
+| 7 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
+| 8 | [Ultramilk](http://twitter.com/search?q=Ultramilk) | N/A |
+| 9 | [#Prunggusmuhaimin](http://twitter.com/search?q=%23Prunggusmuhaimin) | N/A |
+| 10 | [Cimory](http://twitter.com/search?q=Cimory) | N/A |
+| 11 | [YukGabung Kerenin Indonesia](http://twitter.com/search?q=YukGabung+Kerenin+Indonesia) | N/A |
+| 12 | [Serunya MilenialGenZ Prabowo](http://twitter.com/search?q=Serunya+MilenialGenZ+Prabowo) | N/A |
+| 13 | [Ngobrolin UrusanGue DiBandung](http://twitter.com/search?q=Ngobrolin+UrusanGue+DiBandung) | N/A |
+| 14 | [Raffi](http://twitter.com/search?q=Raffi) | N/A |
+| 15 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 16 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 17 | [PKB KAHIJI JABAR NGAHIJI](http://twitter.com/search?q=PKB+KAHIJI+JABAR+NGAHIJI) | N/A |
 | 18 | [Sangcok](http://twitter.com/search?q=Sangcok) | N/A |
-| 19 | [Nagita](http://twitter.com/search?q=Nagita) | N/A |
-| 20 | [Selingkuh](http://twitter.com/search?q=Selingkuh) | N/A |
-| 21 | [Rover](http://twitter.com/search?q=Rover) | N/A |
-| 22 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
-| 23 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 24 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 26 | [Hammersonic](http://twitter.com/search?q=Hammersonic) | N/A |
-| 27 | [#ArtistOfindonesia](http://twitter.com/search?q=%23ArtistOfindonesia) | N/A |
-| 28 | [#UN1TYPestaRakyart](http://twitter.com/search?q=%23UN1TYPestaRakyart) | N/A |
-| 29 | [#BTOB_5THFanMeeting_D2](http://twitter.com/search?q=%23BTOB_5THFanMeeting_D2) | N/A |
-| 30 | [#CDSBearbearyxOhmCharlotte](http://twitter.com/search?q=%23CDSBearbearyxOhmCharlotte) | N/A |
-| 31 | [#DITA](http://twitter.com/search?q=%23DITA) | N/A |
-| 32 | [#LeeJeHooninJakarta](http://twitter.com/search?q=%23LeeJeHooninJakarta) | N/A |
-| 33 | [#CutiePieBloomingInOSAKA](http://twitter.com/search?q=%23CutiePieBloomingInOSAKA) | N/A |
-| 34 | [#zonajajanᅠ](http://twitter.com/search?q=%23zonajajan%e1%85%a0) | N/A |
-| 35 | [#SS9inJapan](http://twitter.com/search?q=%23SS9inJapan) | N/A |
-| 36 | [#LirikAkuEbmin](http://twitter.com/search?q=%23LirikAkuEbmin) | N/A |
-| 37 | [#SFW23withHUENINGKAI](http://twitter.com/search?q=%23SFW23withHUENINGKAI) | N/A |
-| 38 | [#HUENINGKAI_SFW2023](http://twitter.com/search?q=%23HUENINGKAI_SFW2023) | N/A |
-| 39 | [#artidn](http://twitter.com/search?q=%23artidn) | N/A |
-| 40 | [#ASAHI](http://twitter.com/search?q=%23ASAHI) | N/A |
-| 41 | [#HARUTO](http://twitter.com/search?q=%23HARUTO) | N/A |
-| 42 | [#TREASURE_HELLO_ASIA_TOUR](http://twitter.com/search?q=%23TREASURE_HELLO_ASIA_TOUR) | N/A |
+| 19 | [prabowo presidennya](http://twitter.com/search?q=prabowo+presidennya) | N/A |
+| 20 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 21 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
+| 22 | [JJUNIJJUN IS FOREVER](http://twitter.com/search?q=JJUNIJJUN+IS+FOREVER) | N/A |
+| 23 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 24 | [Hashirama](http://twitter.com/search?q=Hashirama) | N/A |
+| 25 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 26 | [All Indonesian Final](http://twitter.com/search?q=All+Indonesian+Final) | All Indonesian Final is a term used to describe a tournament or competition in which only Indonesian players are allowed to participate. It is typically used in the context of sports such as badminton, football, and volleyball. The phrase can also be used to refer to any event or competition that is limited to Indonesian participants. |
+| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 28 | [Indomilk](http://twitter.com/search?q=Indomilk) | N/A |
+| 29 | [Telur](http://twitter.com/search?q=Telur) | N/A |
+| 30 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 31 | [BESOK SENIN](http://twitter.com/search?q=BESOK+SENIN) | N/A |
+| 32 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
+| 33 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 34 | [NMIXX LIVE ON YOUTUBE](http://twitter.com/search?q=NMIXX+LIVE+ON+YOUTUBE) | N/A |
+| 35 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 36 | [Nagita](http://twitter.com/search?q=Nagita) | N/A |
+| 37 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 38 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 39 | [Acun](http://twitter.com/search?q=Acun) | N/A |
+| 40 | [Relis](http://twitter.com/search?q=Relis) | N/A |
+| 41 | [Tandatangani Petisi](http://twitter.com/search?q=Tandatangani+Petisi) | N/A |
+| 42 | [MC JJUNIJJUN DAY](http://twitter.com/search?q=MC+JJUNIJJUN+DAY) | MC JJUNIJJUN DAY is an annual event held in South Korea to celebrate the birthday of the popular K-pop artist MC JJUNIJJUN. The event is usually held on August 7th and includes a variety of activities such as fan meetings, special performances, and giveaways. The name of the event is derived from the artist's stage name, which is a combination of his real name (Jun) and his nickname (JJUNI). In English, MC JJUNIJJUN DAY translates to "MC JJUNIJJUN's Birthday Celebration". |
+| 43 | [Vidi](http://twitter.com/search?q=Vidi) | N/A |
+| 44 | [Piscok](http://twitter.com/search?q=Piscok) | N/A |
+| 45 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 46 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 47 | [mrt haji nawi](http://twitter.com/search?q=mrt+haji+nawi) | N/A |
+| 48 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 49 | [kelas 6](http://twitter.com/search?q=kelas+6) | N/A |
 
 
 

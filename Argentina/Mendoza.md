@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-19 12:17:46 UTC`
+📆 Last Updated: `2023-03-19 13:19:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Argentina](</Argentina>)
 | 5 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
 | 6 | [#DetrasDeLasNoticias](http://twitter.com/search?q=%23DetrasDeLasNoticias) | N/A |
 | 7 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 8 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 9 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 8 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 9 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
 | 10 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 11 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 12 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 11 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 12 | [Billie](http://twitter.com/search?q=Billie) | N/A |
 | 13 | [Tan Biónica](http://twitter.com/search?q=Tan+Bi%c3%b3nica) | N/A |
-| 14 | [Billie](http://twitter.com/search?q=Billie) | N/A |
+| 14 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 15 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
 | 16 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 17 | [#estefinde](http://twitter.com/search?q=%23estefinde) | N/A |
-| 18 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 17 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 18 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
 | 19 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
-| 20 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 21 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
-| 22 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 23 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 24 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 25 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 20 | [#estefinde](http://twitter.com/search?q=%23estefinde) | N/A |
+| 21 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 22 | [Lamolina](http://twitter.com/search?q=Lamolina) | N/A |
+| 23 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 24 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 25 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
 | 26 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
 | 27 | [UN MILLÓN DE PRIMOS](http://twitter.com/search?q=UN+MILL%c3%93N+DE+PRIMOS) | N/A |
-| 28 | [Diarte](http://twitter.com/search?q=Diarte) | N/A |
-| 29 | [#sdtv](http://twitter.com/search?q=%23sdtv) | N/A |
-| 30 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 31 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 32 | [skrillex](http://twitter.com/search?q=skrillex) | N/A |
-| 33 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 28 | [#sdtv](http://twitter.com/search?q=%23sdtv) | N/A |
+| 29 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 30 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 31 | [skrillex](http://twitter.com/search?q=skrillex) | N/A |
+| 32 | [Papu](http://twitter.com/search?q=Papu) | N/A |
+| 33 | [Doman](http://twitter.com/search?q=Doman) | N/A |
 | 34 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 35 | [Papu](http://twitter.com/search?q=Papu) | N/A |
-| 36 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 37 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
-| 38 | [felices 3](http://twitter.com/search?q=felices+3) | N/A |
+| 35 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 36 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
+| 37 | [felices 3](http://twitter.com/search?q=felices+3) | N/A |
+| 38 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
 | 39 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 40 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 40 | [Diarte](http://twitter.com/search?q=Diarte) | N/A |
 | 41 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 42 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
-| 43 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 44 | [GOROSITO](http://twitter.com/search?q=GOROSITO) | N/A |
-| 45 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
-| 46 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 47 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 48 | [Flow](http://twitter.com/search?q=Flow) | N/A |
-| 49 | [all the small things](http://twitter.com/search?q=all+the+small+things) | N/A |
+| 42 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 43 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 44 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 45 | [GOROSITO](http://twitter.com/search?q=GOROSITO) | N/A |
+| 46 | [San Patricio](http://twitter.com/search?q=San+Patricio) | N/A |
+| 47 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 48 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 49 | [Flow](http://twitter.com/search?q=Flow) | N/A |
 
 
 

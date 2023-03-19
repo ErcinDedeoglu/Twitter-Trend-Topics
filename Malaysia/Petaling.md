@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-19 12:18:33 UTC`
+📆 Last Updated: `2023-03-19 13:20:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
 | 2 | [#MySchoolPresidentOnStageD2](http://twitter.com/search?q=%23MySchoolPresidentOnStageD2) | N/A |
-| 3 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 4 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 3 | [#3YearsWithDOLLA](http://twitter.com/search?q=%233YearsWithDOLLA) | N/A |
+| 4 | [HAPPY 3RD ANNIVERSARY DOLLA](http://twitter.com/search?q=HAPPY+3RD+ANNIVERSARY+DOLLA) | N/A |
 | 5 | [#ひろがるホロライブDAY2](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%81%8c%e3%82%8b%e3%83%9b%e3%83%ad%e3%83%a9%e3%82%a4%e3%83%96DAY2) | N/A |
-| 6 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 8 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 9 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 10 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
-| 11 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 12 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 13 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 15 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 16 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
-| 19 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 20 | [CHAEYOUNG](http://twitter.com/search?q=CHAEYOUNG) | CHAEYOUNG is a Korean name meaning “beautiful and radiant”. It is composed of two characters: CHAE (beautiful) and YOUNG (radiant). |
-| 21 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 22 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 23 | [Fatin](http://twitter.com/search?q=Fatin) | N/A |
-| 24 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 25 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 26 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 27 | [DEATH TO THE HIGH COUNCIL](http://twitter.com/search?q=DEATH+TO+THE+HIGH+COUNCIL) | N/A |
+| 6 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 7 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 10 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 11 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 12 | [Minseok](http://twitter.com/search?q=Minseok) | N/A |
+| 13 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 14 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 16 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
+| 17 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 19 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 20 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 21 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 22 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 23 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 24 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 25 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 26 | [death to the high council](http://twitter.com/search?q=death+to+the+high+council) | N/A |
+| 27 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 28 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 29 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 30 | [Choi San](http://twitter.com/search?q=Choi+San) | N/A |
+| 29 | [malays](http://twitter.com/search?q=malays) | N/A |
+| 30 | [Fatin](http://twitter.com/search?q=Fatin) | N/A |
 | 31 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 32 | [DSAI](http://twitter.com/search?q=DSAI) | N/A |
-| 33 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 34 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 35 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 36 | [jiminie](http://twitter.com/search?q=jiminie) | N/A |
-| 37 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 38 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [happy birthday tabby](http://twitter.com/search?q=happy+birthday+tabby) | N/A |
-| 41 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 42 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 44 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 45 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 46 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 47 | [Malays](http://twitter.com/search?q=Malays) | N/A |
-| 48 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 49 | [TICKETING SERVICE](http://twitter.com/search?q=TICKETING+SERVICE) | N/A |
+| 32 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 33 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 34 | [Choi San](http://twitter.com/search?q=Choi+San) | N/A |
+| 35 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 37 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 38 | [happy birthday tabby](http://twitter.com/search?q=happy+birthday+tabby) | N/A |
+| 39 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 40 | [BTOB SEMINAR AT MELODY COMPANY](http://twitter.com/search?q=BTOB+SEMINAR+AT+MELODY+COMPANY) | N/A |
+| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 42 | [Tzuyu](http://twitter.com/search?q=Tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Chinese characters for "jade" and "beauty". In English, her name means "beautiful jade". |
+| 43 | [TICKETING SERVICE](http://twitter.com/search?q=TICKETING+SERVICE) | N/A |
+| 44 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 45 | [Inkigayo](http://twitter.com/search?q=Inkigayo) | N/A |
+| 46 | [DSAI](http://twitter.com/search?q=DSAI) | N/A |
+| 47 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 48 | [The Daddies](http://twitter.com/search?q=The+Daddies) | N/A |
+| 49 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
 
 
 
