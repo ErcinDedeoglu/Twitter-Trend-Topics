@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-19 11:16:35 UTC`
+📆 Last Updated: `2023-03-19 12:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,10 +20,10 @@ This is top 50 for [Mexico](</Mexico>)
 | 3 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 4 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
 | 5 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 6 | [rayados](http://twitter.com/search?q=rayados) | N/A |
-| 7 | [#ClasicoNacional](http://twitter.com/search?q=%23ClasicoNacional) | N/A |
-| 8 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 9 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 6 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 7 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 8 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 9 | [#ClasicoNacional](http://twitter.com/search?q=%23ClasicoNacional) | N/A |
 | 10 | [#ExpropiaciónPetrolera](http://twitter.com/search?q=%23Expropiaci%c3%b3nPetrolera) | N/A |
 | 11 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
 | 12 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
@@ -33,20 +33,20 @@ This is top 50 for [Mexico](</Mexico>)
 | 16 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
 | 17 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 18 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 19 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 20 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 21 | [Pole](http://twitter.com/search?q=Pole) | N/A |
-| 22 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
-| 23 | [Puro](http://twitter.com/search?q=Puro) | N/A |
-| 24 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
-| 25 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
-| 26 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
-| 27 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
-| 28 | [carlos payán](http://twitter.com/search?q=carlos+pay%c3%a1n) | N/A |
-| 29 | [Norma Lizbeth](http://twitter.com/search?q=Norma+Lizbeth) | N/A |
-| 30 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 31 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 32 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 19 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 20 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
+| 21 | [Puro](http://twitter.com/search?q=Puro) | N/A |
+| 22 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 23 | [andrada](http://twitter.com/search?q=andrada) | N/A |
+| 24 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 25 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
+| 26 | [Pole](http://twitter.com/search?q=Pole) | N/A |
+| 27 | [carlos payán](http://twitter.com/search?q=carlos+pay%c3%a1n) | N/A |
+| 28 | [Norma Lizbeth](http://twitter.com/search?q=Norma+Lizbeth) | N/A |
+| 29 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 30 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 31 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 32 | [Chima](http://twitter.com/search?q=Chima) | N/A |
 | 33 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
 | 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 35 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
@@ -59,7 +59,7 @@ This is top 50 for [Mexico](</Mexico>)
 | 42 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
 | 43 | [Austin TV](http://twitter.com/search?q=Austin+TV) | N/A |
 | 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | [enchanted](http://twitter.com/search?q=enchanted) | N/A |
+| 45 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
 | 46 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
 | 47 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
 | 48 | [Iván Morales](http://twitter.com/search?q=Iv%c3%a1n+Morales) | N/A |

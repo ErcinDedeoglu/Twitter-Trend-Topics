@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-19 11:17:26 UTC`
+📆 Last Updated: `2023-03-19 12:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
-| 2 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
-| 3 | [#grohee](http://twitter.com/search?q=%23grohee) | N/A |
-| 4 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 6 | [#utrgae](http://twitter.com/search?q=%23utrgae) | N/A |
+| 1 | [#grohee](http://twitter.com/search?q=%23grohee) | N/A |
+| 2 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
+| 3 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
+| 4 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
+| 5 | [#utrgae](http://twitter.com/search?q=%23utrgae) | N/A |
+| 6 | [Lukkien](http://twitter.com/search?q=Lukkien) | N/A |
 | 7 | [Spekman](http://twitter.com/search?q=Spekman) | N/A |
-| 8 | [Lukkien](http://twitter.com/search?q=Lukkien) | N/A |
-| 9 | [FC Groningen](http://twitter.com/search?q=FC+Groningen) | N/A |
-| 10 | [#rkcnec](http://twitter.com/search?q=%23rkcnec) | N/A |
+| 8 | [Emmen](http://twitter.com/search?q=Emmen) | Emmen is a municipality and a town in the northeastern Netherlands. The name Emmen comes from the word "em" which means "water" or "lake". In English, Emmen can be translated to mean "watery place". |
+| 9 | [Nienke](http://twitter.com/search?q=Nienke) | N/A |
+| 10 | [Van Hooijdonk](http://twitter.com/search?q=Van+Hooijdonk) | N/A |
 | 11 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 12 | [Nienke](http://twitter.com/search?q=Nienke) | N/A |
-| 13 | [Emmen](http://twitter.com/search?q=Emmen) | Emmen is a municipality and a town in the northeastern Netherlands. The name Emmen comes from the word "em" which means "water" or "lake". In English, Emmen can be translated to mean "watery place". |
+| 12 | [Marioepol](http://twitter.com/search?q=Marioepol) | N/A |
+| 13 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
 | 14 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 15 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 16 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 19 | [Marioepol](http://twitter.com/search?q=Marioepol) | N/A |
-| 20 | [Carpaccio](http://twitter.com/search?q=Carpaccio) | N/A |
-| 21 | [Henk](http://twitter.com/search?q=Henk) | N/A |
-| 22 | [Pieter Omtzigt](http://twitter.com/search?q=Pieter+Omtzigt) | N/A |
-| 23 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 24 | [Lagas](http://twitter.com/search?q=Lagas) | N/A |
-| 25 | [Cillessen](http://twitter.com/search?q=Cillessen) | N/A |
-| 26 | [Venlo](http://twitter.com/search?q=Venlo) | N/A |
-| 27 | [Fred Teeven](http://twitter.com/search?q=Fred+Teeven) | N/A |
-| 28 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
-| 29 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 31 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 33 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 34 | [Lager](http://twitter.com/search?q=Lager) | N/A |
-| 35 | [Portugese](http://twitter.com/search?q=Portugese) | N/A |
-| 36 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 37 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 38 | [Heerlijk](http://twitter.com/search?q=Heerlijk) | N/A |
-| 39 | [tannane](http://twitter.com/search?q=tannane) | N/A |
-| 40 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 41 | [Freek Vonk](http://twitter.com/search?q=Freek+Vonk) | N/A |
-| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 43 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 44 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 45 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 46 | [Volkskrant](http://twitter.com/search?q=Volkskrant) | N/A |
-| 47 | [Neelie Kroes](http://twitter.com/search?q=Neelie+Kroes) | N/A |
-| 48 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 49 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
-| 50 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 16 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 17 | [Euroborg](http://twitter.com/search?q=Euroborg) | N/A |
+| 18 | [Mathieu Van Der Poel](http://twitter.com/search?q=Mathieu+Van+Der+Poel) | N/A |
+| 19 | [Henk](http://twitter.com/search?q=Henk) | N/A |
+| 20 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 21 | [Pieter Omtzigt](http://twitter.com/search?q=Pieter+Omtzigt) | N/A |
+| 22 | [Lagas](http://twitter.com/search?q=Lagas) | N/A |
+| 23 | [Cillessen](http://twitter.com/search?q=Cillessen) | N/A |
+| 24 | [Teeven](http://twitter.com/search?q=Teeven) | N/A |
+| 25 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 27 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 28 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 29 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 30 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 32 | [Portugese](http://twitter.com/search?q=Portugese) | N/A |
+| 33 | [Heerlijk](http://twitter.com/search?q=Heerlijk) | N/A |
+| 34 | [tannane](http://twitter.com/search?q=tannane) | N/A |
+| 35 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 36 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [Freek Vonk](http://twitter.com/search?q=Freek+Vonk) | N/A |
+| 39 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 40 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 41 | [Venlo](http://twitter.com/search?q=Venlo) | N/A |
+| 42 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 43 | [Neelie Kroes](http://twitter.com/search?q=Neelie+Kroes) | N/A |
+| 44 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 45 | [Volkskrant](http://twitter.com/search?q=Volkskrant) | N/A |
+| 46 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
+| 47 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
+| 48 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 49 | [Lezen](http://twitter.com/search?q=Lezen) | N/A |
+| 50 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
 
 
 

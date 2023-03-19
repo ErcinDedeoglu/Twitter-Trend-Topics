@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-19 11:17:29 UTC`
+📆 Last Updated: `2023-03-19 12:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
-| 2 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 3 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 2 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 3 | [Mums](http://twitter.com/search?q=Mums) | N/A |
 | 4 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
 | 5 | [#MotheringSunday](http://twitter.com/search?q=%23MotheringSunday) | N/A |
-| 6 | [Dowden](http://twitter.com/search?q=Dowden) | N/A |
-| 7 | [#EmergencyAlerts](http://twitter.com/search?q=%23EmergencyAlerts) | N/A |
-| 8 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 9 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 6 | [#EmergencyAlerts](http://twitter.com/search?q=%23EmergencyAlerts) | N/A |
+| 7 | [Dowden](http://twitter.com/search?q=Dowden) | N/A |
+| 8 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 9 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
 | 10 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 11 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
-| 12 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
-| 13 | [Sul y Mamau Hapus](http://twitter.com/search?q=Sul+y+Mamau+Hapus) | N/A |
+| 11 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
+| 12 | [My Mum](http://twitter.com/search?q=My+Mum) | N/A |
+| 13 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
 | 14 | [Mike Russell](http://twitter.com/search?q=Mike+Russell) | N/A |
-| 15 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
-| 16 | [My Mum](http://twitter.com/search?q=My+Mum) | N/A |
-| 17 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 18 | [Toni](http://twitter.com/search?q=Toni) | N/A |
-| 19 | [Mams](http://twitter.com/search?q=Mams) | N/A |
-| 20 | [Mummy](http://twitter.com/search?q=Mummy) | N/A |
-| 21 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 22 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
-| 23 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 24 | [Lewes](http://twitter.com/search?q=Lewes) | N/A |
-| 25 | [Sue Ellen](http://twitter.com/search?q=Sue+Ellen) | N/A |
-| 26 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 27 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 28 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 29 | [Semedo](http://twitter.com/search?q=Semedo) | N/A |
-| 30 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
-| 31 | [Janey](http://twitter.com/search?q=Janey) | N/A |
-| 32 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 33 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 34 | [adama](http://twitter.com/search?q=adama) | N/A |
-| 35 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 36 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 37 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 38 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 39 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 15 | [Mummy](http://twitter.com/search?q=Mummy) | N/A |
+| 16 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 17 | [Sul y Mamau Hapus](http://twitter.com/search?q=Sul+y+Mamau+Hapus) | N/A |
+| 18 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 19 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
+| 20 | [Sue Ellen](http://twitter.com/search?q=Sue+Ellen) | N/A |
+| 21 | [Toni](http://twitter.com/search?q=Toni) | N/A |
+| 22 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 23 | [Mams](http://twitter.com/search?q=Mams) | N/A |
+| 24 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
+| 25 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 26 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 27 | [Lewes](http://twitter.com/search?q=Lewes) | N/A |
+| 28 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 29 | [Moose](http://twitter.com/search?q=Moose) | N/A |
+| 30 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 31 | [Adama](http://twitter.com/search?q=Adama) | N/A |
+| 32 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 33 | [Janey](http://twitter.com/search?q=Janey) | N/A |
+| 34 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
+| 35 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 36 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
+| 37 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 38 | [Semedo](http://twitter.com/search?q=Semedo) | N/A |
+| 39 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
 | 40 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 41 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
-| 42 | [#SundayBrunch](http://twitter.com/search?q=%23SundayBrunch) | N/A |
-| 43 | [#SuellaBravermanOut](http://twitter.com/search?q=%23SuellaBravermanOut) | N/A |
-| 44 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
-| 45 | [#ASongOrMovieForAnythingFunny](http://twitter.com/search?q=%23ASongOrMovieForAnythingFunny) | N/A |
-| 46 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 47 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 48 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 49 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
-| 50 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 41 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 42 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 43 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 44 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 45 | [#SundayBrunch](http://twitter.com/search?q=%23SundayBrunch) | N/A |
+| 46 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 47 | [#ridge](http://twitter.com/search?q=%23ridge) | N/A |
+| 48 | [#SuellaBravermanOut](http://twitter.com/search?q=%23SuellaBravermanOut) | N/A |
+| 49 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 50 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
 
 
 

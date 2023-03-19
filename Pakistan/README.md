@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-19 11:17:26 UTC`
+📆 Last Updated: `2023-03-19 12:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Pakistan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NovaPromiseFulfilled](http://twitter.com/search?q=%23NovaPromiseFulfilled) | N/A |
-| 2 | [#PSLFinal](http://twitter.com/search?q=%23PSLFinal) | N/A |
-| 3 | [#TTPTI](http://twitter.com/search?q=%23TTPTI) | N/A |
-| 4 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
+| 1 | [#PSLFinal](http://twitter.com/search?q=%23PSLFinal) | N/A |
+| 2 | [#TTPTI](http://twitter.com/search?q=%23TTPTI) | N/A |
+| 3 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
+| 4 | [#ZamanPark_under_attack](http://twitter.com/search?q=%23ZamanPark_under_attack) | N/A |
 | 5 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
 | 6 | [Nova City](http://twitter.com/search?q=Nova+City) | N/A |
 | 7 | [Farhan Saeed](http://twitter.com/search?q=Farhan+Saeed) | N/A |
-| 8 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
+| 8 | [what a match](http://twitter.com/search?q=what+a+match) | N/A |
 | 9 | [Multan](http://twitter.com/search?q=Multan) | N/A |
 | 10 | [what a final](http://twitter.com/search?q=what+a+final) | N/A |
-| 11 | [abdullah shafique](http://twitter.com/search?q=abdullah+shafique) | N/A |
-| 12 | [Pakhtoon](http://twitter.com/search?q=Pakhtoon) | N/A |
-| 13 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
-| 14 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 15 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 16 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 17 | [Baig](http://twitter.com/search?q=Baig) | N/A |
-| 18 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 19 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 20 | [Where is IK](http://twitter.com/search?q=Where+is+IK) | N/A |
-| 21 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 22 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 23 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
-| 24 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
-| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 26 | [Judicial Complex](http://twitter.com/search?q=Judicial+Complex) | N/A |
-| 27 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 28 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 11 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
+| 12 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
+| 13 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 14 | [baig](http://twitter.com/search?q=baig) | N/A |
+| 15 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 16 | [where is ik](http://twitter.com/search?q=where+is+ik) | N/A |
+| 17 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 20 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 21 | [anwar ali](http://twitter.com/search?q=anwar+ali) | N/A |
+| 22 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 23 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
+| 24 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 25 | [Judicial Complex](http://twitter.com/search?q=Judicial+Complex) | N/A |
+| 26 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 27 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 28 | [tim david](http://twitter.com/search?q=tim+david) | N/A |
 | 29 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 30 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 31 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
-| 32 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 33 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 34 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 35 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 36 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 37 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 38 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 39 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
-| 40 | [America](http://twitter.com/search?q=America) | N/A |
-| 41 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
-| 42 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
+| 30 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 31 | [America](http://twitter.com/search?q=America) | N/A |
+| 32 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 33 | [NICVD](http://twitter.com/search?q=NICVD) | N/A |
+| 34 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 35 | [Terrorism](http://twitter.com/search?q=Terrorism) | N/A |
+| 36 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
+| 37 | [Pakhtoons](http://twitter.com/search?q=Pakhtoons) | N/A |
+| 38 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 39 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 40 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
 | 43 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 44 | [Terrorists](http://twitter.com/search?q=Terrorists) | N/A |
-| 45 | [Thnks](http://twitter.com/search?q=Thnks) | N/A |
-| 46 | [Highly](http://twitter.com/search?q=Highly) | N/A |
-| 47 | [Imported Govt](http://twitter.com/search?q=Imported+Govt) | N/A |
-| 48 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 49 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 50 | [Yeahhh](http://twitter.com/search?q=Yeahhh) | N/A |
+| 44 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
+| 45 | [Pak Army](http://twitter.com/search?q=Pak+Army) | N/A |
+| 46 | [Thnks](http://twitter.com/search?q=Thnks) | N/A |
+| 47 | [Highly](http://twitter.com/search?q=Highly) | N/A |
+| 48 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 49 | [Pukhtoon](http://twitter.com/search?q=Pukhtoon) | N/A |
+| 50 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
 
 
 
