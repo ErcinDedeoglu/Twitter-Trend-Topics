@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-19 18:16:26 UTC`
+📆 Last Updated: `2023-03-19 19:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 1 | [Juba](http://twitter.com/search?q=Juba) | N/A |
 | 2 | [melanie](http://twitter.com/search?q=melanie) | N/A |
 | 3 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
 | 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 5 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 6 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 7 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 8 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 7 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 8 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
 | 9 | [#minhamaecozinhamelhorqueasua](http://twitter.com/search?q=%23minhamaecozinhamelhorqueasua) | N/A |
-| 10 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 11 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 12 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 13 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 10 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
+| 11 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 13 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
 | 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 15 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 16 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 17 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 18 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 21 | [DOIS MESES GUSKEY](http://twitter.com/search?q=DOIS+MESES+GUSKEY) | N/A |
-| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 23 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 24 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 25 | [JOELMA NO THE MASKED SINGER](http://twitter.com/search?q=JOELMA+NO+THE+MASKED+SINGER) | N/A |
-| 26 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 27 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 28 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 29 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 30 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 31 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 32 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 33 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 34 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 35 | [Ipec](http://twitter.com/search?q=Ipec) | N/A |
-| 36 | [Sada Cruzeiro](http://twitter.com/search?q=Sada+Cruzeiro) | N/A |
-| 37 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 38 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 39 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 40 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 41 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
-| 42 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 43 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 44 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 45 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
-| 46 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 47 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 48 | [Muniz Sodré](http://twitter.com/search?q=Muniz+Sodr%c3%a9) | N/A |
-| 49 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 50 | [Parabéns Certezas](http://twitter.com/search?q=Parab%c3%a9ns+Certezas) | N/A |
+| 15 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 16 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 17 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 18 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 19 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 20 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 21 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 22 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 23 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 24 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 25 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 26 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 27 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 28 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 30 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 31 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 32 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 33 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 34 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 35 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 36 | [DOIS MESES GUSKEY](http://twitter.com/search?q=DOIS+MESES+GUSKEY) | N/A |
+| 37 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
+| 38 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 39 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 40 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 41 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
+| 42 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 43 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
+| 44 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
+| 45 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 47 | [Ipec](http://twitter.com/search?q=Ipec) | N/A |
+| 48 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 49 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 50 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
 
 
 

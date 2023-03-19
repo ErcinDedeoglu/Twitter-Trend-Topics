@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-19 18:17:02 UTC`
+📆 Last Updated: `2023-03-19 19:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
 | 2 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
-| 3 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
 | 4 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 5 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 6 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
-| 7 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 8 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 9 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 10 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 11 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 12 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 13 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 14 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 17 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 18 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 21 | [Dexter](http://twitter.com/search?q=Dexter) | N/A |
-| 22 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 23 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
-| 24 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
-| 25 | [Jen Psaki](http://twitter.com/search?q=Jen+Psaki) | N/A |
-| 26 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 27 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
-| 28 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 29 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 30 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 32 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 33 | [Nunge](http://twitter.com/search?q=Nunge) | N/A |
-| 34 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 35 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 36 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 37 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 38 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 39 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 40 | [Hankins](http://twitter.com/search?q=Hankins) | N/A |
-| 41 | [Capel](http://twitter.com/search?q=Capel) | N/A |
-| 42 | [Badgers](http://twitter.com/search?q=Badgers) | N/A |
-| 43 | [Martin Brundle](http://twitter.com/search?q=Martin+Brundle) | N/A |
-| 44 | [Tunsil](http://twitter.com/search?q=Tunsil) | N/A |
-| 45 | [Hinson](http://twitter.com/search?q=Hinson) | N/A |
-| 46 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
-| 47 | [Profar](http://twitter.com/search?q=Profar) | N/A |
-| 48 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
-| 49 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 50 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 5 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 6 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 9 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 10 | [#ProjectFear](http://twitter.com/search?q=%23ProjectFear) | N/A |
+| 11 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
+| 12 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 13 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 14 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 15 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 16 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 17 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 19 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 20 | [GO BIG BLUE](http://twitter.com/search?q=GO+BIG+BLUE) | N/A |
+| 21 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 22 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 23 | [George Karl](http://twitter.com/search?q=George+Karl) | N/A |
+| 24 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 25 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
+| 26 | [Dexter](http://twitter.com/search?q=Dexter) | N/A |
+| 27 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 28 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 29 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 30 | [Jen Psaki](http://twitter.com/search?q=Jen+Psaki) | N/A |
+| 31 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 32 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
+| 33 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
+| 34 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 35 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 36 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 37 | [Tampa Bay](http://twitter.com/search?q=Tampa+Bay) | Tampa Bay is a large body of water located on the west coast of Florida in the United States. It is connected to the Gulf of Mexico and is bordered by the cities of Tampa, St. Petersburg, and Clearwater. The term "Tampa Bay" is often used to refer to the entire metropolitan area surrounding the bay, which includes several cities and towns in both Hillsborough and Pinellas counties. |
+| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 39 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 40 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 41 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
+| 42 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 43 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 44 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 45 | [Chris Christie](http://twitter.com/search?q=Chris+Christie) | N/A |
+| 46 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
+| 47 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 49 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 50 | [Faulk](http://twitter.com/search?q=Faulk) | N/A |
 
 
 

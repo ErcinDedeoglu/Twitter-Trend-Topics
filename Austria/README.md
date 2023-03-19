@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-19 18:17:06 UTC`
+📆 Last Updated: `2023-03-19 19:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Austria
 | 1 | [#FAKSCR](http://twitter.com/search?q=%23FAKSCR) | N/A |
 | 2 | [#wsgstu](http://twitter.com/search?q=%23wsgstu) | N/A |
 | 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 4 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 4 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
 | 5 | [#Pressestunde](http://twitter.com/search?q=%23Pressestunde) | N/A |
 | 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 7 | [#scr2023](http://twitter.com/search?q=%23scr2023) | N/A |
-| 8 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 9 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 10 | [Karas](http://twitter.com/search?q=Karas) | N/A |
+| 7 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 10 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
 | 11 | [Darknet](http://twitter.com/search?q=Darknet) | N/A |
-| 12 | [Friedhöfe](http://twitter.com/search?q=Friedh%c3%b6fe) | N/A |
-| 13 | [Speisen](http://twitter.com/search?q=Speisen) | N/A |
-| 14 | [Eiernockerl](http://twitter.com/search?q=Eiernockerl) | N/A |
-| 15 | [Niederösterreich](http://twitter.com/search?q=Nieder%c3%b6sterreich) | N/A |
-| 16 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 17 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 18 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 19 | [Küche](http://twitter.com/search?q=K%c3%bcche) | N/A |
-| 20 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
-| 21 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 22 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
-| 23 | [Pakt](http://twitter.com/search?q=Pakt) | N/A |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [Chlor](http://twitter.com/search?q=Chlor) | N/A |
-| 26 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
-| 27 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 12 | [Karas](http://twitter.com/search?q=Karas) | N/A |
+| 13 | [Friedhöfe](http://twitter.com/search?q=Friedh%c3%b6fe) | N/A |
+| 14 | [Speisen](http://twitter.com/search?q=Speisen) | N/A |
+| 15 | [Eiernockerl](http://twitter.com/search?q=Eiernockerl) | N/A |
+| 16 | [Niederösterreich](http://twitter.com/search?q=Nieder%c3%b6sterreich) | N/A |
+| 17 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 18 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 19 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 20 | [Taten](http://twitter.com/search?q=Taten) | N/A |
+| 21 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
+| 22 | [Küche](http://twitter.com/search?q=K%c3%bcche) | N/A |
+| 23 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 24 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
+| 25 | [Pakt](http://twitter.com/search?q=Pakt) | N/A |
+| 26 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
+| 27 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
 | 28 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
 | 29 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 30 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 30 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
 | 31 | [Arbeitsübereinkommen](http://twitter.com/search?q=Arbeits%c3%bcbereinkommen) | N/A |
-| 32 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 32 | [Chlor](http://twitter.com/search?q=Chlor) | N/A |
 | 33 | [VfGH](http://twitter.com/search?q=VfGH) | N/A |
-| 34 | [Landesregierung](http://twitter.com/search?q=Landesregierung) | N/A |
-| 35 | [Hitlergruß](http://twitter.com/search?q=Hitlergru%c3%9f) | N/A |
-| 36 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 37 | [Petra](http://twitter.com/search?q=Petra) | N/A |
-| 38 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
-| 39 | [Landeshauptmann](http://twitter.com/search?q=Landeshauptmann) | N/A |
-| 40 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
-| 41 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 42 | [Ecke](http://twitter.com/search?q=Ecke) | N/A |
-| 43 | [Amtsmissbrauch](http://twitter.com/search?q=Amtsmissbrauch) | N/A |
-| 44 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 45 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
-| 46 | [Gasthaus](http://twitter.com/search?q=Gasthaus) | N/A |
-| 47 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 48 | [Neos](http://twitter.com/search?q=Neos) | N/A |
-| 49 | [Erbe](http://twitter.com/search?q=Erbe) | N/A |
-| 50 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
+| 34 | [Hitlergruß](http://twitter.com/search?q=Hitlergru%c3%9f) | N/A |
+| 35 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 36 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 37 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 38 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 39 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 40 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 41 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 42 | [Italiener](http://twitter.com/search?q=Italiener) | N/A |
+| 43 | [Landesregierung](http://twitter.com/search?q=Landesregierung) | N/A |
+| 44 | [Ecke](http://twitter.com/search?q=Ecke) | N/A |
+| 45 | [Amtsmissbrauch](http://twitter.com/search?q=Amtsmissbrauch) | N/A |
+| 46 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
+| 47 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 48 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 49 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 50 | [Gasthaus](http://twitter.com/search?q=Gasthaus) | N/A |
 
 
 

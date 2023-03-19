@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-19 18:17:07 UTC`
+📆 Last Updated: `2023-03-19 19:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Ecuador
 | 3 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
 | 4 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
 | 5 | [#sismo](http://twitter.com/search?q=%23sismo) | N/A |
-| 6 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 7 | [Balao](http://twitter.com/search?q=Balao) | N/A |
-| 8 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 9 | [Pineida](http://twitter.com/search?q=Pineida) | N/A |
-| 10 | [Machala](http://twitter.com/search?q=Machala) | N/A |
-| 11 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 12 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 13 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
-| 17 | [Bonafont](http://twitter.com/search?q=Bonafont) | N/A |
-| 18 | [Janner](http://twitter.com/search?q=Janner) | N/A |
-| 19 | [El Oro](http://twitter.com/search?q=El+Oro) | N/A |
-| 20 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 21 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
-| 22 | [Portocarrero](http://twitter.com/search?q=Portocarrero) | N/A |
-| 23 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 24 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 25 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
-| 26 | [Vinces](http://twitter.com/search?q=Vinces) | N/A |
-| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 28 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 29 | [Carlos Gruezo](http://twitter.com/search?q=Carlos+Gruezo) | N/A |
-| 30 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
-| 31 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 32 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
-| 33 | [Lautaro Díaz](http://twitter.com/search?q=Lautaro+D%c3%adaz) | N/A |
-| 34 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
-| 35 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 9 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 10 | [Balao](http://twitter.com/search?q=Balao) | N/A |
+| 11 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 12 | [Pineida](http://twitter.com/search?q=Pineida) | N/A |
+| 13 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 14 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 15 | [#Aucas](http://twitter.com/search?q=%23Aucas) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [Machala](http://twitter.com/search?q=Machala) | N/A |
+| 18 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 19 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 20 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
+| 21 | [Janner](http://twitter.com/search?q=Janner) | N/A |
+| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [Bonafont](http://twitter.com/search?q=Bonafont) | N/A |
+| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 25 | [El Oro](http://twitter.com/search?q=El+Oro) | N/A |
+| 26 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 27 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
+| 28 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
+| 29 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 30 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 31 | [Lautaro Díaz](http://twitter.com/search?q=Lautaro+D%c3%adaz) | N/A |
+| 32 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
+| 33 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 34 | [Faravelli](http://twitter.com/search?q=Faravelli) | N/A |
+| 35 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
 | 36 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
-| 37 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
-| 38 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 39 | [IVA al 14%](http://twitter.com/search?q=IVA+al+14%25) | N/A |
-| 40 | [miguel parrales](http://twitter.com/search?q=miguel+parrales) | N/A |
-| 41 | [beder caicedo](http://twitter.com/search?q=beder+caicedo) | N/A |
-| 42 | [Wachito](http://twitter.com/search?q=Wachito) | N/A |
-| 43 | [nixon molina](http://twitter.com/search?q=nixon+molina) | N/A |
-| 44 | [Puerto Bolívar](http://twitter.com/search?q=Puerto+Bol%c3%advar) | N/A |
-| 45 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
-| 46 | [Sornoza](http://twitter.com/search?q=Sornoza) | N/A |
-| 47 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 48 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 49 | [coe nacional](http://twitter.com/search?q=coe+nacional) | N/A |
-| 50 | [Manabí](http://twitter.com/search?q=Manab%c3%ad) | N/A |
+| 37 | [miguel parrales](http://twitter.com/search?q=miguel+parrales) | N/A |
+| 38 | [Portocarrero](http://twitter.com/search?q=Portocarrero) | N/A |
+| 39 | [beder caicedo](http://twitter.com/search?q=beder+caicedo) | N/A |
+| 40 | [IVA al 14%](http://twitter.com/search?q=IVA+al+14%25) | N/A |
+| 41 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 42 | [nixon molina](http://twitter.com/search?q=nixon+molina) | N/A |
+| 43 | [Puerto Bolívar](http://twitter.com/search?q=Puerto+Bol%c3%advar) | N/A |
+| 44 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
+| 45 | [Sornoza](http://twitter.com/search?q=Sornoza) | N/A |
+| 46 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
+| 47 | [Wachito](http://twitter.com/search?q=Wachito) | N/A |
+| 48 | [coe nacional](http://twitter.com/search?q=coe+nacional) | N/A |
+| 49 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 50 | [Río Blanco](http://twitter.com/search?q=R%c3%ado+Blanco) | N/A |
 
 
 

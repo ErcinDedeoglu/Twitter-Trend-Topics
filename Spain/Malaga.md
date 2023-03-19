@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-03-19 18:16:34 UTC`
+📆 Last Updated: `2023-03-19 19:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
-| 2 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 4 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 5 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 6 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 7 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 8 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 9 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 10 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 11 | [Zapater](http://twitter.com/search?q=Zapater) | N/A |
-| 12 | [Pulido](http://twitter.com/search?q=Pulido) | N/A |
-| 13 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 15 | [#HuescaRealZaragoza](http://twitter.com/search?q=%23HuescaRealZaragoza) | N/A |
-| 16 | [Carpena](http://twitter.com/search?q=Carpena) | N/A |
-| 17 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 18 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 19 | [#KingsLeagueJ11](http://twitter.com/search?q=%23KingsLeagueJ11) | N/A |
-| 20 | [#RealSociedadElche](http://twitter.com/search?q=%23RealSociedadElche) | N/A |
-| 21 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 22 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 23 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 24 | [Vamos Nano](http://twitter.com/search?q=Vamos+Nano) | N/A |
-| 25 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
-| 26 | [Quiles](http://twitter.com/search?q=Quiles) | N/A |
-| 27 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 28 | [Aihen](http://twitter.com/search?q=Aihen) | N/A |
-| 29 | [Celta B](http://twitter.com/search?q=Celta+B) | N/A |
-| 30 | [Depor](http://twitter.com/search?q=Depor) | N/A |
-| 31 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 32 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 33 | [Cultural](http://twitter.com/search?q=Cultural) | N/A |
-| 34 | [El Alcoraz](http://twitter.com/search?q=El+Alcoraz) | N/A |
-| 35 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 36 | [Obeng](http://twitter.com/search?q=Obeng) | N/A |
-| 37 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
-| 38 | [Eva Hache](http://twitter.com/search?q=Eva+Hache) | N/A |
-| 39 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 40 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
-| 41 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 42 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
-| 43 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 44 | [Villares](http://twitter.com/search?q=Villares) | N/A |
-| 45 | [La F1](http://twitter.com/search?q=La+F1) | N/A |
-| 46 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
-| 47 | [Antoñito](http://twitter.com/search?q=Anto%c3%b1ito) | N/A |
-| 48 | [Reino de León](http://twitter.com/search?q=Reino+de+Le%c3%b3n) | N/A |
-| 49 | [GENIUS DANCER HYUNJIN](http://twitter.com/search?q=GENIUS+DANCER+HYUNJIN) | N/A |
-| 50 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 1 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 2 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
+| 3 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
+| 4 | [#Betis](http://twitter.com/search?q=%23Betis) | N/A |
+| 5 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
+| 6 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 9 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 10 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 11 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 12 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 13 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 14 | [Podio 100](http://twitter.com/search?q=Podio+100) | N/A |
+| 15 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 16 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 17 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 18 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 19 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 20 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 21 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 22 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 23 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 24 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 25 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 26 | [Munir](http://twitter.com/search?q=Munir) | N/A |
+| 27 | [#MeetTheQueens](http://twitter.com/search?q=%23MeetTheQueens) | N/A |
+| 28 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 29 | [Eva Hache](http://twitter.com/search?q=Eva+Hache) | N/A |
+| 30 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 31 | [Zapater](http://twitter.com/search?q=Zapater) | N/A |
+| 32 | [#SaudiDAZNF1](http://twitter.com/search?q=%23SaudiDAZNF1) | N/A |
+| 33 | [Toto Wolff](http://twitter.com/search?q=Toto+Wolff) | N/A |
+| 34 | [El 100](http://twitter.com/search?q=El+100) | N/A |
+| 35 | [Tsunoda](http://twitter.com/search?q=Tsunoda) | N/A |
+| 36 | [La F1](http://twitter.com/search?q=La+F1) | N/A |
+| 37 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 38 | [Quiles](http://twitter.com/search?q=Quiles) | N/A |
+| 39 | [Pulido](http://twitter.com/search?q=Pulido) | N/A |
+| 40 | [Kessié](http://twitter.com/search?q=Kessi%c3%a9) | N/A |
+| 41 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 42 | [Depor](http://twitter.com/search?q=Depor) | N/A |
+| 43 | [Imola](http://twitter.com/search?q=Imola) | N/A |
+| 44 | [Telles](http://twitter.com/search?q=Telles) | N/A |
+| 45 | [Carpena](http://twitter.com/search?q=Carpena) | N/A |
+| 46 | [Celta B](http://twitter.com/search?q=Celta+B) | N/A |
+| 47 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 48 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 49 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 50 | [Lopetegui](http://twitter.com/search?q=Lopetegui) | N/A |
 
 
 

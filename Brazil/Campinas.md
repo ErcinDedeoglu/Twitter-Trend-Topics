@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-19 18:16:27 UTC`
+📆 Last Updated: `2023-03-19 19:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 2 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 3 | [Guarani](http://twitter.com/search?q=Guarani) | Guarani is an indigenous language spoken by the Guarani people of South America. It is the official language of Paraguay and is also spoken in parts of Argentina, Bolivia, and Brazil. In English, the word Guarani means "of the people". |
-| 4 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 5 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 6 | [Arthur Cabral](http://twitter.com/search?q=Arthur+Cabral) | N/A |
-| 7 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 8 | [Palmeiras x Ituano](http://twitter.com/search?q=Palmeiras+x+Ituano) | N/A |
-| 9 | [Pesquisa](http://twitter.com/search?q=Pesquisa) | N/A |
-| 10 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 11 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 12 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 13 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 14 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 15 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 18 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 19 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 20 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 21 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 23 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 24 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 25 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 26 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 27 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 28 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 30 | [DOIS MESES GUSKEY](http://twitter.com/search?q=DOIS+MESES+GUSKEY) | N/A |
-| 31 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 32 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 33 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 34 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 35 | [JOELMA NO THE MASKED SINGER](http://twitter.com/search?q=JOELMA+NO+THE+MASKED+SINGER) | N/A |
-| 36 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 37 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 38 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 39 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 40 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 41 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 42 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 43 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 44 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 45 | [Sada Cruzeiro](http://twitter.com/search?q=Sada+Cruzeiro) | N/A |
-| 46 | [Ipec](http://twitter.com/search?q=Ipec) | N/A |
-| 47 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 48 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 1 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 2 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 3 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 4 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 5 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 6 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 7 | [#F1noGP](http://twitter.com/search?q=%23F1noGP) | N/A |
+| 8 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 9 | [Guarani](http://twitter.com/search?q=Guarani) | Guarani is an indigenous language spoken by the Guarani people of South America. It is the official language of Paraguay and is also spoken in parts of Argentina, Bolivia, and Brazil. In English, the word Guarani means "of the people". |
+| 10 | [Sonhei](http://twitter.com/search?q=Sonhei) | N/A |
+| 11 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
+| 12 | [São José](http://twitter.com/search?q=S%c3%a3o+Jos%c3%a9) | N/A |
+| 13 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 14 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 15 | [Pesquisa](http://twitter.com/search?q=Pesquisa) | N/A |
+| 16 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 17 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 18 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 19 | [Rayssa](http://twitter.com/search?q=Rayssa) | Rayssa is a Portuguese name derived from the Latin name Rasia, which means “rose”. In English, it can be translated to mean “rose” or “beautiful flower”. |
+| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 22 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 23 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 24 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 25 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 26 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 28 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 29 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 30 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 31 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 32 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 33 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 34 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 35 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 36 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 37 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 38 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 39 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 40 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 41 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 42 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 43 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 44 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 45 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 46 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 47 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 48 | [DOIS MESES GUSKEY](http://twitter.com/search?q=DOIS+MESES+GUSKEY) | N/A |
+| 49 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
 
 
 
