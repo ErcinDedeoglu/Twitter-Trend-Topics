@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-19 05:16:44 UTC`
+📆 Last Updated: `2023-03-19 06:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,19 +21,19 @@ This is top 50 for Ghana
 | 4 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 5 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
-| 8 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 10 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 12 | [#wakenbake](http://twitter.com/search?q=%23wakenbake) | N/A |
-| 13 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 14 | [#UCLdraw](http://twitter.com/search?q=%23UCLdraw) | N/A |
-| 15 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 16 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 17 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 18 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 19 | [KalyJay](http://twitter.com/search?q=KalyJay) | N/A |
+| 7 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 9 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 10 | [#wakenbake](http://twitter.com/search?q=%23wakenbake) | N/A |
+| 11 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 13 | [#CHEEVE](http://twitter.com/search?q=%23CHEEVE) | N/A |
+| 14 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 15 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 16 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 17 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 18 | [#newsfile](http://twitter.com/search?q=%23newsfile) | N/A |
+| 19 | [kalyjay](http://twitter.com/search?q=kalyjay) | N/A |
 | 20 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 21 | [5th Dimension](http://twitter.com/search?q=5th+Dimension) | N/A |
 | 22 | [Bob Marley](http://twitter.com/search?q=Bob+Marley) | N/A |
@@ -41,23 +41,23 @@ This is top 50 for Ghana
 | 24 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 25 | [Blacko](http://twitter.com/search?q=Blacko) | N/A |
 | 26 | [dj wysei](http://twitter.com/search?q=dj+wysei) | N/A |
-| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 28 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
-| 29 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 30 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 27 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
+| 28 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 29 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 31 | [NO YVONNE NO SHOW](http://twitter.com/search?q=NO+YVONNE+NO+SHOW) | N/A |
-| 32 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 33 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 34 | [Piesie Esther](http://twitter.com/search?q=Piesie+Esther) | N/A |
+| 32 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 33 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 34 | [Black Sherif](http://twitter.com/search?q=Black+Sherif) | N/A |
 | 35 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
-| 36 | [come to ghana](http://twitter.com/search?q=come+to+ghana) | N/A |
-| 37 | [samartex](http://twitter.com/search?q=samartex) | N/A |
-| 38 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 39 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 40 | [Black Sherif](http://twitter.com/search?q=Black+Sherif) | N/A |
-| 41 | [Peter Tosh](http://twitter.com/search?q=Peter+Tosh) | N/A |
-| 42 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 43 | [Lyrical Joe](http://twitter.com/search?q=Lyrical+Joe) | N/A |
+| 36 | [Piesie Esther](http://twitter.com/search?q=Piesie+Esther) | N/A |
+| 37 | [come to ghana](http://twitter.com/search?q=come+to+ghana) | N/A |
+| 38 | [Samartex](http://twitter.com/search?q=Samartex) | N/A |
+| 39 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 40 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 41 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 42 | [Peter Tosh](http://twitter.com/search?q=Peter+Tosh) | N/A |
+| 43 | [lyrical joe](http://twitter.com/search?q=lyrical+joe) | N/A |
 | 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 45 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
 | 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |

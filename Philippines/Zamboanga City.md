@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-19 05:16:22 UTC`
+📆 Last Updated: `2023-03-19 06:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [MARCHsayangASAP WithDONBELLE](http://twitter.com/search?q=MARCHsayangASAP+WithDONBELLE) | N/A |
-| 2 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 3 | [JOIN PPOPCOM2023](http://twitter.com/search?q=JOIN+PPOPCOM2023) | N/A |
-| 4 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 5 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
-| 6 | [#ETONCENTRIS](http://twitter.com/search?q=%23ETONCENTRIS) | N/A |
-| 7 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 2 | [JOIN PPOPCOM2023](http://twitter.com/search?q=JOIN+PPOPCOM2023) | N/A |
+| 3 | [#ETONCENTRIS](http://twitter.com/search?q=%23ETONCENTRIS) | N/A |
+| 4 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 5 | [#ASAPpower](http://twitter.com/search?q=%23ASAPpower) | N/A |
+| 6 | [#HUENINGKAI_SFW2023](http://twitter.com/search?q=%23HUENINGKAI_SFW2023) | N/A |
+| 7 | [KaDAILY ALEXA IN SINGAPORE](http://twitter.com/search?q=KaDAILY+ALEXA+IN+SINGAPORE) | N/A |
 | 8 | [KILIG KANTAHAN WithANJI](http://twitter.com/search?q=KILIG+KANTAHAN+WithANJI) | N/A |
-| 9 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 10 | [BGYO POWER HOTawan OnASAP](http://twitter.com/search?q=BGYO+POWER+HOTawan+OnASAP) | N/A |
-| 11 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 12 | [ASAPMESumMERIZING JONA](http://twitter.com/search?q=ASAPMESumMERIZING+JONA) | N/A |
-| 13 | [BENCHRunway WithFRANCINE](http://twitter.com/search?q=BENCHRunway+WithFRANCINE) | N/A |
-| 14 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 15 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 16 | [ALEXA POWERPARTY OnASAP](http://twitter.com/search?q=ALEXA+POWERPARTY+OnASAP) | N/A |
-| 17 | [VIVOREE RETURNS ON ASAP](http://twitter.com/search?q=VIVOREE+RETURNS+ON+ASAP) | N/A |
-| 18 | [KaDAILY ALEXA IN SINGAPORE](http://twitter.com/search?q=KaDAILY+ALEXA+IN+SINGAPORE) | N/A |
-| 19 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 20 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 21 | [SARAH G POWER CONCERT](http://twitter.com/search?q=SARAH+G+POWER+CONCERT) | N/A |
-| 22 | [KINJI LOVETEAM OnASAP](http://twitter.com/search?q=KINJI+LOVETEAM+OnASAP) | N/A |
-| 23 | [JANELLA PowerfulProdOnASAP](http://twitter.com/search?q=JANELLA+PowerfulProdOnASAP) | N/A |
-| 24 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
-| 25 | [BINI ASAP GIRL POWER](http://twitter.com/search?q=BINI+ASAP+GIRL+POWER) | N/A |
-| 26 | [THEA GAGATE](http://twitter.com/search?q=THEA+GAGATE) | N/A |
-| 27 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 28 | [AllOut JAPSundays](http://twitter.com/search?q=AllOut+JAPSundays) | N/A |
-| 29 | [LOINIE KiligModeOnASAP](http://twitter.com/search?q=LOINIE+KiligModeOnASAP) | N/A |
+| 9 | [SARAH G POWER CONCERT](http://twitter.com/search?q=SARAH+G+POWER+CONCERT) | N/A |
+| 10 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 11 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 12 | [BENCHRunway WithFRANCINE](http://twitter.com/search?q=BENCHRunway+WithFRANCINE) | N/A |
+| 13 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 14 | [KINJI LOVETEAM OnASAP](http://twitter.com/search?q=KINJI+LOVETEAM+OnASAP) | N/A |
+| 15 | [BGYO POWER HOTawan OnASAP](http://twitter.com/search?q=BGYO+POWER+HOTawan+OnASAP) | N/A |
+| 16 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 17 | [ALEXA POWERPARTY OnASAP](http://twitter.com/search?q=ALEXA+POWERPARTY+OnASAP) | N/A |
+| 18 | [ASAPMESumMERIZING JONA](http://twitter.com/search?q=ASAPMESumMERIZING+JONA) | N/A |
+| 19 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 20 | [VIVOREE RETURNS ON ASAP](http://twitter.com/search?q=VIVOREE+RETURNS+ON+ASAP) | N/A |
+| 21 | [JANELLA PowerfulProdOnASAP](http://twitter.com/search?q=JANELLA+PowerfulProdOnASAP) | N/A |
+| 22 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 23 | [Queen REGINE SOLO](http://twitter.com/search?q=Queen+REGINE+SOLO) | N/A |
+| 24 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 25 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 26 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
+| 27 | [MAYMAY BORN TO SLAY](http://twitter.com/search?q=MAYMAY+BORN+TO+SLAY) | N/A |
+| 28 | [THEA GAGATE](http://twitter.com/search?q=THEA+GAGATE) | N/A |
+| 29 | [AllOut JAPSundays](http://twitter.com/search?q=AllOut+JAPSundays) | N/A |
 | 30 | [GustoNaminYan JULIEVER](http://twitter.com/search?q=GustoNaminYan+JULIEVER) | N/A |
-| 31 | [Sam Mangubat](http://twitter.com/search?q=Sam+Mangubat) | N/A |
-| 32 | [Sheena B SunSationalStar](http://twitter.com/search?q=Sheena+B+SunSationalStar) | N/A |
-| 33 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 34 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 35 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 36 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 37 | [#ASAPpower](http://twitter.com/search?q=%23ASAPpower) | N/A |
-| 38 | [#BGYOPpopCollabWithDonny](http://twitter.com/search?q=%23BGYOPpopCollabWithDonny) | N/A |
-| 39 | [#PPOPRISE](http://twitter.com/search?q=%23PPOPRISE) | N/A |
-| 40 | [#AscendHigherDLSU](http://twitter.com/search?q=%23AscendHigherDLSU) | N/A |
-| 41 | [#AOSGustoKoYan](http://twitter.com/search?q=%23AOSGustoKoYan) | N/A |
-| 42 | [#FreenBeckyFanBoomMNL](http://twitter.com/search?q=%23FreenBeckyFanBoomMNL) | N/A |
-| 43 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
-| 44 | [#JanellaSalvador](http://twitter.com/search?q=%23JanellaSalvador) | N/A |
-| 45 | [#BINIxSheenaxMaymay](http://twitter.com/search?q=%23BINIxSheenaxMaymay) | N/A |
-| 46 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 47 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 48 | [#TheCorrsinMNL2023](http://twitter.com/search?q=%23TheCorrsinMNL2023) | N/A |
-| 49 | [#RadiantSelcaDay](http://twitter.com/search?q=%23RadiantSelcaDay) | N/A |
+| 31 | [BINI ASAP GIRL POWER](http://twitter.com/search?q=BINI+ASAP+GIRL+POWER) | N/A |
+| 32 | [Cebu](http://twitter.com/search?q=Cebu) | N/A |
+| 33 | [LOINIE KiligModeOnASAP](http://twitter.com/search?q=LOINIE+KiligModeOnASAP) | N/A |
+| 34 | [DARRENxASAP PartyFever](http://twitter.com/search?q=DARRENxASAP+PartyFever) | N/A |
+| 35 | [Sam Mangubat](http://twitter.com/search?q=Sam+Mangubat) | N/A |
+| 36 | [Sheena B SunSationalStar](http://twitter.com/search?q=Sheena+B+SunSationalStar) | N/A |
+| 37 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 38 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 39 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 40 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 41 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
+| 42 | [#SFW23withHUENINGKAI](http://twitter.com/search?q=%23SFW23withHUENINGKAI) | N/A |
+| 43 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
+| 44 | [#PPOPRISE](http://twitter.com/search?q=%23PPOPRISE) | N/A |
+| 45 | [#SkinCoSGOpening](http://twitter.com/search?q=%23SkinCoSGOpening) | N/A |
+| 46 | [#FreenBeckyFanBoomMNL](http://twitter.com/search?q=%23FreenBeckyFanBoomMNL) | N/A |
+| 47 | [#BGYOPpopCollabWithDonny](http://twitter.com/search?q=%23BGYOPpopCollabWithDonny) | N/A |
+| 48 | [#AscendHigherDLSU](http://twitter.com/search?q=%23AscendHigherDLSU) | N/A |
+| 49 | [#AOSGustoKoYan](http://twitter.com/search?q=%23AOSGustoKoYan) | N/A |
 
 
 

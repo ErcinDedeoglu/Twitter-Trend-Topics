@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-19 05:16:07 UTC`
+📆 Last Updated: `2023-03-19 06:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,12 +19,12 @@ This is top 50 for [Ireland](</Ireland>)
 | 2 | [#GrandSlam](http://twitter.com/search?q=%23GrandSlam) | N/A |
 | 3 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 4 | [#SixNations2023](http://twitter.com/search?q=%23SixNations2023) | N/A |
-| 5 | [#6Nations](http://twitter.com/search?q=%236Nations) | N/A |
+| 5 | [#6nations](http://twitter.com/search?q=%236nations) | N/A |
 | 6 | [England](http://twitter.com/search?q=England) | N/A |
-| 7 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 8 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 9 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 7 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 8 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 9 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 10 | [Usman](http://twitter.com/search?q=Usman) | N/A |
 | 11 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 12 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
 | 13 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 18 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
 | 19 | [RIP Lance Reddick](http://twitter.com/search?q=RIP+Lance+Reddick) | N/A |
 | 20 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 21 | [meath](http://twitter.com/search?q=meath) | N/A |
+| 21 | [Meath](http://twitter.com/search?q=Meath) | N/A |
 | 22 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
 | 23 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
 | 24 | [Roscommon](http://twitter.com/search?q=Roscommon) | N/A |

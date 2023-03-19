@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-19 05:16:29 UTC`
+📆 Last Updated: `2023-03-19 06:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#PSLFinal](http://twitter.com/search?q=%23PSLFinal) | N/A |
 | 2 | [#MSvLQ](http://twitter.com/search?q=%23MSvLQ) | N/A |
-| 3 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
-| 4 | [#چلو_چلو_اسلام_آباد_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af_%da%86%d9%84%d9%88) | N/A |
-| 5 | [#ZamanPark_under_attack](http://twitter.com/search?q=%23ZamanPark_under_attack) | N/A |
+| 3 | [#سیاست_نہیں_ریاست](http://twitter.com/search?q=%23%d8%b3%db%8c%d8%a7%d8%b3%d8%aa_%d9%86%db%81%db%8c%da%ba_%d8%b1%db%8c%d8%a7%d8%b3%d8%aa) | N/A |
+| 4 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
+| 5 | [#میں_نے_عمران_خان_سے_سیکھا_کہ](http://twitter.com/search?q=%23%d9%85%db%8c%da%ba_%d9%86%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%d8%b3%db%92_%d8%b3%db%8c%da%a9%da%be%d8%a7_%da%a9%db%81) | N/A |
 | 6 | [WHAT A MATCH](http://twitter.com/search?q=WHAT+A+MATCH) | N/A |
 | 7 | [Multan](http://twitter.com/search?q=Multan) | N/A |
 | 8 | [WHAT A FINAL](http://twitter.com/search?q=WHAT+A+FINAL) | N/A |
-| 9 | [wiese](http://twitter.com/search?q=wiese) | N/A |
-| 10 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 11 | [abdullah shafique](http://twitter.com/search?q=abdullah+shafique) | N/A |
-| 12 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 13 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 14 | [Where is IK](http://twitter.com/search?q=Where+is+IK) | N/A |
-| 15 | [Judicial Complex](http://twitter.com/search?q=Judicial+Complex) | N/A |
-| 16 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
-| 17 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 9 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 10 | [abdullah shafique](http://twitter.com/search?q=abdullah+shafique) | N/A |
+| 11 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 12 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 13 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
+| 14 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 15 | [Where is IK](http://twitter.com/search?q=Where+is+IK) | N/A |
+| 16 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
+| 17 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
 | 18 | [baig](http://twitter.com/search?q=baig) | N/A |
 | 19 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
-| 20 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 21 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 22 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 23 | [anwar ali](http://twitter.com/search?q=anwar+ali) | N/A |
-| 24 | [RAUF](http://twitter.com/search?q=RAUF) | N/A |
+| 20 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 21 | [Judicial Complex](http://twitter.com/search?q=Judicial+Complex) | N/A |
+| 22 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 23 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 24 | [anwar ali](http://twitter.com/search?q=anwar+ali) | N/A |
 | 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 26 | [G-11](http://twitter.com/search?q=G-11) | N/A |
-| 27 | [Pemra](http://twitter.com/search?q=Pemra) | N/A |
-| 28 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 29 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 30 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
-| 31 | [Pashtoon](http://twitter.com/search?q=Pashtoon) | N/A |
-| 32 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 33 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
-| 34 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 35 | [Ahan](http://twitter.com/search?q=Ahan) | N/A |
-| 36 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 37 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 38 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 39 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 40 | [The Leader](http://twitter.com/search?q=The+Leader) | N/A |
-| 41 | [Patwari](http://twitter.com/search?q=Patwari) | N/A |
-| 42 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 43 | [Absolutely Right](http://twitter.com/search?q=Absolutely+Right) | N/A |
-| 44 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 45 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 46 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
-| 47 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
-| 48 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
-| 49 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 50 | [Rule](http://twitter.com/search?q=Rule) | N/A |
+| 26 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 27 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 28 | [G-11](http://twitter.com/search?q=G-11) | N/A |
+| 29 | [Pemra](http://twitter.com/search?q=Pemra) | N/A |
+| 30 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
+| 31 | [Sindhi](http://twitter.com/search?q=Sindhi) | N/A |
+| 32 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 34 | [Pashtoons](http://twitter.com/search?q=Pashtoons) | N/A |
+| 35 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
+| 36 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 37 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
+| 38 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
+| 39 | [Shahbaz Sharif](http://twitter.com/search?q=Shahbaz+Sharif) | N/A |
+| 40 | [America](http://twitter.com/search?q=America) | N/A |
+| 41 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 42 | [Welldone](http://twitter.com/search?q=Welldone) | N/A |
+| 43 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
+| 44 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 46 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 47 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 48 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 49 | [Hussain](http://twitter.com/search?q=Hussain) | N/A |
+| 50 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
 
 
 

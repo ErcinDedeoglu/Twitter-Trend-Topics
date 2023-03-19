@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-19 05:16:42 UTC`
+📆 Last Updated: `2023-03-19 06:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,9 +23,9 @@ This is top 50 for Belgium
 | 6 | [#stazwa](http://twitter.com/search?q=%23stazwa) | N/A |
 | 7 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
 | 8 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 9 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
-| 10 | [Perica](http://twitter.com/search?q=Perica) | N/A |
-| 11 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
+| 9 | [Perica](http://twitter.com/search?q=Perica) | N/A |
+| 10 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
+| 11 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
 | 12 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
 | 13 | [Oxfam](http://twitter.com/search?q=Oxfam) | N/A |
 | 14 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
@@ -39,8 +39,8 @@ This is top 50 for Belgium
 | 22 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
 | 23 | [bodart](http://twitter.com/search?q=bodart) | N/A |
 | 24 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
-| 25 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 27 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 28 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 | 29 | [Tresor](http://twitter.com/search?q=Tresor) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Belgium
 | 40 | [de lie](http://twitter.com/search?q=de+lie) | N/A |
 | 41 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 42 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 43 | [jolien](http://twitter.com/search?q=jolien) | N/A |
+| 43 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
 | 44 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 45 | [meunier](http://twitter.com/search?q=meunier) | N/A |
+| 45 | [Meunier](http://twitter.com/search?q=Meunier) | N/A |
 | 46 | [engelse](http://twitter.com/search?q=engelse) | N/A |
 | 47 | [bart de wever](http://twitter.com/search?q=bart+de+wever) | N/A |
 | 48 | [hedebouw](http://twitter.com/search?q=hedebouw) | N/A |
-| 49 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 50 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 49 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 50 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-19 05:16:43 UTC`
+📆 Last Updated: `2023-03-19 06:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for Denmark
 | ------- | ------------ | ------------ |
 | 1 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 4 | [#MilanoSanremo](http://twitter.com/search?q=%23MilanoSanremo) | N/A |
-| 5 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 3 | [#MilanoSanremo](http://twitter.com/search?q=%23MilanoSanremo) | N/A |
+| 4 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 6 | [mads p](http://twitter.com/search?q=mads+p) | N/A |
 | 7 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 8 | [#besserwisserne](http://twitter.com/search?q=%23besserwisserne) | N/A |
 | 9 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
 | 10 | [#vejleb](http://twitter.com/search?q=%23vejleb) | N/A |
 | 11 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 13 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
+| 12 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 14 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
 | 15 | [livah sunshine](http://twitter.com/search?q=livah+sunshine) | N/A |
 | 16 | [Allan](http://twitter.com/search?q=Allan) | N/A |
@@ -48,12 +48,12 @@ This is top 50 for Denmark
 | 31 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
 | 32 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
 | 33 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
-| 34 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 35 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 36 | [paludan](http://twitter.com/search?q=paludan) | N/A |
-| 37 | [Talent](http://twitter.com/search?q=Talent) | N/A |
-| 38 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 39 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 34 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 35 | [paludan](http://twitter.com/search?q=paludan) | N/A |
+| 36 | [Talent](http://twitter.com/search?q=Talent) | N/A |
+| 37 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 38 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 39 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 41 | [jylland](http://twitter.com/search?q=jylland) | N/A |
 | 42 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
