@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-19 03:19:51 UTC`
+📆 Last Updated: `2023-03-19 04:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#dcfc](http://twitter.com/search?q=%23dcfc) | N/A |
-| 2 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 2 | [Jose](http://twitter.com/search?q=Jose) | N/A |
 | 3 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 4 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 | 5 | [Usman](http://twitter.com/search?q=Usman) | N/A |
@@ -27,44 +27,35 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 10 | [HEADSHOT DEAD](http://twitter.com/search?q=HEADSHOT+DEAD) | N/A |
 | 11 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
 | 12 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 13 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 14 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
-| 15 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
-| 16 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 17 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 18 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 19 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 20 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 21 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 22 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 23 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 24 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 25 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 26 | [Mothers Day](http://twitter.com/search?q=Mothers+Day) | N/A |
-| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 28 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 29 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 30 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
-| 31 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 32 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 33 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 34 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 35 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 36 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 37 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
-| 38 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 39 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 40 | [Jose](http://twitter.com/search?q=Jose) | N/A |
-| 41 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 42 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 43 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
-| 44 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 45 | [McGregor](http://twitter.com/search?q=McGregor) | McGregor is a Scottish surname derived from the Gaelic MacGriogair, meaning "son of Griogair". It is also a given name, usually derived from the surname. |
-| 46 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
-| 47 | [Gates](http://twitter.com/search?q=Gates) | N/A |
-| 48 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 49 | [#Casualty](http://twitter.com/search?q=%23Casualty) | N/A |
-| 50 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
+| 13 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
+| 14 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 15 | [#Casualty](http://twitter.com/search?q=%23Casualty) | N/A |
+| 16 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 17 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 18 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 19 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 20 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 21 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
+| 22 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 23 | [Mothers Day](http://twitter.com/search?q=Mothers+Day) | N/A |
+| 24 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 25 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 26 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 27 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 28 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 29 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 30 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 31 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 32 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 33 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 34 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 35 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
+| 36 | [Gates](http://twitter.com/search?q=Gates) | N/A |
+| 37 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
+| 38 | [#SuellaBravermanOut](http://twitter.com/search?q=%23SuellaBravermanOut) | N/A |
+| 39 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
+| 40 | [#TheWheel](http://twitter.com/search?q=%23TheWheel) | N/A |
+| 41 | [#ufclondon](http://twitter.com/search?q=%23ufclondon) | N/A |
 
 
 

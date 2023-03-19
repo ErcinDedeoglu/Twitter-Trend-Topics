@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-19 03:20:43 UTC`
+📆 Last Updated: `2023-03-19 04:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,19 +31,19 @@ This is top 50 for Norway
 | 14 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 16 | [momarken](http://twitter.com/search?q=momarken) | N/A |
-| 17 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
+| 17 | [vikersund](http://twitter.com/search?q=vikersund) | N/A |
 | 18 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 19 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
 | 20 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 21 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 22 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
-| 23 | [ranheim](http://twitter.com/search?q=ranheim) | N/A |
-| 24 | [Harstad](http://twitter.com/search?q=Harstad) | N/A |
-| 25 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 26 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 27 | [#svlm2023](http://twitter.com/search?q=%23svlm2023) | N/A |
-| 28 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
-| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 22 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 23 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
+| 24 | [ranheim](http://twitter.com/search?q=ranheim) | N/A |
+| 25 | [Harstad](http://twitter.com/search?q=Harstad) | N/A |
+| 26 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 27 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 28 | [#svlm2023](http://twitter.com/search?q=%23svlm2023) | N/A |
+| 29 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
 | 30 | [Usman](http://twitter.com/search?q=Usman) | N/A |
 | 31 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 32 | [rekdal](http://twitter.com/search?q=rekdal) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-19 03:20:24 UTC`
+📆 Last Updated: `2023-03-19 04:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,16 +20,16 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#LQvsMS](http://twitter.com/search?q=%23LQvsMS) | N/A |
 | 4 | [#چلو_چلو_اسلام_آباد_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%a2%d8%a8%d8%a7%d8%af_%da%86%d9%84%d9%88) | N/A |
 | 5 | [#ZamanPark_under_attack](http://twitter.com/search?q=%23ZamanPark_under_attack) | N/A |
-| 6 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
+| 6 | [WHAT A MATCH](http://twitter.com/search?q=WHAT+A+MATCH) | N/A |
 | 7 | [Multan](http://twitter.com/search?q=Multan) | N/A |
 | 8 | [what a final](http://twitter.com/search?q=what+a+final) | N/A |
 | 9 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
 | 10 | [where is ik](http://twitter.com/search?q=where+is+ik) | N/A |
 | 11 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
 | 12 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 13 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 14 | [abdullah shafique](http://twitter.com/search?q=abdullah+shafique) | N/A |
-| 15 | [tim david](http://twitter.com/search?q=tim+david) | N/A |
+| 13 | [abdullah shafique](http://twitter.com/search?q=abdullah+shafique) | N/A |
+| 14 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 15 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
 | 16 | [Khushdil](http://twitter.com/search?q=Khushdil) | N/A |
 | 17 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
 | 18 | [Judicial Complex](http://twitter.com/search?q=Judicial+Complex) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 20 | [Pemra](http://twitter.com/search?q=Pemra) | N/A |
 | 21 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
 | 22 | [anwar ali](http://twitter.com/search?q=anwar+ali) | N/A |
-| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 24 | [RAUF](http://twitter.com/search?q=RAUF) | N/A |
+| 23 | [RAUF](http://twitter.com/search?q=RAUF) | N/A |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 25 | [G-11](http://twitter.com/search?q=G-11) | N/A |
-| 26 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 27 | [Sath](http://twitter.com/search?q=Sath) | N/A |
-| 28 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 29 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
-| 30 | [Pakistan Cricket](http://twitter.com/search?q=Pakistan+Cricket) | N/A |
-| 31 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 33 | [Double](http://twitter.com/search?q=Double) | N/A |
-| 34 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 35 | [Ahan](http://twitter.com/search?q=Ahan) | N/A |
-| 36 | [America](http://twitter.com/search?q=America) | N/A |
-| 37 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
-| 38 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 39 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
-| 40 | [Dono](http://twitter.com/search?q=Dono) | N/A |
-| 41 | [Idiot](http://twitter.com/search?q=Idiot) | N/A |
-| 42 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 43 | [Impossible](http://twitter.com/search?q=Impossible) | N/A |
-| 44 | [Pashtoon](http://twitter.com/search?q=Pashtoon) | N/A |
-| 45 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
-| 46 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 47 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
-| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 49 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 50 | [Masha](http://twitter.com/search?q=Masha) | N/A |
+| 26 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 27 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 28 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 29 | [Sath](http://twitter.com/search?q=Sath) | N/A |
+| 30 | [Ahan](http://twitter.com/search?q=Ahan) | N/A |
+| 31 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 32 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
+| 33 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
+| 34 | [America](http://twitter.com/search?q=America) | N/A |
+| 35 | [The Leader](http://twitter.com/search?q=The+Leader) | N/A |
+| 36 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 37 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
+| 38 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
+| 39 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 40 | [Pashtoons](http://twitter.com/search?q=Pashtoons) | N/A |
+| 41 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 42 | [Rule](http://twitter.com/search?q=Rule) | N/A |
+| 43 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 44 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 45 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 46 | [Sigh](http://twitter.com/search?q=Sigh) | N/A |
+| 47 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 48 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 49 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
+| 50 | [Kesy](http://twitter.com/search?q=Kesy) | N/A |
 
 
 

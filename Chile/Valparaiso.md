@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-19 03:19:57 UTC`
+📆 Last Updated: `2023-03-19 04:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,44 +17,43 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
 | 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 3 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 5 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 6 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 7 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 8 | [#atlasdechiletvn](http://twitter.com/search?q=%23atlasdechiletvn) | N/A |
-| 9 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 10 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
+| 3 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 4 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
+| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 6 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 7 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 8 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
+| 9 | [#atlasdechiletvn](http://twitter.com/search?q=%23atlasdechiletvn) | N/A |
+| 10 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
 | 11 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 12 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 12 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
 | 13 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 14 | [Requena](http://twitter.com/search?q=Requena) | N/A |
+| 14 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
 | 15 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
-| 16 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 16 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
 | 17 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 18 | [René](http://twitter.com/search?q=Ren%c3%a9) | N/A |
-| 19 | [Ramiro González](http://twitter.com/search?q=Ramiro+Gonz%c3%a1lez) | Ramiro González is a Spanish name. It is composed of two parts: Ramiro, which is a Spanish given name derived from the Germanic name Raginmar, meaning "famous judgment"; and González, which is a Spanish surname derived from the Latin word Gundisalvus, meaning "battle-ready". In English, the name would be translated as "Famous Judgment Battle-Ready". |
-| 20 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 21 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 22 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 23 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 18 | [Requena](http://twitter.com/search?q=Requena) | N/A |
+| 19 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 20 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 21 | [René](http://twitter.com/search?q=Ren%c3%a9) | N/A |
+| 22 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 23 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
 | 24 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 25 | [Moya](http://twitter.com/search?q=Moya) | N/A |
+| 25 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
 | 26 | [Don Nelson](http://twitter.com/search?q=Don+Nelson) | N/A |
 | 27 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
-| 28 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 29 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 28 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 29 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
 | 30 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 31 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 32 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
-| 33 | [Votar](http://twitter.com/search?q=Votar) | N/A |
-| 34 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 35 | [CARA DE RAJA](http://twitter.com/search?q=CARA+DE+RAJA) | N/A |
-| 36 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
-| 37 | [#LollaCL2023](http://twitter.com/search?q=%23LollaCL2023) | N/A |
+| 33 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 34 | [CARA DE RAJA](http://twitter.com/search?q=CARA+DE+RAJA) | N/A |
+| 35 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
+| 36 | [#LollaCL2023](http://twitter.com/search?q=%23LollaCL2023) | N/A |
+| 37 | [#CierreDeFronteras](http://twitter.com/search?q=%23CierreDeFronteras) | N/A |
 | 38 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
-| 39 | [#CierreDeFronteras](http://twitter.com/search?q=%23CierreDeFronteras) | N/A |
-| 40 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 39 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 
 
 

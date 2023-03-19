@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-19 03:20:17 UTC`
+📆 Last Updated: `2023-03-19 04:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,49 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [MARCHsayangASAP WithDONBELLE](http://twitter.com/search?q=MARCHsayangASAP+WithDONBELLE) | N/A |
-| 2 | [KILIG KANTAHAN WithANJI](http://twitter.com/search?q=KILIG+KANTAHAN+WithANJI) | N/A |
-| 3 | [#JaYxYuuri_Cover_Collab](http://twitter.com/search?q=%23JaYxYuuri_Cover_Collab) | N/A |
-| 4 | [#Always_x_DriedFlower](http://twitter.com/search?q=%23Always_x_DriedFlower) | N/A |
-| 5 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [#BGYOPpopCollabWithDonny](http://twitter.com/search?q=%23BGYOPpopCollabWithDonny) | N/A |
-| 8 | [KINJI LOVETEAM OnASAP](http://twitter.com/search?q=KINJI+LOVETEAM+OnASAP) | N/A |
-| 9 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 10 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 11 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 12 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 13 | [JANELLA PowerfulProdOnASAP](http://twitter.com/search?q=JANELLA+PowerfulProdOnASAP) | N/A |
-| 14 | [VIVOREE RETURNS ON ASAP](http://twitter.com/search?q=VIVOREE+RETURNS+ON+ASAP) | N/A |
-| 15 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 16 | [Sheena B SunSationalStar](http://twitter.com/search?q=Sheena+B+SunSationalStar) | N/A |
-| 17 | [LOINIE KiligModeOnASAP](http://twitter.com/search?q=LOINIE+KiligModeOnASAP) | N/A |
-| 18 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 19 | [hori7on on icsyv](http://twitter.com/search?q=hori7on+on+icsyv) | N/A |
-| 20 | [THE FUTURE IS VIBRENT](http://twitter.com/search?q=THE+FUTURE+IS+VIBRENT) | N/A |
-| 21 | [kdlex headliner billboard](http://twitter.com/search?q=kdlex+headliner+billboard) | N/A |
-| 22 | [Safe Flight Bible Go To USA](http://twitter.com/search?q=Safe+Flight+Bible+Go+To+USA) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 25 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 26 | [newsto koyan with jane](http://twitter.com/search?q=newsto+koyan+with+jane) | N/A |
-| 27 | [MarsoLupit With MAYWARD](http://twitter.com/search?q=MarsoLupit+With+MAYWARD) | N/A |
-| 28 | [KATHNIEL ABU DHABest](http://twitter.com/search?q=KATHNIEL+ABU+DHABest) | N/A |
-| 29 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 30 | [aldenxeb eatbulagasaturday](http://twitter.com/search?q=aldenxeb+eatbulagasaturday) | N/A |
-| 31 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 32 | [DALAMPASIGAN 1ST ANNIVERSARY](http://twitter.com/search?q=DALAMPASIGAN+1ST+ANNIVERSARY) | N/A |
-| 33 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 34 | [set me free 1st slay](http://twitter.com/search?q=set+me+free+1st+slay) | N/A |
-| 35 | [bini gwen our supermodel](http://twitter.com/search?q=bini+gwen+our+supermodel) | N/A |
-| 36 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 37 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 38 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 39 | [Tim McGraw](http://twitter.com/search?q=Tim+McGraw) | N/A |
-| 40 | [welcome to sg alexa](http://twitter.com/search?q=welcome+to+sg+alexa) | N/A |
-| 41 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
-| 42 | [Happy Fiesta](http://twitter.com/search?q=Happy+Fiesta) | N/A |
-| 43 | [LPTs](http://twitter.com/search?q=LPTs) | N/A |
-| 44 | [congrats ccs](http://twitter.com/search?q=congrats+ccs) | N/A |
-| 45 | [zacham aming barkada](http://twitter.com/search?q=zacham+aming+barkada) | N/A |
-| 46 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
-| 47 | [david wiltelcom anniversary](http://twitter.com/search?q=david+wiltelcom+anniversary) | N/A |
-| 48 | [btob seminar at melody company](http://twitter.com/search?q=btob+seminar+at+melody+company) | N/A |
-| 49 | [hello beachbro jason](http://twitter.com/search?q=hello+beachbro+jason) | N/A |
+| 2 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
+| 3 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
+| 4 | [ASAPMESumMERIZING JONA](http://twitter.com/search?q=ASAPMESumMERIZING+JONA) | N/A |
+| 5 | [KILIG KANTAHAN WithANJI](http://twitter.com/search?q=KILIG+KANTAHAN+WithANJI) | N/A |
+| 6 | [JOIN PPOPCOM2023](http://twitter.com/search?q=JOIN+PPOPCOM2023) | N/A |
+| 7 | [#ETONCENTRIS](http://twitter.com/search?q=%23ETONCENTRIS) | N/A |
+| 8 | [#BGYOPpopCollabWithDonny](http://twitter.com/search?q=%23BGYOPpopCollabWithDonny) | N/A |
+| 9 | [#AscendHigherDLSU](http://twitter.com/search?q=%23AscendHigherDLSU) | N/A |
+| 10 | [BGYO POWER HOTawan OnASAP](http://twitter.com/search?q=BGYO+POWER+HOTawan+OnASAP) | N/A |
+| 11 | [KINJI LOVETEAM OnASAP](http://twitter.com/search?q=KINJI+LOVETEAM+OnASAP) | N/A |
+| 12 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 13 | [VIVOREE RETURNS ON ASAP](http://twitter.com/search?q=VIVOREE+RETURNS+ON+ASAP) | N/A |
+| 14 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 15 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 16 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 17 | [JANELLA PowerfulProdOnASAP](http://twitter.com/search?q=JANELLA+PowerfulProdOnASAP) | N/A |
+| 18 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 19 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 20 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 21 | [SARAH G POWER CONCERT](http://twitter.com/search?q=SARAH+G+POWER+CONCERT) | N/A |
+| 22 | [Angel](http://twitter.com/search?q=Angel) | N/A |
+| 23 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 24 | [Thea](http://twitter.com/search?q=Thea) | N/A |
+| 25 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 26 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 27 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 28 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 29 | [#ASAPpower](http://twitter.com/search?q=%23ASAPpower) | N/A |
+| 30 | [#PPOPRISE](http://twitter.com/search?q=%23PPOPRISE) | N/A |
+| 31 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 32 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
+| 33 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 34 | [#JanellaSalvador](http://twitter.com/search?q=%23JanellaSalvador) | N/A |
+| 35 | [#AOSGustoKoYan](http://twitter.com/search?q=%23AOSGustoKoYan) | N/A |
+| 36 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
+| 37 | [#ATINKuharili](http://twitter.com/search?q=%23ATINKuharili) | N/A |
+| 38 | [#BIBLEFLYTOPALMSPRINGS](http://twitter.com/search?q=%23BIBLEFLYTOPALMSPRINGS) | N/A |
+| 39 | [#Kice](http://twitter.com/search?q=%23Kice) | N/A |
+| 40 | [#DARREN](http://twitter.com/search?q=%23DARREN) | N/A |
+| 41 | [#TAEYEON](http://twitter.com/search?q=%23TAEYEON) | N/A |
+| 42 | [#BORNPINKMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKMANILA_BULACAN) | N/A |
+| 43 | [#FlowerRoadWithSakura](http://twitter.com/search?q=%23FlowerRoadWithSakura) | N/A |
+| 44 | [#사쿠라_아름답게_피어나다](http://twitter.com/search?q=%23%ec%82%ac%ec%bf%a0%eb%9d%bc_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b2%8c_%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-19 03:20:37 UTC`
+📆 Last Updated: `2023-03-19 04:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 2 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 3 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 4 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
-| 5 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 3 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 4 | [#LAKings](http://twitter.com/search?q=%23LAKings) | N/A |
+| 5 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
 | 6 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 7 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
+| 7 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
 | 8 | [#LuxiemImpulse](http://twitter.com/search?q=%23LuxiemImpulse) | N/A |
-| 9 | [Adem Bona](http://twitter.com/search?q=Adem+Bona) | N/A |
-| 10 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
-| 11 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 12 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
-| 13 | [Justin Gaethje](http://twitter.com/search?q=Justin+Gaethje) | N/A |
-| 14 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 15 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 16 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 17 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 18 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 19 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 20 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 21 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 22 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 23 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 24 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 26 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 27 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 28 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 29 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 30 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
-| 31 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 9 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
+| 10 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 11 | [Adem Bona](http://twitter.com/search?q=Adem+Bona) | N/A |
+| 12 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 13 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 14 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 15 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 16 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
+| 17 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 18 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 19 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 20 | [LAFC](http://twitter.com/search?q=LAFC) | LAFC stands for Los Angeles Football Club, which is a professional soccer team based in Los Angeles, California. The team competes in Major League Soccer (MLS) and was founded in 2014. |
+| 21 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 22 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 23 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 24 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 25 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 26 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 27 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 28 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 29 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 30 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 31 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
 | 32 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 33 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 34 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 35 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 36 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 37 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 38 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 39 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 40 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
-| 41 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 42 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 33 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 34 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 35 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 36 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 37 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 38 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 39 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 40 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 41 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 42 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
 | 43 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 44 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 45 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 46 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 47 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
-| 48 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 49 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 50 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 44 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 45 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 46 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 47 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 48 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 49 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
+| 50 | [Igor](http://twitter.com/search?q=Igor) | N/A |
 
 
 

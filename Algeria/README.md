@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-19 03:20:38 UTC`
+📆 Last Updated: `2023-03-19 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for Algeria
 | 3 | [عيد النصر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
 | 4 | [#جو_حطاب](http://twitter.com/search?q=%23%d8%ac%d9%88_%d8%ad%d8%b7%d8%a7%d8%a8) | N/A |
 | 5 | [#نيف_السيد](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%81_%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 6 | [#بوتين](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
-| 7 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 6 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 7 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
 | 8 | [عبد العالي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
 | 9 | [مجتمع السلم](http://twitter.com/search?q=%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%b3%d9%84%d9%85) | N/A |
 | 10 | [الشعب الصحراوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
@@ -42,8 +42,8 @@ This is top 50 for Algeria
 | 25 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
 | 26 | [جورج بوش](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%a8%d9%88%d8%b4) | N/A |
 | 27 | [جمال بلماضي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 28 | [18 مارس 2023](http://twitter.com/search?q=18+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 29 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 28 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 29 | [18 مارس 2023](http://twitter.com/search?q=18+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
 | 30 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 31 | [العشريه السوداء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d8%a1) | N/A |
 | 32 | [الاشخاص الذين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d8%ae%d8%a7%d8%b5+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Algeria
 | 34 | [المواجهه المزدوجه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%ac%d9%87%d9%87+%d8%a7%d9%84%d9%85%d8%b2%d8%af%d9%88%d8%ac%d9%87) | N/A |
 | 35 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
 | 36 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 37 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
-| 38 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
-| 39 | [الرييس الروسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |
+| 37 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 38 | [La CPI](http://twitter.com/search?q=La+CPI) | N/A |
+| 39 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
 | 40 | [Delort](http://twitter.com/search?q=Delort) | N/A |
 | 41 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 42 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
-| 43 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 44 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 45 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
-| 46 | [الدور الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 47 | [Palestiniens](http://twitter.com/search?q=Palestiniens) | N/A |
-| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 49 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 50 | [الاقامه الجامعيه الجرف](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b1%d9%81) | N/A |
+| 42 | [الرييس الروسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |
+| 43 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
+| 44 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 45 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 46 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
+| 47 | [الدور الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 48 | [Palestiniens](http://twitter.com/search?q=Palestiniens) | N/A |
+| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 50 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 
 
 

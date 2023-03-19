@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-19 03:19:59 UTC`
+📆 Last Updated: `2023-03-19 04:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 2 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
-| 3 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 4 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 5 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 6 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
-| 7 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 8 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 9 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 10 | [#BrasileirãoMusical](http://twitter.com/search?q=%23Brasileir%c3%a3oMusical) | N/A |
-| 11 | [PRISCILLA NO ALTAS HORAS](http://twitter.com/search?q=PRISCILLA+NO+ALTAS+HORAS) | N/A |
-| 12 | [#SelfiesForPilantra](http://twitter.com/search?q=%23SelfiesForPilantra) | N/A |
-| 13 | [Juba](http://twitter.com/search?q=Juba) | N/A |
-| 14 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 15 | [Sonhei](http://twitter.com/search?q=Sonhei) | N/A |
-| 16 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 17 | [Dakota](http://twitter.com/search?q=Dakota) | N/A |
-| 18 | [#bakecelebridades](http://twitter.com/search?q=%23bakecelebridades) | N/A |
-| 19 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 20 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 21 | [Arthur Cabral](http://twitter.com/search?q=Arthur+Cabral) | N/A |
+| 1 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 2 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 3 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 4 | [PRISCILLA NO ALTAS HORAS](http://twitter.com/search?q=PRISCILLA+NO+ALTAS+HORAS) | N/A |
+| 5 | [Sonhei](http://twitter.com/search?q=Sonhei) | N/A |
+| 6 | [#BrasileirãoMusical](http://twitter.com/search?q=%23Brasileir%c3%a3oMusical) | N/A |
+| 7 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 8 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 9 | [#SelfiesForPilantra](http://twitter.com/search?q=%23SelfiesForPilantra) | N/A |
+| 10 | [Juba](http://twitter.com/search?q=Juba) | N/A |
+| 11 | [Arthur Cabral](http://twitter.com/search?q=Arthur+Cabral) | N/A |
+| 12 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 13 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 14 | [Dakota](http://twitter.com/search?q=Dakota) | N/A |
+| 15 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 16 | [#bakecelebridades](http://twitter.com/search?q=%23bakecelebridades) | N/A |
+| 17 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 18 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 19 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 20 | [Luan City](http://twitter.com/search?q=Luan+City) | N/A |
+| 21 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
 | 22 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 23 | [Até o Haaland](http://twitter.com/search?q=At%c3%a9+o+Haaland) | N/A |
-| 24 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 25 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 26 | [Ramon Menezes](http://twitter.com/search?q=Ramon+Menezes) | N/A |
-| 27 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 28 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 29 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 30 | [Seleção Brasileira](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira) | N/A |
-| 31 | [#BIBLEFLYTOPALMSPRINGS](http://twitter.com/search?q=%23BIBLEFLYTOPALMSPRINGS) | N/A |
-| 32 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 33 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 34 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 35 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 36 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 37 | [Luan City](http://twitter.com/search?q=Luan+City) | N/A |
-| 38 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 39 | [Claudia Abreu](http://twitter.com/search?q=Claudia+Abreu) | N/A |
-| 40 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 41 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 42 | [Por 100](http://twitter.com/search?q=Por+100) | N/A |
-| 43 | [Garçom](http://twitter.com/search?q=Gar%c3%a7om) | N/A |
-| 44 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 45 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 46 | [Pablo Vittar](http://twitter.com/search?q=Pablo+Vittar) | N/A |
+| 23 | [Ramon Menezes](http://twitter.com/search?q=Ramon+Menezes) | N/A |
+| 24 | [#BIBLEFLYTOPALMSPRINGS](http://twitter.com/search?q=%23BIBLEFLYTOPALMSPRINGS) | N/A |
+| 25 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 27 | [Rael](http://twitter.com/search?q=Rael) | N/A |
+| 28 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
+| 29 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 30 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 31 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 32 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 33 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 34 | [Claudia Abreu](http://twitter.com/search?q=Claudia+Abreu) | N/A |
+| 35 | [Pablo Vittar](http://twitter.com/search?q=Pablo+Vittar) | N/A |
+| 36 | [Por 100](http://twitter.com/search?q=Por+100) | N/A |
+| 37 | [tyler joseph](http://twitter.com/search?q=tyler+joseph) | N/A |
+| 38 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 39 | [Garçom](http://twitter.com/search?q=Gar%c3%a7om) | N/A |
+| 40 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 41 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 42 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 43 | [Elvis Presley](http://twitter.com/search?q=Elvis+Presley) | N/A |
+| 44 | [bloo](http://twitter.com/search?q=bloo) | N/A |
+| 45 | [mc davi](http://twitter.com/search?q=mc+davi) | N/A |
+| 46 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
 | 47 | [Walter Mercado](http://twitter.com/search?q=Walter+Mercado) | N/A |
-| 48 | [tyler joseph](http://twitter.com/search?q=tyler+joseph) | N/A |
-| 49 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
-| 50 | [mc davi](http://twitter.com/search?q=mc+davi) | N/A |
+| 48 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 49 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 50 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-19 03:20:42 UTC`
+📆 Last Updated: `2023-03-19 04:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,15 +32,15 @@ This is top 50 for Jordan
 | 15 | [الطواري المتوسطه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%87) | N/A |
 | 16 | [عبد الحليم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d9%85) | N/A |
 | 17 | [بن طلال](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
-| 18 | [احمد حسن الزعبي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b2%d8%b9%d8%a8%d9%8a) | N/A |
-| 19 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
-| 20 | [بيت الشعر](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b4%d8%b9%d8%b1) | N/A |
-| 21 | [كوريا الشماليه](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 22 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
-| 23 | [عمو مجدي](http://twitter.com/search?q=%d8%b9%d9%85%d9%88+%d9%85%d8%ac%d8%af%d9%8a) | N/A |
-| 24 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 25 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 26 | [شرم الشيخ](http://twitter.com/search?q=%d8%b4%d8%b1%d9%85+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 18 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
+| 19 | [بيت الشعر](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b4%d8%b9%d8%b1) | N/A |
+| 20 | [كوريا الشماليه](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 21 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
+| 22 | [عمو مجدي](http://twitter.com/search?q=%d8%b9%d9%85%d9%88+%d9%85%d8%ac%d8%af%d9%8a) | N/A |
+| 23 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 24 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 25 | [شرم الشيخ](http://twitter.com/search?q=%d8%b4%d8%b1%d9%85+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 26 | [احمد حسن الزعبي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b2%d8%b9%d8%a8%d9%8a) | N/A |
 | 27 | [الحاله الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
 | 28 | [روح نام](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d9%86%d8%a7%d9%85) | N/A |
 | 29 | [الجميد الكركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%af+%d8%a7%d9%84%d9%83%d8%b1%d9%83%d9%8a) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Jordan
 | 39 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 40 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
 | 41 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 42 | [عمران خان](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d8%a7%d9%86+%d8%ae%d8%a7%d9%86) | N/A |
-| 43 | [الدرجه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 44 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
-| 45 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 46 | [الكره الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
-| 47 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 48 | [الرابط العجيب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8) | N/A |
-| 49 | [الفصل الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 50 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
+| 42 | [الدرجه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 43 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
+| 44 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 45 | [الكره الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
+| 46 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 47 | [الرابط العجيب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%b9%d8%ac%d9%8a%d8%a8) | N/A |
+| 48 | [الفصل الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 49 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
+| 50 | [العالم العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 
 
 

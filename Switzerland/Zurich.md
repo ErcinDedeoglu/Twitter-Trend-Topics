@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-19 03:20:08 UTC`
+📆 Last Updated: `2023-03-19 04:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 2 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 3 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 5 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 6 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
-| 7 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 8 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 9 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 10 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
+| 1 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 3 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 4 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 5 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 6 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 7 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 8 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 9 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
+| 10 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 11 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 12 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 | 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
@@ -34,11 +34,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 18 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 19 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 20 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 21 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 20 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 23 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 24 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
 | 25 | [Virus](http://twitter.com/search?q=Virus) | N/A |
 | 26 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |

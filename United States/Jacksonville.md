@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-03-19 03:20:33 UTC`
+📆 Last Updated: `2023-03-19 04:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 2 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 3 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 4 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 5 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
-| 6 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 7 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 8 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
-| 9 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 10 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 11 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
-| 12 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 13 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 14 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 15 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 16 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 17 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 18 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
-| 19 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 20 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 21 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 22 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 23 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 24 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 25 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 26 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 27 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 28 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 29 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
-| 30 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 31 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 32 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 33 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 34 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 35 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 36 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 37 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
-| 38 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 39 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 40 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 41 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 42 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 43 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 44 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 45 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 46 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 47 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 48 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 1 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 2 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
+| 3 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 4 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 5 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 6 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 7 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 8 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 9 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
+| 10 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
+| 11 | [#Sebring12](http://twitter.com/search?q=%23Sebring12) | N/A |
+| 12 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 13 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 14 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 15 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
+| 16 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 17 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 18 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 19 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 20 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 21 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 22 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 23 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 24 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 25 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 26 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 27 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 28 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 29 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 30 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 31 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 32 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 33 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 34 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 35 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 36 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
+| 37 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 38 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 39 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 40 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 41 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 42 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 43 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
+| 44 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 45 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 46 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 47 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
+| 48 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
 | 49 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 50 | [USA vs Cuba](http://twitter.com/search?q=USA+vs+Cuba) | N/A |
+| 50 | [Belal](http://twitter.com/search?q=Belal) | N/A |
 
 
 

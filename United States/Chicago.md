@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-19 03:20:31 UTC`
+📆 Last Updated: `2023-03-19 04:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 2 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 3 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 4 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 4 | [#swarm](http://twitter.com/search?q=%23swarm) | N/A |
 | 5 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
 | 6 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
 | 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 8 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
-| 9 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 8 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 9 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
 | 10 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 11 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 12 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 13 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 14 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 15 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 16 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 17 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 18 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 19 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 20 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 11 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 12 | [Daniel Bard](http://twitter.com/search?q=Daniel+Bard) | N/A |
+| 13 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 14 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 15 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 16 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 17 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 18 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 19 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 20 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
 | 21 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 22 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
-| 23 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
-| 24 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 25 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
-| 26 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 22 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 23 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 24 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 25 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 26 | [Dylan Disu](http://twitter.com/search?q=Dylan+Disu) | N/A |
 | 27 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 28 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 29 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 30 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
-| 31 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 32 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 33 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 34 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 35 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 36 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 37 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 28 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 29 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 30 | [DeRosa](http://twitter.com/search?q=DeRosa) | N/A |
+| 31 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 32 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 33 | [Singleton](http://twitter.com/search?q=Singleton) | Singleton is a design pattern that restricts the instantiation of a class to one object. It is used to ensure that only one instance of a class is created and that all other objects access the same instance. In English, it means that only one object can be created from a given class. |
+| 34 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 35 | [Reese](http://twitter.com/search?q=Reese) | N/A |
+| 36 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 37 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
 | 38 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 39 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 40 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 41 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 42 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 43 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 39 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 40 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 41 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 42 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 43 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
 | 44 | [USA vs Cuba](http://twitter.com/search?q=USA+vs+Cuba) | N/A |
-| 45 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 46 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 47 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 48 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 49 | [Tim Anderson](http://twitter.com/search?q=Tim+Anderson) | N/A |
-| 50 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 45 | [Gesta](http://twitter.com/search?q=Gesta) | N/A |
+| 46 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 47 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 48 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 49 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
+| 50 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
 
 
 
