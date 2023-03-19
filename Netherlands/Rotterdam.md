@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-19 15:16:10 UTC`
+📆 Last Updated: `2023-03-19 16:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
-| 2 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 3 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 4 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
-| 5 | [#grohee](http://twitter.com/search?q=%23grohee) | N/A |
-| 6 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 7 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 8 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 9 | [#exccam](http://twitter.com/search?q=%23exccam) | N/A |
-| 10 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 11 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 12 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 13 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
-| 14 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
-| 15 | [#utrgae](http://twitter.com/search?q=%23utrgae) | N/A |
-| 16 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 19 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 20 | [Willems](http://twitter.com/search?q=Willems) | N/A |
-| 21 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 22 | [Nienke](http://twitter.com/search?q=Nienke) | N/A |
-| 23 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 24 | [Spekman](http://twitter.com/search?q=Spekman) | N/A |
-| 25 | [Lukkien](http://twitter.com/search?q=Lukkien) | N/A |
-| 26 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 27 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 28 | [kramer](http://twitter.com/search?q=kramer) | N/A |
-| 29 | [trauner](http://twitter.com/search?q=trauner) | N/A |
-| 30 | [Hooijdonk](http://twitter.com/search?q=Hooijdonk) | N/A |
-| 31 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 32 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
-| 33 | [MATHIEU VAN DER POEL](http://twitter.com/search?q=MATHIEU+VAN+DER+POEL) | N/A |
-| 34 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 35 | [Marioepol](http://twitter.com/search?q=Marioepol) | N/A |
-| 36 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
-| 37 | [Cillessen](http://twitter.com/search?q=Cillessen) | N/A |
-| 38 | [Emmen](http://twitter.com/search?q=Emmen) | Emmen is a municipality and a town in the northeastern Netherlands. The name Emmen comes from the word "em" which means "water" or "lake". In English, Emmen can be translated to mean "watery place". |
-| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 40 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 41 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 42 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 43 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 44 | [Verrips](http://twitter.com/search?q=Verrips) | N/A |
-| 45 | [SC Heerenveen](http://twitter.com/search?q=SC+Heerenveen) | N/A |
-| 46 | [Pieter Omtzigt](http://twitter.com/search?q=Pieter+Omtzigt) | N/A |
-| 47 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 48 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 49 | [Euroborg](http://twitter.com/search?q=Euroborg) | N/A |
-| 50 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 2 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 3 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 4 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 5 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
+| 6 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 7 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 8 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 9 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 10 | [#vitpsv](http://twitter.com/search?q=%23vitpsv) | N/A |
+| 11 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 12 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 13 | [#exccam](http://twitter.com/search?q=%23exccam) | N/A |
+| 14 | [#grohee](http://twitter.com/search?q=%23grohee) | N/A |
+| 15 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 16 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 17 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 18 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
+| 19 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
+| 20 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
+| 21 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 22 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 23 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
+| 24 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [Geertruida](http://twitter.com/search?q=Geertruida) | N/A |
+| 27 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
+| 28 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
+| 29 | [Willems](http://twitter.com/search?q=Willems) | N/A |
+| 30 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
+| 31 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 32 | [Ajacieden](http://twitter.com/search?q=Ajacieden) | N/A |
+| 33 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 34 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 35 | [Spekman](http://twitter.com/search?q=Spekman) | N/A |
+| 36 | [Lukkien](http://twitter.com/search?q=Lukkien) | N/A |
+| 37 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
+| 38 | [Amsterdamse](http://twitter.com/search?q=Amsterdamse) | N/A |
+| 39 | [Emmen](http://twitter.com/search?q=Emmen) | Emmen is a municipality and a town in the northeastern Netherlands. The name Emmen comes from the word "em" which means "water" or "lake". In English, Emmen can be translated to mean "watery place". |
+| 40 | [#klassieker](http://twitter.com/search?q=%23klassieker) | N/A |
+| 41 | [#fcgroningen](http://twitter.com/search?q=%23fcgroningen) | N/A |
+| 42 | [#ESPN](http://twitter.com/search?q=%23ESPN) | N/A |
+| 43 | [#knvb](http://twitter.com/search?q=%23knvb) | N/A |
+| 44 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
+| 45 | [#Eredivisie](http://twitter.com/search?q=%23Eredivisie) | N/A |
+| 46 | [#carpaccio](http://twitter.com/search?q=%23carpaccio) | N/A |
+| 47 | [#vvvrod](http://twitter.com/search?q=%23vvvrod) | N/A |
+| 48 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
 
 
 

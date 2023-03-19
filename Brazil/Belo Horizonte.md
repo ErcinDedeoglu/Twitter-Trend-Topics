@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-19 15:16:02 UTC`
+📆 Last Updated: `2023-03-19 16:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Luan City](http://twitter.com/search?q=Luan+City) | N/A |
 | 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 4 | [#SkateNaGlobo](http://twitter.com/search?q=%23SkateNaGlobo) | N/A |
-| 5 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 6 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 7 | [Rayssa Leal](http://twitter.com/search?q=Rayssa+Leal) | Rayssa Leal is a Portuguese name. It is derived from the Latin name Rasia, which means “rose”. In English, it can be translated to mean “Rose of God” or “Rose of the Lord”. |
-| 8 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 9 | [Gabi Mazetto](http://twitter.com/search?q=Gabi+Mazetto) | N/A |
-| 10 | [Ipec](http://twitter.com/search?q=Ipec) | N/A |
-| 11 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 12 | [Parabéns Certezas](http://twitter.com/search?q=Parab%c3%a9ns+Certezas) | N/A |
+| 3 | [#SkateNaGlobo](http://twitter.com/search?q=%23SkateNaGlobo) | N/A |
+| 4 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 5 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 7 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 8 | [#JisooDebutMarch31](http://twitter.com/search?q=%23JisooDebutMarch31) | N/A |
+| 9 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 10 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 11 | [ipec](http://twitter.com/search?q=ipec) | N/A |
+| 12 | [Rayssa Leal](http://twitter.com/search?q=Rayssa+Leal) | Rayssa Leal is a Portuguese name. It is derived from the Latin name Rasia, which means “rose”. In English, it can be translated to mean “Rose of God” or “Rose of the Lord”. |
 | 13 | [GABIMARTINS NO SBT](http://twitter.com/search?q=GABIMARTINS+NO+SBT) | N/A |
-| 14 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
-| 15 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 16 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 14 | [Parabéns Certezas](http://twitter.com/search?q=Parab%c3%a9ns+Certezas) | N/A |
+| 15 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
+| 16 | [Gabi Mazetto](http://twitter.com/search?q=Gabi+Mazetto) | N/A |
 | 17 | [São José](http://twitter.com/search?q=S%c3%a3o+Jos%c3%a9) | N/A |
-| 18 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 19 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 20 | [Maria Lúcia](http://twitter.com/search?q=Maria+L%c3%bacia) | N/A |
-| 21 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 22 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 23 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 24 | [Temido](http://twitter.com/search?q=Temido) | N/A |
-| 25 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 26 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 27 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 28 | [Cuscuz](http://twitter.com/search?q=Cuscuz) | N/A |
-| 29 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 30 | [#IvoryCoastChronicles](http://twitter.com/search?q=%23IvoryCoastChronicles) | N/A |
-| 31 | [Muniz Sodré](http://twitter.com/search?q=Muniz+Sodr%c3%a9) | N/A |
-| 32 | [Arthur Cabral](http://twitter.com/search?q=Arthur+Cabral) | N/A |
-| 33 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 34 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 18 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 19 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 20 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 21 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 22 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 23 | [Parabéns Pedro](http://twitter.com/search?q=Parab%c3%a9ns+Pedro) | N/A |
+| 24 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
+| 25 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 26 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 27 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 28 | [Maria Lúcia](http://twitter.com/search?q=Maria+L%c3%bacia) | N/A |
+| 29 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
+| 30 | [Cuscuz](http://twitter.com/search?q=Cuscuz) | N/A |
+| 31 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 32 | [Muniz Sodré](http://twitter.com/search?q=Muniz+Sodr%c3%a9) | N/A |
+| 33 | [Outback](http://twitter.com/search?q=Outback) | N/A |
+| 34 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 | 35 | [Sonhei](http://twitter.com/search?q=Sonhei) | N/A |
-| 36 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 37 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 38 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 39 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
-| 40 | [Militar](http://twitter.com/search?q=Militar) | N/A |
-| 41 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
-| 42 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 43 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 44 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 45 | [Juba](http://twitter.com/search?q=Juba) | N/A |
-| 46 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 47 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 48 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 49 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 50 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 36 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 37 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 38 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 39 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 40 | [Faltam 10](http://twitter.com/search?q=Faltam+10) | N/A |
+| 41 | [Esporte Espetacular](http://twitter.com/search?q=Esporte+Espetacular) | N/A |
+| 42 | [Arthur Cabral](http://twitter.com/search?q=Arthur+Cabral) | N/A |
+| 43 | [Juba](http://twitter.com/search?q=Juba) | N/A |
+| 44 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 45 | [Temido](http://twitter.com/search?q=Temido) | N/A |
+| 46 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 47 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
+| 48 | [Pesquisa](http://twitter.com/search?q=Pesquisa) | N/A |
+| 49 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 50 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
 
 
 

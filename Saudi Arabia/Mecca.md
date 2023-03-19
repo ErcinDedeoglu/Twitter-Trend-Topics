@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-03-19 15:16:25 UTC`
+📆 Last Updated: `2023-03-19 16:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,47 +17,54 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | ------- | ------------ | ------------ |
 | 1 | [#مسابقه_مفتاح_لبن](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d9%85%d9%81%d8%aa%d8%a7%d8%ad_%d9%84%d8%a8%d9%86) | N/A |
 | 2 | [#مسابقه_الملك_سلمان_لحفظ_القران](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d9%84%d8%ad%d9%81%d8%b8_%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
-| 3 | [#اليوم_العالمي_للسعاده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
-| 4 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
-| 5 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 6 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 7 | [ساكا الثاني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%83%d8%a7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 3 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 4 | [#تعليم_مكه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d9%83%d9%87) | N/A |
+| 5 | [#اليوم_العالمي_للسعاده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
+| 6 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 7 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
 | 8 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 9 | [زاها](http://twitter.com/search?q=%d8%b2%d8%a7%d9%87%d8%a7) | N/A |
-| 10 | [هولدينغ](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d8%af%d9%8a%d9%86%d8%ba) | هولدينغ (Holding) is a term used in business and finance to refer to the ownership of a company or asset. It is the act of owning or controlling a certain percentage of the total shares of a company or asset. In English, it can be translated as "holding" or "ownership". |
-| 11 | [كريستال بالاس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84+%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
-| 12 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 13 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 14 | [روما بارك](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 15 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 16 | [السنه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 17 | [اليوم الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 18 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 19 | [مجلس الامه](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 20 | [الاسبوع الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 21 | [اليوم الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
-| 22 | [سعيد المولد](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af) | سعيد المولد is an Arabic phrase that translates to "Happy Birthday" in English. It is a common phrase used to wish someone a happy birthday. |
-| 23 | [التوقيت الزمني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%85%d9%86%d9%8a) | N/A |
-| 24 | [المرحله الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 25 | [#لرفع_هشتاقك_ترند_θ55ちち899θ3](http://twitter.com/search?q=%23%d9%84%d8%b1%d9%81%d8%b9_%d9%87%d8%b4%d8%aa%d8%a7%d9%82%d9%83_%d8%aa%d8%b1%d9%86%d8%af_%ce%b855%e3%81%a1%e3%81%a1899%ce%b83) | N/A |
-| 26 | [#ارسنال](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
-| 27 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 28 | [#زد_رصيدك55](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8355) | N/A |
-| 29 | [#مرزوق_الغانم](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b2%d9%88%d9%82_%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 30 | [#حافلات_الرياض](http://twitter.com/search?q=%23%d8%ad%d8%a7%d9%81%d9%84%d8%a7%d8%aa_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 31 | [#_تغريد](http://twitter.com/search?q=%23_%d8%aa%d8%ba%d8%b1%d9%8a%d8%af) | N/A |
-| 32 | [#رمضان](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 33 | [#بشار_الاسد](http://twitter.com/search?q=%23%d8%a8%d8%b4%d8%a7%d8%b1_%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 34 | [#راقت_لي](http://twitter.com/search?q=%23%d8%b1%d8%a7%d9%82%d8%aa_%d9%84%d9%8a) | N/A |
-| 35 | [#شداد_عبدالمحين_الراجحي](http://twitter.com/search?q=%23%d8%b4%d8%af%d8%a7%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d9%86_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
-| 36 | [#افتحوا_استاد_القاهره](http://twitter.com/search?q=%23%d8%a7%d9%81%d8%aa%d8%ad%d9%88%d8%a7_%d8%a7%d8%b3%d8%aa%d8%a7%d8%af_%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
+| 9 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 10 | [شداد عبدالمحسن الراجحي](http://twitter.com/search?q=%d8%b4%d8%af%d8%a7%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
+| 11 | [ساكا الرابع](http://twitter.com/search?q=%d8%b3%d8%a7%d9%83%d8%a7+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 12 | [ساكا الثاني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%83%d8%a7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 13 | [اوديغارد](http://twitter.com/search?q=%d8%a7%d9%88%d8%af%d9%8a%d8%ba%d8%a7%d8%b1%d8%af) | اوديغارد is an Arabic name that means "Odyssey" in English. It is derived from the Greek word "Ὀδύσσεια" which means a long journey or voyage. |
+| 14 | [زاها](http://twitter.com/search?q=%d8%b2%d8%a7%d9%87%d8%a7) | N/A |
+| 15 | [هولدينغ](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d8%af%d9%8a%d9%86%d8%ba) | هولدينغ (Holding) is a term used in business and finance to refer to the ownership of a company or asset. It is the act of owning or controlling a certain percentage of the total shares of a company or asset. In English, it can be translated as "holding" or "ownership". |
+| 16 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 17 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
+| 18 | [السنه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 19 | [روما بارك](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 20 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 21 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 22 | [مجلس الامه](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 23 | [التوقف الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%81+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 24 | [اليوم الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 25 | [التوقيت الزمني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%85%d9%86%d9%8a) | N/A |
+| 26 | [الاسبوع الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 27 | [اليوم الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
+| 28 | [سعيد المولد](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af) | سعيد المولد is an Arabic phrase that translates to "Happy Birthday" in English. It is a common phrase used to wish someone a happy birthday. |
+| 29 | [#لرفع_هشتاقك_ترند_θ55ちち899θ3](http://twitter.com/search?q=%23%d9%84%d8%b1%d9%81%d8%b9_%d9%87%d8%b4%d8%aa%d8%a7%d9%82%d9%83_%d8%aa%d8%b1%d9%86%d8%af_%ce%b855%e3%81%a1%e3%81%a1899%ce%b83) | N/A |
+| 30 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 31 | [#JisooDebutMarch31](http://twitter.com/search?q=%23JisooDebutMarch31) | N/A |
+| 32 | [#زد_رصيدك55](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8355) | N/A |
+| 33 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 34 | [#بشار_الاسد](http://twitter.com/search?q=%23%d8%a8%d8%b4%d8%a7%d8%b1_%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 35 | [#مرزوق_الغانم](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b2%d9%88%d9%82_%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
+| 36 | [#_تغريد](http://twitter.com/search?q=%23_%d8%aa%d8%ba%d8%b1%d9%8a%d8%af) | N/A |
 | 37 | [#برشلونه_ريال_مدريد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 38 | [#المحكمه_الدستوريه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87_%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 39 | [#كريستيانو_رونالدو](http://twitter.com/search?q=%23%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88_%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | N/A |
-| 40 | [#اليوم_الخليجي_للموهبه_والابداع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a_%d9%84%d9%84%d9%85%d9%88%d9%87%d8%a8%d9%87_%d9%88%d8%a7%d9%84%d8%a7%d8%a8%d8%af%d8%a7%d8%b9) | N/A |
-| 41 | [#اسبوع_الموهبه](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d9%85%d9%88%d9%87%d8%a8%d9%87) | N/A |
-| 42 | [#راعي_الطيب](http://twitter.com/search?q=%23%d8%b1%d8%a7%d8%b9%d9%8a_%d8%a7%d9%84%d8%b7%d9%8a%d8%a8) | N/A |
-| 43 | [#الصراصير_الالكترونيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b5%d8%b1%d8%a7%d8%b5%d9%8a%d8%b1_%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 38 | [#رمضان](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 39 | [#حافلات_الرياض](http://twitter.com/search?q=%23%d8%ad%d8%a7%d9%81%d9%84%d8%a7%d8%aa_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 40 | [#عطور_فيندر](http://twitter.com/search?q=%23%d8%b9%d8%b7%d9%88%d8%b1_%d9%81%d9%8a%d9%86%d8%af%d8%b1) | N/A |
+| 41 | [#افتحوا_استاد_القاهره](http://twitter.com/search?q=%23%d8%a7%d9%81%d8%aa%d8%ad%d9%88%d8%a7_%d8%a7%d8%b3%d8%aa%d8%a7%d8%af_%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
+| 42 | [#راقت_لي](http://twitter.com/search?q=%23%d8%b1%d8%a7%d9%82%d8%aa_%d9%84%d9%8a) | N/A |
+| 43 | [#كريستيانو_رونالدو](http://twitter.com/search?q=%23%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88_%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | N/A |
+| 44 | [#المحكمه_الدستوريه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87_%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 45 | [#اليوم_الخليجي_للموهبه_والابداع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a_%d9%84%d9%84%d9%85%d9%88%d9%87%d8%a8%d9%87_%d9%88%d8%a7%d9%84%d8%a7%d8%a8%d8%af%d8%a7%d8%b9) | N/A |
+| 46 | [#الامارات](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 47 | [#فورمولا1_في_السعوديه](http://twitter.com/search?q=%23%d9%81%d9%88%d8%b1%d9%85%d9%88%d9%84%d8%a71_%d9%81%d9%8a_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 48 | [#اسبوع_الموهبه](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d9%85%d9%88%d9%87%d8%a8%d9%87) | N/A |
+| 49 | [#راعي_الطيب](http://twitter.com/search?q=%23%d8%b1%d8%a7%d8%b9%d9%8a_%d8%a7%d9%84%d8%b7%d9%8a%d8%a8) | N/A |
+| 50 | [#الصراصير_الالكترونيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b5%d8%b1%d8%a7%d8%b5%d9%8a%d8%b1_%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-19 15:16:05 UTC`
+📆 Last Updated: `2023-03-19 16:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#highleague6](http://twitter.com/search?q=%23highleague6) | N/A |
-| 2 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 3 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 4 | [#RCHŁKS](http://twitter.com/search?q=%23RCH%c5%81KS) | N/A |
-| 5 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
-| 6 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 1 | [#RCHŁKS](http://twitter.com/search?q=%23RCH%c5%81KS) | N/A |
+| 2 | [#highleague6](http://twitter.com/search?q=%23highleague6) | N/A |
+| 3 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 4 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 5 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 6 | [Sebastian Szymański](http://twitter.com/search?q=Sebastian+Szyma%c5%84ski) | N/A |
 | 7 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 8 | [Sebastian Szymański](http://twitter.com/search?q=Sebastian+Szyma%c5%84ski) | N/A |
-| 9 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
-| 10 | [Szmyta](http://twitter.com/search?q=Szmyta) | N/A |
-| 11 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
-| 12 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 13 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 14 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 15 | [Gliwicach](http://twitter.com/search?q=Gliwicach) | N/A |
-| 16 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 17 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
-| 18 | [Najman](http://twitter.com/search?q=Najman) | N/A |
-| 19 | [Sroczyńskiego](http://twitter.com/search?q=Sroczy%c5%84skiego) | N/A |
-| 20 | [Maloca](http://twitter.com/search?q=Maloca) | N/A |
-| 21 | [Dera](http://twitter.com/search?q=Dera) | N/A |
-| 22 | [lexy](http://twitter.com/search?q=lexy) | N/A |
-| 23 | [Azji](http://twitter.com/search?q=Azji) | N/A |
-| 24 | [Ema Klinec](http://twitter.com/search?q=Ema+Klinec) | N/A |
-| 25 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
-| 26 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 27 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
-| 28 | [hołowni](http://twitter.com/search?q=ho%c5%82owni) | N/A |
-| 29 | [Egipt](http://twitter.com/search?q=Egipt) | N/A |
-| 30 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
-| 31 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
-| 32 | [daro lew](http://twitter.com/search?q=daro+lew) | N/A |
-| 33 | [Wawelu](http://twitter.com/search?q=Wawelu) | N/A |
-| 34 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
-| 35 | [Widzew - Lech](http://twitter.com/search?q=Widzew+-+Lech) | N/A |
-| 36 | [TikToku](http://twitter.com/search?q=TikToku) | N/A |
-| 37 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 38 | [Międzynarodowy Trybunał Karny](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Trybuna%c5%82+Karny) | N/A |
-| 39 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 40 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 41 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
-| 42 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
-| 43 | [labryga](http://twitter.com/search?q=labryga) | N/A |
-| 44 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
-| 45 | [Haribo](http://twitter.com/search?q=Haribo) | N/A |
-| 46 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 47 | [Cracovia](http://twitter.com/search?q=Cracovia) | N/A |
-| 48 | [Pawliczak](http://twitter.com/search?q=Pawliczak) | N/A |
-| 49 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [Gliwicach](http://twitter.com/search?q=Gliwicach) | N/A |
+| 9 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 10 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 11 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 12 | [Feyenoordu](http://twitter.com/search?q=Feyenoordu) | N/A |
+| 13 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 14 | [Fannemela](http://twitter.com/search?q=Fannemela) | N/A |
+| 15 | [szmyt](http://twitter.com/search?q=szmyt) | N/A |
+| 16 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 17 | [Najman](http://twitter.com/search?q=Najman) | N/A |
+| 18 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 19 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 20 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
+| 21 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 22 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 23 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
+| 24 | [Dera](http://twitter.com/search?q=Dera) | N/A |
+| 25 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
+| 26 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 27 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
+| 28 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 29 | [Ema Klinec](http://twitter.com/search?q=Ema+Klinec) | N/A |
+| 30 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 31 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
+| 32 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 33 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
+| 34 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
+| 35 | [Andersa](http://twitter.com/search?q=Andersa) | N/A |
+| 36 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
+| 37 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 38 | [ŁKSu](http://twitter.com/search?q=%c5%81KSu) | N/A |
+| 39 | [daro lew](http://twitter.com/search?q=daro+lew) | N/A |
+| 40 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
+| 41 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 42 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
+| 43 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 44 | [TikToku](http://twitter.com/search?q=TikToku) | N/A |
+| 45 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
+| 46 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 47 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
+| 48 | [labryga](http://twitter.com/search?q=labryga) | N/A |
+| 49 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
 
 
 
